@@ -3,14 +3,16 @@ import { Chi } from './types';
 /**
  * Mệnh chủ và Thân chủ - 2 sao đặc biệt đại diện cho Mệnh và Thân của lá số.
  *
- * - Mệnh chủ: dựa trên Chi năm sinh
- * - Thân chủ: dựa trên Chi giờ sinh
+ * - Mệnh chủ: dựa trên Chi NĂM sinh
+ * - Thân chủ: dựa trên Chi NĂM sinh
  *
- * (Bắc phái Việt Nam, theo Tử Vi Đẩu Số Toàn Thư)
+ * Cả hai cùng input là chi năm sinh, nhưng khác bảng tra.
+ *
+ * (Bắc phái Việt Nam, theo phong cách user xác nhận)
  */
 
 /**
- * Tra Mệnh chủ theo Chi năm sinh.
+ * Tra Mệnh chủ theo Chi NĂM sinh.
  *
  * Tý        → Tham Lang
  * Sửu, Hợi  → Cự Môn
@@ -34,7 +36,7 @@ export function menhChuTheoChiNam(chiNam: Chi): string {
 }
 
 /**
- * Tra Thân chủ theo Chi giờ sinh.
+ * Tra Thân chủ theo Chi NĂM sinh (không phải chi giờ).
  *
  * Tý         → Hỏa Tinh
  * Ngọ        → Linh Tinh
@@ -44,7 +46,7 @@ export function menhChuTheoChiNam(chiNam: Chi): string {
  * Thìn, Tuất → Văn Xương
  * Tỵ, Hợi    → Thiên Cơ
  */
-export function thanChuTheoChiGio(chiGio: Chi): string {
+export function thanChuTheoChiNam(chiNam: Chi): string {
   const bang: Record<Chi, string> = {
     'Tý': 'Hỏa Tinh',
     'Ngọ': 'Linh Tinh',
@@ -54,5 +56,5 @@ export function thanChuTheoChiGio(chiGio: Chi): string {
     'Thìn': 'Văn Xương', 'Tuất': 'Văn Xương',
     'Tỵ': 'Thiên Cơ', 'Hợi': 'Thiên Cơ',
   };
-  return bang[chiGio];
+  return bang[chiNam];
 }
