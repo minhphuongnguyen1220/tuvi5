@@ -1,0 +1,150 @@
+import { LaSo as LaSoType, Chi } from '@/core/tuvi/types';
+
+/**
+ * Component vẽ lá số 12 cung dạng vuông cổ điển.
+ *
+ * Layout 4x4 grid:
+ *   Tỵ  | Ngọ | Mùi | Thân
+ *   Thìn|  (thông tin chung)| Dậu
+ *   Mão |                   | Tuất
+ *   Dần | Sửu | Tý  | Hợi
+ */
+
+// Vị trí mỗi cung trong grid 4x4: [row, col]
+const VI_TRI_CUNG: Record<Chi, { row: number; col: number }> = {
+  'Tỵ':   { row: 1, col: 1 },
+  'Ngọ':  { row: 1, col: 2 },
+  'Mùi':  { row: 1, col: 3 },
+  'Thân': { row: 1, col: 4 },
+  'Thìn': { row: 2, col: 1 },
+  'Dậu':  { row: 2, col: 4 },
+  'Mão':  { row: 3, col: 1 },
+  'Tuất': { row: 3, col: 4 },
+  'Dần':  { row: 4, col: 1 },
+  'Sửu':  { row: 4, col: 2 },
+  'Tý':   { row: 4, col: 3 },
+  'Hợi':  { row: 4, col: 4 },
+};
+
+interface Props {
+  laSo: LaSoType;
+}
+
+export default function LaSo({ laSo }: Props) {
+  return (
+    <div
+      className="grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border-2 border-amber-900 aspect-square w-full max-w-[800px] mx-auto"
+      style={{ gridTemplateAreas: `
+        "ty ngo mui than"
+        "thin info1 info1 dau"
+        "mao info2 info2 tuat"
+        "dan suu ti hoi"
+      `}}
+    >
+      {laSo.cacCung.map((cung) => {
+        const vt = VI_TRI_CUNG[cung.chi];
+        const isMenh = cung.laMenh;
+        const isThan = cung.laThan;
+        const daiVan = laSo.daiVan.find(dv => dv.cung === cung.chi);
+        const nguyetVan = laSo.nguyetVanCaNam?.find(nv => nv.cung === cung.chi);
+
+        return (
+          <div
+            key={cung.chi}
+            className={`
+              bg-amber-50 p-2 flex flex-col text-xs gap-1
+              ${isMenh ? 'ring-2 ring-red-500 ring-inset' : ''}
+            `}
+            style={{ gridRow: vt.row, gridColumn: vt.col }}
+          >
+            {/* Header row 1: Đại vận (trái) + Nguyệt vận (phải) */}
+            <div className="flex justify-between items-baseline text-[9px] leading-none">
+              <span className="text-blue-700 font-medium">
+                {daiVan ? `${daiVan.tuoiBatDau}-${daiVan.tuoiKetThuc}` : ''}
+              </span>
+              <span className="text-green-700 font-medium">
+                {nguyetVan ? `T${nguyetVan.thangAmLich}` : ''}
+              </span>
+            </div>
+
+            {/* Header row 2: Tên cung + Can-Chi */}
+            <div className="flex justify-between items-start text-[10px] text-amber-900">
+              <span className="font-semibold">{cung.ten}{isThan ? ' (Thân)' : ''}</span>
+              <span className="font-medium">{cung.can[0]}.{cung.chi}</span>
+            </div>
+
+            {/* Chính tinh — ngay dưới header */}
+            <div className="flex flex-col items-center gap-0.5">
+              {cung.saoChinh.map(sao => (
+                <div key={sao.ten} className="text-sm font-bold text-stone-800 leading-tight text-center">
+                  {sao.ten}
+                </div>
+              ))}
+            </div>
+
+            {/* Phần còn lại để trống — chừa chỗ cho phụ tinh / sát tinh (G2 trở đi) */}
+            <div className="flex-1" />
+          </div>
+        );
+      })}
+
+      {/* Phần thông tin chung ở giữa */}
+      <div
+        className="bg-amber-50 p-3 flex flex-col text-xs"
+        style={{ gridArea: 'info1 / info1 / info2 / info2' }}
+      >
+        <div className="font-bold text-amber-900 text-sm mb-2">
+          {laSo.thongTinSinh.hoTen || 'Lá số tử vi'}
+        </div>
+        <div className="space-y-1 text-stone-700">
+          <div>
+            <span className="text-amber-700">Sinh:</span>{' '}
+            {laSo.thongTinSinh.ngaySinh.toLocaleString('vi-VN', {
+              day: '2-digit', month: '2-digit', year: 'numeric',
+              hour: '2-digit', minute: '2-digit',
+            })} ({laSo.thongTinSinh.gioiTinh})
+          </div>
+          <div>
+            <span className="text-amber-700">Âm lịch:</span>{' '}
+            {laSo.thongTinAmLich.ngayAmLich}/{laSo.thongTinAmLich.thangAmLich}
+            {laSo.thongTinAmLich.laThangNhuan ? ' (nhuận)' : ''}/{laSo.thongTinAmLich.namAmLich}
+          </div>
+          <div>
+            <span className="text-amber-700">Tứ trụ:</span>{' '}
+            {laSo.thongTinAmLich.canChiNam.can} {laSo.thongTinAmLich.canChiNam.chi} /{' '}
+            {laSo.thongTinAmLich.canChiThang.can} {laSo.thongTinAmLich.canChiThang.chi} /{' '}
+            {laSo.thongTinAmLich.canChiNgay.can} {laSo.thongTinAmLich.canChiNgay.chi} /{' '}
+            {laSo.thongTinAmLich.canChiGio.can} {laSo.thongTinAmLich.canChiGio.chi}
+          </div>
+          <div>
+            <span className="text-amber-700">Lá số:</span> {laSo.amDuongLaSo}
+          </div>
+          <div>
+            <span className="text-amber-700">Bản mệnh:</span> {laSo.nguHanhNapAm.tenGoi}
+          </div>
+          <div>
+            <span className="text-amber-700">Cục:</span> {laSo.cuc.ten} (số {laSo.cuc.so})
+          </div>
+          <div>
+            <span className="text-amber-700">Mệnh chủ:</span> {laSo.menhChu}
+          </div>
+          <div>
+            <span className="text-amber-700">Thân chủ:</span> {laSo.thanChu}
+          </div>
+          {laSo.tieuVanHienTai && (
+            <div className="pt-2 mt-2 border-t border-amber-200">
+              <span className="text-amber-700">Tiểu vận năm {new Date().getFullYear()}:</span>{' '}
+              cung {laSo.tieuVanHienTai.cung} ({laSo.tieuVanHienTai.tuoi} tuổi mụ)
+            </div>
+          )}
+          {laSo.nguyetVanHienTai && (
+            <div>
+              <span className="text-amber-700">Nguyệt vận T{laSo.nguyetVanHienTai.thangAmLich}:</span>{' '}
+              cung {laSo.nguyetVanHienTai.cung}
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}

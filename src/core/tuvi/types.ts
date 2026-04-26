@@ -153,4 +153,5 @@ export interface LaSo {
   daiVan: DaiVan[];                // 12 đại vận
   tieuVanHienTai?: TieuVan;        // vận năm đang xét
   nguyetVanHienTai?: NguyetVan;    // vận tháng đang xét
+  nguyetVanCaNam?: NguyetVan[];    // 12 nguyệt vận của năm đang xét (1 cho mỗi tháng 1-12)
 }
