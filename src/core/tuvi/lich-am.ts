@@ -50,6 +50,16 @@ export function canChiCuaGio(canNgay: Can, gio: number): CanChi {
 }
 
 /**
+ * Chuẩn hoá Chi từ thư viện về tên user dùng.
+ * Thư viện dùng "Mẹo" (cách đọc cũ), code của mình dùng "Mão" (chuẩn tử vi Bắc phái).
+ * Các Chi khác giống nhau giữa lib và code.
+ */
+function chuanHoaChi(chi: string): Chi {
+  if (chi === 'Mẹo') return 'Mão';
+  return chi as Chi;
+}
+
+/**
  * Đổi ngày dương sang âm + tính Can Chi đầy đủ (năm/tháng/ngày/giờ).
  *
  * @param ngaySinh Ngày sinh dương lịch (Date object phải có giờ + phút chính xác)
@@ -59,15 +69,15 @@ export function doiSangAmLich(ngaySinh: Date): ThongTinAmLich {
 
   const canChiNam: CanChi = {
     can: lunar.lunarYear.can as Can,
-    chi: lunar.lunarYear.chi as Chi,
+    chi: chuanHoaChi(lunar.lunarYear.chi),
   };
   const canChiThang: CanChi = {
     can: lunar.lunarMonth.can as Can,
-    chi: lunar.lunarMonth.chi as Chi,
+    chi: chuanHoaChi(lunar.lunarMonth.chi),
   };
   const canChiNgay: CanChi = {
     can: lunar.lunarDate.can as Can,
-    chi: lunar.lunarDate.chi as Chi,
+    chi: chuanHoaChi(lunar.lunarDate.chi),
   };
   const canChiGio = canChiCuaGio(canChiNgay.can, ngaySinh.getHours());
 
