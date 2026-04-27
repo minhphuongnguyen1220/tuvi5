@@ -154,4 +154,6 @@ export interface LaSo {
   tieuVanHienTai?: TieuVan;        // vận năm đang xét
   nguyetVanHienTai?: NguyetVan;    // vận tháng đang xét
   nguyetVanCaNam?: NguyetVan[];    // 12 nguyệt vận của năm đang xét (1 cho mỗi tháng 1-12)
+  triet?: [Chi, Chi];              // Triệt đóng giữa 2 cung
+  tuan?: [Chi, Chi];               // Tuần đóng giữa 2 cung
 }

@@ -24,6 +24,8 @@ import {
   tinhSaoTheoTamHopNam,
   tinhCoThanQuaTu,
   tinhPhaToai,
+  tinhThienTai, tinhThienTho, tinhDauQuan,
+  tinhTriet, tinhTuan,
 } from './phu-tinh';
 import { CHINH_TINH_LIST } from './types';
 
@@ -255,6 +257,25 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
   if (!phuTinhTheoCung[chiPhaToai]) phuTinhTheoCung[chiPhaToai] = [];
   phuTinhTheoCung[chiPhaToai].push({ ten: 'Phá Toái', loai: 'sát tinh' });
 
+  // 8.24. Thiên Tài (từ cung Mệnh = năm Tý, thuận đến chi năm)
+  const chiThienTai = tinhThienTai(cungMenh, canChiNam.chi);
+  if (!phuTinhTheoCung[chiThienTai]) phuTinhTheoCung[chiThienTai] = [];
+  phuTinhTheoCung[chiThienTai].push({ ten: 'Thiên Tài', loai: 'phụ tinh' });
+
+  // 8.25. Thiên Thọ (từ cung an Thân = năm Tý, thuận đến chi năm)
+  const chiThienTho = tinhThienTho(cungThan, canChiNam.chi);
+  if (!phuTinhTheoCung[chiThienTho]) phuTinhTheoCung[chiThienTho] = [];
+  phuTinhTheoCung[chiThienTho].push({ ten: 'Thiên Thọ', loai: 'phụ tinh' });
+
+  // 8.26. Đẩu Quân (chi năm là tháng 1, nghịch đến tháng sinh; tại đó là giờ Tý, thuận đến giờ sinh)
+  const chiDauQuan = tinhDauQuan(canChiNam.chi, amLich.thangAmLich, gioSinh);
+  if (!phuTinhTheoCung[chiDauQuan]) phuTinhTheoCung[chiDauQuan] = [];
+  phuTinhTheoCung[chiDauQuan].push({ ten: 'Đẩu Quân', loai: 'phụ tinh' });
+
+  // 8.27. Triệt + Tuần (đóng giữa 2 cung)
+  const triet = tinhTriet(canChiNam.can);
+  const tuan = tinhTuan(canChiNam.can, canChiNam.chi);
+
   // 9. Tạo cấu trúc CungTrongLaSo cho từng cung
   const cacCung: CungTrongLaSo[] = cung12.map(c => ({
     ten: c.tenCung,
@@ -301,5 +322,7 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
     tieuVanHienTai,
     nguyetVanHienTai,
     nguyetVanCaNam,
+    triet,
+    tuan,
   };
 }

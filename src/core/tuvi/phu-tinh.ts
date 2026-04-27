@@ -535,6 +535,80 @@ export function tinhPhaToai(chiNamSinh: Chi): Chi {
   return 'Sửu'; // Tứ mộ
 }
 
+/**
+ * Thiên Tài: từ cung Mệnh = năm Tý, thuận đến chi năm sinh.
+ */
+export function tinhThienTai(chiCungMenh: Chi, chiNamSinh: Chi): Chi {
+  const idxKhoi = CHI_LIST.indexOf(chiCungMenh);
+  const idxNam = CHI_LIST.indexOf(chiNamSinh);
+  return CHI_LIST[mod12(idxKhoi + idxNam)];
+}
+
+/**
+ * Thiên Thọ: từ cung an Thân = năm Tý, thuận đến chi năm sinh.
+ */
+export function tinhThienTho(chiCungThan: Chi, chiNamSinh: Chi): Chi {
+  const idxKhoi = CHI_LIST.indexOf(chiCungThan);
+  const idxNam = CHI_LIST.indexOf(chiNamSinh);
+  return CHI_LIST[mod12(idxKhoi + idxNam)];
+}
+
+/**
+ * Đẩu Quân: 2 bước.
+ *   1) Từ chi năm sinh = THÁNG 1, NGHỊCH đến tháng sinh âm → cung X
+ *   2) Tại X = GIỜ Tý, THUẬN đến giờ sinh → cung Đẩu Quân
+ */
+export function tinhDauQuan(
+  chiNamSinh: Chi,
+  thangSinhAmLich: number,
+  gioSinh: number,
+): Chi {
+  const idxNam = CHI_LIST.indexOf(chiNamSinh);
+  // Bước 1: nghịch (thangSinh - 1) bước
+  const idxThangSinh = mod12(idxNam - (thangSinhAmLich - 1));
+  // Bước 2: thuận chi giờ sinh idx
+  const idxChiGio = CHI_LIST.indexOf(chiCuaGio(gioSinh));
+  return CHI_LIST[mod12(idxThangSinh + idxChiGio)];
+}
+
+/**
+ * Triệt: theo Can năm sinh — đóng GIỮA 2 cung.
+ *   Giáp/Kỷ   → Thân-Dậu
+ *   Ất/Canh   → Ngọ-Mùi
+ *   Bính/Tân  → Thìn-Tỵ
+ *   Nhâm/Đinh → Dần-Mão
+ *   Mậu/Quý   → Tý-Sửu
+ */
+const BANG_TRIET: Record<Can, [Chi, Chi]> = {
+  'Giáp': ['Thân', 'Dậu'], 'Kỷ': ['Thân', 'Dậu'],
+  'Ất': ['Ngọ', 'Mùi'],   'Canh': ['Ngọ', 'Mùi'],
+  'Bính': ['Thìn', 'Tỵ'], 'Tân': ['Thìn', 'Tỵ'],
+  'Đinh': ['Dần', 'Mão'], 'Nhâm': ['Dần', 'Mão'],
+  'Mậu': ['Tý', 'Sửu'],   'Quý': ['Tý', 'Sửu'],
+};
+export function tinhTriet(canNamSinh: Can): [Chi, Chi] {
+  return BANG_TRIET[canNamSinh];
+}
+
+/**
+ * Tuần: theo Can+Chi năm sinh — đóng GIỮA 2 cung.
+ *   Khởi Giáp tại chi năm, đếm NGHỊCH qua thứ tự Can (Giáp→Ất→Bính→...→Quý)
+ *   đến Can năm sinh, từ đó 2 cung tiếp theo NGHỊCH = Tuần.
+ *
+ * Ví dụ Ất Hợi: Giáp tại Hợi → Ất tại Tuất → Tuần ở Thân-Dậu (2 cung nghịch tiếp).
+ */
+const CAN_INDEX_LIST: Can[] = ['Giáp','Ất','Bính','Đinh','Mậu','Kỷ','Canh','Tân','Nhâm','Quý'];
+export function tinhTuan(canNamSinh: Can, chiNamSinh: Chi): [Chi, Chi] {
+  const canIdx = CAN_INDEX_LIST.indexOf(canNamSinh);
+  const chiIdx = CHI_LIST.indexOf(chiNamSinh);
+  // Vị trí Can năm = chi năm - canIdx (nghịch)
+  const idxCanNam = mod12(chiIdx - canIdx);
+  // Tuần ở 2 cung tiếp nghịch
+  const idxTuan1 = mod12(idxCanNam - 1);
+  const idxTuan2 = mod12(idxCanNam - 2);
+  return [CHI_LIST[idxTuan2], CHI_LIST[idxTuan1]];
+}
+
 export const BANG_TU_HOA: Record<Can, { loc: string; quyen: string; khoa: string; ky: string }> = {
   'Giáp': { loc: 'Liêm Trinh',  quyen: 'Phá Quân',    khoa: 'Vũ Khúc',     ky: 'Thái Dương' },
   'Ất':   { loc: 'Thiên Cơ',    quyen: 'Thiên Lương', khoa: 'Tử Vi',       ky: 'Thái Âm' },
