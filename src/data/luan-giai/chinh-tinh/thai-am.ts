@@ -1169,4 +1169,410 @@ Nếu hội thêm **Hóa Kỵ** (đương số **tuổi Ất**):
 (Đây là cách **"biến cảnh"** — Thái Âm tại Hợi không sợ Hóa Kỵ, ngược lại biến
 đổi thành lợi.)`,
   },
+
+  // ============================================================
+  // 30. Thái Âm tại Quan Lộc
+  // ============================================================
+  {
+    id: 'thai-am-tai-quan-loc',
+    title: 'Thái Âm tại Quan Lộc',
+    sao: ['Thái Âm'],
+    cung: ['Quan Lộc'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm tại Quan Lộc:** khác Thái Dương chủ Quý, Thái Âm chủ **Phú,
+tài lộc** — cần thêm **Văn Xương, Vũ Khúc** mới chủ về **địa vị xã hội**.
+
+✅ **Miếu / Vượng:** sự nghiệp ổn định, may mắn, dễ thành công.
+⚠️ **Lạc Hãm:** sự nghiệp biến động, **khó tích lũy tài sản**.
+
+**Cách thức:** Thái Âm thiên về **lập kế hoạch** chứ không tự mình hành động →
+nên làm **lập kế hoạch, quản lý tài chính**, ...`,
+
+    chiTiet: `## Tính chất
+
+Khác với Thái Dương chủ về **Quý**, Thái Âm chủ về **Phú, tài lộc**.
+
+→ Phải cần có **Văn Xương + Vũ Khúc** thì mới chủ về có **địa vị trong xã hội**.
+
+## Theo vị trí
+
+**Miếu / Vượng:**
+- Sự nghiệp **ổn định**
+- **May mắn**
+- Dễ thành công trong sự nghiệp
+
+⚠️ **Lạc Hãm:**
+- Sự nghiệp **biến động**
+- **Khó tích lũy tài sản**
+
+## Cách làm việc phù hợp
+
+Thái Âm là sao có tiền tài nhưng **thiên về lập kế hoạch để làm giàu** chứ
+không chủ về tự mình hành động.
+
+→ Khi thủ cung Quan Lộc nên làm việc ở các vị trí như:
+- **Lập kế hoạch**
+- **Quản lý tài chính**
+- ...`,
+  },
+
+  // ============================================================
+  // 31. Thái Âm tại Tài Bạch
+  // ============================================================
+  {
+    id: 'thai-am-tai-tai-bach',
+    title: 'Thái Âm tại Tài Bạch',
+    sao: ['Thái Âm'],
+    cung: ['Tài Bạch'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm là phú tinh, chủ tích lũy** → giỏi **lên kế hoạch sử dụng
+tiền hiệu quả**, nhờ đó giàu có.
+
+✅ **Hóa Lộc + Lộc Tồn + Hóa Quyền:** tăng khả năng quản lý tài chính, dư giả.
+✅ **Hóa Khoa:** tăng nổi tiếng + quản lý tài chính.
+
+**Theo vị trí:**
+- **Miếu / Đắc / Vượng:** giàu có, dễ kiếm tiền, công việc thuận lợi
+- **Tỵ, Hợi (hãm):** kém hơn nhưng **chủ về Quý** — đây là **hai vị trí duy nhất
+  của Thái Âm chủ về quyền lực**`,
+
+    chiTiet: `## Tính chất
+
+Thái Âm là **phú tinh** nhưng **chủ về tích lũy** → giỏi:
+- **Lên kế hoạch để sử dụng tiền bạc một cách hiệu quả**
+
+→ Nhờ đó mà trở nên giàu có.
+
+## Cát kết hợp
+
+**Hóa Lộc + Lộc Tồn + Hóa Quyền:**
+- Tăng khả năng **quản lý tài chính**
+- Chủ về **dư giả**
+
+**Hóa Khoa:**
+- Tăng **sự nổi tiếng**
+- Tăng **quản lý tài chính**
+
+## Theo vị trí
+
+**Miếu / Đắc / Vượng:**
+- **Giàu có**
+- **Dễ kiếm tiền**
+- Công việc **thuận lợi**
+
+**Hãm địa tại Tỵ, Hợi:**
+- Kém hơn về tài
+- Nhưng **chủ về Quý**
+- Đây là **hai vị trí duy nhất của Thái Âm chủ về quyền lực**`,
+  },
+
+  // ============================================================
+  // 32. Thái Âm tại Phu Thê
+  // ============================================================
+  {
+    id: 'thai-am-tai-phu-the',
+    title: 'Thái Âm tại Phu Thê',
+    sao: ['Thái Âm'],
+    cung: ['Phu Thê'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm Miếu / Vượng tại Phu Thê:** sớm lập gia đình, **vợ chồng
+hòa thuận, hạnh phúc**.
+
+✅ **Nữ mệnh — Thái Âm tại cung Thìn + cát tinh:** đến **trung niên chồng sẽ
+hưng phát**.
+
+✅ **Nam mệnh:** chủ về được **nhà vợ giúp đỡ** mà thành công.`,
+
+    chiTiet: `## Miếu / Vượng
+
+Thái Âm ở vị trí **Miếu, Vượng** địa tại Phu Thê:
+- **Sớm lập gia đình**
+- **Vợ chồng hòa thuận**
+- **Hạnh phúc**
+
+## Đặc biệt
+
+**Nữ mệnh:** Thái Âm tại **cung Thìn** có **cát tinh** → đến **trung niên chồng
+sẽ hưng phát**.
+
+**Nam mệnh:** chủ về được **nhà vợ giúp đỡ** mà thành công.`,
+  },
+
+  // ============================================================
+  // 33. Thái Âm tại Phụ Mẫu
+  // ============================================================
+  {
+    id: 'thai-am-tai-phu-mau',
+    title: 'Thái Âm tại Phụ Mẫu',
+    sao: ['Thái Âm'],
+    cung: ['Phụ Mẫu'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm tại Phụ Mẫu:** chủ về sự **ly biệt**.
+
+✅ **Nhập Miếu:** hóa giải điều hung.
+⚠️ **Lạc hãm:** bất lợi ở **mẹ** — nhẹ thì **cô độc, bé không được chăm sóc**;
+nặng thì **rời xa cha mẹ**.
+
+→ Thái Âm tại Phụ Mẫu **không nên ở vị trí Hãm địa**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thái Âm ở cung Phụ Mẫu chủ về sự **ly biệt**.
+
+## Theo vị trí
+
+**Nhập Miếu:**
+- **Hóa giải** điều hung hạn
+
+⚠️ **Lạc Hãm:**
+- Bất lợi ở **mẹ**
+- **Nhẹ:** cô độc, bé không được chăm sóc
+- **Nặng:** rời xa cha mẹ
+
+## Khuyến nghị
+
+Thái Âm ở cung Phụ Mẫu **không nên ở vị trí Hãm địa**.`,
+  },
+
+  // ============================================================
+  // 34. Thái Âm tại Thiên Di
+  // ============================================================
+  {
+    id: 'thai-am-tai-thien-di',
+    title: 'Thái Âm tại Thiên Di',
+    sao: ['Thái Âm'],
+    cung: ['Thiên Di'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm tại Thiên Di:** khác Thái Dương — **không nên quá bộc lộ
+tài năng** vì dễ chuốc **thị phi, oán trách sau lưng**.
+
+✅ **Đắc địa:** dễ dàng **xuất ngoại**; ở cung **Thân** còn có thể **định cư
+nước ngoài**.
+✅ **Miếu địa:** rất tốt — có **nhiều tài sản**, ra ngoài được **nhiều người
+giúp đỡ**.`,
+
+    chiTiet: `## Đặc điểm
+
+Thái Âm khác với Thái Dương → nếu **quá bộc lộ tài năng** thì dễ chuốc:
+- **Thị phi**
+- **Oán trách sau lưng**
+
+## Theo vị trí
+
+**Đắc địa:**
+- Có số dễ dàng **xuất ngoại**
+- Ở **cung Thân** còn có thể **định cư ở nước ngoài**
+
+**Miếu địa:**
+- Rất tốt
+- Có **nhiều tài sản**
+- Ra ngoài được **nhiều người giúp đỡ**`,
+  },
+
+  // ============================================================
+  // 35. Thái Âm tại Nô Bộc
+  // ============================================================
+  {
+    id: 'thai-am-tai-no-boc',
+    title: 'Thái Âm tại Nô Bộc',
+    sao: ['Thái Âm'],
+    cung: ['Nô Bộc'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm tại Nô Bộc:** **giao du rộng**, nhiều **bạn bè khác phái**
+và được giúp đỡ.
+
+✅ **Hóa Lộc:** được bạn bè / cấp dưới tài giỏi trợ giúp → **giàu có**.
+⚠️ **Hóa Kỵ:** bị liên lụy → **phá tài, thất bại vì bạn bè hoặc cấp dưới**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thái Âm tại cung Nô Bộc chủ về:
+- **Giao du rộng**
+- Có nhiều **bạn bè khác phái**
+- Được **giúp đỡ**
+
+## Cát kết hợp
+
+**Hóa Lộc:**
+- Được bạn bè, cấp dưới **tài giỏi trợ giúp**
+- → Trở nên **giàu có**
+
+## ⚠️ Hung kết hợp
+
+**Hóa Kỵ:**
+- Bị **liên lụy** mà **phá tài**
+- **Thất bại vì bạn bè hoặc cấp dưới**`,
+  },
+
+  // ============================================================
+  // 36. Thái Âm tại Tử Tức
+  // ============================================================
+  {
+    id: 'thai-am-tai-tu-tuc',
+    title: 'Thái Âm tại Tử Tức',
+    sao: ['Thái Âm'],
+    cung: ['Tử Tức'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm tại Tử Tức:** **nhiều may mắn, thuận lợi về nuôi dạy con cái**.
+
+✅ **Miếu / Vượng:** **đông con**.
+✅ + **các sao Lộc:** con cái **giàu có**.
+⚠️ **Lạc Hãm:** con cái có phần **nhu nhược, hướng nội** hơn.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Cung Tử Tức có sao Thái Âm:
+- **Nhiều may mắn**
+- **Thuận lợi về nuôi dạy con cái**
+
+## Theo vị trí
+
+**Miếu / Vượng:**
+- Đều **đông con**
+- Gặp các **sao Lộc** → con cái **giàu có**
+
+**Lạc Hãm:**
+- Con cái có phần **nhu nhược**
+- **Hướng nội** hơn`,
+  },
+
+  // ============================================================
+  // 37. Thái Âm tại Huynh Đệ
+  // ============================================================
+  {
+    id: 'thai-am-tai-huynh-de',
+    title: 'Thái Âm tại Huynh Đệ',
+    sao: ['Thái Âm'],
+    cung: ['Huynh Đệ'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm thủ Huynh Đệ + có sao hình:** chủ về có **chị em gái**.
+
+✅ **Nam mệnh — Thái Âm ở cung Hợi:** thường được **chị em gái giúp đỡ** hoặc
+hay **hợp tác, làm ăn với phái nữ**.`,
+
+    chiTiet: `## Đặc điểm
+
+Thái Âm thủ cung Huynh Đệ, **có sao hình** → chủ về có **chị em gái**.
+
+## Đặc biệt: Nam mệnh + Thái Âm ở cung Hợi
+
+- Thường được **chị em gái giúp đỡ**
+- Hoặc hay **hợp tác, làm ăn với phái nữ**`,
+  },
+
+  // ============================================================
+  // 38. Thái Âm tại Điền Trạch
+  // ============================================================
+  {
+    id: 'thai-am-tai-dien-trach',
+    title: 'Thái Âm tại Điền Trạch',
+    sao: ['Thái Âm'],
+    cung: ['Điền Trạch'],
+    doUuTien: 85,
+    tomTat: `**Thái Âm chủ Phú** → thủ Điền Trạch có lợi trong **chuyện đất cát**.
+Có sao cát → có **tổ nghiệp kế thừa** + có thể **tự mua thêm**.
+
+✅ **Nhập Miếu:** nhà ở **nơi yên tĩnh**.
+⚠️ **Lạc hãm + sát tinh:** ở nơi **đông đúc, ồn ào**.
+
+**Tổ hợp đặc biệt:**
+- **Thiên Đồng + Thái Âm tại Điền:** có lợi cho **trồng trọt, chăn nuôi**
+- **Thiên Cơ + Thái Âm tại Điền:** hay phải **dời chuyển**, khó ổn định một nơi`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thái Âm chủ về **Phú** → thủ cung Điền Trạch có lợi trong **chuyện đất cát**.
+
+**Nếu có sao cát:**
+- Có **tổ nghiệp kế thừa**
+- Cũng có thể **tự mua thêm**
+
+## Theo vị trí
+
+**Nhập Miếu:**
+- Nhà ở **nơi yên tĩnh**
+
+⚠️ **Lạc hãm hội sát tinh:**
+- Ở nơi **đông đúc, ồn ào**
+
+## Tổ hợp đặc biệt
+
+**Thiên Đồng + Thái Âm tại cung Điền:**
+- Có lợi cho **trồng trọt, chăn nuôi**
+
+**Thiên Cơ + Thái Âm tại cung Điền:**
+- Hay phải **dời chuyển**
+- **Khó ổn định tại một nơi**`,
+  },
+
+  // ============================================================
+  // 39. Thái Âm tại Phúc Đức
+  // ============================================================
+  {
+    id: 'thai-am-tai-phuc-duc',
+    title: 'Thái Âm tại Phúc Đức',
+    sao: ['Thái Âm'],
+    cung: ['Phúc Đức'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm tại Phúc Đức:** thích **yên tĩnh**, không ưa náo nhiệt.
+
+✅ **Miếu địa:** **lạc quan, biết hưởng thụ đời sống tinh thần**, **phúc lộc
+song toàn, sống thọ, vui vẻ thoải mái đến già**.
+
+⚠️ **Hãm địa:** **năng lực cạnh tranh không mạnh**.
+
+⚠️ **Miếu địa + Địa Không + Địa Kiếp:** sẽ thành **vô tâm**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thông thường chỉ người thích sự **yên tĩnh**, **không ưa náo nhiệt**.
+
+## Theo vị trí
+
+⚠️ **Hãm địa:**
+- **Năng lực cạnh tranh không mạnh**
+
+**Miếu địa:**
+- Thường **lạc quan**
+- **Biết hưởng thụ đời sống tinh thần**
+- **Phúc lộc song toàn**
+- **Sống thọ**
+- **Vui vẻ thoải mái đến già**
+
+## ⚠️ Miếu địa + Địa Không + Địa Kiếp
+
+- Sẽ thành **vô tâm**`,
+  },
+
+  // ============================================================
+  // 40. Thái Âm tại Tật Ách
+  // ============================================================
+  {
+    id: 'thai-am-tai-tat-ach',
+    title: 'Thái Âm tại Tật Ách',
+    sao: ['Thái Âm'],
+    cung: ['Tật Ách'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm chủ về Mắt** → thủ Tật Ách đặc biệt dễ mắc các bệnh về
+mắt — xu hướng cao là **cận thị, loạn thị**, ...
+
+Ngoài ra còn có thể bị mắc các bệnh liên quan đến **thần kinh, máu huyết**, ...`,
+
+    chiTiet: `## Bệnh về mắt
+
+Thái Âm cũng chủ về **mắt** → thủ cung Tật Ách thì **đặc biệt dễ mắc các bệnh
+về mắt**.
+
+Xu hướng cao:
+- **Cận thị**
+- **Loạn thị**
+- ...
+
+## Bệnh khác
+
+Ngoài ra còn có thể bị mắc các bệnh liên quan đến:
+- **Thần kinh**
+- **Máu huyết**
+- ...`,
+  },
 ];
