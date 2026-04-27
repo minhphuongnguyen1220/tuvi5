@@ -592,4 +592,276 @@ Cách "Thiên Lương Củng Nguyệt" — **Thiên Lương chầu về mặt tr
 - Hoặc **mất mạng vì tửu sắc**
 - Hoặc **phá gia bại sản**`,
   },
+
+  // ============================================================
+  // 19. Thái Âm tại Mệnh - Tính cách & dung mạo
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-tinh-cach-dung-mao',
+    title: 'Thái Âm tại Mệnh - Tính cách & dung mạo',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    doUuTien: 85,
+    tomTat: `**Thái Âm tại Mệnh:** khuôn mặt **tròn**, nước da sáng, ánh mắt hiền
+hòa. Miếu vượng → thần sắc nhu nhuận, phúc hậu. Bản chất **Thủy** → **ôn hòa,
+nhu mì**, ứng xử khéo léo, biết tiến lùi đúng mực.
+
+**Đa sầu đa cảm**, dễ rung động trước cái đẹp, có xu hướng quan tâm chăm sóc
+người khác (đặc biệt rõ ở **nữ mệnh** — cần được yêu thương che chở).
+
+**Học vấn tốt**, năng khiếu **văn học, thẩm mỹ, ngoại giao, mỹ thuật**. Ưa
+**hưởng thụ** — ăn ngon mặc đẹp, gu thẩm mỹ cao, chi tiêu thoáng tay.
+
+⚠️ **Hãm địa:** ưu điểm dễ biến thành **buông thả, ham vui, lệ thuộc cảm xúc**,
+tâm lý thiếu ổn định.`,
+
+    chiTiet: `## Dung mạo
+
+- Khuôn mặt **tròn**
+- Nước da **sáng**
+- Ánh mắt **hiền hòa**
+- **Miếu vượng** → thần sắc càng thêm **nhu nhuận, phúc hậu**
+
+## Tâm tính
+
+Bản chất **Thủy** của Thái Âm khiến chủ mệnh thiên về:
+- **Ôn hòa, nhu mì**
+- Ứng xử **khéo léo**
+- Biết **tiến lùi đúng mực**
+
+## Tình cảm & nội tâm
+
+Thái Âm là sao của **tình cảm và nội tâm**:
+- **Giàu cảm xúc**, **đa sầu đa cảm**
+- Dễ rung động trước cái đẹp
+- Có xu hướng quan tâm, chăm sóc người khác
+
+**Đặc biệt với nữ mệnh:** tính chất này càng biểu hiện rõ nét — thể hiện qua
+nhu cầu được **yêu thương, che chở và trân trọng**.
+
+## Học vấn & năng khiếu
+
+Thái Âm chủ về **văn học, thẩm mỹ và sự tinh tế** → chủ mệnh thường:
+- **Học vấn tốt**
+- Năng khiếu **ngôn ngữ, nghệ thuật, ngoại giao, mỹ thuật**
+
+## Sự hưởng thụ
+
+Thái Âm là ngôi sao của **sự hưởng thụ**:
+- Thích **ăn ngon mặc đẹp**
+- Chú trọng không gian sống
+- **Gu thẩm mỹ cao**
+- Chi tiêu **khá thoáng tay**
+
+## ⚠️ Hãm địa
+
+Khi Thái Âm rơi vào hãm địa, các ưu điểm trên dễ biến thành:
+- **Buông thả**
+- **Ham vui**
+- **Lệ thuộc cảm xúc**
+- Khiến tâm lý **thiếu ổn định**`,
+  },
+
+  // ============================================================
+  // 20. Thái Âm tại Mệnh - Sự nghiệp
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-su-nghiep',
+    title: 'Thái Âm tại Mệnh - Sự nghiệp',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm hóa khí Phú & Tài** → đặc biệt phù hợp với **tài chính,
+kinh doanh, đầu tư, ngân hàng, bất động sản**. Ngoài ra văn tinh → thành công
+trong **văn hóa, nghệ thuật, giáo dục, ngoại giao**.
+
+**Cách thức làm việc:** âm thầm, kín đáo, ít phô trương nhưng **hiệu quả bền
+vững**. Giỏi làm việc **hậu trường, quản lý tài sản, hoạch định chiến lược,
+đầu tư dài hạn**.
+
+⚠️ **Hãm địa:** tiền vận vất vả, phải **nương nhờ hoặc đi đường vòng**. Trung
+& hậu vận có thể cải thiện rõ rệt nếu gặp vận tốt hoặc cát tinh nâng đỡ.`,
+
+    chiTiet: `## Lĩnh vực phù hợp
+
+Với **hóa khí là Phú và Tài**, Thái Âm cư Mệnh đặc biệt phù hợp với:
+- **Tài chính**
+- **Kinh doanh**
+- **Đầu tư**
+- **Ngân hàng**
+- **Bất động sản**
+
+Ngoài ra, nhờ tính chất **văn tinh**, đương số cũng dễ thành công trong các
+ngành nghề mang yếu tố:
+- **Văn hóa, nghệ thuật**
+- **Giáo dục**
+- **Ngoại giao**
+
+## Cách thức làm việc
+
+Thái Âm mang tính **âm** → phát triển sự nghiệp theo hướng:
+- **Âm thầm, kín đáo**
+- Ít phô trương
+- **Hiệu quả bền vững**
+
+→ Đây là mẫu người giỏi:
+- **Làm việc hậu trường**
+- **Quản lý tài sản**
+- **Hoạch định chiến lược**
+- **Đầu tư dài hạn**
+
+## Khi Thái Âm cư Quan Lộc
+
+Bản mệnh dễ đảm nhiệm vai trò:
+- **Quản lý**
+- **Điều phối**
+- Các công việc cần **sự thấu hiểu và tinh tế**
+
+## ⚠️ Trường hợp Thái Âm hãm địa
+
+- Giai đoạn **tiền vận thường vất vả**
+- Phải **nương nhờ hoặc đi đường vòng** mới gây dựng được sự nghiệp
+- Tuy nhiên **trung vận và hậu vận** vẫn có cơ hội cải thiện rõ rệt nếu:
+  - Gặp **vận tốt**
+  - Hoặc được **cát tinh nâng đỡ**`,
+  },
+
+  // ============================================================
+  // 21. Thái Âm tại Mệnh - Hôn nhân & bạn đời
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-hon-nhan',
+    title: 'Thái Âm tại Mệnh - Hôn nhân & bạn đời',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    doUuTien: 80,
+    tomTat: `**Nam mệnh — Thái Âm tượng trưng cho VỢ:** Thái Âm sáng tại Mệnh
+hoặc Phu Thê → gặp **vợ hiền lành, đảm đang, biết quán xuyến gia đình**, làm
+kinh tế đi lên sau hôn nhân.
+
+**Nữ mệnh — Thái Âm miếu vượng:** cách **"vượng phu ích tử"** — phụ nữ của gia
+đình, biết vun vén, chăm lo đời sống tinh thần lẫn vật chất.
+
+⚠️ **Duyên ngầm:** Thái Âm + **Đào Hoa, Hồng Loan, Thiên Riêu** → đường tình
+cảm phong phú, dễ được yêu mến nhưng tiềm ẩn nguy cơ **đa tình**, không tiết
+chế sẽ sinh rắc rối tình duyên.`,
+
+    chiTiet: `## Đối với Nam mệnh
+
+Thái Âm ngụ Mệnh **tượng trưng cho người vợ**.
+
+**Khi Thái Âm sáng sủa tại Mệnh hoặc cung Phu Thê:**
+- Đương số dễ gặp người phối ngẫu **hiền lành, đảm đang**
+- Biết **quán xuyến gia đình**
+- Góp phần làm **kinh tế đi lên sau hôn nhân**
+
+## Đối với Nữ mệnh
+
+**Thái Âm miếu vượng** = cách cục **"vượng phu ích tử"**:
+- Mẫu người **phụ nữ của gia đình**
+- Biết **vun vén**
+- Chăm lo **đời sống tinh thần lẫn vật chất** cho người thân
+
+## Duyên ngầm
+
+Do mang tính chất **lãng mạn và giàu cảm xúc**, Thái Âm cũng chủ về **duyên ngầm**.
+
+**Khi hội thêm Đào Hoa + Hồng Loan + Thiên Riêu:**
+- Đường tình cảm thường **phong phú**
+- Dễ được yêu mến
+
+⚠️ Nhưng cũng tiềm ẩn nguy cơ **đa tình** — không tiết chế sẽ sinh rắc rối về
+tình duyên.`,
+  },
+
+  // ============================================================
+  // 22. Thái Âm tại Mệnh - Sức khỏe
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-suc-khoe',
+    title: 'Thái Âm tại Mệnh - Sức khỏe',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    doUuTien: 75,
+    tomTat: `**Thái Âm + Thái Dương = cặp sao chủ về Mắt.**
+
+⚠️ **Mệnh Thái Âm bị ám tinh xâm phạm** (Đà La, Hóa Kỵ, Không Kiếp) hoặc bị
+**Tuần Triệt án ngữ** → dễ gặp **vấn đề thị lực**: cận thị, đau mắt, suy giảm
+thị giác.
+
+⚠️ **Nữ mệnh:** Thái Âm ở Mệnh còn liên quan đến **khí huyết, phụ khoa** và
+các bệnh mang tính âm thầm. Hãm địa cần đặc biệt chú ý chăm sóc **sức khỏe
+sinh sản và tinh thần**.`,
+
+    chiTiet: `## Vấn đề thị lực
+
+Thái Âm cùng Thái Dương là **cặp sao chủ về đôi mắt**.
+
+⚠️ Khi Mệnh Thái Âm bị **ám tinh xâm phạm**:
+- **Đà La**
+- **Hóa Kỵ**
+- **Không Kiếp** (Địa Không, Địa Kiếp)
+- Hoặc bị **Tuần Triệt án ngữ**
+
+→ Đương số dễ gặp các vấn đề về thị lực:
+- **Cận thị**
+- **Đau mắt**
+- **Suy giảm thị giác**
+
+## Riêng nữ mệnh
+
+Thái Âm ở Mệnh còn liên quan đến:
+- **Khí huyết**
+- **Phụ khoa**
+- Các bệnh mang tính **âm thầm**
+
+⚠️ Nếu Thái Âm hãm địa, cần đặc biệt chú ý:
+- Chăm sóc **sức khỏe sinh sản**
+- Chăm sóc **tinh thần**`,
+  },
+
+  // ============================================================
+  // 23. Thái Âm tại Mệnh - Tài lộc
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-tai-loc',
+    title: 'Thái Âm tại Mệnh - Tài lộc',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    doUuTien: 80,
+    tomTat: `**Tài lộc là ƯU THẾ LỚN NHẤT của Thái Âm cung Mệnh.** Khả năng **tích
+lũy tiền bạc và tài sản lâu dài**.
+
+**Thái Âm sáng:** giỏi giữ tiền, biết **đầu tư đất đai, nhà cửa**, dễ sở hữu
+**nhiều bất động sản** theo thời gian. Vận tốt thường ứng vào **mua nhà, mua
+đất, mở rộng tài sản cố định**.
+
+⚠️ **Thái Âm hãm địa:** kiếm tiền vẫn được nhưng vất vả hơn, **tiền vào rồi
+lại ra**. Gặp thêm sát tinh phá cách → **tài lộc tụ tán thất thường**.`,
+
+    chiTiet: `## Ưu thế lớn nhất
+
+Tài lộc chính là **ưu thế lớn nhất** của Thái Âm chủ tinh cung Mệnh.
+
+Ngôi sao này biểu hiện khả năng:
+- **Tích lũy tiền bạc** lâu dài
+- **Tích lũy tài sản** lâu dài
+
+## Khi Thái Âm sáng
+
+Đương số thường:
+- **Giỏi giữ tiền**
+- Biết **đầu tư vào đất đai, nhà cửa**
+- Dễ **sở hữu nhiều bất động sản** theo thời gian
+
+**Khi gặp vận tốt:** Thái Âm thường ứng vào việc:
+- **Mua nhà, mua đất**
+- **Mở rộng tài sản cố định**
+
+## ⚠️ Khi Thái Âm hãm địa
+
+- Khả năng kiếm tiền vẫn tồn tại nhưng **vất vả hơn**
+- Tiền bạc dễ **vào rồi lại ra**
+- Gặp thêm **sát tinh phá cách** → **tài lộc tụ tán thất thường**`,
+  },
 ];
