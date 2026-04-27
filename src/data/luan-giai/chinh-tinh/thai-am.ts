@@ -1,16 +1,595 @@
 import type { DoanLuanGiai } from '../types';
 
 /**
- * LUẬN GIẢI SAO THáI ÂM
- * Xem mẫu trong tu-vi.ts. Thêm các entry vào mảng dưới đây.
+ * LUẬN GIẢI SAO THÁI ÂM
  */
 export const luanGiai_ThaiAm: DoanLuanGiai[] = [
-  // Ví dụ:
-  // {
-  //   id: 'thai-am-tinh-chat-chung',
-  //   sao: ['Thái Âm'],
-  //   doUuTien: 30,
-  //   tomTat: 'Tóm tắt về sao Thái Âm...',
-  //   chiTiet: 'Chi tiết...',
-  // },
+  // ============================================================
+  // 1. Đặc tính chung của sao Thái Âm
+  // ============================================================
+  {
+    id: 'thai-am-tinh-chat-chung',
+    title: 'Thái Âm - Đặc tính chung',
+    sao: ['Thái Âm'],
+    doUuTien: 30,
+    tomTat: `**Thái Âm** thuộc **Bắc Đẩu Tinh**, là **cát tinh**, ngũ hành **Thủy**.
+Tượng trưng cho **mặt trăng**. Hóa khí là **Phú**, **chủ cung Điền Trạch**.
+
+**Tượng:** điền trạch, tài lộc, **Mẹ, Vợ**, sự thanh tao nhẹ nhàng — tinh túy
+của nước.
+
+**Tài lộc:** tích lũy từng bước, ổn định, KHÔNG phát tài đột ngột — thường có
+nhiều nguồn / nhiều nghề.
+
+**Vị trí miếu hãm:**
+- **Đắc viên:** Dậu, Tuất, Hợi, Tý
+- **Hãm địa:** Mão, Thìn, Tỵ, Ngọ
+- **Mọc/Lặn:** Dần, Thân`,
+
+    chiTiet: `## So sánh với Thái Dương
+
+Thái Âm và Thái Dương đều là **chủ nhân của bầu trời**, cai quản đêm và ngày,
+đồng thời chưởng quản giàu có và sang trọng.
+
+- **Thái Dương:** sớm thành công
+- **Thái Âm:** thành tựu **muộn**
+
+## Mức độ sáng theo vị trí
+
+Mức độ sáng của Thái Âm thay đổi tùy theo vị trí địa bàn:
+- **Đắc viên** (sáng): Dậu, Tuất, Hợi, Tý
+- **Hãm địa** (mờ): Mão, Thìn, Tỵ, Ngọ
+- **Mọc / Lặn**: Dần, Thân (giao thoa sáng tối)
+
+## Tính chất tài lộc
+
+Tiền tài của Thái Âm:
+- Thu nhập **cố định**
+- Thường có cơ hội là **nhiều nghề**
+- Có được do **tích lũy dần dần**
+- KHÔNG phải phát tài đột ngột
+
+→ Tình hình tài chính luôn được **ổn định**.`,
+  },
+
+  // ============================================================
+  // 2. Thượng huyền - Hạ huyền (theo lịch âm)
+  // ============================================================
+  {
+    id: 'thai-am-thuong-huyen-ha-huyen',
+    title: 'Thái Âm - Thượng huyền & Hạ huyền',
+    sao: ['Thái Âm'],
+    doUuTien: 35,
+    tomTat: `**Thái Âm chia thành Thượng huyền và Hạ huyền** theo lịch âm:
+- **Thượng huyền** (mùng 7-8 → 15): trăng tròn dần — **cơ yếu**
+- **Hạ huyền** (15 → 22-23): trăng khuyết dần — **giảm uy**
+
+✅ **Cát lợi nhất:** sinh vào **tiết Trung thu tháng 8**, thứ đến là **rằm hàng
+tháng**.
+
+→ Sinh **thượng huyền** → cung có Thái Âm dần **TRỞ NÊN TỐT đẹp**.
+→ Sinh **hạ huyền** → cung có Thái Âm dần **XẤU đi**.`,
+
+    chiTiet: `## Quy luật trăng theo lịch âm
+
+- **Mồng 1:** tối tăm
+- **Mùng 7-8:** thượng huyền — trăng tròn dần
+- **Ngày 15 (rằm):** trăng tròn và sáng nhất
+- **22-23:** hạ huyền — trăng khuyết dần
+
+## Cát lợi theo ngày sinh
+
+**Cát lợi nhất:** sinh vào **tiết Trung thu tháng 8**.
+
+**Thứ nhì:** sinh vào **ngày rằm** hàng tháng.
+
+## Quy luật áp dụng
+
+**Sinh vào thượng huyền:**
+- Thái Âm nằm vào cung nào → sự việc thuộc cung đó **dần trở nên tốt đẹp**
+
+**Sinh vào hạ huyền:**
+- Thái Âm nằm vào cung nào → sự việc thuộc cung đó **dần xấu đi**`,
+  },
+
+  // ============================================================
+  // 3. Bộ sao tốt với Thái Âm
+  // ============================================================
+  {
+    id: 'thai-am-bo-sao-tot',
+    title: 'Thái Âm - Các bộ sao tốt',
+    sao: ['Thái Âm'],
+    doUuTien: 50,
+    tomTat: `**Thái Âm ưa gặp:**
+- **Tam Hóa Lộc Quyền Khoa** — bổ trợ tốt
+- **Lộc Tồn / Hóa Lộc** — tăng vẻ sáng, sinh lực dồi dào không cạn
+- **Hóa Khoa** — nhờ tiền tài mà nổi danh
+- **Lục cát tinh** (Tả Phụ, Hữu Bật, Thiên Khôi, Thiên Việt, Văn Xương, Văn Khúc)
+  + **Lộc Tồn**
+
+**Đặc biệt:**
+- **Thái Âm tại Hợi** không sợ Hóa Kỵ — gọi là **"biến cảnh"** → biến đổi thành lợi
+- **Tuổi Canh** không sợ Thái Âm Hóa Kỵ (vì Thái Dương Hóa Lộc)
+- **Thái Âm + Thái Dương đồng cung / hội chiếu** → Lộc Thái Dương khống chế Kỵ Thái Âm
+- **Thái Âm hãm + Hóa Kỵ:** không nguy hiểm (vì không còn ánh sáng)`,
+
+    chiTiet: `## Tam Hóa Lộc Quyền Khoa
+
+Thái Âm **ưa gặp Tam Hóa** — bổ trợ tốt cho chính mình.
+
+**+ Lộc Tồn / Hóa Lộc:**
+- **Tăng vẻ sáng**
+- Sở hữu **nguồn sinh lực dồi dào không cạn**
+
+**+ Hóa Khoa:**
+- **Nhờ tiền tài mà được nổi danh**
+
+## Lục cát tinh + Lộc Tồn
+
+Thái Âm ưa gặp 6 cát tinh:
+- **Tả Phụ + Hữu Bật**
+- **Thiên Khôi + Thiên Việt**
+- **Văn Xương + Văn Khúc**
+- **Lộc Tồn**
+
+## Hóa giải Hóa Kỵ
+
+**Thái Âm tại Hợi không sợ Hóa Kỵ** — gọi là **"biến cảnh"**, gặp sự biến đổi
+lại thành ra có lợi.
+
+**Người sinh năm Canh không sợ Thái Âm Hóa Kỵ** — vì đã gặp Thái Dương Hóa Lộc.
+
+**Thái Âm + Thái Dương đồng cung hoặc hội chiếu lẫn nhau:**
+- Có thể dùng **Lộc của Thái Dương để khống chế Kỵ của Thái Âm**
+- Mức độ tổn hại sẽ được giảm bớt
+
+**Thái Âm lạc hãm + Hóa Kỵ:**
+- Do bản thân không còn ánh sáng
+- → Không có nguy hiểm gì đáng kể
+
+## Miếu Vượng + Không Kiếp
+
+Thái Âm rơi vào cung **miếu, vượng** mà gặp **Địa Không, Địa Kiếp:**
+- **Bất lợi cho tiền tài**
+- Nhưng **không ảnh hưởng đến khoa danh**`,
+  },
+
+  // ============================================================
+  // 4. Bộ sao xấu với Thái Âm
+  // ============================================================
+  {
+    id: 'thai-am-bo-sao-xau',
+    title: 'Thái Âm - Các bộ sao xấu',
+    sao: ['Thái Âm'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Thái Âm + Cự Môn / Kình Dương / Liêm Trinh / Thất Sát** đồng
+cung hoặc gia hội → bất lợi, **phải chịu thương tàn**. Nhưng nếu **theo nghiệp
+tăng đạo** lại sẽ gặp cát lợi.
+
+⚠️ **Thái Âm hãm địa + sát tinh:**
+- Lộc có **lỗ hổng** — tiền của đến rồi lại đi
+- Một đời vất vả → tốt nhất **xa quê tìm cơ hội**
+- Dễ gặp **vạ vì tiền của**, **họa huyết quang**, phải mổ xẻ phẫu thuật`,
+
+    chiTiet: `## Bộ sát tinh đồng cung
+
+⚠️ Thái Âm cùng các sát tinh đồng cung hoặc gia hội tạo thành tổ hợp **bất lợi**:
+- **Cự Môn**
+- **Kình Dương**
+- **Liêm Trinh**
+- **Thất Sát**
+
+→ Phải chịu **thương tàn**.
+
+**Cứu cánh:** nếu **theo nghiệp tăng đạo** → sẽ gặp cát lợi.
+
+## Hãm + sát tinh
+
+⚠️ Thái Âm rơi vào hãm địa, lại gặp sát tinh:
+
+- **Lộc có lỗ hổng** — tiền của đến rồi lại đi
+- **Một đời vất vả**
+- Tốt nhất là **xa quê tìm cơ hội phát triển**
+- Dễ gặp **vạ vì tiền của**
+- **Họa huyết quang** — phải mổ xẻ phẫu thuật`,
+  },
+
+  // ============================================================
+  // 5. Đặc tính bôn ba (4 cung Mã + Thiên Cơ)
+  // ============================================================
+  {
+    id: 'thai-am-dac-tinh-bon-ba',
+    title: 'Thái Âm - Đặc tính bôn ba',
+    sao: ['Thái Âm'],
+    doUuTien: 35,
+    tomTat: `**Thái Âm = mặt Trăng**, chuyển động quanh mặt trời không ngừng nghỉ
+→ chủ về **bôn ba vất vả**.
+
+⚠️ **Đặc biệt vất vả khi rơi vào 4 cung Mã** (Dần, Thân, Tỵ, Hợi).
+
+⚠️ **Đồng cung Thiên Cơ** → mang tính **lưu động**, dễ **lưu lạc tha hương**,
+tìm đường phát triển tại đất khách.`,
+
+    chiTiet: `## Tính bôn ba của mặt Trăng
+
+Thái Âm — mặt Trăng — chuyển động quanh mặt trời liên tục không ngừng nghỉ
+→ chủ về **bôn ba vất vả**.
+
+**Đặc biệt mệnh càng trở nên vất vả một cách rõ nét** khi Thái Âm rơi vào
+**bốn cung Mã**: **Dần, Thân, Tỵ, Hợi**.
+
+## Đồng cung Thiên Cơ
+
+Nếu Thái Âm nằm đồng cung với **Thiên Cơ** → cũng mang tính **lưu động**:
+- Dễ **lưu lạc tha hương**
+- Tìm đường phát triển tại nơi đất khách`,
+  },
+
+  // ============================================================
+  // 6. Cách "Nhật Nguyệt giáp Mệnh"
+  // ============================================================
+  {
+    id: 'thai-am-cach-nhat-nguyet-giap-menh',
+    title: 'Cách "Nhật Nguyệt giáp Mệnh"',
+    sao: ['Thái Âm'],
+    doUuTien: 70,
+    tomTat: `**Cách "Nhật Nguyệt giáp Mệnh":** Mệnh có **Thiên Phủ** HOẶC **Vũ
+Khúc + Tham Lang** trấn thủ tại **Sửu** hoặc **Mùi**, **Thái Âm và Thái Dương
+kèm hai cung bên cạnh** giáp Mệnh.
+
+→ Chủ về **một đời giàu có**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Cung Mệnh đóng tại Sửu hoặc Mùi**
+- Sao chính ở Mệnh: **Thiên Phủ** HOẶC **Vũ Khúc + Tham Lang**
+- **Thái Âm và Thái Dương kèm ở hai cung bên cạnh** giáp Mệnh
+
+## Ý nghĩa
+
+Cách này chủ về **một đời giàu có**.`,
+  },
+
+  // ============================================================
+  // 7. Cách "Nguyệt Lãng Thiên Môn"
+  // ============================================================
+  {
+    id: 'thai-am-cach-nguyet-lang-thien-mon',
+    title: 'Cách "Nguyệt Lãng Thiên Môn" (trăng sáng cổng trời)',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Hợi'],
+    doUuTien: 90,
+    tomTat: `**"Nguyệt Lãng Thiên Môn" (trăng sáng cổng trời):** Thái Âm **nhập
+miếu, trấn thủ Mệnh tại Hợi**, lại **sinh vào ban đêm**.
+
+→ Chủ về sẽ được **giàu sang**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Thái Âm nhập miếu**
+- **Trấn thủ cung Mệnh tại Hợi**
+- **Sinh vào ban đêm**
+
+## Ý nghĩa
+
+Cách "Nguyệt Lãng Thiên Môn" — **trăng sáng cổng trời** — chủ về sẽ được
+**giàu sang**.`,
+  },
+
+  // ============================================================
+  // 8. Cách "Minh Châu Xuất Hải"
+  // ============================================================
+  {
+    id: 'thai-am-cach-minh-chau-xuat-hai',
+    title: 'Cách "Minh Châu Xuất Hải" (ngọc sáng rời mặt biển)',
+    sao: ['Thái Âm'],
+    chi: ['Hợi'],
+    doUuTien: 80,
+    tomTat: `**"Minh Châu Xuất Hải" (ngọc sáng rời mặt biển):** Cung Mệnh an tại
+**Mùi** (vô chính diệu), **Thái Dương tại Mão** + **Thái Âm tại Hợi** nhập miếu
+giao hội lai chiếu về Mệnh.
+
+→ Chủ về **đường công danh rộng mở**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Cung Mệnh an tại Mùi** (vô chính diệu)
+- **Thái Dương tại Mão**
+- **Thái Âm tại Hợi** nhập miếu
+- Cả hai giao hội lai chiếu về Mệnh
+
+## Ý nghĩa
+
+Cách "Minh Châu Xuất Hải" — **ngọc sáng rời mặt biển** — chủ về **đường công
+danh rộng mở**.`,
+  },
+
+  // ============================================================
+  // 9. Cách "Nhật Nguyệt Tịnh Minh"
+  // ============================================================
+  {
+    id: 'thai-am-cach-nhat-nguyet-tinh-minh',
+    title: 'Cách "Nhật Nguyệt Tịnh Minh" (mặt trăng mặt trời cùng sáng)',
+    sao: ['Thái Âm'],
+    doUuTien: 70,
+    tomTat: `**"Nhật Nguyệt Tịnh Minh" (cùng sáng)** — 2 trường hợp:
+
+1. **Cung Mệnh tại Sửu / Mùi**, Thái Âm + Thái Dương **tam hội**, vượng mà hội chiếu
+2. **Thái Dương tại Thìn / Tỵ + Thái Âm tại Tuất / Dậu**, vượng mà trấn Mệnh
+   lại hội chiếu lẫn nhau
+
+→ Chủ về **sớm được đắc ý**.`,
+
+    chiTiet: `## Trường hợp 1
+
+- **Cung Mệnh an tại Sửu hoặc Mùi**
+- Thái Âm và Thái Dương **tam hội**
+- Vượng mà hội chiếu
+
+## Trường hợp 2
+
+- **Thái Dương ở Thìn / Tỵ**
+- **Thái Âm ở Tuất / Dậu**
+- Cả hai vượng mà trấn Mệnh + hội chiếu lẫn nhau
+
+## Ý nghĩa
+
+Cách "Nhật Nguyệt Tịnh Minh" — **mặt trăng mặt trời cùng sáng** — chủ về
+**sớm được đắc ý**.`,
+  },
+
+  // ============================================================
+  // 10. Cách "Nhật Nguyệt Đồng Lâm"
+  // ============================================================
+  {
+    id: 'thai-am-cach-nhat-nguyet-dong-lam',
+    title: 'Cách "Nhật Nguyệt Đồng Lâm" (mặt trăng mặt trời cùng đến)',
+    sao: ['Thái Âm'],
+    chi: ['Sửu', 'Mùi'],
+    doUuTien: 75,
+    tomTat: `**"Nhật Nguyệt Đồng Lâm":** Thái Âm + Thái Dương **đồng cung tại Sửu
+hoặc Mùi**, trấn Mệnh hoặc chiếu về cung Mệnh.
+
+→ Chủ về **đường quan vận được nhiều lợi thế**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Thái Âm + Thái Dương đồng cung** tại **Sửu** hoặc **Mùi**
+- Trấn Mệnh hoặc chiếu về cung Mệnh
+
+## Ý nghĩa
+
+Cách "Nhật Nguyệt Đồng Lâm" — **mặt trăng mặt trời cùng đến** — chủ về
+**đường quan vận được nhiều lợi thế**.`,
+  },
+
+  // ============================================================
+  // 11. Cách "Nhật Nguyệt Chiếu Bích"
+  // ============================================================
+  {
+    id: 'thai-am-cach-nhat-nguyet-chieu-bich',
+    title: 'Cách "Nhật Nguyệt Chiếu Bích" (mặt trăng mặt trời soi vách)',
+    sao: ['Thái Âm'],
+    cung: ['Điền Trạch'],
+    doUuTien: 90,
+    tomTat: `**"Nhật Nguyệt Chiếu Bích":** Thái Dương + Thái Âm trấn cung **Điền
+Trạch tại Sửu / Mùi**, hoặc nằm tại **Thìn / Tuất chiếu về Điền Trạch**.
+
+→ Chủ về **mệnh phú hào**.`,
+
+    chiTiet: `## Điều kiện cách
+
+**Trường hợp 1:** Thái Dương + Thái Âm trấn cung Điền Trạch tại **Sửu** hoặc **Mùi**.
+
+**Trường hợp 2:** Thái Dương + Thái Âm nằm tại **Thìn** hoặc **Tuất** chiếu về
+cung Điền Trạch.
+
+## Ý nghĩa
+
+Cách "Nhật Nguyệt Chiếu Bích" — **mặt trăng mặt trời soi vách** — chủ về
+**mệnh phú hào**.`,
+  },
+
+  // ============================================================
+  // 12. Cách "Nguyệt Sinh Thương Hải" (= "Thủy Trừng Quế Ngạc")
+  // ============================================================
+  {
+    id: 'thai-am-cach-nguyet-sinh-thuong-hai',
+    title: 'Cách "Nguyệt Sinh Thương Hải" (trăng mọc biển xanh)',
+    sao: ['Thái Âm'],
+    chi: ['Tý'],
+    doUuTien: 85,
+    tomTat: `**"Nguyệt Sinh Thương Hải" (= "Thủy Trừng Quế Ngạc" — nước trong
+hiện cành quế):** Thái Âm + Thiên Đồng trấn **Mệnh tại Tý** hoặc trấn **Điền
+Trạch**.
+
+→ Chủ về được **chức quan cao quý**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Thái Âm + Thiên Đồng** đồng cung
+- Trấn **Mệnh tại Tý** HOẶC trấn **Điền Trạch**
+
+## Tên gọi
+
+- **"Nguyệt Sinh Thương Hải"** — trăng mọc biển xanh
+- Còn gọi là **"Thủy Trừng Quế Ngạc"** — nước trong hiện cành quế
+
+## Ý nghĩa
+
+Chủ về được **chức quan cao quý**.`,
+  },
+
+  // ============================================================
+  // 13. Cách "Cơ Nguyệt Đồng Lương"
+  // ============================================================
+  {
+    id: 'thai-am-cach-co-nguyet-dong-luong',
+    title: 'Cách "Cơ Nguyệt Đồng Lương"',
+    sao: ['Thái Âm'],
+    doUuTien: 60,
+    tomTat: `**"Cơ Nguyệt Đồng Lương":** **Thiên Cơ + Thái Âm + Thiên Đồng + Thiên
+Lương** tập hợp tại **3 cung Mệnh, Tài, Quan**.
+
+→ Có lợi trong các lĩnh vực **văn hóa giáo dục, truyền thông đại chúng**.`,
+
+    chiTiet: `## Điều kiện cách
+
+Bốn sao **Thiên Cơ + Thái Âm + Thiên Đồng + Thiên Lương** tập hợp tại **ba cung
+Mệnh, Tài, Quan**.
+
+## Ý nghĩa
+
+Có lợi trong các lĩnh vực:
+- **Văn hóa giáo dục**
+- **Truyền thông đại chúng**`,
+  },
+
+  // ============================================================
+  // 14. Cách "Thiềm Cung Triết Quế"
+  // ============================================================
+  {
+    id: 'thai-am-cach-thiem-cung-triet-que',
+    title: 'Cách "Thiềm Cung Triết Quế"',
+    sao: ['Thái Âm'],
+    cung: ['Phu Thê'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 90,
+    tomTat: `**"Thiềm Cung Triết Quế":** Thái Âm + **Văn Khúc** cùng đóng tại
+**Phu Thê**, Thái Âm **miếu vượng**, lại gặp cát tinh.
+
+→ Chủ về **nam mệnh thường gặp vợ sang**, **nữ mệnh thường sinh quý tử**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Thái Âm + Văn Khúc** cùng đóng tại **Phu Thê**
+- **Thái Âm miếu vượng**
+- Lại gặp cát tinh
+
+## Ý nghĩa
+
+- **Nam mệnh:** thường **gặp vợ sang**
+- **Nữ mệnh:** thường **sinh quý tử**`,
+  },
+
+  // ============================================================
+  // 15. Cách "Nhật Nguyệt Phản Bội" (XẤU)
+  // ============================================================
+  {
+    id: 'thai-am-cach-nhat-nguyet-phan-boi',
+    title: 'Cách "Nhật Nguyệt Phản Bội" (mặt trăng mặt trời quay lưng)',
+    sao: ['Thái Âm'],
+    doUuTien: 65,
+    tomTat: `⚠️ **"Nhật Nguyệt Phản Bội":** 2 trường hợp:
+
+1. **Cung Mệnh an tại Thìn / Mão**, **Thái Âm lạc hãm trấn Mệnh**, **Thái Dương
+   lạc hãm trấn Thiên Di**
+2. **Cung Mệnh an tại Tuất / Hợi**, **Thái Dương trấn Mệnh**, **Thái Âm lạc hãm
+   cư Thiên Di**
+
+→ Chủ về **mệnh vất vả lao lực**.`,
+
+    chiTiet: `## Trường hợp 1
+
+- **Cung Mệnh an tại Thìn hoặc Mão**
+- **Thái Âm lạc hãm** trấn Mệnh
+- **Thái Dương lạc hãm** trấn Thiên Di
+
+## Trường hợp 2
+
+- **Cung Mệnh an tại Tuất hoặc Hợi**
+- **Thái Dương** trấn thủ Mệnh
+- **Thái Âm lạc hãm** cư Thiên Di
+
+## Ý nghĩa
+
+Cách "Nhật Nguyệt Phản Bội" — **mặt trăng mặt trời quay lưng** — chủ về
+**mệnh vất vả lao lực**.`,
+  },
+
+  // ============================================================
+  // 16. Cách "Nguyệt Đồng Ngộ Sát" (XẤU)
+  // ============================================================
+  {
+    id: 'thai-am-cach-nguyet-dong-ngo-sat',
+    title: 'Cách "Nguyệt Đồng Ngộ Sát"',
+    sao: ['Thái Âm'],
+    chi: ['Ngọ'],
+    doUuTien: 75,
+    tomTat: `⚠️ **"Nguyệt Đồng Ngộ Sát":** Thái Âm + Thiên Đồng **lạc hãm trấn
+Mệnh tại Ngọ**, lại gặp **sát tinh**.
+
+→ Chủ về **mọi việc đều không thuận lợi**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Thái Âm + Thiên Đồng lạc hãm**
+- Trấn Mệnh tại **Ngọ**
+- Lại gặp **sát tinh**
+
+## Ý nghĩa
+
+Cách "Nguyệt Đồng Ngộ Sát" — chủ về **mọi việc đều không thuận lợi**.`,
+  },
+
+  // ============================================================
+  // 17. Cách "Nhật Nguyệt Tật Ách" (XẤU)
+  // ============================================================
+  {
+    id: 'thai-am-cach-nhat-nguyet-tat-ach',
+    title: 'Cách "Nhật Nguyệt Tật Ách"',
+    sao: ['Thái Âm'],
+    cung: ['Tật Ách'],
+    doUuTien: 85,
+    tomTat: `⚠️ **"Nhật Nguyệt Tật Ách":** Thái Dương + Thái Âm **lạc hãm**, trấn
+thủ cung **Tật Ách**.
+
+→ Chủ về **cơ thể có khuyết tật**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Thái Dương + Thái Âm lạc hãm**
+- Trấn thủ cung **Tật Ách**
+
+## Ý nghĩa
+
+Cách "Nhật Nguyệt Tật Ách" — chủ về **cơ thể có khuyết tật**.`,
+  },
+
+  // ============================================================
+  // 18. Cách "Thiên Lương Củng Nguyệt" (XẤU)
+  // ============================================================
+  {
+    id: 'thai-am-cach-thien-luong-cung-nguyet',
+    title: 'Cách "Thiên Lương Củng Nguyệt" (Thiên Lương chầu về mặt trăng)',
+    sao: ['Thái Âm'],
+    chi: ['Thìn'],
+    doUuTien: 75,
+    tomTat: `⚠️ **"Thiên Lương Củng Nguyệt":** Thái Âm trấn Mệnh tại **Thìn**,
+Thiên Lương tại **Thân** lạc hãm hội chiếu (hoặc ngược lại). Tài-Mệnh hội chiếu.
+
+→ Chủ về **một đời nhiều biến động**, **phiêu bạt tha hương**, hoặc **mất mạng
+vì tửu sắc**, hoặc **phá gia bại sản**.`,
+
+    chiTiet: `## Điều kiện cách
+
+**Trường hợp 1:**
+- **Thái Âm trấn Mệnh tại Thìn**
+- **Thiên Lương tại Thân** (lạc hãm) hội chiếu
+
+**Trường hợp 2 (ngược lại):**
+- **Thiên Lương lạc hãm trấn Mệnh** tại Thân
+- **Thái Âm cư Thìn** cũng lạc hãm hội chiếu
+
+Cả hai trường hợp: **Tài-Mệnh hội chiếu**.
+
+## Ý nghĩa
+
+Cách "Thiên Lương Củng Nguyệt" — **Thiên Lương chầu về mặt trăng** — chủ về:
+- **Một đời nhiều biến động**
+- **Phiêu bạt tha hương**
+- Hoặc **mất mạng vì tửu sắc**
+- Hoặc **phá gia bại sản**`,
+  },
 ];
