@@ -292,29 +292,55 @@ Có một điều **khá chính xác:**
   },
 
   // ============================================================
-  // 8. Thất Sát tại Phúc Đức (đặc biệt nữ)
+  // 8. Thất Sát tại Phúc Đức
   // ============================================================
   {
     id: 'that-sat-tai-phuc-duc',
-    title: 'Thất Sát tại Phúc Đức (đặc biệt nữ)',
+    title: 'Thất Sát tại Phúc Đức',
     sao: ['Thất Sát'],
     cung: ['Phúc Đức'],
     doUuTien: 85,
-    tomTat: `⚠️ **Thất Sát đan cư Phúc Đức nữ nhân thiết kị tiện vô nghi.**
+    tomTat: `**Thất Sát tại Phúc Đức:**
 
-→ **Thất Sát vào cung Phúc Đức của số nữ:** tình duyên **không ai không lận
-đận, nhỡ nhàng**.`,
+✅ **Miếu / Vượng:** bản thân có **lý tưởng** nhưng thường **TÀI MÀ KHÔNG GẶP
+THỜI** → sự nghiệp vất vả. Dòng họ có **nhiều người thành đạt giàu có** nhưng
+**dễ ly tán**.
 
-    chiTiet: `## Câu phú cảnh báo
+⚠️ **Hãm địa:** anh em họ hàng **không hòa thuận**.
+
+⚠️ **NỮ MỆNH:** **bất lợi hôn nhân** → nên kết hôn muộn.
+
+> "Thất Sát đan cư Phúc Đức nữ nhân thiết kị tiện vô nghi"
+
+→ Tình duyên nữ Thất Sát Phúc Đức **không ai không lận đận, nhỡ nhàng**.`,
+
+    chiTiet: `## Theo vị trí
+
+**Người có Thất Sát ở Miếu / Vượng tại Phúc Đức:**
+- Bản thân là người có **lý tưởng**
+- Nhưng thường **có tài mà không gặp thời**
+- → Sự nghiệp có phần **vất vả**
+
+## Dòng họ
+
+- Trong dòng họ có **nhiều người thành đạt, giàu có**
+- Nhưng dễ **ly tán**
+
+⚠️ **Nếu ở Hãm địa:**
+- Anh em họ hàng **không hòa thuận nhau**
+
+## ⚠️ Câu phú cảnh báo nữ
 
 > "Thất Sát đan cư Phúc Đức nữ nhân thiết kị tiện vô nghi"
 
 → Nghĩa là: **"Thất Sát đơn cư cung Phúc Đức thì người nữ rất kỵ — chắc chắn
 không nghi ngờ gì."**
 
-## Hệ quả
+## Hệ quả nữ mệnh
 
-Thất Sát vào cung Phúc Đức của **số nữ:**
+Nữ mệnh Thất Sát ở cung Phúc Đức:
+- **Bất lợi về hôn nhân**
+- Nên **kết hôn muộn**
 - **Tình duyên không ai không lận đận, nhỡ nhàng**`,
   },
 
@@ -987,5 +1013,403 @@ Khi hội **Tử Vi + Thiên Phủ:**
 
 - Làm **tăng uy thế**
 - Nhưng cũng đòi hỏi mệnh chủ biết **tiết chế quyền lực**`,
+  },
+
+  // ============================================================
+  // 22. Thất Sát tại Tài Bạch
+  // ============================================================
+  {
+    id: 'that-sat-tai-tai-bach',
+    title: 'Thất Sát tại Tài Bạch',
+    sao: ['Thất Sát'],
+    cung: ['Tài Bạch'],
+    doUuTien: 80,
+    tomTat: `**Thất Sát tại Tài Bạch:** có khả năng **NẮM QUYỀN LỰC TÀI CHÍNH**,
+năng lực **kiến tạo sự nghiệp ở nơi xa**, dư dả tiền bạc.
+
+→ Dù **Miếu / Vượng / Đắc / Hãm** đều **kiếm tiền nhanh chóng**. **+ Sao Lộc**
+→ giàu sang phú quý.
+
+⚠️ **Hãm địa:** "BẠO PHÁT BẠO PHÁ" — kiếm giỏi, nhanh giàu nhưng **xem nhẹ
+đồng tiền**, tiêu nhanh, **khó tích lũy**.
+
+✅ **+ Tham Lang Hóa Lộc** vận hạn cát: **TIỀN BẤT NGỜ** — cần duy trì ổn
+định, **không nên đột phá** (sẽ phá tán).`,
+
+    chiTiet: `## Khả năng tài chính
+
+Thất Sát thủ cung Tài Bạch chủ về:
+- Có khả năng **nắm quyền lực tài chính**
+- Có **năng lực kiến tạo sự nghiệp ở nơi xa**
+- **Dư dả về tiền bạc**
+
+## Theo vị trí
+
+Dù ở **Miếu, Vượng, Đắc hay Hãm** — người có Thất Sát tại Tài đều có khả năng
+**kiếm tiền nhanh chóng**.
+
+**+ Sao Lộc:** càng **giàu sang, phú quý**.
+
+## ⚠️ Hãm địa - "bạo phát bạo phá"
+
+Ở thế hãm địa, sẽ có xu hướng **"bạo phát, bạo phá"**:
+- **Kiếm tiền giỏi, nhanh giàu**
+- Nhưng cũng **xem nhẹ đồng tiền** → tiêu tiền **nhanh**
+- → **Khó tích lũy tài sản**
+
+## ✅ + Tham Lang Hóa Lộc + vận hạn cát
+
+- Thường có **tiền bất ngờ**
+- Cần cố gắng **duy trì thành tựu đã đạt được**
+- **Ổn định** chứ **KHÔNG nên mong muốn đột phá**
+- Nếu không sẽ dễ **phá tán, thất bại**`,
+  },
+
+  // ============================================================
+  // 23. Thất Sát tại Quan Lộc
+  // ============================================================
+  {
+    id: 'that-sat-tai-quan-loc',
+    title: 'Thất Sát tại Quan Lộc',
+    sao: ['Thất Sát'],
+    cung: ['Quan Lộc'],
+    doUuTien: 80,
+    tomTat: `**Thất Sát tại Quan Lộc:**
+
+✅ **Miếu / Vượng / Đắc địa:** công danh **HANH THÔNG, THUẬN LỢI**.
+
+⚠️ **Hãm địa:** **vất vả, khó an nhàn** — việc gì cũng phải **tự mình làm**.
+
+→ **Lời khuyên:** chú trọng **bồi dưỡng cấp dưới**; muốn lãnh đạo phải có
+**"NHU" có "CƯƠNG"** thì mới được người đời tin phục.`,
+
+    chiTiet: `## Theo vị trí
+
+**Miếu / Vượng / Đắc địa:**
+- Công danh sự nghiệp **hanh thông**
+- **Thuận lợi**
+
+⚠️ **Hãm địa:**
+- **Vất vả, khó an nhàn**
+- Việc gì cũng phải **tự mình làm**
+
+## Lời khuyên lãnh đạo
+
+Người có Thất Sát tại Quan Lộc cần:
+- **Bồi dưỡng cấp dưới**
+- Muốn lãnh đạo người khác phải có **"nhu" có "cương"**
+- → Mới được **người đời tin phục**`,
+  },
+
+  // ============================================================
+  // 24. Thất Sát tại Phu Thê
+  // ============================================================
+  {
+    id: 'that-sat-tai-phu-the',
+    title: 'Thất Sát tại Phu Thê',
+    sao: ['Thất Sát'],
+    cung: ['Phu Thê'],
+    doUuTien: 80,
+    tomTat: `**Thất Sát tại Phu Thê:** vợ chồng **khắc khẩu, hay cãi vã** →
+thường **kết hôn muộn**.
+
+✅ **Miếu / Vượng:** bạn đời có **tài quản lý**, vợ chồng có **sự nghiệp riêng**.
+**+ Cát hóa + sao tốt:** bạn đời lý tưởng — nhưng **trước hôn nhân cần trải
+qua sóng gió, trắc trở**.
+
+⚠️ **+ Phá Quân đồng hợp + Hóa Lộc:** **HAI LẦN ĐÒ**, hoặc vợ chồng **"hữu
+danh vô thực"**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Cung Phu Thê có Thất Sát chủ về:
+- Vợ chồng **khắc khẩu**
+- **Hay cãi vã**
+- Thường **kết hôn muộn**
+
+## Cát kết hợp
+
+**Vị trí Miếu / Vượng:**
+- Bạn đời có **tài quản lý**
+- Vợ chồng có **sự nghiệp riêng**
+
+**+ Cát hóa + sao tốt:**
+- Có **bạn đời lý tưởng**
+- Nhưng **trước hôn nhân cần trải qua sóng gió, trắc trở**
+
+## ⚠️ + Phá Quân + Hóa Lộc
+
+Thất Sát + Phá Quân đồng hợp tại Phu Thê + Hóa Lộc:
+- Chủ về phải **2 lần đò**
+- Hoặc vợ chồng **"hữu danh vô thực"**`,
+  },
+
+  // ============================================================
+  // 25. Thất Sát tại Điền Trạch
+  // ============================================================
+  {
+    id: 'that-sat-tai-dien-trach',
+    title: 'Thất Sát tại Điền Trạch',
+    sao: ['Thất Sát'],
+    cung: ['Điền Trạch'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Thất Sát độc tọa Điền Trạch:** **bất lợi mua bán đất đai, nhà
+cửa** — dễ **mất mát, phá sản**.
+
+⚠️ Cũng **không thích hợp làm nghề bất động sản** — trừ khi Thất Sát **sáng
+(Miếu địa)**.
+
+✅ **+ Lộc Tồn / Hóa Lộc:** dù **không có điền sản tổ tiên**, có thể **tự mình
+gây dựng**.`,
+
+    chiTiet: `## ⚠️ Bất lợi BĐS
+
+Thất Sát độc tọa tại cung Điền Trạch thường:
+- **Bất lợi trong việc mua bán đất đai, nhà cửa**
+- Dễ **mất mát**
+- **Phá sản**
+
+→ Cũng **không thích hợp làm nghề liên quan đến bất động sản**, trừ khi Thất
+Sát **sáng (Miếu địa)**.
+
+## ✅ Cát kết hợp - tự gây dựng
+
+**Cung Điền Trạch Thất Sát + Lộc Tồn / Hóa Lộc:**
+- Dù **không có điền sản của ông cha để lại**
+- Cũng có thể **tự mình gây dựng**`,
+  },
+
+  // ============================================================
+  // 26. Thất Sát tại Thiên Di
+  // ============================================================
+  {
+    id: 'that-sat-tai-thien-di',
+    title: 'Thất Sát tại Thiên Di',
+    sao: ['Thất Sát'],
+    cung: ['Thiên Di'],
+    doUuTien: 80,
+    tomTat: `**Thất Sát tại Thiên Di:** chủ về người có **CHỨC TƯỚC, UY QUYỀN**
+→ được mọi người **kính trọng**. Có **NHÂN DUYÊN TỐT**.
+
+✅ **+ Tử Vi / Liêm Trinh đồng cung:** ở **đất khách quê người** cũng có thể
+**lập nên tiếng tăm, tạo dựng cơ nghiệp**.
+
+⚠️ **Hãm địa:** ra ngoài dễ gặp **HUNG HỌA**, gây gổ đánh nhau.
+⚠️ **+ Thiên Hình + Kiếp Sát + Không Kiếp:** **TAI NẠN BẤT NGỜ**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Người có sao Thất Sát tại cung Thiên Di chủ về:
+- Người có **chức tước, uy quyền**
+- → Được mọi người **kính trọng**
+- Có ý nghĩa về **nhân duyên tốt**
+
+## ✅ + Tử Vi / Liêm Trinh đồng cung
+
+- Ở nơi **đất khách quê người** cũng có thể:
+  - **Lập nên tiếng tăm**
+  - **Tạo dựng cơ nghiệp**
+
+## ⚠️ Hãm địa
+
+Ra ngoài dễ gặp:
+- **Hung họa**
+- **Gây gổ, đánh nhau**
+
+## ⚠️ + Thiên Hình + Kiếp Sát + Không Kiếp
+
+- Có thể dẫn đến **tai nạn bất ngờ**`,
+  },
+
+  // ============================================================
+  // 27. Thất Sát tại Nô Bộc
+  // ============================================================
+  {
+    id: 'that-sat-tai-no-boc',
+    title: 'Thất Sát tại Nô Bộc',
+    sao: ['Thất Sát'],
+    cung: ['Nô Bộc'],
+    doUuTien: 80,
+    tomTat: `**Thất Sát tại Nô Bộc:** giao du **không rộng**, **ít bạn bè, cấp dưới**.
+
+✅ **+ Cát tinh hội hợp:** tăng thêm bạn — nhưng vẫn khó nhờ cậy → cần thêm
+**Hóa Lộc / Lộc Tồn**.
+
+✅ **Miếu / Vượng địa:** bạn bè **TỐT, NGHĨA KHÍ**.
+
+⚠️ Tuy nhiên vẫn có khả năng **vì bạn bè mà sự nghiệp tụt dốc**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thất Sát tại cung Nô Bộc chủ về:
+- Người **giao du không rộng**
+- Có **ít bạn bè, cấp dưới**
+
+## Cát kết hợp
+
+**+ Cát tinh hội hợp:**
+- Có thể tăng thêm nhiều bạn
+- Nhưng vẫn khó **nhờ cậy hoặc được trợ giúp**
+
+→ Cần có thêm **Hóa Lộc**, **Lộc Tồn**.
+
+## Miếu / Vượng địa
+
+- Bạn bè **tốt, nghĩa khí**
+
+⚠️ Tuy nhiên vẫn có khả năng **vì bạn bè mà sự nghiệp tụt dốc**.`,
+  },
+
+  // ============================================================
+  // 28. Thất Sát tại Huynh Đệ
+  // ============================================================
+  {
+    id: 'that-sat-tai-huynh-de',
+    title: 'Thất Sát tại Huynh Đệ',
+    sao: ['Thất Sát'],
+    cung: ['Huynh Đệ'],
+    doUuTien: 80,
+    tomTat: `**Thất Sát tại Huynh Đệ:** chủ về **CÔ ĐỘC** — gia đình **ít anh
+chị em**, nếu nhiều thì **sống xa cách / không hòa thuận**.
+
+**Quy tắc:** Thất Sát ở Huynh Đệ → Mệnh **ắt có Thái Âm**. Quan hệ anh em /
+bạn bè dựa vào **độ sáng của Thái Âm**:
+
+✅ **Thái Âm sáng (Miếu / Vượng):** tình cảm anh em, bạn bè **tốt** → chủ
+mệnh được **nhờ cậy**, phát triển sự nghiệp.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Người có Thất Sát tại cung Huynh Đệ chủ về:
+- **Cô độc**
+- Gia đình có **ít anh chị em**
+- Nếu nhiều thì cũng **sống xa cách nhau** hoặc **không hòa thuận**
+
+## Quy tắc cấu trúc lá số
+
+Hễ sao Thất Sát ở cung Huynh Đệ thì **cung Mệnh ắt sẽ có Thái Âm** (cố định).
+
+→ Quan hệ giữa anh em, bạn bè thường dựa vào **độ sáng của sao Thái Âm** mà
+luận giải.
+
+## ✅ Thái Âm sáng (Miếu / Vượng)
+
+- Tình cảm anh em, bạn bè **tốt**
+- Chủ mệnh ắt được **nhờ cậy** mà **phát triển sự nghiệp**`,
+  },
+
+  // ============================================================
+  // 29. Thất Sát tại Tử Tức
+  // ============================================================
+  {
+    id: 'that-sat-tai-tu-tuc',
+    title: 'Thất Sát tại Tử Tức',
+    sao: ['Thất Sát'],
+    cung: ['Tử Tức'],
+    doUuTien: 80,
+    tomTat: `**Thất Sát tại Tử Tức:** **ÍT CON**.
+
+→ Nên sinh **CON GÁI TRƯỚC, CON TRAI SAU** → giảm bớt họa nạn có thể xảy ra.
+
+⚠️ Người có Thất Sát tại Tử Tức ắt sẽ **KHẮT KHE với con cái**, **NUÔI CON
+VẤT VẢ**.
+
+✅ **+ Quang Quý + Giải Thần:** con cái **hiền lành, ngoan ngoãn** hơn.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thất Sát thủ cung Tử Tức chủ về:
+- **Ít con cái**
+
+## Lời khuyên sinh con
+
+- Nên **sinh con gái trước, con trai sau** → tốt hơn
+- Sẽ **giảm bớt họa nạn** có thể xảy ra
+
+## Quan hệ cha mẹ - con cái
+
+⚠️ Người có Thất Sát tại Tử Tức ắt sẽ:
+- **Khắt khe với con cái**
+- **Nuôi con vất vả**
+
+## ✅ Cát kết hợp
+
+**+ Quang Quý + Giải Thần:**
+- Con cái **hiền lành**
+- **Ngoan ngoãn** hơn`,
+  },
+
+  // ============================================================
+  // 30. Thất Sát tại Phụ Mẫu
+  // ============================================================
+  {
+    id: 'that-sat-tai-phu-mau',
+    title: 'Thất Sát tại Phụ Mẫu',
+    sao: ['Thất Sát'],
+    cung: ['Phụ Mẫu'],
+    doUuTien: 80,
+    tomTat: `**Thất Sát tại Phụ Mẫu — KHÔNG phải sao thiện.** Dù nhập Miếu địa,
+chủ mệnh cũng **ÍT GẦN GŨI với song thân**.
+
+Thường chủ về **cha mẹ NGHIÊM KHẮC** hoặc **ít lắng nghe con cái**. Còn có ý
+nghĩa **xa cách với CẤP TRÊN**.
+
+✅ **Miếu / Vượng:** cha mẹ có **sức khỏe tốt, uy quyền** — nhưng cũng **rất
+kiểm soát con cái**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thất Sát ở cung Phụ Mẫu **không phải là sao thiện**:
+- Dù nhập Miếu địa, chủ mệnh cũng **ít gần gũi với song thân**
+
+## Đặc tính cha mẹ
+
+Thường chủ về:
+- Cha mẹ **nghiêm khắc**
+- Hoặc **ít lắng nghe con cái**
+
+→ Ngoài ra cũng có ý nghĩa là **xa cách với cấp trên**.
+
+## ✅ Miếu / Vượng
+
+- Cha mẹ có **sức khỏe tốt**
+- Có **uy quyền**
+- Nhưng cũng **rất kiểm soát con cái**`,
+  },
+
+  // ============================================================
+  // 31. Thất Sát tại Tật Ách
+  // ============================================================
+  {
+    id: 'that-sat-tai-tat-ach',
+    title: 'Thất Sát tại Tật Ách',
+    sao: ['Thất Sát'],
+    cung: ['Tật Ách'],
+    doUuTien: 80,
+    tomTat: `**Thất Sát là HUNG TINH thuộc ÂM KIM** → tại Tật Ách chủ về **bệnh
+ĐƯỜNG HÔ HẤP**:
+- **Ho, hen suyễn**
+- **Viêm phổi, viêm khí quản**
+- ...
+
+⚠️ **Khi nhỏ:** thường xuyên **đau ốm**, bị **thương do vật sắc nhọn** hoặc
+**sự cố giao thông**.`,
+
+    chiTiet: `## Bệnh chính
+
+Thất Sát là **hung tinh thuộc âm Kim** → tại Tật Ách chủ về bệnh liên quan
+đến **đường hô hấp:**
+- **Ho**
+- **Hen suyễn**
+- **Viêm phổi**
+- **Viêm khí quản**
+- ...
+
+## ⚠️ Khi nhỏ
+
+Người có Thất Sát tại Tật Ách khi nhỏ cũng thường:
+- **Xuyên đau ốm**
+- Bị **thương do vật sắc nhọn**
+- Hoặc **sự cố giao thông**`,
   },
 ];
