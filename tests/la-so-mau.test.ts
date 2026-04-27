@@ -65,6 +65,14 @@ for (const sao of CHINH_TINH_LIST) {
   saoTheoCung[chi].push(sao);
 }
 
+// Vòng Trường Sinh
+import { tinhVongTruongSinh, VONG_TRUONG_SINH } from '../src/core/tuvi/phu-tinh';
+const vts = tinhVongTruongSinh(cuc, amDuongLaSo);
+console.log('\n=== Vòng Trường Sinh (Cục Thổ Ngũ → khởi Thân, Dương Nữ → đi nghịch) ===');
+for (const sao of VONG_TRUONG_SINH) {
+  console.log(`  ${sao.padEnd(11)} → ${vts[sao]}`);
+}
+
 console.log('\n=== 12 cung đầy đủ với chính tinh ===');
 const fullCung = tinhCanChi12Cung(chiMenh, amLich.canChiNam.can);
 console.log('  Tên cung    | Vị trí | Can-Chi   | Chính tinh');

@@ -82,7 +82,16 @@ export default function LaSo({ laSo }: Props) {
               ))}
             </div>
 
-            {/* Phần còn lại để trống — chừa chỗ cho phụ tinh / sát tinh (G2 trở đi) */}
+            {/* Phụ tinh — dưới chính tinh */}
+            <div className="flex flex-col items-center gap-0.5 mt-1">
+              {cung.saoPhu.map(sao => (
+                <div key={sao.ten} className="text-[10px] text-stone-600 leading-tight text-center">
+                  {sao.ten}
+                </div>
+              ))}
+            </div>
+
+            {/* Spacer */}
             <div className="flex-1" />
           </div>
         );

@@ -7,6 +7,7 @@ import { anCungMenh, anCungThan, tinhCanChi12Cung } from './cung';
 import { xacDinhCuc } from './cuc';
 import { anTuVi, anChinhTinh } from './chinh-tinh';
 import { tinhDaiVan, tinhTieuVan, tinhNguyetVan } from './van';
+import { tinhVongTruongSinh, VONG_TRUONG_SINH } from './phu-tinh';
 import { CHINH_TINH_LIST } from './types';
 
 /**
@@ -59,6 +60,15 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
     saoTheoCung[chi].push({ ten: sao, loai: 'chính tinh' });
   }
 
+  // 8.5. Vòng Trường Sinh — group sao phụ theo cung
+  const vongTruongSinh = tinhVongTruongSinh(cuc, amDuongLaSo);
+  const phuTinhTheoCung: Record<Chi, Sao[]> = {} as Record<Chi, Sao[]>;
+  for (const sao of VONG_TRUONG_SINH) {
+    const chi = vongTruongSinh[sao];
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
+  }
+
   // 9. Tạo cấu trúc CungTrongLaSo cho từng cung
   const cacCung: CungTrongLaSo[] = cung12.map(c => ({
     ten: c.tenCung,
@@ -67,7 +77,7 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
     laMenh: c.chi === cungMenh,
     laThan: c.chi === cungThan,
     saoChinh: saoTheoCung[c.chi] || [],
-    saoPhu: [],
+    saoPhu: phuTinhTheoCung[c.chi] || [],
   }));
 
   // 10. Đại vận
