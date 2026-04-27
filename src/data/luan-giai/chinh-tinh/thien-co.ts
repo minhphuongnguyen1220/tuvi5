@@ -123,27 +123,62 @@ mọi việc đều tốt đẹp.
     title: 'Thiên Cơ - Nữ mệnh',
     sao: ['Thiên Cơ'],
     cung: ['Mệnh'],
-    doUuTien: 70,
-    tomTat: `**Mệnh nữ có Thiên Cơ:** phần nhiều chủ về **phúc thọ**.
+    doUuTien: 75,
+    tomTat: `**Mệnh nữ Thiên Cơ:** thường **dung mạo xinh đẹp**, biết trang phục
+dễ coi, **được lòng người**, tính cởi mở. Phần nhiều chủ về **phúc thọ**.
 
-⚠️ Quy luật: **gặp Cát sẽ cát, gặp Hung sẽ hung** (hai chiều rõ rệt).
+✅ **Miếu / Vượng:** khôn khéo, có **quyền bính**, **vượng chồng lợi con**.
+Thêm **Hóa Quyền / Hóa Lộc / Lộc Tồn** → **quý phụ**.
 
-✅ **+ Thiên Lương:** bản thân sẽ có một **biệt tài** nào đó.`,
+✅ **+ Cát tinh tam phương tứ chính** (Quan, Tài, Di): **vượng chồng ích con**.
+**+ Hóa Lộc / Hóa Quyền:** người vợ tốt.
 
-    chiTiet: `## Đặc điểm
+✅ **+ Thiên Lương:** bản thân có một **biệt tài** nào đó.
 
-Nếu mệnh nữ có Thiên Cơ → phần nhiều chủ về **phúc thọ**.
+⚠️ **Hãm địa + Tứ Sát + Hóa Kỵ xung phá:** **cô độc, tàn tật**, không cát lợi.
+
+⚠️ Quy luật: **gặp Cát thì cát, gặp Hung thì hung** (hai chiều rõ rệt).`,
+
+    chiTiet: `## Dung mạo & tính cách
+
+Mệnh nữ Thiên Cơ thường:
+- **Dung mạo xinh đẹp**
+- Biết cách **trang phục dễ coi**
+- **Được lòng người**
+- Tính **cởi mở**
+
+Phần nhiều chủ về **phúc thọ**.
 
 ## Quy luật hai chiều
 
 - **Gặp Cát** → sẽ **cát**
 - **Gặp Hung** → sẽ **hung**
 
-(→ Hai chiều rõ rệt, phụ thuộc các sao đi kèm.)
+## Cát kết hợp
 
-## Đặc biệt: + Thiên Lương
+**Thiên Cơ Miếu / Vượng:**
+- Tính cách **khôn khéo**
+- Có **quyền bính**
+- **Vượng chồng lợi con**
 
-Nếu Thiên Cơ gặp **Thiên Lương** → bản thân sẽ có một **biệt tài** nào đó.`,
+**Thêm Hóa Quyền / Hóa Lộc / Lộc Tồn:**
+- → Là **quý phụ**
+
+**+ Cát tinh chiếu tam phương** (Quan, Tài, Di) **+ tứ chính**:
+- **Vượng chồng ích lợi cho con**
+
+**+ Hóa Lộc / Hóa Quyền:**
+- Là **người vợ tốt**
+
+**+ Thiên Lương:**
+- Bản thân sẽ có một **biệt tài** nào đó
+
+## ⚠️ Hung kết hợp
+
+**Thiên Cơ rơi vào Hãm địa + Tứ Sát + Hóa Kỵ xung phá:**
+- Chủ về **cô độc**
+- **Tàn tật**
+- Không cát lợi`,
   },
 
   // ============================================================
@@ -154,31 +189,50 @@ Nếu Thiên Cơ gặp **Thiên Lương** → bản thân sẽ có một **biệ
     title: 'Thiên Cơ - Kỵ sát tinh & Hóa Kỵ',
     sao: ['Thiên Cơ'],
     doUuTien: 50,
-    tomTat: `⚠️ **Thiên Cơ KHÔNG có khả năng chế hóa hung sát** — đặc biệt **nhạy
-cảm với sát tinh** (vì sợ trí tuệ Thiên Cơ giúp kẻ ác làm càn).
+    tomTat: `⚠️ **Sức đối kháng của Thiên Cơ với sát tinh KHÁ YẾU.** Sợ rơi vào
+**hãm địa**, không ưa đồng cung **6 sát tinh** (Kình Đà, Linh Hỏa, Không Kiếp),
+cũng sợ gặp **Hóa Kỵ**.
 
-⚠️ **Rất kỵ Hóa Kỵ.** Khi hành vận hạn gặp **hung sát hoặc Hóa Kỵ**, hoặc bị
-**hung sát + Hóa Kỵ xung chiếu**, nếu không có Cát tinh ứng cứu → **đề phòng
-tai ách**.
+**Thiên Cơ KHÔNG có khả năng chế hóa hung sát** — đặc biệt nhạy cảm với sát tinh
+(vì sợ trí tuệ Thiên Cơ giúp kẻ ác làm càn).
 
-→ Tốt nhất là **thận trọng phòng thủ**, không nên hành động.`,
+⚠️ **Thiên Cơ hãm địa + sát tinh, không có Cát tinh phù trợ:**
+- Dễ gặp **trắc trở, nội tâm đau khổ**
+- Nên theo **nghề công chức hoặc ngoại vụ**
+- Đề phòng **bệnh tật, hình khắc**
 
-    chiTiet: `## Không chế hóa hung sát
+⚠️ **Vận hạn gặp hung sát hoặc Hóa Kỵ** (hoặc xung chiếu) — nếu không có Cát
+tinh ứng cứu → **đề phòng tai ách**, thận trọng phòng thủ, không nên hành động.`,
 
-Thiên Cơ **không có khả năng chế hóa hung sát**, đặc biệt **nhạy cảm với sát tinh**.
+    chiTiet: `## Sức đối kháng yếu
+
+**Thiên Cơ KHÔNG có khả năng chế hóa hung sát** — đặc biệt **nhạy cảm với sát
+tinh**.
 
 **Lý do:** sợ rằng **trí tuệ của Thiên Cơ sẽ giúp kẻ ác làm càn**.
 
-## Rất kỵ Hóa Kỵ
+## Sợ rơi vào hãm + sát
 
-Sao Thiên Cơ **rất kỵ khi Hóa Kỵ**.
+Thiên Cơ:
+- Sợ rơi vào **thế hãm**
+- **Không ưa đồng cung 6 sát tinh** (Kình Dương, Đà La, Linh Tinh, Hỏa Tinh,
+  Địa Không, Địa Kiếp)
+- Cũng sợ gặp **Hóa Kỵ**
+
+## Nếu hãm + sát, không có cát phù trợ
+
+Nếu Thiên Cơ rơi vào thế hãm hoặc gặp sát tinh, mà **không có Cát tinh phù trợ**:
+- Dễ gặp **trắc trở**
+- **Nội tâm đau khổ**
+- Nên theo **nghề công chức hoặc ngoại vụ**
+- **Đề phòng bệnh tật, hình khắc**
 
 ## Cảnh báo vận hạn
 
 Khi hành vận hạn nếu gặp:
 - **Hung sát**
 - Hoặc **Hóa Kỵ**
-- Hoặc **bị hung sát + Hóa Kỵ xung chiếu**
+- Hoặc bị **hung sát + Hóa Kỵ xung chiếu**
 
 **Nếu không được Cát tinh ứng cứu:**
 - **Đề phòng tai ách**
@@ -298,5 +352,462 @@ Cách "Cự Cơ Hóa Dậu" — chủ về:
 ## ⚠️ Mệnh nữ
 
 Chủ về **lênh đênh phiêu bạt**.`,
+  },
+
+  // ============================================================
+  // 9. Thiên Cơ tại Mệnh - Dung mạo & tính cách
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-dung-mao-tinh-cach',
+    title: 'Thiên Cơ tại Mệnh - Dung mạo & tính cách',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    doUuTien: 85,
+    tomTat: `**Thiên Cơ tại Mệnh — dung mạo:** đa phần **dáng người cao**, miếu
+→ béo mập, hãm → gầy. **Ánh mắt linh hoạt**, dáng vẻ đoan chính, **diện mạo
+dễ gần lương thiện**, lễ nghĩa, lời nói nho nhã, cử chỉ lịch sự.
+
+**Tính cách cốt lõi:** thông minh, **nhân từ ôn hòa trung hậu**, thích làm việc
+tốt, hiếu nghĩa với lục thân, lễ Phật, được người tin cậy. **Hiếu học hiếu
+động**, đa tài đa nghệ — học nhiều nhưng **không tinh thông**. Phản ứng nhanh,
+**điềm tĩnh có sức hút, túc trí đa mưu**, lúc lâm nguy không rối loạn.
+
+⚠️ **Nhược điểm:** thần kinh **quá nhạy cảm**, đa sầu đa cảm, nhiều ảo tưởng,
+**tính cố chấp, không phục tùng**. Tửu lượng tốt. Có cơ duyên với người khác
+giới — về tình cảm thì **ghét tình dục, dễ bị cắm sừng**. Tâm tính, công việc,
+sự nghiệp **thường thay đổi theo hoàn cảnh**.`,
+
+    chiTiet: `## Dung mạo
+
+- Đa phần **dáng người cao**
+- **Nhập miếu** → béo mập
+- **Hãm địa** → gầy
+- **Ánh mắt linh hoạt**
+- Dáng vẻ **đoan chính**
+- **Diện mạo dễ gần, lương thiện**
+- Có **lễ nghĩa**
+- Lời nói **nho nhã**
+- Cử chỉ **lịch sự**
+
+## Tính cách cốt lõi
+
+- **Thông minh**
+- Mặt mũi ưa nhìn
+- Tính cách **nhân từ, ôn hòa, trung hậu**
+- Thích làm việc tốt
+- **Hiếu nghĩa với lục thân**
+- **Chịu khó lễ Phật**
+- **Không có hành vi bất nhân bất nghĩa**
+- Được người khác tin cậy
+
+## Trí tuệ & năng lực
+
+- **Hiếu học hiếu động**
+- **Đa tài đa nghệ**
+- Học nhiều nhưng **không tinh thông**
+- **Phản ứng nhanh nhạy**
+- **Điềm tĩnh có sức hút**
+- **Túc trí đa mưu**
+- Xử sự hợp lý
+- **Giỏi thích nghi hoàn cảnh**
+- **Lúc lâm nguy không bị rối loạn**
+
+## Năng lực phân tích & sáng tạo
+
+- Tâm tư trấn tĩnh
+- **Năng lực quan sát tốt**
+- **Giỏi nghiên cứu**
+- Sở trường về **phân tích, kế hoạch, giao thiệp**
+- Có thể **không ngừng đưa ra ý tưởng sáng tạo**
+
+## Tính cách xã hội
+
+- **Thích phục vụ cống hiến**
+- **Có tinh thần đồng đội**
+- **Hứng thú với mệnh lý, tôn giáo**
+
+## Cơ duyên thay đổi & học hỏi không ngừng
+
+Thiên Cơ tùy theo cơ duyên mà **thay đổi không ngừng** — thường thay đổi lập đi
+lập lại trong phạm vi cố định.
+
+Vì thông minh, phản ứng nhanh, khả năng thích ứng mạnh:
+- Có thể **thoải mái tự do trong sự thay đổi**
+- **Không ngừng thay đổi quan niệm và hành động bản thân**
+- Làm cho **phiền não và đau khổ trước đó được giải tỏa**
+- Mang lại **thời cơ chuyển biến** cho khí vận vốn cứng nhắc trì trệ
+
+**Khả năng học hỏi:**
+- Nhiều cơ hội học tập
+- Học được nhiều điều mới
+- Sau khi học hỏi xong rất nhanh có thể học hỏi điều mới khác
+- Tri thức và trí tuệ **không ngừng gia tăng**
+- **Về già:** thường trở thành người **đáng tin cậy "Nhất ngôn cửu đỉnh"**, là
+  người **giảng hòa cho người khác**
+
+## ⚠️ Nhược điểm
+
+- **Thần kinh quá nhạy cảm** hoặc **đa sầu đa cảm**
+- **Nhiều ảo tưởng**
+- **Tửu lượng tốt**
+- **Tính cố chấp, không phục tùng**
+- Có **cơ duyên với người khác giới**
+- Về phương diện tình cảm: **ghét tình dục**, **dễ bị cắm sừng**
+- Tâm tính, công việc, sự nghiệp **thường thay đổi theo hoàn cảnh**`,
+  },
+
+  // ============================================================
+  // 10. Thiên Cơ tại Mệnh - Đặc tính ĐỘNG & sức khỏe
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-dac-tinh-dong-suc-khoe',
+    title: 'Thiên Cơ tại Mệnh - Đặc tính ĐỘNG & sức khỏe',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ vận chuyển theo Tử Vi** — sao này chỉ đạo các sao khác
+vận hành đúng quỹ đạo, là **mấu chốt thay đổi của hệ Cơ-Nguyệt-Đồng-Lương**.
+
+**"Động" của Thiên Cơ ≠ "động" của Sát Phá Tham:** không phải biến động lớn
+đời người, mà là **động NÃO + động THÂN THỂ** — biên độ nhỏ trong phạm vi nhất
+định, đầu óc không ngừng hoạt động, chân tay không chịu để yên.
+
+⚠️ **Hậu quả về sức khỏe:**
+- **Thần kinh suy nhược, mất ngủ**
+- **Bệnh biến tứ chi**
+- Hoặc trở thành **bệnh mang tính chất thần kinh**`,
+
+    chiTiet: `## Thiên Cơ vận chuyển theo Tử Vi
+
+Sao Thiên Cơ **vận chuyển theo sao Tử Vi**:
+- Do sự chỉ đạo của Tử Vi, các sao khác mới có thể vận hành theo quỹ đạo
+- Là **mấu chốt thay đổi** của hệ thái tinh tĩnh **"Cơ Nguyệt Đồng Lương"**
+- → Có đặc tính **"động"**
+
+## "Động" của Thiên Cơ ≠ "động" của Sát Phá Tham
+
+Sự chuyển động của Thiên Cơ **KHÔNG GIỐNG** sự chuyển động với **biên độ lớn**
+trong lịch trình đời người của Thất Sát, Phá Quân, Tham Lang.
+
+**Thiên Cơ:**
+- **Động NÃO**
+- **Động THÂN THỂ**
+- Sự thay đổi **biên độ nhỏ** trong phạm vi nhất định
+- Đầu óc **không ngừng hoạt động**
+- Chân tay **không chịu để yên**
+
+→ Vì vậy **phản ứng nhanh nhạy, túc trí đa mưu** — là sao chủ về **đa trí**.
+
+## ⚠️ Hậu quả về sức khỏe
+
+Cũng vì "động" liên tục mà dễ bị:
+- **Thần kinh suy nhược**
+- **Mất ngủ**
+- **Bệnh biến tứ chi**
+- Hoặc trở thành **bệnh mang tính chất thần kinh**`,
+  },
+
+  // ============================================================
+  // 11. Thiên Cơ tại Mệnh - Nghề nghiệp & so sánh tài nghệ
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-nghe-nghiep',
+    title: 'Thiên Cơ tại Mệnh - Nghề nghiệp & so sánh tài nghệ',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ tại Mệnh — nghề nghiệp** theo lĩnh vực:
+- **Quân đội:** nhà chiến lược
+- **Văn chương:** nhà văn, nhà nghệ thuật
+- **Chính trị:** quản đốc kỹ thuật, đại biểu dân ý chuyên nghiệp
+- **Kinh doanh:** nhân tài đầu tư tài chính
+- **Khoa học kỹ thuật:** kỹ sư máy tính, cơ điện
+
+**Tài nghệ Thiên Cơ ≠ Tham Lang/Văn Xương/Văn Khúc:**
+- Thiên Cơ: vận động, vạch kế hoạch, phân tích, sáng tạo, phát minh, giao thiệp,
+  truyền thông
+- Tham Lang: giao tiếp ứng xử, cầm kỳ thư họa, thiết kế
+- Văn Xương: văn học, nghiên cứu học thuật, viết văn
+- Văn Khúc: nghệ thuật, ngoại ngữ, âm nhạc, hội họa, vũ đạo, sân khấu, giải trí
+
+⚠️ **Tối kỵ kinh doanh / lập nghiệp** — đặc tính động khiến khó yên vị, thiếu
+ổn định, hay kiêm 2-3 chức vụ → bận rộn vất vả bôn ba.`,
+
+    chiTiet: `## Định hướng nghề nghiệp tổng quát
+
+Thiên Cơ là sao tốt, nhiều trí tuệ, thích đưa ra chủ kiến giải tỏa khó khăn cho
+người khác → nên theo:
+- **Nghề phục vụ**
+- **Chuyên môn kỹ thuật**
+- **Thiết kế**
+- **Truyền thông đại chúng**
+
+## Theo lĩnh vực cụ thể
+
+**Quân đội:** có thể trở thành **nhà chiến lược**.
+
+**Văn chương:** có thể trở thành **nhà văn, nhà nghệ thuật**.
+
+**Chính trị:** có thể trở thành **quản đốc kỹ thuật, đại biểu dân ý chuyên nghiệp**.
+
+**Kinh doanh:** có thể trở thành **nhân tài đầu tư tài chính**.
+
+**Khoa học kỹ thuật:** có thể trở thành **kỹ sư máy tính hoặc cơ điện**.
+
+## So sánh tài nghệ với các sao khác
+
+Tài nghệ của Thiên Cơ **khác với** Tham Lang, Văn Xương, Văn Khúc:
+
+**Thiên Cơ — tài nghệ thiên về:**
+- Vận động
+- **Vạch ra kế hoạch**
+- Phân tích
+- **Sáng tạo, phát minh**
+- Giao thiệp
+- Truyền thông đại chúng
+
+**Tham Lang — tài nghệ chủ yếu:**
+- Giao tiếp ứng xử
+- **Cầm kỳ thư họa**
+- Thiết kế
+
+**Văn Xương — tài nghệ thiên về:**
+- **Văn học**
+- **Nghiên cứu học thuật**
+- Viết văn
+
+**Văn Khúc — tài nghệ chủ yếu:**
+- Nghệ thuật
+- Giao tiếp
+- Ngoại ngữ
+- Tài nghệ đặc biệt
+- Âm nhạc
+- Hội họa
+- Vũ đạo
+- Sân khấu
+- Giải trí
+
+## ⚠️ Tối kỵ kinh doanh
+
+Thiên Cơ có **đặc tính động**:
+- **Khó yên vị** với môi trường cố định không thay đổi
+- Thích **tự mình tìm cái mới**
+- Có nhiều cơ hội **kiêm hai ba chức vụ**
+- Thường rất **bận rộn vất vả bôn ba**
+- **Thiếu tính ổn định**
+
+→ Do vậy Thiên Cơ **kỵ nhất là lập nghiệp theo ngành kinh doanh**.`,
+  },
+
+  // ============================================================
+  // 12. Thiên Cơ tại Mệnh - Hôn nhân
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-hon-nhan',
+    title: 'Thiên Cơ tại Mệnh - Hôn nhân (Phu Thê có Thái Dương)',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    doUuTien: 75,
+    tomTat: `**Người Thiên Cơ thủ Mệnh, cung Phu Thê tất có Thái Dương tọa thủ.**
+
+⚠️ **Bất lợi cho hôn nhân — có thể đứt gánh giữa đường — khi:**
+- **Thái Dương tại Phu Thê rơi vào hãm** hoặc **Hóa Kỵ** (sinh năm Giáp)
+- Hoặc **Thiên Cơ bản thân** rơi vào hãm, Hóa Kỵ, gặp hung tinh sát tinh`,
+
+    chiTiet: `## Quy tắc cấu trúc lá số
+
+Người có sao Thiên Cơ thủ cung Mệnh → cung **Phu Thê tất có sao Thái Dương
+tọa thủ**.
+
+## ⚠️ Trường hợp bất lợi cho hôn nhân
+
+Hôn nhân có thể **đứt gánh giữa đường** trong các trường hợp:
+
+**1. Thái Dương tại Phu Thê:**
+- Rơi vào **thế hãm**
+- Hoặc **Hóa Kỵ** (người sinh năm **Giáp**)
+
+**2. Thiên Cơ bản thân:**
+- Rơi vào **thế hãm**
+- **Hóa Kỵ**
+- Hoặc gặp phải **hung tinh, sát tinh**`,
+  },
+
+  // ============================================================
+  // 13. Thiên Cơ tại Mệnh - Vận hạn & cung kế
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-van-han',
+    title: 'Thiên Cơ tại Mệnh - Vận hạn & 2 cung kế',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    doUuTien: 55,
+    tomTat: `**Thiên Cơ tại Mệnh kế cận 2 cung:** một cung **luôn có Tử Vi**, cung
+còn lại **vô chính diệu (VCD)**. Hai cung này hành đại vận / tiểu hạn / lưu
+niên đều ảnh hưởng phương hướng thay đổi của Thiên Cơ.
+
+**Thuận hành:** xét cung kế — cát thì "thuận tay đẩy thuyền" phát triển; xấu
+thì điềm tĩnh thu thập tàn cục, phân tích vạch kế hoạch tương lai.
+
+**Nghịch hành + cung không cát:** thận trọng dè dặt, không vội thay đổi.
+
+**Phương thức bổ vận:** **vận động, tiến tu, suy xét** — làm giảm dao động bản
+thân, đối diện biến động bằng triết lý "tĩnh và động, biến và bất biến".`,
+
+    chiTiet: `## Cấu trúc 2 cung kế
+
+Thiên Cơ tại cung vị tọa Mệnh **liền kề với hai cung vị**:
+- **Một cung** luôn có **sao Tử Vi**
+- **Cung còn lại** thì **không có chủ tinh** (VCD — vô chính diệu)
+
+Mức độ tốt xấu của các sao tại 2 cung này khi hành đại vận, tiểu hạn, lưu niên
+đều **ảnh hưởng đến phương hướng thay đổi** của Thiên Cơ.
+
+## Thuận hành đại vận / tiểu hạn / lưu niên
+
+**Trước tiên xem mức độ tốt xấu** của sao tọa thủ tại cung kế này.
+
+**Cát lợi:** Thiên Cơ nên **"thuận tay đẩy thuyền"**:
+- Nghênh tiếp vận hạn
+- Phát triển theo phương diện tốt
+
+**Không cát lợi (phấn đấu cũng không hiệu quả):** Thiên Cơ nên:
+- **Điềm tĩnh lại**
+- **Thu thập tàn cục**
+- Chịu khó **phân tích và kiểm điểm việc đã qua**
+- Vạch ra **sách lược, nhiệm vụ, kế hoạch** cho tương lai
+
+## Nghịch hành + cung không cát
+
+Thiên Cơ phải biết:
+- **Thận trọng dè dặt**
+- **Không được vội vàng thay đổi**
+- Khi chưa phân tích tình hình cụ thể — những đòi hỏi của hoàn cảnh có thể phải
+  **sửa đi sửa lại nhiều lần**
+
+→ Khi gặp **vận xấu nhập vào Thiên Cơ**, vận hạn này **chưa thể là thời cơ tốt**
+để thăng cơ bổ vận.
+
+## Phương thức bổ vận
+
+- **Vận động**
+- **Tiến tu**
+- **Suy xét**
+- ...
+
+→ Để làm **giảm bớt sự dao động** của bản thân Thiên Cơ.
+
+Với tiềm năng của Thiên Cơ:
+- Làm cho bản thân có **trạng thái điềm tĩnh**
+- Đối diện với biến động không ngừng của cuộc sống
+- **Thể hiện đầy đủ triết lý nhân sinh về tĩnh và động, biến và bất biến**`,
+  },
+
+  // ============================================================
+  // 14. Thiên Cơ - Bộ sao tốt (kết hợp)
+  // ============================================================
+  {
+    id: 'thien-co-bo-sao-tot',
+    title: 'Thiên Cơ - Các bộ sao tốt',
+    sao: ['Thiên Cơ'],
+    doUuTien: 50,
+    tomTat: `✅ **Thiên Cơ Miếu / Vượng** → hóa cát lợi, **chủ về phú quý**.
+⚠️ **Hãm địa:** bình thường, có thể nói là không tốt.
+
+**Cát kết hợp:**
+- **+ Thiên Lương + Tả Phụ + Hữu Bật + Văn Xương + Văn Khúc** tam phương hội
+  chiếu: **văn thì tinh thông, võ thì trung lương** — thông tình đạt lý, tận
+  trung tận tụy
+- **+ Thiên Lương đồng cung** hoặc **tam phương hội chiếu:** giỏi việc binh,
+  có thể là **nhân tài quân sư**
+- **+ Thiên Tài đồng cung:** **trí tuệ thông minh hơn người**`,
+
+    chiTiet: `## Theo vị trí
+
+✅ **Thiên Cơ Miếu / Vượng:**
+- **Hóa cát lợi**
+- Chủ về **phú quý**
+
+⚠️ **Rơi vào hãm địa:**
+- **Bình thường**
+- Có thể nói là **không tốt**
+
+## Bộ "văn võ song toàn"
+
+**Thiên Cơ + Thiên Lương + Tả Phụ + Hữu Bật + Văn Xương + Văn Khúc** tam phương
+hội chiếu:
+- **Về văn:** tinh thông
+- **Về võ:** trung lương
+- **Thông tình đạt lý**
+- **Tận trung tận tụy** với công việc
+
+## Thiên Cơ + Thiên Lương
+
+**Đồng cung** hoặc **tam phương hội chiếu:**
+- Là người **giỏi về việc binh**
+- Có thể là **nhân tài quân sư**
+
+## Thiên Cơ + Thiên Tài
+
+**Đồng cung:**
+- Là người **trí tuệ**
+- **Thông minh hơn người**`,
+  },
+
+  // ============================================================
+  // 15. Thiên Cơ Hóa Kỵ
+  // ============================================================
+  {
+    id: 'thien-co-hoa-ky-chi-tiet',
+    title: 'Thiên Cơ Hóa Kỵ',
+    sao: ['Thiên Cơ'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Thiên Cơ Hóa Kỵ:**
+- Có thể **tổn thương đến gân não, đầu óc**
+- Phàm làm việc dễ xảy ra **sai sót** — **càng suy xét kỹ càng sai lầm**
+- **Trước hôn nhân thường trăng hoa**, sau hôn nhân **dễ rơi vào môi trường
+  hái hoa bắt bướm**
+- Thường theo **nghề kỹ nghệ**, lĩnh vực **kỹ thuật**, hoặc thích nghiên cứu
+  **Đông y, Mệnh lý**
+
+**3 sao kỵ Hóa Kỵ NHẤT** trong các sao: **Liêm Trinh, Tham Lang, Thiên Cơ**.`,
+
+    chiTiet: `## Tác hại của Thiên Cơ Hóa Kỵ
+
+**1. Sức khỏe — gân não, đầu óc:**
+- Có thể **tổn thương đến gân não, đầu óc**
+
+**2. Công việc:**
+- Phàm làm việc dễ xảy ra **tình trạng sai sót**
+- **Càng suy xét kỹ thì lại càng xảy ra sai lầm**
+
+**3. Tình cảm:**
+- **Trước khi kết hôn** thường hay **trăng hoa**
+- **Sau khi kết hôn** lại dễ rơi vào **môi trường có điều kiện hái hoa bắt bướm**
+
+## Định hướng nghề nghiệp khi gặp Hóa Kỵ
+
+Thường theo:
+- **Nghề kỹ nghệ**
+- Thiên về lĩnh vực **kỹ thuật**
+- Hoặc thích nghiên cứu **Đông y, Mệnh lý**
+
+## 3 sao kỵ Hóa Kỵ nhất
+
+Tất cả các sao đều sợ Hóa Kỵ, nhưng đặc biệt **3 sao kỵ Hóa Kỵ nhất**:
+
+**Liêm Trinh — sao "tù":**
+- Khi Hóa Kỵ thành **bị thắt chặt, không thể mở ra**
+- **Thân và trái tim bị đóng chặt**
+- **Hàng ngàn khó khăn**
+- **Tai họa không nhẹ**
+
+**Thiên Cơ — chủ về lo xa, chu đáo:**
+- Khi Hóa Kỵ → **mọi việc đều có sai sót**
+- **Càng lo lắng càng có vấn đề**
+
+**Tham Lang — quỷ dục vọng:**
+- Khi Hóa Kỵ → **dục vọng quá cao**
+- → **Mọi cố gắng cuối cùng cũng bằng không**`,
   },
 ];
