@@ -1436,4 +1436,461 @@ Sự cản trở từ **Kình + Đà** không chỉ mang lại **thị phi** mà
 - Biến sự **mưu trí** thành những **toan tính ngầm**
 - Dễ vì **lợi ích cá nhân** mà gây **bất hòa với người xung quanh**`,
   },
+
+  // ============================================================
+  // 28. Thiên Cơ tại Quan Lộc
+  // ============================================================
+  {
+    id: 'thien-co-tai-quan-loc',
+    title: 'Thiên Cơ tại Quan Lộc',
+    sao: ['Thiên Cơ'],
+    cung: ['Quan Lộc'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ độc thủ tại Quan Lộc:** sự nghiệp **khó ổn định, nhiều
+biến động**.
+
+- **Miếu / Vượng:** giàu sang nhưng công danh **không quá rạng rỡ**
+- **Lạc Hãm:** công danh **đến muộn**, gặp nhiều bất trắc, vất vả
+
+✅ **+ Thiên Lương / Cự Môn đồng hợp:** sự nghiệp **rạng rỡ**, hưởng phú quý
+giàu sang — người có **năng lực làm nên chuyện lớn**.
+
+⚠️ **+ Hóa Kỵ:** **khó theo một nghề**, cần phải thay đổi — thường bắt nguồn
+từ **tính toán sai lầm** của Thiên Cơ.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thiên Cơ độc thủ tại cung Quan Lộc chủ về:
+- Sự nghiệp **khó ổn định**
+- **Nhiều biến động**
+
+## Theo vị trí
+
+**Miếu / Vượng:**
+- Có số **giàu sang**
+- Nhưng đường **công danh không quá rạng rỡ**
+
+⚠️ **Lạc Hãm:**
+- Công danh **đến muộn**
+- Có thể gặp **nhiều chuyện bất trắc**
+- Vất vả trong sự nghiệp
+
+## Cát kết hợp
+
+**+ Thiên Lương / Cự Môn đồng hợp:**
+- Sự nghiệp **rạng rỡ**
+- Hưởng **phú quý giàu sang**
+- Được coi là người có **năng lực làm nên chuyện lớn**
+
+## ⚠️ Hung kết hợp
+
+**+ Hóa Kỵ:**
+- **Khó theo một nghề**
+- Cần phải thay đổi
+- Thường bắt nguồn từ những **tính toán sai lầm** của Thiên Cơ`,
+  },
+
+  // ============================================================
+  // 29. Thiên Cơ tại Tài Bạch
+  // ============================================================
+  {
+    id: 'thien-co-tai-tai-bach',
+    title: 'Thiên Cơ tại Tài Bạch',
+    sao: ['Thiên Cơ'],
+    cung: ['Tài Bạch'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ tại Tài Bạch:** tiền bạc **biến động, thay đổi thất
+thường, khó tích lũy**. Lên kế hoạch kiếm tiền có xu hướng phải **hao tâm tổn
+trí**.
+
+✅ **+ Thiên Lương / Cự Môn ở Ngọ, Mùi:** dễ phát tài, kiếm được nhiều tiền.
+✅ **+ Lộc Tồn / Hóa Lộc:** tài lộc **thịnh vượng**.
+✅ **+ Hóa Quyền:** ổn định, có kế hoạch chi tiêu → **tích lũy tài sản**.
+
+⚠️ **Đắc địa độc tọa + sát tinh:** **dính đến pháp luật** mà hao tổn tài lộc
+→ tránh tranh chấp, kiện tụng.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thiên Cơ thủ cung Tài Bạch chủ về:
+- Tiền bạc **biến động**
+- **Thay đổi thất thường**
+- **Khó tích lũy**
+
+Do chủ về **lên kế hoạch** nên ở cung Tài thường sẽ:
+- Lên kế hoạch để kiếm tiền
+- Nhưng có xu hướng phải **hao tâm tổn trí**
+
+## Cát kết hợp
+
+**+ Thiên Lương hoặc Cự Môn ở cung Ngọ, Mùi:**
+- Dễ **phát tài**
+- Dễ kiếm được nhiều tiền
+
+**+ Lộc Tồn / Hóa Lộc:**
+- Tài lộc **thịnh vượng**
+
+**+ Hóa Quyền:**
+- **Ổn định**
+- Có **kế hoạch chi tiêu**
+- → Có thể **tích lũy tài sản**
+
+## ⚠️ Hung kết hợp
+
+**Thiên Cơ độc tọa ở vị trí Đắc địa + các sao sát:**
+- Chủ về **dính dáng đến pháp luật**
+- → **Hao tổn tài lộc**
+
+→ Cần **tránh tranh chấp, kiện tụng**.`,
+  },
+
+  // ============================================================
+  // 30. Thiên Cơ tại Phu Thê
+  // ============================================================
+  {
+    id: 'thien-co-tai-phu-the',
+    title: 'Thiên Cơ tại Phu Thê',
+    sao: ['Thiên Cơ'],
+    cung: ['Phu Thê'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ Đắc địa tại Phu Thê:** lập gia đình **sớm**, kết hôn khi
+trẻ tuổi HOẶC đối phương **hơn nhiều tuổi** → hạnh phúc đến già.
+
+⚠️ **+ Sát tinh:** vợ chồng **bằng mặt không bằng lòng**, hôn nhân có **tranh
+cãi, bất mãn**.
+
+⚠️ **Hãm địa:** vợ chồng **khắc khẩu**, cưới hỏi & **kết hôn muộn**.`,
+
+    chiTiet: `## Đắc địa
+
+- **Lập gia đình sớm**
+- Kết hôn khi còn trẻ tuổi
+- HOẶC đối phương **hơn nhiều tuổi** → sẽ **hạnh phúc đến già**
+
+## ⚠️ + Sát tinh
+
+- Vợ chồng **bằng mặt mà không bằng lòng**
+- Hôn nhân có sự **tranh cãi, bất mãn**
+
+## ⚠️ Hãm địa
+
+- Vợ chồng **khắc khẩu**
+- Cưới hỏi, **kết hôn muộn**`,
+  },
+
+  // ============================================================
+  // 31. Thiên Cơ tại Thiên Di
+  // ============================================================
+  {
+    id: 'thien-co-tai-thien-di',
+    title: 'Thiên Cơ tại Thiên Di',
+    sao: ['Thiên Cơ'],
+    cung: ['Thiên Di'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ tại Thiên Di:** **NÊN ĐI XA**, rời quê hương để phát
+triển sự nghiệp.
+
+✅ **+ Cát tinh:** rời quê hương sẽ **đại cát đại lợi**.
+✅ **+ Thiên Lương đồng cung Đắc địa:** nhiều **may mắn buôn bán làm ăn xa**,
+được **quý nhân phù trợ**, người có quyền giúp sức.
+
+⚠️ **+ Cự Môn:** số **giàu có, tài lộc dồi dào** nhưng dễ vướng vào **tai
+tiếng, thị phi** liên quan đến tiền bạc.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thiên Cơ ở cung Thiên Di chủ về:
+- **Nên đi xa**
+- **Rời khỏi quê hương** để phát triển sự nghiệp
+
+**Hội với cát tinh:**
+- Rời khỏi quê hương sẽ **đại cát đại lợi**
+
+## Cát kết hợp
+
+**+ Thiên Lương đồng cung ở vị trí Đắc địa:**
+- Gặp nhiều **may mắn khi buôn bán, làm ăn xa**
+- Được **quý nhân phù trợ**
+- Được **người có quyền giúp sức**
+
+## ⚠️ + Cự Môn
+
+- Số **giàu có, tài lộc dồi dào**
+- Nhưng dễ vướng vào **tai tiếng, thị phi** liên quan đến tiền bạc`,
+  },
+
+  // ============================================================
+  // 32. Thiên Cơ tại Phúc Đức
+  // ============================================================
+  {
+    id: 'thien-co-tai-phuc-duc',
+    title: 'Thiên Cơ tại Phúc Đức',
+    sao: ['Thiên Cơ'],
+    cung: ['Phúc Đức'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ tại Phúc Đức:** **lo nghĩ nhiều, nhạy cảm** → dễ ảnh
+hưởng tinh thần.
+
+⚠️ **Hãm địa:** càng dễ rơi vào **tiến thoái lưỡng nan** do suy nghĩ, lo lắng
+**thái quá**.
+
+⚠️ **+ Kình Dương + Đà La đồng hợp:** càng dễ **tự rước chuyện buồn phiền**.
+⚠️ **Bị Hỏa Tinh + Linh Tinh giáp cung:** **thân tâm vất vả**, không yên ổn.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Cung Phúc Đức có Thiên Cơ chủ về:
+- **Lo nghĩ nhiều**
+- **Nhạy cảm**
+- → Dễ bị **ảnh hưởng đến tinh thần**
+
+## ⚠️ Hãm địa
+
+- Càng dễ bị đẩy vào tình thế **tiến thoái lưỡng nan**
+- Do **suy nghĩ, lo lắng thái quá**
+
+## ⚠️ Hung kết hợp
+
+**+ Kình Dương + Đà La đồng hợp:**
+- Càng khiến Thiên Cơ dễ **tự rước lấy chuyện buồn phiền**
+
+**Bị Hỏa Tinh + Linh Tinh giáp cung:**
+- Chủ về **thân tâm vất vả**
+- **Không được yên ổn**`,
+  },
+
+  // ============================================================
+  // 33. Thiên Cơ tại Phụ Mẫu
+  // ============================================================
+  {
+    id: 'thien-co-tai-phu-mau',
+    title: 'Thiên Cơ tại Phụ Mẫu',
+    sao: ['Thiên Cơ'],
+    cung: ['Phụ Mẫu'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ tại Phụ Mẫu:** quan hệ **cha con không tốt** — có **ngăn
+cách**, khó chia sẻ tình cảm.
+
+✅ **"Lộc Quyền Khoa hội":** quan hệ mới ổn định.
+✅ **+ Thiên Lương đồng cung:** phụ mẫu **phú quý và trường thọ**.
+
+⚠️ **+ Cự Môn:** cha mẹ và con cái dễ xảy ra **bất hòa, xa cách**, khó tâm sự
+với nhau.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thiên Cơ thủ cung Phụ Mẫu thường khiến:
+- Mối quan hệ giữa **cha con không được tốt**
+- Có **ngăn cách**
+- **Khó chia sẻ tình cảm**
+
+## Cát kết hợp
+
+**Gặp "Lộc Quyền Khoa hội" (Tam Hóa cát):**
+- Quan hệ mới **ổn định**
+
+**Đồng cung Thiên Lương:**
+- Phụ mẫu **phú quý và trường thọ**
+
+## ⚠️ Hung kết hợp
+
+**Đồng cung Cự Môn:**
+- Cha mẹ và con cái dễ xảy ra **bất hòa**
+- **Xa cách**
+- Khó **tâm sự với nhau**`,
+  },
+
+  // ============================================================
+  // 34. Thiên Cơ tại Huynh Đệ
+  // ============================================================
+  {
+    id: 'thien-co-tai-huynh-de',
+    title: 'Thiên Cơ tại Huynh Đệ',
+    sao: ['Thiên Cơ'],
+    cung: ['Huynh Đệ'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ tại Huynh Đệ:**
+- **Độc tọa Tý / Ngọ + nhiều cát tinh:** anh chị em **nhiều**, bạn bè **giao
+  du rộng** nhưng **khó gặp tri kỷ**
+- **Tại Tỵ / Hợi** (dù không có sát tinh): anh em, bạn bè **trở mặt nhau**,
+  hiềm khích, **hiếm tri kỷ**
+
+⚠️ Cần chú ý khi **hợp tác với người khác** — có xu hướng bị **chiếm đoạt tài
+sản chung** (đặc biệt vị trí Tỵ/Hợi).`,
+
+    chiTiet: `## Thiên Cơ độc tọa Tý / Ngọ + nhiều cát tinh
+
+- Anh chị em **nhiều**
+- Bạn bè **giao du rộng**
+- Nhưng **khó gặp tri kỷ**
+
+## ⚠️ Thiên Cơ tại Tỵ / Hợi
+
+Dù **không có sát tinh** thì cũng chủ về:
+- Anh em, bạn bè **trở mặt nhau**
+- Dễ có **hiềm khích**
+- **Hiếm bạn tri giao, tri kỷ**
+
+→ Hơn nữa cũng cần chú ý khi **hợp tác với người khác** — có xu hướng bị
+**chiếm đoạt tài sản chung**.`,
+  },
+
+  // ============================================================
+  // 35. Thiên Cơ tại Tử Tức
+  // ============================================================
+  {
+    id: 'thien-co-tai-tu-tuc',
+    title: 'Thiên Cơ tại Tử Tức',
+    sao: ['Thiên Cơ'],
+    cung: ['Tử Tức'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ độc tọa Tử Tức:** gia đình con cái **ít con**, nhất là
+**con trai**.
+
+✅ **Miếu / Vượng:** con cái **thông minh, khéo léo, có trí tuệ hơn người**.
+
+⚠️ **+ Sát tinh / Hóa Kỵ / Địa Không / Địa Kiếp:** **không dễ có con** hoặc
+con cái **bất hòa**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thiên Cơ độc tọa cung Tử Tức chủ về:
+- Gia đình con cái **ít con**
+- Nhất là **con trai**
+
+## Miếu / Vượng
+
+- Con cái **thông minh**
+- **Khéo léo**
+- **Có trí tuệ hơn người**
+
+## ⚠️ Hung kết hợp
+
+**+ Sát tinh / Hóa Kỵ / Địa Không / Địa Kiếp:**
+- **Không dễ có con**
+- Hoặc con cái **bất hòa**`,
+  },
+
+  // ============================================================
+  // 36. Thiên Cơ tại Tật Ách
+  // ============================================================
+  {
+    id: 'thien-co-tai-tat-ach',
+    title: 'Thiên Cơ tại Tật Ách',
+    sao: ['Thiên Cơ'],
+    cung: ['Tật Ách'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ thuộc Mộc** → tại Tật Ách chủ về **bệnh gan, bệnh ngoài da**.
+
+⚠️ **Lạc Hãm + sát tinh:** chú ý **tay chân hay bị thương**.
+
+⚠️ **Đồng cung Thiên Khốc + Thiên Hư:** dễ bị **hoa mắt, chóng mặt, huyết áp
+thấp**, thậm chí **động kinh**.`,
+
+    chiTiet: `## Bệnh chính
+
+Sao Thiên Cơ thuộc **Mộc** nên chủ về:
+- **Bệnh gan**
+- **Bệnh ngoài da**
+- ...
+
+## ⚠️ Lạc Hãm + sát tinh
+
+Cần chú ý:
+- **Tay chân hay bị thương**
+
+## ⚠️ Đồng cung Thiên Khốc, Thiên Hư
+
+Dễ bị:
+- **Hoa mắt**
+- **Chóng mặt**
+- **Huyết áp thấp**
+- Thậm chí là **động kinh**`,
+  },
+
+  // ============================================================
+  // 37. Thiên Cơ tại Nô Bộc
+  // ============================================================
+  {
+    id: 'thien-co-tai-no-boc',
+    title: 'Thiên Cơ tại Nô Bộc',
+    sao: ['Thiên Cơ'],
+    cung: ['Nô Bộc'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ tại Nô Bộc:** tính "động" → hay **thay đổi về bạn bè,
+người dưới quyền**.
+
+✅ **Nhập Miếu + Thiên Lương + Tả Phù + Hữu Bật:** nhiều bạn bè, cấp dưới
+**tốt, tài năng** giúp đỡ.
+
+⚠️ **Hãm địa:** xu hướng **kết thù nhiều** — người yêu quý có nhưng **kẻ thù
+địch không ít**. Có nguy cơ bị **đâm sau lưng** do tin nhầm tiểu nhân.
+
+⚠️ **Thiên Cơ Hóa Lộc cung Hợi + Thái Âm Hóa Kỵ cung Tỵ:** dễ **giao du với
+người xấu**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thiên Cơ tại cung Nô chủ về tính **"động"** — có ý nghĩa là **hay thay đổi**
+về:
+- Bạn bè
+- Người dưới quyền
+
+## Nhập Miếu + Cát kết hợp
+
+**+ Thiên Lương + Tả Phù + Hữu Bật:**
+- Có **nhiều bạn bè, cấp dưới tốt**
+- Thường được **trợ giúp bởi những người có tài năng**
+
+## ⚠️ Thiên Cơ Hãm địa
+
+- Xu hướng **kết thù nhiều**
+- Người yêu quý có
+- Nhưng **người thù địch cũng không ít**
+
+→ **Nguy cơ bị đâm sau lưng** do tin nhầm tiểu nhân.
+
+## ⚠️ Cách cục cảnh báo
+
+**Thiên Cơ Hóa Lộc ở cung Hợi** + **Thái Âm Hóa Kỵ ở cung Tỵ:**
+- Chủ về dễ **giao du với người xấu**`,
+  },
+
+  // ============================================================
+  // 38. Thiên Cơ tại Điền Trạch
+  // ============================================================
+  {
+    id: 'thien-co-tai-dien-trach',
+    title: 'Thiên Cơ tại Điền Trạch',
+    sao: ['Thiên Cơ'],
+    cung: ['Điền Trạch'],
+    doUuTien: 80,
+    tomTat: `**Thiên Cơ tại Điền Trạch:** sản nghiệp **biến động, dễ chuyển dời**,
+**khó giữ tổ nghiệp** ông bà bố mẹ để lại — nhưng có thể **tự tạo dựng**, mua
+đất nhà mới.
+
+✅ **Miếu / Vượng / Đắc địa:** nhiều điền sản, **tự mình tạo dựng từ hai bàn
+tay trắng**.
+
+⚠️ **Đồng cung Cự Môn hãm địa:** dễ rơi vào cảnh **phá sản**, mất hết tài sản.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thiên Cơ thủ cung Điền Trạch chủ về:
+- Sản nghiệp có xu hướng **biến động**
+- **Dễ chuyển dời**
+- **Khó giữ điền sản** của ông bà, bố mẹ để lại
+- Nhưng lại có thể **tự tạo dựng**, mua đất, mua nhà mới
+
+## Miếu / Vượng / Đắc địa
+
+- Có **nhiều điền sản**
+- **Tự mình tạo dựng từ hai bàn tay trắng**
+
+## ⚠️ Đồng cung Cự Môn hãm địa
+
+- Không tốt bằng
+- Dễ rơi vào cảnh **phá sản**
+- **Mất hết tài sản**`,
+  },
 ];
