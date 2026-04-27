@@ -13,6 +13,10 @@ import {
   tinhVongLocTon, VONG_LOC_TON_OFFSET,
   SAO_THEO_CHI_CO_DINH, SAO_THEO_TEN_CUNG_CO_DINH,
   tinhSaoTheoThangSinh,
+  tinhSaoTheoGioSinh,
+  tinhHoaLinhTinh,
+  tinhSaoTheoNgaySinh,
+  tinhSaoOffsetTuLocTon,
 } from './phu-tinh';
 import { CHINH_TINH_LIST } from './types';
 
@@ -117,8 +121,43 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
   const saoThangSinh = tinhSaoTheoThangSinh(amLich.thangAmLich);
   for (const [sao, chi] of Object.entries(saoThangSinh)) {
     if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
-    // Thiên Hình, Thiên Riêu thường được xem là sát/hung tinh
     const loai = (sao === 'Thiên Hình' || sao === 'Thiên Riêu') ? 'sát tinh' : 'phụ tinh';
+    phuTinhTheoCung[chi].push({ ten: sao, loai });
+  }
+
+  // 8.11. Sao theo giờ sinh (Văn Xương, Văn Khúc, Thai Phụ, Phong Cáo, Địa Kiếp, Địa Không)
+  const saoGioSinh = tinhSaoTheoGioSinh(gioSinh);
+  for (const [sao, chi] of Object.entries(saoGioSinh)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    const loai = (sao === 'Địa Kiếp' || sao === 'Địa Không') ? 'sát tinh' : 'phụ tinh';
+    phuTinhTheoCung[chi].push({ ten: sao, loai });
+  }
+
+  // 8.12. Hỏa Tinh / Linh Tinh (chi năm + giờ sinh + âm dương lá số)
+  const hoaLinh = tinhHoaLinhTinh(canChiNam.chi, gioSinh, amDuongLaSo);
+  for (const [sao, chi] of Object.entries(hoaLinh)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    phuTinhTheoCung[chi].push({ ten: sao, loai: 'sát tinh' });
+  }
+
+  // 8.13. Sao theo ngày sinh (cần vị trí Tả Phụ/Hữu Bật/Văn Xương/Văn Khúc đã tính ở trên)
+  const saoNgaySinh = tinhSaoTheoNgaySinh(amLich.ngayAmLich, {
+    taPhu:    saoThangSinh['Tả Phụ'],
+    huuBat:   saoThangSinh['Hữu Bật'],
+    vanXuong: saoGioSinh['Văn Xương'],
+    vanKhuc:  saoGioSinh['Văn Khúc'],
+  });
+  for (const [sao, chi] of Object.entries(saoNgaySinh)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
+  }
+
+  // 8.14. Sao offset từ Lộc Tồn (Kình Dương, Đà La, Lưu Niên Văn Tinh, Đường Phù, Quốc Ấn)
+  const chiLocTon = vongLocTon['Lộc Tồn'];
+  const saoTuLocTon = tinhSaoOffsetTuLocTon(chiLocTon);
+  for (const [sao, chi] of Object.entries(saoTuLocTon)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    const loai = (sao === 'Kình Dương' || sao === 'Đà La') ? 'sát tinh' : 'phụ tinh';
     phuTinhTheoCung[chi].push({ ten: sao, loai });
   }
 
