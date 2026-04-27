@@ -17,6 +17,7 @@ import {
   tinhHoaLinhTinh,
   tinhSaoTheoNgaySinh,
   tinhSaoOffsetTuLocTon,
+  tinhKhoiViet, tinhLuuHa, BANG_TU_HOA,
 } from './phu-tinh';
 import { CHINH_TINH_LIST } from './types';
 
@@ -159,6 +160,46 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
     if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
     const loai = (sao === 'Kình Dương' || sao === 'Đà La') ? 'sát tinh' : 'phụ tinh';
     phuTinhTheoCung[chi].push({ ten: sao, loai });
+  }
+
+  // 8.15. Thiên Khôi + Thiên Việt (theo Can năm)
+  const khoiViet = tinhKhoiViet(canChiNam.can);
+  for (const [sao, chi] of Object.entries(khoiViet)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
+  }
+
+  // 8.16. Lưu Hà (theo Can năm)
+  const chiLuuHa = tinhLuuHa(canChiNam.can);
+  if (!phuTinhTheoCung[chiLuuHa]) phuTinhTheoCung[chiLuuHa] = [];
+  phuTinhTheoCung[chiLuuHa].push({ ten: 'Lưu Hà', loai: 'phụ tinh' });
+
+  // 8.17. Tứ Hóa (Hóa Lộc, Quyền, Khoa, Kỵ) — gắn vào sao chủ đã an
+  const tuHoa = BANG_TU_HOA[canChiNam.can];
+  const findChiOfSao = (saoName: string): Chi | undefined => {
+    // Tìm trong saoTheoCung (chính tinh)
+    for (const [chi, saos] of Object.entries(saoTheoCung)) {
+      if (saos.some(s => s.ten === saoName)) return chi as Chi;
+    }
+    // Tìm trong phuTinhTheoCung
+    for (const [chi, saos] of Object.entries(phuTinhTheoCung)) {
+      if (saos.some(s => s.ten === saoName)) return chi as Chi;
+    }
+    return undefined;
+  };
+  const tuHoaPairs: Array<[string, string]> = [
+    ['Hóa Lộc', tuHoa.loc],
+    ['Hóa Quyền', tuHoa.quyen],
+    ['Hóa Khoa', tuHoa.khoa],
+    ['Hóa Kỵ', tuHoa.ky],
+  ];
+  for (const [hoaName, hostName] of tuHoaPairs) {
+    const chi = findChiOfSao(hostName);
+    if (chi) {
+      if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+      const loai = hoaName === 'Hóa Kỵ' ? 'sát tinh' : 'phụ tinh';
+      phuTinhTheoCung[chi].push({ ten: `${hoaName} (${hostName})`, loai });
+    }
   }
 
   // 9. Tạo cấu trúc CungTrongLaSo cho từng cung
