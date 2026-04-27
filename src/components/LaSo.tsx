@@ -47,6 +47,8 @@ export default function LaSo({ laSo }: Props) {
         const isThan = cung.laThan;
         const daiVan = laSo.daiVan.find(dv => dv.cung === cung.chi);
         const nguyetVan = laSo.nguyetVanCaNam?.find(nv => nv.cung === cung.chi);
+        const coTriet = laSo.triet?.includes(cung.chi);
+        const coTuan = laSo.tuan?.includes(cung.chi);
 
         return (
           <div
@@ -84,15 +86,29 @@ export default function LaSo({ laSo }: Props) {
 
             {/* Phụ tinh — dưới chính tinh */}
             <div className="flex flex-col items-center gap-0.5 mt-1">
-              {cung.saoPhu.map(sao => (
-                <div key={sao.ten} className="text-[10px] text-stone-600 leading-tight text-center">
-                  {sao.ten}
-                </div>
-              ))}
+              {cung.saoPhu.map((sao, i) => {
+                const isSat = sao.loai === 'sát tinh';
+                return (
+                  <div
+                    key={`${sao.ten}-${i}`}
+                    className={`text-[10px] leading-tight text-center ${isSat ? 'text-red-700' : 'text-stone-600'}`}
+                  >
+                    {sao.ten}
+                  </div>
+                );
+              })}
             </div>
 
             {/* Spacer */}
             <div className="flex-1" />
+
+            {/* Triệt / Tuần — nhãn nhỏ dưới đáy cung */}
+            {(coTriet || coTuan) && (
+              <div className="flex justify-center gap-2 text-[9px] font-bold mt-1">
+                {coTriet && <span className="text-red-600">TRIỆT</span>}
+                {coTuan && <span className="text-purple-600">TUẦN</span>}
+              </div>
+            )}
           </div>
         );
       })}
