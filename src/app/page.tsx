@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import FormLapLaSo from '@/components/FormLapLaSo';
 import LaSo from '@/components/LaSo';
+import LuanGiaiCung from '@/components/LuanGiaiCung';
 import { lapLaSo } from '@/core/tuvi/lap-la-so';
 import type { LaSo as LaSoType, ThongTinSinh } from '@/core/tuvi/types';
 
@@ -37,9 +38,25 @@ export default function Home() {
         )}
 
         {laSo && (
-          <section>
-            <LaSo laSo={laSo} />
-          </section>
+          <>
+            <section>
+              <LaSo laSo={laSo} />
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-bold text-amber-900 border-b-2 border-amber-300 pb-2">
+                Luận giải 12 cung
+              </h2>
+              <p className="text-sm text-stone-600">
+                Phần luận giải tóm tắt miễn phí. Đọc chi tiết → đăng ký tài khoản (sẽ có ở G4).
+              </p>
+              <div className="grid gap-4">
+                {laSo.cacCung.map(cung => (
+                  <LuanGiaiCung key={cung.chi} cung={cung} />
+                ))}
+              </div>
+            </section>
+          </>
         )}
       </div>
     </main>
