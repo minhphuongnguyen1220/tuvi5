@@ -12,7 +12,7 @@ export const luanGiai_CuMon: DoanLuanGiai[] = [
     title: 'Cự Môn - Đặc tính chung',
     sao: ['Cự Môn'],
     doUuTien: 30,
-    tomTat: `**Cự Môn** thuộc chòm Nam Đẩu Tinh, ngũ hành **Thủy** tính **Âm**.
+    tomTat: `**Cự Môn** thuộc chòm Bắc Đẩu Tinh, ngũ hành **Thủy** tính **Âm**.
 Hóa khí là **sao Thị Phi**. Tính chất "chảy ngầm" — thường mang nhiều phiền toái
 và thị phi cho người có sao này tại các cung quan trọng.
 
@@ -239,5 +239,459 @@ Hóa Kỵ + Sát tinh → chú ý thị phi nơi quan trường.
 - **Hỏa Tinh + Linh Tinh:** tăng phần khó khăn.
 - **Địa Không + Địa Kiếp** đồng cung Mệnh: một đời vất vả, thậm chí thời thơ
   ấu bị bỏ rơi.`,
+  },
+
+  // ============================================================
+  // 7. Cự Môn ở Phụ Mẫu
+  // ============================================================
+  {
+    id: 'cu-mon-tai-phu-mau',
+    title: 'Cự Môn tại Phụ Mẫu',
+    sao: ['Cự Môn'],
+    cung: ['Phụ Mẫu'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn tại Phụ Mẫu** chủ về mối quan hệ cha mẹ - con cái không tốt,
+nhiều biến động, mâu thuẫn. Đây là sao **không tốt** ở cung này.`,
+    chiTiet: `## Quan hệ cha mẹ - con cái
+
+Mối quan hệ cha mẹ con cái không được tốt.
+
+**Khi có Thiên Cơ đồng cung:** số nên làm con nuôi người khác hoặc bái thêm cha
+mẹ để tránh sự hình khắc phân ly. Lúc này cha mẹ gặp nhiều bất lợi, làm ăn lụi
+bại, tài sản gia sản của tổ tiên dễ bị kẻ khác chiếm đoạt.
+
+**Cự Môn + Thái Dương** hội tụ tại cung Phụ Mẫu: cha mẹ con cái mâu thuẫn, khắc
+khẩu cãi vã không ngớt.
+
+**Cự Môn + Kình Dương / Đà La / Hỏa Tinh / Linh Tinh / Địa Không / Địa Kiếp /
+Thiên Hình:** số khắc cha mẹ, mồ côi cha hoặc mẹ.`,
+  },
+
+  // ============================================================
+  // 8. Cự Môn ở Phúc Đức
+  // ============================================================
+  {
+    id: 'cu-mon-tai-phuc-duc',
+    title: 'Cự Môn tại Phúc Đức',
+    sao: ['Cự Môn'],
+    cung: ['Phúc Đức'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn tại Phúc Đức:** người cố chấp, bảo thủ, đa nghi, không nhất
+quán. Không chịu tiếp thu ý kiến → tự mang phiền não. Thần kinh không ổn định,
+hay mất ngủ. Khó có an lạc trong cuộc sống.
+
+**Lời khuyên:** điều hoà tâm tính, biết lắng nghe, không chạy theo vật chất.`,
+    chiTiet: `## Tính cách
+
+Người có sao Cự Môn đóng tại cung Phúc Đức là người **cố chấp, bảo thủ, tính
+đa nghi, không nhất quán, kiên định**. Không chịu tiếp thu ý kiến từ người khác,
+tự mang đến phiền não cho bản thân. Làm việc không có định hướng, hay thay đổi.
+Thần kinh không ổn định, hay mất ngủ → không có sự minh mẫn, tỉnh táo.
+
+## Cát hung kết hợp sao
+
+Tại cung này Cự Môn ảnh hưởng đến sự vui vẻ, yên ổn — khó có an lạc, hạnh phúc.
+
+**Gặp các sao tốt** (Thiên Đồng, Thái Dương): được hưởng phần nào phúc lộc, có
+phẩm chất tu dưỡng.
+
+**Gặp các sao xấu** (Kình Dương, Đà La, Hỏa Tinh, Linh Tinh): hay lo nghĩ, ưu
+phiền, hay khẩu thiệt, vướng vào tranh chấp, không có phúc để hưởng.
+
+**Gặp Địa Không, Địa Kiếp:** không thực hiện được dự định, ước mơ.
+
+## Lời khuyên
+
+Bản thân người có sao Cự Môn cư tại cung Phúc Đức phải biết **điều hoà tâm tính,
+biết lắng nghe người khác nói, không chạy theo vật chất**.`,
+  },
+
+  // ============================================================
+  // 9. Cự Môn ở Điền Trạch
+  // ============================================================
+  {
+    id: 'cu-mon-tai-dien-trach',
+    title: 'Cự Môn tại Điền Trạch',
+    sao: ['Cự Môn'],
+    cung: ['Điền Trạch'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn tại Điền Trạch:** khi được Hóa Lộc/Quyền hoặc Lộc Tồn → tự
+tay tạo dựng sản nghiệp, có uy quyền, khẩu phúc, có thể trở thành nhà ngoại giao
+giỏi.
+
+⚠️ Nếu gặp Hóa Kỵ hoặc sát tinh → sản nghiệp dễ bị lừa đảo, vướng kiện tụng,
+phải phiêu bạt tứ hải.`,
+    chiTiet: `## Cát kết hợp
+
+**Hóa Lộc / Hóa Quyền:** chủ tự tay tạo dựng sản nghiệp, là người có uy quyền,
+khẩu phúc. Có tài trở thành nhà ngoại giao giỏi, thầy nổi tiếng.
+
+**Cùng cung Lộc Tồn:** chủ về sự may mắn, tai ách được giải trừ.
+
+**Gặp Thiên Đồng, Hồng Loan, Thiên Hỷ, Văn Xương, Văn Khúc:** có tài và sẽ
+thành công trong các lĩnh vực nghệ thuật văn học.
+
+## Hung kết hợp
+
+**Hóa Kỵ hoặc Kình Dương / Đà La / Thiên Hình / Đại Hao / Thất Sát / Tham Lang
+/ Phá Quân:** hay gặp khó khăn, biến cố và họa sát. Người này sẽ vướng vào buôn
+chuyện thị phi, hay bất mãn, ăn nói khó nghe, hay kiện tụng, **sản nghiệp dễ bị
+lừa đảo**.
+
+Đất đai nhà cửa vướng vào tranh chấp, kiện tụng pháp luật. Số chịu nhiều đau
+khổ, tổn thương, hay gặp họa cướp trộm, binh đao, **phải phiêu bạt tứ hải**.`,
+  },
+
+  // ============================================================
+  // 10. Cự Môn ở Quan Lộc
+  // ============================================================
+  {
+    id: 'cu-mon-tai-quan-loc',
+    title: 'Cự Môn tại Quan Lộc',
+    sao: ['Cự Môn'],
+    cung: ['Quan Lộc'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn nhập miếu tại Quan Lộc:** chủ về sáng lập sự nghiệp, phát
+triển từ nghề chuyên môn. Người có **tài ăn nói, ngoại giao tốt, khả năng nghiên
+cứu giỏi**. Phù hợp **tư pháp, y học, học thuật, truyền thông, y bốc mệnh tướng**
+— người có chức có quyền.`,
+    chiTiet: `## Cát kết hợp
+
+**Hóa Quyền, Hóa Lộc, Lộc Tồn:** người nổi tiếng, nhân vật lớn trong giới
+thương nghiệp.
+
+**Gặp Thái Dương:** danh tiếng hơn tiền tài.
+
+## Hung kết hợp
+
+**Gặp Thiên Cơ:** biến động đa đoan, công việc hay thay đổi, là người hay ảo
+tưởng, dục vọng lớn.
+
+**Gặp Thiên Đồng:** làm gì cũng không có đầu có đuôi, làm việc nhiều nhưng
+không thể kết thúc.
+
+**Gặp Hóa Kỵ:** vướng vào tranh chấp, cãi vã, sự nghiệp không ổn định, trong
+sự thành công có nhiều thất bại.
+
+**Gặp sát tinh** (Kình Dương, Đà La, Địa Không, Địa Kiếp, Linh Tinh, Đại Hao,
+Thiên Hình): công việc hay bị kiện tụng, tranh chấp, vướng vào pháp luật.`,
+  },
+
+  // ============================================================
+  // 11. Cự Môn ở Nô Bộc
+  // ============================================================
+  {
+    id: 'cu-mon-tai-no-boc',
+    title: 'Cự Môn tại Nô Bộc',
+    sao: ['Cự Môn'],
+    cung: ['Nô Bộc'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn tại Nô Bộc:** quan hệ với bạn bè / cấp dưới hay tranh cãi.
+Khi miếu vượng (Mão, Dậu): cấp dưới lúc trẻ không đắc lực, về già có thể tốt.
+Khi hãm địa (Thìn, Tuất): công việc lộn xộn, dễ rơi vào "ăn cháo đá bát".`,
+    chiTiet: `## Cát kết hợp
+
+**Cát diệu nhập miếu (Hóa Lộc, Lộc Tồn):** hay xảy ra tranh cãi với bạn bè
+nhưng nhiều bạn lập nên sự nghiệp, có cấp dưới thông minh, có tài, thẳng tính,
+chăm chỉ.
+
+**Thái Dương đồng độ:** bạn bè là người tốt, hay giúp đỡ, tính trượng nghĩa.
+
+## Hung kết hợp
+
+**Đồng độ Thiên Đồng:** bạn bè hay gây thị phi.
+
+**Gặp Hóa Kỵ:** bạn bè không giúp đỡ, ủng hộ; bản thân hay gặp tranh cãi, đối
+mặt với tiếng xấu.
+
+**Gặp Kình Dương / Đà La / Linh Tinh / Hỏa Tinh:** bạn bè là kẻ vô ơn, hay hãm
+hại, phản bội.
+
+**Địa Không / Địa Kiếp / Thiên Sát / Đại Hao + Hóa Kỵ:** dễ bị trộm cướp, mất
+mát do bạn bè gây nên.
+
+## Theo vị trí
+
+- **Hãm địa Thìn / Tuất:** công việc lộn xộn, dễ rơi vào "ăn cháo đá bát". Có
+  thêm Tứ Sát → bị thương tổn, đau khổ vì tình.
+- **Miếu địa Mão / Dậu:** cấp dưới lúc trẻ không đắc lực, về già có thể tốt.`,
+  },
+
+  // ============================================================
+  // 12. Cự Môn ở Thiên Di
+  // ============================================================
+  {
+    id: 'cu-mon-tai-thien-di',
+    title: 'Cự Môn tại Thiên Di',
+    sao: ['Cự Môn'],
+    cung: ['Thiên Di'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn tại Thiên Di:** số xuất ngoại; sự nghiệp liên quan **tư
+pháp, xuất bản, ngoại giao, quảng cáo**. Khả năng giao tiếp giỏi, có tài diễn
+thuyết.
+
+⚠️ Hay bị đố kỵ, ganh ghét, gặp thị phi do tính đa nghi.`,
+    chiTiet: `## Đặc điểm chung
+
+Số xuất ngoại. Sự nghiệp liên quan đến tư pháp, xuất bản, ngoại giao, quảng cáo.
+Khả năng giao tiếp giỏi, có tài diễn thuyết.
+
+Tuy nhiên hay bị đố kỵ, ganh ghét, gây hiềm khích, dễ gặp thị phi, bị bêu riếu
+do có tính đa nghi, hay lừa lọc, xảo trá, làm việc không quyết đoán → vất vả.
+
+## Cát kết hợp
+
+**Hóa Quyền, Hóa Lộc, Lộc Tồn:** tăng uy quyền, tài lộc, phúc lợi.
+
+**Thái Dương đồng cung:** số xuất ngoại có thu hoạch bất ngờ. Số cũng hay bị
+đố kỵ ở Tý / Ngọ.
+
+## Hung kết hợp
+
+**Hóa Kỵ:** xuất ngoại nhiều cãi vã, tranh chấp.
+
+**Đà La / Kình Dương / Thiên Hình / Linh Tinh hội chiếu:** xuất ngoại hay bị
+tai nạn, gặp thị phi. Nếu lưu niên hóa sát → tai họa lao tù, hình khắc, tử thương.`,
+  },
+
+  // ============================================================
+  // 13. Cự Môn ở Tật Ách
+  // ============================================================
+  {
+    id: 'cu-mon-tai-tat-ach',
+    title: 'Cự Môn tại Tật Ách',
+    sao: ['Cự Môn'],
+    cung: ['Tật Ách'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn tại Tật Ách:** sức khỏe suy giảm. Hay mắc bệnh **dạ dày,
+phổi, mụn nhọt, ung thư** và các chứng âm tồn. Miếu vượng → ít bệnh, hãm địa →
+bệnh nặng.`,
+    chiTiet: `## Theo vị trí
+
+- **Miếu Vượng:** ít bệnh; tai và tiêu hóa không tốt.
+- **Lạc Hãm:** dễ bị tật mủ máu, bệnh thận, dạ dày, phổi, ung thư.
+
+## Cát kết hợp
+
+**Tử Vi / Lộc Tồn:** hóa giải, trừ ách.
+
+## Hung kết hợp
+
+**Sát tinh** (Không Kiếp, Hóa Kỵ, Kình Dương, Đà La): nhiều tai họa, thương
+tích đầy mình, cô đơn, bệnh nặng, thất tài, vướng hình pháp.`,
+  },
+
+  // ============================================================
+  // 14. Cự Môn ở Tài Bạch
+  // ============================================================
+  {
+    id: 'cu-mon-tai-tai-bach',
+    title: 'Cự Môn tại Tài Bạch',
+    sao: ['Cự Môn'],
+    cung: ['Tài Bạch'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn tại Tài Bạch:** dựa vào **tâm lực, trí lực, khẩu tài** mà
+thành công. Có Hóa Quyền/Lộc/Lộc Tồn → giàu có, quyền lực. Tuy nhiên hay gặp
+**chèn ép trong công việc**, cần chú ý lời ăn tiếng nói.`,
+    chiTiet: `## Đặc điểm
+
+Có chí khí, tài năng nhưng hay gặp rắc rối, khó khăn, bị người khác chèn ép,
+lật đổ trong công việc.
+
+## Cát kết hợp
+
+**Hóa Quyền / Hóa Lộc / Lộc Tồn đồng cung:** giàu có, quyền lực.
+
+**Thái Dương đồng cung:** nhận được sự tín nhiệm tin tưởng từ những người xung
+quanh, cơ nghiệp được mở rộng.
+
+**Tử Vi / Lộc Tồn đồng cung:** tính xấu của Cự Môn được khắc chế, giải trừ tai ách.
+
+## Hung kết hợp
+
+**Kình Dương, Đà La hội cùng:** vướng tranh chấp, kiện tụng.
+
+**Hỏa Tinh / Linh Tinh / Địa Không / Địa Kiếp / Đại Hao:** tổn hao do binh đao,
+cướp bóc, hỏa tai.
+
+**Thất Sát / Tham Lang / Phá Quân:** dễ bị tù tội.
+
+**Hóa Kỵ:** họa từ miệng mà ra.
+
+**Cự Môn + Thiên Cơ đồng cung:** tài lộc nhiều biến động.
+
+**Cự Môn + Thiên Đồng đồng cung:** tay trắng lập nghiệp theo nghề kỹ thuật, nghệ thuật.
+
+## Lời khuyên
+
+Cần chú ý lời ăn tiếng nói tránh vướng thị phi.`,
+  },
+
+  // ============================================================
+  // 15. Cự Môn ở Tử Tức
+  // ============================================================
+  {
+    id: 'cu-mon-tai-tu-tuc',
+    title: 'Cự Môn tại Tử Tức',
+    sao: ['Cự Môn'],
+    cung: ['Tử Tức'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn tại Tử Tức:** sinh con không thuận lợi. Cần ánh sáng Thái
+Dương + Hóa Quyền/Lộc/Lộc Tồn để giải u ám. Cát hội → 3 con trở lên, gia đình
+giàu sang. Hung hội → cô độc, nuôi con thừa tự.`,
+    chiTiet: `## Đặc điểm
+
+Sinh con cái không được thuận lợi. Có tài ăn nói nhưng hay vướng thị phi tranh
+chấp, đố kỵ, bị cạnh tranh.
+
+## Cát kết hợp
+
+**Thái Dương / Tả Phù / Hữu Bật / Thiên Khôi / Thiên Việt / Hóa Quyền / Hóa Lộc
+/ Lộc Tồn:** số 3 con trở lên, gia đình giàu sang phú quý, **con cái thông minh
+đa tài, con hơn cha về sự nghiệp**.
+
+## Hung kết hợp
+
+**Thiên Cơ / Thiên Đồng / Kình Dương / Đà La / Hỏa Tinh / Linh Tinh / Địa Không
+/ Địa Kiếp:** số là người cô độc, **nuôi con thừa tự**, con cái hay bệnh tật,
+hao tài tốn của.
+
+## Lời khuyên
+
+Cự Môn cần ánh sáng của **Thái Dương** để giải u ám tối tăm. Cần **Hóa Quyền /
+Hóa Lộc / Lộc Tồn** để tạo ánh sáng tốt lành.
+
+Nên cẩn trọng lời ăn tiếng nói, sống hòa hợp với mọi người.`,
+  },
+
+  // ============================================================
+  // 16. Cự Môn ở Phu Thê
+  // ============================================================
+  {
+    id: 'cu-mon-tai-phu-the',
+    title: 'Cự Môn tại Phu Thê',
+    sao: ['Cự Môn'],
+    cung: ['Phu Thê'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn tại Phu Thê:** chủ về **lời qua tiếng lại, cãi vã** với bạn
+đời. Để tránh: lấy người **hơn tuổi, hào sảng, thông minh, dũng cảm** (như khi
+Thái Dương đồng cung). Nữ mệnh có cát hội → lấy chồng tài giỏi.`,
+    chiTiet: `## Lời khuyên chung
+
+Tại cung này Cự Môn chủ về lời qua tiếng lại, cãi vã với bạn đời. Để tránh nên
+lấy người hơn tuổi, tính tình bạn đời hào sảng, thông minh, dũng cảm, sống có
+trách nhiệm — đặc biệt khi **Thái Dương đồng cung**.
+
+## Cát kết hợp
+
+**Hóa Quyền / Hóa Lộc / Lộc Tồn / Tả Phù / Hữu Bật:** nữ nhân thường thông
+minh, lanh lẹ, biết chăm lo cho chồng cho con, vun vén gia đình. Số là người
+**lấy được chồng tài giỏi, giàu sang phú quý**, có sự nghiệp lớn.
+
+**Cùng cung Thiên Cơ / Thiên Đồng:** là người tài năng, xinh đẹp, **dễ dính vào
+hình khắc chia ly**.
+
+## Hung kết hợp
+
+**Kình Dương / Đà La / Hỏa Tinh / Linh Tinh / Thiên Hình / Cô Thần / Quả Tú:**
+khắc với bạn đời, hay khắc khẩu, ở riêng.
+
+**Hóa Kỵ:** hay bị thị phi bởi lời ăn tiếng nói.
+
+**Hội cùng Kình / Đà / Hỏa / Linh / Thiên Hình:** mệnh **ba đời chồng**. Số nên
+làm vợ lẽ, về ở không cần tổ chức hôn lễ.`,
+  },
+
+  // ============================================================
+  // 17. Cự Môn ở Huynh Đệ
+  // ============================================================
+  {
+    id: 'cu-mon-tai-huynh-de',
+    title: 'Cự Môn tại Huynh Đệ',
+    sao: ['Cự Môn'],
+    cung: ['Huynh Đệ'],
+    doUuTien: 80,
+    tomTat: `**Cự Môn tại Huynh Đệ:** anh em có tài ăn nói nhưng quan hệ không
+tốt, hay vướng thị phi, không hòa thuận, có anh em khác mẹ.`,
+    chiTiet: `## Đặc điểm
+
+Anh em là người có tài ăn nói, quan hệ giữa anh em không tốt, hay vướng thị
+phi, không hòa thuận, **có anh em khác mẹ**.
+
+## Cát kết hợp
+
+**Tả Phù / Hữu Bật / Thiên Khôi / Thiên Việt / Văn Xương / Văn Khúc / Ân Quang
+/ Thiên Phúc + Hóa Quyền / Hóa Lộc / Lộc Tồn:** anh em là người tài giỏi, tự
+lập được sự nghiệp thành tựu lớn.
+
+**Thái Dương đồng cung:** nhập cách (tốt).
+
+## Hung kết hợp
+
+**Thiên Cơ đồng cung:** anh em bất hòa vì tư lợi cá nhân, tham vọng, gây chia
+rẽ xích mích.
+
+**Thiên Đồng đồng cung:** có anh em kết nghĩa nhưng tốt trước xấu sau.
+
+**Địa Không / Địa Kiếp / Hình Hao:** anh em mâu thuẫn.
+
+**Kình Dương / Đà La / Hỏa Tinh / Linh Tinh / Cô Thần / Quả Tú:** tranh chấp,
+hình khắc, thị phi.`,
+  },
+
+  // ============================================================
+  // 18. Cách cục đặc biệt của Cự Môn (gắn với cung Mệnh)
+  // ============================================================
+  {
+    id: 'cu-mon-cach-cuc-dac-biet',
+    title: 'Các cách cục đặc biệt của Cự Môn',
+    sao: ['Cự Môn'],
+    cung: ['Mệnh'],
+    doUuTien: 60,
+    tomTat: `**Cách cục TỐT:** Cự Nhật tại Dần (3 đời thịnh vượng), Cự Cơ tại
+Mão Dậu (quan chức lớn, giàu có), Cự Khoa tại Thìn Tuất (biệt tài ăn nói).
+
+⚠️ **Cách cục XẤU:** Cự hãm + Kình Đà (yếu đuối, bệnh hiểm), Cự + Linh + Hỏa
+(cách rất xấu, hạn nặng có thể chết yểu), Nữ mệnh Cự + Hóa Kỵ (thất tiết).`,
+    chiTiet: `## Cách cục TỐT đẹp
+
+**Cự Nhật tại Dần:** ba đời thịnh vượng giàu sang, vinh hiển, vang danh. Tại
+Thân thì không bằng Dần, chỉ ở mức khá giả, công danh đến trước tiền bạc. Có
+thêm **Quyền + Phượng** → tăng tốt đẹp. Gặp **Lộc Tồn** → hạn xấu khổ suốt đời.
+
+**Mệnh Cự + Nhật đồng cung:** cũng tốt đẹp như Cự Nhật tọa thủ.
+
+**Cự Cơ tại Mão / Dậu:** số làm quan chức lớn, giàu có nhiều tiền của. Mão tốt
+hơn Dậu. Với 4 tuổi **Ất, Kỷ, Bính, Tân** → hưng thịnh phát đạt cả phú và quý.
+
+**Có thêm Tiểu Hao + Đại Hao:** tiếng tăm lừng lẫy, vang danh muôn nơi, có tiền
+tài, uy quyền, tính phóng khoáng, hoang phí.
+
+**Cự Khoa tại Thìn / Tuất:** biệt tài ăn nói, diễn thuyết trước đám đông giỏi.
+
+**Tuổi Tân, Mệnh ở Tứ Mộ, Cự ngự trị:** Cự bị hãm nhưng vẫn khá giả. Có **Tả
+Hữu** → rủi ro giảm dù có Hóa Kỵ đồng cung.
+
+## Cách cục XẤU
+
+**Cự hãm + Kình Đà:** yếu đuối, thiếu sức sống, hay mắc bệnh hiểm nghèo. Không
+bệnh thì dễ rơi vào con đường phạm pháp (trộm cắp); con gái thì lăng loàn, tai
+tiếng.
+
+**Cự + Linh + Hỏa:** cách rất xấu, hạn nặng → **chết yểu** hoặc tai nạn lớn
+khó qua khỏi.
+
+Có thêm **Đà + Kình:** gặp biến cố tâm lý, trầm cảm u uất → tự vẫn. Không thì
+bị tàn tật, chân tay bỏng nặng.
+
+**Cự tại Tý / Ngọ + Lộc Tồn đồng cung:** có tài nhưng không gặp thời.
+
+**Cự tại Hợi / Tý + Lộc Tồn đồng cung:** tham vọng lớn nhưng không hiện thực
+hóa được, tài năng không được khai phá.
+
+**Nữ mệnh Cự + Hóa Kỵ:** đàn bà thì thất tiết, con gái thì thất trinh.
+
+**Cự + Tham + Riêu / Cự + Tham + Hao:** chủ hạn tại gia (thất nghiệp, tù tội,
+hay gặp nạn).`,
   },
 ];
