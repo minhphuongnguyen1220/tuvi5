@@ -1,16 +1,940 @@
 import type { DoanLuanGiai } from '../types';
 
 /**
- * LUẬN GIẢI SAO LIêM TRINH
- * Xem mẫu trong tu-vi.ts. Thêm các entry vào mảng dưới đây.
+ * LUẬN GIẢI SAO LIÊM TRINH
  */
 export const luanGiai_LiemTrinh: DoanLuanGiai[] = [
-  // Ví dụ:
-  // {
-  //   id: 'liem-trinh-tinh-chat-chung',
-  //   sao: ['Liêm Trinh'],
-  //   doUuTien: 30,
-  //   tomTat: 'Tóm tắt về sao Liêm Trinh...',
-  //   chiTiet: 'Chi tiết...',
-  // },
+  // ============================================================
+  // 1. Đặc tính chung của sao Liêm Trinh
+  // ============================================================
+  {
+    id: 'liem-trinh-tinh-chat-chung',
+    title: 'Liêm Trinh - Đặc tính chung',
+    sao: ['Liêm Trinh'],
+    doUuTien: 30,
+    tomTat: `**Liêm Trinh** thuộc **Bắc Đẩu Tinh**, ngũ hành **Hỏa**. Là **chính
+tinh phức tạp** — đại diện cho **quyền lực, cương trực** nhưng cũng dễ vướng
+**thị phi, đào hoa, mâu thuẫn nội tâm**.
+
+**Hóa khí:** **Tù** (giam giữ) + **Sát** (quyền uy).
+- **Tại cung Quan Lộc:** chủ về **quan lộc**
+- **Tại cung Thân / Mệnh:** là **thứ đào hoa**
+
+→ Liêm Trinh **vừa là họa vừa là phúc** nhưng **HỌA NHIỀU HƠN PHÚC**, thân
+phận khá phức tạp.
+
+**Hợp:** chính trị, công chức (rõ nhất tại cung Quan Lộc).
+
+⚠️ **Không miếu vượng + Quan Phù** → hóa thành **tù** → sát tinh tai ương,
+gặp tai họa bất trắc không thể giải trừ. Tính tình **độc địa, cuồng ngạo,
+vô lễ bất nghĩa**.`,
+
+    chiTiet: `## Vị trí trong khoa tử vi
+
+Liêm Trinh là **chính tinh phức tạp** — đại diện cho:
+- **Quyền lực**
+- **Sự cương trực**
+- Nhưng cũng dễ vướng **thị phi**
+- **Đào hoa**
+- **Mâu thuẫn nội tâm**
+
+## Bản chất
+
+- **Phương vị:** Bắc Đẩu Tinh
+- **Ngũ hành:** Hỏa
+- **Hóa khí:** Tù + Sát (quyền uy)
+
+## Vai trò theo cung
+
+- **Tại cung Quan Lộc:** chủ về **quan lộc**
+- **Tại cung Thân hoặc cung Mệnh:** là **thứ đào hoa**
+
+→ Liêm Trinh **vừa là họa vừa là phúc** nhưng **họa nhiều hơn phúc** — thân
+phận khá phức tạp.
+
+## 12 cung của lá số
+
+Liêm Trinh là sao có nhiều biến hóa, **trong 12 cung của lá số đều có ảnh
+hưởng nhất định**.
+
+**Hợp với lĩnh vực:**
+- **Chính trị**
+- **Công chức**
+
+→ Bộc lộ rõ nét nhất tại **cung Quan Lộc**.
+
+**Tính chất thứ đào hoa:** thường được bộc lộ trong những công việc, môi
+trường làm việc phải **tiếp xúc nhiều với người khác giới**.
+
+## ⚠️ Liêm Trinh không miếu vượng + Quan Phù
+
+- Hóa thành **tù**
+- Trở thành **sát tinh** gây tai ương họa hại
+- Gặp phải sẽ gặp **tai họa bất trắc không thể giải trừ**
+
+**Chủ về tính tình:**
+- **Độc địa**
+- **Cuồng ngạo**
+- **Vô lễ bất nghĩa**`,
+  },
+
+  // ============================================================
+  // 2. Liêm Trinh - Tù tinh, Sát tinh, Tà tinh
+  // ============================================================
+  {
+    id: 'liem-trinh-tu-sat-ta',
+    title: 'Liêm Trinh - Tù tinh, Sát tinh, Tà tinh',
+    sao: ['Liêm Trinh'],
+    doUuTien: 35,
+    tomTat: `**Liêm Trinh là TÙ TINH:** chữ "Tù" hàm nghĩa tượng hình **người bị
+nhốt trong 4 bức tường** → **có tài nhưng không gặp thời**, bị khống chế, bị
+nhốt lại, **nhiều thị phi**, dễ liên lụy kiện tụng lao lý.
+
+**Là SÁT TINH** đại diện cho **quyền uy** → có lợi cho **chính trị, quân đội,
+cảnh sát, công chức**.
+
+**Là TÀ TINH** → người **cuồng vọng**, không chịu bó buộc, không để ý ánh
+mắt khác lạ — "anh hùng chưa từng rơi lệ", khó tránh **liên lụy thị phi**.`,
+
+    chiTiet: `## Tù tinh
+
+Hàm nghĩa tượng hình của chữ "Tù" là **người bị nhốt trong bốn bức tường**.
+
+→ Người Liêm Trinh:
+- **Có tài nhưng không gặp thời**
+- Bị **khống chế, bị nhốt lại**
+- **Nhiều thị phi**
+- Vất vả khó nhọc
+- Phần nhiều **không phát triển được tài năng**
+- Thường tự chuốc rắc rối → dễ **liên lụy kiện tụng lao lý**
+
+## Sát tinh — quyền uy
+
+Sao Liêm Trinh cũng là **sát tinh đại diện cho quyền uy**:
+- Có lợi cho công việc về **chính trị, quân đội, cảnh sát, công chức**
+- Có tác dụng trong cả **12 cung** của mệnh bàn
+- Đều có thể có biểu hiện tốt
+- Đặc biệt là **cung Quan Lộc** — biểu hiện rõ nhất đặc tính của Liêm Trinh
+
+## Tà tinh
+
+Liêm Trinh chủ về **tà tinh** → là người:
+- **Cuồng vọng**
+- **Không chịu bó buộc**
+- **Không để ý ánh mắt khác lạ** của người khác
+- Nhốt họ cũng tốt mà thả họ cũng tốt
+- Là **anh hùng chưa từng rơi lệ**
+- Khó tránh khỏi bị **liên lụy đến chuyện thị phi**`,
+  },
+
+  // ============================================================
+  // 3. Liêm Trinh - Thứ đào hoa (so sánh với Tham Lang)
+  // ============================================================
+  {
+    id: 'liem-trinh-thu-dao-hoa',
+    title: 'Liêm Trinh - Thứ đào hoa',
+    sao: ['Liêm Trinh'],
+    doUuTien: 35,
+    tomTat: `**Liêm Trinh CHỈ ĐỨNG SAU Tham Lang về đào hoa.**
+
+**Khác biệt:**
+- **Tham Lang:** diện mạo xinh đẹp + đa tài đa nghệ
+- **Liêm Trinh:** **thanh tú, đoan trang, khí chất cao thượng**, có duyên với
+  người khác giới
+
+**Đào hoa Liêm Trinh đi cùng CÔNG VIỆC** — nghề tiếp xúc nhiều người khác
+giới: ăn uống, diễn viên sân khấu, điện ảnh, ca múa nhạc, trang phục, tiếp
+viên hàng không, nhân viên phục vụ quầy.
+
+→ Loại đào hoa **quan hệ công chúng tốt** — "có thể tiếp xúc với mọi loại
+hình", có chút buông thả, **không chỉ là đào hoa nhục dục**.`,
+
+    chiTiet: `## So sánh với Tham Lang
+
+Liêm Trinh **chỉ đứng sau** chòm sao đào hoa của Tham Lang.
+
+**Khác biệt:**
+
+**Tham Lang:**
+- **Diện mạo xinh đẹp**
+- **Đa tài đa nghệ**
+
+**Liêm Trinh:**
+- **Thanh tú, đoan trang**
+- **Khí chất cao thượng**
+- **Có duyên với người khác giới**
+
+## Đào hoa đi cùng công việc
+
+Sự đào hoa của Liêm Trinh **luôn đi cùng với công việc**, hoặc vì tính chất
+của công việc cần phải **tiếp xúc với nhiều người khác giới**:
+
+- **Ngành ăn uống**
+- **Diễn viên ngành sân khấu, điện ảnh**
+- **Ngành ca múa nhạc**
+- **Trang phục**
+- **Nữ tiếp viên hàng không**
+- **Nhân viên phục vụ ở quầy**
+- ...
+
+## Tính chất đào hoa
+
+- Có khả năng **quan hệ công chúng tốt**
+- Là loại hình "có thể **tiếp xúc với mọi loại hình**"
+- Có chút **buông thả**
+- **KHÔNG chỉ là đào hoa nhục dục**`,
+  },
+
+  // ============================================================
+  // 4. Liêm Trinh - Bộ sao tốt
+  // ============================================================
+  {
+    id: 'liem-trinh-bo-sao-tot',
+    title: 'Liêm Trinh - Các bộ sao tốt',
+    sao: ['Liêm Trinh'],
+    doUuTien: 50,
+    tomTat: `**Bộ sao tốt với Liêm Trinh:**
+- **+ Tử Vi:** **uy quyền**
+- **+ Lộc Tồn:** **phú quý**
+- **+ Văn Xương / Văn Khúc:** **chuộng đạo đức lễ nhạc, biết lễ nghi**
+- **+ Thất Sát:** phát đạt khi theo **võ nghiệp** (cố chấp, cá tính mạnh)
+- **+ Thiên Tướng + Tả Phụ + Hữu Bật hội chiếu:** **nắm quyền lớn**
+- **Chịu được Thiên Không + Địa Kiếp** — Liêm độc thủ + Không Kiếp →
+  **nhân viên công chức chức vị cao** hoặc nhân tài KHTN
+
+**Hóa Lộc / Hóa Quyền:**
+- **Hóa Lộc nhập Mệnh:** có **uy quyền**
+- **Hóa Quyền nhập Mệnh hay Quan Lộc:** chủ về **quan lộc**`,
+
+    chiTiet: `## Tử Vi
+
+**Liêm Trinh + Tử Vi:** sẽ có **uy quyền**.
+
+## Lộc Tồn
+
+**Liêm Trinh + Lộc Tồn:** chủ về **phú và quý**.
+
+## Văn Xương, Văn Khúc
+
+**Liêm Trinh + Văn Xương / Văn Khúc:**
+- Chủ về **chuộng đạo đức lễ nhạc**
+- **Biết các lễ nghi**
+
+## Thất Sát
+
+**Liêm Trinh + Thất Sát:**
+- Chủ về **phát đạt khi theo nghiệp Võ**
+- Có thể có **chức võ vinh hiển**
+- Nhưng lại **quá cố chấp** và **cá tính quá mạnh**
+
+## Thiên Tướng + Tả Hữu
+
+Liêm Trinh **thích sao Thiên Tướng**, nếu lại gặp **Tả Phụ + Hữu Bật** hội
+chiếu thì có thể **nắm quyền lớn**.
+
+## Chịu được Thiên Không, Địa Kiếp
+
+Liêm Trinh **có thể chịu được hai sao Thiên Không và Địa Kiếp**.
+
+Khi Liêm Trinh **đứng một mình** mà gặp **Thiên Không, Địa Kiếp:**
+- Phần lớn là **nhân viên công chức có chức vị cao**
+- Hoặc **nhân tài trong lĩnh vực khoa học tự nhiên**
+
+## Hóa Lộc / Hóa Quyền
+
+**Liêm Trinh Hóa Lộc nhập cung Mệnh:**
+- Chủ về có **uy quyền**
+
+**Liêm Trinh Hóa Quyền nhập cung Mệnh hay cung Quan Lộc:**
+- Chủ về **quan lộc**`,
+  },
+
+  // ============================================================
+  // 5. Liêm Trinh - Bộ sao xấu
+  // ============================================================
+  {
+    id: 'liem-trinh-bo-sao-xau',
+    title: 'Liêm Trinh - Các bộ sao xấu',
+    sao: ['Liêm Trinh'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Liêm Trinh kỵ Tứ Sát** (Kình Dương + Đà La + Hỏa Tinh + Linh
+Tinh): **tố tụng, thị phi, tai nạn xe cộ**. Kình Đà → **hình thương**.
+
+⚠️ **+ Cự Môn hãm:** kiện tụng thị phi.
+⚠️ **+ Quan Phù:** hao tài, **phá bại sản nghiệp cha ông**.
+⚠️ **+ Hình + Kỵ:** khó tránh **vạ đổ máu**.
+⚠️ **+ Bạch Hổ:** khó thoát **hình ngục tra tấn**.
+⚠️ **+ Vũ Khúc:** không bị khắc chế, nhưng dễ bị **gỗ đè / rắn rết cắn**.
+⚠️ **+ Hỏa Tinh tại cung hãm hoặc Không Vong:** **nhảy sông / treo cổ**.
+⚠️ **+ Phá Quân, Thái Dương / Thái Âm tại cung hãm:** **dễ mắc tật về mắt**.
+⚠️ **+ Thiên Việt:** dễ **quá đà mà hỏng việc**.
+⚠️ **+ Phá Quân HOẶC + Thiên Phủ + Hỏa Tinh:** dễ **tự rước phiền phức**.`,
+
+    chiTiet: `## Tứ Sát
+
+Liêm Trinh **kỵ bốn Sát tinh:**
+- **Kình Dương + Đà La + Hỏa Tinh + Linh Tinh**
+
+→ Chủ về:
+- **Tố tụng**
+- **Thị phi**
+- **Tai nạn xe cộ**
+
+**Gặp Kình Đà** đều chủ về **hình thương**.
+
+## Cự Môn hãm
+
+⚠️ **Liêm Trinh + Cự Môn tại cung hãm:**
+- Sẽ gặp **kiện tụng thị phi**
+
+## Quan Phù
+
+⚠️ **Liêm Trinh + Quan Phù:**
+- **Hao tài**
+- **Phá bại sản nghiệp của cha ông**
+
+## Hình + Kỵ
+
+⚠️ **Liêm Trinh + Thiên Hình + Hóa Kỵ:**
+- Khó tránh được **vạ đổ máu**
+
+## Bạch Hổ
+
+⚠️ **Liêm Trinh bị Bạch Hổ hình xung:**
+- Khó thoát khỏi **hình ngục tra tấn**
+
+## Vũ Khúc
+
+**Liêm Trinh + Vũ Khúc:**
+- Không bị khắc chế
+- Nhưng dễ bị **gỗ đè** hoặc **rắn rết cắn bị thương**
+
+## Hỏa + Không Vong
+
+⚠️ **Liêm Trinh + Hỏa Tinh tại cung hãm hoặc Không Vong:**
+- Chủ về **nhảy sông** hoặc **treo cổ**
+
+## Phá Quân + Nhật/Nguyệt hãm
+
+⚠️ **Liêm Trinh + Phá Quân + Thái Dương / Thái Âm tại cung hãm:**
+- Dễ mắc **tật về mắt**
+- Vận hạn gặp phải **khó tránh tai ương**
+
+## Thiên Việt
+
+⚠️ **Liêm Trinh đồng cung Thiên Việt:**
+- Dễ vì **quá đà mà hỏng việc, hỏng chuyện**
+
+## Phá Quân hoặc Thiên Phủ + Hỏa Tinh
+
+⚠️ **Liêm Trinh + Phá Quân:**
+- Dễ tự rước phiền phức
+
+⚠️ **Liêm Trinh + Thiên Phủ + Hỏa Tinh:**
+- Dễ **tự mình gây rắc rối** cho mình
+
+## Lưu ý vị trí cung
+
+Liêm Trinh **chỉ hợp với các cung Lộc, Thân, Mệnh** — gặp cát có phúc, gặp
+hung bất lợi.
+
+Nếu đóng tại các cung khác → cần phân biệt rõ là **họa hay phúc**.`,
+  },
+
+  // ============================================================
+  // 6. Liêm Trinh Hóa Kỵ - kỵ nhất
+  // ============================================================
+  {
+    id: 'liem-trinh-hoa-ky',
+    title: 'Liêm Trinh Hóa Kỵ (kỵ nhất)',
+    sao: ['Liêm Trinh'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Liêm Trinh KỴ NHẤT là Hóa Kỵ** — gặp phải sẽ có **nhiều bất
+trắc** (đặc biệt **năm sinh Bính**).
+
+**3 sao kỵ Hóa Kỵ NHẤT:** Liêm Trinh, Tham Lang, Thiên Cơ.
+
+**Liêm Trinh Hóa Kỵ:**
+- Là sao "tù" → Hóa Kỵ thành **bị thắt chặt, không thể mở ra**
+- **Thân và trái tim bị đóng chặt**
+- **Hàng ngàn khó khăn**
+- **Tai họa không nhẹ**`,
+
+    chiTiet: `## Liêm Trinh kỵ nhất Hóa Kỵ
+
+Sao Liêm Trinh **kỵ nhất Hóa Kỵ** — gặp phải sẽ có **nhiều bất trắc**.
+
+→ Đặc biệt với người sinh **năm Bính** (Hóa Kỵ gắn vào Liêm Trinh).
+
+## 3 sao kỵ Hóa Kỵ nhất
+
+Tất cả các sao đều sợ Hóa Kỵ, nhưng đặc biệt **3 sao kỵ Hóa Kỵ nhất**:
+- **Liêm Trinh**
+- **Tham Lang**
+- **Thiên Cơ**
+
+## Liêm Trinh Hóa Kỵ
+
+Liêm Trinh là sao "tù" — khi Hóa Kỵ thành:
+- **Bị thắt chặt, không thể mở ra**
+- **Thân và trái tim bị đóng chặt**
+- **Hàng ngàn khó khăn**
+- **Tai họa không nhẹ**
+
+## So sánh với 2 sao kia
+
+**Thiên Cơ chủ về lo xa, chu đáo:**
+- Hóa Kỵ → mọi việc đều có **sai sót**
+- Càng lo lắng càng có vấn đề
+
+**Tham Lang là quỷ dục vọng:**
+- Hóa Kỵ → **dục vọng quá cao**
+- Mọi cố gắng cuối cùng cũng **bằng không**`,
+  },
+
+  // ============================================================
+  // 7. Cách "Hùng Tú Kiền Nguyên" (Liêm Trinh tại Dần / Thân)
+  // ============================================================
+  {
+    id: 'liem-trinh-cach-hung-tu-kien-nguyen',
+    title: 'Cách "Hùng Tú Kiền Nguyên" (Sao mạnh chầu triều)',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh'],
+    chi: ['Dần', 'Thân'],
+    doUuTien: 90,
+    tomTat: `**"Hùng Tú Kiền Nguyên" (Sao mạnh chầu triều):** Liêm Trinh thủ
+**Mệnh tại Dần / Thân**, **được miếu**, có **Tham Lang tại cung đối diện
+chiếu đến**.
+
+→ Có **tài ngoại giao**, có thể đảm đương những **chức vụ quan trọng**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Liêm Trinh thủ Mệnh tại Dần hoặc Thân**
+- **Được miếu**
+- **Tham Lang ở cung đối diện** chiếu đến
+
+## Ý nghĩa
+
+Cách "Hùng Tú Kiền Nguyên" — **Sao mạnh chầu triều**:
+- Có **tài ngoại giao**
+- Có thể đảm đương những **chức vụ quan trọng**`,
+  },
+
+  // ============================================================
+  // 8. Cách "Liêm Trinh Văn Vũ"
+  // ============================================================
+  {
+    id: 'liem-trinh-cach-van-vu',
+    title: 'Cách "Liêm Trinh Văn Vũ" (văn võ song toàn)',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh', 'Quan Lộc'],
+    doUuTien: 85,
+    tomTat: `**"Liêm Trinh Văn Vũ":** Liêm Trinh đóng tại **Mệnh** hoặc **Quan
+Lộc**, kết hợp với **Vũ Khúc** + **Văn Xương + Văn Khúc** đồng cung hoặc tam
+phương tứ chính hội chiếu.
+
+→ Chủ về **văn võ song toàn**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Liêm Trinh đóng tại cung Mệnh** hoặc **cung Quan Lộc**
+- Sao Vũ Khúc ở cung Quan Lộc (Mệnh có Liêm Trinh thì Quan Lộc thường có Vũ Khúc)
+- Lại gặp **Văn Xương + Văn Khúc** cùng cung hoặc hội chiếu ở **tam phương tứ chính**
+
+## Ý nghĩa
+
+Cách "Liêm Trinh Văn Vũ" — chủ về **văn võ song toàn**, **giỏi văn giỏi cả võ**.`,
+  },
+
+  // ============================================================
+  // 9. Cách "Sát Củng Liêm Trinh" (XẤU)
+  // ============================================================
+  {
+    id: 'liem-trinh-cach-sat-cung',
+    title: 'Cách "Sát Củng Liêm Trinh" (Sát tinh chầu về Liêm Trinh) - XẤU',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh'],
+    ketHop: ['Thất Sát'],
+    doUuTien: 85,
+    tomTat: `⚠️ **"Sát Củng Liêm Trinh" (Sát tinh chầu về Liêm Trinh):** Liêm
+Trinh đóng **Mệnh**, **Thất Sát đồng cung** hoặc nằm tại **tam phương tứ chính
+hội chiếu**, có thêm **Hóa Kỵ + Tứ Sát** + hội **Phá Quân**.
+
+→ Chủ về **phiêu bạt bất ổn, tai họa triền miên không dứt**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Liêm Trinh đóng tại cung Mệnh**
+- **Thất Sát đồng cung** hoặc nằm tại **cung tam phương tứ chính** hội chiếu
+- Có thêm **Hóa Kỵ**
+- Cùng **Tứ Sát** (Kình Đà Hỏa Linh)
+- Hội **Phá Quân**
+
+## Ý nghĩa
+
+Cách "Sát Củng Liêm Trinh" — chủ về:
+- **Phiêu bạt bất ổn**
+- **Tai họa triền miên không dứt**`,
+  },
+
+  // ============================================================
+  // 10. Cách "Trinh Cư Mão Dậu"
+  // ============================================================
+  {
+    id: 'liem-trinh-cach-trinh-cu-mao-dau',
+    title: 'Cách "Trinh Cư Mão Dậu"',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh'],
+    chi: ['Mão', 'Dậu'],
+    doUuTien: 85,
+    tomTat: `**"Trinh Cư Mão Dậu":** Liêm Trinh thủ **Mệnh tại Mão hoặc Dậu**,
+lại xuất hiện **Sát tinh**.
+
+→ Thường làm **nhân viên tại các đơn vị hành chính công**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Liêm Trinh thủ Mệnh tại Mão hoặc Dậu**
+- Lại xuất hiện **Sát tinh**
+
+## Ý nghĩa
+
+Cách "Trinh Cư Mão Dậu" — thường làm **nhân viên tại các đơn vị hành chính công**.`,
+  },
+
+  // ============================================================
+  // 11. Cách "Hình Tù Giáp Ấn" (Liêm Trinh + Thiên Tướng + Kình Dương)
+  // ============================================================
+  {
+    id: 'liem-trinh-cach-hinh-tu-giap-an',
+    title: 'Cách "Hình Tù Giáp Ấn" (Tý / Ngọ + Thiên Tướng + Kình Dương)',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh'],
+    chi: ['Tý', 'Ngọ'],
+    ketHop: ['Thiên Tướng'],
+    doUuTien: 88,
+    tomTat: `⚠️ **"Hình Tù Giáp Ấn":** Liêm Trinh (**tù**) + Thiên Tướng (**ấn**)
+cùng đóng **Mệnh tại Tý hoặc Ngọ**, lại có **Kình Dương (hình)** đồng cung.
+
+→ Tuy chủ về **vũ dũng**, nhưng do bị **hình thương** nên sẽ gặp **tai họa
+nặng**, **nhiều thị phi**, cả đời gặp nhiều **tranh chấp tố tụng**.`,
+
+    chiTiet: `## Điều kiện cách
+
+- **Liêm Trinh** (chủ "tù")
+- **Thiên Tướng** (chủ "ấn")
+- Cùng đóng cung **Mệnh tại Tý hoặc Ngọ**
+- Lại gặp thêm **Kình Dương** (chủ "hình") đồng cung
+
+→ Tạo thành **"Hình + Tù giáp Ấn"**.
+
+## Ý nghĩa
+
+- Tuy chủ về **vũ dũng**
+- Nhưng do bị **hình thương** nên sẽ gặp **tai họa nặng**
+- **Nhiều hình thương tai họa**
+- **Nhiều thị phi**
+- Cả đời gặp nhiều chuyện bị **tranh chấp tố tụng**`,
+  },
+
+  // ============================================================
+  // 12. Liêm Trinh tại Mệnh - Dung mạo
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-menh-dung-mao',
+    title: 'Liêm Trinh tại Mệnh - Dung mạo',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh'],
+    doUuTien: 85,
+    tomTat: `**Liêm Trinh tại Mệnh — dung mạo:**
+- **Thân hình vừa phải**
+- **Lông mày rộng**, gò xương lông mày **cao lộ**
+- **Miệng rộng**, **răng rõ nét**
+- **Mặt vàng**, **mắt sáng**
+- Nói **nhanh**, ngữ điệu **lên xuống nhịp nhàng**
+- Bề ngoài rất **có tinh thần**, dễ tạo cảm giác là **người có bản tính tốt**`,
+
+    chiTiet: `## Đặc điểm dung mạo
+
+Người có sao Liêm Trinh tọa thủ cung Mệnh có:
+- **Thân hình vừa phải**
+- **Lông mày rộng**
+- **Miệng rộng**
+- **Mặt vàng**
+- **Mắt sáng**
+- **Gò xương lông mày cao lộ**
+- **Răng rõ nét**
+
+## Cách nói chuyện
+
+- Nói **nhanh**
+- Ngữ điệu **lên xuống nhịp nhàng**
+
+## Ấn tượng tổng thể
+
+Nhìn bề ngoài rất **có tinh thần** → dễ tạo cảm giác là **người có bản tính tốt**.`,
+  },
+
+  // ============================================================
+  // 13. Liêm Trinh tại Mệnh - Tính cách & nội tâm
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-menh-tinh-cach',
+    title: 'Liêm Trinh tại Mệnh - Tính cách & nội tâm',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh'],
+    doUuTien: 85,
+    tomTat: `**Liêm Trinh tại Mệnh — tính cách:**
+- **Trong lòng nhiều thù hận**, không coi trọng lễ nghĩa
+- Tính **thẳng không sợ**, biểu đạt tốt
+- Cá tính ứng xử **cứng nhắc** nhưng đời sống lại **buông thả, phóng đãng**
+- **Nóng nảy không ổn định**, đa nghi, **thích cạnh tranh, dễ phẫn nộ**
+- **Ưa mạo hiểm, thích cờ bạc**
+- "Tự cho mình là đúng", **không dựa vào lục thân**
+- Coi trọng lý lẽ nhưng không hòa đồng, **dám làm dám chịu**
+- Quan niệm đạo đức **khá kém**, **ích kỷ**
+
+✅ **Mặt tốt:** **tham vọng thăng tiến mạnh**, coi trọng nghề nghiệp, **tận
+tâm tận lực**, có **khả năng lãnh đạo**, nhiệt tình giúp đỡ, không khuất phục.
+
+⚠️ **Khi thanh nhàn:** sa đà **hoan lạc**, **hay khiêu khích** → đắc tội
+với người. Có ý kiến khác liền **phê bình, chỉ trích ngay lập tức**.`,
+
+    chiTiet: `## Bản chất nội tâm
+
+- **Trong lòng nhiều thù hận**
+- **Không coi trọng lễ nghĩa**
+- Tính **thẳng không sợ hãi**
+- **Khả năng biểu đạt tốt**
+- Cá tính ứng xử thường **cứng nhắc**
+- Nhưng đời sống lại **buông thả, phóng đãng**
+- **Phản ứng nhanh**
+
+## Tính tình nóng nảy
+
+- **Nóng nảy không ổn định**
+- **Tính đa nghi**
+- **Thích cạnh tranh** → dễ **phẫn nộ**
+- **Ưa mạo hiểm, thích cờ bạc**
+- Phần lớn có tính **"tự cho mình là đúng"**
+- **Không dựa vào lục thân**
+
+## Trí tuệ + đạo đức
+
+- **Coi trọng lý lẽ** nhưng **không hòa đồng**
+- **Trái phải phân rõ**
+- **Dám làm dám chịu**, chịu trách nhiệm với nhiệm vụ của mình
+- Thích **quan niệm mới**
+- Có chút **"khôn vặt"** trong đầu cơ
+- Quan niệm **đạo đức khá kém**
+- **Ích kỷ**
+
+## ✅ Mặt tích cực
+
+- Là người có **tham vọng thăng tiến mạnh**
+- **Coi trọng nghề nghiệp**
+- **Tận tâm tận lực với công việc**
+- Có **khả năng lãnh đạo**
+- **Nhiệt tình giúp đỡ người khác**
+- **Không chịu khuất phục người** → cuối cùng đạt được **thành tựu**
+
+## ⚠️ Mặt tiêu cực
+
+- **Thích náo nhiệt**
+- Khi thanh nhàn thì lại **sa đà vào hoan lạc**
+- **Tính hay khiêu khích** → thường bị **đắc tội với người**
+- **Khẳng khái với đồng nghiệp và bạn bè**
+- **Có duyên với công chúng**
+- Khi có ý kiến khác người khác thì **phê bình, chỉ trích ngay lập tức**`,
+  },
+
+  // ============================================================
+  // 14. Liêm Trinh tại Mệnh - Mệnh nữ
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-menh-nu',
+    title: 'Liêm Trinh tại Mệnh - Mệnh nữ',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh'],
+    doUuTien: 75,
+    tomTat: `**Mệnh nữ Liêm Trinh:**
+- **Thông minh**
+- **Khí chất đoan trang**
+- **Tính cách mạnh mẽ**
+- **Lòng tự tôn cao**
+- Mọi việc đều rất **cố chấp**
+- **Hay đố kỵ**
+- **Hay giám sát chồng**`,
+
+    chiTiet: `## Đặc tính mệnh nữ
+
+- **Thông minh**
+- **Khí chất đoan trang**
+- Tính cách **mạnh mẽ**
+- **Lòng tự tôn cao**
+- Mọi việc đều rất **cố chấp**
+- **Hay đố kỵ**
+- **Hay giám sát chồng**`,
+  },
+
+  // ============================================================
+  // 15. Liêm Trinh tại Mệnh - Cuộc đời (thanh niên → trưởng thành)
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-menh-cuoc-doi',
+    title: 'Liêm Trinh tại Mệnh - Cuộc đời (thanh niên → trưởng thành)',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh'],
+    doUuTien: 75,
+    tomTat: `**Người Liêm Trinh thủ Mệnh — đời người:**
+
+**Thanh niên:** phần lớn **gian khổ vất vả** → tạo bản năng **tôi luyện chịu
+đựng gian khổ**.
+
+**Trưởng thành:** sự nghiệp có thành tựu → **chú trọng hưởng thụ vật chất**,
+**không ngăn được hấp dẫn của dục vọng** → để lộ **bản tính tham lam, cạnh
+tranh, tà ác** → dễ đi vào con đường **đầu cơ mạo hiểm, cờ bạc**.
+
+**Quan Lộc Liêm Trinh KHÁC Thái Dương:**
+- **Thái Dương Quan Lộc:** trạng thái ĐỘNG, bỏ sức lao động mới có thu hoạch
+- **Liêm Trinh Quan Lộc:** trạng thái TĨNH, đại diện cho **kinh doanh và kiếm
+  tiền** → "gần mực thì đen, gần đèn thì rạng"`,
+
+    chiTiet: `## Đời người: thanh niên → trưởng thành
+
+**Khi còn thanh niên:**
+- Phần lớn là **gian khổ vất vả**
+- Tạo thành bản năng được **tôi luyện chịu đựng gian khổ**
+
+**Sau khi trưởng thành:**
+- Sự nghiệp một khi có **thành tựu**
+- Sẽ **chú trọng hưởng thụ vật chất**
+- **Không ngăn được sự hấp dẫn của dục vọng**
+- → Để lộ ra bản tính:
+  - **Tham lam**
+  - **Cạnh tranh**
+  - **Tà ác**
+- → Dễ đi vào con đường **đầu cơ mạo hiểm, cờ bạc**
+
+## So sánh Quan Lộc với Thái Dương
+
+Cả Liêm Trinh và Thái Dương đều chủ về Quan Lộc, nhưng khác nhau:
+
+**Quan Lộc của Thái Dương:**
+- **Trạng thái động**
+- Cần bỏ **sức lao động** mới có thể có thu hoạch
+
+**Quan Lộc của Liêm Trinh:**
+- **Trạng thái tĩnh**
+- Đại diện cho trạng thái **kinh doanh và kiếm tiền**
+
+## Bản chất "gần mực thì đen, gần đèn thì rạng"
+
+Vì Liêm Trinh có bản chất:
+- **Tham lam**
+- **Thích cạnh tranh**
+- **Nhiều mưu liều lĩnh**
+- Lại chủ về **tà**
+
+→ Thích dùng **thủ đoạn đầu cơ không chính đáng**, như **cờ bạc** để kiếm tiền.
+
+→ Có thể nói là **thiện ác đều có**, tạo hóa tạo ra nó là **"gần mực thì đen,
+gần đèn thì rạng"**.`,
+  },
+
+  // ============================================================
+  // 16. Liêm Trinh tại Mệnh - Triết lý "Bảo vệ" + 3 khuynh hướng
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-menh-bao-ve',
+    title: 'Liêm Trinh tại Mệnh - Triết lý "Bảo vệ" + 3 khuynh hướng',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh'],
+    doUuTien: 70,
+    tomTat: `**"Tù" của Liêm Trinh = nhốt vào KHUNG** để có cảm giác an toàn
+và **trời đất riêng**. Người Liêm Trinh giỏi **"bảo vệ", "trang điểm" cho
+mình**, hiểu cách bảo vệ đoàn thể.
+
+⚠️ **Bảo vệ không hợp lý → 3 khuynh hướng:**
+1. **Lo sợ bất an** (nếu nhiều sự sợ hãi)
+2. **Bảo vệ quá mức → cơ thể dễ DỊ ỨNG** (da, mũi, đường hô hấp, thuốc, đồ ăn)
+3. **Sai lầm khi lợi dụng quan hệ** — nịnh nọt người không tốt → căm hận; cầu
+   cứu người không thể giúp → ấm ức
+
+✅ **Bảo vệ HAI CHIỀU** (mình + người khác): bốn bức tường biến mất → phát
+huy hết tài năng, vươn lên dẫn đầu, làm gì cũng được như ý.`,
+
+    chiTiet: `## Tù = nhốt vào khung
+
+"Tù" của Liêm Trinh là **"nhốt" người vào trong khung** → mới có thể có:
+- **Trời đất riêng**
+- **Cảm giác an toàn**
+
+Do đó, người Liêm Trinh thủ Mệnh thường:
+- Giỏi **"bảo vệ", "trang điểm"** cho mình
+- Hiểu cách thức **bảo vệ đoàn thể**
+
+→ **Bảo vệ hợp lý** làm cho Liêm Trinh có **nhiều ưu điểm hơn hẳn các sao khác**.
+
+## ⚠️ Khi bảo vệ KHÔNG hợp lý — 3 khuynh hướng
+
+### 1. Lo sợ bất an
+
+Đối với con người hoặc môi trường, nếu có **nhiều sự sợ hãi** → luôn ở vào
+trạng thái **lo sợ bất an**.
+
+### 2. Cơ thể dễ dị ứng
+
+**Bảo vệ quá mức** thường dẫn đến **thể chất dễ bị dị ứng:**
+- **Da**
+- **Mũi**
+- **Đường hô hấp** bị dị ứng
+- Dị ứng với **thuốc**
+- Dị ứng với **đồ ăn**
+
+### 3. Sai lầm khi lợi dụng quan hệ
+
+- **Nịnh nọt một số người không tốt với mình** → kết quả là làm cho mình
+  càng thêm **căm hận**
+- **Đi cầu cứu người không thể giúp đỡ mình** → cuối cùng cũng thất bại,
+  làm cho mình **ấm ức trong lòng**
+
+## ✅ Bảo vệ hai chiều
+
+Người Liêm Trinh nếu biết bảo vệ bản thân **có tính hai chiều** — tức:
+- **Vừa bảo vệ mình**
+- **Đồng thời cũng bảo vệ người khác**
+
+→ Mới có thể làm cho **thân thể và trái tim** của Liêm Trinh **hòa làm một**.
+
+**Nếu có thể bảo vệ người khác trước:**
+- **Bốn bức tường bao xung quanh tự nhiên sẽ biến mất**
+- Liêm Trinh sẽ **không bị "nhốt" nữa**
+- Có thể **phát huy hết tài năng**
+- **Vươn lên dẫn đầu**
+- **Làm việc gì cũng được như ý**
+- Để có thể bộc lộ hết khả năng
+
+## Tu thân dưỡng tính
+
+Liêm Trinh có cá tính **"nóng nảy dễ bùng nổ"** — bề ngoài thường không dễ
+cảnh giác, mà **nội tâm dục vọng vật chất cực kỳ mạnh**.
+
+→ Cần phải **tu thân dưỡng tính** về sau — đó là quy luật của cuộc sống.
+
+**Tình cảm trước hôn nhân và sau hôn nhân:**
+- Nếu **như một, không thay đổi** → có thể kiềm chế được **khuyết điểm** của
+  Liêm Trinh
+- Phát huy triệt để những đặc tính → mang lại những **biểu hiện xuất sắc**`,
+  },
+
+  // ============================================================
+  // 17. Liêm Trinh tại Mệnh - Nghề nghiệp 5 nhóm
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-menh-nghe-nghiep',
+    title: 'Liêm Trinh tại Mệnh - Nghề nghiệp 5 nhóm',
+    sao: ['Liêm Trinh'],
+    cung: ['Mệnh'],
+    doUuTien: 80,
+    tomTat: `**Liêm Trinh chủ về Sát (quyền uy) + Tù (bảo vệ, trang điểm) + Đào
+hoa (tiếp xúc người khác giới) + thích giao tiếp + làm đẹp.** 5 nhóm nghề phù hợp:
+
+1. **Quân đội, cảnh sát, chính trị, công chức**, giáo dục nhi đồng, bảo mẫu
+   (bảo vệ đất nước, nhân dân, trẻ nhỏ)
+2. **Quan hệ quần chúng, phát thanh, quản lý hành chính, công tác xã hội**
+   (vận dụng đặc tính giao tiếp)
+3. **Biểu diễn, giải trí** (thích làm đẹp)
+4. **Chuyên viên làm đẹp, thời trang, bác sĩ chỉnh hình, đồ trang sức / mỹ
+   phẩm / mỹ nghệ**
+5. **Ăn uống, phục vụ quần chúng** + ngành **tiếp xúc nhiều người khác giới**`,
+
+    chiTiet: `## Đặc tính nghề
+
+Liêm Trinh chủ về:
+- **Sát** (quyền uy)
+- **Tù** (bảo vệ và trang điểm)
+- Tiếp đến là **đào hoa** (tiếp xúc nhiều với người khác giới)
+- Đặc tính **thích giao tiếp, thích quan hệ, thích làm đẹp**
+
+→ Nghề nghiệp thích hợp gồm 5 nhóm:
+
+## Nhóm 1: Quyền uy + bảo vệ
+
+- **Quân đội**
+- **Cảnh sát**
+- **Chính trị**
+- **Công chức**
+- **Giáo dục cho nhi đồng**
+- **Bảo mẫu**
+
+→ **Bảo vệ đất nước, nhân dân và trẻ nhỏ.**
+
+## Nhóm 2: Giao tiếp + quan hệ
+
+- **Quan hệ quần chúng**
+- **Phát thanh quần chúng**
+- **Quản lý hành chính**
+- **Công tác xã hội**
+
+→ Vận dụng đặc tính **thích giao tiếp, thích quan hệ**.
+
+## Nhóm 3: Biểu diễn
+
+- **Công việc biểu diễn**
+- **Giải trí**
+
+→ Phát huy đặc tính **thích làm đẹp**.
+
+## Nhóm 4: Làm đẹp + thẩm mỹ
+
+- **Chuyên viên làm đẹp**
+- **Thời trang**
+- **Bác sĩ khoa ngoại chỉnh hình**
+- **Đồ trang sức, mỹ phẩm, mỹ nghệ**
+
+## Nhóm 5: Phục vụ + tiếp xúc người khác giới
+
+- **Ngành ăn uống**
+- **Phục vụ quần chúng**
+- Những ngành **tiếp xúc nhiều với người khác giới**
+
+## Cách giao tiếp
+
+Liêm Trinh **thích giao tiếp, thể hiện, làm đẹp**. Hiểu được đạo lý:
+- **"Cho đi trước thì sẽ thu hoạch trước"**
+- **"Một mình vui không bằng tất cả vui"**
+
+→ Khéo léo đối nhân xử thế, thiết lập **mối quan hệ giao tiếp tốt đẹp**.`,
+  },
+
+  // ============================================================
+  // 18. Liêm Trinh tại Dần / Thân nhập miếu độc tọa
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-dan-than-mieu-doc-toa',
+    title: 'Liêm Trinh tại Dần / Thân (nhập miếu, độc tọa)',
+    sao: ['Liêm Trinh'],
+    chi: ['Dần', 'Thân'],
+    doUuTien: 85,
+    tomTat: `**Liêm Trinh tọa tại Dần / Thân — nhập miếu, độc tọa:** **phúc khí
+toàn diện**.
+
+⚠️ **Tuy nhiên:**
+- **Mệnh thọ KHÔNG dài**
+- **Tình cảm cũng KHÔNG thuận lợi**
+- Thường gặp nhiều **hình thương**`,
+
+    chiTiet: `## Đặc tính
+
+Sao Liêm Trinh tọa tại **Dần** hoặc **Thân**, **nhập miếu**, **độc tọa**:
+- **Phúc khí toàn diện**
+
+## ⚠️ Tuy nhiên
+
+- **Mệnh thọ không dài**
+- **Tình cảm cũng không thuận lợi**
+- Thường gặp nhiều **hình thương**`,
+  },
 ];
