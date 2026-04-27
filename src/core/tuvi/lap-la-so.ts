@@ -18,6 +18,12 @@ import {
   tinhSaoTheoNgaySinh,
   tinhSaoOffsetTuLocTon,
   tinhKhoiViet, tinhLuuHa, BANG_TU_HOA,
+  tinhThienTru, tinhThienQuanPhuc,
+  SAO_DONG_CUNG_THAI_TUE,
+  tinhSaoNghichTuNam,
+  tinhSaoTheoTamHopNam,
+  tinhCoThanQuaTu,
+  tinhPhaToai,
 } from './phu-tinh';
 import { CHINH_TINH_LIST } from './types';
 
@@ -201,6 +207,53 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
       phuTinhTheoCung[chi].push({ ten: `${hoaName} (${hostName})`, loai });
     }
   }
+
+  // 8.18. Thiên Trù, Thiên Quan, Thiên Phúc (theo Can năm)
+  const chiTrU = tinhThienTru(canChiNam.can);
+  if (!phuTinhTheoCung[chiTrU]) phuTinhTheoCung[chiTrU] = [];
+  phuTinhTheoCung[chiTrU].push({ ten: 'Thiên Trù', loai: 'phụ tinh' });
+
+  const quanPhuc = tinhThienQuanPhuc(canChiNam.can);
+  for (const [sao, chi] of Object.entries(quanPhuc)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
+  }
+
+  // 8.19. Sao đồng cung Vòng Thái Tuế (Long Trì, Nguyệt Đức, Thiên Hư, Thiên Đức)
+  for (const [sao, hostInThaiTue] of Object.entries(SAO_DONG_CUNG_THAI_TUE)) {
+    const chi = vongThaiTue[hostInThaiTue];
+    if (chi) {
+      if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+      phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
+    }
+  }
+
+  // 8.20. Sao khởi cung X (năm Tý) nghịch đến chi năm
+  const saoNghichNam = tinhSaoNghichTuNam(canChiNam.chi);
+  for (const [sao, chi] of Object.entries(saoNghichNam)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
+  }
+
+  // 8.21. Sao theo tam hợp năm (Hoa Cái, Đào Hoa, Thiên Mã, Kiếp Sát)
+  const saoTamHop = tinhSaoTheoTamHopNam(canChiNam.chi);
+  for (const [sao, chi] of Object.entries(saoTamHop)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    const loai = sao === 'Kiếp Sát' ? 'sát tinh' : 'phụ tinh';
+    phuTinhTheoCung[chi].push({ ten: sao, loai });
+  }
+
+  // 8.22. Cô Thần + Quả Tú (theo nhóm 3 chi)
+  const coThan = tinhCoThanQuaTu(canChiNam.chi);
+  for (const [sao, chi] of Object.entries(coThan)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
+  }
+
+  // 8.23. Phá Toái (theo Tứ sinh / Tứ chính / Tứ mộ)
+  const chiPhaToai = tinhPhaToai(canChiNam.chi);
+  if (!phuTinhTheoCung[chiPhaToai]) phuTinhTheoCung[chiPhaToai] = [];
+  phuTinhTheoCung[chiPhaToai].push({ ten: 'Phá Toái', loai: 'sát tinh' });
 
   // 9. Tạo cấu trúc CungTrongLaSo cho từng cung
   const cacCung: CungTrongLaSo[] = cung12.map(c => ({

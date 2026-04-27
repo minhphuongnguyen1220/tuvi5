@@ -399,6 +399,142 @@ export function tinhLuuHa(canNamSinh: Can): Chi {
  *
  * Chú ý: Hóa Khoa/Kỵ có thể gắn vào phụ tinh (Văn Xương, Văn Khúc, Tả Phụ, Hữu Bật).
  */
+/**
+ * Thiên Trù theo Can năm sinh.
+ */
+const BANG_THIEN_TRU: Record<Can, Chi> = {
+  'Giáp': 'Tỵ',  'Ất': 'Ngọ',  'Bính': 'Tý',  'Đinh': 'Tỵ',
+  'Mậu':  'Ngọ', 'Kỷ': 'Thân', 'Canh': 'Dần', 'Tân':  'Ngọ',
+  'Nhâm': 'Dậu', 'Quý': 'Tuất',
+};
+export function tinhThienTru(canNamSinh: Can): Chi {
+  return BANG_THIEN_TRU[canNamSinh];
+}
+
+/**
+ * Thiên Quan + Thiên Phúc theo Can năm sinh.
+ */
+const BANG_THIEN_QUAN: Record<Can, Chi> = {
+  'Giáp': 'Mùi', 'Ất': 'Thìn', 'Bính': 'Tỵ',  'Đinh': 'Dần',
+  'Mậu':  'Mão', 'Kỷ': 'Dậu',  'Canh': 'Hợi', 'Tân':  'Dậu',
+  'Nhâm': 'Tuất','Quý': 'Ngọ',
+};
+const BANG_THIEN_PHUC: Record<Can, Chi> = {
+  'Giáp': 'Dậu', 'Ất': 'Thân', 'Bính': 'Tý',  'Đinh': 'Hợi',
+  'Mậu':  'Mão', 'Kỷ': 'Dần',  'Canh': 'Ngọ', 'Tân':  'Tỵ',
+  'Nhâm': 'Ngọ', 'Quý': 'Tỵ',
+};
+export function tinhThienQuanPhuc(canNamSinh: Can): Record<string, Chi> {
+  return {
+    'Thiên Quan': BANG_THIEN_QUAN[canNamSinh],
+    'Thiên Phúc': BANG_THIEN_PHUC[canNamSinh],
+  };
+}
+
+/**
+ * Sao đồng cung với sao trong Vòng Thái Tuế.
+ *   Long Trì   ↔ Quan Phù
+ *   Nguyệt Đức ↔ Tử Phù
+ *   Thiên Hư   ↔ Tuế Phá
+ *   Thiên Đức  ↔ Phúc Đức (sao trong Vòng Thái Tuế, offset 9 từ Thái Tuế)
+ */
+export const SAO_DONG_CUNG_THAI_TUE: Record<string, string> = {
+  'Long Trì':   'Quan Phù',
+  'Nguyệt Đức': 'Tử Phù',
+  'Thiên Hư':   'Tuế Phá',
+  'Thiên Đức':  'Phúc Đức',
+};
+
+/**
+ * Sao khởi cung X (năm Tý), đếm NGHỊCH đến chi năm sinh.
+ */
+export const SAO_NGHICH_TU_NAM: Array<{ ten: string; chiKhoi: Chi }> = [
+  { ten: 'Thiên Khốc', chiKhoi: 'Ngọ' },
+  { ten: 'Hồng Loan',  chiKhoi: 'Mão' },
+  { ten: 'Thiên Hỷ',   chiKhoi: 'Dậu' },
+  { ten: 'Phượng Các', chiKhoi: 'Tuất' },
+  { ten: 'Giải Thần',  chiKhoi: 'Tuất' },
+];
+
+export function tinhSaoNghichTuNam(chiNamSinh: Chi): Record<string, Chi> {
+  const idxNam = CHI_LIST.indexOf(chiNamSinh);
+  const result: Record<string, Chi> = {};
+  for (const { ten, chiKhoi } of SAO_NGHICH_TU_NAM) {
+    const idxKhoi = CHI_LIST.indexOf(chiKhoi);
+    result[ten] = CHI_LIST[mod12(idxKhoi - idxNam)];
+  }
+  return result;
+}
+
+/**
+ * Sao theo tam hợp Chi năm sinh.
+ *   Hoa Cái, Đào Hoa, Thiên Mã, Kiếp Sát
+ */
+type TamHop = 'Dần-Ngọ-Tuất' | 'Thân-Tý-Thìn' | 'Tỵ-Dậu-Sửu' | 'Hợi-Mão-Mùi';
+
+const TAM_HOP_CUA_CHI: Record<Chi, TamHop> = {
+  'Dần': 'Dần-Ngọ-Tuất', 'Ngọ': 'Dần-Ngọ-Tuất', 'Tuất': 'Dần-Ngọ-Tuất',
+  'Thân': 'Thân-Tý-Thìn', 'Tý': 'Thân-Tý-Thìn', 'Thìn': 'Thân-Tý-Thìn',
+  'Tỵ': 'Tỵ-Dậu-Sửu', 'Dậu': 'Tỵ-Dậu-Sửu', 'Sửu': 'Tỵ-Dậu-Sửu',
+  'Hợi': 'Hợi-Mão-Mùi', 'Mão': 'Hợi-Mão-Mùi', 'Mùi': 'Hợi-Mão-Mùi',
+};
+
+const SAO_THEO_TAM_HOP_NAM: Record<string, Record<TamHop, Chi>> = {
+  'Hoa Cái':  { 'Dần-Ngọ-Tuất': 'Tuất', 'Thân-Tý-Thìn': 'Thìn', 'Tỵ-Dậu-Sửu': 'Sửu', 'Hợi-Mão-Mùi': 'Mùi' },
+  'Đào Hoa':  { 'Dần-Ngọ-Tuất': 'Mão',  'Thân-Tý-Thìn': 'Dậu',  'Tỵ-Dậu-Sửu': 'Ngọ', 'Hợi-Mão-Mùi': 'Tý' },
+  'Thiên Mã': { 'Dần-Ngọ-Tuất': 'Thân', 'Thân-Tý-Thìn': 'Dần',  'Tỵ-Dậu-Sửu': 'Hợi', 'Hợi-Mão-Mùi': 'Tỵ' },
+  'Kiếp Sát': { 'Dần-Ngọ-Tuất': 'Hợi',  'Thân-Tý-Thìn': 'Tỵ',   'Tỵ-Dậu-Sửu': 'Dần', 'Hợi-Mão-Mùi': 'Thân' },
+};
+
+export function tinhSaoTheoTamHopNam(chiNamSinh: Chi): Record<string, Chi> {
+  const tamHop = TAM_HOP_CUA_CHI[chiNamSinh];
+  const result: Record<string, Chi> = {};
+  for (const [sao, mapping] of Object.entries(SAO_THEO_TAM_HOP_NAM)) {
+    result[sao] = mapping[tamHop];
+  }
+  return result;
+}
+
+/**
+ * Cô Thần + Quả Tú: theo nhóm 3 chi liên tiếp.
+ *   Hợi-Tý-Sửu, Dần-Mão-Thìn, Tỵ-Ngọ-Mùi, Thân-Dậu-Tuất
+ */
+type Nhom3Chi = 'Hợi-Tý-Sửu' | 'Dần-Mão-Thìn' | 'Tỵ-Ngọ-Mùi' | 'Thân-Dậu-Tuất';
+
+const NHOM_3_CHI_CUA_CHI: Record<Chi, Nhom3Chi> = {
+  'Hợi': 'Hợi-Tý-Sửu', 'Tý': 'Hợi-Tý-Sửu', 'Sửu': 'Hợi-Tý-Sửu',
+  'Dần': 'Dần-Mão-Thìn', 'Mão': 'Dần-Mão-Thìn', 'Thìn': 'Dần-Mão-Thìn',
+  'Tỵ': 'Tỵ-Ngọ-Mùi', 'Ngọ': 'Tỵ-Ngọ-Mùi', 'Mùi': 'Tỵ-Ngọ-Mùi',
+  'Thân': 'Thân-Dậu-Tuất', 'Dậu': 'Thân-Dậu-Tuất', 'Tuất': 'Thân-Dậu-Tuất',
+};
+
+const SAO_THEO_NHOM_3_CHI: Record<string, Record<Nhom3Chi, Chi>> = {
+  'Cô Thần': { 'Hợi-Tý-Sửu': 'Dần', 'Dần-Mão-Thìn': 'Tỵ', 'Tỵ-Ngọ-Mùi': 'Thân', 'Thân-Dậu-Tuất': 'Hợi' },
+  'Quả Tú':  { 'Hợi-Tý-Sửu': 'Tuất', 'Dần-Mão-Thìn': 'Sửu', 'Tỵ-Ngọ-Mùi': 'Thìn', 'Thân-Dậu-Tuất': 'Mùi' },
+};
+
+export function tinhCoThanQuaTu(chiNamSinh: Chi): Record<string, Chi> {
+  const nhom = NHOM_3_CHI_CUA_CHI[chiNamSinh];
+  return {
+    'Cô Thần': SAO_THEO_NHOM_3_CHI['Cô Thần'][nhom],
+    'Quả Tú':  SAO_THEO_NHOM_3_CHI['Quả Tú'][nhom],
+  };
+}
+
+/**
+ * Phá Toái: theo Tứ sinh / Tứ chính / Tứ mộ của chi năm.
+ *   Tứ sinh (Dần Thân Tỵ Hợi)   → Dậu
+ *   Tứ chính (Tý Ngọ Mão Dậu)   → Tỵ
+ *   Tứ mộ (Thìn Tuất Sửu Mùi)   → Sửu
+ */
+export function tinhPhaToai(chiNamSinh: Chi): Chi {
+  const TU_SINH: Chi[] = ['Dần', 'Thân', 'Tỵ', 'Hợi'];
+  const TU_CHINH: Chi[] = ['Tý', 'Ngọ', 'Mão', 'Dậu'];
+  if (TU_SINH.includes(chiNamSinh)) return 'Dậu';
+  if (TU_CHINH.includes(chiNamSinh)) return 'Tỵ';
+  return 'Sửu'; // Tứ mộ
+}
+
 export const BANG_TU_HOA: Record<Can, { loc: string; quyen: string; khoa: string; ky: string }> = {
   'Giáp': { loc: 'Liêm Trinh',  quyen: 'Phá Quân',    khoa: 'Vũ Khúc',     ky: 'Thái Dương' },
   'Ất':   { loc: 'Thiên Cơ',    quyen: 'Thiên Lương', khoa: 'Tử Vi',       ky: 'Thái Âm' },
