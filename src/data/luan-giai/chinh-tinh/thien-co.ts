@@ -810,4 +810,238 @@ Tất cả các sao đều sợ Hóa Kỵ, nhưng đặc biệt **3 sao kỵ Hó
 - Khi Hóa Kỵ → **dục vọng quá cao**
 - → **Mọi cố gắng cuối cùng cũng bằng không**`,
   },
+
+  // ============================================================
+  // 16. Thiên Cơ tại Mệnh - Sự nghiệp kỹ thuật & công nghệ (góc nhìn hiện đại)
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-su-nghiep-cong-nghe',
+    title: 'Thiên Cơ tại Mệnh - Sự nghiệp kỹ thuật & công nghệ',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    doUuTien: 78,
+    tomTat: `> "Thiên Cơ chẳng ngắn chẳng dài, lòng lành tay khéo gồm hai nút nghề"
+
+**Đôi bàn tay khéo léo, đa tài đa nghệ.** Thiên Cơ tượng trưng cho **máy móc**
+→ rất có duyên với **kỹ thuật, IT, công nghệ cao**.
+
+✅ **+ Đào Hoa, Hồng Loan:** nét khéo tay phát huy theo hướng **kiến trúc,
+thiết kế, thủ công mỹ nghệ**.
+
+✅ **Trọng đạo khiêm cung + tư duy logic:** giỏi vai trò **nghiên cứu, luật
+pháp** hoặc các lĩnh vực cần **sự cẩn trọng**.
+
+⚠️ **Vận hạn đi qua Thiên Cơ thường báo hiệu sự đổi thay mạnh** — buộc bản
+mệnh phải xoay chuyển kịp thời để nắm thời vận.`,
+
+    chiTiet: `## Câu thơ cổ
+
+> "Thiên Cơ chẳng ngắn chẳng dài, lòng lành tay khéo gồm hai nút nghề"
+
+→ Ý nói Thiên Cơ tại cung Mệnh ám chỉ người sở hữu **đôi bàn tay khéo léo, đa
+tài đa nghệ**.
+
+## Định hướng nghề nghiệp
+
+Ngôi sao này đặc biệt hợp với:
+- **Tham mưu, tư vấn** — nhờ tư duy tính toán và năng lực phân tích tài tình
+
+Do Thiên Cơ tượng trưng cho **máy móc** → bản mệnh rất có duyên với:
+- **Ngành kỹ thuật**
+- **IT**
+- **Công nghệ cao**
+
+## Kết hợp Đào Hoa, Hồng Loan
+
+**Khi đi cùng Đào Hoa, Hồng Loan:**
+- Nét khéo tay của Thiên Cơ được phát huy theo hướng:
+  - **Kiến trúc**
+  - **Thiết kế**
+  - **Thủ công mỹ nghệ**
+
+## Vai trò khác
+
+Với bản tính **trọng đạo khiêm cung + tư duy logic**, đương số rất giỏi:
+- **Nghiên cứu**
+- **Luật pháp**
+- Hoặc các lĩnh vực cần **sự cẩn trọng**
+
+## Vận hạn
+
+Các vận hạn đi qua Thiên Cơ thường báo hiệu **sự đổi thay mạnh** — buộc bản
+mệnh phải **xoay chuyển kịp thời** để nắm lấy thời vận.`,
+  },
+
+  // ============================================================
+  // 17. Thiên Cơ tại Mệnh + Tý / Ngọ - Đầu tư tầm cỡ
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-ty-ngo-dau-tu',
+    title: 'Thiên Cơ tại Mệnh - Tý / Ngọ (đầu tư tầm cỡ)',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    chi: ['Tý', 'Ngọ'],
+    doUuTien: 88,
+    tomTat: `**Thiên Cơ tại Mệnh đắc địa Tý / Ngọ:** đương số sở hữu **đầu óc của
+một nhà đầu tư kinh doanh tầm cỡ**, có những **kế hoạch làm ăn quy mô lớn**.
+
+**Tài lộc:** thể hiện rõ tư duy nhà đầu tư cấp cao tại 2 vị trí này.`,
+
+    chiTiet: `## Đặc tính
+
+Khi Thiên Cơ tọa vị **đắc địa tại Tý hoặc Ngọ**, đương số bộc lộ rõ:
+- **Tư duy của một nhà đầu tư tầm cỡ**
+- Những **kế hoạch làm ăn quy mô lớn**
+
+→ Cá nhân có sao này tại Tý / Ngọ sở hữu **đầu óc của một nhà đầu tư kinh
+doanh tầm cỡ**.`,
+  },
+
+  // ============================================================
+  // 18. Thiên Cơ tại Mệnh - Đặc trưng hôn nhân (cương nhu, công tư phân minh)
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-hon-nhan-cuong-nhu',
+    title: 'Thiên Cơ tại Mệnh - Đặc trưng hôn nhân (cương nhu)',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    doUuTien: 75,
+    tomTat: `**Hôn nhân Mệnh Thiên Cơ:** thường duy trì theo thế **một cương một
+nhu** → tạo nên **sự hòa hợp bền bỉ**.
+
+**Bề ngoài:** đương số chọn cách **nhường nhịn**, nói năng **mềm mỏng**.
+**Bên trong:** lại là người **nắm thế chủ động**, âm thầm điều phối, kiểm soát
+mối quan hệ.
+
+**Người hôn phối:** phần đa **công tư phân minh, rõ ràng** trong mọi vấn đề →
+giúp đương số dễ nắm bắt tình thế, biết tiến lùi.
+
+⚠️ Bản chất "động" của Thiên Cơ khiến đời sống hôn nhân khó tránh **giai đoạn
+trăn trở nội tâm** → mong cầu **bạn đời thẳng thắn, nhất quán**.`,
+
+    chiTiet: `## Thế hôn nhân: cương + nhu
+
+Hôn nhân của người Mệnh Thiên Cơ thường duy trì theo thế **một cương một nhu**
+→ nhờ đó tạo nên **sự hòa hợp bền bỉ**.
+
+## Bề ngoài vs bên trong
+
+**Bề ngoài:**
+- Đương số hay chọn cách **nhường nhịn**
+- Nói năng **mềm mỏng**
+- Để giữ yên cửa nhà
+
+**Bên trong:**
+- Lại là người **nắm thế chủ động**
+- **Âm thầm điều phối** và **kiểm soát mối quan hệ**
+
+## Đặc tính người hôn phối
+
+Người hôn phối phần đa có tính:
+- **Công tư phân minh**
+- **Rõ ràng** trong mọi vấn đề
+
+→ Sự minh bạch này giúp đương số dễ:
+- **Nắm bắt tình thế**
+- **Biết lúc nào nên tiến, lúc nào nên lùi** để giữ hòa khí
+
+## ⚠️ Trăn trở nội tâm
+
+Bản chất **"động"** của Thiên Cơ khiến đời sống hôn nhân khó tránh những giai
+đoạn **trăn trở nội tâm**.
+
+→ Vì vậy, chủ mệnh thường mong cầu vào một người bạn đời:
+- **Thẳng thắn**
+- **Nhất quán** trong lối sống`,
+  },
+
+  // ============================================================
+  // 19. Thiên Cơ tại Mệnh - Sức khỏe đầu não & thần kinh + Hỏa Linh Không Kiếp
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-suc-khoe-than-kinh',
+    title: 'Thiên Cơ tại Mệnh - Sức khỏe đầu não & thần kinh',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    doUuTien: 75,
+    tomTat: `**Thiên Cơ chủ về đầu não và hệ thần kinh** → vấn đề sức khỏe tập
+trung **phương diện tinh thần**.
+
+**Triệu chứng thường gặp:**
+- **Đau đầu, đau nửa đầu**
+- **Căng thẳng thần kinh**
+- Đặc biệt khi **suy nghĩ quá nhiều** hoặc làm việc trí óc liên tục
+
+⚠️ **Đặc biệt khi gặp Hỏa Tinh / Linh Tinh / Không Kiếp:**
+- **Stress kéo dài**
+- **Mất ngủ**
+- **Khó an thần** càng dễ xuất hiện`,
+
+    chiTiet: `## Phương diện sức khỏe chính
+
+Thiên Cơ chủ về **đầu não** và **hệ thần kinh** → vấn đề sức khỏe thường tập
+trung nhiều ở **phương diện tinh thần**.
+
+## Triệu chứng thường gặp
+
+Người mang Mệnh Thiên Cơ dễ gặp:
+- **Đau đầu**
+- **Đau nửa đầu**
+- **Căng thẳng thần kinh**
+
+→ Nhất là khi:
+- **Suy nghĩ quá nhiều**
+- Hoặc **làm việc trí óc liên tục**
+
+## ⚠️ Khi Thiên Cơ + Hỏa Tinh / Linh Tinh / Không Kiếp
+
+Các biểu hiện càng dễ xuất hiện:
+- **Stress kéo dài**
+- **Mất ngủ**
+- **Khó an thần**`,
+  },
+
+  // ============================================================
+  // 20. Thiên Cơ tại Mệnh - Tài lộc
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-tai-loc',
+    title: 'Thiên Cơ tại Mệnh - Tài lộc',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    doUuTien: 80,
+    tomTat: `**Tài lộc người Thiên Cơ tại Mệnh:** đến từ **trí tuệ, mưu trí** —
+KHÔNG phải may rủi.
+
+**Nguồn tiền:** tính toán **kế hoạch tỉ mỉ** + **kỹ năng chuyên môn / tay
+nghề khéo léo bẩm sinh**.
+
+⚠️ **Bản tính thận trọng:** thiếu liều lĩnh, **không thích đứng mũi chịu sào**.
+
+✅ **Lời khuyên:** nên đứng sau làm **nhà hoạch định**, hoặc **kết hợp với cộng
+sự quyết đoán** để hiện thực hóa ý tưởng làm giàu.`,
+
+    chiTiet: `## Nguồn tài lộc
+
+Tài lộc của người có sao Thiên Cơ tại cung Mệnh đến từ:
+- **Trí tuệ và sự mưu trí** — chứ KHÔNG phải may rủi
+
+**Cách kiếm tiền:**
+- Tính toán **kế hoạch tỉ mỉ**
+- Kết hợp cùng **kỹ năng chuyên môn**
+- Hoặc **tay nghề khéo léo bẩm sinh**
+
+## ⚠️ Bản tính thận trọng
+
+Do bản tính thận trọng, Thiên Cơ thường:
+- **Thiếu tính liều lĩnh**
+- **Không thích đứng mũi chịu sào**
+
+## Lời khuyên
+
+Bản mệnh nên:
+- **Đứng sau làm nhà hoạch định**
+- Hoặc **kết hợp với các cộng sự quyết đoán** để hiện thực hóa các ý tưởng
+  làm giàu của mình`,
+  },
 ];
