@@ -873,28 +873,52 @@ mệnh phải **xoay chuyển kịp thời** để nắm lấy thời vận.`,
   },
 
   // ============================================================
-  // 17. Thiên Cơ tại Mệnh + Tý / Ngọ - Đầu tư tầm cỡ
+  // 17. Thiên Cơ tại Mệnh + Tý / Ngọ - Nhà chiến lược tài ba
   // ============================================================
   {
     id: 'thien-co-tai-menh-ty-ngo-dau-tu',
-    title: 'Thiên Cơ tại Mệnh - Tý / Ngọ (đầu tư tầm cỡ)',
+    title: 'Thiên Cơ tại Mệnh - Tý / Ngọ (nhà chiến lược)',
     sao: ['Thiên Cơ'],
     cung: ['Mệnh'],
     chi: ['Tý', 'Ngọ'],
     doUuTien: 88,
-    tomTat: `**Thiên Cơ tại Mệnh đắc địa Tý / Ngọ:** đương số sở hữu **đầu óc của
-một nhà đầu tư kinh doanh tầm cỡ**, có những **kế hoạch làm ăn quy mô lớn**.
+    tomTat: `**Tý / Ngọ là vị trí ĐẮC ĐỊA NHẤT của Mệnh Thiên Cơ.** Dù ở thế **độc
+thủ**, sao này vẫn phát huy trọn vẹn khả năng **tính toán, mưu lược, nắm bắt
+thời cơ**.
 
-**Tài lộc:** thể hiện rõ tư duy nhà đầu tư cấp cao tại 2 vị trí này.`,
+**Phong thái:** cẩn trọng nhưng vô cùng **táo bạo** trong hoạch định kinh doanh
+và đầu tư **quy mô lớn**.
 
-    chiTiet: `## Đặc tính
+→ Cách cục điển hình của một **NHÀ CHIẾN LƯỢC TÀI BA** — nhìn xa trông rộng,
+hiểu quy luật vận hành của **tiền bạc và thời thế**. Đầu óc của **nhà đầu tư
+kinh doanh tầm cỡ**.`,
 
-Khi Thiên Cơ tọa vị **đắc địa tại Tý hoặc Ngọ**, đương số bộc lộ rõ:
-- **Tư duy của một nhà đầu tư tầm cỡ**
-- Những **kế hoạch làm ăn quy mô lớn**
+    chiTiet: `## Vị trí đắc địa nhất
 
-→ Cá nhân có sao này tại Tý / Ngọ sở hữu **đầu óc của một nhà đầu tư kinh
-doanh tầm cỡ**.`,
+Cung **Tý / Ngọ** được xem là vị trí **ĐẮC ĐỊA NHẤT** của Mệnh Thiên Cơ.
+
+**Dù ở thế độc thủ**, sao này vẫn phát huy trọn vẹn:
+- Khả năng **tính toán**
+- **Mưu lược**
+- **Nắm bắt thời cơ**
+
+## Phong thái cẩn trọng + táo bạo
+
+Đương số sở hữu:
+- **Phong thái cẩn trọng**
+- Nhưng lại **vô cùng táo bạo** trong việc hoạch định:
+  - **Kế hoạch kinh doanh**
+  - **Đầu tư quy mô lớn**
+
+## Nhà chiến lược tài ba
+
+Đây chính là cách cục điển hình của một **nhà chiến lược tài ba**:
+- Biết **nhìn xa trông rộng**
+- Hiểu **quy luật vận hành của tiền bạc**
+- Hiểu **thời thế**
+
+→ Đầu óc của một **nhà đầu tư kinh doanh tầm cỡ**, có những kế hoạch làm ăn
+**quy mô lớn**.`,
   },
 
   // ============================================================
@@ -1043,5 +1067,373 @@ Bản mệnh nên:
 - **Đứng sau làm nhà hoạch định**
 - Hoặc **kết hợp với các cộng sự quyết đoán** để hiện thực hóa các ý tưởng
   làm giàu của mình`,
+  },
+
+  // ============================================================
+  // 21. Thiên Cơ tại Mệnh + Sửu / Mùi
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-suu-mui',
+    title: 'Thiên Cơ tại Mệnh - Sửu / Mùi',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    chi: ['Sửu', 'Mùi'],
+    doUuTien: 88,
+    tomTat: `**Thiên Cơ Mệnh tại Sửu / Mùi:** **khó tự phát huy năng lực** —
+cần **Tuần Triệt** hoặc **cát tinh nâng đỡ** thì trí tuệ và mưu lược mới bộc
+lộ rõ.
+
+Bản tính khéo léo bẩm sinh vẫn giữ, nhưng **vận trình nhiều biến động, thăng
+trầm** hơn các vị trí khác. Cần **nỗ lực + kiên trì bền bỉ** để nắm thời cơ.
+
+✅ **Khi Thiên Lương ở đối cung:** càng đi xa càng dễ **mở vận** — rời môi
+trường quen thuộc mới gặp **thời cơ và quý nhân**.`,
+
+    chiTiet: `## Đặc tính
+
+Thiên Cơ cung Mệnh an tại **Sửu** hoặc **Mùi** thường:
+- **Khó tự phát huy năng lực**
+- Cần có **Tuần Triệt** hoặc các **cát tinh nâng đỡ** thì trí tuệ và mưu lược
+  mới bộc lộ rõ
+
+## Đặc điểm cuộc đời
+
+- Chủ mệnh vẫn giữ được **bản tính khéo léo bẩm sinh**
+- Vận trình cuộc đời **dễ gặp nhiều biến động và thăng trầm** hơn các vị trí khác
+
+→ Đương số cần:
+- **Nỗ lực không ngừng**
+- **Kiên trì bền bỉ**
+- → Mới có thể nắm bắt được **thời cơ chuyển mình quan trọng**
+
+## Khi Thiên Lương ở đối cung
+
+Cách cục cho thấy:
+- **Càng đi xa càng dễ mở vận**
+- **Rời môi trường quen thuộc** mới gặp **thời cơ và quý nhân**`,
+  },
+
+  // ============================================================
+  // 22. Thiên Cơ tại Mệnh + Dần / Thân (cách "Cơ Âm")
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-dan-than-co-am',
+    title: 'Thiên Cơ tại Mệnh - Dần / Thân (cách "Cơ Âm")',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    chi: ['Dần', 'Thân'],
+    doUuTien: 88,
+    tomTat: `**Thiên Cơ Mệnh tại Dần / Thân = cách "Cơ Âm":** chủ về **mềm mại,
+uyển chuyển, khéo léo trong đối nhân xử thế**.
+
+- **Nam giới:** tính cách **mềm mỏng**
+- **Nữ giới:** **đảm đang, tháo vát vượt trội** trong quán xuyến gia đình
+
+**Cơ Âm thiên về hưởng thụ và cảm xúc** → đam mê **cái đẹp**, tâm hồn **lãng
+mạn**, đôi khi có phần **phù phiếm**.
+
+**Cuộc sống:** gắn liền với **sự di chuyển** hoặc các lĩnh vực **nghệ thuật,
+dịch vụ, ngành nghề chuyên môn cao**.`,
+
+    chiTiet: `## Cách "Cơ Âm"
+
+Thiên Cơ an Mệnh tại **Dần** hoặc **Thân** tạo thành cách **"Cơ Âm"**.
+
+**Đặc điểm chính:**
+- **Mềm mại**
+- **Uyển chuyển**
+- **Khéo léo trong đối nhân xử thế**
+
+## Theo giới tính
+
+**Nam giới mang cách Cơ Âm:**
+- Tính cách **mềm mỏng**
+
+**Nữ giới mang cách Cơ Âm:**
+- **Đảm đang**
+- **Tháo vát vượt trội** trong việc quán xuyến gia đình
+
+## Hưởng thụ và cảm xúc
+
+Cơ Âm **thiên về hưởng thụ và cảm xúc** → người có cách này thường:
+- **Đam mê cái đẹp**
+- **Tâm hồn lãng mạn**
+- Đôi khi có phần **phù phiếm**
+
+## Định hướng cuộc sống
+
+Cuộc sống của đương số thường gắn liền với:
+- **Sự di chuyển**
+- Các lĩnh vực **nghệ thuật, dịch vụ**
+- Ngành nghề **đòi hỏi tính chuyên môn cao**`,
+  },
+
+  // ============================================================
+  // 23. Thiên Cơ tại Mệnh + Mão / Dậu - Mưu sĩ Cự Cơ
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-mao-dau-cu-co',
+    title: 'Thiên Cơ tại Mệnh - Mão / Dậu (mưu sĩ Cự Cơ)',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    chi: ['Mão', 'Dậu'],
+    doUuTien: 88,
+    tomTat: `**Thiên Cơ Mệnh tại Mão / Dậu = cách "Cự Cơ":** khắc họa chân dung
+**bậc mưu sĩ điển hình**.
+
+Trí tuệ thiên bẩm Thiên Cơ + nét sắc sảo / đa nghi Cự Môn → giúp chủ mệnh trở
+thành **nhà tham mưu, luật sư, nhà nghiên cứu xuất sắc**.
+
+✅ **+ Cát tinh nâng đỡ:** công danh hiển hách, tài lộc thuộc hàng **đại phú**.
+
+⚠️ **+ Nhiều sát tinh:** đa mưu túc trí nhưng **gian xảo**, lắm thị phi, dễ
+**"trèo cao ngã đau"**.`,
+
+    chiTiet: `## Cách "Cự Cơ" — mưu sĩ điển hình
+
+Tại vị trí **Mão hoặc Dậu**, Thiên Cơ tọa Mệnh **hội hợp cùng Cự Môn** tạo nên
+cách cục **"Cự Cơ"** — khắc họa chân dung của một **bậc mưu sĩ điển hình**.
+
+## Đặc tính cá nhân
+
+Trí tuệ thiên bẩm của Thiên Cơ kết hợp với **nét sắc sảo, tính đa nghi** của
+Cự Môn → giúp chủ mệnh trở thành:
+- **Nhà tham mưu**
+- **Luật sư**
+- **Nhà nghiên cứu xuất sắc**
+
+## Con dao hai lưỡi
+
+**Gặp cát tinh nâng đỡ:**
+- Đương số dễ đạt **công danh hiển hách**
+- **Tài lộc thuộc hàng đại phú**
+
+⚠️ **Nếu hội nhiều sát tinh:**
+- Bản mệnh dù **đa mưu túc trí** nhưng **gian xảo**
+- Cuộc đời **lắm thị phi**
+- Dễ rơi vào cảnh **"trèo cao ngã đau"**`,
+  },
+
+  // ============================================================
+  // 24. Thiên Cơ tại Mệnh + Thìn / Tuất - Cách "Cơ Lương"
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-thin-tuat-co-luong',
+    title: 'Thiên Cơ tại Mệnh - Thìn / Tuất (cách "Cơ Lương")',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    chi: ['Thìn', 'Tuất'],
+    doUuTien: 88,
+    tomTat: `**Thiên Cơ Mệnh tại Thìn / Tuất = cách "Cơ Lương":** trí tuệ gắn với
+**đạo lý và chiều sâu nhân sinh**.
+
+> "Cơ Lương tương hội, thiện đàm binh"
+
+→ Ám chỉ mẫu người **giỏi lý luận, đàm phán, nghiên cứu chuyên môn**.
+
+Sự kết hợp 2 sao thiện lương → mẫu người **đức độ, tài năng thực thụ, khả năng
+tháo gỡ rắc rối tài tình**.
+
+**Hợp vai trò NGƯỜI THẦY:** giáo viên, thầy thuốc, thầy phong thủy — nơi tri
+thức và đạo đức cần song hành.`,
+
+    chiTiet: `## Cách "Cơ Lương"
+
+Khi Thiên Cơ an tại **Thìn hoặc Tuất**, trí tuệ của ngôi sao này thường gắn với:
+- **Đạo lý**
+- **Chiều sâu nhân sinh**
+
+→ Hình thành cách cục **"Cơ Lương"**.
+
+## Câu cổ thư
+
+> "Cơ Lương tương hội, thiện đàm binh"
+
+→ Ám chỉ mẫu người:
+- **Giỏi lý luận**
+- **Đàm phán**
+- **Nghiên cứu chuyên môn**
+
+## Tính cách & năng lực
+
+Sự kết hợp giữa **hai ngôi sao thiện lương** này tạo nên mẫu người:
+- **Đức độ**
+- **Có tài năng thực thụ**
+- Khả năng **tháo gỡ các vấn đề rắc rối một cách tài tình**
+
+## Vai trò "Người Thầy"
+
+Cách cục này đặc biệt **HỢP VỚI VAI TRÒ NGƯỜI THẦY**:
+- **Giáo viên**
+- **Thầy thuốc**
+- **Thầy phong thủy**
+
+→ Nơi **tri thức và đạo đức cần song hành** mới bền lâu.`,
+  },
+
+  // ============================================================
+  // 25. Thiên Cơ tại Mệnh + Tỵ / Hợi
+  // ============================================================
+  {
+    id: 'thien-co-tai-menh-ty-hoi',
+    title: 'Thiên Cơ tại Mệnh - Tỵ / Hợi (đối cung Thái Âm)',
+    sao: ['Thiên Cơ'],
+    cung: ['Mệnh'],
+    chi: ['Tỵ', 'Hợi'],
+    doUuTien: 88,
+    tomTat: `**Thiên Cơ Mệnh tại Tỵ / Hợi:** đối cung Thái Âm — phản ánh mẫu
+người **nhanh nhạy, biết nắm bắt thời cơ, hành xử nhu thắng cương**.
+
+Không mạnh về phô trương quyền lực, nhưng rất giỏi **thao túng, kiểm soát mối
+quan hệ một cách âm thầm**.
+
+⚠️ **Điểm yếu:** **tính hành động** — kế hoạch đôi khi chỉ nằm ở mức **tư duy**.
+
+→ Cần đặc biệt chú trọng vào **thực hành và sự quyết đoán** — chỉ khi **"trí"
+đi đôi với "dũng"** thì vận trình mới vẹn toàn.`,
+
+    chiTiet: `## Đặc tính cá nhân
+
+Khi an tại **Tỵ** hoặc **Hợi**, Thiên Cơ nằm thế **đối cung với Thái Âm** →
+phản ánh mẫu người:
+- **Nhanh nhạy**
+- **Biết cách nắm bắt thời cơ**
+- **Hành xử thiên về nhu thắng cương**
+
+## Cách thức xử thế
+
+Đương số:
+- **Không mạnh về phô trương quyền lực**
+- Nhưng **rất giỏi thao túng, kiểm soát các mối quan hệ một cách âm thầm**
+
+## ⚠️ Điểm yếu: tính hành động
+
+Cách cục này thường bộc lộ điểm yếu về **tính hành động** → các kế hoạch đôi
+khi chỉ nằm lại ở mức **tư duy**.
+
+## Lời khuyên
+
+Người mang Mệnh Thiên Cơ tại Tỵ / Hợi cần đặc biệt chú trọng vào:
+- **Thực hành**
+- **Sự quyết đoán**
+
+→ Bởi chỉ khi **"trí" đi đôi với "dũng"** thì vận trình mới có thể **vẹn toàn**.`,
+  },
+
+  // ============================================================
+  // 26. Thiên Cơ - Bộ sao tốt mở rộng (Hóa Khoa, Hóa Lộc, Cơ Việt, Đào Hồng)
+  // ============================================================
+  {
+    id: 'thien-co-bo-sao-tot-mo-rong',
+    title: 'Thiên Cơ - Bộ sao tốt mở rộng (Hóa Khoa/Lộc, Cơ Việt, Đào Hồng)',
+    sao: ['Thiên Cơ'],
+    doUuTien: 50,
+    tomTat: `**Bộ sao tốt mở rộng cho Thiên Cơ:**
+
+✅ **+ Hóa Khoa / Hóa Lộc:** thông thái + tài vận tăng — biến **ý tưởng mưu
+lược thành nguồn lợi kinh tế**. ⚠️ Lưu ý: tăng tĩnh tại bên trong → tránh
+"nghĩ nhiều mà làm ít".
+
+✅ **+ Xương Khúc + Khôi Việt:** thông minh, đỗ đạt, **thành danh giáo dục văn
+hóa**. **Cách "Cơ Việt"** → đắc cách hơn người, **tư duy đi trước thời đại**.
+
+✅ **+ Đào Hoa, Hồng Loan:** thành danh **kiến trúc, thiết kế, thời trang** —
+nhờ tay nghề khéo léo + gu thẩm mỹ tinh tế.`,
+
+    chiTiet: `## Hóa Khoa / Hóa Lộc
+
+Khi Mệnh Thiên Cơ gặp **Hóa Khoa** hay **Hóa Lộc:**
+- **Sự thông thái và tài vận** của chủ mệnh được tăng cường mạnh mẽ
+- Giúp **biến chuyển những ý tưởng mưu lược thành nguồn lợi kinh tế thực tế**
+
+⚠️ **Tuy nhiên,** do hai ngôi sao này chủ yếu **gia tăng trạng thái tĩnh tại
+bên trong** hơn là sự đột phá bên ngoài → đương số cần đặc biệt lưu tâm để
+tránh rơi vào tình trạng **"nghĩ nhiều mà làm ít"**.
+
+## Xương Khúc + Khôi Việt — Cách "Cơ Việt"
+
+**Khi được Văn Xương + Văn Khúc + Khôi Việt nâng đỡ:**
+- Đương số bộc lộ **sự thông minh**
+- Có cơ hội **đỗ đạt và thành danh** trên con đường **giáo dục, văn hóa**
+
+**Đặc biệt cách cục "Cơ Việt"** (Thiên Cơ + Thiên Việt):
+- Người mang Mệnh Thiên Cơ dễ **đắc cách hơn người**
+- Tư duy và tầm nhìn **đi trước thời đại**
+
+## Đào Hoa / Hồng Loan
+
+**Hội với Đào Hoa, Hồng Loan:**
+- Dễ thành danh trong các ngành:
+  - **Kiến trúc**
+  - **Thiết kế**
+  - **Thời trang**
+- Nhờ:
+  - **Đôi bàn tay khéo léo**
+  - **Gu thẩm mỹ tinh tế**`,
+  },
+
+  // ============================================================
+  // 27. Thiên Cơ - Bộ sao xấu mở rộng (Hỏa Linh, Không Kiếp 2 mặt, Hóa Kỵ, Kình Đà)
+  // ============================================================
+  {
+    id: 'thien-co-bo-sao-xau-mo-rong',
+    title: 'Thiên Cơ - Bộ sao xấu mở rộng (Hỏa Linh, Không Kiếp, Kình Đà)',
+    sao: ['Thiên Cơ'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Bộ sao xấu mở rộng:**
+
+- **+ Hỏa Tinh + Linh Tinh:** căng thẳng, suy nghĩ luẩn quẩn, **Stress kéo
+  dài**, nóng vội ra quyết định → chọn sai hối hận
+- **+ Địa Không + Địa Kiếp** = **2 mặt rõ:**
+  - Kinh doanh: **cực kỳ rủi ro** — lao vào cơ hội nguy hiểm
+  - Nghiên cứu / khoa học kỹ thuật: **thành tựu đột phá, phát minh mới lạ**
+- **+ Hóa Kỵ:** **"lo bò trắng răng"**, tính toán sai, hay bon chen, **dễ mắc
+  tâm bệnh**
+- **+ Kình Dương:** thiếu sự kín kẽ
+- **+ Đà La:** mưu trí biến thành **toan tính ngầm** — vì lợi cá nhân mà gây
+  bất hòa`,
+
+    chiTiet: `## Hỏa Tinh + Linh Tinh
+
+Bộ đôi Hỏa Tinh - Linh Tinh nếu gặp Thiên Cơ sẽ khiến bản mệnh:
+- **Căng thẳng**
+- **Suy nghĩ luẩn quẩn**
+- **Stress kéo dài**
+
+Đương số:
+- **Thiếu sự bình ổn nội tâm**
+- Dễ **nóng vội** khi ra quyết định
+- → Dẫn đến **chọn sai rồi sinh hối hận**
+
+## Địa Không + Địa Kiếp — 2 mặt rõ rệt
+
+**Trong kinh doanh:**
+- Đây là thế **CỰC KỲ RỦI RO**
+- Dễ lao vào những **cơ hội nguy hiểm**
+- Bản thân không lường hết hậu quả
+
+**Ngược lại — nếu đi theo nghiên cứu, sáng tạo, khoa học kỹ thuật:**
+- Cách cục này lại có khả năng tạo ra **thành tựu đột phá**
+- **Phát minh mới lạ**
+
+## Hóa Kỵ — "lo bò trắng răng"
+
+Khi Thiên Cơ gặp **Hóa Kỵ**:
+- Tâm trí thường xuyên rơi vào trạng thái **"lo bò trắng răng"**
+- Tính toán **sai lệch**
+- **Hay bon chen**
+- **Dễ mắc tâm bệnh**
+
+## Kình Dương + Đà La
+
+Sự cản trở từ **Kình + Đà** không chỉ mang lại **thị phi** mà còn làm thay đổi
+**cốt cách thiện lương vốn có**.
+
+**Kình Dương:**
+- Khiến người mang Thiên Cơ **thiếu đi sự kín kẽ**
+
+**Đà La:**
+- Biến sự **mưu trí** thành những **toan tính ngầm**
+- Dễ vì **lợi ích cá nhân** mà gây **bất hòa với người xung quanh**`,
   },
 ];
