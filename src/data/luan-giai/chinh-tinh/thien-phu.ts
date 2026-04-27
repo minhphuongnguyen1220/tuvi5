@@ -1,7 +1,7 @@
 import type { DoanLuanGiai } from '../types';
 
 /**
- * LUẬN GIẢI SAO THIêN PH���
+ * LUẬN GIẢI SAO THIÊN PHỦ
  * Xem mẫu trong tu-vi.ts. Thêm các entry vào mảng dưới đây.
  */
 export const luanGiai_ThienPhu: DoanLuanGiai[] = [
