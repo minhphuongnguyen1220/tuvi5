@@ -63,3 +63,47 @@ export function tinhVongTruongSinh(
   }
   return result;
 }
+
+/**
+ * G2-2: Vòng Thái Tuế (12 cung × 13 sao - vì Thiếu Dương đồng cung Thiên Không).
+ *
+ * Vị trí Thái Tuế = cung có địa chi trùng với chi năm sinh âm lịch.
+ * Đi THUẬN chiều kim đồng hồ (chi tăng) qua các sao:
+ *
+ *   0: Thái Tuế
+ *   1: Thiếu Dương + Thiên Không (đồng cung)
+ *   2: Tang Môn
+ *   3: Thiếu Âm
+ *   4: Quan Phù
+ *   5: Tử Phù
+ *   6: Tuế Phá
+ *   7: Long Đức
+ *   8: Bạch Hổ
+ *   9: Phúc Đức        ← lưu ý: trùng tên với CUNG Phúc Đức, đây là SAO
+ *  10: Điếu Khách
+ *  11: Trực Phù
+ */
+export const VONG_THAI_TUE_OFFSET: Array<{ offset: number; sao: string[] }> = [
+  { offset: 0,  sao: ['Thái Tuế'] },
+  { offset: 1,  sao: ['Thiếu Dương', 'Thiên Không'] },
+  { offset: 2,  sao: ['Tang Môn'] },
+  { offset: 3,  sao: ['Thiếu Âm'] },
+  { offset: 4,  sao: ['Quan Phù'] },
+  { offset: 5,  sao: ['Tử Phù'] },
+  { offset: 6,  sao: ['Tuế Phá'] },
+  { offset: 7,  sao: ['Long Đức'] },
+  { offset: 8,  sao: ['Bạch Hổ'] },
+  { offset: 9,  sao: ['Phúc Đức'] },
+  { offset: 10, sao: ['Điếu Khách'] },
+  { offset: 11, sao: ['Trực Phù'] },
+];
+
+export function tinhVongThaiTue(chiNamSinh: Chi): Record<string, Chi> {
+  const idxKhoi = CHI_LIST.indexOf(chiNamSinh);
+  const result: Record<string, Chi> = {};
+  for (const { offset, sao: saos } of VONG_THAI_TUE_OFFSET) {
+    const chi = CHI_LIST[(idxKhoi + offset) % 12];
+    for (const sao of saos) result[sao] = chi;
+  }
+  return result;
+}

@@ -7,7 +7,7 @@ import { anCungMenh, anCungThan, tinhCanChi12Cung } from './cung';
 import { xacDinhCuc } from './cuc';
 import { anTuVi, anChinhTinh } from './chinh-tinh';
 import { tinhDaiVan, tinhTieuVan, tinhNguyetVan } from './van';
-import { tinhVongTruongSinh, VONG_TRUONG_SINH } from './phu-tinh';
+import { tinhVongTruongSinh, VONG_TRUONG_SINH, tinhVongThaiTue, VONG_THAI_TUE_OFFSET } from './phu-tinh';
 import { CHINH_TINH_LIST } from './types';
 
 /**
@@ -67,6 +67,18 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
     const chi = vongTruongSinh[sao];
     if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
     phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
+  }
+
+  // 8.6. Vòng Thái Tuế
+  const vongThaiTue = tinhVongThaiTue(canChiNam.chi);
+  for (const { sao: saos } of VONG_THAI_TUE_OFFSET) {
+    for (const sao of saos) {
+      const chi = vongThaiTue[sao];
+      if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+      // Thiên Không là sát tinh, các sao khác là phụ tinh
+      const loai = sao === 'Thiên Không' ? 'sát tinh' : 'phụ tinh';
+      phuTinhTheoCung[chi].push({ ten: sao, loai });
+    }
   }
 
   // 9. Tạo cấu trúc CungTrongLaSo cho từng cung
