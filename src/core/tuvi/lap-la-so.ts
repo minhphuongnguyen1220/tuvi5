@@ -11,6 +11,8 @@ import {
   tinhVongTruongSinh, VONG_TRUONG_SINH,
   tinhVongThaiTue, VONG_THAI_TUE_OFFSET,
   tinhVongLocTon, VONG_LOC_TON_OFFSET,
+  SAO_THEO_CHI_CO_DINH, SAO_THEO_TEN_CUNG_CO_DINH,
+  tinhSaoTheoThangSinh,
 } from './phu-tinh';
 import { CHINH_TINH_LIST } from './types';
 
@@ -93,6 +95,31 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
       if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
       phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
     }
+  }
+
+  // 8.8. Sao theo chi cố định (Thiên La, Địa Võng)
+  for (const [sao, chi] of Object.entries(SAO_THEO_CHI_CO_DINH)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
+  }
+
+  // 8.9. Sao theo tên cung cố định (Thiên Thương ở Nô Bộc, Thiên Sứ ở Tật Ách)
+  for (const [sao, tenCung] of Object.entries(SAO_THEO_TEN_CUNG_CO_DINH)) {
+    const cungData = cung12.find(c => c.tenCung === tenCung);
+    if (cungData) {
+      const chi = cungData.chi;
+      if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+      phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
+    }
+  }
+
+  // 8.10. Sao theo tháng sinh âm
+  const saoThangSinh = tinhSaoTheoThangSinh(amLich.thangAmLich);
+  for (const [sao, chi] of Object.entries(saoThangSinh)) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    // Thiên Hình, Thiên Riêu thường được xem là sát/hung tinh
+    const loai = (sao === 'Thiên Hình' || sao === 'Thiên Riêu') ? 'sát tinh' : 'phụ tinh';
+    phuTinhTheoCung[chi].push({ ten: sao, loai });
   }
 
   // 9. Tạo cấu trúc CungTrongLaSo cho từng cung

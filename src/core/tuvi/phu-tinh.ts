@@ -1,4 +1,4 @@
-import { Chi, Can, Cuc, AmDuongLaSo, CHI_LIST } from './types';
+import { Chi, Can, Cuc, AmDuongLaSo, TenCung, CHI_LIST } from './types';
 
 /**
  * Module phụ tinh - các vòng sao và sao phụ.
@@ -177,6 +177,58 @@ export function tinhVongLocTon(
       ? (idxKhoi + offset) % 12
       : ((idxKhoi - offset) % 12 + 12) % 12;
     for (const sao of saos) result[sao] = CHI_LIST[idx];
+  }
+  return result;
+}
+
+/**
+ * G2-A: Sao theo CHI cố định (vị trí giống nhau trên mọi lá số).
+ *   Thiên La luôn ở cung Thìn
+ *   Địa Võng luôn ở cung Tuất
+ */
+export const SAO_THEO_CHI_CO_DINH: Record<string, Chi> = {
+  'Thiên La': 'Thìn',
+  'Địa Võng': 'Tuất',
+};
+
+/**
+ * G2-A2: Sao theo TÊN CUNG cố định (chi thay đổi tuỳ lá số).
+ *   Thiên Thương luôn ở cung Nô Bộc
+ *   Thiên Sứ luôn ở cung Tật Ách
+ *
+ * Sẽ resolve trong lap-la-so.ts dựa trên cacCung array.
+ */
+export const SAO_THEO_TEN_CUNG_CO_DINH: Record<string, TenCung> = {
+  'Thiên Thương': 'Nô Bộc',
+  'Thiên Sứ': 'Tật Ách',
+};
+
+/**
+ * G2-C: Sao theo THÁNG SINH âm lịch.
+ * Mỗi sao có cung khởi (tháng 1) và chiều an (thuận/nghịch). Bước = thangSinh - 1.
+ */
+export const SAO_THEO_THANG_SINH: Array<{ ten: string; chiKhoi: Chi; thuan: boolean }> = [
+  { ten: 'Thiên Hình',  chiKhoi: 'Dậu',  thuan: true },
+  { ten: 'Thiên Y',     chiKhoi: 'Sửu',  thuan: true },
+  { ten: 'Thiên Riêu',  chiKhoi: 'Sửu',  thuan: true },  // đồng cung Thiên Y
+  { ten: 'Thiên Giải',  chiKhoi: 'Thân', thuan: true },
+  { ten: 'Địa Giải',    chiKhoi: 'Mùi',  thuan: true },
+  { ten: 'Tả Phụ',      chiKhoi: 'Thìn', thuan: true },
+  { ten: 'Hữu Bật',     chiKhoi: 'Tuất', thuan: false }, // nghịch — đối Tả Phụ qua Sửu-Mùi
+];
+
+export function tinhSaoTheoThangSinh(thangSinhAm: number): Record<string, Chi> {
+  if (thangSinhAm < 1 || thangSinhAm > 12) {
+    throw new Error(`Tháng sinh âm không hợp lệ: ${thangSinhAm}`);
+  }
+  const result: Record<string, Chi> = {};
+  const buoc = thangSinhAm - 1;
+  for (const { ten, chiKhoi, thuan } of SAO_THEO_THANG_SINH) {
+    const idxKhoi = CHI_LIST.indexOf(chiKhoi);
+    const idx = thuan
+      ? (idxKhoi + buoc) % 12
+      : ((idxKhoi - buoc) % 12 + 12) % 12;
+    result[ten] = CHI_LIST[idx];
   }
   return result;
 }
