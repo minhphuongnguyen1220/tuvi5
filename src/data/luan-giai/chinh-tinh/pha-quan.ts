@@ -1189,4 +1189,459 @@ Phá Quân nhập cung Tử Tức:
 - Hoặc **nói cà lăm**
 - **Sinh thiếu tháng**`,
   },
+
+  // ============================================================
+  // 17. Phá Quân tại Phụ Mẫu
+  // ============================================================
+  {
+    id: 'pha-quan-tai-phu-mau',
+    title: 'Phá Quân tại Phụ Mẫu',
+    sao: ['Phá Quân'],
+    cung: ['Phụ Mẫu'],
+    doUuTien: 80,
+    tomTat: `**Phá Quân tại Phụ Mẫu:** **cha mẹ khắc khẩu, không hòa hợp**, cuộc
+sống phải **bôn ba, di chuyển nhiều**.
+
+Cha mẹ thường làm trong **ngành võ cách** (quân đội, công an) — đặc biệt khi
+**+ Tả Phù + Hữu Bật + Không Kiếp**. Theo con đường này → tính chất xấu **giảm
+nhiều**.
+
+⚠️ Kinh tế cha mẹ **khó ổn định** — "lúc thịnh lúc suy".
+
+✅ **Phá Quân ở Tý / Ngọ:** cha mẹ **giàu sang**, nhưng tuổi trẻ cũng **bôn
+ba, vất vả**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Phá Quân tại Phụ Mẫu:
+- **Cha mẹ khắc khẩu**
+- **Không hòa hợp**
+- Cuộc sống phải **bôn ba, di chuyển nhiều**
+
+## Nghề nghiệp cha mẹ
+
+Họ thường làm trong các ngành nghề mang tính **võ cách**:
+- **Quân đội**
+- **Công an**
+
+Nhất là khi đi cùng:
+- **Tả Phù + Hữu Bật**
+- **Không Kiếp**
+
+→ Nếu theo con đường này, các tính chất xấu sẽ được **giảm bớt nhiều phần**.
+
+## ⚠️ Kinh tế
+
+Kinh tế của cha mẹ **khó ổn định** — **"lúc thịnh lúc suy"**.
+
+## ✅ Phá Quân ở Tý / Ngọ
+
+- Cha mẹ **giàu sang**
+- Nhưng **tuổi trẻ cũng bôn ba, vất vả**`,
+  },
+
+  // ============================================================
+  // 18. Phá Quân tại Phúc Đức
+  // ============================================================
+  {
+    id: 'pha-quan-tai-phuc-duc',
+    title: 'Phá Quân tại Phúc Đức',
+    sao: ['Phá Quân'],
+    cung: ['Phúc Đức'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Phá Quân hãm địa tại Phúc Đức:** **giảm phúc phần**, **dòng họ
+ly tán**, nhiều người phải **xa quê lập nghiệp**. Mồ mả tổ tiên dễ bị **thất
+lạc**, mỗi nơi một ngôi, **không được quy tập**.
+
+✅ **Đắc địa Tý / Ngọ** hoặc **đồng cung Tử Vi:** **phúc phần gia tộc mạnh
+mẽ**, con cháu **thành đạt, quý hiển** — nhất là **võ nghiệp** (quân đội, công an).`,
+
+    chiTiet: `## ⚠️ Hãm địa - điềm xấu
+
+Phá Quân hãm địa tại cung Phúc Đức là một **điềm xấu**:
+- **Làm giảm phúc phần**
+- **Dòng họ ly tán**
+- Nhiều người phải **xa quê lập nghiệp**
+- **Mồ mả tổ tiên** cũng dễ bị **thất lạc**
+- Mỗi nơi một ngôi, **không được quy tập**
+
+## ✅ Đắc địa Tý / Ngọ hoặc đồng cung Tử Vi
+
+- **Phúc phần gia tộc mạnh mẽ**
+- Con cháu **thành đạt, quý hiển**
+- Nhất là trong các **ngành võ nghiệp:**
+  - **Quân đội**
+  - **Công an**`,
+  },
+
+  // ============================================================
+  // 19. Phá Quân tại Điền Trạch
+  // ============================================================
+  {
+    id: 'pha-quan-tai-dien-trach',
+    title: 'Phá Quân tại Điền Trạch',
+    sao: ['Phá Quân'],
+    cung: ['Điền Trạch'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Phá Quân hãm địa tại Điền Trạch:** tài sản đất đai cha ông để
+lại **khó giữ**.
+
+⚠️ **+ Không Kiếp + Linh Hỏa:** nguy cơ **"phá tán tổ nghiệp"** càng cao.
+
+✅ **Miếu vượng** hoặc **đồng cung Tử Vi:** **điền sản LỚN**, có thể làm
+**kinh doanh bất động sản**. Tuy nhiên trước khi có thành tựu **vẫn phải bán
+đi tổ nghiệp** — nhà cửa **mua đi bán lại, thay đổi nhiều lần**.`,
+
+    chiTiet: `## ⚠️ Hãm địa
+
+Phá Quân hãm địa xuất hiện trong cung Điền Trạch:
+- Tài sản, đất đai của cha ông để lại **khó giữ**
+
+## ⚠️ + Không Kiếp + Linh Hỏa
+
+- Nguy cơ **"phá tán tổ nghiệp"** càng cao
+
+## ✅ Miếu vượng / + Tử Vi
+
+- Đương số có **điền sản lớn**
+- Thậm chí làm nghề **kinh doanh bất động sản**
+
+⚠️ **Tuy nhiên:**
+- Trước khi có thành tựu **vẫn phải bán đi tổ nghiệp** của ông cha
+- Nhà cửa có xu hướng **mua đi bán lại, thay đổi nhiều lần**`,
+  },
+
+  // ============================================================
+  // 20. Phá Quân tại Quan Lộc
+  // ============================================================
+  {
+    id: 'pha-quan-tai-quan-loc',
+    title: 'Phá Quân tại Quan Lộc',
+    sao: ['Phá Quân'],
+    cung: ['Quan Lộc'],
+    doUuTien: 80,
+    tomTat: `**Phá Quân tại Quan Lộc:** sự nghiệp trải qua **không ít thăng
+trầm**, phải **thay đổi công việc / chỗ làm nhiều lần**.
+
+⚠️ **Hãm địa:** đương số **KHÔNG NÊN đầu tư kinh doanh lớn** vì dễ **phá sản**.
+
+✅ **Miếu vượng:** chủ mệnh có nhiều **ý tưởng sáng tạo, thích phá cách**, dám
+**tiên phong**, **giỏi lãnh đạo**, ứng biến linh hoạt → hợp **kinh doanh,
+nghiên cứu phát triển, võ nghiệp** (quân đội, công an).
+
+✅ **+ Hóa Khoa + Hóa Quyền + Hóa Lộc:** càng ứng nghiệm.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Sự nghiệp trải qua **không ít thăng trầm**:
+- Phải **thay đổi công việc** hoặc **chỗ làm nhiều lần**
+
+## ⚠️ Hãm địa
+
+Đương số **không nên đầu tư kinh doanh lớn** vì dễ **phá sản**.
+
+## ✅ Miếu vượng
+
+Chủ mệnh có:
+- Nhiều **ý tưởng sáng tạo**
+- **Thích phá cách**
+- **Dám tiên phong** trong công việc
+
+→ Là mẫu người:
+- **Giỏi lãnh đạo, quản lý**
+- Biết **ứng biến linh hoạt**
+
+→ Hợp với những ngành nghề cần **sự đột phá, khai sáng:**
+- **Kinh doanh**
+- **Nghiên cứu phát triển**
+- Các ngành **võ nghiệp** (quân đội, công an)
+
+## Cát kết hợp
+
+**+ Hóa Khoa + Hóa Quyền + Hóa Lộc:**
+- Càng **ứng nghiệm** (mặt tốt được khuếch đại)`,
+  },
+
+  // ============================================================
+  // 21. Phá Quân tại Nô Bộc
+  // ============================================================
+  {
+    id: 'pha-quan-tai-no-boc',
+    title: 'Phá Quân tại Nô Bộc',
+    sao: ['Phá Quân'],
+    cung: ['Nô Bộc'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Phá Quân tại Nô Bộc:** bạn bè, đồng nghiệp **đông nhưng không
+bền**. Đương số bị chính bạn bè / cấp dưới **phản bội, lợi dụng** → **hao tài
+tốn của**.
+
+⚠️ **+ Sát tinh** (Không Kiếp / Kình Đà / Thiên Hình): nguy cơ vướng tai họa
+vì bạn bè càng lớn.
+
+✅ **Miếu vượng + cát tinh** (Tử Vi, Khôi Việt, Xương Khúc): **quý nhân giúp
+đỡ**, bạn bè đối tác **giỏi giang, quyền uy** (đặc biệt võ nghiệp).`,
+
+    chiTiet: `## Đặc điểm chung
+
+Phá Quân (ngũ hành **âm Thủy**) an cung Nô Bộc báo hiệu:
+- Bạn bè, đồng nghiệp **đông nhưng không bền**
+
+## ⚠️ Đương số bị phản bội
+
+- Bị chính **bạn bè, người dưới quyền phản bội, lợi dụng**
+- → **Hao tài tốn của**
+
+## ⚠️ + Sát tinh
+
+Thêm sát tinh như:
+- **Địa Không + Địa Kiếp**
+- **Kình Dương + Đà La**
+- **Thiên Hình**
+
+→ Nguy cơ **vướng vào tai họa vì bạn bè càng lớn**.
+
+## ✅ Miếu vượng + cát tinh
+
+Chỉ khi Phá Quân **miếu vượng** + nhiều cát tinh hội chiếu:
+- **Tử Vi**
+- **Khôi Việt**
+- **Văn Xương + Văn Khúc**
+
+→ Đương số mới có **quý nhân giúp đỡ**:
+- Bạn bè, đối tác là **người giỏi giang, quyền uy**
+- Nhất là trong các **ngành võ nghiệp**`,
+  },
+
+  // ============================================================
+  // 22. Phá Quân tại Thiên Di
+  // ============================================================
+  {
+    id: 'pha-quan-tai-thien-di',
+    title: 'Phá Quân tại Thiên Di',
+    sao: ['Phá Quân'],
+    cung: ['Thiên Di'],
+    doUuTien: 80,
+    tomTat: `**Phá Quân tại Thiên Di:** đương số thường phải **xa quê lập nghiệp**,
+ra ngoài được **nể trọng** vì sự **quyết đoán, mạnh mẽ**.
+
+✅ **Đắc / Vượng / Miếu:** đặc tính trên thể hiện rõ nét.
+
+⚠️ **Hãm địa:** tính cách **nóng nảy** → đương số vướng **tranh chấp, cãi vã**,
+thậm chí **gặp nguy hiểm, tai nạn bất ngờ**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Sao Phá Quân an cung Thiên Di:
+- Đương số thường phải **xa quê lập nghiệp**
+- Ra ngoài được **nể trọng** vì sự **quyết đoán, mạnh mẽ**
+
+## ✅ Đắc / Vượng / Miếu
+
+→ Đặc tính trên được thể hiện **rõ nét**.
+
+## ⚠️ Hãm địa
+
+- Tính cách **nóng nảy**
+- → Khiến chủ mệnh vướng **tranh chấp, cãi vã**
+- Thậm chí **gặp nguy hiểm, tai nạn bất ngờ**`,
+  },
+
+  // ============================================================
+  // 23. Phá Quân tại Tật Ách
+  // ============================================================
+  {
+    id: 'pha-quan-tai-tat-ach',
+    title: 'Phá Quân tại Tật Ách',
+    sao: ['Phá Quân'],
+    cung: ['Tật Ách'],
+    doUuTien: 80,
+    tomTat: `**Phá Quân tại Tật Ách:** thường mắc các bệnh về **máu huyết, dạ
+dày, đường ruột**, hoặc **bệnh ngoài da** (mụn nhọt, rôm sảy).
+
+⚠️ **Phụ nữ:** vấn đề **phụ khoa, kinh nguyệt không đều**.
+
+⚠️ **+ Kình Dương + Thiên Hình:** hạn **mổ xẻ, phẫu thuật**.
+
+⚠️ **+ Không Kiếp + Hóa Kỵ:** nguy cơ mắc **bệnh nặng** (như **ung thư**).
+
+⚠️ Bản tính ưa mạo hiểm, nóng nảy → dễ gặp **tai ương, thị phi**.`,
+
+    chiTiet: `## Bệnh chính
+
+Phá Quân nhập cung Tật Ách báo hiệu chủ mệnh thường mắc:
+- **Bệnh về máu huyết**
+- **Dạ dày, đường ruột**
+- **Bệnh ngoài da** (mụn nhọt, rôm sảy)
+
+## ⚠️ Phụ nữ
+
+- Các vấn đề về **phụ khoa**
+- **Kinh nguyệt không đều**
+
+## ⚠️ + Kình Dương + Thiên Hình
+
+- Có hạn **mổ xẻ, phẫu thuật**
+
+## ⚠️ + Nhiều sát tinh: Không Kiếp + Hóa Kỵ
+
+- Có nguy cơ mắc **bệnh nặng**
+- Như **ung thư**
+
+## ⚠️ Bản tính
+
+Ngoài ra, do bản tính **ưa mạo hiểm, nóng nảy** → đương số cũng dễ gặp:
+- **Tai ương**
+- **Thị phi**`,
+  },
+
+  // ============================================================
+  // 24. Phá Quân tại Tài Bạch
+  // ============================================================
+  {
+    id: 'pha-quan-tai-tai-bach',
+    title: 'Phá Quân tại Tài Bạch',
+    sao: ['Phá Quân'],
+    cung: ['Tài Bạch'],
+    doUuTien: 80,
+    tomTat: `**Phá Quân là HAO TINH** → tại Tài Bạch tiền bạc **tụ tán thất
+thường** — lúc nhiều, lúc không có (tương tự bộ **Song Hao**).
+
+⚠️ Đương số dễ **tiêu xài hoang phí, đầu tư mạo hiểm** → **phá sản** khi hội
+**Điếu Khách**.
+
+✅ **Vị trí tốt + nhiều cát tinh / Lục Cát:** chủ mệnh là người **kinh doanh
+lớn**, dòng tiền **luân chuyển mạnh**. Kiếm tiền **táo bạo**, vất vả lúc đầu
+nhưng **về sau thành công**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Vì Phá Quân là **hao tinh** nên tại cung Tài Bạch:
+- Tiền bạc **tụ tán thất thường**
+- Lúc có rất nhiều, lúc lại **không có đồng nào**
+- Đặc điểm tương tự **bộ Song Hao** (Đại Hao + Tiểu Hao)
+
+## ⚠️ Hung kết hợp
+
+Đương số càng dễ:
+- **Tiêu xài hoang phí**
+- **Đầu tư mạo hiểm** dẫn đến **phá sản**
+
+→ Đặc biệt khi **hội với Điếu Khách**.
+
+## ✅ Vị trí tốt + cát tinh / Lục Cát
+
+- Chủ mệnh là người **kinh doanh lớn**
+- **Dòng tiền luân chuyển mạnh**
+- Kiếm tiền một cách **táo bạo**
+- **Vất vả lúc đầu** nhưng về sau lại có được **thành công**`,
+  },
+
+  // ============================================================
+  // 25. Phá Quân + Phục Binh, Riêu, Hình, Hoa Cái, Đào Hoa - Hôn nhân tan vỡ
+  // ============================================================
+  {
+    id: 'pha-quan-bo-sao-hon-nhan-tan-vo',
+    title: 'Phá Quân + bộ sao xấu - Hôn nhân tan vỡ',
+    sao: ['Phá Quân'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Phá Quân + Phục Binh + Thiên Riêu + Thiên Hình + Hoa Cái +
+Đào Hoa:**
+
+Mối quan hệ vợ chồng **nhiều sóng gió** — "cơm chẳng lành, canh chẳng ngọt".
+**Vợ chồng khắc khẩu**, **ghen tuông mù quáng**, **duyên phận mỏng manh**, dễ
+rơi vào cảnh **chia ly**.`,
+
+    chiTiet: `## Bộ sao gây tan vỡ hôn nhân
+
+Phá Quân khi đi cùng:
+- **Phục Binh**
+- **Thiên Riêu**
+- **Thiên Hình**
+- **Hoa Cái**
+- **Đào Hoa**
+
+→ Mối quan hệ vợ chồng **nhiều sóng gió** — "cơm chẳng lành, canh chẳng ngọt".
+
+## Hệ quả
+
+- Vợ chồng **khắc khẩu**
+- **Ghen tuông mù quáng**
+- **Duyên phận mỏng manh**
+- Dễ rơi vào cảnh **chia ly**`,
+  },
+
+  // ============================================================
+  // 26. Phá Quân + ác tinh ở Tử Tức - Con cái trắc trở
+  // ============================================================
+  {
+    id: 'pha-quan-bo-sao-con-cai-trac-tro',
+    title: 'Phá Quân + ác tinh tại Tử Tức - Con cái trắc trở',
+    sao: ['Phá Quân'],
+    cung: ['Tử Tức'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Phá Quân + Kình Dương + Đà La + Không Kiếp + Linh Tinh + Hỏa
+Tinh tại cung Tử Tức:**
+
+- Khó khăn trong việc **sinh nở**, hoặc **con sinh ra yếu ớt, dễ đau ốm**
+- Mối quan hệ **cha mẹ - con cái xa cách**
+- Con thường **bướng bỉnh, khó bảo, sống xa nhà**`,
+
+    chiTiet: `## Bộ ác tinh ở Tử Tức
+
+Chủ mệnh gặp khó khăn nếu Phá Quân hội họp nhiều hung tinh tại cung Tử Tức:
+- **Kình Dương + Đà La**
+- **Không Kiếp**
+- **Linh Tinh + Hỏa Tinh**
+
+## Hệ quả
+
+**Việc sinh nở:**
+- **Khó khăn trong việc sinh nở**
+- Hoặc **con sinh ra yếu ớt, dễ đau ốm**
+
+**Mối quan hệ cha mẹ - con cái:**
+- **Xa cách**
+- Con thường **bướng bỉnh, khó bảo**
+- **Sống xa nhà**`,
+  },
+
+  // ============================================================
+  // 27. Phá Quân + Thiên Việt, Linh Tinh, Thiên Hình - Sét đánh điện giật
+  // ============================================================
+  {
+    id: 'pha-quan-bo-sao-set-dien-giat',
+    title: 'Phá Quân + Thiên Việt + Linh Tinh + Thiên Hình - Sét đánh, điện giật',
+    sao: ['Phá Quân'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Phá Quân + Thiên Việt + Linh Tinh + Thiên Hình:**
+
+Đương số cần chú ý tai nạn liên quan đến:
+- **Súng đạn**
+- **Điện giật**
+- **Kim loại**
+- Hoặc các tai ương **nhanh, mạnh, bất ngờ**
+
+→ Cần **tránh làm việc gần điện cao thế** hoặc những chỗ có **nguy cơ hỏa hoạn**.`,
+
+    chiTiet: `## Bộ sao cảnh báo
+
+Phá Quân kết hợp cùng:
+- **Thiên Việt**
+- **Linh Tinh**
+- **Thiên Hình**
+
+## ⚠️ Loại tai nạn cần đề phòng
+
+Đương số cần chú ý các tai nạn liên quan đến:
+- **Súng đạn**
+- **Điện giật**
+- **Kim loại**
+- Hoặc các tai ương **nhanh, mạnh và bất ngờ**
+
+## Lời khuyên
+
+Lúc này, chủ mệnh cần **tránh:**
+- Làm việc **gần điện cao thế**
+- Những chỗ có **nguy cơ hỏa hoạn**`,
+  },
 ];
