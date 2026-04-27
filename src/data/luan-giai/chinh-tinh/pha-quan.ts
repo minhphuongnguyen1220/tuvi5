@@ -1644,4 +1644,89 @@ Lúc này, chủ mệnh cần **tránh:**
 - Làm việc **gần điện cao thế**
 - Những chỗ có **nguy cơ hỏa hoạn**`,
   },
+
+  // ============================================================
+  // 28. Phá Quân - Cách hóa giải & lời khuyên tu thân
+  // ============================================================
+  {
+    id: 'pha-quan-cach-hoa-giai',
+    title: 'Phá Quân - Cách hóa giải & lời khuyên tu thân',
+    sao: ['Phá Quân'],
+    cung: ['Mệnh'],
+    doUuTien: 70,
+    tomTat: `**Bản chất Phá Quân là "HAO" và "PHÁ".** Để hóa giải, đương số cần
+**chuyển hướng năng lượng** sang **hành động chủ động và xây dựng**:
+
+✅ **Nghề nghiệp "đập đi xây lại":** tiên phong, đổi mới, **nghiên cứu phát
+triển**, **kiến trúc, xây dựng, phẫu thuật, công nghệ**.
+
+✅ **Tiền bạc:** đầu tư **kinh doanh quy mô lớn** → dòng tiền luân chuyển liên
+tục (thay vì để thất thoát do rủi ro).
+
+✅ **"Hao" tích cực:** **di chuyển, du lịch, thay đổi nơi ở** — thỏa mãn tính
+biến động.
+
+✅ **Rèn KỶ LUẬT** + **lập kế hoạch chi tiết** trước khi hành động → hạn chế
+rủi ro do tính hấp tấp, liều lĩnh.
+
+→ **Phá Quân là lời nhắc:** muốn thành công phải **dám thay đổi, dám phá bỏ
+cái cũ** để tìm con đường mới. Tu tâm dưỡng tính, sống thiện lương, **biết
+dừng đúng lúc** → **xoay hung hóa cát**.`,
+
+    chiTiet: `## Bản chất "hao" và "phá"
+
+Bản chất của Phá Quân là **"hao"** và **"phá"**. Để hóa giải, đương số cần
+**chuyển hướng năng lượng** này sang những hành động:
+- **Chủ động**
+- Có tính **xây dựng**
+
+## ✅ Hướng nghề nghiệp "đập đi xây lại"
+
+Chủ mệnh nên tham gia vào các lĩnh vực đòi hỏi:
+- **Sự tiên phong, đổi mới**
+- **Nghiên cứu và phát triển**
+
+Hoặc các ngành nghề có tính **"đập đi xây lại":**
+- **Kiến trúc**
+- **Xây dựng**
+- **Phẫu thuật**
+- **Công nghệ**
+
+## ✅ Hướng tài chính - dòng tiền luân chuyển
+
+Thay vì để tiền bạc **thất thoát do rủi ro**, đương số nên:
+- Dùng tiền để **đầu tư kinh doanh quy mô lớn**
+- Tạo **dòng tiền luân chuyển liên tục**
+
+## ✅ "Hao" tích cực - di chuyển
+
+Việc **di chuyển, đi du lịch, thay đổi nơi ở** cũng là một cách **"hao" tích
+cực** để thỏa mãn tính biến động của Phá Quân.
+
+## ✅ Rèn kỷ luật
+
+Vì Phá Quân có tính **hấp tấp, liều lĩnh** nên việc:
+- **Rèn luyện tính kỷ luật**
+- **Lập kế hoạch chi tiết** trước khi hành động
+
+→ Sẽ giúp **hạn chế những rủi ro không đáng có**.
+
+## Tổng kết: Phá Quân = lời nhắc
+
+Phá Quân **không chỉ** là dấu hiệu của sự mất mát hay thử thách, mà còn là
+lời nhắc:
+
+> Muốn thành công phải **DÁM THAY ĐỔI**, **DÁM PHÁ BỎ CÁI CŨ** để tìm con
+> đường mới.
+
+**Người biết:**
+- Tu tâm dưỡng tính
+- Sống thiện lương
+- **Biết dừng đúng lúc**
+
+→ Dù mệnh có ngôi sao này vẫn có thể:
+- **Xoay hung hóa cát**
+- **Biến dữ thành lành**
+- Xây dựng được cuộc sống **đủ đầy và an yên**`,
+  },
 ];
