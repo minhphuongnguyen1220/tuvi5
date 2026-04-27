@@ -1,4 +1,4 @@
-import { Chi, Cuc, AmDuongLaSo, CHI_LIST } from './types';
+import { Chi, Can, Cuc, AmDuongLaSo, CHI_LIST } from './types';
 
 /**
  * Module phụ tinh - các vòng sao và sao phụ.
@@ -104,6 +104,79 @@ export function tinhVongThaiTue(chiNamSinh: Chi): Record<string, Chi> {
   for (const { offset, sao: saos } of VONG_THAI_TUE_OFFSET) {
     const chi = CHI_LIST[(idxKhoi + offset) % 12];
     for (const sao of saos) result[sao] = chi;
+  }
+  return result;
+}
+
+/**
+ * G2-3: Vòng Lộc Tồn (12 cung, 13 sao - bao gồm Bác Sĩ đồng cung Lộc Tồn).
+ *
+ * Vị trí Lộc Tồn theo Can năm sinh:
+ *   Giáp → Dần, Ất → Mão
+ *   Bính → Tỵ, Mậu → Tỵ
+ *   Đinh → Ngọ, Kỷ → Ngọ
+ *   Canh → Thân, Tân → Dậu
+ *   Nhâm → Hợi, Quý → Tý
+ *
+ * Bác Sĩ luôn đồng cung với Lộc Tồn.
+ *
+ * Chiều an:
+ *   Dương Nam, Âm Nữ → thuận (chiều kim đồng hồ)
+ *   Âm Nam, Dương Nữ → nghịch
+ *
+ * Thứ tự (offset từ Lộc Tồn):
+ *   0:  Lộc Tồn + Bác Sĩ
+ *   1:  Lực Sĩ
+ *   2:  Thanh Long
+ *   3:  Tiểu Hao
+ *   4:  Tướng Quân
+ *   5:  Tấu Thư
+ *   6:  Phi Liêm
+ *   7:  Hỷ Thần
+ *   8:  Bệnh Phù
+ *   9:  Đại Hao
+ *   10: Phục Binh
+ *   11: Quan Phủ
+ */
+export const VONG_LOC_TON_OFFSET: Array<{ offset: number; sao: string[] }> = [
+  { offset: 0,  sao: ['Lộc Tồn', 'Bác Sĩ'] },
+  { offset: 1,  sao: ['Lực Sĩ'] },
+  { offset: 2,  sao: ['Thanh Long'] },
+  { offset: 3,  sao: ['Tiểu Hao'] },
+  { offset: 4,  sao: ['Tướng Quân'] },
+  { offset: 5,  sao: ['Tấu Thư'] },
+  { offset: 6,  sao: ['Phi Liêm'] },
+  { offset: 7,  sao: ['Hỷ Thần'] },
+  { offset: 8,  sao: ['Bệnh Phù'] },
+  { offset: 9,  sao: ['Đại Hao'] },
+  { offset: 10, sao: ['Phục Binh'] },
+  { offset: 11, sao: ['Quan Phủ'] },
+];
+
+function chiLocTonTheoCan(canNamSinh: Can): Chi {
+  const bang: Record<Can, Chi> = {
+    'Giáp': 'Dần',  'Ất':   'Mão',
+    'Bính': 'Tỵ',   'Đinh': 'Ngọ',
+    'Mậu':  'Tỵ',   'Kỷ':   'Ngọ',
+    'Canh': 'Thân', 'Tân':  'Dậu',
+    'Nhâm': 'Hợi',  'Quý':  'Tý',
+  };
+  return bang[canNamSinh];
+}
+
+export function tinhVongLocTon(
+  canNamSinh: Can,
+  amDuongLaSo: AmDuongLaSo,
+): Record<string, Chi> {
+  const idxKhoi = CHI_LIST.indexOf(chiLocTonTheoCan(canNamSinh));
+  const thuanChieu = amDuongLaSo === 'Dương Nam' || amDuongLaSo === 'Âm Nữ';
+
+  const result: Record<string, Chi> = {};
+  for (const { offset, sao: saos } of VONG_LOC_TON_OFFSET) {
+    const idx = thuanChieu
+      ? (idxKhoi + offset) % 12
+      : ((idxKhoi - offset) % 12 + 12) % 12;
+    for (const sao of saos) result[sao] = CHI_LIST[idx];
   }
   return result;
 }

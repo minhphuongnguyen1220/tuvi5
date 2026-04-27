@@ -7,7 +7,11 @@ import { anCungMenh, anCungThan, tinhCanChi12Cung } from './cung';
 import { xacDinhCuc } from './cuc';
 import { anTuVi, anChinhTinh } from './chinh-tinh';
 import { tinhDaiVan, tinhTieuVan, tinhNguyetVan } from './van';
-import { tinhVongTruongSinh, VONG_TRUONG_SINH, tinhVongThaiTue, VONG_THAI_TUE_OFFSET } from './phu-tinh';
+import {
+  tinhVongTruongSinh, VONG_TRUONG_SINH,
+  tinhVongThaiTue, VONG_THAI_TUE_OFFSET,
+  tinhVongLocTon, VONG_LOC_TON_OFFSET,
+} from './phu-tinh';
 import { CHINH_TINH_LIST } from './types';
 
 /**
@@ -78,6 +82,16 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
       // Thiên Không là sát tinh, các sao khác là phụ tinh
       const loai = sao === 'Thiên Không' ? 'sát tinh' : 'phụ tinh';
       phuTinhTheoCung[chi].push({ ten: sao, loai });
+    }
+  }
+
+  // 8.7. Vòng Lộc Tồn (gồm cả Bác Sĩ đồng cung Lộc Tồn)
+  const vongLocTon = tinhVongLocTon(canChiNam.can, amDuongLaSo);
+  for (const { sao: saos } of VONG_LOC_TON_OFFSET) {
+    for (const sao of saos) {
+      const chi = vongLocTon[sao];
+      if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+      phuTinhTheoCung[chi].push({ ten: sao, loai: 'phụ tinh' });
     }
   }
 
