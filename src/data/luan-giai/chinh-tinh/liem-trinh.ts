@@ -1510,4 +1510,472 @@ vàng và tài lộc bền lâu**.
 → Liêm Trinh rất dễ đẩy con người vào **vòng xoáy thị phi, kiện tụng, thậm chí
 lao lý**.`,
   },
+
+  // ============================================================
+  // 31. Liêm Trinh tại Quan Lộc
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-quan-loc',
+    title: 'Liêm Trinh tại Quan Lộc',
+    sao: ['Liêm Trinh'],
+    cung: ['Quan Lộc'],
+    doUuTien: 85,
+    tomTat: `**Liêm Trinh tại Quan Lộc Miếu địa:** cách cục TỐT — sự nghiệp,
+**công danh hiển hách**, được nhiều người **kính nể**.
+
+**Theo bộ kết hợp:**
+- **+ Thiên Tướng đồng cung:** **quân sự, tư pháp, kỹ thuật**
+- **+ Phá Quân:** công danh **lận đận** → nên làm **kỹ thuật / buôn bán**
+- **+ Văn Xương + Vũ Khúc:** **văn nghệ, mỹ thuật, hội họa**
+
+✅ **Miếu địa:** thích hợp **tự kinh doanh** — đầu tư, đầu cơ để **đột phá tài
+lộc**, hoặc lĩnh vực **tài chính, ngân hàng, mua bán**.
+
+⚠️ Làm trong **công ty lớn / chính trị:** dễ bị **thao túng**.`,
+
+    chiTiet: `## Miếu địa - cách cục tốt
+
+Liêm Trinh thủ cung Quan Lộc tại vị trí sáng **Miếu địa** là cách cục tốt:
+- Sự nghiệp, **công danh hiển hách**
+- Được nhiều người **kính nể**
+
+## Theo bộ kết hợp
+
+**+ Thiên Tướng đồng cung:**
+- Công việc thường liên quan đến:
+  - **Quân sự**
+  - **Tư pháp**
+  - **Kỹ thuật**
+
+**+ Phá Quân:**
+- Đường công danh **lận đận**
+- Nên làm các nghề **kỹ thuật** hoặc **buôn bán** thì sẽ ổn định
+
+**+ Văn Xương + Vũ Khúc** (sao có tính nghệ thuật):
+- Chủ về **văn nghệ, nghệ thuật**
+- Có thể theo đuổi:
+  - **Mỹ thuật**
+  - **Hội họa**
+  - ...
+
+## Miếu địa - định hướng nghề
+
+Người có Liêm Trinh ở vị trí Miếu địa sẽ thích hợp với:
+- **Tự kinh doanh**
+- Có thể **đầu tư, đầu cơ** để **đột phá tài lộc**
+- Hoặc làm việc trong các lĩnh vực:
+  - **Tài chính**
+  - **Ngân hàng**
+  - **Mua bán**
+
+## ⚠️ Cảnh báo
+
+Còn nếu làm trong:
+- **Công ty lớn**
+- Hoặc giới **chính trị**
+
+→ Dễ bị **thao túng**.`,
+  },
+
+  // ============================================================
+  // 32. Liêm Trinh tại Tài Bạch
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-tai-bach',
+    title: 'Liêm Trinh tại Tài Bạch',
+    sao: ['Liêm Trinh'],
+    cung: ['Tài Bạch'],
+    doUuTien: 80,
+    tomTat: `**Liêm Trinh tại Tài Bạch:** chủ về **cạnh tranh, thị phi để kiếm
+tiền**.
+
+⚠️ Có cả cát tinh + hung tinh → phần nhiều **hào nhoáng bên ngoài, không có
+thực chất**.
+
+✅ **+ Hóa Lộc:** phú quý.
+✅ **Miếu địa:** tiền **đến chậm nhưng chắc** — phải **cạnh tranh + phấn đấu**.
+✅ **+ Thiên Phủ đồng cung:** thẳng thắn, **liêm khiết** → giàu có.
+✅ **Miếu + Tham Lang đối xung + Hóa Lộc:** **phú quý, nhiều tài lộc** — hợp
+lĩnh vực **tài chính**.
+
+⚠️ **+ Hóa Kỵ:** sự nghiệp **trắc trở**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Thủ cung Tài Bạch, Liêm Trinh chủ về **cạnh tranh, thị phi để kiếm tiền**.
+
+⚠️ Có **cả cát tinh lẫn hung tinh** → phần nhiều chủ về:
+- **Hào nhoáng bên ngoài**
+- **Không có thực chất**
+
+## Cát kết hợp
+
+**+ Hóa Lộc:**
+- Sẽ được **phú quý**
+
+**Ở vị trí Miếu địa:**
+- Tiền bạc **tới chậm**, nhưng **chắc**
+- Sự nghiệp cần phải **cạnh tranh gay gắt**, **cố gắng phấn đấu** → tiền tài
+  mới dồi dào
+
+**+ Thiên Phủ đồng cung:**
+- Là người **thẳng thắn** trong công việc
+- Có tính **liêm khiết**
+- Trở nên **giàu có**
+
+**Miếu địa + Tham Lang đối nhau:**
+- Năng lực về tiền tài **rất mạnh**
+- Thích hợp làm việc trong lĩnh vực **tài chính**
+
+**Thêm Hóa Lộc** → cách cục **phú quý, nhiều tài nhiều lộc**.
+
+## ⚠️ Hung kết hợp
+
+**+ Hóa Kỵ:**
+- Chủ về sự nghiệp **trắc trở**`,
+  },
+
+  // ============================================================
+  // 33. Liêm Trinh tại Phu Thê
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-phu-the',
+    title: 'Liêm Trinh tại Phu Thê',
+    sao: ['Liêm Trinh'],
+    cung: ['Phu Thê'],
+    doUuTien: 80,
+    tomTat: `**Liêm Trinh tại Phu Thê:** chủ về **sinh ly, vợ chồng bất hòa**.
+Nhưng nếu cố gắng vẫn có thể ở bên nhau đến già — cũng coi là kết cục tốt.
+
+**Lời khuyên:**
+- Nên **lập gia đình muộn**
+- **Nam mệnh** nên lấy **vợ nhỏ tuổi**
+- **Nữ mệnh** nên lấy **chồng lớn tuổi**
+- **Chênh lệch nhiều tuổi** vẫn tốt
+
+✅ **+ Thiên Tướng / Thiên Phủ đồng cung:** vợ chồng **giàu sang** (nhưng vẫn
+nên lập gia đình muộn).
+
+⚠️ **+ Tham Lang đồng cung:** vợ chồng **nghèo khó, bất hòa, xa cách** — hôn
+nhân dễ **đổ vỡ**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Liêm Trinh thủ cung Phu Thê chủ về:
+- **Sinh ly**
+- **Vợ chồng bất hòa**
+
+Nhưng nếu cố gắng thì vẫn có thể **ở bên nhau đến già** — cũng có thể coi
+đây là một **kết cục tốt**.
+
+## Lời khuyên
+
+Người có Liêm Trinh tại cung Phu Thê nên:
+- **Lập gia đình muộn**
+- **Nam mệnh** nên lấy **vợ nhỏ tuổi**
+- **Nữ mệnh** nên lấy **chồng lớn tuổi**
+- **Chênh lệch nhiều tuổi** cũng vẫn tốt
+
+## Cát kết hợp
+
+**+ Thiên Tướng / Thiên Phủ đồng cung:**
+- Gia đình, vợ chồng **giàu sang**
+- Nhưng nên **lập gia đình muộn**
+
+## ⚠️ Hung kết hợp
+
+**+ Tham Lang đồng cung:**
+- Vợ chồng **nghèo khó**
+- **Bất hòa**
+- **Dễ xa cách nhau**
+- Hôn nhân **dễ đổ vỡ**`,
+  },
+
+  // ============================================================
+  // 34. Liêm Trinh tại Phụ Mẫu
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-phu-mau',
+    title: 'Liêm Trinh tại Phụ Mẫu',
+    sao: ['Liêm Trinh'],
+    cung: ['Phụ Mẫu'],
+    doUuTien: 80,
+    tomTat: `**Liêm Trinh tại Phụ Mẫu:** chủ về **cha mẹ xung khắc, không hòa
+hợp với con cái**.
+
+⚠️ Vị trí **Vượng / Đắc / Bình hòa** đều mang ý nghĩa **tử biệt**.
+
+✅ **+ Hóa Lộc + cát tinh:** có thể hóa giải — nhưng **vẫn nên xa cách cha mẹ**.`,
+
+    chiTiet: `## Đặc điểm
+
+Sao Liêm Trinh tại cung Phụ Mẫu chủ về:
+- **Cha mẹ xung khắc**
+- **Không hòa hợp với con cái**
+
+## ⚠️ Theo vị trí
+
+Ở vị trí **Vượng, Đắc và Bình hòa** thì đều có ý nghĩa **tử biệt**.
+
+## Cứu cánh
+
+**+ Hóa Lộc + cát tinh:**
+- Có thể **hóa giải**
+- Nhưng vẫn nên **xa cách cha mẹ**`,
+  },
+
+  // ============================================================
+  // 35. Liêm Trinh tại Điền Trạch
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-dien-trach',
+    title: 'Liêm Trinh tại Điền Trạch',
+    sao: ['Liêm Trinh'],
+    cung: ['Điền Trạch'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Người xưa cho rằng Liêm Trinh KHÔNG NÊN nhập cung Điền Trạch.**
+Thường gặp **nhiều trở ngại** trong chuyện đất cát, tổ nghiệp.
+
+**Theo vị trí:**
+- **Miếu / Vượng:** có **trở ngại** — có tổ nghiệp nhưng **không được thừa
+  hưởng**, dù vậy có thể **tự mua**
+- **Bình / Hãm:** không tốt — tiền tài **tụ tán thất thường**, dễ **tiêu phá
+  gia sản**, về già **không có nhà ở cố định**`,
+
+    chiTiet: `## Cảnh báo
+
+Liêm Trinh thủ cung Điền thường gặp **nhiều trở ngại** trong chuyện đất cát,
+tổ nghiệp.
+
+→ Người xưa cũng cho rằng Liêm Trinh **không nên nhập cung Điền Trạch**.
+
+## Theo vị trí
+
+**Ở vị trí tốt là Miếu, Vượng địa:**
+- Chỉ chủ về **trở ngại**
+- Có **tổ nghiệp** nhưng **không được thừa hưởng**
+- Dù vậy vẫn có thể **tự mua**
+
+⚠️ **Ở vị trí Bình, Hãm:**
+- Không tốt bằng
+- Tiền tài **tụ tán thất thường**
+- Dễ **tiêu phá gia sản**
+- Về già cũng **không có nhà ở cố định**`,
+  },
+
+  // ============================================================
+  // 36. Liêm Trinh tại Nô Bộc
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-no-boc',
+    title: 'Liêm Trinh tại Nô Bộc',
+    sao: ['Liêm Trinh'],
+    cung: ['Nô Bộc'],
+    doUuTien: 80,
+    tomTat: `**Liêm Trinh tại Nô Bộc:** **kết giao rộng, nhiều bạn bè** nhưng
+**ít người thân thiết**, có thể nhờ cậy.
+
+→ Thường là **bạn xã giao hoặc bạn ăn chơi** → ít được trợ giúp trong sự
+nghiệp hay cuộc sống.
+
+⚠️ **+ Sát tinh đồng hợp:** **tình cảm đổ vỡ**, gặp **thị phi** hoặc **tổn
+thất vì bạn bè**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Người có Liêm Trinh ở cung Nô Bộc chủ về:
+- **Kết giao rộng**
+- **Nhiều bạn bè**
+- Nhưng **ít người thân thiết**, có thể nhờ cậy
+
+→ Thường là:
+- **Bạn xã giao**
+- Hoặc **bạn ăn chơi**
+
+→ Ít được **trợ giúp trong sự nghiệp** hay cuộc sống.
+
+## ⚠️ Hung kết hợp
+
+**+ Các sát tinh đồng hợp:**
+- Còn chủ về **tình cảm đổ vỡ**
+- Gặp **thị phi**
+- Hoặc **tổn thất vì bạn bè**`,
+  },
+
+  // ============================================================
+  // 37. Liêm Trinh tại Huynh Đệ
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-huynh-de',
+    title: 'Liêm Trinh tại Huynh Đệ',
+    sao: ['Liêm Trinh'],
+    cung: ['Huynh Đệ'],
+    doUuTien: 80,
+    tomTat: `**Liêm Trinh tại Huynh Đệ:** trong nhà **nhiều anh em**.
+
+✅ **+ Lộc Tồn:** thường được **giúp đỡ về mặt vật chất**.
+
+⚠️ Hễ Liêm Trinh thủ Huynh Đệ thì giữa anh em / bạn bè **không nên quá thân
+mật** — cần **ứng xử khéo léo** trong mối quan hệ.`,
+
+    chiTiet: `## Đặc điểm
+
+Liêm Trinh tại cung Huynh Đệ → trong nhà có **nhiều anh em**.
+
+## Cát kết hợp
+
+**+ Lộc Tồn:**
+- Sẽ thường được **giúp đỡ về mặt vật chất**
+
+## Lưu ý
+
+Hễ Liêm Trinh thủ cung Huynh Đệ thì giữa anh em, bạn bè:
+- **Không nên quá thân mật**
+- Cần phải **ứng xử khéo léo** trong mối quan hệ`,
+  },
+
+  // ============================================================
+  // 38. Liêm Trinh tại Thiên Di
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-thien-di',
+    title: 'Liêm Trinh tại Thiên Di',
+    sao: ['Liêm Trinh'],
+    cung: ['Thiên Di'],
+    doUuTien: 80,
+    tomTat: `**Liêm Trinh tại Thiên Di:** **NÊN ĐI XA**, rời quê hương để phát
+triển sự nghiệp — thường có **quý nhân giúp đỡ**, gặp nhiều **may mắn tài lộc**.
+
+✅ **+ Hóa Lộc:** may mắn, **thuận lợi làm ăn**.
+
+⚠️ **+ Hóa Kỵ** hoặc **+ Thất Sát đồng cung:** cẩn trọng về **sự cố, tai nạn
+có thể đổ máu**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Liêm Trinh thủ cung Thiên Di:
+- **Nên đi xa, rời khỏi quê hương** để phát triển sự nghiệp
+- Thường sẽ có **quý nhân giúp đỡ**
+- Gặp nhiều **may mắn tài lộc**
+
+## Cát kết hợp
+
+**+ Hóa Lộc:**
+- Sẽ được **may mắn**
+- **Thuận lợi làm ăn**
+
+## ⚠️ Hung kết hợp
+
+**+ Hóa Kỵ** hoặc **+ Thất Sát đồng cung:**
+- Nên cẩn trọng về **sự cố, tai nạn**
+- Có thể **đổ máu**`,
+  },
+
+  // ============================================================
+  // 39. Liêm Trinh tại Phúc Đức
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-phuc-duc',
+    title: 'Liêm Trinh tại Phúc Đức',
+    sao: ['Liêm Trinh'],
+    cung: ['Phúc Đức'],
+    doUuTien: 80,
+    tomTat: `**Liêm Trinh tại Phúc Đức:** cuộc sống **vất vả, bận rộn** — vì
+**quyền lực mà hao tâm khổ tứ**.
+
+⚠️ **+ Hóa Kỵ:** phải **lo lắng, buồn rầu**, hay phải **lo nghĩ nhiều**.
+
+⚠️ **+ Địa Không + Địa Kiếp + Thiên Hình + Đại Hao đồng độ:** **buồn phiền,
+nóng nảy**, thường phải **bôn ba bận rộn**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Người có Liêm Trinh tại cung Phúc Đức chủ về:
+- Cuộc sống **vất vả, bận rộn**
+- Sẽ phải vì **quyền lực mà hao tâm khổ tứ**
+
+## ⚠️ + Hóa Kỵ
+
+- Phải **lo lắng, buồn rầu**
+- Hay phải **lo nghĩ nhiều**
+
+## ⚠️ + Địa Không + Địa Kiếp + Thiên Hình + Đại Hao đồng độ
+
+- Chủ về **buồn phiền, nóng nảy**
+- Thường phải **bôn ba bận rộn**`,
+  },
+
+  // ============================================================
+  // 40. Liêm Trinh tại Tử Tức
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-tu-tuc',
+    title: 'Liêm Trinh tại Tử Tức',
+    sao: ['Liêm Trinh'],
+    cung: ['Tử Tức'],
+    doUuTien: 80,
+    tomTat: `**Liêm Trinh tại Tử Tức:** tình cảm cha mẹ - con cái **rất sâu đậm**
+— có xung đột nhưng vẫn có thể cùng nhau **tâm tình**.
+
+✅ **+ Hóa Lộc:** con cái **hiếu thảo**, tình cảm sâu đậm.
+
+⚠️ **+ Cự Môn Hóa Kỵ:** **tranh cãi, bất hòa**.
+⚠️ **+ Thiên Tướng** hoặc **+ Sát-Phá-Tham:** **con cái khó nuôi**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Liêm Trinh tại cung Tử Tức chủ về:
+- Tình cảm giữa cha mẹ và con cái **rất sâu đậm**
+- Có xung đột nhưng vẫn có thể **cùng nhau tâm tình**
+
+## Cát kết hợp
+
+**+ Hóa Lộc:**
+- Con cái **hiếu thảo**
+- Tình cảm **sâu đậm**
+
+## ⚠️ Hung kết hợp
+
+**+ Cự Môn Hóa Kỵ:**
+- Biểu trưng ý nghĩa **tranh cãi, bất hòa**
+
+**+ Thiên Tướng** hoặc **+ bộ ba Sát, Phá, Tham:**
+- Con cái **khó nuôi**`,
+  },
+
+  // ============================================================
+  // 41. Liêm Trinh tại Tật Ách
+  // ============================================================
+  {
+    id: 'liem-trinh-tai-tat-ach',
+    title: 'Liêm Trinh tại Tật Ách',
+    sao: ['Liêm Trinh'],
+    cung: ['Tật Ách'],
+    doUuTien: 80,
+    tomTat: `**Liêm Trinh thuộc ÂM HỎA** → tại Tật Ách chủ về **bệnh máu huyết**.
+**Thêm Hóa Kỵ** càng nặng.
+
+⚠️ **Nữ mệnh:** chủ về **kinh nguyệt không điều hòa**.
+
+⚠️ **Bình hòa + Tham Lang đồng cung:** **mắt kém**.
+⚠️ **Hãm địa:** hay bị **bệnh, tuổi thọ không cao**.`,
+
+    chiTiet: `## Bệnh chính
+
+Liêm Trinh thuộc **âm hỏa**, có thêm **Hóa Kỵ** → chủ về **bệnh máu huyết**.
+
+## Riêng nữ mệnh
+
+⚠️ **Nữ mệnh:**
+- Chủ về **kinh nguyệt không điều hòa**
+
+## Theo vị trí + bộ kết hợp
+
+**Ở vị trí Bình hòa + Tham Lang đồng cung:**
+- **Mắt kém**
+
+⚠️ **Ở Hãm địa:**
+- Hay bị **bệnh**
+- **Tuổi thọ không cao**`,
+  },
 ];
