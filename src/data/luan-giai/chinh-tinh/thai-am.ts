@@ -864,4 +864,309 @@ Ngôi sao này biểu hiện khả năng:
 - Tiền bạc dễ **vào rồi lại ra**
 - Gặp thêm **sát tinh phá cách** → **tài lộc tụ tán thất thường**`,
   },
+
+  // ============================================================
+  // 24. Thái Âm tại Mệnh + Tý / Ngọ (đồng cung Thiên Đồng)
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-ty-ngo',
+    title: 'Thái Âm tại Mệnh - Tý / Ngọ (đồng cung Thiên Đồng)',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Tý', 'Ngọ'],
+    doUuTien: 88,
+    tomTat: `**Thái Âm + Thiên Đồng đồng cung tại Tý/Ngọ:** mềm mại, nhân ái.
+
+✅ **Tý (đắc):** thông minh, hiền lành, **giàu lòng trắc ẩn**, dễ gặp phúc báo.
+Cuộc sống an nhàn, tài lộc đầy đủ, tinh thần hướng thiện. **Nam:** quân sư,
+hoạch định chiến lược. **Nữ:** dung mạo ưa nhìn, phúc khí dày, gia đạo êm ấm.
+
+⚠️ **Ngọ (hãm):** cuộc đời nhiều bế tắc, tiền vận vất vả, tâm lý bất ổn, dễ thị
+phi. Nhưng "cùng tắc biến" — **Tuần / Triệt / Tam Hóa cứu giải** → bứt phá
+**đại phú đại quý**, hợp **kinh doanh buôn bán lớn**. Không có sao giải → lao
+đao, khó tụ tài.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Tại **Tý** và **Ngọ**, Thái Âm luôn **đồng cung với Thiên Đồng** tại cung Mệnh
+→ làm tăng thêm tính **mềm mại và nhân ái** cho đương số.
+
+## Thái Âm cư Tý (đắc địa)
+
+Chủ về:
+- Người **thông minh, hiền lành**
+- **Giàu lòng trắc ẩn**
+- **Dễ gặp phúc báo**
+
+Đương số thường:
+- Cuộc sống tương đối **an nhàn**
+- **Tài lộc đầy đủ**
+- Tinh thần hướng thiện
+
+**Nam mệnh:**
+- Dễ trở thành **quân sư, người hoạch định chiến lược**
+
+**Nữ mệnh:**
+- Dung mạo **ưa nhìn**
+- **Phúc khí dày**
+- Gia đạo êm ấm
+
+## ⚠️ Thái Âm cư Ngọ (hãm địa)
+
+Chủ về:
+- Cuộc đời nhiều **bế tắc**
+- Tiền vận **vất vả**
+- Tâm lý **bất ổn**
+- Dễ gặp **thị phi**
+
+## Cứu giải cho Ngọ — "cùng tắc biến"
+
+**Có Tuần / Triệt / Tam Hóa (Khoa Quyền Lộc) cứu giải:**
+- Đương số **bứt phá mạnh mẽ**
+- Trở thành **đại phú đại quý**
+- Đặc biệt rất hợp con đường **kinh doanh buôn bán lớn**
+
+**Không có sao giải cứu:**
+- Cuộc đời dễ rơi vào cảnh **lao đao**
+- **Khó tụ tài**`,
+  },
+
+  // ============================================================
+  // 25. Thái Âm tại Mệnh + Sửu / Mùi (đồng cung Thái Dương)
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-suu-mui',
+    title: 'Thái Âm tại Mệnh - Sửu / Mùi (đồng cung Thái Dương)',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Sửu', 'Mùi'],
+    doUuTien: 88,
+    tomTat: `**Thái Âm + Thái Dương đồng cung tại Sửu/Mùi:** nội tâm thường **mâu
+thuẫn** — lúc mềm mỏng, lúc cứng rắn, khó ổn định lâu dài.
+
+⚠️ Công danh và tài lộc **khó vẹn toàn**.
+
+✅ **Cứu cánh — RẤT CẦN: Tuần / Triệt / Hóa Kỵ án ngữ** để phân tách âm dương
+→ trí tuệ và tài năng mới được khai mở đúng hướng.`,
+
+    chiTiet: `## Đặc điểm
+
+Tại **Sửu và Mùi**, Mệnh Thái Âm **đồng cung với Thái Dương** → khiến nội tâm
+đương số thường **mâu thuẫn**:
+- Lúc **mềm mỏng**
+- Lúc **cứng rắn**
+- Khó giữ được sự **ổn định lâu dài**
+
+## Hệ quả
+
+- Công danh và tài lộc **khó vẹn toàn**
+
+## Cứu cánh
+
+**Rất cần** một trong các yếu tố:
+- **Tuần Triệt án ngữ**
+- **Hóa Kỵ án ngữ**
+
+→ Để **phân tách âm dương**.
+
+Khi đó:
+- **Trí tuệ và tài năng** mới được khai mở đúng hướng`,
+  },
+
+  // ============================================================
+  // 26. Thái Âm tại Mệnh + Dần / Thân (đồng cung Thiên Cơ)
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-dan-than',
+    title: 'Thái Âm tại Mệnh - Dần / Thân (đồng cung Thiên Cơ)',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Dần', 'Thân'],
+    doUuTien: 88,
+    tomTat: `**Thái Âm + Thiên Cơ đồng cung tại Dần/Thân:** cuộc đời mang tính
+**dịch chuyển** rõ nét.
+
+⚠️ **Dần (mọc/lặn):** **bôn ba, ly hương**, ít ổn định. Đặc biệt **nữ mệnh
+khá kỵ** — đa sầu đa cảm, tình duyên trắc trở, tâm lý bất an. Cần nhiều cát
+tinh nâng đỡ.
+
+✅ **Thân (vượng):** khéo léo, giỏi tính toán, **năng lực quản lý tiền bạc**,
+xây dựng gia đình êm ấm. Tuy nhiên do Thiên Cơ → tâm trí hay suy nghĩ nhiều,
+dễ **đa nghi** → tự tạo áp lực.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Ở **Dần** và **Thân**, Thái Âm **đồng cung với Thiên Cơ** → cuộc đời chủ mệnh
+mang tính **dịch chuyển** rõ nét.
+
+## ⚠️ Mệnh Thái Âm cư Dần (mọc/lặn)
+
+Chủ về:
+- Sự **bôn ba**
+- **Ly hương**
+- Cuộc sống **ít ổn định**
+
+**Đặc biệt với nữ mệnh:** đây là vị trí **khá kỵ**:
+- Dễ **đa sầu đa cảm**
+- **Tình duyên trắc trở**
+- Tâm lý hay **bất an**
+
+→ Muốn giảm bớt bất lợi, cần **hội nhiều cát tinh** để nâng đỡ.
+
+## Mệnh Thái Âm cư Thân (vượng địa)
+
+Đương số thường:
+- **Khéo léo, giỏi tính toán**
+- Có **năng lực quản lý tiền bạc**
+- Xây dựng **gia đình êm ấm**
+
+⚠️ **Tuy nhiên** do ảnh hưởng của Thiên Cơ:
+- Tâm trí hay **suy nghĩ nhiều**
+- Dễ **đa nghi**
+- Nếu không tiết chế sẽ **tự tạo áp lực** cho bản thân`,
+  },
+
+  // ============================================================
+  // 27. Thái Âm tại Mệnh + Mão / Dậu
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-mao-dau',
+    title: 'Thái Âm tại Mệnh - Mão / Dậu',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Mão', 'Dậu'],
+    doUuTien: 88,
+    tomTat: `⚠️ **Mão (hãm):** trăng lúc bình minh, ánh sáng yếu → công danh đến
+muộn, tài năng có nhưng khó gặp thời. Mão là cung Âm nên tính xấu được giảm
+nhẹ — vẫn có cơ hội phát triển nếu kiên trì + gặp vận tốt.
+
+✅ **Dậu (miếu):** cách **"Nhật Nguyệt Tịnh Minh"** — Mặt Trời + Mặt Trăng đều
+sáng. **Một trong những vị trí đẹp nhất của Thái Âm**: phú quý song toàn, tài
+lộc dồi dào, nhân cách đức độ, **địa vị cao, sống lâu**, hưởng phúc hậu vận.`,
+
+    chiTiet: `## ⚠️ Thái Âm cung Mệnh cư Mão (hãm địa)
+
+Tượng trưng cho **trăng lúc bình minh** — ánh sáng yếu.
+
+**Hệ quả:**
+- Công danh thường **đến muộn**
+- Tài năng có nhưng **khó gặp thời**
+
+**Tuy nhiên:** do **Mão là cung Âm** nên tính xấu của hãm địa được **giảm nhẹ
+phần nào**.
+
+→ Đương số vẫn có cơ hội phát triển nếu:
+- **Kiên trì**
+- Gặp **vận tốt**
+
+## Thái Âm cư Dậu (miếu địa)
+
+Tạo thành cách cục nổi tiếng **"Nhật Nguyệt Tịnh Minh"** — khi cả **Mặt Trời
+và Mặt Trăng đều sáng**.
+
+Đây là **một trong những vị trí đẹp nhất** của Thái Âm.
+
+**Chủ về:**
+- **Phú quý song toàn**
+- **Tài lộc dồi dào**
+- **Nhân cách đức độ**
+- Được **xã hội kính trọng**
+
+Chủ mệnh thường:
+- Có **địa vị cao**
+- **Sống lâu**
+- Hưởng **phúc hậu vận**`,
+  },
+
+  // ============================================================
+  // 28. Thái Âm tại Mệnh + Thìn / Tuất
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-thin-tuat',
+    title: 'Thái Âm tại Mệnh - Thìn / Tuất (xung chiếu Thái Dương)',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Thìn', 'Tuất'],
+    doUuTien: 88,
+    tomTat: `**Thái Âm tại Thìn/Tuất xung chiếu Thái Dương:** thế đối xứng mạnh
+về âm dương.
+
+⚠️ **Thìn (hãm):** cuộc đời **vất vả, nghèo khó**, dễ phải **ly tổ lập nghiệp**,
+sức khỏe **mắt kém**, tinh thần nhiều lo toan.
+
+✅ **Tuất (vượng):** rất thông minh, tài giỏi, **công danh hiển đạt**. Tuy
+nhiên cách **"Nhật Nguyệt Tranh Huy"** khiến cuộc đời dễ gặp **ganh ghét, áp
+lực**, hoặc bị **bó buộc bởi trách nhiệm và danh tiếng**.`,
+
+    chiTiet: `## Đặc điểm chung
+
+Tại **Thìn và Tuất**, Thái Âm **xung chiếu với Thái Dương** → tạo thế đối xứng
+mạnh về **âm dương**.
+
+## ⚠️ Thái Âm cư Thìn (hãm)
+
+Báo hiệu:
+- Cuộc đời **vất vả, nghèo khó**
+- Dễ phải **ly tổ lập nghiệp**
+- Sức khỏe **mắt kém**
+- Tinh thần **nhiều lo toan**
+
+## Thái Âm cư Tuất (vượng — "Nhật Nguyệt Tranh Huy")
+
+Đương số thường:
+- **Rất thông minh, tài giỏi**
+- **Công danh hiển đạt**
+
+⚠️ **Tuy nhiên,** cách **"Nhật Nguyệt Tranh Huy"** cũng khiến cuộc đời:
+- Dễ gặp **sự ganh ghét**
+- **Áp lực từ môi trường xung quanh**
+- Hoặc bị **bó buộc bởi trách nhiệm và danh tiếng**`,
+  },
+
+  // ============================================================
+  // 29. Thái Âm tại Mệnh + Tỵ / Hợi
+  // ============================================================
+  {
+    id: 'thai-am-tai-menh-ty-hoi',
+    title: 'Thái Âm tại Mệnh - Tỵ / Hợi',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Tỵ', 'Hợi'],
+    doUuTien: 88,
+    tomTat: `⚠️ **Tỵ (hãm):** số phận nhiều thăng trầm, tâm lý yếu, cuộc sống
+**bấp bênh, dễ phiêu bạt**. Sức khỏe kém — đặc biệt các bệnh **âm tính** và
+**thị lực**.
+
+✅ **Hợi (miếu địa TỐI THƯỢNG):** **đại phú đại quý** — làm chủ doanh nghiệp
+lớn, tài sản đồ sộ, kinh doanh quy mô rộng, **xuyên quốc gia**.
+
+✅✅ **Hợi + Hóa Kỵ** (đương số tuổi **Ất**): tài lộc biến hóa mạnh mẽ, dễ
+**làm nên nghiệp lớn từ những cơ hội bất ngờ** (cách "biến cảnh").`,
+
+    chiTiet: `## ⚠️ Thái Âm cư Tỵ (hãm địa)
+
+- Số phận **nhiều thăng trầm**
+- Tâm lý **yếu**
+- Cuộc sống **bấp bênh**, dễ **phiêu bạt**
+- Sức khỏe **kém**, đặc biệt:
+  - Các bệnh **âm tính**
+  - **Thị lực**
+
+## Thái Âm cư Hợi (miếu địa TỐI THƯỢNG)
+
+Đây là vị trí **miếu địa tối thượng** của Thái Âm — chủ về:
+- **Đại phú đại quý**
+- **Làm chủ doanh nghiệp lớn**
+- **Tài sản đồ sộ**
+- **Kinh doanh quy mô rộng**, thậm chí **xuyên quốc gia**
+
+## Hợi + Hóa Kỵ (tuổi Ất) — "biến cảnh"
+
+Nếu hội thêm **Hóa Kỵ** (đương số **tuổi Ất**):
+- **Tài lộc biến hóa mạnh mẽ**
+- Dễ **làm nên nghiệp lớn từ những cơ hội bất ngờ**
+
+(Đây là cách **"biến cảnh"** — Thái Âm tại Hợi không sợ Hóa Kỵ, ngược lại biến
+đổi thành lợi.)`,
+  },
 ];
