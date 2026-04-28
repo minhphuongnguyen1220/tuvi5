@@ -77,7 +77,7 @@ là nguồn cơn của tai họa**.
 ✅ **+ Hỏa Tinh / Linh Tinh đắc địa:** cách **HỎA THAM / LINH THAM** — **bạo
 phát tài lộc và quyền uy**, thành công nhanh và mạnh (võ tướng / doanh nhân lớn).
 
-✅ **+ Tả Phụ + Hữu Bật + Thiên Khôi + Thiên Việt:** **quý nhân trợ lực**, dễ
+✅ **+ Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt:** **quý nhân trợ lực**, dễ
 nắm vai trò **lãnh đạo**, có duyên với **chính trị / tâm linh**.
 
 **Tam Hóa:**
@@ -96,7 +96,7 @@ hoặc **LINH THAM**:
 
 ## Tả Hữu Khôi Việt — quý nhân
 
-**+ Tả Phụ + Hữu Bật + Thiên Khôi + Thiên Việt:**
+**+ Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt:**
 - Mệnh chủ có **quý nhân trợ lực**
 - Dễ nắm vai trò **lãnh đạo**
 - Có duyên với **chính trị** hoặc **tâm linh**

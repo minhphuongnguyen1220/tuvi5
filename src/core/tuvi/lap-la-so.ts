@@ -149,9 +149,9 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
     phuTinhTheoCung[chi].push({ ten: sao, loai: 'sát tinh' });
   }
 
-  // 8.13. Sao theo ngày sinh (cần vị trí Tả Phụ/Hữu Bật/Văn Xương/Văn Khúc đã tính ở trên)
+  // 8.13. Sao theo ngày sinh (cần vị trí Tả Phù/Hữu Bật/Văn Xương/Văn Khúc đã tính ở trên)
   const saoNgaySinh = tinhSaoTheoNgaySinh(amLich.ngayAmLich, {
-    taPhu:    saoThangSinh['Tả Phụ'],
+    taPhu:    saoThangSinh['Tả Phù'],
     huuBat:   saoThangSinh['Hữu Bật'],
     vanXuong: saoGioSinh['Văn Xương'],
     vanKhuc:  saoGioSinh['Văn Khúc'],

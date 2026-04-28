@@ -37,7 +37,7 @@ src/data/luan-giai/
 
 | Trường | Ý nghĩa | Ví dụ |
 |---|---|---|
-| `sao` | Áp dụng cho sao nào | `['Tử Vi']` hoặc `['Tả Phụ', 'Hữu Bật']` |
+| `sao` | Áp dụng cho sao nào | `['Tử Vi']` hoặc `['Tả Phù', 'Hữu Bật']` |
 | `cung` | Áp dụng khi sao ở cung nào | `['Mệnh']`, `['Phu Thê']` |
 | `chi` | Áp dụng khi ở vị trí chi nào | `['Tý', 'Ngọ']` |
 | `ketHop` | Phải có sao này CÙNG cung | `['Vũ Khúc']` |

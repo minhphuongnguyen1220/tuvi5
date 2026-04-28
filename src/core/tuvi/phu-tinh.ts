@@ -219,8 +219,8 @@ export const SAO_THEO_THANG_SINH: Array<{ ten: string; chiKhoi: Chi; thuan: bool
   { ten: 'Thiên Riêu',  chiKhoi: 'Sửu',  thuan: true },  // đồng cung Thiên Y
   { ten: 'Thiên Giải',  chiKhoi: 'Thân', thuan: true },
   { ten: 'Địa Giải',    chiKhoi: 'Mùi',  thuan: true },
-  { ten: 'Tả Phụ',      chiKhoi: 'Thìn', thuan: true },
-  { ten: 'Hữu Bật',     chiKhoi: 'Tuất', thuan: false }, // nghịch — đối Tả Phụ qua Sửu-Mùi
+  { ten: 'Tả Phù',      chiKhoi: 'Thìn', thuan: true },
+  { ten: 'Hữu Bật',     chiKhoi: 'Tuất', thuan: false }, // nghịch — đối Tả Phù qua Sửu-Mùi
 ];
 
 export function tinhSaoTheoThangSinh(thangSinhAm: number): Record<string, Chi> {
@@ -313,7 +313,7 @@ export function tinhHoaLinhTinh(
 
 /**
  * G2-D: Sao theo NGÀY sinh.
- *   Tam Thai:   từ Tả Phụ là ngày 1, THUẬN đến ngày sinh
+ *   Tam Thai:   từ Tả Phù là ngày 1, THUẬN đến ngày sinh
  *   Bát Tọa:    từ Hữu Bật là ngày 1, NGHỊCH đến ngày sinh
  *   Thiên Quý:  từ Văn Khúc là ngày 1, NGHỊCH đến (ngày sinh - 1)
  *   Ân Quang:   từ Văn Xương là ngày 1, THUẬN đến (ngày sinh - 1)
@@ -397,7 +397,7 @@ export function tinhLuuHa(canNamSinh: Can): Chi {
  * Tứ Hóa không có vị trí cố định — chúng theo sao "chủ" (chính tinh hoặc phụ tinh)
  * và đứng cùng cung với sao chủ đó.
  *
- * Chú ý: Hóa Khoa/Kỵ có thể gắn vào phụ tinh (Văn Xương, Văn Khúc, Tả Phụ, Hữu Bật).
+ * Chú ý: Hóa Khoa/Kỵ có thể gắn vào phụ tinh (Văn Xương, Văn Khúc, Tả Phù, Hữu Bật).
  */
 /**
  * Thiên Trù theo Can năm sinh.
@@ -618,6 +618,6 @@ export const BANG_TU_HOA: Record<Can, { loc: string; quyen: string; khoa: string
   'Kỷ':   { loc: 'Vũ Khúc',     quyen: 'Tham Lang',   khoa: 'Thiên Lương', ky: 'Văn Khúc' },
   'Canh': { loc: 'Thái Dương',  quyen: 'Vũ Khúc',     khoa: 'Thái Âm',     ky: 'Thiên Đồng' },
   'Tân':  { loc: 'Cự Môn',      quyen: 'Thái Dương',  khoa: 'Văn Khúc',    ky: 'Văn Xương' },
-  'Nhâm': { loc: 'Thiên Lương', quyen: 'Tử Vi',       khoa: 'Tả Phụ',      ky: 'Vũ Khúc' },
+  'Nhâm': { loc: 'Thiên Lương', quyen: 'Tử Vi',       khoa: 'Tả Phù',      ky: 'Vũ Khúc' },
   'Quý':  { loc: 'Phá Quân',    quyen: 'Cự Môn',      khoa: 'Thái Âm',     ky: 'Tham Lang' },
 };

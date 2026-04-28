@@ -247,7 +247,7 @@ tao**, khéo léo, có lý trí.
 - **Tử Vi** → tăng cường khả năng **quản lý, lãnh đạo**
 - **Thái Dương, Văn Xương, Văn Khúc** hội chiếu → **địa vị cao**, hiển quý
 - **Tử Vi + Hóa Quyền/Lộc/Khoa** → **phú quý song toàn**
-- **Tả Phụ, Hữu Bật giáp Mệnh** → từ từ phát triển từng bước lên cao
+- **Tả Phù, Hữu Bật giáp Mệnh** → từ từ phát triển từng bước lên cao
 - **Lục Cát tinh** → cơ hội thành công lớn`,
   },
 

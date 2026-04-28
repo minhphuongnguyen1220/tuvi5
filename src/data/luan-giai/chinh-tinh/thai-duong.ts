@@ -425,7 +425,7 @@ mà sinh anh hùng**. Tuy nhiên thời bình thì không trọn vẹn.
 
 ## Cứu cánh: Tả Hữu, Xương Khúc, Tam Minh
 
-Hội hợp với **Tả Phụ + Hữu Bật + Văn Xương + Văn Khúc + Tam Minh (Đào Hồng Hỷ)**
+Hội hợp với **Tả Phù + Hữu Bật + Văn Xương + Văn Khúc + Tam Minh (Đào Hồng Hỷ)**
 → cuộc đời vẫn được no ấm, sung túc đầy đủ.
 
 ## Đại kỵ: tuổi Giáp, Quý

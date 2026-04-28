@@ -207,7 +207,7 @@ nhiệm**, giỏi **giao tiếp, lãnh đạo**.
 - **+ Tử Vi / Thiên Phủ / Vũ Khúc:** uy quyền, dũng cảm, **công danh hiển đạt**
 - **+ Quốc Ấn / Phong Cáo:** công danh địa vị cao; làm trong **quân đội** dễ lập công lớn
 - **+ Thiên Mã:** người **tài giỏi, can đảm**
-- **+ Thiên Y:** có thể trở thành **bác sĩ**; thêm Tả Phụ / Hữu Bật / Thiên Quan
+- **+ Thiên Y:** có thể trở thành **bác sĩ**; thêm Tả Phù / Hữu Bật / Thiên Quan
   / Thiên Phúc → **thầy thuốc giỏi, mát tay**
 - **+ Hồng Loan:** nam mệnh có **vợ giàu sang đảm đang**, nữ mệnh có **chồng tài
   năng phú quý**, đẹp mà đoan chính, lấy chồng sang
@@ -490,7 +490,7 @@ hạ tin cậy, yêu quý**. Có duyên thu hút người xung quanh.
 
     chiTiet: `## Cát kết hợp
 
-- **+ Tả Phụ / Hữu Bật:** giao du rộng, có **nhiều người dưới quyền**.
+- **+ Tả Phù / Hữu Bật:** giao du rộng, có **nhiều người dưới quyền**.
 - **+ Hóa Lộc/Khoa/Quyền + Lộc Tồn** hội chiếu: bạn bè và người dưới quyền **trợ
   giúp** đương số.
 - **+ Tử Vi:** nhiều bạn bè tốt, người dưới quyền **trung thành, giỏi giang, ngay thẳng**.
@@ -671,7 +671,7 @@ có người làm **công quyền hoặc chức vụ**.
 - **+ Tử Vi:** **nhiều anh chị em** nhưng **trong nhà hay bất hòa**. Tuy nhiên
   đều **khá giả**.
 - **+ Liêm Trinh:** **hai người con**, đều **quý hiển**.
-- **+ Tả Phụ / Hữu Bật:** **nhiều anh chị em**, **chung sống hòa thuận**.
+- **+ Tả Phù / Hữu Bật:** **nhiều anh chị em**, **chung sống hòa thuận**.
 - **+ Tam Hóa cát + Lộc Tồn:** anh chị em **có tiền, có quyền thế**, trợ lực
   dìu dắt nhau.
 

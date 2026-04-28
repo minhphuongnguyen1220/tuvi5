@@ -198,7 +198,7 @@ của công việc cần phải **tiếp xúc với nhiều người khác giớ
 - **+ Lộc Tồn:** **phú quý**
 - **+ Văn Xương / Văn Khúc:** **chuộng đạo đức lễ nhạc, biết lễ nghi**
 - **+ Thất Sát:** phát đạt khi theo **võ nghiệp** (cố chấp, cá tính mạnh)
-- **+ Thiên Tướng + Tả Phụ + Hữu Bật hội chiếu:** **nắm quyền lớn**
+- **+ Thiên Tướng + Tả Phù + Hữu Bật hội chiếu:** **nắm quyền lớn**
 - **Chịu được Thiên Không + Địa Kiếp** — Liêm độc thủ + Không Kiếp →
   **nhân viên công chức chức vị cao** hoặc nhân tài KHTN
 
@@ -229,7 +229,7 @@ của công việc cần phải **tiếp xúc với nhiều người khác giớ
 
 ## Thiên Tướng + Tả Hữu
 
-Liêm Trinh **thích sao Thiên Tướng**, nếu lại gặp **Tả Phụ + Hữu Bật** hội
+Liêm Trinh **thích sao Thiên Tướng**, nếu lại gặp **Tả Phù + Hữu Bật** hội
 chiếu thì có thể **nắm quyền lớn**.
 
 ## Chịu được Thiên Không, Địa Kiếp

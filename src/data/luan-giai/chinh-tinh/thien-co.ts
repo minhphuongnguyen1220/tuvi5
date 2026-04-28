@@ -715,7 +715,7 @@ Với tiềm năng của Thiên Cơ:
 ⚠️ **Hãm địa:** bình thường, có thể nói là không tốt.
 
 **Cát kết hợp:**
-- **+ Thiên Lương + Tả Phụ + Hữu Bật + Văn Xương + Văn Khúc** tam phương hội
+- **+ Thiên Lương + Tả Phù + Hữu Bật + Văn Xương + Văn Khúc** tam phương hội
   chiếu: **văn thì tinh thông, võ thì trung lương** — thông tình đạt lý, tận
   trung tận tụy
 - **+ Thiên Lương đồng cung** hoặc **tam phương hội chiếu:** giỏi việc binh,
@@ -734,7 +734,7 @@ Với tiềm năng của Thiên Cơ:
 
 ## Bộ "văn võ song toàn"
 
-**Thiên Cơ + Thiên Lương + Tả Phụ + Hữu Bật + Văn Xương + Văn Khúc** tam phương
+**Thiên Cơ + Thiên Lương + Tả Phù + Hữu Bật + Văn Xương + Văn Khúc** tam phương
 hội chiếu:
 - **Về văn:** tinh thông
 - **Về võ:** trung lương

@@ -137,7 +137,7 @@ Thất Sát thủ Mệnh là người:
     title: 'Thất Sát - Bộ sao tốt (chế lục sát)',
     sao: ['Thất Sát'],
     doUuTien: 50,
-    tomTat: `✅ **Thất Sát + Tả Phụ + Hữu Bật + Thiên Khôi + Thiên Việt**, hoặc
+    tomTat: `✅ **Thất Sát + Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt**, hoặc
 **chỉ + Tử Vi** thôi cũng có khả năng **CHẾ KHẮC LỤC SÁT**.
 
 **+ Cát tinh:** có thể theo các nghề mang tính **VĂN** — như **luật sư**.
@@ -148,7 +148,7 @@ hoặc **nghề dùng tay**.`,
     chiTiet: `## Khả năng chế khắc lục sát
 
 Thất Sát được:
-- **Tả Phụ + Hữu Bật + Thiên Khôi + Thiên Việt**
+- **Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt**
 - Hoặc **chỉ là Tử Vi** thôi
 
 → Cũng có khả năng **chế khắc được lục sát** (6 sát tinh: Kình Đà, Linh Hỏa,
@@ -985,7 +985,7 @@ hóa thành **QUYỀN UY CHÍNH ĐÁNG** → **NHÀ LÃNH ĐẠO XUẤT CHÚNG**
 ✅ **+ Lộc Tồn / Hóa Lộc:** thành quả tranh đấu **THỰC CHẤT**, **TÀI LỘC BỀN
 HƠN**.
 
-✅ **+ Tả Phụ + Hữu Bật + Thiên Khôi + Thiên Việt:** **QUÝ NHÂN trợ lực**, sự
+✅ **+ Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt:** **QUÝ NHÂN trợ lực**, sự
 nghiệp hanh thông.
 
 ✅ **+ Hóa Quyền:** **TĂNG UY THẾ** — nhưng đòi hỏi mệnh chủ **biết tiết chế
@@ -1005,7 +1005,7 @@ Khi hội **Tử Vi + Thiên Phủ:**
 
 ## Tả Hữu Khôi Việt
 
-**+ Tả Phụ + Hữu Bật + Thiên Khôi + Thiên Việt:**
+**+ Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt:**
 - Mang lại **quý nhân trợ lực**
 - Sự nghiệp **hanh thông**
 

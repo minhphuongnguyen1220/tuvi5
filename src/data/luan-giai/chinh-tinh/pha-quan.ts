@@ -127,7 +127,7 @@ sau không ngừng** ("có gốc rễ"):
 ✅ **Kế đó:** hội hợp với chính diệu **Hóa Lộc khác**
 ✅ **Kế đó nữa:** hội hợp với **Lộc Tồn**
 
-**+ Hóa Quyền + Thiên Khôi + Thiên Việt + Tả Phụ + Hữu Bật** (hội chiếu hoặc
+**+ Hóa Quyền + Thiên Khôi + Thiên Việt + Tả Phù + Hữu Bật** (hội chiếu hoặc
 đồng độ) → **TĂNG khí thế sáng lập sự nghiệp**.`,
 
     chiTiet: `## Phá Quân ưa Lộc — "có gốc rễ"
@@ -145,7 +145,7 @@ không ngừng bổ xung**, gọi là **"có gốc rễ"**.
 
 ## Bộ sao tăng khí thế
 
-**+ Hóa Quyền + Thiên Khôi + Thiên Việt + Tả Phụ + Hữu Bật:**
+**+ Hóa Quyền + Thiên Khôi + Thiên Việt + Tả Phù + Hữu Bật:**
 - Hội chiếu hoặc đồng độ với Phá Quân
 - → Có thể **làm tăng khí thế sáng lập sự nghiệp**`,
   },
@@ -279,7 +279,7 @@ khí phách anh hùng** → hợp **võ nghiệp** (quân đội/cảnh sát) ho
 thương**, **khai sáng**.
 
 ⚠️ **Phá Quân không ưa Văn Xương / Văn Khúc** — chỉ ưa **Thiên Khôi + Thiên
-Việt**, **rất ưa Tả Phụ + Hữu Bật** → bạn bè giúp đỡ.
+Việt**, **rất ưa Tả Phù + Hữu Bật** → bạn bè giúp đỡ.
 
 ⚠️ **+ Xương Khúc không có Lộc:** suy diễn không tưởng, **thiếu hành động
 thực tế**.
@@ -330,7 +330,7 @@ Nếu **không có sát Kỵ hội chiếu** + một trong các điều kiện:
 
 Phá Quân **không ưa Văn Xương + Văn Khúc**, chỉ ưa:
 - **Thiên Khôi + Thiên Việt**
-- Rất ưa **Tả Phụ + Hữu Bật** đồng độ hoặc hội chiếu
+- Rất ưa **Tả Phù + Hữu Bật** đồng độ hoặc hội chiếu
 
 → Chủ về được **bạn bè giúp đỡ, ủng hộ**.
 
@@ -431,7 +431,7 @@ Phá Quân Hóa Lộc.)
 
 ## Cát kết hợp
 
-**+ Tả Phụ + Hữu Bật hội hợp:**
+**+ Tả Phù + Hữu Bật hội hợp:**
 - Có thể **giảm thiểu vất vả**
 
 **+ Tứ Sát:**
@@ -548,7 +548,7 @@ Bị Thiên Tướng gây ảnh hưởng → còn chủ về là người:
 
 ## ✅ Cát kết hợp
 
-**+ Tam Hóa Lộc Quyền Khoa + Lộc Tồn hội chiếu + Tả Phụ + Hữu Bật + Thiên
+**+ Tam Hóa Lộc Quyền Khoa + Lộc Tồn hội chiếu + Tả Phù + Hữu Bật + Thiên
 Khôi + Thiên Việt:**
 - Tuy **hiếu động, trôi nổi, bất ổn**
 - Nhưng vẫn chủ về sự nghiệp có **thành tích**
@@ -1122,7 +1122,7 @@ cả mà cũng giống như anh cả:
 
 **Phá Quân độc tọa Phu Thê ở Thìn / Tuất:**
 - Chủ về vợ **tính cương cường**
-- Cung Mệnh hoặc bản cung + **Hóa Kỵ + Địa Không + Tả Phụ + Hữu Bật** → dễ
+- Cung Mệnh hoặc bản cung + **Hóa Kỵ + Địa Không + Tả Phù + Hữu Bật** → dễ
   **chia ly**
 - **Nữ mệnh:** nên **giúp chồng về sự nghiệp**, phối hợp gánh vác trách nhiệm
   gia đình`,

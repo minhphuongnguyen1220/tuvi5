@@ -22,7 +22,7 @@ export interface DoanLuanGiai {
   /** Tiêu đề ngắn để debug/admin (không hiển thị) */
   title?: string;
 
-  /** Tên các sao mà đoạn này áp dụng (rỗng = mọi sao). Vd: ['Tử Vi'] hoặc ['Tả Phụ', 'Hữu Bật'] */
+  /** Tên các sao mà đoạn này áp dụng (rỗng = mọi sao). Vd: ['Tử Vi'] hoặc ['Tả Phù', 'Hữu Bật'] */
   sao?: string[];
 
   /** Tên các cung mà đoạn này áp dụng (rỗng = mọi cung). Vd: ['Mệnh'] */

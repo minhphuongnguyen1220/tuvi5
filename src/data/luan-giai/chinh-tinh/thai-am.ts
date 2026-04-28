@@ -104,7 +104,7 @@ tháng**.
 - **Tam Hóa Lộc Quyền Khoa** — bổ trợ tốt
 - **Lộc Tồn / Hóa Lộc** — tăng vẻ sáng, sinh lực dồi dào không cạn
 - **Hóa Khoa** — nhờ tiền tài mà nổi danh
-- **Lục cát tinh** (Tả Phụ, Hữu Bật, Thiên Khôi, Thiên Việt, Văn Xương, Văn Khúc)
+- **Lục cát tinh** (Tả Phù, Hữu Bật, Thiên Khôi, Thiên Việt, Văn Xương, Văn Khúc)
   + **Lộc Tồn**
 
 **Đặc biệt:**
@@ -127,7 +127,7 @@ Thái Âm **ưa gặp Tam Hóa** — bổ trợ tốt cho chính mình.
 ## Lục cát tinh + Lộc Tồn
 
 Thái Âm ưa gặp 6 cát tinh:
-- **Tả Phụ + Hữu Bật**
+- **Tả Phù + Hữu Bật**
 - **Thiên Khôi + Thiên Việt**
 - **Văn Xương + Văn Khúc**
 - **Lộc Tồn**
