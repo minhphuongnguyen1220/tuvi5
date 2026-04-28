@@ -7,6 +7,9 @@
 
 import type { DoanLuanGiai } from './types';
 
+// Phụ tinh
+import { luanGiai_TaPhu } from './phu-tinh/ta-phu';
+
 // 14 chính tinh
 import { luanGiai_TuVi } from './chinh-tinh/tu-vi';
 import { luanGiai_ThienCo } from './chinh-tinh/thien-co';
@@ -53,6 +56,9 @@ export const tatCaLuanGiai: DoanLuanGiai[] = [
   ...luanGiai_ThienLuong,
   ...luanGiai_ThatSat,
   ...luanGiai_PhaQuan,
+
+  // Phụ tinh
+  ...luanGiai_TaPhu,
 
   // Cung
   ...luanGiai_Cung_Menh,
