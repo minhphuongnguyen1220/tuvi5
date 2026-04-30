@@ -1,3 +1,6 @@
+'use client';
+
+import { useState } from 'react';
 import { LaSo as LaSoType, Chi, Sao } from '@/core/tuvi/types';
 import { nguHanhCuaChi, nguHanhCuaCan } from '@/core/tuvi/am-duong';
 import { mauCuaSao, MAU_NGU_HANH } from '@/lib/mau-ngu-hanh';
@@ -31,28 +34,64 @@ const VI_TRI_CUNG: Record<Chi, { row: number; col: number }> = {
 };
 
 /**
- * Tính tọa độ MIDPOINT giữa 2 cung (% theo container).
+ * Tính TÂM của một cung dưới dạng % (cho cả style position và SVG viewBox 0-100).
+ */
+function tamCuaCung(chi: Chi): { x: number; y: number } {
+  const v = VI_TRI_CUNG[chi];
+  return { x: (v.col - 0.5) * 25, y: (v.row - 0.5) * 25 };
+}
+
+/**
+ * Tọa độ MIDPOINT giữa 2 cung (% theo container).
  * Dùng để đặt label "Tuần"/"Triệt" overlay tại đường biên giữa 2 cell.
- * Mỗi cell = 25% × 25% trong grid 4x4.
  */
 function viTriGiuaCung(chi1: Chi, chi2: Chi): { left: string; top: string } {
-  const a = VI_TRI_CUNG[chi1];
-  const b = VI_TRI_CUNG[chi2];
-  const xA = (a.col - 0.5) * 25;
-  const yA = (a.row - 0.5) * 25;
-  const xB = (b.col - 0.5) * 25;
-  const yB = (b.row - 0.5) * 25;
+  const a = tamCuaCung(chi1);
+  const b = tamCuaCung(chi2);
   return {
-    left: `${(xA + xB) / 2}%`,
-    top:  `${(yA + yB) / 2}%`,
+    left: `${(a.x + b.x) / 2}%`,
+    top:  `${(a.y + b.y) / 2}%`,
   };
 }
+
+/**
+ * Bảng tam hợp 4 cục: Hỏa (Dần-Ngọ-Tuất), Thủy (Thân-Tý-Thìn),
+ * Kim (Tỵ-Dậu-Sửu), Mộc (Hợi-Mão-Mùi).
+ */
+const TAM_HOP: Record<Chi, [Chi, Chi, Chi]> = {
+  'Tý':   ['Thân', 'Tý',  'Thìn'],
+  'Sửu':  ['Tỵ',   'Dậu', 'Sửu'],
+  'Dần':  ['Dần',  'Ngọ', 'Tuất'],
+  'Mão':  ['Hợi',  'Mão', 'Mùi'],
+  'Thìn': ['Thân', 'Tý',  'Thìn'],
+  'Tỵ':   ['Tỵ',   'Dậu', 'Sửu'],
+  'Ngọ':  ['Dần',  'Ngọ', 'Tuất'],
+  'Mùi':  ['Hợi',  'Mão', 'Mùi'],
+  'Thân': ['Thân', 'Tý',  'Thìn'],
+  'Dậu':  ['Tỵ',   'Dậu', 'Sửu'],
+  'Tuất': ['Dần',  'Ngọ', 'Tuất'],
+  'Hợi':  ['Hợi',  'Mão', 'Mùi'],
+};
+
+/**
+ * Bảng lục xung — mỗi chi có 1 chi đối (xung).
+ */
+const DOI: Record<Chi, Chi> = {
+  'Tý':   'Ngọ', 'Ngọ':  'Tý',
+  'Sửu':  'Mùi', 'Mùi':  'Sửu',
+  'Dần':  'Thân','Thân': 'Dần',
+  'Mão':  'Dậu', 'Dậu':  'Mão',
+  'Thìn': 'Tuất','Tuất': 'Thìn',
+  'Tỵ':   'Hợi', 'Hợi':  'Tỵ',
+};
 
 interface Props {
   laSo: LaSoType;
 }
 
 export default function LaSo({ laSo }: Props) {
+  const [hoveredChi, setHoveredChi] = useState<Chi | null>(null);
+
   return (
     <div
       className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border-2 border-amber-900 aspect-square w-full max-w-[800px] mx-auto"
@@ -78,6 +117,8 @@ export default function LaSo({ laSo }: Props) {
               ${isMenh ? 'ring-2 ring-red-500 ring-inset' : ''}
             `}
             style={{ gridRow: vt.row, gridColumn: vt.col }}
+            onMouseEnter={() => setHoveredChi(cung.chi)}
+            onMouseLeave={() => setHoveredChi(null)}
           >
             {/* Header row 1: Đại vận (trái) + Nguyệt vận (phải) */}
             <div className="flex justify-between items-baseline text-[9px] leading-none">
@@ -193,6 +234,48 @@ export default function LaSo({ laSo }: Props) {
         >
           Tuần
         </div>
+      )}
+
+      {/* Hover: tam hợp (3 đường mờ) + đối (1 đường đỏ) */}
+      {hoveredChi && (
+        <svg
+          className="absolute inset-0 z-20 pointer-events-none"
+          viewBox="0 0 100 100"
+          preserveAspectRatio="none"
+        >
+          {/* Tam hợp: tam giác mờ nâu */}
+          {(() => {
+            const [a, b, c] = TAM_HOP[hoveredChi];
+            const pa = tamCuaCung(a);
+            const pb = tamCuaCung(b);
+            const pc = tamCuaCung(c);
+            return (
+              <polygon
+                points={`${pa.x},${pa.y} ${pb.x},${pb.y} ${pc.x},${pc.y}`}
+                fill="rgba(180, 83, 9, 0.08)"
+                stroke="rgba(180, 83, 9, 0.55)"
+                strokeWidth="0.35"
+                strokeDasharray="1.2 0.8"
+              />
+            );
+          })()}
+          {/* Đối: đường đỏ nét đậm */}
+          {(() => {
+            const opp = DOI[hoveredChi];
+            const ph = tamCuaCung(hoveredChi);
+            const po = tamCuaCung(opp);
+            return (
+              <line
+                x1={ph.x}
+                y1={ph.y}
+                x2={po.x}
+                y2={po.y}
+                stroke="rgba(220, 38, 38, 0.75)"
+                strokeWidth="0.45"
+              />
+            );
+          })()}
+        </svg>
       )}
 
       {/* Phần thông tin chung ở giữa */}
