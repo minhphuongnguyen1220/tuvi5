@@ -150,8 +150,9 @@ export default function LaSo({ laSo }: Props) {
                   <span className={MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}>{cung.chi}</span>
                 </span>
               </div>
-              {/* Tên cung + Chính tinh — stacked giữa, in HOA, không xuống dòng */}
-              <div className="flex flex-col items-center gap-0 sm:gap-0.5 min-w-0">
+              {/* Tên cung + Chính tinh — stacked giữa, in HOA, không xuống dòng.
+                  mt-1 trên mobile để chính tinh không đè Can.Chi (cột trái có 2 dòng). */}
+              <div className="flex flex-col items-center gap-0 sm:gap-0.5 min-w-0 mt-1 sm:mt-0">
                 <div className={`text-[8px] sm:text-[11px] font-bold uppercase leading-tight whitespace-nowrap ${MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}`}>
                   {cung.ten}{isThan ? ' (Thân)' : ''}
                 </div>
@@ -178,6 +179,9 @@ export default function LaSo({ laSo }: Props) {
               const hungList: Sao[] = [];
               const truongSinhList: Sao[] = [];
               for (const sao of cung.saoPhu) {
+                // Tuần/Triệt đã render dưới dạng overlay floating ở biên giữa 2 cung
+                // → KHÔNG render trong saoPhu để tránh double
+                if (sao.ten === 'Tuần' || sao.ten === 'Triệt') continue;
                 const loai = phanLoaiSao(sao.ten);
                 if (loai === 'trường sinh') truongSinhList.push(sao);
                 else if (loai === 'hung') hungList.push(sao);
