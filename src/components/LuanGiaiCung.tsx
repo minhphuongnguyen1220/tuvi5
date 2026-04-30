@@ -1,8 +1,11 @@
 'use client';
 
 import ReactMarkdown from 'react-markdown';
-import type { CungTrongLaSo } from '@/core/tuvi/types';
+import { Fragment } from 'react';
+import type { CungTrongLaSo, Sao } from '@/core/tuvi/types';
 import { timLuanGiaiCuaCung } from '@/core/luan-giai/lookup';
+import { nguHanhCuaCan, nguHanhCuaChi } from '@/core/tuvi/am-duong';
+import { mauCuaSao, MAU_NGU_HANH } from '@/lib/mau-ngu-hanh';
 
 interface Props {
   cung: CungTrongLaSo;
@@ -10,10 +13,7 @@ interface Props {
 
 export default function LuanGiaiCung({ cung }: Props) {
   const danhSach = timLuanGiaiCuaCung(cung);
-  const danhSachSao = [
-    ...cung.saoChinh.map(s => s.ten),
-    ...cung.saoPhu.map(s => s.ten),
-  ];
+  const danhSachSao: Sao[] = [...cung.saoChinh, ...cung.saoPhu];
 
   return (
     <section className="bg-white border border-amber-200 rounded-lg p-4 space-y-3">
@@ -21,13 +21,26 @@ export default function LuanGiaiCung({ cung }: Props) {
         <h3 className="text-lg font-bold text-amber-900">
           Cung {cung.ten} {cung.laThan && <span className="text-sm text-amber-600">(Thân)</span>}
         </h3>
-        <span className="text-sm text-stone-500">{cung.can} {cung.chi}</span>
+        <span className="text-sm font-medium">
+          <span className={MAU_NGU_HANH[nguHanhCuaCan(cung.can)]}>{cung.can}</span>
+          {' '}
+          <span className={MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}>{cung.chi}</span>
+        </span>
       </header>
 
-      {/* Liệt kê sao trong cung */}
-      <div className="text-sm text-stone-700">
+      {/* Liệt kê sao trong cung — tên sao tô màu theo ngũ hành */}
+      <div className="text-sm">
         <span className="text-stone-500">Sao trong cung: </span>
-        {danhSachSao.length > 0 ? danhSachSao.join(', ') : '(không có)'}
+        {danhSachSao.length > 0 ? (
+          danhSachSao.map((sao, i) => (
+            <Fragment key={`${sao.ten}-${i}`}>
+              <span className={`font-medium ${mauCuaSao(sao.ten)}`}>{sao.ten}</span>
+              {i < danhSachSao.length - 1 && <span className="text-stone-400">, </span>}
+            </Fragment>
+          ))
+        ) : (
+          <span className="text-stone-400">(không có)</span>
+        )}
       </div>
 
       {/* Các đoạn luận giải */}

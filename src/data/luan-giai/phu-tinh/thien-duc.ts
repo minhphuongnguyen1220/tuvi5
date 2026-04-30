@@ -36,8 +36,6 @@ export const luanGiai_ThienDuc: DoanLuanGiai[] = [
 
 ⚡ **Quy luật vị trí:**
 - Thiên Đức **LUÔN ĐỒNG CUNG** sao **PHÚC ĐỨC** (vòng Thái Tuế vị trí 9)
-- Engine hardcode quy luật này
-- Phần CHUNG cặp Thiên Đức + Phúc Đức đã viết tại file `phuc-duc.ts`
 
 ⚡ **Bộ Tứ Đức** (Thiên Đức + Nguyệt Đức + Phúc Đức + Long Đức):
 - **CHẾ Đào Hồng** → đào hoa thành đoan chính

@@ -1,4 +1,6 @@
 import { LaSo as LaSoType, Chi } from '@/core/tuvi/types';
+import { nguHanhCuaChi, nguHanhCuaCan } from '@/core/tuvi/am-duong';
+import { mauCuaSao, MAU_NGU_HANH } from '@/lib/mau-ngu-hanh';
 
 /**
  * Component vẽ lá số 12 cung dạng vuông cổ điển.
@@ -69,34 +71,38 @@ export default function LaSo({ laSo }: Props) {
               </span>
             </div>
 
-            {/* Header row 2: Tên cung + Can-Chi */}
-            <div className="flex justify-between items-start text-[10px] text-amber-900">
-              <span className="font-semibold">{cung.ten}{isThan ? ' (Thân)' : ''}</span>
-              <span className="font-medium">{cung.can[0]}.{cung.chi}</span>
+            {/* Header row 2: Tên cung + Can-Chi (màu theo ngũ hành) */}
+            <div className="flex justify-between items-start text-[10px]">
+              <span className="font-semibold text-amber-900">{cung.ten}{isThan ? ' (Thân)' : ''}</span>
+              <span className="font-medium">
+                <span className={MAU_NGU_HANH[nguHanhCuaCan(cung.can)]}>{cung.can[0]}</span>
+                <span className="text-amber-900">.</span>
+                <span className={MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}>{cung.chi}</span>
+              </span>
             </div>
 
-            {/* Chính tinh — ngay dưới header */}
+            {/* Chính tinh — ngay dưới header, màu theo ngũ hành sao */}
             <div className="flex flex-col items-center gap-0.5">
               {cung.saoChinh.map(sao => (
-                <div key={sao.ten} className="text-sm font-bold text-stone-800 leading-tight text-center">
+                <div
+                  key={sao.ten}
+                  className={`text-sm font-bold leading-tight text-center ${mauCuaSao(sao.ten, 'text-stone-800')}`}
+                >
                   {sao.ten}
                 </div>
               ))}
             </div>
 
-            {/* Phụ tinh — dưới chính tinh */}
+            {/* Phụ tinh — màu theo ngũ hành sao */}
             <div className="flex flex-col items-center gap-0.5 mt-1">
-              {cung.saoPhu.map((sao, i) => {
-                const isSat = sao.loai === 'sát tinh';
-                return (
-                  <div
-                    key={`${sao.ten}-${i}`}
-                    className={`text-[10px] leading-tight text-center ${isSat ? 'text-red-700' : 'text-stone-600'}`}
-                  >
-                    {sao.ten}
-                  </div>
-                );
-              })}
+              {cung.saoPhu.map((sao, i) => (
+                <div
+                  key={`${sao.ten}-${i}`}
+                  className={`text-[10px] leading-tight text-center ${mauCuaSao(sao.ten)}`}
+                >
+                  {sao.ten}
+                </div>
+              ))}
             </div>
 
             {/* Spacer */}
