@@ -122,10 +122,24 @@ export default function LaSo({ laSo }: Props) {
             onMouseLeave={() => setHoveredChi(null)}
           >
             {/* Header row 1: Đại vận (trái) + Nguyệt vận (phải) */}
-            <div className="flex justify-between items-baseline text-[9px] leading-none">
+            <div className="grid grid-cols-[auto_1fr_auto] items-baseline gap-1 text-[9px] leading-none">
               <span className="text-blue-700 font-medium">
                 {daiVan ? `${daiVan.tuoiBatDau}-${daiVan.tuoiKetThuc}` : ''}
               </span>
+              {/* Chính tinh — TOP CENTER, lớn + đậm, giữa ĐV và NV */}
+              <div className="flex flex-col items-center gap-0.5">
+                {cung.saoChinh.map(sao => (
+                  <div
+                    key={sao.ten}
+                    className={`text-[15px] font-extrabold leading-tight text-center ${mauCuaSao(sao.ten, 'text-stone-800')}`}
+                  >
+                    {sao.ten}
+                    {sao.trangThai && (
+                      <span className="ml-0.5 text-[12px] font-bold">({VIET_TAT_TRANG_THAI[sao.trangThai]})</span>
+                    )}
+                  </div>
+                ))}
+              </div>
               <span className="text-green-700 font-medium">
                 {nguyetVan ? `T${nguyetVan.thangAmLich}` : ''}
               </span>
@@ -139,21 +153,6 @@ export default function LaSo({ laSo }: Props) {
                 <span className="text-amber-900">.</span>
                 <span className={MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}>{cung.chi}</span>
               </span>
-            </div>
-
-            {/* Chính tinh — ngay dưới header, màu theo ngũ hành sao */}
-            <div className="flex flex-col items-center gap-0.5">
-              {cung.saoChinh.map(sao => (
-                <div
-                  key={sao.ten}
-                  className={`text-sm font-bold leading-tight text-center ${mauCuaSao(sao.ten, 'text-stone-800')}`}
-                >
-                  {sao.ten}
-                  {sao.trangThai && (
-                    <span className="ml-1 font-normal">({VIET_TAT_TRANG_THAI[sao.trangThai]})</span>
-                  )}
-                </div>
-              ))}
             </div>
 
             {/* Phụ tinh — chia 2 cột: cát/trung tính TRÁI, hung PHẢI; vòng Trường Sinh GIỮA DƯỚI */}
