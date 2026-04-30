@@ -8,8 +8,7 @@ import type { Chi, ChinhTinh, TrangThaiSao } from '@/core/tuvi/types';
  * - 4 sao sau (Thiên Cơ, Liêm Trinh, Tham Lang, Thất Sát) + bổ sung: data
  *   user xác nhận trực tiếp (chuyên gia tử vi).
  *
- * **CHỖ THIẾU (1 entry còn lại — chờ user xác nhận):**
- * - Thiên Phủ: Tỵ
+ * **HOÀN TẤT 168/168 entries** — toàn bộ trạng thái đã được user xác nhận.
  *
  * Lookup `undefined` → UI KHÔNG hiển thị viết tắt.
  *
@@ -59,7 +58,7 @@ export const TRANG_THAI_CHINH_TINH: Partial<Record<ChinhTinh, Partial<Record<Chi
 
   'Thiên Phủ': {
     'Tý':  'Vượng', 'Sửu': 'Bình',  'Dần':  'Vượng', 'Mão':  'Bình',
-    'Thìn':'Đắc',   /* Tỵ thiếu */  'Ngọ':  'Vượng', 'Mùi':  'Đắc',
+    'Thìn':'Đắc',   'Tỵ':  'Đắc',   'Ngọ':  'Vượng', 'Mùi':  'Đắc',
     'Thân':'Vượng', 'Dậu': 'Bình',  'Tuất': 'Đắc',   'Hợi':  'Đắc',
   },
 
