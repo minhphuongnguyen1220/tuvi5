@@ -102,6 +102,9 @@ import { luanGiai_HoaCai } from './phu-tinh/hoa-cai';
 import { luanGiai_ThienKhong } from './phu-tinh/thien-khong';
 import { luanGiai_ThienLa } from './phu-tinh/thien-la';
 import { luanGiai_DiaVong } from './phu-tinh/dia-vong';
+import { luanGiai_DauQuan } from './phu-tinh/dau-quan';
+import { luanGiai_ThienTru } from './phu-tinh/thien-tru';
+import { luanGiai_DuongPhu } from './phu-tinh/duong-phu';
 
 // 14 chính tinh
 import { luanGiai_TuVi } from './chinh-tinh/tu-vi';
@@ -245,6 +248,9 @@ export const tatCaLuanGiai: DoanLuanGiai[] = [
   ...luanGiai_ThienKhong,
   ...luanGiai_ThienLa,
   ...luanGiai_DiaVong,
+  ...luanGiai_DauQuan,
+  ...luanGiai_ThienTru,
+  ...luanGiai_DuongPhu,
 
   // Cung
   ...luanGiai_Cung_Menh,
