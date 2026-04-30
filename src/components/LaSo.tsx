@@ -111,7 +111,7 @@ export default function LaSo({ laSo }: Props) {
   return (
     <div className="w-full max-w-[800px] mx-auto space-y-3">
     <div
-      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border sm:border-2 border-amber-900 aspect-square w-full"
+      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border sm:border-2 border-amber-900 aspect-[3/5] sm:aspect-square w-full"
       style={{ gridTemplateAreas: `
         "ty ngo mui than"
         "thin info1 info1 dau"
