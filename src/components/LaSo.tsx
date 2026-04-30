@@ -110,8 +110,10 @@ export default function LaSo({ laSo }: Props) {
 
   return (
     <div className="w-full max-w-[800px] mx-auto space-y-3">
+    {/* Wrapper cho phép horizontal scroll trên mobile (chart cần ít nhất 640px để đọc được) */}
+    <div className="overflow-x-auto -mx-4 px-4 sm:mx-0 sm:px-0 sm:overflow-x-visible">
     <div
-      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border-2 border-amber-900 aspect-square w-full"
+      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border-2 border-amber-900 aspect-square w-[640px] mx-auto sm:w-full"
       style={{ gridTemplateAreas: `
         "ty ngo mui than"
         "thin info1 info1 dau"
@@ -365,6 +367,7 @@ export default function LaSo({ laSo }: Props) {
           )}
         </div>
       </div>
+    </div>
     </div>
 
     {/* CHÚ GIẢI: trạng thái + ngũ hành */}
