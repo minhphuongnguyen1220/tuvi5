@@ -219,23 +219,38 @@ export default function LaSo({ laSo }: Props) {
         );
       })}
 
-      {/* Tuần / Triệt — overlay floating ở GIỮA 2 cung (đường biên) */}
-      {laSo.triet && (
-        <div
-          className="absolute z-10 -translate-x-1/2 -translate-y-1/2 px-2 py-0.5 bg-amber-50 border border-red-600 rounded text-[11px] font-bold text-red-600 shadow-sm pointer-events-none"
-          style={viTriGiuaCung(laSo.triet[0], laSo.triet[1])}
-        >
-          Triệt
-        </div>
-      )}
-      {laSo.tuan && (
-        <div
-          className="absolute z-10 -translate-x-1/2 -translate-y-1/2 px-2 py-0.5 bg-amber-50 border border-purple-600 rounded text-[11px] font-bold text-purple-600 shadow-sm pointer-events-none"
-          style={viTriGiuaCung(laSo.tuan[0], laSo.tuan[1])}
-        >
-          Tuần
-        </div>
-      )}
+      {/* Tuần / Triệt — overlay floating ở GIỮA 2 cung (đường biên).
+          Style: nền đen chữ trắng. Cùng vị trí thì gộp thành "Tuần - Triệt". */}
+      {(() => {
+        const triet = laSo.triet;
+        const tuan = laSo.tuan;
+        const cungViTri = (a: [Chi, Chi], b: [Chi, Chi]) =>
+          (a[0] === b[0] && a[1] === b[1]) || (a[0] === b[1] && a[1] === b[0]);
+        const labelClass =
+          'absolute z-10 -translate-x-1/2 -translate-y-1/2 px-2 py-0.5 bg-stone-900 rounded text-[11px] font-bold text-white shadow pointer-events-none whitespace-nowrap';
+
+        if (triet && tuan && cungViTri(triet, tuan)) {
+          return (
+            <div className={labelClass} style={viTriGiuaCung(triet[0], triet[1])}>
+              Tuần - Triệt
+            </div>
+          );
+        }
+        return (
+          <>
+            {triet && (
+              <div className={labelClass} style={viTriGiuaCung(triet[0], triet[1])}>
+                Triệt
+              </div>
+            )}
+            {tuan && (
+              <div className={labelClass} style={viTriGiuaCung(tuan[0], tuan[1])}>
+                Tuần
+              </div>
+            )}
+          </>
+        );
+      })()}
 
       {/* Hover: tam hợp (3 đường mờ) + đối (1 đường đỏ) */}
       {hoveredChi && (
@@ -244,7 +259,7 @@ export default function LaSo({ laSo }: Props) {
           viewBox="0 0 100 100"
           preserveAspectRatio="none"
         >
-          {/* Tam hợp: tam giác mờ nâu */}
+          {/* Tam hợp: tam giác viền nâu mảnh, không fill */}
           {(() => {
             const [a, b, c] = TAM_HOP[hoveredChi];
             const pa = tamCuaCung(a);
@@ -253,14 +268,14 @@ export default function LaSo({ laSo }: Props) {
             return (
               <polygon
                 points={`${pa.x},${pa.y} ${pb.x},${pb.y} ${pc.x},${pc.y}`}
-                fill="rgba(180, 83, 9, 0.08)"
-                stroke="rgba(180, 83, 9, 0.55)"
-                strokeWidth="0.35"
-                strokeDasharray="1.2 0.8"
+                fill="none"
+                stroke="rgba(180, 83, 9, 0.35)"
+                strokeWidth="0.15"
+                strokeDasharray="0.8 0.6"
               />
             );
           })()}
-          {/* Đối: đường đỏ nét đậm */}
+          {/* Đối: đường đỏ mảnh, mờ */}
           {(() => {
             const opp = DOI[hoveredChi];
             const ph = tamCuaCung(hoveredChi);
@@ -271,8 +286,8 @@ export default function LaSo({ laSo }: Props) {
                 y1={ph.y}
                 x2={po.x}
                 y2={po.y}
-                stroke="rgba(220, 38, 38, 0.75)"
-                strokeWidth="0.45"
+                stroke="rgba(220, 38, 38, 0.45)"
+                strokeWidth="0.18"
               />
             );
           })()}
