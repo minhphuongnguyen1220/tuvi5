@@ -167,14 +167,14 @@ bớt tai họa.`,
 **TĂNG cái rực rỡ** của bản mệnh.`,
   },
   {
-    id: 'dao-hong-menh-xuong-khuc',
-    title: 'Đào Hồng + Văn Xương / Văn Khúc tại Mệnh - Đỗ sớm',
+    id: 'dao-hong-menh-van-tinh',
+    title: 'Đào Hồng + Văn tinh tại Mệnh - Đỗ sớm',
     sao: ['Đào Hoa', 'Hồng Loan'],
     cung: ['Mệnh'],
-    ketHop: ['Văn Xương', 'Văn Khúc'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Lưu Niên Văn Tinh', 'Hóa Khoa'],
     doUuTien: 70,
-    tomTat: `🌟 **Đào Hồng + văn tinh** (Văn Xương / Văn Khúc) **tại Mệnh:** **đỗ sớm** —
-khoa cử suôn sẻ, học hành thành đạt.`,
+    tomTat: `🌟 **Đào Hồng + văn tinh** (Văn Xương / Văn Khúc / Lưu Niên Văn Tinh / Hóa
+Khoa) **tại Mệnh:** **đỗ sớm** — khoa cử suôn sẻ, học hành thành đạt.`,
   },
   {
     id: 'dao-hong-menh-sat-tinh-hoi',
