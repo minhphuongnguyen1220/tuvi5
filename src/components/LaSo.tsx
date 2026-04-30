@@ -93,8 +93,9 @@ export default function LaSo({ laSo }: Props) {
   const [hoveredChi, setHoveredChi] = useState<Chi | null>(null);
 
   return (
+    <div className="w-full max-w-[800px] mx-auto space-y-3">
     <div
-      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border-2 border-amber-900 aspect-square w-full max-w-[800px] mx-auto"
+      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border-2 border-amber-900 aspect-square w-full"
       style={{ gridTemplateAreas: `
         "ty ngo mui than"
         "thin info1 info1 dau"
@@ -335,6 +336,38 @@ export default function LaSo({ laSo }: Props) {
           )}
         </div>
       </div>
+    </div>
+
+    {/* CHÚ GIẢI: trạng thái + ngũ hành */}
+    <div className="bg-amber-50 border border-amber-200 rounded-md p-3 text-xs space-y-1.5">
+      <div className="font-semibold text-amber-900 text-[11px] uppercase tracking-wide">Chú giải</div>
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+        <span className="text-stone-500">Trạng thái sao:</span>
+        <span><span className="font-bold">(M)</span> Miếu</span>
+        <span><span className="font-bold">(V)</span> Vượng</span>
+        <span><span className="font-bold">(Đ)</span> Đắc</span>
+        <span><span className="font-bold">(B)</span> Bình</span>
+        <span><span className="font-bold">(H)</span> Hãm</span>
+      </div>
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+        <span className="text-stone-500">Ngũ hành tên sao:</span>
+        <span className={`${MAU_NGU_HANH['Kim']} font-medium`}>● Kim (kim loại)</span>
+        <span className={`${MAU_NGU_HANH['Mộc']} font-medium`}>● Mộc (cây)</span>
+        <span className={`${MAU_NGU_HANH['Thủy']} font-medium`}>● Thủy (nước)</span>
+        <span className={`${MAU_NGU_HANH['Hỏa']} font-medium`}>● Hỏa (lửa)</span>
+        <span className={`${MAU_NGU_HANH['Thổ']} font-medium`}>● Thổ (đất)</span>
+      </div>
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-stone-600">
+        <span className="text-stone-500">Ký hiệu khác:</span>
+        <span>Cung Mệnh: <span className="ring-1 ring-red-500 px-1 rounded">viền đỏ</span></span>
+        <span>Sao tốt: cột trái</span>
+        <span>Sao xấu: cột phải</span>
+        <span>Vòng Trường Sinh: <i>nghiêng</i> ở dưới</span>
+      </div>
+      <div className="text-stone-500 text-[11px] italic pt-1 border-t border-amber-200">
+        Di chuột vào cung để xem tam hợp (đường nâu) và xung đối (đường đỏ).
+      </div>
+    </div>
     </div>
   );
 }
