@@ -2,6 +2,7 @@ import { LaSo as LaSoType, Chi, Sao } from '@/core/tuvi/types';
 import { nguHanhCuaChi, nguHanhCuaCan } from '@/core/tuvi/am-duong';
 import { mauCuaSao, MAU_NGU_HANH } from '@/lib/mau-ngu-hanh';
 import { phanLoaiSao } from '@/lib/phan-loai-sao';
+import { VIET_TAT_TRANG_THAI } from '@/lib/trang-thai-chinh-tinh';
 
 /**
  * Component vẽ lá số 12 cung dạng vuông cổ điển.
@@ -106,6 +107,9 @@ export default function LaSo({ laSo }: Props) {
                   className={`text-sm font-bold leading-tight text-center ${mauCuaSao(sao.ten, 'text-stone-800')}`}
                 >
                   {sao.ten}
+                  {sao.trangThai && (
+                    <span className="ml-1 font-normal">({VIET_TAT_TRANG_THAI[sao.trangThai]})</span>
+                  )}
                 </div>
               ))}
             </div>

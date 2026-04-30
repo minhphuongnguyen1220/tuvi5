@@ -1,4 +1,5 @@
 import { Sao, LaSo, ThongTinSinh, CungTrongLaSo, ChinhTinh, Chi, GioiTinh } from './types';
+import { trangThaiChinhTinh } from '@/lib/trang-thai-chinh-tinh';
 import { doiSangAmLich } from './lich-am';
 import { xacDinhAmDuongLaSo } from './am-duong';
 import { napAmCuaNam } from './nap-am';
@@ -76,7 +77,8 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
   for (const sao of CHINH_TINH_LIST) {
     const chi = viTriChinhTinh[sao];
     if (!saoTheoCung[chi]) saoTheoCung[chi] = [];
-    saoTheoCung[chi].push({ ten: sao, loai: 'chính tinh' });
+    const trangThai = trangThaiChinhTinh(sao, chi);
+    saoTheoCung[chi].push({ ten: sao, loai: 'chính tinh', ...(trangThai && { trangThai }) });
   }
 
   // 8.5. Vòng Trường Sinh — group sao phụ theo cung

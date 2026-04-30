@@ -6,6 +6,7 @@ import type { CungTrongLaSo, Sao } from '@/core/tuvi/types';
 import { timLuanGiaiCuaCung } from '@/core/luan-giai/lookup';
 import { nguHanhCuaCan, nguHanhCuaChi } from '@/core/tuvi/am-duong';
 import { mauCuaSao, MAU_NGU_HANH } from '@/lib/mau-ngu-hanh';
+import { VIET_TAT_TRANG_THAI } from '@/lib/trang-thai-chinh-tinh';
 
 interface Props {
   cung: CungTrongLaSo;
@@ -34,7 +35,10 @@ export default function LuanGiaiCung({ cung }: Props) {
         {danhSachSao.length > 0 ? (
           danhSachSao.map((sao, i) => (
             <Fragment key={`${sao.ten}-${i}`}>
-              <span className={`font-medium ${mauCuaSao(sao.ten)}`}>{sao.ten}</span>
+              <span className={`font-medium ${mauCuaSao(sao.ten)}`}>
+                {sao.ten}
+                {sao.trangThai && <span className="font-normal"> ({VIET_TAT_TRANG_THAI[sao.trangThai]})</span>}
+              </span>
               {i < danhSachSao.length - 1 && <span className="text-stone-400">, </span>}
             </Fragment>
           ))
