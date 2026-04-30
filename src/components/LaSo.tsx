@@ -42,15 +42,31 @@ function tamCuaCung(chi: Chi): { x: number; y: number } {
 }
 
 /**
- * Tọa độ MIDPOINT giữa 2 cung (% theo container).
- * Dùng để đặt label "Tuần"/"Triệt" overlay tại đường biên giữa 2 cell.
+ * Vị trí label "Tuần"/"Triệt" trên đường biên giữa 2 cung kế tiếp.
+ *
+ * - Vertical edge (2 cung cùng hàng — Tỵ-Ngọ, Ngọ-Mùi, Mùi-Thân ở row 1
+ *   hoặc Dần-Sửu, Sửu-Tý, Tý-Hợi ở row 4): label nằm ở RANH GIỚI HÀNG
+ *   (y=25 cho row 1, y=75 cho row 4) thay vì midpoint, để align cùng level
+ *   với label ở các horizontal edge khác.
+ * - Horizontal edge (2 cung cùng cột — Tỵ-Thìn, Thìn-Mão, Mão-Dần ở col 1
+ *   hoặc Thân-Dậu, Dậu-Tuất, Tuất-Hợi ở col 4): midpoint đã ở row boundary,
+ *   giữ nguyên.
  */
 function viTriGiuaCung(chi1: Chi, chi2: Chi): { left: string; top: string } {
-  const a = tamCuaCung(chi1);
-  const b = tamCuaCung(chi2);
+  const a = VI_TRI_CUNG[chi1];
+  const b = VI_TRI_CUNG[chi2];
+  // Vertical edge: cùng hàng → push y về row boundary
+  if (a.row === b.row) {
+    const x = ((a.col + b.col) / 2 - 0.5) * 25;
+    const y = a.row === 1 ? 25 : a.row === 4 ? 75 : (a.row - 0.5) * 25;
+    return { left: `${x}%`, top: `${y}%` };
+  }
+  // Horizontal edge: midpoint đã đúng
+  const pa = tamCuaCung(chi1);
+  const pb = tamCuaCung(chi2);
   return {
-    left: `${(a.x + b.x) / 2}%`,
-    top:  `${(a.y + b.y) / 2}%`,
+    left: `${(pa.x + pb.x) / 2}%`,
+    top:  `${(pa.y + pb.y) / 2}%`,
   };
 }
 
@@ -128,17 +144,17 @@ export default function LaSo({ laSo }: Props) {
               </span>
               {/* Tên cung + Chính tinh — stacked giữa ĐV và NV, in HOA */}
               <div className="flex flex-col items-center gap-0.5">
-                <div className="text-[11px] font-bold uppercase text-amber-900 leading-tight">
+                <div className={`text-[11px] font-bold uppercase leading-tight ${MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}`}>
                   {cung.ten}{isThan ? ' (Thân)' : ''}
                 </div>
                 {cung.saoChinh.map(sao => (
                   <div
                     key={sao.ten}
-                    className={`text-[15px] font-extrabold uppercase leading-tight text-center ${mauCuaSao(sao.ten, 'text-stone-800')}`}
+                    className={`text-[14px] font-extrabold uppercase leading-tight text-center whitespace-nowrap tracking-tight ${mauCuaSao(sao.ten, 'text-stone-800')}`}
                   >
                     {sao.ten}
                     {sao.trangThai && (
-                      <span className="ml-0.5 text-[12px] font-bold normal-case">({VIET_TAT_TRANG_THAI[sao.trangThai]})</span>
+                      <span className="ml-0.5 text-[11px] font-bold normal-case">({VIET_TAT_TRANG_THAI[sao.trangThai]})</span>
                     )}
                   </div>
                 ))}
