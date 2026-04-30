@@ -276,6 +276,17 @@ export function lapLaSo(thongTin: ThongTinSinh): LaSo {
   const triet = tinhTriet(canChiNam.can);
   const tuan = tinhTuan(canChiNam.can, canChiNam.chi);
 
+  // Inject Triệt + Tuần vào saoPhu của 2 cung tương ứng
+  // để engine lookup luận giải tự match được tag 'Triệt' / 'Tuần'.
+  for (const chi of triet) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    phuTinhTheoCung[chi].push({ ten: 'Triệt', loai: 'phụ tinh' });
+  }
+  for (const chi of tuan) {
+    if (!phuTinhTheoCung[chi]) phuTinhTheoCung[chi] = [];
+    phuTinhTheoCung[chi].push({ ten: 'Tuần', loai: 'phụ tinh' });
+  }
+
   // 9. Tạo cấu trúc CungTrongLaSo cho từng cung
   const cacCung: CungTrongLaSo[] = cung12.map(c => ({
     ten: c.tenCung,
