@@ -29,6 +29,24 @@ const VI_TRI_CUNG: Record<Chi, { row: number; col: number }> = {
   'Hợi':  { row: 4, col: 4 },
 };
 
+/**
+ * Tính tọa độ MIDPOINT giữa 2 cung (% theo container).
+ * Dùng để đặt label "Tuần"/"Triệt" overlay tại đường biên giữa 2 cell.
+ * Mỗi cell = 25% × 25% trong grid 4x4.
+ */
+function viTriGiuaCung(chi1: Chi, chi2: Chi): { left: string; top: string } {
+  const a = VI_TRI_CUNG[chi1];
+  const b = VI_TRI_CUNG[chi2];
+  const xA = (a.col - 0.5) * 25;
+  const yA = (a.row - 0.5) * 25;
+  const xB = (b.col - 0.5) * 25;
+  const yB = (b.row - 0.5) * 25;
+  return {
+    left: `${(xA + xB) / 2}%`,
+    top:  `${(yA + yB) / 2}%`,
+  };
+}
+
 interface Props {
   laSo: LaSoType;
 }
@@ -36,7 +54,7 @@ interface Props {
 export default function LaSo({ laSo }: Props) {
   return (
     <div
-      className="grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border-2 border-amber-900 aspect-square w-full max-w-[800px] mx-auto"
+      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border-2 border-amber-900 aspect-square w-full max-w-[800px] mx-auto"
       style={{ gridTemplateAreas: `
         "ty ngo mui than"
         "thin info1 info1 dau"
@@ -50,8 +68,6 @@ export default function LaSo({ laSo }: Props) {
         const isThan = cung.laThan;
         const daiVan = laSo.daiVan.find(dv => dv.cung === cung.chi);
         const nguyetVan = laSo.nguyetVanCaNam?.find(nv => nv.cung === cung.chi);
-        const coTriet = laSo.triet?.includes(cung.chi);
-        const coTuan = laSo.tuan?.includes(cung.chi);
 
         return (
           <div
@@ -153,17 +169,27 @@ export default function LaSo({ laSo }: Props) {
                 </>
               );
             })()}
-
-            {/* Triệt / Tuần — nhãn nhỏ dưới đáy cung */}
-            {(coTriet || coTuan) && (
-              <div className="flex justify-center gap-2 text-[9px] font-bold mt-1">
-                {coTriet && <span className="text-red-600">TRIỆT</span>}
-                {coTuan && <span className="text-purple-600">TUẦN</span>}
-              </div>
-            )}
           </div>
         );
       })}
+
+      {/* Tuần / Triệt — overlay floating ở GIỮA 2 cung (đường biên) */}
+      {laSo.triet && (
+        <div
+          className="absolute z-10 -translate-x-1/2 -translate-y-1/2 px-2 py-0.5 bg-amber-50 border border-red-600 rounded text-[11px] font-bold text-red-600 shadow-sm pointer-events-none"
+          style={viTriGiuaCung(laSo.triet[0], laSo.triet[1])}
+        >
+          Triệt
+        </div>
+      )}
+      {laSo.tuan && (
+        <div
+          className="absolute z-10 -translate-x-1/2 -translate-y-1/2 px-2 py-0.5 bg-amber-50 border border-purple-600 rounded text-[11px] font-bold text-purple-600 shadow-sm pointer-events-none"
+          style={viTriGiuaCung(laSo.tuan[0], laSo.tuan[1])}
+        >
+          Tuần
+        </div>
+      )}
 
       {/* Phần thông tin chung ở giữa */}
       <div
