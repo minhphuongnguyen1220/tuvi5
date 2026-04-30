@@ -7,17 +7,26 @@ import { tatCaLuanGiai, type DoanLuanGiai } from '@/data/luan-giai';
  * Quy tắc khớp:
  *   - Bỏ qua trường rỗng (= áp dụng cho mọi giá trị)
  *   - Trường có giá trị: cần ÍT NHẤT 1 phần tử trùng với cung đang xét
+ *   - Entry phải có ÍT NHẤT 1 dimension cụ thể (cung/chi/ketHop/trangThai)
+ *     — không chấp nhận entry chỉ có `sao` (quá generic, gây loạn UX)
  *
  * Sau đó sắp xếp theo doUuTien (cao trước).
  */
 export function timLuanGiaiCuaCung(cung: CungTrongLaSo): DoanLuanGiai[] {
-  const tatCaSaoTrongCung = [
-    ...cung.saoChinh.map(s => s.ten),
-    ...cung.saoPhu.map(s => s.ten),
-  ];
+  const allSao = [...cung.saoChinh, ...cung.saoPhu];
+  const tatCaSaoTrongCung = allSao.map(s => s.ten);
 
   return tatCaLuanGiai
     .filter((doan) => {
+      // SKIP entries quá generic — phải có ÍT NHẤT 1 dimension cụ thể
+      const hasSpecific = !!(
+        (doan.cung && doan.cung.length > 0) ||
+        (doan.chi && doan.chi.length > 0) ||
+        (doan.ketHop && doan.ketHop.length > 0) ||
+        (doan.trangThai && doan.trangThai.length > 0)
+      );
+      if (!hasSpecific) return false;
+
       // Lọc theo sao
       if (doan.sao && doan.sao.length > 0) {
         if (!doan.sao.some(s => tatCaSaoTrongCung.includes(s))) return false;
@@ -33,9 +42,18 @@ export function timLuanGiaiCuaCung(cung: CungTrongLaSo): DoanLuanGiai[] {
         if (!doan.chi.includes(cung.chi)) return false;
       }
 
-      // TODO: Lọc theo trạng thái sao (cần G2 thêm trạng thái)
+      // Lọc theo trạng thái: ÍT NHẤT 1 sao matching trong cung phải có trạng thái khớp
+      if (doan.trangThai && doan.trangThai.length > 0) {
+        const matchTrangThai = allSao.some(s => {
+          // Nếu entry có sao filter, sao này phải nằm trong filter
+          if (doan.sao && doan.sao.length > 0 && !doan.sao.includes(s.ten)) return false;
+          if (!s.trangThai) return false;
+          return doan.trangThai!.includes(s.trangThai);
+        });
+        if (!matchTrangThai) return false;
+      }
 
-      // Lọc theo kết hợp sao
+      // Lọc theo kết hợp sao: TẤT CẢ sao trong ketHop phải có mặt trong cung
       if (doan.ketHop && doan.ketHop.length > 0) {
         const tatCaCoKetHop = doan.ketHop.every(s => tatCaSaoTrongCung.includes(s));
         if (!tatCaCoKetHop) return false;
