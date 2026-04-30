@@ -111,7 +111,7 @@ export default function LaSo({ laSo }: Props) {
   return (
     <div className="w-full max-w-[800px] mx-auto space-y-3">
     <div
-      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border sm:border-2 border-amber-900 aspect-[3/4] sm:aspect-square w-full"
+      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border sm:border-2 border-amber-900 aspect-[3/5] sm:aspect-square w-full"
       style={{ gridTemplateAreas: `
         "ty ngo mui than"
         "thin info1 info1 dau"
@@ -130,7 +130,7 @@ export default function LaSo({ laSo }: Props) {
           <div
             key={cung.chi}
             className={`
-              relative bg-amber-50 p-1 pb-4 sm:p-2 sm:pb-7 flex flex-col gap-0 sm:gap-1 overflow-hidden
+              relative bg-amber-50 p-1 pb-3 sm:p-2 sm:pb-5 flex flex-col gap-0 sm:gap-1 overflow-hidden
               ${isMenh ? 'ring-1 sm:ring-2 ring-red-500 ring-inset' : ''}
             `}
             style={{ gridRow: vt.row, gridColumn: vt.col }}
@@ -138,13 +138,21 @@ export default function LaSo({ laSo }: Props) {
             onMouseLeave={() => setHoveredChi(null)}
           >
             {/* Header row 1: Đại vận (trái) + Nguyệt vận (phải) */}
-            <div className="grid grid-cols-[auto_1fr_auto] items-baseline gap-0.5 sm:gap-1 text-[7px] sm:text-[9px] leading-none">
-              <span className="text-blue-700 font-medium">
-                {daiVan ? `${daiVan.tuoiBatDau}-${daiVan.tuoiKetThuc}` : ''}
-              </span>
-              {/* Tên cung + Chính tinh — stacked giữa ĐV và NV, in HOA */}
+            <div className="grid grid-cols-[auto_1fr_auto] items-start gap-0.5 sm:gap-1 text-[7px] sm:text-[9px] leading-none">
+              {/* Cột TRÁI: ĐV (năm bắt đầu) + Can.Chi stack dưới */}
+              <div className="flex flex-col gap-0 leading-none">
+                <span className="text-blue-700 font-medium">
+                  {daiVan ? daiVan.tuoiBatDau : ''}
+                </span>
+                <span className="text-[8px] sm:text-[10px] font-medium mt-0.5 whitespace-nowrap">
+                  <span className={MAU_NGU_HANH[nguHanhCuaCan(cung.can)]}>{cung.can[0]}</span>
+                  <span className="text-amber-900">.</span>
+                  <span className={MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}>{cung.chi}</span>
+                </span>
+              </div>
+              {/* Tên cung + Chính tinh — stacked giữa, in HOA, không xuống dòng */}
               <div className="flex flex-col items-center gap-0 sm:gap-0.5 min-w-0">
-                <div className={`text-[8px] sm:text-[11px] font-bold uppercase leading-tight ${MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}`}>
+                <div className={`text-[8px] sm:text-[11px] font-bold uppercase leading-tight whitespace-nowrap ${MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}`}>
                   {cung.ten}{isThan ? ' (Thân)' : ''}
                 </div>
                 {cung.saoChinh.map(sao => (
@@ -161,15 +169,6 @@ export default function LaSo({ laSo }: Props) {
               </div>
               <span className="text-green-700 font-medium">
                 {nguyetVan ? `T${nguyetVan.thangAmLich}` : ''}
-              </span>
-            </div>
-
-            {/* Row 2: Can-Chi (góc phải) - tên cung đã chuyển lên trên */}
-            <div className="flex justify-end items-start text-[8px] sm:text-[10px]">
-              <span className="font-medium">
-                <span className={MAU_NGU_HANH[nguHanhCuaCan(cung.can)]}>{cung.can[0]}</span>
-                <span className="text-amber-900">.</span>
-                <span className={MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}>{cung.chi}</span>
               </span>
             </div>
 
@@ -215,7 +214,7 @@ export default function LaSo({ laSo }: Props) {
 
                   {/* Vòng Trường Sinh — PIN gần đáy cell (đẩy lên cao tránh đè Tuần/Triệt) */}
                   {truongSinhList.length > 0 && (
-                    <div className="absolute bottom-1.5 sm:bottom-3 left-0 right-0 flex justify-center gap-1 flex-wrap pointer-events-none">
+                    <div className="absolute bottom-0.5 sm:bottom-1.5 left-0 right-0 flex justify-center gap-1 flex-wrap pointer-events-none">
                       {truongSinhList.map((sao, i) => (
                         <span
                           key={`ts-${sao.ten}-${i}`}
@@ -233,31 +232,31 @@ export default function LaSo({ laSo }: Props) {
         );
       })}
 
-      {/* Tuần / Triệt — text floating ở đường biên giữa 2 cung (không khung). */}
+      {/* Tuần / Triệt — overlay khung đen chữ trắng giữa 2 cung. */}
       {(() => {
         const triet = laSo.triet;
         const tuan = laSo.tuan;
         const cungViTri = (a: [Chi, Chi], b: [Chi, Chi]) =>
           (a[0] === b[0] && a[1] === b[1]) || (a[0] === b[1] && a[1] === b[0]);
-        const baseClass =
-          'absolute z-10 -translate-x-1/2 -translate-y-1/2 text-[9px] sm:text-[11px] font-bold pointer-events-none whitespace-nowrap';
+        const labelClass =
+          'absolute z-10 -translate-x-1/2 -translate-y-1/2 px-1 py-0 sm:px-2 sm:py-0.5 bg-stone-900 rounded text-[8px] sm:text-[11px] font-bold text-white shadow pointer-events-none whitespace-nowrap';
 
         if (triet && tuan && cungViTri(triet, tuan)) {
           return (
-            <div className={`${baseClass} text-red-700`} style={viTriGiuaCung(triet[0], triet[1])}>
-              <span className="text-purple-700">Tuần</span> - <span className="text-red-700">Triệt</span>
+            <div className={labelClass} style={viTriGiuaCung(triet[0], triet[1])}>
+              Tuần - Triệt
             </div>
           );
         }
         return (
           <>
             {triet && (
-              <div className={`${baseClass} text-red-700`} style={viTriGiuaCung(triet[0], triet[1])}>
+              <div className={labelClass} style={viTriGiuaCung(triet[0], triet[1])}>
                 Triệt
               </div>
             )}
             {tuan && (
-              <div className={`${baseClass} text-purple-700`} style={viTriGiuaCung(tuan[0], tuan[1])}>
+              <div className={labelClass} style={viTriGiuaCung(tuan[0], tuan[1])}>
                 Tuần
               </div>
             )}
