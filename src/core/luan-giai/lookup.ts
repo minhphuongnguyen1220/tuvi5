@@ -1,5 +1,15 @@
 import type { CungTrongLaSo } from '@/core/tuvi/types';
 import { tatCaLuanGiai, type DoanLuanGiai } from '@/data/luan-giai';
+import { NGU_HANH_CHINH_TINH, NGU_HANH_PHU_TINH } from '@/lib/mau-ngu-hanh';
+
+/**
+ * Kiểm tra 1 chuỗi có phải tên sao THỰC không (tồn tại trong bảng tra ngũ
+ * hành). Cách cục label như "Tử Phủ đồng cung", "Đào Hoa Phạm Chủ" sẽ trả false.
+ */
+function laTenSaoThuc(name: string): boolean {
+  return NGU_HANH_CHINH_TINH[name] !== undefined ||
+         NGU_HANH_PHU_TINH[name] !== undefined;
+}
 
 /**
  * Tìm các đoạn luận giải khớp với 1 cung trong lá số.
@@ -53,10 +63,16 @@ export function timLuanGiaiCuaCung(cung: CungTrongLaSo): DoanLuanGiai[] {
         if (!matchTrangThai) return false;
       }
 
-      // Lọc theo kết hợp sao: TẤT CẢ sao trong ketHop phải có mặt trong cung
+      // Lọc theo kết hợp sao: ÍT NHẤT 1 sao THỰC trong ketHop phải có mặt
+      // trong cung. Cách cục labels (vd "Tử Phủ đồng cung") không tính — chỉ
+      // mang tính informational, không filter.
       if (doan.ketHop && doan.ketHop.length > 0) {
-        const tatCaCoKetHop = doan.ketHop.every(s => tatCaSaoTrongCung.includes(s));
-        if (!tatCaCoKetHop) return false;
+        const realSaoInKetHop = doan.ketHop.filter(laTenSaoThuc);
+        if (realSaoInKetHop.length > 0) {
+          const coKetHop = realSaoInKetHop.some(s => tatCaSaoTrongCung.includes(s));
+          if (!coKetHop) return false;
+        }
+        // Nếu ketHop chỉ chứa labels → bỏ qua filter này (entry vẫn pass)
       }
 
       return true;

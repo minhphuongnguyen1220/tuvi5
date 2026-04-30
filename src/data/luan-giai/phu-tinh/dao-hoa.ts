@@ -133,21 +133,7 @@ tình** — Tam Minh chỉ giảm dâm tà chứ không triệt tiêu hoàn toà
 - May mắn nào cũng **chóng gặp lại chóng qua**
 - Thường là **hai đời chồng/vợ** — nếu không cũng **dở dang lắm bận ái ân**
 
-🌟 **Tốt nhất: Đào Hồng XUNG CHIẾU về Mệnh, Thân** (không đồng cung) — mới đẹp.
-
-🌟 **Đào Hồng + Tử / Phủ / Nhật / Nguyệt:** làm **TĂNG cái rực rỡ** lên.
-
-🌟 **Đào Hồng + văn tinh** (Xương / Khúc): **đỗ sớm**.
-
-⚠️ **Đào Hồng + sát tinh hội** (Không / Kiếp / Đà / Kình): **không thọ** —
-mệnh dở dang lại còn yểu.
-
-⚠️ **Đào Hồng + Địa Kiếp:** dễ bị **đắm thuyền** (tai nạn sông nước).
-
-⚠️ **Đào Hồng + Cơ Cự / Tả Hữu / Thái Tuế:** sức khỏe **kém**, mệnh như **ngọn
-đèn trước gió**.
-
-⚠️ **Đào Hồng + Không Kiếp / Bệnh Phù:** mắc **bệnh phong tình**.`,
+🌟 **Tốt nhất: Đào Hồng XUNG CHIẾU về Mệnh, Thân** (không đồng cung) — mới đẹp.`,
 
     chiTiet: `## Tính chất "vừa duyên vừa nghiệp"
 
@@ -165,6 +151,70 @@ sắc lẫn hương:
 
 → Cần **Tuần / Triệt** hoặc **Tử Phủ / Nguyệt Đức** để hóa giải mới mong giảm
 bớt tai họa.`,
+  },
+
+  // ============================================================
+  // 5b. Đào Hồng tại Mệnh + các bộ kết hợp (mỗi bộ 1 entry riêng)
+  // ============================================================
+  {
+    id: 'dao-hong-menh-tu-phu-nhat-nguyet',
+    title: 'Đào Hồng + Tử/Phủ/Nhật/Nguyệt tại Mệnh - Tăng rực rỡ',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Tử Vi', 'Thiên Phủ', 'Thái Dương', 'Thái Âm'],
+    doUuTien: 70,
+    tomTat: `🌟 **Đào Hồng + Tử Vi / Thiên Phủ / Thái Dương / Thái Âm tại Mệnh:** làm
+**TĂNG cái rực rỡ** của bản mệnh.`,
+  },
+  {
+    id: 'dao-hong-menh-xuong-khuc',
+    title: 'Đào Hồng + Văn Xương / Văn Khúc tại Mệnh - Đỗ sớm',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Văn Xương', 'Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Đào Hồng + văn tinh** (Văn Xương / Văn Khúc) **tại Mệnh:** **đỗ sớm** —
+khoa cử suôn sẻ, học hành thành đạt.`,
+  },
+  {
+    id: 'dao-hong-menh-sat-tinh-hoi',
+    title: 'Đào Hồng + sát tinh hội (Không/Kiếp/Đà/Kình) tại Mệnh - Không thọ',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Đà La', 'Kình Dương'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Đào Hồng + sát tinh hội** (Địa Không / Địa Kiếp / Đà La / Kình Dương)
+**tại Mệnh:** **không thọ** — mệnh **dở dang** lại còn **yểu**.`,
+  },
+  {
+    id: 'dao-hong-menh-dia-kiep-dam-thuyen',
+    title: 'Đào Hồng + Địa Kiếp tại Mệnh - Đắm thuyền',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Đào Hồng + Địa Kiếp tại Mệnh:** dễ bị **đắm thuyền** — tai nạn liên
+quan **sông nước**.`,
+  },
+  {
+    id: 'dao-hong-menh-co-cu-ta-huu-thai-tue',
+    title: 'Đào Hồng + Cơ/Cự/Tả/Hữu/Thái Tuế tại Mệnh - Sức khỏe kém',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Cơ', 'Cự Môn', 'Tả Phù', 'Hữu Bật', 'Thái Tuế'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Đào Hồng + Thiên Cơ / Cự Môn / Tả Phù / Hữu Bật / Thái Tuế tại Mệnh:**
+sức khỏe **kém**, mệnh như **ngọn đèn trước gió**.`,
+  },
+  {
+    id: 'dao-hong-menh-khong-kiep-benh-phu',
+    title: 'Đào Hồng + Không/Kiếp/Bệnh Phù tại Mệnh - Bệnh phong tình',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Bệnh Phù'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Đào Hồng + Địa Không / Địa Kiếp / Bệnh Phù tại Mệnh:** mắc **bệnh
+phong tình**.`,
   },
 
   // ============================================================
