@@ -130,7 +130,7 @@ export default function LaSo({ laSo }: Props) {
           <div
             key={cung.chi}
             className={`
-              relative bg-amber-50 p-2 pb-5 flex flex-col text-xs gap-1 overflow-hidden
+              relative bg-amber-50 p-2 pb-7 flex flex-col text-xs gap-1 overflow-hidden
               ${isMenh ? 'ring-2 ring-red-500 ring-inset' : ''}
             `}
             style={{ gridRow: vt.row, gridColumn: vt.col }}
@@ -213,9 +213,9 @@ export default function LaSo({ laSo }: Props) {
                     </div>
                   )}
 
-                  {/* Vòng Trường Sinh — PIN xuống đáy cell (absolute) để align ngang nhau giữa các cung */}
+                  {/* Vòng Trường Sinh — PIN gần đáy cell (đẩy lên cao tránh đè Tuần/Triệt) */}
                   {truongSinhList.length > 0 && (
-                    <div className="absolute bottom-0.5 left-0 right-0 flex justify-center gap-1 flex-wrap pointer-events-none">
+                    <div className="absolute bottom-3 left-0 right-0 flex justify-center gap-1 flex-wrap pointer-events-none">
                       {truongSinhList.map((sao, i) => (
                         <span
                           key={`ts-${sao.ten}-${i}`}
