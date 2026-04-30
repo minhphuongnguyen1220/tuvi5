@@ -1,6 +1,7 @@
-import { LaSo as LaSoType, Chi } from '@/core/tuvi/types';
+import { LaSo as LaSoType, Chi, Sao } from '@/core/tuvi/types';
 import { nguHanhCuaChi, nguHanhCuaCan } from '@/core/tuvi/am-duong';
 import { mauCuaSao, MAU_NGU_HANH } from '@/lib/mau-ngu-hanh';
+import { phanLoaiSao } from '@/lib/phan-loai-sao';
 
 /**
  * Component vẽ lá số 12 cung dạng vuông cổ điển.
@@ -93,20 +94,65 @@ export default function LaSo({ laSo }: Props) {
               ))}
             </div>
 
-            {/* Phụ tinh — màu theo ngũ hành sao */}
-            <div className="flex flex-col items-center gap-0.5 mt-1">
-              {cung.saoPhu.map((sao, i) => (
-                <div
-                  key={`${sao.ten}-${i}`}
-                  className={`text-[10px] leading-tight text-center ${mauCuaSao(sao.ten)}`}
-                >
-                  {sao.ten}
-                </div>
-              ))}
-            </div>
+            {/* Phụ tinh — chia 2 cột: cát/trung tính TRÁI, hung PHẢI; vòng Trường Sinh GIỮA DƯỚI */}
+            {(() => {
+              const catList: Sao[] = [];
+              const hungList: Sao[] = [];
+              const truongSinhList: Sao[] = [];
+              for (const sao of cung.saoPhu) {
+                const loai = phanLoaiSao(sao.ten);
+                if (loai === 'trường sinh') truongSinhList.push(sao);
+                else if (loai === 'hung') hungList.push(sao);
+                else catList.push(sao);
+              }
+              return (
+                <>
+                  {(catList.length > 0 || hungList.length > 0) && (
+                    <div className="flex justify-between items-start gap-1 mt-1 flex-1">
+                      {/* Cột TRÁI: cát + trung tính */}
+                      <div className="flex flex-col gap-0.5 text-left">
+                        {catList.map((sao, i) => (
+                          <div
+                            key={`cat-${sao.ten}-${i}`}
+                            className={`text-[10px] leading-tight ${mauCuaSao(sao.ten)}`}
+                          >
+                            {sao.ten}
+                          </div>
+                        ))}
+                      </div>
+                      {/* Cột PHẢI: hung */}
+                      <div className="flex flex-col gap-0.5 text-right">
+                        {hungList.map((sao, i) => (
+                          <div
+                            key={`hung-${sao.ten}-${i}`}
+                            className={`text-[10px] leading-tight ${mauCuaSao(sao.ten)}`}
+                          >
+                            {sao.ten}
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
 
-            {/* Spacer */}
-            <div className="flex-1" />
+                  {/* Spacer khi không có sao nào — đẩy footer xuống */}
+                  {catList.length === 0 && hungList.length === 0 && <div className="flex-1" />}
+
+                  {/* Vòng Trường Sinh — giữa dưới, in nghiêng để phân biệt */}
+                  {truongSinhList.length > 0 && (
+                    <div className="flex justify-center gap-1 flex-wrap mt-1">
+                      {truongSinhList.map((sao, i) => (
+                        <span
+                          key={`ts-${sao.ten}-${i}`}
+                          className={`text-[10px] italic leading-tight ${mauCuaSao(sao.ten)}`}
+                        >
+                          {sao.ten}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+                </>
+              );
+            })()}
 
             {/* Triệt / Tuần — nhãn nhỏ dưới đáy cung */}
             {(coTriet || coTuan) && (
