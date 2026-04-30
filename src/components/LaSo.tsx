@@ -151,8 +151,8 @@ export default function LaSo({ laSo }: Props) {
                 </span>
               </div>
               {/* Tên cung + Chính tinh — stacked giữa, in HOA, không xuống dòng.
-                  mt-1 trên mobile để chính tinh không đè Can.Chi (cột trái có 2 dòng). */}
-              <div className="flex flex-col items-center gap-0 sm:gap-0.5 min-w-0 mt-1 sm:mt-0">
+                  mt-3 trên mobile để chính tinh KHÔNG đè Can.Chi (cột trái có ĐV + Can.Chi cao hơn). */}
+              <div className="flex flex-col items-center gap-0 sm:gap-0.5 min-w-0 mt-3 sm:mt-0">
                 <div className={`text-[8px] sm:text-[11px] font-bold uppercase leading-tight whitespace-nowrap ${MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}`}>
                   {cung.ten}{isThan ? ' (Thân)' : ''}
                 </div>
