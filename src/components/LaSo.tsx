@@ -126,16 +126,19 @@ export default function LaSo({ laSo }: Props) {
               <span className="text-blue-700 font-medium">
                 {daiVan ? `${daiVan.tuoiBatDau}-${daiVan.tuoiKetThuc}` : ''}
               </span>
-              {/* Chính tinh — TOP CENTER, lớn + đậm, giữa ĐV và NV */}
+              {/* Tên cung + Chính tinh — stacked giữa ĐV và NV, in HOA */}
               <div className="flex flex-col items-center gap-0.5">
+                <div className="text-[11px] font-bold uppercase text-amber-900 leading-tight">
+                  {cung.ten}{isThan ? ' (Thân)' : ''}
+                </div>
                 {cung.saoChinh.map(sao => (
                   <div
                     key={sao.ten}
-                    className={`text-[15px] font-extrabold leading-tight text-center ${mauCuaSao(sao.ten, 'text-stone-800')}`}
+                    className={`text-[15px] font-extrabold uppercase leading-tight text-center ${mauCuaSao(sao.ten, 'text-stone-800')}`}
                   >
                     {sao.ten}
                     {sao.trangThai && (
-                      <span className="ml-0.5 text-[12px] font-bold">({VIET_TAT_TRANG_THAI[sao.trangThai]})</span>
+                      <span className="ml-0.5 text-[12px] font-bold normal-case">({VIET_TAT_TRANG_THAI[sao.trangThai]})</span>
                     )}
                   </div>
                 ))}
@@ -145,9 +148,8 @@ export default function LaSo({ laSo }: Props) {
               </span>
             </div>
 
-            {/* Header row 2: Tên cung + Can-Chi (màu theo ngũ hành) */}
-            <div className="flex justify-between items-start text-[10px]">
-              <span className="font-semibold text-amber-900">{cung.ten}{isThan ? ' (Thân)' : ''}</span>
+            {/* Row 2: Can-Chi (góc phải) - tên cung đã chuyển lên trên */}
+            <div className="flex justify-end items-start text-[10px]">
               <span className="font-medium">
                 <span className={MAU_NGU_HANH[nguHanhCuaCan(cung.can)]}>{cung.can[0]}</span>
                 <span className="text-amber-900">.</span>
@@ -370,9 +372,6 @@ export default function LaSo({ laSo }: Props) {
         <span className={`${MAU_NGU_HANH['Thủy']} font-medium`}>● Thủy</span>
         <span className={`${MAU_NGU_HANH['Hỏa']} font-medium`}>● Hỏa</span>
         <span className={`${MAU_NGU_HANH['Thổ']} font-medium`}>● Thổ</span>
-      </div>
-      <div className="text-stone-500 text-[11px] italic pt-1 border-t border-amber-200">
-        Di chuột vào cung để xem tam hợp (đường nâu) và xung đối (đường đỏ).
       </div>
     </div>
     </div>
