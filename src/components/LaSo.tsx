@@ -110,10 +110,8 @@ export default function LaSo({ laSo }: Props) {
 
   return (
     <div className="w-full max-w-[800px] mx-auto space-y-3">
-    {/* Wrapper cho phép horizontal scroll trên mobile (chart cần ít nhất 640px để đọc được) */}
-    <div className="overflow-x-auto -mx-4 px-4 sm:mx-0 sm:px-0 sm:overflow-x-visible">
     <div
-      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border-2 border-amber-900 aspect-square w-[640px] mx-auto sm:w-full"
+      className="relative grid grid-cols-4 grid-rows-4 gap-px bg-amber-900 border sm:border-2 border-amber-900 aspect-square w-full"
       style={{ gridTemplateAreas: `
         "ty ngo mui than"
         "thin info1 info1 dau"
@@ -132,31 +130,31 @@ export default function LaSo({ laSo }: Props) {
           <div
             key={cung.chi}
             className={`
-              relative bg-amber-50 p-2 pb-7 flex flex-col text-xs gap-1 overflow-hidden
-              ${isMenh ? 'ring-2 ring-red-500 ring-inset' : ''}
+              relative bg-amber-50 p-1 pb-4 sm:p-2 sm:pb-7 flex flex-col gap-0.5 sm:gap-1 overflow-hidden
+              ${isMenh ? 'ring-1 sm:ring-2 ring-red-500 ring-inset' : ''}
             `}
             style={{ gridRow: vt.row, gridColumn: vt.col }}
             onMouseEnter={() => setHoveredChi(cung.chi)}
             onMouseLeave={() => setHoveredChi(null)}
           >
             {/* Header row 1: Đại vận (trái) + Nguyệt vận (phải) */}
-            <div className="grid grid-cols-[auto_1fr_auto] items-baseline gap-1 text-[9px] leading-none">
+            <div className="grid grid-cols-[auto_1fr_auto] items-baseline gap-0.5 sm:gap-1 text-[7px] sm:text-[9px] leading-none">
               <span className="text-blue-700 font-medium">
                 {daiVan ? `${daiVan.tuoiBatDau}-${daiVan.tuoiKetThuc}` : ''}
               </span>
               {/* Tên cung + Chính tinh — stacked giữa ĐV và NV, in HOA */}
-              <div className="flex flex-col items-center gap-0.5">
-                <div className={`text-[11px] font-bold uppercase leading-tight ${MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}`}>
+              <div className="flex flex-col items-center gap-0.5 min-w-0">
+                <div className={`text-[8px] sm:text-[11px] font-bold uppercase leading-tight ${MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}`}>
                   {cung.ten}{isThan ? ' (Thân)' : ''}
                 </div>
                 {cung.saoChinh.map(sao => (
                   <div
                     key={sao.ten}
-                    className={`text-[14px] font-extrabold uppercase leading-tight text-center whitespace-nowrap tracking-tight ${mauCuaSao(sao.ten, 'text-stone-800')}`}
+                    className={`text-[10px] sm:text-[14px] font-extrabold uppercase leading-tight text-center whitespace-nowrap tracking-tight ${mauCuaSao(sao.ten, 'text-stone-800')}`}
                   >
                     {sao.ten}
                     {sao.trangThai && (
-                      <span className="ml-0.5 text-[11px] font-bold normal-case">({VIET_TAT_TRANG_THAI[sao.trangThai]})</span>
+                      <span className="ml-0.5 text-[8px] sm:text-[11px] font-bold normal-case">({VIET_TAT_TRANG_THAI[sao.trangThai]})</span>
                     )}
                   </div>
                 ))}
@@ -167,7 +165,7 @@ export default function LaSo({ laSo }: Props) {
             </div>
 
             {/* Row 2: Can-Chi (góc phải) - tên cung đã chuyển lên trên */}
-            <div className="flex justify-end items-start text-[10px]">
+            <div className="flex justify-end items-start text-[8px] sm:text-[10px]">
               <span className="font-medium">
                 <span className={MAU_NGU_HANH[nguHanhCuaCan(cung.can)]}>{cung.can[0]}</span>
                 <span className="text-amber-900">.</span>
@@ -195,7 +193,7 @@ export default function LaSo({ laSo }: Props) {
                         {catList.map((sao, i) => (
                           <div
                             key={`cat-${sao.ten}-${i}`}
-                            className={`text-[10px] leading-tight ${mauCuaSao(sao.ten)}`}
+                            className={`text-[8px] sm:text-[10px] leading-tight ${mauCuaSao(sao.ten)}`}
                           >
                             {sao.ten}
                           </div>
@@ -206,7 +204,7 @@ export default function LaSo({ laSo }: Props) {
                         {hungList.map((sao, i) => (
                           <div
                             key={`hung-${sao.ten}-${i}`}
-                            className={`text-[10px] leading-tight ${mauCuaSao(sao.ten)}`}
+                            className={`text-[8px] sm:text-[10px] leading-tight ${mauCuaSao(sao.ten)}`}
                           >
                             {sao.ten}
                           </div>
@@ -217,11 +215,11 @@ export default function LaSo({ laSo }: Props) {
 
                   {/* Vòng Trường Sinh — PIN gần đáy cell (đẩy lên cao tránh đè Tuần/Triệt) */}
                   {truongSinhList.length > 0 && (
-                    <div className="absolute bottom-3 left-0 right-0 flex justify-center gap-1 flex-wrap pointer-events-none">
+                    <div className="absolute bottom-1.5 sm:bottom-3 left-0 right-0 flex justify-center gap-1 flex-wrap pointer-events-none">
                       {truongSinhList.map((sao, i) => (
                         <span
                           key={`ts-${sao.ten}-${i}`}
-                          className={`text-[10px] italic leading-tight ${mauCuaSao(sao.ten)}`}
+                          className={`text-[8px] sm:text-[10px] italic leading-tight ${mauCuaSao(sao.ten)}`}
                         >
                           {sao.ten}
                         </span>
@@ -243,7 +241,7 @@ export default function LaSo({ laSo }: Props) {
         const cungViTri = (a: [Chi, Chi], b: [Chi, Chi]) =>
           (a[0] === b[0] && a[1] === b[1]) || (a[0] === b[1] && a[1] === b[0]);
         const labelClass =
-          'absolute z-10 -translate-x-1/2 -translate-y-1/2 px-2 py-0.5 bg-stone-900 rounded text-[11px] font-bold text-white shadow pointer-events-none whitespace-nowrap';
+          'absolute z-10 -translate-x-1/2 -translate-y-1/2 px-1 py-0 sm:px-2 sm:py-0.5 bg-stone-900 rounded text-[8px] sm:text-[11px] font-bold text-white shadow pointer-events-none whitespace-nowrap';
 
         if (triet && tuan && cungViTri(triet, tuan)) {
           return (
@@ -312,13 +310,13 @@ export default function LaSo({ laSo }: Props) {
 
       {/* Phần thông tin chung ở giữa */}
       <div
-        className="bg-amber-50 p-3 flex flex-col text-xs"
+        className="bg-amber-50 p-1.5 sm:p-3 flex flex-col text-[8px] sm:text-xs leading-tight overflow-hidden"
         style={{ gridArea: 'info1 / info1 / info2 / info2' }}
       >
-        <div className="font-bold text-amber-900 text-sm mb-2">
+        <div className="font-bold text-amber-900 text-[10px] sm:text-sm mb-1 sm:mb-2 truncate">
           {laSo.thongTinSinh.hoTen || 'Lá số tử vi'}
         </div>
-        <div className="space-y-1 text-stone-700">
+        <div className="space-y-0.5 sm:space-y-1 text-stone-700">
           <div>
             <span className="text-amber-700">Sinh:</span>{' '}
             {laSo.thongTinSinh.ngaySinh.toLocaleString('vi-VN', {
@@ -367,7 +365,6 @@ export default function LaSo({ laSo }: Props) {
           )}
         </div>
       </div>
-    </div>
     </div>
 
     {/* CHÚ GIẢI: trạng thái + ngũ hành */}
