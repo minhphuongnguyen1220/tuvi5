@@ -3,33 +3,35 @@ import type { Chi, ChinhTinh, TrangThaiSao } from '@/core/tuvi/types';
 /**
  * Bảng tra TRẠNG THÁI (Miếu/Vượng/Đắc/Bình/Hãm) của 14 chính tinh tại 12 chi.
  *
- * Source: extract từ tomTat của 14 file `src/data/luan-giai/chinh-tinh/*.ts`,
- * section "Vị trí miếu hãm" trong entry tinh-chat-chung.
+ * Source:
+ * - 10 sao đầu: extract từ tomTat các file `src/data/luan-giai/chinh-tinh/*.ts`
+ * - 4 sao sau (Thiên Cơ, Liêm Trinh, Tham Lang, Thất Sát) + bổ sung: data
+ *   user xác nhận trực tiếp (chuyên gia tử vi).
  *
- * **CHỖ THIẾU DATA (cần user bổ sung — 64/168 entries):**
- * - 4 sao chưa có data nào: Thiên Cơ, Liêm Trinh, Tham Lang, Thất Sát
- * - Tử Vi: thiếu Tỵ (theo file Tử Vi không có Hãm địa, có thể là 'Bình')
- * - Thiên Phủ: thiếu Mão, Tỵ, Ngọ, Thân, Hợi (file chỉ liệt kê Miếu + Hãm)
- * - Thái Âm: thiếu Sửu, Mùi (file dùng "Mọc/Lặn" cho Dần/Thân — map về 'Bình')
- * - Thiên Lương: thiếu Sửu, Mùi
- * - Phá Quân: thiếu Sửu, Mão, Thìn, Tỵ, Tuất, Hợi
+ * **CHỖ THIẾU (1 entry còn lại — chờ user xác nhận):**
+ * - Thiên Phủ: Tỵ
  *
  * Lookup `undefined` → UI KHÔNG hiển thị viết tắt.
  *
  * Edge cases đã xử lý:
- * - Cự Môn "Vượng các cung còn lại" → suy ra Dần, Tỵ, Thân
- * - Thái Âm "Mọc/Lặn" (Dần, Thân) → map 'Bình' (giao thoa sáng tối)
- * - Thái Âm "Đắc viên" → 'Đắc'
- * - "Bình hòa" → 'Bình'
+ * - Tử Vi: user override Tỵ + Hợi đều Vượng (file gốc Hợi=Bình)
+ * - Thiên Phủ: user override toàn bộ (file gốc Miếu nhiều sao thì user ghi Vượng/Đắc/Bình)
+ * - Thái Âm: user override toàn bộ (file gốc dùng "Mọc/Lặn" cho Dần/Thân, user ghi Hãm/Vượng)
+ * - Phá Quân: user override (Mùi từ Miếu thành Vượng)
+ * - Thiên Lương: bổ sung Sửu/Mùi = Vượng
  */
 export const TRANG_THAI_CHINH_TINH: Partial<Record<ChinhTinh, Partial<Record<Chi, TrangThaiSao>>>> = {
   'Tử Vi': {
     'Tý':  'Bình',  'Sửu': 'Đắc',   'Dần':  'Miếu',  'Mão':  'Bình',
-    'Thìn':'Vượng', /* Tỵ thiếu */  'Ngọ':  'Miếu',  'Mùi':  'Đắc',
-    'Thân':'Miếu',  'Dậu': 'Bình',  'Tuất': 'Vượng', 'Hợi':  'Bình',
+    'Thìn':'Vượng', 'Tỵ':  'Vượng', 'Ngọ':  'Miếu',  'Mùi':  'Đắc',
+    'Thân':'Miếu',  'Dậu': 'Bình',  'Tuất': 'Vượng', 'Hợi':  'Vượng',
   },
 
-  // 'Thiên Cơ': data chưa có trong file luận giải
+  'Thiên Cơ': {
+    'Tý':  'Đắc',   'Sửu': 'Đắc',   'Dần':  'Hãm',   'Mão':  'Miếu',
+    'Thìn':'Miếu',  'Tỵ':  'Vượng', 'Ngọ':  'Đắc',   'Mùi':  'Đắc',
+    'Thân':'Vượng', 'Dậu': 'Miếu',  'Tuất': 'Miếu',  'Hợi':  'Hãm',
+  },
 
   'Thái Dương': {
     'Tý':  'Hãm',   'Sửu': 'Đắc',   'Dần':  'Vượng', 'Mão':  'Vượng',
@@ -49,21 +51,29 @@ export const TRANG_THAI_CHINH_TINH: Partial<Record<ChinhTinh, Partial<Record<Chi
     'Thân':'Miếu',  'Dậu': 'Hãm',   'Tuất': 'Hãm',   'Hợi':  'Đắc',
   },
 
-  // 'Liêm Trinh': data chưa có trong file luận giải
+  'Liêm Trinh': {
+    'Tý':  'Vượng', 'Sửu': 'Đắc',   'Dần':  'Vượng', 'Mão':  'Hãm',
+    'Thìn':'Miếu',  'Tỵ':  'Hãm',   'Ngọ':  'Vượng', 'Mùi':  'Đắc',
+    'Thân':'Vượng', 'Dậu': 'Hãm',   'Tuất': 'Miếu',  'Hợi':  'Hãm',
+  },
 
   'Thiên Phủ': {
-    'Tý':  'Miếu',  'Sửu': 'Miếu',  'Dần':  'Miếu',  /* Mão thiếu */
-    'Thìn':'Miếu',  /* Tỵ thiếu */ /* Ngọ thiếu */   'Mùi':  'Miếu',
-    /* Thân thiếu */'Dậu': 'Hãm',   'Tuất': 'Miếu',  /* Hợi thiếu */
+    'Tý':  'Vượng', 'Sửu': 'Bình',  'Dần':  'Vượng', 'Mão':  'Bình',
+    'Thìn':'Đắc',   /* Tỵ thiếu */  'Ngọ':  'Vượng', 'Mùi':  'Đắc',
+    'Thân':'Vượng', 'Dậu': 'Bình',  'Tuất': 'Đắc',   'Hợi':  'Đắc',
   },
 
   'Thái Âm': {
-    'Tý':  'Đắc',   /* Sửu thiếu */ 'Dần':  'Bình',  'Mão':  'Hãm',
-    'Thìn':'Hãm',   'Tỵ':  'Hãm',   'Ngọ':  'Hãm',   /* Mùi thiếu */
-    'Thân':'Bình',  'Dậu': 'Đắc',   'Tuất': 'Đắc',   'Hợi':  'Đắc',
+    'Tý':  'Vượng', 'Sửu': 'Đắc',   'Dần':  'Hãm',   'Mão':  'Hãm',
+    'Thìn':'Hãm',   'Tỵ':  'Hãm',   'Ngọ':  'Hãm',   'Mùi':  'Đắc',
+    'Thân':'Vượng', 'Dậu': 'Miếu',  'Tuất': 'Miếu',  'Hợi':  'Miếu',
   },
 
-  // 'Tham Lang': data chưa có trong file luận giải
+  'Tham Lang': {
+    'Tý':  'Hãm',   'Sửu': 'Miếu',  'Dần':  'Đắc',   'Mão':  'Hãm',
+    'Thìn':'Vượng', 'Tỵ':  'Hãm',   'Ngọ':  'Hãm',   'Mùi':  'Miếu',
+    'Thân':'Đắc',   'Dậu': 'Hãm',   'Tuất': 'Vượng', 'Hợi':  'Hãm',
+  },
 
   'Cự Môn': {
     'Tý':  'Đắc',   'Sửu': 'Hãm',   'Dần':  'Vượng', 'Mão':  'Miếu',
@@ -78,17 +88,21 @@ export const TRANG_THAI_CHINH_TINH: Partial<Record<ChinhTinh, Partial<Record<Chi
   },
 
   'Thiên Lương': {
-    'Tý':  'Vượng', /* Sửu thiếu */ 'Dần':  'Vượng', 'Mão':  'Vượng',
-    'Thìn':'Miếu',  'Tỵ':  'Hãm',   'Ngọ':  'Miếu',  /* Mùi thiếu */
+    'Tý':  'Vượng', 'Sửu': 'Vượng', 'Dần':  'Vượng', 'Mão':  'Vượng',
+    'Thìn':'Miếu',  'Tỵ':  'Hãm',   'Ngọ':  'Miếu',  'Mùi':  'Vượng',
     'Thân':'Vượng', 'Dậu': 'Hãm',   'Tuất': 'Miếu',  'Hợi':  'Hãm',
   },
 
-  // 'Thất Sát': data chưa có trong file luận giải
+  'Thất Sát': {
+    'Tý':  'Miếu',  'Sửu': 'Đắc',   'Dần':  'Miếu',  'Mão':  'Hãm',
+    'Thìn':'Hãm',   'Tỵ':  'Vượng', 'Ngọ':  'Miếu',  'Mùi':  'Đắc',
+    'Thân':'Miếu',  'Dậu': 'Hãm',   'Tuất': 'Hãm',   'Hợi':  'Vượng',
+  },
 
   'Phá Quân': {
-    'Tý':  'Miếu',  /* Sửu thiếu */ 'Dần':  'Hãm',   /* Mão thiếu */
-    /* Thìn thiếu *//* Tỵ thiếu */  'Ngọ':  'Miếu',  'Mùi':  'Miếu',
-    'Thân':'Hãm',   'Dậu': 'Hãm',   /* Tuất thiếu *//* Hợi thiếu */
+    'Tý':  'Miếu',  'Sửu': 'Vượng', 'Dần':  'Hãm',   'Mão':  'Hãm',
+    'Thìn':'Đắc',   'Tỵ':  'Hãm',   'Ngọ':  'Miếu',  'Mùi':  'Vượng',
+    'Thân':'Hãm',   'Dậu': 'Hãm',   'Tuất': 'Đắc',   'Hợi':  'Hãm',
   },
 };
 
@@ -101,7 +115,6 @@ export function trangThaiChinhTinh(sao: string, chi: Chi): TrangThaiSao | undefi
 
 /**
  * Viết tắt trạng thái — dùng để hiển thị bên cạnh tên sao trên lá số.
- * Vd: 'Miếu' → 'M', 'Vượng' → 'V', 'Đắc' → 'Đ', 'Bình' → 'B', 'Hãm' → 'H'.
  */
 export const VIET_TAT_TRANG_THAI: Record<TrangThaiSao, string> = {
   'Miếu':  'M',
