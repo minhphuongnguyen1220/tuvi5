@@ -138,21 +138,18 @@ export default function LaSo({ laSo }: Props) {
             onMouseLeave={() => setHoveredChi(null)}
           >
             {/* Header row 1: Đại vận (trái) + Nguyệt vận (phải) */}
-            <div className="grid grid-cols-[auto_1fr_auto] items-start gap-0.5 sm:gap-1 text-[7px] sm:text-[9px] leading-none">
-              {/* Cột TRÁI: ĐV (năm bắt đầu) + Can.Chi stack dưới */}
-              <div className="flex flex-col gap-0 leading-none">
-                <span className="text-blue-700 font-medium">
-                  {daiVan ? daiVan.tuoiBatDau : ''}
-                </span>
-                <span className="text-[8px] sm:text-[10px] font-medium mt-0.5 whitespace-nowrap">
+            <div className="grid grid-cols-[auto_1fr_auto] items-baseline gap-0.5 sm:gap-1 text-[7px] sm:text-[9px] leading-none">
+              {/* TRÁI: ĐV (năm bắt đầu) */}
+              <span className="text-blue-700 font-medium">
+                {daiVan ? daiVan.tuoiBatDau : ''}
+              </span>
+              {/* CENTER: Can.Chi (row 1, ngang với ĐV/NV) → Cung name → Chính tinh */}
+              <div className="flex flex-col items-center gap-0 sm:gap-0.5 min-w-0">
+                <span className="text-[8px] sm:text-[10px] font-medium whitespace-nowrap">
                   <span className={MAU_NGU_HANH[nguHanhCuaCan(cung.can)]}>{cung.can[0]}</span>
                   <span className="text-amber-900">.</span>
                   <span className={MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}>{cung.chi}</span>
                 </span>
-              </div>
-              {/* Tên cung + Chính tinh — stacked giữa, in HOA, không xuống dòng.
-                  mt-3 trên mobile để chính tinh KHÔNG đè Can.Chi (cột trái có ĐV + Can.Chi cao hơn). */}
-              <div className="flex flex-col items-center gap-0 sm:gap-0.5 min-w-0 mt-3 sm:mt-0">
                 <div className={`text-[8px] sm:text-[11px] font-bold uppercase leading-tight whitespace-nowrap ${MAU_NGU_HANH[nguHanhCuaChi(cung.chi)]}`}>
                   {cung.ten}{isThan ? ' (Thân)' : ''}
                 </div>
@@ -168,6 +165,7 @@ export default function LaSo({ laSo }: Props) {
                   </div>
                 ))}
               </div>
+              {/* PHẢI: NV (tháng) */}
               <span className="text-green-700 font-medium">
                 {nguyetVan ? `T${nguyetVan.thangAmLich}` : ''}
               </span>
