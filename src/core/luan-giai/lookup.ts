@@ -1,4 +1,4 @@
-import type { CungTrongLaSo } from '@/core/tuvi/types';
+import type { CungTrongLaSo, GioiTinh } from '@/core/tuvi/types';
 import { tatCaLuanGiai, type DoanLuanGiai } from '@/data/luan-giai';
 import { NGU_HANH_CHINH_TINH, NGU_HANH_PHU_TINH } from '@/lib/mau-ngu-hanh';
 
@@ -22,7 +22,7 @@ function laTenSaoThuc(name: string): boolean {
  *
  * Sau đó sắp xếp theo doUuTien (cao trước).
  */
-export function timLuanGiaiCuaCung(cung: CungTrongLaSo): DoanLuanGiai[] {
+export function timLuanGiaiCuaCung(cung: CungTrongLaSo, gioiTinh?: GioiTinh): DoanLuanGiai[] {
   const allSao = [...cung.saoChinh, ...cung.saoPhu];
   const tatCaSaoTrongCung = allSao.map(s => s.ten);
 
@@ -33,9 +33,13 @@ export function timLuanGiaiCuaCung(cung: CungTrongLaSo): DoanLuanGiai[] {
         (doan.cung && doan.cung.length > 0) ||
         (doan.chi && doan.chi.length > 0) ||
         (doan.ketHop && doan.ketHop.length > 0) ||
-        (doan.trangThai && doan.trangThai.length > 0)
+        (doan.trangThai && doan.trangThai.length > 0) ||
+        doan.gioiTinh
       );
       if (!hasSpecific) return false;
+
+      // Lọc theo giới tính
+      if (doan.gioiTinh && gioiTinh && doan.gioiTinh !== gioiTinh) return false;
 
       // Lọc theo sao
       if (doan.sao && doan.sao.length > 0) {

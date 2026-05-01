@@ -52,7 +52,7 @@ export default function Home() {
               </p>
               <div className="grid gap-4">
                 {laSo.cacCung.map(cung => (
-                  <LuanGiaiCung key={cung.chi} cung={cung} />
+                  <LuanGiaiCung key={cung.chi} cung={cung} gioiTinh={laSo.thongTinSinh.gioiTinh} />
                 ))}
               </div>
             </section>

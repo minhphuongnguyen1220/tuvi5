@@ -13,7 +13,7 @@
  *   { sao: ['Tử Vi'] } = áp dụng cho mọi cung có Tử Vi (mô tả tính chất sao chung)
  */
 
-import type { Chi, TenCung, TrangThaiSao } from '@/core/tuvi/types';
+import type { Chi, GioiTinh, TenCung, TrangThaiSao } from '@/core/tuvi/types';
 
 export interface DoanLuanGiai {
   /** ID duy nhất, viết kebab-case không dấu (vd: "tu-vi-tai-menh") */
@@ -36,6 +36,9 @@ export interface DoanLuanGiai {
 
   /** Sao đi cùng (tổ hợp). Vd ['Vũ Khúc'] = chỉ áp dụng khi sao chính + Vũ Khúc cùng cung */
   ketHop?: string[];
+
+  /** Giới tính áp dụng. Bỏ trống = mọi giới tính. */
+  gioiTinh?: GioiTinh;
 
   /** Số càng cao càng hiện trước. Mặc định 50. Đoạn rất chuyên biệt nên đặt 80-100. */
   doUuTien?: number;

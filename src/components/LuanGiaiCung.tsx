@@ -2,7 +2,7 @@
 
 import ReactMarkdown from 'react-markdown';
 import { Fragment } from 'react';
-import type { CungTrongLaSo, Sao } from '@/core/tuvi/types';
+import type { CungTrongLaSo, GioiTinh, Sao } from '@/core/tuvi/types';
 import { timLuanGiaiCuaCung } from '@/core/luan-giai/lookup';
 import { nguHanhCuaCan, nguHanhCuaChi } from '@/core/tuvi/am-duong';
 import { mauCuaSao, MAU_NGU_HANH } from '@/lib/mau-ngu-hanh';
@@ -10,10 +10,11 @@ import { VIET_TAT_TRANG_THAI } from '@/lib/trang-thai-chinh-tinh';
 
 interface Props {
   cung: CungTrongLaSo;
+  gioiTinh?: GioiTinh;
 }
 
-export default function LuanGiaiCung({ cung }: Props) {
-  const danhSach = timLuanGiaiCuaCung(cung);
+export default function LuanGiaiCung({ cung, gioiTinh }: Props) {
+  const danhSach = timLuanGiaiCuaCung(cung, gioiTinh);
   const danhSachSao: Sao[] = [...cung.saoChinh, ...cung.saoPhu];
 
   return (
