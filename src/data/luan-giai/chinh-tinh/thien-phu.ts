@@ -349,20 +349,37 @@ Dương kèm hai bên** → cách **"Nhật Nguyệt giáp Mệnh"** → chủ v
   // ============================================================
   {
     id: 'thien-phu-tai-phu-mau',
-    title: 'Thiên Phủ tại Phụ Mẫu',
+    title: 'Thiên Phủ tại Phụ Mẫu (đặc tính chung)',
     sao: ['Thiên Phủ'],
     cung: ['Phụ Mẫu'],
     doUuTien: 78,
     tomTat: `**Thiên Phủ tại Phụ Mẫu** sáng (Vượng địa): cha mẹ thường **giàu hoặc
 có chức tước**.
 
-- **+ Tử Vi đồng cung:** càng **được nhờ phụ mẫu**, được giúp đỡ rất nhiều cho
-  sự nghiệp và cuộc sống
-- **+ Liêm Trinh** (tại Phúc Đức): gia đình thường có **xích mích, mâu thuẫn**
-  giữa các thành viên
-
 ⚠️ Theo nguyên tắc cổ: **cung Phụ Mẫu là vị trí gặp hãm, vô dụng** đối với
 Thiên Phủ — cần kết hợp với cát tinh thì mới phát huy.`,
+  },
+
+  {
+    id: 'thien-phu-tai-phu-mau-tu-vi',
+    title: 'Thiên Phủ + Tử Vi đồng cung tại Phụ Mẫu',
+    sao: ['Thiên Phủ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 73,
+    tomTat: `**Thiên Phủ + Tử Vi đồng cung tại Phụ Mẫu:** càng **được nhờ phụ mẫu**,
+được giúp đỡ rất nhiều cho sự nghiệp và cuộc sống.`,
+  },
+
+  {
+    id: 'thien-phu-tai-phu-mau-liem-trinh',
+    title: 'Thiên Phủ + Liêm Trinh tại Phụ Mẫu',
+    sao: ['Thiên Phủ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Liêm Trinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiên Phủ + Liêm Trinh tại Phụ Mẫu** (gốc câu nói tại Phúc Đức):
+gia đình thường có **xích mích, mâu thuẫn** giữa các thành viên.`,
   },
 
   // ============================================================
@@ -386,7 +403,7 @@ nhưng **không hòa thuận, thân thiết** với nhau.`,
   // ============================================================
   {
     id: 'thien-phu-tai-dien-trach',
-    title: 'Thiên Phủ tại Điền Trạch',
+    title: 'Thiên Phủ tại Điền Trạch (đặc tính chung)',
     sao: ['Thiên Phủ'],
     cung: ['Điền Trạch'],
     doUuTien: 85,
@@ -394,10 +411,29 @@ nhưng **không hòa thuận, thân thiết** với nhau.`,
 là **vị trí RẤT TỐT**:
 
 - **Có phúc thừa kế**, được nhận đất đai, tài sản từ thế hệ trước
-- **Tiền của dồi dào**, có **vận thiên tài** (của ngoài luồng), có tài quản lý
+- **Tiền của dồi dào**, có **vận thiên tài** (của ngoài luồng), có tài quản lý`,
+  },
 
-- **+ Vũ Khúc đồng cung:** tăng khả năng **tự mở rộng**, mua được nhiều bất động sản
-- ⚠️ **+ Không Kiếp đồng cung:** dễ **mất đất đai, tiêu tán tài sản** do cha mẹ để lại`,
+  {
+    id: 'thien-phu-tai-dien-trach-vu-khuc',
+    title: 'Thiên Phủ + Vũ Khúc đồng cung tại Điền Trạch',
+    sao: ['Thiên Phủ'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Vũ Khúc'],
+    doUuTien: 80,
+    tomTat: `**Thiên Phủ + Vũ Khúc đồng cung tại Điền Trạch:** tăng khả năng **tự
+mở rộng**, mua được nhiều **bất động sản**.`,
+  },
+
+  {
+    id: 'thien-phu-tai-dien-trach-khong-kiep',
+    title: 'Thiên Phủ + Không Kiếp đồng cung tại Điền Trạch',
+    sao: ['Thiên Phủ'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Thiên Phủ + Địa Không / Địa Kiếp đồng cung tại Điền Trạch:** dễ
+**mất đất đai, tiêu tán tài sản** do cha mẹ để lại.`,
   },
 
   // ============================================================
@@ -405,7 +441,7 @@ là **vị trí RẤT TỐT**:
   // ============================================================
   {
     id: 'thien-phu-tai-quan-loc',
-    title: 'Thiên Phủ tại Quan Lộc',
+    title: 'Thiên Phủ tại Quan Lộc (đặc tính chung)',
     sao: ['Thiên Phủ'],
     cung: ['Quan Lộc'],
     doUuTien: 82,
@@ -413,11 +449,29 @@ là **vị trí RẤT TỐT**:
 **tiền** — **ngân hàng, kiểm toán, tài chính**. Tăng khả năng **quản lý và giữ tiền**.
 
 - **Bình hòa:** nên **khởi nghiệp, tự làm chủ** doanh nghiệp → tài lộc rộng mở
-- **Làm việc nhà nước:** ổn định nhưng thăng tiến chậm
-- **+ Hóa Lộc / Lộc Tồn:** sự nghiệp thăng tiến nhanh chóng
+- **Làm việc nhà nước:** ổn định nhưng thăng tiến chậm`,
+  },
 
-⚠️ **+ sát tinh** (Kình Đà Hỏa Linh, Không Kiếp): cảnh báo **nguy cơ pháp lý,
-tranh chấp, kiện tụng**.`,
+  {
+    id: 'thien-phu-tai-quan-loc-loc',
+    title: 'Thiên Phủ + Hóa Lộc / Lộc Tồn tại Quan Lộc',
+    sao: ['Thiên Phủ'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Lộc', 'Lộc Tồn'],
+    doUuTien: 77,
+    tomTat: `**Thiên Phủ + Hóa Lộc / Lộc Tồn tại Quan Lộc:** sự nghiệp **thăng tiến
+nhanh chóng**.`,
+  },
+
+  {
+    id: 'thien-phu-tai-quan-loc-sat-tinh',
+    title: 'Thiên Phủ + sát tinh tại Quan Lộc',
+    sao: ['Thiên Phủ'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 77,
+    tomTat: `⚠️ **Thiên Phủ + sát tinh** (Kình Đà Hỏa Linh, Không Kiếp) **tại Quan
+Lộc:** cảnh báo **nguy cơ pháp lý, tranh chấp, kiện tụng**.`,
   },
 
   // ============================================================
@@ -478,7 +532,7 @@ giải tai hung, giảm bệnh tật**.
   // ============================================================
   {
     id: 'thien-phu-tai-tai-bach',
-    title: 'Thiên Phủ tại Tài Bạch',
+    title: 'Thiên Phủ tại Tài Bạch (đặc tính chung)',
     sao: ['Thiên Phủ'],
     cung: ['Tài Bạch'],
     doUuTien: 88,
@@ -486,11 +540,29 @@ giải tai hung, giảm bệnh tật**.
 
 - Thường **may mắn**, có số **giàu sang** hoặc tích lũy được nhiều tài lộc
 - Gặp vận hạn vẫn có thể **giải quyết bằng tiền**
-- Có **vận thiên tài** (của ngoài luồng), có **tài quản lý tiền của**
+- Có **vận thiên tài** (của ngoài luồng), có **tài quản lý tiền của**`,
+  },
 
-- **+ Tử Vi đồng cung:** được **nhờ cha mẹ**, gia đình giàu có, có tiềm lực tài chính
-- **+ Liêm Trinh:** tăng tham vọng, có thể **buôn bán, kinh doanh**, **giàu nhanh,
-  phát tài sau một đêm**`,
+  {
+    id: 'thien-phu-tai-tai-bach-tu-vi',
+    title: 'Thiên Phủ + Tử Vi đồng cung tại Tài Bạch',
+    sao: ['Thiên Phủ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 83,
+    tomTat: `**Thiên Phủ + Tử Vi đồng cung tại Tài Bạch:** được **nhờ cha mẹ**, gia
+đình giàu có, có **tiềm lực tài chính**.`,
+  },
+
+  {
+    id: 'thien-phu-tai-tai-bach-liem-trinh',
+    title: 'Thiên Phủ + Liêm Trinh tại Tài Bạch',
+    sao: ['Thiên Phủ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Liêm Trinh'],
+    doUuTien: 83,
+    tomTat: `**Thiên Phủ + Liêm Trinh tại Tài Bạch:** tăng tham vọng, có thể **buôn
+bán, kinh doanh**, **giàu nhanh, phát tài sau một đêm**.`,
   },
 
   // ============================================================
@@ -514,15 +586,33 @@ hoặc **con cái thành đạt**, được **nhờ cậy con cái khi về già
   // ============================================================
   {
     id: 'thien-phu-tai-phu-the',
-    title: 'Thiên Phủ tại Phu Thê',
+    title: 'Thiên Phủ tại Phu Thê (đặc tính chung)',
     sao: ['Thiên Phủ'],
     cung: ['Phu Thê'],
     doUuTien: 82,
-    tomTat: `**Thiên Phủ tại Phu Thê:** hôn nhân **hạnh phúc, viên mãn**.
+    tomTat: `**Thiên Phủ tại Phu Thê:** hôn nhân **hạnh phúc, viên mãn**.`,
+  },
 
-- **+ Liêm Trinh, Tử Vi đồng cung:** có thể **lập nghiệp cùng nhau** ("đồng vợ
-  đồng chồng"), gia đình đầm ấm, đủ đầy
-- ⚠️ **+ sát tinh đồng cung:** nên **kết hôn muộn** để tránh rạn nứt`,
+  {
+    id: 'thien-phu-tai-phu-the-liem-tu',
+    title: 'Thiên Phủ + Liêm Trinh, Tử Vi đồng cung tại Phu Thê',
+    sao: ['Thiên Phủ'],
+    cung: ['Phu Thê'],
+    ketHop: ['Liêm Trinh', 'Tử Vi'],
+    doUuTien: 77,
+    tomTat: `**Thiên Phủ + Liêm Trinh / Tử Vi đồng cung tại Phu Thê:** có thể **lập
+nghiệp cùng nhau** ("đồng vợ đồng chồng"), gia đình đầm ấm, đủ đầy.`,
+  },
+
+  {
+    id: 'thien-phu-tai-phu-the-sat-tinh',
+    title: 'Thiên Phủ + sát tinh đồng cung tại Phu Thê',
+    sao: ['Thiên Phủ'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 77,
+    tomTat: `⚠️ **Thiên Phủ + sát tinh đồng cung tại Phu Thê:** nên **kết hôn muộn**
+để tránh rạn nứt.`,
   },
 
   // ============================================================
@@ -530,17 +620,35 @@ hoặc **con cái thành đạt**, được **nhờ cậy con cái khi về già
   // ============================================================
   {
     id: 'thien-phu-tai-huynh-de',
-    title: 'Thiên Phủ tại Huynh Đệ',
+    title: 'Thiên Phủ tại Huynh Đệ (đặc tính chung)',
     sao: ['Thiên Phủ'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
     tomTat: `**Thiên Phủ tại Huynh Đệ** (cung vị **bình thường**):
 
 - **Miếu / Vượng + Văn Xương / Văn Khúc / Thiên Khôi:** nhiều **anh em tài giỏi**,
-  thường **giúp đỡ khi khó khăn, hoạn nạn**
-- ⚠️ **+ Vũ Khúc, Liêm Trinh hội hợp:** dù nhiều anh chị em cũng **khắc khẩu, không
-  hòa thuận**
-- ⚠️ **+ Văn Khúc** (trên nền Vũ Liêm): anh em họ hàng có phần **giả dối, dễ lừa
-  gạt** lẫn nhau`,
+  thường **giúp đỡ khi khó khăn, hoạn nạn**`,
+  },
+
+  {
+    id: 'thien-phu-tai-huynh-de-vu-liem',
+    title: 'Thiên Phủ + Vũ Khúc, Liêm Trinh hội hợp tại Huynh Đệ',
+    sao: ['Thiên Phủ'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Vũ Khúc', 'Liêm Trinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Phủ + Vũ Khúc / Liêm Trinh hội hợp tại Huynh Đệ:** dù nhiều
+anh chị em cũng **khắc khẩu, không hòa thuận**.`,
+  },
+
+  {
+    id: 'thien-phu-tai-huynh-de-van-khuc',
+    title: 'Thiên Phủ + Văn Khúc tại Huynh Đệ',
+    sao: ['Thiên Phủ'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Phủ + Văn Khúc tại Huynh Đệ** (đặc biệt trên nền Vũ Liêm):
+anh em họ hàng có phần **giả dối, dễ lừa gạt** lẫn nhau.`,
   },
 ];

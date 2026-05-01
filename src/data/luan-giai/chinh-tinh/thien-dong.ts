@@ -525,7 +525,7 @@ Tốt nhất: **Tý, Ngọ, Dần, Thân, Mão**. Xấu: **Dậu, Thìn, Tuất*
   // ============================================================
   {
     id: 'thien-dong-tai-tat-ach',
-    title: 'Thiên Đồng tại Tật Ách',
+    title: 'Thiên Đồng tại Tật Ách (đặc tính chung)',
     sao: ['Thiên Đồng'],
     cung: ['Tật Ách'],
     doUuTien: 80,
@@ -533,9 +533,29 @@ Tốt nhất: **Tý, Ngọ, Dần, Thân, Mão**. Xấu: **Dậu, Thìn, Tuất*
 (không chỉ đích danh bộ phận nào).
 
 - **Hội nhiều sát tinh:** bộ máy tiêu hóa bị ảnh hưởng — hay **đau dạ dày** (đặc
-  biệt thêm Song Hao)
-- **+ Hóa Kỵ:** đau bụng, đi ngoài, tiêu chảy, khó tiêu
-- **+ Không Kiếp:** đau dạ dày, đường ruột, bệnh đường ăn uống`,
+  biệt thêm Song Hao)`,
+  },
+
+  {
+    id: 'thien-dong-tai-tat-ach-hoa-ky',
+    title: 'Thiên Đồng + Hóa Kỵ tại Tật Ách',
+    sao: ['Thiên Đồng'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiên Đồng + Hóa Kỵ tại Tật Ách:** **đau bụng, đi ngoài, tiêu
+chảy, khó tiêu**.`,
+  },
+
+  {
+    id: 'thien-dong-tai-tat-ach-khong-kiep',
+    title: 'Thiên Đồng + Không Kiếp tại Tật Ách',
+    sao: ['Thiên Đồng'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiên Đồng + Địa Không / Địa Kiếp tại Tật Ách:** **đau dạ dày,
+đường ruột**, bệnh đường ăn uống.`,
   },
 
   // ============================================================

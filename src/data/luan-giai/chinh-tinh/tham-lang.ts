@@ -69,51 +69,69 @@ là nguồn cơn của tai họa**.
   // ============================================================
   {
     id: 'tham-lang-bo-sao-tot',
-    title: 'Tham Lang - Các bộ sao tốt',
+    title: 'Tham Lang - Các bộ sao tốt (đặc tính chung)',
     sao: ['Tham Lang'],
     doUuTien: 50,
-    tomTat: `**Bộ sao tốt với Tham Lang:**
+    tomTat: `**Tham Lang có nhiều bộ sao tốt** — Hỏa/Linh tạo cách bạo phát, Tả
+Hữu Khôi Việt mang quý nhân, Tam Hóa giúp chuyển hóa đam mê thành thành tựu.`,
 
-✅ **+ Hỏa Tinh / Linh Tinh đắc địa:** cách **HỎA THAM / LINH THAM** — **bạo
-phát tài lộc và quyền uy**, thành công nhanh và mạnh (võ tướng / doanh nhân lớn).
+    chiTiet: `## Các bộ sao tốt thường gặp
 
-✅ **+ Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt:** **quý nhân trợ lực**, dễ
-nắm vai trò **lãnh đạo**, có duyên với **chính trị / tâm linh**.
+Tham Lang có **nhiều bộ sao tốt** chủ về bạo phát, quý nhân và chuyển hóa
+đam mê thành thành tựu. Các tổ hợp cụ thể được tách thành các luận giải
+riêng (Hỏa Tham / Linh Tham, Tả Hữu Khôi Việt, Tam Hóa).`,
+  },
 
-**Tam Hóa:**
-- **+ Hóa Lộc:** tăng khả năng **kiếm tiền và giao tiếp**
-- **+ Hóa Quyền:** **uy quyền + khả năng chỉ huy**
-- **+ Hóa Khoa:** chuyển đam mê thành **giá trị học thuật / nghệ thuật** được
-  xã hội công nhận`,
+  {
+    id: 'tham-lang-bo-sao-tot-hoa-linh',
+    title: 'Tham Lang + Hỏa Tinh / Linh Tinh đắc địa (Hỏa Tham / Linh Tham)',
+    sao: ['Tham Lang'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 45,
+    tomTat: `✅ **Tham Lang + Hỏa Tinh / Linh Tinh (đắc địa):** tạo thành cách
+**HỎA THAM** hoặc **LINH THAM** — chủ về **bạo phát tài lộc và quyền uy**, thành
+công đến **nhanh và mạnh**. Thường thấy ở **võ tướng** hoặc **doanh nhân lớn**.`,
+  },
 
-    chiTiet: `## Hỏa Tham / Linh Tham — bạo phát
+  {
+    id: 'tham-lang-bo-sao-tot-ta-huu-khoi-viet',
+    title: 'Tham Lang + Tả Hữu + Khôi Việt',
+    sao: ['Tham Lang'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 45,
+    tomTat: `✅ **Tham Lang + Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt:** mệnh
+chủ có **quý nhân trợ lực**, dễ nắm vai trò **lãnh đạo**, có duyên với **chính
+trị** hoặc **tâm linh**.`,
+  },
 
-**Tham Lang + Hỏa Tinh / Linh Tinh (đắc địa)** tạo thành cách **HỎA THAM**
-hoặc **LINH THAM**:
-- Chủ về **bạo phát tài lộc và quyền uy**
-- Thành công đến **nhanh và mạnh**
-- Thường thấy ở **võ tướng** hoặc **doanh nhân lớn**
+  {
+    id: 'tham-lang-bo-sao-tot-hoa-loc',
+    title: 'Tham Lang + Hóa Lộc',
+    sao: ['Tham Lang'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 45,
+    tomTat: `✅ **Tham Lang + Hóa Lộc:** tăng khả năng **kiếm tiền** và tăng
+**giao tiếp**.`,
+  },
 
-## Tả Hữu Khôi Việt — quý nhân
+  {
+    id: 'tham-lang-bo-sao-tot-hoa-quyen',
+    title: 'Tham Lang + Hóa Quyền',
+    sao: ['Tham Lang'],
+    ketHop: ['Hóa Quyền'],
+    doUuTien: 45,
+    tomTat: `✅ **Tham Lang + Hóa Quyền:** mang lại **uy quyền** và **khả năng
+chỉ huy**.`,
+  },
 
-**+ Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt:**
-- Mệnh chủ có **quý nhân trợ lực**
-- Dễ nắm vai trò **lãnh đạo**
-- Có duyên với **chính trị** hoặc **tâm linh**
-
-## Tam Hóa
-
-**+ Hóa Lộc:**
-- Tăng khả năng **kiếm tiền**
-- Tăng **giao tiếp**
-
-**+ Hóa Quyền:**
-- Mang lại **uy quyền**
-- **Khả năng chỉ huy**
-
-**+ Hóa Khoa:**
-- Giúp đương số **chuyển hóa đam mê** thành **giá trị học thuật / nghệ thuật**
-- Được **xã hội công nhận**`,
+  {
+    id: 'tham-lang-bo-sao-tot-hoa-khoa',
+    title: 'Tham Lang + Hóa Khoa',
+    sao: ['Tham Lang'],
+    ketHop: ['Hóa Khoa'],
+    doUuTien: 45,
+    tomTat: `✅ **Tham Lang + Hóa Khoa:** giúp đương số **chuyển hóa đam mê**
+thành **giá trị học thuật / nghệ thuật**, được **xã hội công nhận**.`,
   },
 
   // ============================================================
@@ -121,23 +139,11 @@ hoặc **LINH THAM**:
   // ============================================================
   {
     id: 'tham-lang-bo-sao-xau',
-    title: 'Tham Lang - Các bộ sao xấu',
+    title: 'Tham Lang - Các bộ sao xấu (đặc tính chung)',
     sao: ['Tham Lang'],
     doUuTien: 50,
-    tomTat: `⚠️ **Bộ sao xấu với Tham Lang:**
-
-⚠️ **+ Kình Dương + Đà La:** kích hoạt **MẶT TỐI** → **sa đọa vì SẮC, RƯỢU,
-CỜ BẠC**.
-
-⚠️ **+ Địa Không + Địa Kiếp:** tham vọng **viển vông**, lý tưởng khó thành →
-dễ rơi vào **lừa đảo / giang hồ**.
-
-**+ Tuần / Triệt** (2 mặt):
-- ✅ **Triệt:** giúp đương số **biết kiềm chế**
-- ⚠️ **Tuần:** dễ sinh **khoác lác, nói nhiều làm ít**
-
-⚠️ **+ Hóa Kỵ:** **ghen tuông, đố kỵ** → vì **tình hoặc tiền** mà sinh tranh
-chấp, oán hận.`,
+    tomTat: `⚠️ **Tham Lang có nhiều bộ sao kỵ:** Kình Đà kích hoạt mặt tối, Không
+Kiếp tham vọng viển vông, Tuần/Triệt biến đổi tính chất, Hóa Kỵ sinh tranh chấp.`,
 
     chiTiet: `## Kình Dương + Đà La — kích hoạt mặt tối
 
@@ -168,6 +174,51 @@ tính chất** của sao:
 ⚠️ **Hội cùng Hóa Kỵ:**
 - Làm tăng tính **ghen tuông, đố kỵ**
 - Dễ vì **tình hoặc tiền** mà sinh **tranh chấp, oán hận**`,
+  },
+
+  {
+    id: 'tham-lang-bo-sao-xau-kinh-da',
+    title: 'Tham Lang + Kình Dương + Đà La',
+    sao: ['Tham Lang'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Tham Lang + Kình Dương + Đà La:** kích hoạt mặt tối của Tham
+Lang tọa Mệnh, dễ dẫn đến **sa đọa vì sắc, rượu, cờ bạc**.`,
+  },
+
+  {
+    id: 'tham-lang-bo-sao-xau-khong-kiep',
+    title: 'Tham Lang + Địa Không + Địa Kiếp',
+    sao: ['Tham Lang'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Tham Lang + Địa Không + Địa Kiếp:** tham vọng trở nên **viển
+vông**, cuộc đời **khó thực hiện lý tưởng**, dễ rơi vào con đường **lừa đảo**
+hoặc **giang hồ**.`,
+  },
+
+  {
+    id: 'tham-lang-bo-sao-xau-tuan-triet',
+    title: 'Tham Lang + Tuần / Triệt',
+    sao: ['Tham Lang'],
+    ketHop: ['Tuần', 'Triệt'],
+    doUuTien: 45,
+    tomTat: `**Tham Lang + Tuần / Triệt:** có khả năng **tiết giảm** hoặc **biến
+đổi tính chất** của sao.
+
+✅ **Gặp Triệt:** thường giúp đương số **biết kiềm chế**.
+
+⚠️ **Gặp Tuần:** dễ sinh **khoác lác**, **nói nhiều làm ít**.`,
+  },
+
+  {
+    id: 'tham-lang-bo-sao-xau-hoa-ky',
+    title: 'Tham Lang + Hóa Kỵ',
+    sao: ['Tham Lang'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Tham Lang + Hóa Kỵ:** làm tăng tính **ghen tuông, đố kỵ**, dễ
+vì **tình hoặc tiền** mà sinh **tranh chấp, oán hận**.`,
   },
 
   // ============================================================
@@ -770,16 +821,14 @@ Tham Lang ở cung Tài chủ về người:
   // ============================================================
   {
     id: 'tham-lang-tai-phu-mau',
-    title: 'Tham Lang tại Phụ Mẫu',
+    title: 'Tham Lang tại Phụ Mẫu (đặc tính chung)',
     sao: ['Tham Lang'],
     cung: ['Phụ Mẫu'],
     doUuTien: 80,
     tomTat: `**Tham Lang tại Phụ Mẫu:**
 
 ✅ **Miếu / Vượng:** cha mẹ **sống thọ, sức khỏe tốt**.
-⚠️ **Hãm địa:** hôn nhân cha mẹ **không bền chặt, dễ ly biệt**.
-
-✅ **+ Linh Tinh + Hỏa Tinh + Không Kiếp Đắc địa:** cha mẹ **giàu có, an nhàn**.`,
+⚠️ **Hãm địa:** hôn nhân cha mẹ **không bền chặt, dễ ly biệt**.`,
 
     chiTiet: `## Theo vị trí
 
@@ -795,6 +844,17 @@ Tham Lang ở cung Tài chủ về người:
 
 **+ Linh Tinh + Hỏa Tinh + Không Kiếp đồng hội ở vị trí Đắc địa:**
 - Cha mẹ **giàu có, an nhàn**`,
+  },
+
+  {
+    id: 'tham-lang-tai-phu-mau-linh-hoa-khong-kiep',
+    title: 'Tham Lang tại Phụ Mẫu + Linh Tinh + Hỏa Tinh + Không Kiếp (đắc)',
+    sao: ['Tham Lang'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Linh Tinh', 'Hỏa Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `✅ **Tham Lang tại Phụ Mẫu + Linh Tinh + Hỏa Tinh + Không Kiếp đồng
+hội ở vị trí Đắc địa:** cha mẹ **giàu có, an nhàn**.`,
   },
 
   // ============================================================
@@ -850,16 +910,12 @@ Hơn nữa, dù là **nam mệnh hay nữ mệnh**, nếu **ly hôn rồi tái h
   // ============================================================
   {
     id: 'tham-lang-tai-tu-tuc',
-    title: 'Tham Lang tại Tử Tức',
+    title: 'Tham Lang tại Tử Tức (đặc tính chung)',
     sao: ['Tham Lang'],
     cung: ['Tử Tức'],
     doUuTien: 80,
-    tomTat: `**Tham Lang tại Tử Tức:**
-
-✅ **+ Cát tinh:** cha con **hòa hợp**, con cái **tài hoa, ngoan ngoãn**.
-
-⚠️ **+ Sát / Kỵ:** cha con **bất hòa**, con cái **xa cha mẹ**, hay **ham
-vui** → cuộc đời gian truân, vất vả.`,
+    tomTat: `**Tham Lang tại Tử Tức:** quan hệ cha con phụ thuộc lớn vào các sao
+đi kèm — gặp cát tinh thì hòa hợp, gặp sát/kỵ thì bất hòa.`,
 
     chiTiet: `## ✅ Gặp cát tinh
 
@@ -871,6 +927,28 @@ vui** → cuộc đời gian truân, vất vả.`,
 - Chủ về **cha con bất hòa**
 - Con cái **xa cha mẹ**
 - Hay **ham vui** khiến cuộc đời **gian truân, vất vả**`,
+  },
+
+  {
+    id: 'tham-lang-tai-tu-tuc-cat-tinh',
+    title: 'Tham Lang tại Tử Tức + Cát tinh',
+    sao: ['Tham Lang'],
+    cung: ['Tử Tức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `✅ **Tham Lang tại Tử Tức + Cát tinh:** chủ về **cha con hòa hợp**,
+con cái **tài hoa, ngoan ngoãn**.`,
+  },
+
+  {
+    id: 'tham-lang-tai-tu-tuc-sat-ky',
+    title: 'Tham Lang tại Tử Tức + Sát / Kỵ',
+    sao: ['Tham Lang'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tham Lang tại Tử Tức + Sát / Kỵ:** chủ về **cha con bất hòa**,
+con cái **xa cha mẹ**, hay **ham vui** khiến cuộc đời **gian truân, vất vả**.`,
   },
 
   // ============================================================

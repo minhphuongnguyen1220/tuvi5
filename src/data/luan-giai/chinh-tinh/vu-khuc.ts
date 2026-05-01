@@ -187,17 +187,34 @@ mỏng** thì hôn nhân vẫn ấm êm.
   // ============================================================
   {
     id: 'vu-khuc-tai-menh-phuc-tho',
-    title: 'Vũ Khúc tại Mệnh - Phúc thọ & tai họa',
+    title: 'Vũ Khúc tại Mệnh - Phúc thọ & tai họa (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Mệnh'],
     doUuTien: 75,
     tomTat: `**Vũ Khúc cư Mệnh** chủ yếu mang **tính cô độc** — dù nam hay nữ đều
-**trắc trở, lận đận tình duyên**, ít hạnh phúc gia đình.
+**trắc trở, lận đận tình duyên**, ít hạnh phúc gia đình.`,
+  },
 
-**+ Sao Hóa Lộc / Lộc Tồn / Khôi Việt / Ân Quang:** đem nhiều **may mắn**.
+  {
+    id: 'vu-khuc-tai-menh-phuc-tho-cat-tinh',
+    title: 'Vũ Khúc + Hóa Lộc / Lộc Tồn / Khôi Việt / Ân Quang tại Mệnh',
+    sao: ['Vũ Khúc'],
+    cung: ['Mệnh'],
+    ketHop: ['Hóa Lộc', 'Lộc Tồn', 'Thiên Khôi', 'Thiên Việt', 'Ân Quang'],
+    doUuTien: 70,
+    tomTat: `✅ **Vũ Khúc + Hóa Lộc / Lộc Tồn / Khôi Việt / Ân Quang tại Mệnh:**
+đem nhiều **may mắn**.`,
+  },
 
-⚠️ **+ Sát tinh đồng cung** (Kình Đà, Hỏa Linh, Không Kiếp): cẩn trọng **vận
-hạn về tiền**, dễ vướng rắc rối / khó khăn công việc.`,
+  {
+    id: 'vu-khuc-tai-menh-phuc-tho-sat-tinh',
+    title: 'Vũ Khúc + Sát tinh đồng cung tại Mệnh',
+    sao: ['Vũ Khúc'],
+    cung: ['Mệnh'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Vũ Khúc + Sát tinh đồng cung** (Kình Đà, Hỏa Linh, Không Kiếp)
+**tại Mệnh:** cẩn trọng **vận hạn về tiền**, dễ vướng rắc rối / khó khăn công việc.`,
   },
 
   // ============================================================
@@ -205,21 +222,81 @@ hạn về tiền**, dễ vướng rắc rối / khó khăn công việc.`,
   // ============================================================
   {
     id: 'vu-khuc-bo-sao-tot',
-    title: 'Vũ Khúc - Bộ sao TỐT',
+    title: 'Vũ Khúc - Bộ sao TỐT (đặc tính chung)',
     sao: ['Vũ Khúc'],
     doUuTien: 50,
-    tomTat: `**Bộ sao tốt của Vũ Khúc:**
+    tomTat: `**Bộ sao tốt của Vũ Khúc:** kết hợp với Văn Khúc, Lộc Tồn, Thiên Mã,
+Hóa Quyền, Thiên Phủ + Tử Tướng, hoặc Tấu Thư + Đào Hồng đều tạo cách cục đẹp.
 
-- **+ Văn Khúc đắc địa:** thông minh học rộng, **bán văn bán võ** — võ nghiệp
-  ở văn phòng, tham mưu, thiết kế
-- **+ Lộc Tồn + Thiên Mã:** **lập nghiệp xa quê**, rất thịnh vượng (ở Dần thì sự
-  nghiệp **rất lớn ở tha hương**)
-- **+ Lộc Tồn + Hóa Quyền** ở Dần / Thân: **HẾT SỨC GIÀU CÓ**
-- **+ Hóa Quyền (nữ mệnh):** **khôn ngoan tần tảo**, **gây dựng sự nghiệp cho
-  chồng**, chồng phải nể sợ
-- **+ Thiên Phủ + Tử Tướng:** **phú quý và thọ**
-- **+ Tấu Thư + Đào Hồng + Thiên Hỷ:** **ca sĩ, kịch sĩ giỏi; thợ may khéo**
-- **+ Thiên Hình + Thiên Riêu + Tấu Thư:** **thợ mộc giỏi**`,
+Xem từng tổ hợp cụ thể trong các luận giải riêng.`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-tot-van-khuc',
+    title: 'Vũ Khúc + Văn Khúc đắc địa',
+    sao: ['Vũ Khúc'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 45,
+    tomTat: `✅ **Vũ Khúc + Văn Khúc đắc địa:** thông minh học rộng, **bán văn bán
+võ** — võ nghiệp ở văn phòng, tham mưu, thiết kế.`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-tot-loc-ton-thien-ma',
+    title: 'Vũ Khúc + Lộc Tồn + Thiên Mã',
+    sao: ['Vũ Khúc'],
+    ketHop: ['Lộc Tồn', 'Thiên Mã'],
+    doUuTien: 45,
+    tomTat: `✅ **Vũ Khúc + Lộc Tồn + Thiên Mã:** **lập nghiệp xa quê**, rất thịnh
+vượng (ở Dần thì sự nghiệp **rất lớn ở tha hương**).`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-tot-loc-ton-hoa-quyen-dan-than',
+    title: 'Vũ Khúc + Lộc Tồn + Hóa Quyền ở Dần / Thân',
+    sao: ['Vũ Khúc'],
+    chi: ['Dần', 'Thân'],
+    ketHop: ['Lộc Tồn', 'Hóa Quyền'],
+    doUuTien: 45,
+    tomTat: `✅ **Vũ Khúc + Lộc Tồn + Hóa Quyền ở Dần / Thân:** **HẾT SỨC GIÀU CÓ**.`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-tot-hoa-quyen-nu-menh',
+    title: 'Vũ Khúc + Hóa Quyền (nữ mệnh)',
+    sao: ['Vũ Khúc'],
+    ketHop: ['Hóa Quyền'],
+    doUuTien: 45,
+    tomTat: `✅ **Vũ Khúc + Hóa Quyền (nữ mệnh):** **khôn ngoan tần tảo**, **gây
+dựng sự nghiệp cho chồng**, chồng phải nể sợ.`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-tot-thien-phu-tu-tuong',
+    title: 'Vũ Khúc + Thiên Phủ + Tử Tướng',
+    sao: ['Vũ Khúc'],
+    ketHop: ['Thiên Phủ', 'Tử Vi', 'Thiên Tướng'],
+    doUuTien: 45,
+    tomTat: `✅ **Vũ Khúc + Thiên Phủ + Tử Vi / Thiên Tướng:** **phú quý và thọ**.`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-tot-tau-thu-dao-hong-thien-hy',
+    title: 'Vũ Khúc + Tấu Thư + Đào Hồng + Thiên Hỷ',
+    sao: ['Vũ Khúc'],
+    ketHop: ['Tấu Thư', 'Đào Hoa', 'Hồng Loan', 'Thiên Hỷ'],
+    doUuTien: 45,
+    tomTat: `✅ **Vũ Khúc + Tấu Thư + Đào Hoa + Hồng Loan + Thiên Hỷ:** **ca sĩ,
+kịch sĩ giỏi; thợ may khéo**.`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-tot-thien-hinh-thien-rieu-tau-thu',
+    title: 'Vũ Khúc + Thiên Hình + Thiên Riêu + Tấu Thư',
+    sao: ['Vũ Khúc'],
+    ketHop: ['Thiên Hình', 'Thiên Riêu', 'Tấu Thư'],
+    doUuTien: 45,
+    tomTat: `✅ **Vũ Khúc + Thiên Hình + Thiên Riêu + Tấu Thư:** **thợ mộc giỏi**.`,
   },
 
   // ============================================================
@@ -227,20 +304,57 @@ hạn về tiền**, dễ vướng rắc rối / khó khăn công việc.`,
   // ============================================================
   {
     id: 'vu-khuc-bo-sao-xau',
-    title: 'Vũ Khúc - Bộ sao XẤU',
+    title: 'Vũ Khúc - Bộ sao XẤU (đặc tính chung)',
     sao: ['Vũ Khúc'],
     doUuTien: 50,
-    tomTat: `⚠️ **Bộ sao xấu của Vũ Khúc:**
+    tomTat: `⚠️ **Bộ sao xấu của Vũ Khúc:** đặc biệt cẩn trọng các tổ hợp với Phá
+Quân, Thất Sát + Liêm Trinh, Kình Đà, Kiếp Sát, hoặc Hóa Kỵ.
 
-- **+ Phá Quân ở Tỵ / Hợi:** tham lận, **bất lương**, lập nghiệp xa, suốt đời
-  vất vả lao khổ — **không giữ được nghiệp tổ**, phá tán đến hết
-- **+ Thất Sát + Phá Quân + Liêm Trinh** ở Mão: **tai nạn điện lửa, sấm sét, bệnh
-  thần kinh, cô đơn, bần hàn**
-- **+ Kình Dương + Đà La + Phá Quân:** **bị khốn hại vì tiền**
-- **Vũ Khúc HÃM + Kiếp Sát đồng cung + Kình Dương chiếu:** **rất gian ác bất
-  lương, giết người không gớm tay, khát máu**
-- **+ Hóa Kỵ:** sự nghiệp đầu tư kinh thương lận đận → **không hợp kinh doanh**,
-  chỉ nên theo công nghiệp / kỹ thuật / võ nghiệp`,
+**Vũ Khúc HÃM + Kiếp Sát đồng cung + Kình Dương chiếu:** **rất gian ác bất lương,
+giết người không gớm tay, khát máu**.
+
+Xem các tổ hợp cụ thể trong các luận giải riêng.`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-xau-pha-quan-ty-hoi',
+    title: 'Vũ Khúc + Phá Quân ở Tỵ / Hợi',
+    sao: ['Vũ Khúc'],
+    chi: ['Tỵ', 'Hợi'],
+    ketHop: ['Phá Quân'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Vũ Khúc + Phá Quân ở Tỵ / Hợi:** tham lận, **bất lương**, lập
+nghiệp xa, suốt đời vất vả lao khổ — **không giữ được nghiệp tổ**, phá tán đến hết.`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-xau-sat-pha-liem-mao',
+    title: 'Vũ Khúc + Thất Sát + Phá Quân + Liêm Trinh ở Mão',
+    sao: ['Vũ Khúc'],
+    chi: ['Mão'],
+    ketHop: ['Thất Sát', 'Phá Quân', 'Liêm Trinh'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Vũ Khúc + Thất Sát + Phá Quân + Liêm Trinh ở Mão:** **tai nạn
+điện lửa, sấm sét, bệnh thần kinh, cô đơn, bần hàn**.`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-xau-kinh-da-pha-quan',
+    title: 'Vũ Khúc + Kình Dương + Đà La + Phá Quân',
+    sao: ['Vũ Khúc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Phá Quân'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Vũ Khúc + Kình Dương + Đà La + Phá Quân:** **bị khốn hại vì tiền**.`,
+  },
+
+  {
+    id: 'vu-khuc-bo-sao-xau-hoa-ky',
+    title: 'Vũ Khúc + Hóa Kỵ',
+    sao: ['Vũ Khúc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Vũ Khúc + Hóa Kỵ:** sự nghiệp đầu tư kinh thương lận đận → **không
+hợp kinh doanh**, chỉ nên theo công nghiệp / kỹ thuật / võ nghiệp.`,
   },
 
   // ============================================================
@@ -382,7 +496,7 @@ Cơ nghiệp tiền nhân để lại **rất lớn lao**, càng về sau càng 
   // ============================================================
   {
     id: 'vu-khuc-tai-phu-mau',
-    title: 'Vũ Khúc tại Phụ Mẫu',
+    title: 'Vũ Khúc tại Phụ Mẫu (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Phụ Mẫu'],
     doUuTien: 78,
@@ -390,10 +504,29 @@ Cơ nghiệp tiền nhân để lại **rất lớn lao**, càng về sau càng 
 **điều kiện kinh tế khá giả**.
 
 ⚠️ Vì là **sao hình khắc** — tình cảm cha mẹ - con cái **không nồng ấm**, ít
-gần gũi.
+gần gũi.`,
+  },
 
-⚠️ **+ Phá Quân:** cha mẹ **bất hòa**, thọ duyên không bền, thọ mệnh không cao.
-⚠️ **+ Cô Quả / Đẩu Quân / Thiên Hình:** cha mẹ **khó sống với nhau đến già**.`,
+  {
+    id: 'vu-khuc-tai-phu-mau-pha-quan',
+    title: 'Vũ Khúc + Phá Quân tại Phụ Mẫu',
+    sao: ['Vũ Khúc'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Phá Quân'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Vũ Khúc + Phá Quân tại Phụ Mẫu:** cha mẹ **bất hòa**, thọ duyên
+không bền, thọ mệnh không cao.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-phu-mau-co-qua-dau-quan-thien-hinh',
+    title: 'Vũ Khúc + Cô Quả / Đẩu Quân / Thiên Hình tại Phụ Mẫu',
+    sao: ['Vũ Khúc'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Cô Thần', 'Quả Tú', 'Đẩu Quân', 'Thiên Hình'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Vũ Khúc + Cô Thần / Quả Tú / Đẩu Quân / Thiên Hình tại Phụ Mẫu:**
+cha mẹ **khó sống với nhau đến già**.`,
   },
 
   // ============================================================
@@ -422,7 +555,7 @@ Mồ mả tổ tiên thường ở **xa, riêng lẻ**, ít được con cháu q
   // ============================================================
   {
     id: 'vu-khuc-tai-dien-trach',
-    title: 'Vũ Khúc tại Điền Trạch - Vị trí ĐẮC ĐỊA NHẤT',
+    title: 'Vũ Khúc tại Điền Trạch - Vị trí ĐẮC ĐỊA NHẤT (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Điền Trạch'],
     doUuTien: 88,
@@ -440,18 +573,55 @@ Chủ mệnh **lắm đất nhiều nhà**, có khả năng **tích tụ điền
 ⚠️ Dễ bị ảnh hưởng **phong thủy**, đặc biệt khi **+ Hóa Kỵ**.
 ⚠️ Vì tính cô độc → nhà cửa **ít người, không khí lạnh lẽo**.`,
 
-    chiTiet: `## Theo cách cục đồng cung
+    chiTiet: `## Đơn thủ Thìn / Tuất
 
-- **+ Thiên Phủ:** giữ gìn được tổ nghiệp, nếu không hưởng điền sản thì cũng
-  thừa hưởng **nghề nghiệp của cha mẹ, dòng họ**. Về sau làm nên sự nghiệp nhà đất.
-- **+ Tham Lang:** có nhà đất tổ tiên, nhưng phải **tự tay tạo dựng** mới lớn
-  lao. **Càng lớn tuổi càng nhiều nhà cửa**.
-- **+ Thiên Tướng:** nhà đất ban đầu **mua vào bán ra thất thường**, càng lớn
-  tuổi càng nhiều.
-- **+ Thất Sát:** **không / có rất ít điền sản**, hoặc nhà tổ tiên do hoàn cảnh
-  phải bỏ. **Về già mới có nơi ăn chốn ở chắc chắn**.
-- **Đơn thủ Thìn / Tuất:** cơ nghiệp tổ tiên **rất lớn lao**, càng về sau càng
-  thịnh vượng.`,
+Cơ nghiệp tổ tiên **rất lớn lao**, càng về sau càng thịnh vượng.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-dien-trach-thien-phu',
+    title: 'Vũ Khúc + Thiên Phủ tại Điền Trạch',
+    sao: ['Vũ Khúc'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 83,
+    tomTat: `✅ **Vũ Khúc + Thiên Phủ tại Điền Trạch:** giữ gìn được tổ nghiệp, nếu
+không hưởng điền sản thì cũng thừa hưởng **nghề nghiệp của cha mẹ, dòng họ**. Về
+sau làm nên sự nghiệp nhà đất.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-dien-trach-tham-lang',
+    title: 'Vũ Khúc + Tham Lang tại Điền Trạch',
+    sao: ['Vũ Khúc'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tham Lang'],
+    doUuTien: 83,
+    tomTat: `✅ **Vũ Khúc + Tham Lang tại Điền Trạch:** có nhà đất tổ tiên, nhưng
+phải **tự tay tạo dựng** mới lớn lao. **Càng lớn tuổi càng nhiều nhà cửa**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-dien-trach-thien-tuong',
+    title: 'Vũ Khúc + Thiên Tướng tại Điền Trạch',
+    sao: ['Vũ Khúc'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Tướng'],
+    doUuTien: 83,
+    tomTat: `**Vũ Khúc + Thiên Tướng tại Điền Trạch:** nhà đất ban đầu **mua vào
+bán ra thất thường**, càng lớn tuổi càng nhiều.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-dien-trach-that-sat',
+    title: 'Vũ Khúc + Thất Sát tại Điền Trạch',
+    sao: ['Vũ Khúc'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thất Sát'],
+    doUuTien: 83,
+    tomTat: `⚠️ **Vũ Khúc + Thất Sát tại Điền Trạch:** **không / có rất ít điền
+sản**, hoặc nhà tổ tiên do hoàn cảnh phải bỏ. **Về già mới có nơi ăn chốn ở chắc
+chắn**.`,
   },
 
   // ============================================================
@@ -459,7 +629,7 @@ Chủ mệnh **lắm đất nhiều nhà**, có khả năng **tích tụ điền
   // ============================================================
   {
     id: 'vu-khuc-tai-quan-loc',
-    title: 'Vũ Khúc tại Quan Lộc',
+    title: 'Vũ Khúc tại Quan Lộc (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Quan Lộc'],
     doUuTien: 85,
@@ -470,25 +640,97 @@ vô cùng hiển đạt**.
 
 **2 lĩnh vực chính:**
 1. **Kinh doanh, tài chính, vận tải, vàng bạc, khoa học kỹ thuật** (Kim)
-2. **Quân đội, công an, cảnh sát, pháp luật** (cần quyền uy + kỷ luật)
+2. **Quân đội, công an, cảnh sát, pháp luật** (cần quyền uy + kỷ luật)`,
+  },
 
-**+ Lộc Tồn / Hóa Lộc / Hóa Quyền:** sự nghiệp **hiển đạt, địa vị cao**.
+  {
+    id: 'vu-khuc-tai-quan-loc-loc-quyen',
+    title: 'Vũ Khúc + Lộc Tồn / Hóa Lộc / Hóa Quyền tại Quan Lộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Lộc Tồn', 'Hóa Lộc', 'Hóa Quyền'],
+    doUuTien: 80,
+    tomTat: `✅ **Vũ Khúc + Lộc Tồn / Hóa Lộc / Hóa Quyền tại Quan Lộc:** sự nghiệp
+**hiển đạt, địa vị cao**.`,
+  },
 
-⚠️ **+ Hỏa / Linh:** **mất chức / thất nghiệp ít nhất 1 lần**.
-⚠️ **+ Hóa Kỵ:** không hợp kinh doanh / đầu tư tài chính → chỉ nên **công
-nghiệp / kỹ thuật / võ nghiệp**.`,
+  {
+    id: 'vu-khuc-tai-quan-loc-hoa-linh',
+    title: 'Vũ Khúc + Hỏa / Linh tại Quan Lộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Vũ Khúc + Hỏa Tinh / Linh Tinh tại Quan Lộc:** **mất chức / thất
+nghiệp ít nhất 1 lần**.`,
+  },
 
-    chiTiet: `## Theo cách cục đồng cung
+  {
+    id: 'vu-khuc-tai-quan-loc-hoa-ky',
+    title: 'Vũ Khúc + Hóa Kỵ tại Quan Lộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Vũ Khúc + Hóa Kỵ tại Quan Lộc:** không hợp kinh doanh / đầu tư
+tài chính → chỉ nên **công nghiệp / kỹ thuật / võ nghiệp**.`,
+  },
 
-- **+ Thiên Phủ:** đường công danh **dễ toại nguyện**, tài hoa, hoặc **buôn bán
-  / kinh doanh / công kỹ nghệ / pha chế chế biến** đều phát tài.
-- **+ Thiên Tướng:** **quan trường hay thương nghiệp đều đắc lợi**.
-- **+ Thất Sát:** **thành công trong công danh sự nghiệp** nhưng **phải đi xa**
-  mới tốt. Tuổi trẻ lên xuống thất thường. Hợp **quân sự, kỹ thuật, công kỹ
-  nghệ, thầu khoán, xây dựng, địa ốc**.
-- **+ Phá Quân:** **đi vào quan chức không tốt** bằng làm ăn mua bán.
-- **+ Tham Lang:** rất hợp **nghề kinh doanh, thợ khéo, công kỹ nghệ**, có **tinh
-  thần nghệ sĩ** — nhưng phải **sau 30 tuổi**.`,
+  {
+    id: 'vu-khuc-tai-quan-loc-thien-phu',
+    title: 'Vũ Khúc + Thiên Phủ tại Quan Lộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 80,
+    tomTat: `✅ **Vũ Khúc + Thiên Phủ tại Quan Lộc:** đường công danh **dễ toại
+nguyện**, tài hoa, hoặc **buôn bán / kinh doanh / công kỹ nghệ / pha chế chế biến**
+đều phát tài.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-quan-loc-thien-tuong',
+    title: 'Vũ Khúc + Thiên Tướng tại Quan Lộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Tướng'],
+    doUuTien: 80,
+    tomTat: `✅ **Vũ Khúc + Thiên Tướng tại Quan Lộc:** **quan trường hay thương
+nghiệp đều đắc lợi**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-quan-loc-that-sat',
+    title: 'Vũ Khúc + Thất Sát tại Quan Lộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thất Sát'],
+    doUuTien: 80,
+    tomTat: `**Vũ Khúc + Thất Sát tại Quan Lộc:** **thành công trong công danh sự
+nghiệp** nhưng **phải đi xa** mới tốt. Tuổi trẻ lên xuống thất thường. Hợp **quân
+sự, kỹ thuật, công kỹ nghệ, thầu khoán, xây dựng, địa ốc**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-quan-loc-pha-quan',
+    title: 'Vũ Khúc + Phá Quân tại Quan Lộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Phá Quân'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Vũ Khúc + Phá Quân tại Quan Lộc:** **đi vào quan chức không tốt**
+bằng làm ăn mua bán.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-quan-loc-tham-lang',
+    title: 'Vũ Khúc + Tham Lang tại Quan Lộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Tham Lang'],
+    doUuTien: 80,
+    tomTat: `✅ **Vũ Khúc + Tham Lang tại Quan Lộc:** rất hợp **nghề kinh doanh,
+thợ khéo, công kỹ nghệ**, có **tinh thần nghệ sĩ** — nhưng phải **sau 30 tuổi**.`,
   },
 
   // ============================================================
@@ -496,19 +738,57 @@ nghiệp / kỹ thuật / võ nghiệp**.`,
   // ============================================================
   {
     id: 'vu-khuc-tai-no-boc',
-    title: 'Vũ Khúc tại Nô Bộc',
+    title: 'Vũ Khúc tại Nô Bộc (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
     tomTat: `**Vũ Khúc tại Nô Bộc** — vị trí **chưa đẹp** vì Vũ Khúc là **Cô Thần**.
 
-- **Tý, Ngọ:** nhiều **bạn bè tài giỏi**, được hỗ trợ
-- **+ Tham Lang:** phần nhiều là **bạn xã giao**, không giúp đỡ được nhau
-- **+ Hóa Lộc + Tả Hữu:** có **thực quyền**, được kính trọng — nếu thiếu Tả Hữu
-  thì phải **bôn ba tự lực**
-- **+ Thất Sát / Phá Quân / Sát tinh:** dễ **bị bạn bè phản bội, lợi dụng tiền
-  bạc**, "làm ơn mắc oán"
-- **+ Thiên Phủ:** nhiều **bạn bè tốt, có quyền thế**, nhận nhiều giúp đỡ`,
+- **Tý, Ngọ:** nhiều **bạn bè tài giỏi**, được hỗ trợ`,
+  },
+
+  {
+    id: 'vu-khuc-tai-no-boc-tham-lang',
+    title: 'Vũ Khúc + Tham Lang tại Nô Bộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tham Lang'],
+    doUuTien: 70,
+    tomTat: `**Vũ Khúc + Tham Lang tại Nô Bộc:** phần nhiều là **bạn xã giao**,
+không giúp đỡ được nhau.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-no-boc-hoa-loc-ta-huu',
+    title: 'Vũ Khúc + Hóa Lộc + Tả Hữu tại Nô Bộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hóa Lộc', 'Tả Phù', 'Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `✅ **Vũ Khúc + Hóa Lộc + Tả Phù / Hữu Bật tại Nô Bộc:** có **thực
+quyền**, được kính trọng — nếu thiếu Tả Hữu thì phải **bôn ba tự lực**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-no-boc-sat-pha-sat-tinh',
+    title: 'Vũ Khúc + Thất Sát / Phá Quân / Sát tinh tại Nô Bộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thất Sát', 'Phá Quân', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Vũ Khúc + Thất Sát / Phá Quân / Sát tinh tại Nô Bộc:** dễ **bị
+bạn bè phản bội, lợi dụng tiền bạc**, "làm ơn mắc oán".`,
+  },
+
+  {
+    id: 'vu-khuc-tai-no-boc-thien-phu',
+    title: 'Vũ Khúc + Thiên Phủ tại Nô Bộc',
+    sao: ['Vũ Khúc'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 70,
+    tomTat: `✅ **Vũ Khúc + Thiên Phủ tại Nô Bộc:** nhiều **bạn bè tốt, có quyền
+thế**, nhận nhiều giúp đỡ.`,
   },
 
   // ============================================================
@@ -516,7 +796,7 @@ nghiệp / kỹ thuật / võ nghiệp**.`,
   // ============================================================
   {
     id: 'vu-khuc-tai-thien-di',
-    title: 'Vũ Khúc tại Thiên Di',
+    title: 'Vũ Khúc tại Thiên Di (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Thiên Di'],
     doUuTien: 80,
@@ -524,11 +804,51 @@ nghiệp / kỹ thuật / võ nghiệp**.`,
 
 - **Đắc địa + cát tinh + mệnh Thủy/Thổ/Kim:** ra ngoài **buôn bán làm giàu rất
   dễ dàng**
-- **+ Lộc Tồn / Hóa Lộc / Thiên Mã:** việc ra ngoài rất **dễ dàng**, hưởng nhiều phúc lộc
-- **Hãm địa + mệnh khắc:** **tiểu thương**, khó kiếm tiền
-- **+ Thiên Tướng + cát:** được **đề bạt, có quý nhân phù trợ**
-- ⚠️ **+ Hóa Kỵ / Không Kiếp / Kình Đà:** dễ **mất tiền**, gặp thị phi tranh chấp
-- ⚠️ **+ Thất Sát / Phá Quân:** ra ngoài **cô độc, tinh thần bất an**`,
+- **Hãm địa + mệnh khắc:** **tiểu thương**, khó kiếm tiền`,
+  },
+
+  {
+    id: 'vu-khuc-tai-thien-di-loc-ma',
+    title: 'Vũ Khúc + Lộc Tồn / Hóa Lộc / Thiên Mã tại Thiên Di',
+    sao: ['Vũ Khúc'],
+    cung: ['Thiên Di'],
+    ketHop: ['Lộc Tồn', 'Hóa Lộc', 'Thiên Mã'],
+    doUuTien: 75,
+    tomTat: `✅ **Vũ Khúc + Lộc Tồn / Hóa Lộc / Thiên Mã tại Thiên Di:** việc ra
+ngoài rất **dễ dàng**, hưởng nhiều phúc lộc.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-thien-di-thien-tuong-cat',
+    title: 'Vũ Khúc + Thiên Tướng + cát tại Thiên Di',
+    sao: ['Vũ Khúc'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Tướng'],
+    doUuTien: 75,
+    tomTat: `✅ **Vũ Khúc + Thiên Tướng + cát tinh tại Thiên Di:** được **đề bạt,
+có quý nhân phù trợ**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-thien-di-ky-khong-kiep-kinh-da',
+    title: 'Vũ Khúc + Hóa Kỵ / Không Kiếp / Kình Đà tại Thiên Di',
+    sao: ['Vũ Khúc'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Kỵ', 'Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Vũ Khúc + Hóa Kỵ / Địa Không / Địa Kiếp / Kình Dương / Đà La tại
+Thiên Di:** dễ **mất tiền**, gặp thị phi tranh chấp.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-thien-di-sat-pha',
+    title: 'Vũ Khúc + Thất Sát / Phá Quân tại Thiên Di',
+    sao: ['Vũ Khúc'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thất Sát', 'Phá Quân'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Vũ Khúc + Thất Sát / Phá Quân tại Thiên Di:** ra ngoài **cô độc,
+tinh thần bất an**.`,
   },
 
   // ============================================================
@@ -536,7 +856,7 @@ nghiệp / kỹ thuật / võ nghiệp**.`,
   // ============================================================
   {
     id: 'vu-khuc-tai-tat-ach',
-    title: 'Vũ Khúc tại Tật Ách',
+    title: 'Vũ Khúc tại Tật Ách (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Tật Ách'],
     doUuTien: 80,
@@ -546,24 +866,102 @@ tố **Kim** có khí "tiêu sát" → dễ tổn thương.
 - **Mão (đắc địa):** bệnh **thần kinh hoặc khí huyết**
 - **Dậu:** **nội thương khó chữa**
 - **Hợp Mệnh + đắc địa:** khí huyết tốt, mạnh khỏe luôn
-- **Mệnh Mộc / Hỏa:** bệnh nhiều hơn`,
+- **Mệnh Mộc / Hỏa:** bệnh nhiều hơn
+- **Hãm + khắc Mệnh:** hay có bệnh **phong hay trĩ**`,
+  },
 
-    chiTiet: `## Theo cách cục đồng cung
+  {
+    id: 'vu-khuc-tai-tat-ach-thien-tuong',
+    title: 'Vũ Khúc + Thiên Tướng tại Tật Ách',
+    sao: ['Vũ Khúc'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Tướng'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Vũ Khúc + Thiên Tướng tại Tật Ách:** có **ám tật**.`,
+  },
 
-- **+ Thiên Tướng:** có **ám tật**.
-- **+ Tham Lang + Xương Khúc:** nhiều **nốt ruồi**, bệnh **lông tóc**.
-- **+ Thất Sát:** bệnh **bộ máy tiêu hóa**.
-- **+ Long Trì:** có **nốt ruồi đỏ**.
-- **+ Thiên Riêu:** bệnh **tê thấp / phù chân tay**.
-- **+ Thiên Riêu + Thiên Việt + Phá Toái:** **bị câm**.
+  {
+    id: 'vu-khuc-tai-tat-ach-tham-xuong-khuc',
+    title: 'Vũ Khúc + Tham Lang + Xương Khúc tại Tật Ách',
+    sao: ['Vũ Khúc'],
+    cung: ['Tật Ách'],
+    ketHop: ['Tham Lang', 'Văn Xương', 'Văn Khúc'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Vũ Khúc + Tham Lang + Văn Xương / Văn Khúc tại Tật Ách:** nhiều
+**nốt ruồi**, bệnh **lông tóc**.`,
+  },
 
-## Theo sát tinh
+  {
+    id: 'vu-khuc-tai-tat-ach-that-sat',
+    title: 'Vũ Khúc + Thất Sát tại Tật Ách',
+    sao: ['Vũ Khúc'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thất Sát'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Vũ Khúc + Thất Sát tại Tật Ách:** bệnh **bộ máy tiêu hóa**.`,
+  },
 
-- **+ Kình Đà / Thiên Hình:** dễ **phẫu thuật / tổn thương nặng**.
-- **+ Hỏa Tinh / Thiên Mã / Thiên Khốc / Thiên Hư:** thường **chảy máu mũi**.
-- **+ Địa Không / Địa Kiếp:** bệnh **khí quản** (lao, viêm phổi); sát tinh nhẹ
-  chỉ bị **ho**.
-- **Hãm + khắc Mệnh:** hay có bệnh **phong hay trĩ**.`,
+  {
+    id: 'vu-khuc-tai-tat-ach-long-tri',
+    title: 'Vũ Khúc + Long Trì tại Tật Ách',
+    sao: ['Vũ Khúc'],
+    cung: ['Tật Ách'],
+    ketHop: ['Long Trì'],
+    doUuTien: 75,
+    tomTat: `**Vũ Khúc + Long Trì tại Tật Ách:** có **nốt ruồi đỏ**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tat-ach-thien-rieu',
+    title: 'Vũ Khúc + Thiên Riêu tại Tật Ách',
+    sao: ['Vũ Khúc'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Riêu'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Vũ Khúc + Thiên Riêu tại Tật Ách:** bệnh **tê thấp / phù chân tay**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tat-ach-rieu-viet-pha-toai',
+    title: 'Vũ Khúc + Thiên Riêu + Thiên Việt + Phá Toái tại Tật Ách',
+    sao: ['Vũ Khúc'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Riêu', 'Thiên Việt', 'Phá Toái'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Vũ Khúc + Thiên Riêu + Thiên Việt + Phá Toái tại Tật Ách:** **bị câm**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tat-ach-kinh-da-thien-hinh',
+    title: 'Vũ Khúc + Kình Đà / Thiên Hình tại Tật Ách',
+    sao: ['Vũ Khúc'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương', 'Đà La', 'Thiên Hình'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Vũ Khúc + Kình Dương / Đà La / Thiên Hình tại Tật Ách:** dễ
+**phẫu thuật / tổn thương nặng**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tat-ach-hoa-ma-khoc-hu',
+    title: 'Vũ Khúc + Hỏa Tinh / Thiên Mã / Thiên Khốc / Thiên Hư tại Tật Ách',
+    sao: ['Vũ Khúc'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hỏa Tinh', 'Thiên Mã', 'Thiên Khốc', 'Thiên Hư'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Vũ Khúc + Hỏa Tinh / Thiên Mã / Thiên Khốc / Thiên Hư tại Tật
+Ách:** thường **chảy máu mũi**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tat-ach-khong-kiep',
+    title: 'Vũ Khúc + Địa Không / Địa Kiếp tại Tật Ách',
+    sao: ['Vũ Khúc'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Vũ Khúc + Địa Không / Địa Kiếp tại Tật Ách:** bệnh **khí quản**
+(lao, viêm phổi); sát tinh nhẹ chỉ bị **ho**.`,
   },
 
   // ============================================================
@@ -571,7 +969,7 @@ tố **Kim** có khí "tiêu sát" → dễ tổn thương.
   // ============================================================
   {
     id: 'vu-khuc-tai-tai-bach',
-    title: 'Vũ Khúc tại Tài Bạch - Vị trí HỢP VỊ',
+    title: 'Vũ Khúc tại Tài Bạch - Vị trí HỢP VỊ (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Tài Bạch'],
     doUuTien: 88,
@@ -580,17 +978,74 @@ tố **Kim** có khí "tiêu sát" → dễ tổn thương.
 **Miếu / Vượng:** **tiền tài dồi dào**, thuận lợi kiếm tiền, **năng lực quản
 lý tài chính tốt**.
 
-- **+ Hóa Lộc / Lộc Tồn / Tả Hữu:** **đại phú đại quý**
-- **+ Lộc Tồn + Thiên Mã + Hóa Lộc:** cách cục **CỰ PHÚ**, rất giàu có
-- **+ Tử Vi / Thiên Tướng** hội chiếu: thịnh vượng vật chất
-- **+ Tham Lang + Lộc Tồn / Hóa Lộc:** sự nghiệp tiền bạc **phát triển nhanh**
-
 ⚠️ **Sao khắc:** Phá Quân đồng cung; Đại Tiểu Hao, Tuần Triệt, Không Kiếp, Kình
-Đà, Phục Binh, Hóa Kỵ.
+Đà, Phục Binh, Hóa Kỵ.`,
+  },
 
-⚠️ **+ Kình Đà:** **vì tiền mà gặp tai họa, tranh chấp**.
-⚠️ **+ Không Kiếp:** **kiếm tiền bận rộn nhưng khó tích lũy, phá hao nhiều, dễ
-phá sản vì cờ bạc**.`,
+  {
+    id: 'vu-khuc-tai-tai-bach-loc-ta-huu',
+    title: 'Vũ Khúc + Hóa Lộc / Lộc Tồn / Tả Hữu tại Tài Bạch',
+    sao: ['Vũ Khúc'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Lộc', 'Lộc Tồn', 'Tả Phù', 'Hữu Bật'],
+    doUuTien: 83,
+    tomTat: `✅ **Vũ Khúc + Hóa Lộc / Lộc Tồn / Tả Hữu tại Tài Bạch:** **đại phú
+đại quý**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tai-bach-loc-ma-hoa-loc',
+    title: 'Vũ Khúc + Lộc Tồn + Thiên Mã + Hóa Lộc tại Tài Bạch',
+    sao: ['Vũ Khúc'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Lộc Tồn', 'Thiên Mã', 'Hóa Lộc'],
+    doUuTien: 83,
+    tomTat: `✅ **Vũ Khúc + Lộc Tồn + Thiên Mã + Hóa Lộc tại Tài Bạch:** cách cục
+**CỰ PHÚ**, rất giàu có.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tai-bach-tu-vi-thien-tuong',
+    title: 'Vũ Khúc + Tử Vi / Thiên Tướng hội chiếu tại Tài Bạch',
+    sao: ['Vũ Khúc'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Tử Vi', 'Thiên Tướng'],
+    doUuTien: 83,
+    tomTat: `✅ **Vũ Khúc + Tử Vi / Thiên Tướng hội chiếu tại Tài Bạch:** thịnh
+vượng vật chất.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tai-bach-tham-lang-loc',
+    title: 'Vũ Khúc + Tham Lang + Lộc Tồn / Hóa Lộc tại Tài Bạch',
+    sao: ['Vũ Khúc'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Tham Lang', 'Lộc Tồn', 'Hóa Lộc'],
+    doUuTien: 83,
+    tomTat: `✅ **Vũ Khúc + Tham Lang + Lộc Tồn / Hóa Lộc tại Tài Bạch:** sự nghiệp
+tiền bạc **phát triển nhanh**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tai-bach-kinh-da',
+    title: 'Vũ Khúc + Kình Đà tại Tài Bạch',
+    sao: ['Vũ Khúc'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 83,
+    tomTat: `⚠️ **Vũ Khúc + Kình Dương / Đà La tại Tài Bạch:** **vì tiền mà gặp
+tai họa, tranh chấp**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tai-bach-khong-kiep',
+    title: 'Vũ Khúc + Không Kiếp tại Tài Bạch',
+    sao: ['Vũ Khúc'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 83,
+    tomTat: `⚠️ **Vũ Khúc + Địa Không / Địa Kiếp tại Tài Bạch:** **kiếm tiền bận
+rộn nhưng khó tích lũy, phá hao nhiều, dễ phá sản vì cờ bạc**.`,
   },
 
   // ============================================================
@@ -598,18 +1053,47 @@ phá sản vì cờ bạc**.`,
   // ============================================================
   {
     id: 'vu-khuc-tai-tu-tuc',
-    title: 'Vũ Khúc tại Tử Tức',
+    title: 'Vũ Khúc tại Tử Tức (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Tử Tức'],
     doUuTien: 78,
     tomTat: `⚠️ **Vũ Khúc KHÔNG thích cung Tử Tức** — chủ về **hiếm muộn, ít con**.
 
 - **Đẻ con gái tốt hơn con trai** → nên đẻ con gái trước
-- Con cái **mạnh mẽ, cương cường, không hợp tính cha mẹ**
-- **+ Cát tinh:** chỉ giúp **đông con hơn**, không cải thiện địa vị / may mắn
-- **+ Tham Lang / Thất Sát:** **khó có con / sinh con muộn**; Thất Sát thì con
-  **chơi bời phá tán** hoặc **khắc khẩu cha mẹ**
-- **+ Thiên Phủ:** con cái **thông minh ngoan ngoãn**, chủ **2 con**`,
+- Con cái **mạnh mẽ, cương cường, không hợp tính cha mẹ**`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tu-tuc-cat-tinh',
+    title: 'Vũ Khúc + Cát tinh tại Tử Tức',
+    sao: ['Vũ Khúc'],
+    cung: ['Tử Tức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `**Vũ Khúc + Cát tinh tại Tử Tức:** chỉ giúp **đông con hơn**, không
+cải thiện địa vị / may mắn.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tu-tuc-tham-sat',
+    title: 'Vũ Khúc + Tham Lang / Thất Sát tại Tử Tức',
+    sao: ['Vũ Khúc'],
+    cung: ['Tử Tức'],
+    ketHop: ['Tham Lang', 'Thất Sát'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Vũ Khúc + Tham Lang / Thất Sát tại Tử Tức:** **khó có con / sinh
+con muộn**; **Thất Sát** thì con **chơi bời phá tán** hoặc **khắc khẩu cha mẹ**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-tu-tuc-thien-phu',
+    title: 'Vũ Khúc + Thiên Phủ tại Tử Tức',
+    sao: ['Vũ Khúc'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 73,
+    tomTat: `✅ **Vũ Khúc + Thiên Phủ tại Tử Tức:** con cái **thông minh ngoan
+ngoãn**, chủ **2 con**.`,
   },
 
   // ============================================================
@@ -617,7 +1101,7 @@ phá sản vì cờ bạc**.`,
   // ============================================================
   {
     id: 'vu-khuc-tai-phu-the',
-    title: '⚠️ Vũ Khúc tại Phu Thê - Vị trí BẤT LỢI NHẤT',
+    title: '⚠️ Vũ Khúc tại Phu Thê - Vị trí BẤT LỢI NHẤT (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Phu Thê'],
     doUuTien: 85,
@@ -625,8 +1109,6 @@ phá sản vì cờ bạc**.`,
 **hình khắc, cô đơn**, dễ chia ly hoặc hôn nhân thiếu bền vững.
 
 - Cần **NHIỀU cát tinh** thì hôn nhân mới tốt đẹp
-- **+ Hóa Lộc:** **vợ tài giỏi hơn chồng**
-- **+ Phá Quân:** vợ chồng đều tài giỏi nhưng **xung khắc lớn**, dễ xa cách / **nhiều lần đò**
 - **Vũ Phủ Tý/Ngọ + Hóa Kỵ:** nữ **hôn nhân đứt đoạn**, nam **vợ chồng sinh ly**
 - **Vũ Tham Sửu/Mùi + Hóa Kỵ:** **bạn đời phá gia, hao tài**; thêm văn / đào
   hoa → **bạn đời thay lòng đổi dạ**, có người thứ 3
@@ -636,23 +1118,83 @@ phá sản vì cờ bạc**.`,
 → **Lời khuyên: KẾT HÔN MUỘN** để có sự chín chắn, giảm hình khắc.`,
   },
 
+  {
+    id: 'vu-khuc-tai-phu-the-hoa-loc',
+    title: 'Vũ Khúc + Hóa Lộc tại Phu Thê',
+    sao: ['Vũ Khúc'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 80,
+    tomTat: `**Vũ Khúc + Hóa Lộc tại Phu Thê:** **vợ tài giỏi hơn chồng**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-phu-the-pha-quan',
+    title: 'Vũ Khúc + Phá Quân tại Phu Thê',
+    sao: ['Vũ Khúc'],
+    cung: ['Phu Thê'],
+    ketHop: ['Phá Quân'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Vũ Khúc + Phá Quân tại Phu Thê:** vợ chồng đều tài giỏi nhưng
+**xung khắc lớn**, dễ xa cách / **nhiều lần đò**.`,
+  },
+
   // ============================================================
   // 26. Vũ Khúc ở Huynh Đệ
   // ============================================================
   {
     id: 'vu-khuc-tai-huynh-de',
-    title: 'Vũ Khúc tại Huynh Đệ',
+    title: 'Vũ Khúc tại Huynh Đệ (đặc tính chung)',
     sao: ['Vũ Khúc'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
     tomTat: `**Vũ Khúc tại Huynh Đệ:** **anh chị em ít, không hợp tính nhau**.
 
 - **Thìn / Tuất + cát tinh:** anh em **hòa hợp**, ít trợ giúp nhưng tình cảm gắn bó
-- **+ Sát tinh:** **xích mích do tranh chấp, đoạt quyền**
-- **+ Thiên Phủ / Thiên Tướng:** anh chị em đều **khá giả, có quyền có tài**
-- **+ Phá Quân:** hay **xô xát**
-- **+ Thất Sát:** cần **xa cách nhau** để không khắc khẩu xung đột
 - **Anh em theo võ nghiệp / lực lượng vũ trang / kỹ thuật:** giảm hình khắc`,
+  },
+
+  {
+    id: 'vu-khuc-tai-huynh-de-sat-tinh',
+    title: 'Vũ Khúc + Sát tinh tại Huynh Đệ',
+    sao: ['Vũ Khúc'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Vũ Khúc + Sát tinh tại Huynh Đệ:** **xích mích do tranh chấp,
+đoạt quyền**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-huynh-de-phu-tuong',
+    title: 'Vũ Khúc + Thiên Phủ / Thiên Tướng tại Huynh Đệ',
+    sao: ['Vũ Khúc'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Phủ', 'Thiên Tướng'],
+    doUuTien: 70,
+    tomTat: `✅ **Vũ Khúc + Thiên Phủ / Thiên Tướng tại Huynh Đệ:** anh chị em đều
+**khá giả, có quyền có tài**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-huynh-de-pha-quan',
+    title: 'Vũ Khúc + Phá Quân tại Huynh Đệ',
+    sao: ['Vũ Khúc'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Phá Quân'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Vũ Khúc + Phá Quân tại Huynh Đệ:** hay **xô xát**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-huynh-de-that-sat',
+    title: 'Vũ Khúc + Thất Sát tại Huynh Đệ',
+    sao: ['Vũ Khúc'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thất Sát'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Vũ Khúc + Thất Sát tại Huynh Đệ:** cần **xa cách nhau** để không
+khắc khẩu xung đột.`,
   },
 
   // ============================================================

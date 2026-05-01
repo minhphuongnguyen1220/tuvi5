@@ -97,13 +97,11 @@ tháng**.
   // ============================================================
   {
     id: 'thai-am-bo-sao-tot',
-    title: 'Thái Âm - Các bộ sao tốt',
+    title: 'Thái Âm - Các bộ sao tốt (đặc tính chung)',
     sao: ['Thái Âm'],
     doUuTien: 50,
     tomTat: `**Thái Âm ưa gặp:**
 - **Tam Hóa Lộc Quyền Khoa** — bổ trợ tốt
-- **Lộc Tồn / Hóa Lộc** — tăng vẻ sáng, sinh lực dồi dào không cạn
-- **Hóa Khoa** — nhờ tiền tài mà nổi danh
 - **Lục cát tinh** (Tả Phù, Hữu Bật, Thiên Khôi, Thiên Việt, Văn Xương, Văn Khúc)
   + **Lộc Tồn**
 
@@ -115,14 +113,8 @@ tháng**.
 
     chiTiet: `## Tam Hóa Lộc Quyền Khoa
 
-Thái Âm **ưa gặp Tam Hóa** — bổ trợ tốt cho chính mình.
-
-**+ Lộc Tồn / Hóa Lộc:**
-- **Tăng vẻ sáng**
-- Sở hữu **nguồn sinh lực dồi dào không cạn**
-
-**+ Hóa Khoa:**
-- **Nhờ tiền tài mà được nổi danh**
+Thái Âm **ưa gặp Tam Hóa** — bổ trợ tốt cho chính mình. Chi tiết các tổ
+hợp với Lộc Tồn / Hóa Lộc và Hóa Khoa được tách thành các luận giải riêng.
 
 ## Lục cát tinh + Lộc Tồn
 
@@ -152,6 +144,25 @@ lại thành ra có lợi.
 Thái Âm rơi vào cung **miếu, vượng** mà gặp **Địa Không, Địa Kiếp:**
 - **Bất lợi cho tiền tài**
 - Nhưng **không ảnh hưởng đến khoa danh**`,
+  },
+
+  {
+    id: 'thai-am-bo-sao-tot-loc',
+    title: 'Thái Âm + Lộc Tồn / Hóa Lộc',
+    sao: ['Thái Âm'],
+    ketHop: ['Lộc Tồn', 'Hóa Lộc'],
+    doUuTien: 45,
+    tomTat: `✅ **Thái Âm + Lộc Tồn / Hóa Lộc:** **tăng vẻ sáng**, sở hữu **nguồn
+sinh lực dồi dào không cạn**.`,
+  },
+
+  {
+    id: 'thai-am-bo-sao-tot-hoa-khoa',
+    title: 'Thái Âm + Hóa Khoa',
+    sao: ['Thái Âm'],
+    ketHop: ['Hóa Khoa'],
+    doUuTien: 45,
+    tomTat: `✅ **Thái Âm + Hóa Khoa:** **nhờ tiền tài mà được nổi danh**.`,
   },
 
   // ============================================================

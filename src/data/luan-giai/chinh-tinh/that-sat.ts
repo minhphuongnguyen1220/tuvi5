@@ -134,16 +134,11 @@ Thất Sát thủ Mệnh là người:
   // ============================================================
   {
     id: 'that-sat-bo-sao-tot',
-    title: 'Thất Sát - Bộ sao tốt (chế lục sát)',
+    title: 'Thất Sát - Bộ sao tốt (chế lục sát, đặc tính chung)',
     sao: ['Thất Sát'],
     doUuTien: 50,
     tomTat: `✅ **Thất Sát + Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt**, hoặc
-**chỉ + Tử Vi** thôi cũng có khả năng **CHẾ KHẮC LỤC SÁT**.
-
-**+ Cát tinh:** có thể theo các nghề mang tính **VĂN** — như **luật sư**.
-
-**+ Sát tinh:** có thể chọn nghề **kim loại, công cụ, công thương nghiệp**
-hoặc **nghề dùng tay**.`,
+**chỉ + Tử Vi** thôi cũng có khả năng **CHẾ KHẮC LỤC SÁT**.`,
 
     chiTiet: `## Khả năng chế khắc lục sát
 
@@ -156,16 +151,28 @@ Không Kiếp).
 
 ## Theo loại sao đi cùng
 
-**+ Cát tinh:**
-- Có thể theo các nghề mang tính **văn**
-- Ví dụ: **luật sư**
+Định hướng nghề nghiệp khi Thất Sát đi cùng cát tinh hoặc sát tinh được tách
+thành các luận giải riêng.`,
+  },
 
-**+ Sát tinh:**
-- Có thể chọn nghề:
-  - **Kim loại**
-  - **Công cụ**
-  - **Công thương nghiệp**
-  - Hoặc **nghề dùng tay**`,
+  {
+    id: 'that-sat-bo-sao-tot-cat-tinh',
+    title: 'Thất Sát + Cát tinh',
+    sao: ['Thất Sát'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 45,
+    tomTat: `✅ **Thất Sát + Cát tinh:** có thể theo các nghề mang tính **văn**,
+ví dụ **luật sư**.`,
+  },
+
+  {
+    id: 'that-sat-bo-sao-tot-sat-tinh',
+    title: 'Thất Sát + Sát tinh',
+    sao: ['Thất Sát'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 45,
+    tomTat: `**Thất Sát + Sát tinh:** có thể chọn nghề **kim loại, công cụ, công
+thương nghiệp** hoặc **nghề dùng tay**.`,
   },
 
   // ============================================================
@@ -923,43 +930,16 @@ Tại **Dần** hoặc **Thân**, Thất Sát an Mệnh **miếu địa**:
   // ============================================================
   {
     id: 'that-sat-bo-sao-xau',
-    title: 'Thất Sát - Các bộ sao xấu',
+    title: 'Thất Sát - Các bộ sao xấu (đặc tính chung)',
     sao: ['Thất Sát'],
     doUuTien: 50,
-    tomTat: `⚠️ **Bộ sao xấu với Thất Sát:**
+    tomTat: `⚠️ **Thất Sát có nhiều bộ sao kỵ:** Tứ Sát, Không Kiếp, Hóa Kỵ; và
+đặc biệt **không ưa Văn Xương + Văn Khúc** vì làm giảm dũng khí.`,
 
-⚠️ **+ Kình Dương + Đà La + Hỏa Tinh + Linh Tinh:** trở nên **HUNG BẠO** →
-**TAI HỌA, KIỆN TỤNG, HÌNH THƯƠNG**.
+    chiTiet: `## Các bộ sao xấu thường gặp
 
-⚠️ **+ Địa Không + Địa Kiếp:** **PHÁ TÁN THÀNH QUẢ** → phá sản, phiêu bạt.
-
-⚠️ **+ Hóa Kỵ:** tăng **THỊ PHI, BỆNH TẬT, TAI NẠN**.
-
-⚠️ **Thất Sát KHÔNG ƯA Văn Xương + Văn Khúc** — kết hợp này làm **GIẢM DŨNG
-KHÍ**, mệnh tạo **do dự**, **khó thành đại sự**.`,
-
-    chiTiet: `## Tứ Sát: Kình Đà Hỏa Linh
-
-⚠️ Gặp **Kình Dương + Đà La + Hỏa Tinh + Linh Tinh:**
-- Mệnh Thất Sát trở nên **hung bạo**
-- Dễ gây:
-  - **Tai họa**
-  - **Kiện tụng**
-  - **Hình thương**
-
-## Địa Không + Địa Kiếp
-
-⚠️ + **Địa Không + Địa Kiếp:**
-- **Phá tán thành quả**
-- Gây **phá sản**
-- **Phiêu bạt**
-
-## Hóa Kỵ
-
-⚠️ + **Hóa Kỵ** làm tăng:
-- **Thị phi**
-- **Bệnh tật**
-- **Tai nạn**
+Thất Sát kỵ **Tứ Sát (Kình Đà Hỏa Linh), Không Kiếp** và **Hóa Kỵ**. Các tổ
+hợp cụ thể được tách thành luận giải riêng.
 
 ## ⚠️ Đặc biệt: KHÔNG ưa Văn Xương + Văn Khúc
 
@@ -969,27 +949,46 @@ Thất Sát **không ưa Văn Xương, Văn Khúc** — sự kết hợp này:
 - **Khó thành đại sự**`,
   },
 
+  {
+    id: 'that-sat-bo-sao-xau-kinh-da-hoa-linh',
+    title: 'Thất Sát + Kình Dương + Đà La + Hỏa Tinh + Linh Tinh',
+    sao: ['Thất Sát'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Thất Sát + Kình Dương + Đà La + Hỏa Tinh + Linh Tinh:** mệnh
+Thất Sát trở nên **hung bạo**, dễ gây **tai họa, kiện tụng, hình thương**.`,
+  },
+
+  {
+    id: 'that-sat-bo-sao-xau-khong-kiep',
+    title: 'Thất Sát + Địa Không + Địa Kiếp',
+    sao: ['Thất Sát'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Thất Sát + Địa Không + Địa Kiếp:** **phá tán thành quả**, gây
+**phá sản**, **phiêu bạt**.`,
+  },
+
+  {
+    id: 'that-sat-bo-sao-xau-hoa-ky',
+    title: 'Thất Sát + Hóa Kỵ',
+    sao: ['Thất Sát'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Thất Sát + Hóa Kỵ:** làm tăng **thị phi, bệnh tật, tai nạn**.`,
+  },
+
   // ============================================================
   // 21. Thất Sát - Bộ sao tốt mở rộng (Tử Vi, Thiên Phủ, Tam Hóa)
   // ============================================================
   {
     id: 'that-sat-bo-sao-tot-mo-rong',
-    title: 'Thất Sát - Bộ sao tốt mở rộng (Tử-Phủ, Tam Hóa)',
+    title: 'Thất Sát - Bộ sao tốt mở rộng (Tử-Phủ, Tam Hóa, đặc tính chung)',
     sao: ['Thất Sát'],
     doUuTien: 50,
-    tomTat: `**Bộ sao tốt mở rộng với Thất Sát:**
-
-✅ **+ Tử Vi + Thiên Phủ:** tính hung của Thất Sát được **ĐIỀU PHỤC**, chuyển
-hóa thành **QUYỀN UY CHÍNH ĐÁNG** → **NHÀ LÃNH ĐẠO XUẤT CHÚNG**.
-
-✅ **+ Lộc Tồn / Hóa Lộc:** thành quả tranh đấu **THỰC CHẤT**, **TÀI LỘC BỀN
-HƠN**.
-
-✅ **+ Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt:** **QUÝ NHÂN trợ lực**, sự
-nghiệp hanh thông.
-
-✅ **+ Hóa Quyền:** **TĂNG UY THẾ** — nhưng đòi hỏi mệnh chủ **biết tiết chế
-quyền lực**.`,
+    tomTat: `**Thất Sát có nhiều bộ sao tốt mở rộng:** Tử Phủ điều phục tính hung,
+Lộc Tồn/Hóa Lộc giúp tài lộc bền, Tả Hữu Khôi Việt mang quý nhân, Hóa Quyền tăng
+uy thế.`,
 
     chiTiet: `## Tử Vi + Thiên Phủ
 
@@ -1015,26 +1014,63 @@ Khi hội **Tử Vi + Thiên Phủ:**
 - Nhưng cũng đòi hỏi mệnh chủ biết **tiết chế quyền lực**`,
   },
 
+  {
+    id: 'that-sat-bo-sao-tot-mo-rong-tu-phu',
+    title: 'Thất Sát + Tử Vi + Thiên Phủ',
+    sao: ['Thất Sát'],
+    ketHop: ['Tử Vi', 'Thiên Phủ'],
+    doUuTien: 45,
+    tomTat: `✅ **Thất Sát + Tử Vi + Thiên Phủ:** tính hung của Thất Sát được
+**điều phục**, chuyển hóa thành **quyền uy chính đáng** → tạo nên **nhà lãnh
+đạo xuất chúng**.`,
+  },
+
+  {
+    id: 'that-sat-bo-sao-tot-mo-rong-loc',
+    title: 'Thất Sát + Lộc Tồn / Hóa Lộc',
+    sao: ['Thất Sát'],
+    ketHop: ['Lộc Tồn', 'Hóa Lộc'],
+    doUuTien: 45,
+    tomTat: `✅ **Thất Sát + Lộc Tồn / Hóa Lộc:** giúp thành quả tranh đấu **trở
+nên thực chất**, **tài lộc bền hơn**.`,
+  },
+
+  {
+    id: 'that-sat-bo-sao-tot-mo-rong-ta-huu-khoi-viet',
+    title: 'Thất Sát + Tả Hữu + Khôi Việt',
+    sao: ['Thất Sát'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 45,
+    tomTat: `✅ **Thất Sát + Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt:** mang
+lại **quý nhân trợ lực**, sự nghiệp **hanh thông**.`,
+  },
+
+  {
+    id: 'that-sat-bo-sao-tot-mo-rong-hoa-quyen',
+    title: 'Thất Sát + Hóa Quyền',
+    sao: ['Thất Sát'],
+    ketHop: ['Hóa Quyền'],
+    doUuTien: 45,
+    tomTat: `✅ **Thất Sát + Hóa Quyền:** làm **tăng uy thế** — nhưng cũng đòi
+hỏi mệnh chủ biết **tiết chế quyền lực**.`,
+  },
+
   // ============================================================
   // 22. Thất Sát tại Tài Bạch
   // ============================================================
   {
     id: 'that-sat-tai-tai-bach',
-    title: 'Thất Sát tại Tài Bạch',
+    title: 'Thất Sát tại Tài Bạch (đặc tính chung)',
     sao: ['Thất Sát'],
     cung: ['Tài Bạch'],
     doUuTien: 80,
     tomTat: `**Thất Sát tại Tài Bạch:** có khả năng **NẮM QUYỀN LỰC TÀI CHÍNH**,
 năng lực **kiến tạo sự nghiệp ở nơi xa**, dư dả tiền bạc.
 
-→ Dù **Miếu / Vượng / Đắc / Hãm** đều **kiếm tiền nhanh chóng**. **+ Sao Lộc**
-→ giàu sang phú quý.
+→ Dù **Miếu / Vượng / Đắc / Hãm** đều **kiếm tiền nhanh chóng**.
 
 ⚠️ **Hãm địa:** "BẠO PHÁT BẠO PHÁ" — kiếm giỏi, nhanh giàu nhưng **xem nhẹ
-đồng tiền**, tiêu nhanh, **khó tích lũy**.
-
-✅ **+ Tham Lang Hóa Lộc** vận hạn cát: **TIỀN BẤT NGỜ** — cần duy trì ổn
-định, **không nên đột phá** (sẽ phá tán).`,
+đồng tiền**, tiêu nhanh, **khó tích lũy**.`,
 
     chiTiet: `## Khả năng tài chính
 
@@ -1063,6 +1099,28 @@ Dù ở **Miếu, Vượng, Đắc hay Hãm** — người có Thất Sát tại
 - Cần cố gắng **duy trì thành tựu đã đạt được**
 - **Ổn định** chứ **KHÔNG nên mong muốn đột phá**
 - Nếu không sẽ dễ **phá tán, thất bại**`,
+  },
+
+  {
+    id: 'that-sat-tai-tai-bach-tham-lang-hoa-loc',
+    title: 'Thất Sát tại Tài Bạch + Tham Lang Hóa Lộc',
+    sao: ['Thất Sát'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Tham Lang', 'Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `✅ **Thất Sát tại Tài Bạch + Tham Lang Hóa Lộc** + vận hạn cát: thường
+có **tiền bất ngờ**, cần cố gắng **duy trì thành tựu đã đạt được**, **ổn định**
+chứ **KHÔNG nên mong muốn đột phá** — nếu không sẽ dễ **phá tán, thất bại**.`,
+  },
+
+  {
+    id: 'that-sat-tai-tai-bach-loc',
+    title: 'Thất Sát tại Tài Bạch + Sao Lộc',
+    sao: ['Thất Sát'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Lộc Tồn', 'Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `✅ **Thất Sát tại Tài Bạch + Sao Lộc:** càng **giàu sang, phú quý**.`,
   },
 
   // ============================================================
@@ -1106,19 +1164,14 @@ Người có Thất Sát tại Quan Lộc cần:
   // ============================================================
   {
     id: 'that-sat-tai-phu-the',
-    title: 'Thất Sát tại Phu Thê',
+    title: 'Thất Sát tại Phu Thê (đặc tính chung)',
     sao: ['Thất Sát'],
     cung: ['Phu Thê'],
     doUuTien: 80,
     tomTat: `**Thất Sát tại Phu Thê:** vợ chồng **khắc khẩu, hay cãi vã** →
 thường **kết hôn muộn**.
 
-✅ **Miếu / Vượng:** bạn đời có **tài quản lý**, vợ chồng có **sự nghiệp riêng**.
-**+ Cát hóa + sao tốt:** bạn đời lý tưởng — nhưng **trước hôn nhân cần trải
-qua sóng gió, trắc trở**.
-
-⚠️ **+ Phá Quân đồng hợp + Hóa Lộc:** **HAI LẦN ĐÒ**, hoặc vợ chồng **"hữu
-danh vô thực"**.`,
+✅ **Miếu / Vượng:** bạn đời có **tài quản lý**, vợ chồng có **sự nghiệp riêng**.`,
 
     chiTiet: `## Đặc điểm chung
 
@@ -1142,6 +1195,28 @@ Cung Phu Thê có Thất Sát chủ về:
 Thất Sát + Phá Quân đồng hợp tại Phu Thê + Hóa Lộc:
 - Chủ về phải **2 lần đò**
 - Hoặc vợ chồng **"hữu danh vô thực"**`,
+  },
+
+  {
+    id: 'that-sat-tai-phu-the-cat-hoa-sao-tot',
+    title: 'Thất Sát tại Phu Thê + Cát hóa + sao tốt',
+    sao: ['Thất Sát'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa', 'Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `✅ **Thất Sát tại Phu Thê + Cát hóa + sao tốt:** có **bạn đời lý
+tưởng**, nhưng **trước hôn nhân cần trải qua sóng gió, trắc trở**.`,
+  },
+
+  {
+    id: 'that-sat-tai-phu-the-pha-quan-hoa-loc',
+    title: 'Thất Sát tại Phu Thê + Phá Quân + Hóa Lộc',
+    sao: ['Thất Sát'],
+    cung: ['Phu Thê'],
+    ketHop: ['Phá Quân', 'Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thất Sát + Phá Quân đồng hợp tại Phu Thê + Hóa Lộc:** chủ về
+phải **2 lần đò**, hoặc vợ chồng **"hữu danh vô thực"**.`,
   },
 
   // ============================================================
@@ -1184,18 +1259,14 @@ Sát **sáng (Miếu địa)**.
   // ============================================================
   {
     id: 'that-sat-tai-thien-di',
-    title: 'Thất Sát tại Thiên Di',
+    title: 'Thất Sát tại Thiên Di (đặc tính chung)',
     sao: ['Thất Sát'],
     cung: ['Thiên Di'],
     doUuTien: 80,
     tomTat: `**Thất Sát tại Thiên Di:** chủ về người có **CHỨC TƯỚC, UY QUYỀN**
 → được mọi người **kính trọng**. Có **NHÂN DUYÊN TỐT**.
 
-✅ **+ Tử Vi / Liêm Trinh đồng cung:** ở **đất khách quê người** cũng có thể
-**lập nên tiếng tăm, tạo dựng cơ nghiệp**.
-
-⚠️ **Hãm địa:** ra ngoài dễ gặp **HUNG HỌA**, gây gổ đánh nhau.
-⚠️ **+ Thiên Hình + Kiếp Sát + Không Kiếp:** **TAI NẠN BẤT NGỜ**.`,
+⚠️ **Hãm địa:** ra ngoài dễ gặp **HUNG HỌA**, gây gổ đánh nhau.`,
 
     chiTiet: `## Đặc điểm chung
 
@@ -1219,6 +1290,28 @@ Ra ngoài dễ gặp:
 ## ⚠️ + Thiên Hình + Kiếp Sát + Không Kiếp
 
 - Có thể dẫn đến **tai nạn bất ngờ**`,
+  },
+
+  {
+    id: 'that-sat-tai-thien-di-tu-vi-liem-trinh',
+    title: 'Thất Sát tại Thiên Di + Tử Vi / Liêm Trinh đồng cung',
+    sao: ['Thất Sát'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tử Vi', 'Liêm Trinh'],
+    doUuTien: 70,
+    tomTat: `✅ **Thất Sát tại Thiên Di + Tử Vi / Liêm Trinh đồng cung:** ở nơi
+**đất khách quê người** cũng có thể **lập nên tiếng tăm, tạo dựng cơ nghiệp**.`,
+  },
+
+  {
+    id: 'that-sat-tai-thien-di-thien-hinh-kiep-sat-khong-kiep',
+    title: 'Thất Sát tại Thiên Di + Thiên Hình + Kiếp Sát + Không Kiếp',
+    sao: ['Thất Sát'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Hình', 'Kiếp Sát', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thất Sát tại Thiên Di + Thiên Hình + Kiếp Sát + Không Kiếp:** có
+thể dẫn đến **tai nạn bất ngờ**.`,
   },
 
   // ============================================================

@@ -188,16 +188,34 @@ Hữu** → số **làm thầy có nhiều học trò giỏi**.`,
   // ============================================================
   {
     id: 'thien-luong-bo-sao-xau',
-    title: 'Thiên Lương - Bộ sao XẤU',
+    title: 'Thiên Lương - Bộ sao XẤU (đặc tính chung)',
     sao: ['Thiên Lương'],
     doUuTien: 50,
     tomTat: `⚠️ **Thiên Lương là bộ sao yếu, dễ bị tác động bởi sao khác** → **kỵ
 sát tinh**, đặc biệt **Lục Bại Sát Tinh** (Không, Kiếp, Kình, Đà, Linh, Hỏa),
 Song Hao, Hình, Riêu.
 
-- **+ Địa Không, Địa Kiếp:** **cực dâm** — gái giang hồ, trai phiêu bạt
-- **+ Linh Hỏa:** dễ mắc bệnh **hoang tưởng**, đau đầu, dễ đi nghiên cứu tâm linh
 - **Hãm + Thiên Mã:** kém bền trí, nay đây mai đó`,
+  },
+
+  {
+    id: 'thien-luong-bo-sao-xau-khong-kiep',
+    title: 'Thiên Lương + Địa Không, Địa Kiếp',
+    sao: ['Thiên Lương'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Thiên Lương + Địa Không, Địa Kiếp:** **cực dâm** — gái giang hồ,
+trai phiêu bạt.`,
+  },
+
+  {
+    id: 'thien-luong-bo-sao-xau-linh-hoa',
+    title: 'Thiên Lương + Linh Hỏa',
+    sao: ['Thiên Lương'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Thiên Lương + Hỏa Tinh / Linh Tinh:** dễ mắc bệnh **hoang tưởng**,
+đau đầu, dễ đi nghiên cứu tâm linh.`,
   },
 
   // ============================================================
@@ -465,7 +483,7 @@ cung Phụ Mẫu có thêm chút sát tinh.`,
   // ============================================================
   {
     id: 'thien-luong-tai-dien-trach',
-    title: 'Thiên Lương tại Điền Trạch',
+    title: 'Thiên Lương tại Điền Trạch (đặc tính chung)',
     sao: ['Thiên Lương'],
     cung: ['Điền Trạch'],
     doUuTien: 80,
@@ -473,10 +491,29 @@ cung Phụ Mẫu có thêm chút sát tinh.`,
 đổi cửa. Xu hướng ở **nhà cổ**, đồ đạc giữ tốt dùng bền.
 
 Dễ được hưởng điền sản các cụ để lại, thậm chí **Tam Đại Đồng Đường, Tứ Đại Đồng
-Đường** (mấy đời ở chung một nhà).
+Đường** (mấy đời ở chung một nhà).`,
+  },
 
-**+ Thái Dương, Thiên Đồng:** lắm đất nhiều nhà, gia sản vững bền.
-**+ Quang Quý, Nguyệt Đức:** thờ cúng trong nhà chỉn chu.`,
+  {
+    id: 'thien-luong-tai-dien-trach-duong-dong',
+    title: 'Thiên Lương + Thái Dương, Thiên Đồng tại Điền Trạch',
+    sao: ['Thiên Lương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thái Dương', 'Thiên Đồng'],
+    doUuTien: 75,
+    tomTat: `**Thiên Lương + Thái Dương / Thiên Đồng tại Điền Trạch:** **lắm đất
+nhiều nhà**, gia sản vững bền.`,
+  },
+
+  {
+    id: 'thien-luong-tai-dien-trach-quang-quy-nguyet-duc',
+    title: 'Thiên Lương + Quang Quý, Nguyệt Đức tại Điền Trạch',
+    sao: ['Thiên Lương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Ân Quang', 'Thiên Quý', 'Nguyệt Đức'],
+    doUuTien: 75,
+    tomTat: `**Thiên Lương + Quang Quý / Nguyệt Đức tại Điền Trạch:** **thờ cúng
+trong nhà chỉn chu**.`,
   },
 
   // ============================================================
