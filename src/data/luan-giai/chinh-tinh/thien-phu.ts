@@ -102,9 +102,9 @@ chiếm đoạt**.`,
     sao: ['Thiên Phủ'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Thiên Phủ cư Mệnh:** mặt **vuông, hồng hào, răng trắng**, thần mắt
-hoạt bát, **tướng mạo thanh tú**, tinh thần dồi dào, nước da đẹp. Xem entry
-chuyên biệt cho Nam / Nữ mệnh.`,
+    tomTat: `**Thiên Phủ cư Mệnh:** mặt **vuông, hồng hào, răng trắng**, thần
+mắt hoạt bát, **tướng mạo thanh tú**, tinh thần dồi dào, nước da đẹp.
+Xem entry chuyên biệt cho từng giới tính.`,
   },
 
   {
@@ -152,7 +152,7 @@ tĩnh khi gặp nguy hiểm, **thích ứng mọi hoàn cảnh**, coi trọng th
 - **Tự tin, tự phụ khi trẻ**, lớn dần thì tự phụ bớt đi
 - Sống hiện thực nhưng **thiếu nhẫn nại**
 - **Thích sĩ diện, thích phóng đại, thích phô trương**
-- Thân thiện, thích giúp đỡ — nhưng **tham vọng quyền lực**, không thích bị
+- Hoà nhã, thích giúp đỡ — nhưng **tham vọng quyền lực**, không thích bị
   quản thúc
 - Thích **mắng người khác**, **cao ngạo có chút ích kỷ**
 - Thích ứng rất tốt với sự thay đổi của môi trường
@@ -306,9 +306,20 @@ tao**, khéo léo, có lý trí.
     ketHop: ['Tử Phủ đồng cung'],
     doUuTien: 92,
     tomTat: `**Tử Vi + Thiên Phủ cùng trấn Mệnh tại Dần / Thân** = cách **"Tử Phủ
-đồng cung"** → chủ về **một đời giàu có**.
+đồng cung"** → chủ về **một đời giàu có**.`,
+  },
 
-Cũng áp dụng khi nằm tại **Tỵ / Hợi** (cung Sinh) hội chiếu cung Mệnh.`,
+  {
+    id: 'thien-phu-tu-phu-hoi-chieu-ty-hoi',
+    title: 'Tử Phủ hội chiếu Mệnh tại Tỵ / Hợi',
+    sao: ['Thiên Phủ', 'Tử Vi'],
+    cung: ['Mệnh'],
+    chi: ['Tỵ', 'Hợi'],
+    ketHop: ['Tử Phủ đồng cung'],
+    doUuTien: 85,
+    tomTat: `**Mệnh tại Tỵ / Hợi** (cung Sinh) — Tử Vi + Thiên Phủ hội chiếu →
+áp dụng tinh thần cách **"Tử Phủ đồng cung"** → chủ về **một đời giàu có**
+(mức độ kém hơn cách Tử Phủ đồng cung gốc).`,
   },
 
   // ============================================================
@@ -352,8 +363,8 @@ lộc cực hậu**.`,
     ketHop: ['Phủ Tướng triều viên'],
     doUuTien: 90,
     tomTat: `**Thiên Phủ (hoặc Thiên Tướng) trấn cung Mệnh**, sao kia **hội chiếu
-từ cung Tài Bạch**, **không bị sát tinh xung phá** → cách **"Phủ Tướng triều viên"**
-→ chủ về **phú quý song toàn**.`,
+từ tam phương tứ chính**, **không bị sát tinh xung phá** → cách **"Phủ Tướng
+triều viên"** → chủ về **phú quý song toàn**.`,
   },
 
   // ============================================================
@@ -405,7 +416,7 @@ Thiên Phủ — cần kết hợp với cát tinh thì mới phát huy.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Liêm Trinh'],
     doUuTien: 73,
-    tomTat: `⚠️ **Thiên Phủ + Liêm Trinh tại Phụ Mẫu** (gốc câu nói tại Phúc Đức):
+    tomTat: `⚠️ **Thiên Phủ + Liêm Trinh tại Phụ Mẫu:**
 gia đình thường có **xích mích, mâu thuẫn** giữa các thành viên.`,
   },
 
@@ -668,8 +679,8 @@ nghiệp cùng nhau** ("đồng vợ đồng chồng"), gia đình đầm ấm, 
     sao: ['Thiên Phủ'],
     cung: ['Huynh Đệ'],
     doUuTien: 73,
-    tomTat: `**Thiên Phủ tại Huynh Đệ** (cung vị **bình thường**) — xem entry
-chuyên biệt cho Miếu / Vượng + cát tinh.`,
+    tomTat: `**Thiên Phủ tại Huynh Đệ** — cung vị **bình thường**.
+Xem entry chuyên biệt cho từng trạng thái và bộ kết hợp.`,
   },
 
   {

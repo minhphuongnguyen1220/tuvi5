@@ -767,8 +767,8 @@ xấu khổ suốt đời.`,
     chi: ['Thân'],
     ketHop: ['Thái Dương'],
     doUuTien: 50,
-    tomTat: `**Cự Nhật tại Thân:** không bằng Dần, chỉ ở mức **khá giả**, công
-danh đến trước tiền bạc.`,
+    tomTat: `**Cự Nhật tại Thân:** chỉ ở mức **khá giả**, công danh đến trước
+tiền bạc.`,
   },
 
   {

@@ -70,14 +70,14 @@ trán thường có nếp nhăn.`,
 hơi trầm, **rất thích chuyện tu hành**. Ăn chậm, nói chậm, đi nhanh — có chút
 khắc khổ.
 
-**Tố chất làm thầy** (Miếu Vượng): biết đối nhân xử thế, thông minh, lý luận giỏi,
+Có **tố chất làm thầy**: biết đối nhân xử thế, thông minh, lý luận giỏi,
 trực giác nhạy bén, lòng **từ bi bác ái**, bao dung, thương người.
 
 Sống đơn giản, **thanh bần**, không bon chen, không tranh đua → **rất thọ**.`,
 
-    chiTiet: `## Tính cách Miếu Vượng
+    chiTiet: `## Tính cách chung
 
-Thiên Lương ở trạng thái **Miếu Vượng** có đầy đủ tố chất của người làm Thầy:
+Thiên Lương cư Mệnh có đầy đủ tố chất của người làm Thầy:
 - Biết đối nhân xử thế, **thông minh, lý luận giỏi**, có **trực giác nhạy bén**
 - **Rất thương người khác**, có lòng **từ bi bác ái, bao dung**, yêu mến tất cả
   mọi người như nhau, không phân biệt
@@ -117,8 +117,8 @@ không hoang phí.`,
     sao: ['Thiên Lương'],
     cung: ['Mệnh'],
     doUuTien: 70,
-    tomTat: `**Tính nhân hậu / thương người không bao giờ hết** dù ở vị trí nào,
-nhưng các tính khác thay đổi theo trạng thái Miếu/Vượng/Hãm.`,
+    tomTat: `**Tính nhân hậu / thương người không bao giờ hết** dù ở vị trí nào.
+Xem entry chuyên biệt cho từng trạng thái.`,
   },
 
   {
@@ -367,7 +367,7 @@ cây cối đang phát triển tươi tốt.
 
 ## Mệnh Dương Lương ở Mão
 
-Lúc này được **Sao Thái Âm ở cung Tài Bạch** chủ về tiền bạc → **giàu có, kinh
+Lúc này có **Thái Âm hội chiếu** chủ về tiền bạc → **giàu có, kinh
 doanh phát triển**, giàu sang phú quý, có **tài quản lý tiền bạc**.`,
   },
 
@@ -461,13 +461,13 @@ Mệnh Cơ Lương thường làm về:
     tomTat: `**Thiên Lương Tý Ngọ — đẹp nhất** trong các vị trí Thiên Lương đơn thủ.
 Là **Ấm Tinh**, lại nằm ở đất của **Đế Tòa, Đế Tinh**.
 
-Cần xét cung **An Thân** — nếu Thân đẹp thì:
-> Mệnh Hảo, Thân Hảo, Đáo Lão Vinh Xương
+Cần kết hợp xét thêm cung an thân-phận của lá số. Nếu cả Mệnh và cung an
+thân-phận đều đẹp → ứng phú cổ "Mệnh Hảo, thân-phận Hảo, Đáo Lão Vinh Xương".
 
 Cuộc sống **an nhàn, sung túc**. Hội Quang Quý, Tả Hữu, Khôi Việt, Xương Khúc →
 **làm thầy giáo giỏi**, tiếng tăm vang xa nhiều đời.
 
-**Thiên Lương ở Ngọ đẹp hơn ở Tý.**`,
+**Vị trí Ngọ đẹp hơn vị trí Tý.**`,
   },
 
   // ============================================================
@@ -547,8 +547,7 @@ Tuần Triệt** → **chắc chắn cha mẹ rất thọ**.`,
 người sống lâu, có người **sống trăm tuổi**. Họ hàng đoàn kết, anh em thuận hòa,
 **mồ yên mả đẹp**.
 
-Đương số hồi nhỏ **dễ sống với ông bà** chứ không ở cùng bố mẹ — đặc biệt khi
-cung Phụ Mẫu có thêm chút sát tinh.`,
+Đương số hồi nhỏ **dễ sống với ông bà** chứ không ở cùng bố mẹ.`,
   },
 
   // ============================================================
@@ -678,7 +677,7 @@ nhà**.`,
 
 - Nếu gặp bệnh thì **chóng khỏi**, hoặc bệnh không nặng
 - Hoặc được **danh y mát tay cứu vớt kịp thời**
-- Tượng trưng cho **Phúc Đức về sức khỏe**
+- Tượng trưng cho **phúc đức bảo hộ sức khỏe**
 - **Hãm địa cũng không đáng lo ngại**
 - Đi cùng các sao bệnh họa khác → **chế giải nhiều bất lợi của các sao đó**`,
   },
@@ -729,8 +728,8 @@ vận giàu, kiếm tiền **chính phái**, không lươn lẹo, không tham la
     sao: ['Thiên Lương'],
     cung: ['Tử Tức'],
     doUuTien: 70,
-    tomTat: `**Thiên Lương tại Tử Tức:** kết quả tử tức thay đổi theo vị trí —
-đẹp ở Dần Thân Tý Ngọ Mão, kém ở Tỵ Hợi Dậu.`,
+    tomTat: `**Thiên Lương tại Tử Tức:** kết quả tử tức thay đổi mạnh theo vị
+trí. Xem entry chuyên biệt cho từng chi cụ thể.`,
   },
 
   {
@@ -797,16 +796,16 @@ muộn sinh, 3 con; sớm sinh thì khó nuôi, **khổ sở vì con**.`,
     sao: ['Thiên Lương'],
     cung: ['Phu Thê'],
     doUuTien: 70,
-    tomTat: `**Thiên Lương tại Phu Thê:** gia đạo thay đổi theo vị trí — đẹp ở
-Dần Thân, Mão, Thìn Tuất, Tý Ngọ; kém ở Tỵ Hợi.`,
+    tomTat: `**Thiên Lương tại Phu Thê:** gia đạo thay đổi mạnh theo vị trí.
+Xem entry chuyên biệt cho từng chi cụ thể.`,
 
     chiTiet: `## Phú cổ về Đồng Lương
 
 > Cung Phu Thê Đồng Lương hội đó
 > Hai vợ chồng một tổ sinh lai
 
-**Thiên Đồng + Thiên Lương ở Phu Thê**, đặc biệt là ở Thê → đương số dễ **đời ở
-rể**, hoặc **chồng lấy hai vợ là chị em ruột** với nhau.`,
+**Thiên Đồng + Thiên Lương ở Phu Thê** → đương số dễ **đời ở rể**, hoặc
+**chồng lấy hai vợ là chị em ruột** với nhau.`,
   },
 
   {

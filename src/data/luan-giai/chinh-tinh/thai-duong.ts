@@ -687,9 +687,8 @@ Người ở Mão:
 
 ## Cách "Nhật Nguyệt Tịnh Minh"
 
-Người có cách này tất được **Thái Âm miếu ở Hợi** chiếu về. Nếu bản cung an
-tại chi tương ứng được Nhật-Lương chiếu về → **cách Nhật Nguyệt Tịnh Minh,
-rất tốt**.
+Người có cách này tất được **Thái Âm miếu** chiếu về. Nếu bản cung được
+Nhật-Lương chiếu về → **cách Nhật Nguyệt Tịnh Minh, rất tốt**.
 
 Hội đủ **Xương + Khúc + Khoa Quyền Lộc + Tả Hữu** → người rất thông minh, có
 tài kinh bang tế thế, hơn thế còn nhân hậu, bác ái.
@@ -768,8 +767,8 @@ không đẹp bằng đắc vòng Thái Tuế.`,
 hợp chiếu → cách **"Nhật Nguyệt Tịnh Minh"** — gần như **hoàn hảo nhất** trong
 khoa tử vi. Người uy tín, đức độ, công danh vinh hiển.
 
-(Tuy nhiên không tốt bằng Thái Dương ở Thìn, hay Cự Nhật ở Dần.) Tuần Triệt
-án ngữ cũng không đáng lo.
+(Tuy nhiên không tốt bằng các cách Thái Dương khác.) Tuần Triệt án ngữ cũng
+không đáng lo.
 
 ⚠️ **Lập tại Tỵ** (Cự Môn đối xung) → Cự-Nhật tách rời, không cộng hưởng →
 **chỉ giàu sang mà không phú quý**. Gặp Đà La / Hóa Kỵ là **phá cách** — trầm
@@ -784,9 +783,7 @@ hợp chiếu → tạo thành cách **"Nhật Nguyệt Tịnh Minh"**.
 - Người **uy tín, đức độ**
 - **Công danh vinh hiển**
 
-Tuy nhiên **không tốt như**:
-- Thái Dương ở Thìn (Nhật Nguyệt Tranh Huy)
-- Cự-Nhật đồng cung tại Dần (Quang Phong Tam Đại)
+Tuy nhiên **không tốt bằng các cách Thái Dương đỉnh cao khác**.
 
 → Trường hợp này **gặp Tuần Triệt án ngữ cũng không đáng lo ngại**.
 
@@ -795,10 +792,7 @@ Tuy nhiên **không tốt như**:
 Khi Thái Dương ở Tỵ mà bản cung an ở chi có **Thiên Lương tọa thủ** →
 **không hưởng được cách Nhật Nguyệt Tịnh Minh**.
 
-Tuy nhiên đương số vẫn được **giàu sang phú quý** — nhưng không thể bằng:
-- Nhật Nguyệt Tịnh Minh
-- Nhật Nguyệt Tranh Huy
-- Cự-Nhật ở Dần
+Tuy nhiên đương số vẫn được **giàu sang phú quý**.
 
 ## Lập tại Tỵ (Cự Môn đối xung)
 

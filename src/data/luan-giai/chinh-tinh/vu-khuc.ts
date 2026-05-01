@@ -768,8 +768,8 @@ chắn**.`,
     doUuTien: 85,
     tomTat: `🌟 **Vũ Khúc tại Quan Lộc:** rất tốt cho sự nghiệp.
 
-**Mệnh Thổ / Thủy / Kim** + Vũ Khúc đắc địa + cát tinh → **sự nghiệp công danh
-vô cùng hiển đạt**.
+**Bản Mệnh hành Thổ / Thủy / Kim** + Vũ Khúc đắc địa + cát tinh → **sự nghiệp
+công danh vô cùng hiển đạt**.
 
 **2 lĩnh vực chính:**
 1. **Kinh doanh, tài chính, vận tải, vàng bạc, khoa học kỹ thuật** (Kim)
@@ -1024,9 +1024,9 @@ tinh thần bất an**.`,
     tomTat: `**Vũ Khúc tại Tật Ách:** chủ về **bệnh đường hô hấp, khí huyết**. Yếu
 tố **Kim** có khí "tiêu sát" → dễ tổn thương.
 
-- **Mệnh Mộc / Hỏa:** bệnh nhiều hơn
-- **Hợp Mệnh + đắc địa:** khí huyết tốt, mạnh khỏe luôn
-- **Hãm + khắc Mệnh:** hay có bệnh **phong hay trĩ**`,
+- **Bản mệnh hành Mộc / Hỏa:** bệnh nhiều hơn
+- **Hợp bản mệnh + đắc địa:** khí huyết tốt, mạnh khỏe luôn
+- **Hãm + khắc bản mệnh:** hay có bệnh **phong hay trĩ**`,
   },
 
   {
@@ -1298,13 +1298,70 @@ ngoãn**, chủ **2 con**.`,
 **hình khắc, cô đơn**, dễ chia ly hoặc hôn nhân thiếu bền vững.
 
 - Cần **NHIỀU cát tinh** thì hôn nhân mới tốt đẹp
-- **Vũ Phủ Tý/Ngọ + Hóa Kỵ:** nữ **hôn nhân đứt đoạn**, nam **vợ chồng sinh ly**
-- **Vũ Tham Sửu/Mùi + Hóa Kỵ:** **bạn đời phá gia, hao tài**; thêm văn / đào
-  hoa → **bạn đời thay lòng đổi dạ**, có người thứ 3
-- **Thìn/Tuất:** nên **lập gia đình muộn / lấy người bằng tuổi** → hưởng **giàu
-  sang nhờ đối tượng**
+- → **Lời khuyên: KẾT HÔN MUỘN** để có sự chín chắn, giảm hình khắc.
 
-→ **Lời khuyên: KẾT HÔN MUỘN** để có sự chín chắn, giảm hình khắc.`,
+Xem entry chuyên biệt cho từng tổ hợp chi và bộ kết hợp cụ thể.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-phu-the-vu-phu-ty-ngo-hoa-ky',
+    title: 'Vũ Phủ Tý/Ngọ + Hóa Kỵ tại Phu Thê',
+    sao: ['Vũ Khúc', 'Thiên Phủ'],
+    cung: ['Phu Thê'],
+    chi: ['Tý', 'Ngọ'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Vũ Phủ Tý/Ngọ + Hóa Kỵ tại Phu Thê:** nữ **hôn nhân đứt
+đoạn**, nam **vợ chồng sinh ly**. Xem entry chuyên biệt cho từng giới tính.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-phu-the-vu-phu-ty-ngo-hoa-ky-nu',
+    title: 'Vũ Phủ Tý/Ngọ + Hóa Kỵ tại Phu Thê - Nữ mệnh',
+    sao: ['Vũ Khúc', 'Thiên Phủ'],
+    cung: ['Phu Thê'],
+    chi: ['Tý', 'Ngọ'],
+    gioiTinh: 'Nữ',
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Nữ mệnh — Vũ Phủ Tý/Ngọ + Hóa Kỵ tại Phu Thê:** **hôn nhân
+đứt đoạn**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-phu-the-vu-phu-ty-ngo-hoa-ky-nam',
+    title: 'Vũ Phủ Tý/Ngọ + Hóa Kỵ tại Phu Thê - Nam mệnh',
+    sao: ['Vũ Khúc', 'Thiên Phủ'],
+    cung: ['Phu Thê'],
+    chi: ['Tý', 'Ngọ'],
+    gioiTinh: 'Nam',
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Nam mệnh — Vũ Phủ Tý/Ngọ + Hóa Kỵ tại Phu Thê:** **vợ chồng
+sinh ly**.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-phu-the-vu-tham-suu-mui-hoa-ky',
+    title: 'Vũ Tham Sửu/Mùi + Hóa Kỵ tại Phu Thê',
+    sao: ['Vũ Khúc', 'Tham Lang'],
+    cung: ['Phu Thê'],
+    chi: ['Sửu', 'Mùi'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Vũ Tham Sửu/Mùi + Hóa Kỵ tại Phu Thê:** **bạn đời phá gia,
+hao tài**; thêm văn / đào hoa → **bạn đời thay lòng đổi dạ**, có người thứ 3.`,
+  },
+
+  {
+    id: 'vu-khuc-tai-phu-the-thin-tuat',
+    title: 'Vũ Khúc tại Phu Thê ở Thìn/Tuất',
+    sao: ['Vũ Khúc'],
+    cung: ['Phu Thê'],
+    chi: ['Thìn', 'Tuất'],
+    doUuTien: 80,
+    tomTat: `**Vũ Khúc tại Phu Thê ở Thìn/Tuất:** nên **lập gia đình muộn / lấy
+người bằng tuổi** → hưởng **giàu sang nhờ đối tượng**.`,
   },
 
   {

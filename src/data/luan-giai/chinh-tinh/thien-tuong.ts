@@ -111,7 +111,8 @@ trường gần nhất.
     doUuTien: 92,
     tomTat: `🌟 **Cách "Tài Ấm giáp Ấn"** — cách CÁT lớn của Thiên Tướng.
 
-**Thiên Tướng cư Mệnh** (hoặc Thân) + **Hóa Lộc và Thiên Lương giáp hai bên**:
+**Thiên Tướng cư cung Mệnh** (hoặc cung an thân-phận) + **Hóa Lộc và Thiên
+Lương giáp hai bên**:
 
 → Chủ về **PHÚ QUÝ VINH HOA**, hưởng thụ vui vẻ.
 
@@ -130,7 +131,8 @@ trường gần nhất.
     doUuTien: 92,
     tomTat: `⚠️ **Cách "Hình Kỵ giáp Ấn"** — cách HUNG lớn của Thiên Tướng.
 
-**Thiên Tướng HÃM tại Mệnh** (hoặc Thân) + **Hóa Kỵ và Kình Dương giáp hai bên**:
+**Thiên Tướng HÃM tại cung Mệnh** (hoặc cung an thân-phận) + **Hóa Kỵ và Kình
+Dương giáp hai bên**:
 
 → Chủ về **GẶP TAI HỌA LAO NGỤC**, kèm theo **HÌNH KHẮC THƯƠNG TỔN**.
 
@@ -470,8 +472,8 @@ Người sở hữu cách này có:
     doUuTien: 88,
     tomTat: `🌟 **Cách "Phủ Tướng triều viên":**
 
-**Thiên Phủ (hoặc Thiên Tướng) tọa Mệnh** + **Thiên Tướng (hoặc Thiên Phủ) tại
-Tài Bạch / Quan Lộc hội chiếu**, **không bị sát tinh xung phá**.
+**Thiên Phủ (hoặc Thiên Tướng) tọa Mệnh** + **Thiên Tướng (hoặc Thiên Phủ) hội
+chiếu từ tam phương tứ chính**, **không bị sát tinh xung phá**.
 
 → Chủ về **PHÚ QUÝ, hưởng lộc dồi dào**, nhiều người nể trọng, mối quan hệ xã
 hội tốt, có **quý nhân phù trợ**.

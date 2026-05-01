@@ -146,15 +146,14 @@ trong nhà cả vườn lan, chơi đàn thì có cả trăm cây đàn.`,
     sao: ['Thiên Đồng'],
     cung: ['Mệnh'],
     doUuTien: 50,
-    tomTat: `Tính cách Thiên Đồng tại Mệnh **biến thiên mạnh theo trạng thái**
-(Miếu / Đắc / Hãm) — xem chi tiết trong các entry chuyên biệt.`,
+    tomTat: `Tính cách Thiên Đồng tại Mệnh biến thiên mạnh theo trạng thái —
+Xem entry chuyên biệt cho từng trạng thái.`,
 
     chiTiet: `## Tổng quan
 
-Tính cách Thiên Đồng tại Mệnh **biến thiên mạnh theo trạng thái** (Miếu / Đắc
-/ Hãm).
+Tính cách Thiên Đồng tại Mệnh biến thiên mạnh theo trạng thái.
 
-→ Diễn giải theo trạng thái + chi cụ thể được tách thành luận giải riêng.
+→ Xem entry chuyên biệt cho từng trạng thái + chi cụ thể.
 
 ## Lưu ý màu da
 
@@ -720,8 +719,7 @@ tiếng nói, **ít phải thay đổi công việc**.`,
     doUuTien: 75,
     tomTat: `**Thiên Đồng tại Nô Bộc** — cách **chưa được đẹp**.
 
-- **Đắc / Miếu / Vượng + sao tốt:** lắm bạn nhiều bè, nhiều thành phần nhưng
-  giúp đỡ tốt — diễn giải theo trạng thái được tách thành luận giải riêng.
+- Hợp với cát tinh: Xem entry chuyên biệt cho từng trạng thái.
 - **Hội Không Kiếp / Kình Đà / Hình Kỵ / Linh Hỏa:** bạn bè ăn chơi cờ bạc,
   dễ rủ vào chốn xa đọa, **dễ làm ơn mắc oán**`,
   },
