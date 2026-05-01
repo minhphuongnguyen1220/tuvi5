@@ -137,11 +137,14 @@ for await (const file of walk(ROOT)) {
 
     const flags = [];
 
-    // 1. GENDER — gioiTinh field chưa có → bất kỳ mention nào của giới tính = flag
-    const genderTerms = ['Nữ mệnh', 'Nam mệnh', 'nữ mệnh', 'nam mệnh', 'Phụ nữ', 'phụ nữ', 'Đàn ông', 'đàn ông'];
-    const genderHits = uniq(genderTerms.filter(t => content.includes(t)));
-    if (genderHits.length > 0) {
-      flags.push({ kind: 'GENDER', detail: genderHits.join(', '), snippet: snippetAround(content, genderHits[0]) });
+    // 1. GENDER — chỉ flag nếu entry CHƯA có gioiTinh field nhưng content nhắc giới tính.
+    // Nếu entry CÓ gioiTinh, content nhắc giới tính tương ứng là OK.
+    if (!gioiTinhStr) {
+      const genderTerms = ['Nữ mệnh', 'Nam mệnh', 'nữ mệnh', 'nam mệnh', 'Phụ nữ', 'phụ nữ', 'Đàn ông', 'đàn ông'];
+      const genderHits = uniq(genderTerms.filter(t => content.includes(t)));
+      if (genderHits.length > 0) {
+        flags.push({ kind: 'GENDER', detail: genderHits.join(', '), snippet: snippetAround(content, genderHits[0]) });
+      }
     }
 
     // 2. CROSS-CUNG — content có tên cung X mà X không trong cungField

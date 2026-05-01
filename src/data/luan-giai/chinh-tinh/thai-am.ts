@@ -1281,32 +1281,41 @@ Thái Âm là **phú tinh** nhưng **chủ về tích lũy** → giỏi:
   // 32. Thái Âm tại Phu Thê
   // ============================================================
   {
-    id: 'thai-am-tai-phu-the',
-    title: 'Thái Âm tại Phu Thê',
+    id: 'thai-am-tai-phu-the-mieu-vuong',
+    title: 'Thái Âm Miếu/Vượng tại Phu Thê',
     sao: ['Thái Âm'],
     cung: ['Phu Thê'],
+    trangThai: ['Miếu', 'Vượng'],
     doUuTien: 80,
     tomTat: `**Thái Âm Miếu / Vượng tại Phu Thê:** sớm lập gia đình, **vợ chồng
-hòa thuận, hạnh phúc**.
-
-✅ **Nữ mệnh — Thái Âm tại cung Thìn + cát tinh:** đến **trung niên chồng sẽ
-hưng phát**.
-
-✅ **Nam mệnh:** chủ về được **nhà vợ giúp đỡ** mà thành công.`,
-
-    chiTiet: `## Miếu / Vượng
-
-Thái Âm ở vị trí **Miếu, Vượng** địa tại Phu Thê:
+hòa thuận, hạnh phúc**.`,
+    chiTiet: `Thái Âm ở vị trí **Miếu, Vượng** địa tại Phu Thê:
 - **Sớm lập gia đình**
 - **Vợ chồng hòa thuận**
-- **Hạnh phúc**
+- **Hạnh phúc**`,
+  },
 
-## Đặc biệt
+  {
+    id: 'thai-am-nu-menh-tai-thin-cat-tinh',
+    title: 'Nữ mệnh - Thái Âm tại cung Thìn + cát tinh',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Thìn'],
+    gioiTinh: 'Nữ',
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 75,
+    tomTat: `✅ **Nữ mệnh — Thái Âm tại cung Thìn + cát tinh:** đến **trung niên chồng
+sẽ hưng phát**.`,
+  },
 
-**Nữ mệnh:** Thái Âm tại **cung Thìn** có **cát tinh** → đến **trung niên chồng
-sẽ hưng phát**.
-
-**Nam mệnh:** chủ về được **nhà vợ giúp đỡ** mà thành công.`,
+  {
+    id: 'thai-am-tai-phu-the-nam-menh',
+    title: 'Nam mệnh - Thái Âm tại Phu Thê',
+    sao: ['Thái Âm'],
+    cung: ['Phu Thê'],
+    gioiTinh: 'Nam',
+    doUuTien: 75,
+    tomTat: `✅ **Nam mệnh:** chủ về được **nhà vợ giúp đỡ** mà thành công.`,
   },
 
   // ============================================================
