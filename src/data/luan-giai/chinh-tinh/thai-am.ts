@@ -297,18 +297,18 @@ Cách "Nguyệt Lãng Thiên Môn" — **trăng sáng cổng trời** — chủ 
     sao: ['Thái Âm'],
     chi: ['Hợi'],
     doUuTien: 80,
-    tomTat: `**"Minh Châu Xuất Hải" (ngọc sáng rời mặt biển):** Cung Mệnh an tại
-**Mùi** (vô chính diệu), **Thái Dương tại Mão** + **Thái Âm tại Hợi** nhập miếu
-giao hội lai chiếu về Mệnh.
+    tomTat: `**"Minh Châu Xuất Hải" (ngọc sáng rời mặt biển):** bản cung an tại
+chi vô chính diệu, **Thái Dương** + **Thái Âm tại Hợi** nhập miếu giao hội lai
+chiếu về.
 
 → Chủ về **đường công danh rộng mở**.`,
 
     chiTiet: `## Điều kiện cách
 
-- **Cung Mệnh an tại Mùi** (vô chính diệu)
-- **Thái Dương tại Mão**
+- Bản cung an tại chi vô chính diệu
+- **Thái Dương** chiếu về
 - **Thái Âm tại Hợi** nhập miếu
-- Cả hai giao hội lai chiếu về Mệnh
+- Cả hai giao hội lai chiếu
 
 ## Ý nghĩa
 
@@ -360,14 +360,14 @@ Cách "Nhật Nguyệt Tịnh Minh" — **mặt trăng mặt trời cùng sáng*
     chi: ['Sửu', 'Mùi'],
     doUuTien: 75,
     tomTat: `**"Nhật Nguyệt Đồng Lâm":** Thái Âm + Thái Dương **đồng cung tại Sửu
-hoặc Mùi**, trấn Mệnh hoặc chiếu về cung Mệnh.
+hoặc Mùi**, trấn bản cung hoặc chiếu về.
 
 → Chủ về **đường quan vận được nhiều lợi thế**.`,
 
     chiTiet: `## Điều kiện cách
 
 - **Thái Âm + Thái Dương đồng cung** tại **Sửu** hoặc **Mùi**
-- Trấn Mệnh hoặc chiếu về cung Mệnh
+- Trấn bản cung hoặc chiếu về
 
 ## Ý nghĩa
 
@@ -383,6 +383,7 @@ Cách "Nhật Nguyệt Đồng Lâm" — **mặt trăng mặt trời cùng đế
     title: 'Cách "Nhật Nguyệt Chiếu Bích" (mặt trăng mặt trời soi vách)',
     sao: ['Thái Âm'],
     cung: ['Điền Trạch'],
+    chi: ['Sửu', 'Mùi', 'Thìn', 'Tuất'],
     doUuTien: 90,
     tomTat: `**"Nhật Nguyệt Chiếu Bích":** Thái Dương + Thái Âm trấn cung **Điền
 Trạch tại Sửu / Mùi**, hoặc nằm tại **Thìn / Tuất chiếu về Điền Trạch**.
@@ -407,20 +408,21 @@ Cách "Nhật Nguyệt Chiếu Bích" — **mặt trăng mặt trời soi vách*
   // ============================================================
   {
     id: 'thai-am-cach-nguyet-sinh-thuong-hai',
-    title: 'Cách "Nguyệt Sinh Thương Hải" (trăng mọc biển xanh)',
+    title: 'Cách "Nguyệt Sinh Thương Hải" (trăng mọc biển xanh) - tại Mệnh',
     sao: ['Thái Âm'],
+    cung: ['Mệnh'],
     chi: ['Tý'],
+    ketHop: ['Thiên Đồng'],
     doUuTien: 85,
     tomTat: `**"Nguyệt Sinh Thương Hải" (= "Thủy Trừng Quế Ngạc" — nước trong
-hiện cành quế):** Thái Âm + Thiên Đồng trấn **Mệnh tại Tý** hoặc trấn **Điền
-Trạch**.
+hiện cành quế):** Thái Âm + Thiên Đồng trấn **Mệnh tại Tý**.
 
 → Chủ về được **chức quan cao quý**.`,
 
     chiTiet: `## Điều kiện cách
 
 - **Thái Âm + Thiên Đồng** đồng cung
-- Trấn **Mệnh tại Tý** HOẶC trấn **Điền Trạch**
+- Trấn **Mệnh tại Tý**
 
 ## Tên gọi
 
@@ -430,6 +432,19 @@ Trạch**.
 ## Ý nghĩa
 
 Chủ về được **chức quan cao quý**.`,
+  },
+
+  {
+    id: 'thai-am-cach-nguyet-sinh-thuong-hai-dien-trach',
+    title: 'Cách "Nguyệt Sinh Thương Hải" - tại Điền Trạch',
+    sao: ['Thái Âm'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Đồng'],
+    doUuTien: 80,
+    tomTat: `**"Nguyệt Sinh Thương Hải" - tại Điền Trạch:** Thái Âm + Thiên Đồng
+đồng cung tại **Điền Trạch**.
+
+→ Chủ về được **chức quan cao quý**.`,
   },
 
   // ============================================================
@@ -466,22 +481,38 @@ Có lợi trong các lĩnh vực:
     sao: ['Thái Âm'],
     cung: ['Phu Thê'],
     ketHop: ['Văn Khúc'],
-    doUuTien: 90,
+    doUuTien: 88,
     tomTat: `**"Thiềm Cung Triết Quế":** Thái Âm + **Văn Khúc** cùng đóng tại
-**Phu Thê**, Thái Âm **miếu vượng**, lại gặp cát tinh.
-
-→ Chủ về **nam mệnh thường gặp vợ sang**, **nữ mệnh thường sinh quý tử**.`,
+**Phu Thê**, Thái Âm **miếu vượng**, lại gặp cát tinh → cách cục **đẹp về hôn
+nhân và con cái**.`,
 
     chiTiet: `## Điều kiện cách
 
 - **Thái Âm + Văn Khúc** cùng đóng tại **Phu Thê**
 - **Thái Âm miếu vượng**
-- Lại gặp cát tinh
+- Lại gặp cát tinh`,
+  },
 
-## Ý nghĩa
+  {
+    id: 'thai-am-cach-thiem-cung-triet-que-nam',
+    title: 'Cách "Thiềm Cung Triết Quế" - Nam mệnh',
+    sao: ['Thái Âm'],
+    cung: ['Phu Thê'],
+    ketHop: ['Văn Khúc'],
+    gioiTinh: 'Nam',
+    doUuTien: 82,
+    tomTat: `**"Thiềm Cung Triết Quế" - Nam mệnh:** thường **gặp vợ sang**.`,
+  },
 
-- **Nam mệnh:** thường **gặp vợ sang**
-- **Nữ mệnh:** thường **sinh quý tử**`,
+  {
+    id: 'thai-am-cach-thiem-cung-triet-que-nu',
+    title: 'Cách "Thiềm Cung Triết Quế" - Nữ mệnh',
+    sao: ['Thái Âm'],
+    cung: ['Phu Thê'],
+    ketHop: ['Văn Khúc'],
+    gioiTinh: 'Nữ',
+    doUuTien: 82,
+    tomTat: `**"Thiềm Cung Triết Quế" - Nữ mệnh:** thường **sinh quý tử**.`,
   },
 
   // ============================================================
@@ -528,15 +559,15 @@ Cách "Nhật Nguyệt Phản Bội" — **mặt trăng mặt trời quay lưng*
     sao: ['Thái Âm'],
     chi: ['Ngọ'],
     doUuTien: 75,
-    tomTat: `⚠️ **"Nguyệt Đồng Ngộ Sát":** Thái Âm + Thiên Đồng **lạc hãm trấn
-Mệnh tại Ngọ**, lại gặp **sát tinh**.
+    tomTat: `⚠️ **"Nguyệt Đồng Ngộ Sát":** Thái Âm + Thiên Đồng **lạc hãm tại
+Ngọ**, lại gặp **sát tinh**.
 
 → Chủ về **mọi việc đều không thuận lợi**.`,
 
     chiTiet: `## Điều kiện cách
 
 - **Thái Âm + Thiên Đồng lạc hãm**
-- Trấn Mệnh tại **Ngọ**
+- Trấn tại **Ngọ**
 - Lại gặp **sát tinh**
 
 ## Ý nghĩa
@@ -577,8 +608,8 @@ Cách "Nhật Nguyệt Tật Ách" — chủ về **cơ thể có khuyết tật
     sao: ['Thái Âm'],
     chi: ['Thìn'],
     doUuTien: 75,
-    tomTat: `⚠️ **"Thiên Lương Củng Nguyệt":** Thái Âm trấn Mệnh tại **Thìn**,
-Thiên Lương tại **Thân** lạc hãm hội chiếu (hoặc ngược lại). Tài-Mệnh hội chiếu.
+    tomTat: `⚠️ **"Thiên Lương Củng Nguyệt":** Thái Âm tại **Thìn**, Thiên Lương
+ở chi đối xung lạc hãm hội chiếu (hoặc ngược lại). Tài-Quan hội chiếu.
 
 → Chủ về **một đời nhiều biến động**, **phiêu bạt tha hương**, hoặc **mất mạng
 vì tửu sắc**, hoặc **phá gia bại sản**.`,
@@ -586,14 +617,14 @@ vì tửu sắc**, hoặc **phá gia bại sản**.`,
     chiTiet: `## Điều kiện cách
 
 **Trường hợp 1:**
-- **Thái Âm trấn Mệnh tại Thìn**
-- **Thiên Lương tại Thân** (lạc hãm) hội chiếu
+- **Thái Âm tại Thìn**
+- **Thiên Lương** đối xung (lạc hãm) hội chiếu
 
 **Trường hợp 2 (ngược lại):**
-- **Thiên Lương lạc hãm trấn Mệnh** tại Thân
+- **Thiên Lương lạc hãm** tại chi đối xung
 - **Thái Âm cư Thìn** cũng lạc hãm hội chiếu
 
-Cả hai trường hợp: **Tài-Mệnh hội chiếu**.
+Cả hai trường hợp: **Tài-Quan hội chiếu**.
 
 ## Ý nghĩa
 
@@ -614,24 +645,20 @@ Cách "Thiên Lương Củng Nguyệt" — **Thiên Lương chầu về mặt tr
     cung: ['Mệnh'],
     doUuTien: 85,
     tomTat: `**Thái Âm tại Mệnh:** khuôn mặt **tròn**, nước da sáng, ánh mắt hiền
-hòa. Miếu vượng → thần sắc nhu nhuận, phúc hậu. Bản chất **Thủy** → **ôn hòa,
-nhu mì**, ứng xử khéo léo, biết tiến lùi đúng mực.
+hòa. Bản chất **Thủy** → **ôn hòa, nhu mì**, ứng xử khéo léo, biết tiến lùi đúng
+mực.
 
 **Đa sầu đa cảm**, dễ rung động trước cái đẹp, có xu hướng quan tâm chăm sóc
-người khác (đặc biệt rõ ở **nữ mệnh** — cần được yêu thương che chở).
+người khác.
 
 **Học vấn tốt**, năng khiếu **văn học, thẩm mỹ, ngoại giao, mỹ thuật**. Ưa
-**hưởng thụ** — ăn ngon mặc đẹp, gu thẩm mỹ cao, chi tiêu thoáng tay.
-
-⚠️ **Hãm địa:** ưu điểm dễ biến thành **buông thả, ham vui, lệ thuộc cảm xúc**,
-tâm lý thiếu ổn định.`,
+**hưởng thụ** — ăn ngon mặc đẹp, gu thẩm mỹ cao, chi tiêu thoáng tay.`,
 
     chiTiet: `## Dung mạo
 
 - Khuôn mặt **tròn**
 - Nước da **sáng**
 - Ánh mắt **hiền hòa**
-- **Miếu vượng** → thần sắc càng thêm **nhu nhuận, phúc hậu**
 
 ## Tâm tính
 
@@ -647,9 +674,6 @@ Thái Âm là sao của **tình cảm và nội tâm**:
 - Dễ rung động trước cái đẹp
 - Có xu hướng quan tâm, chăm sóc người khác
 
-**Đặc biệt với nữ mệnh:** tính chất này càng biểu hiện rõ nét — thể hiện qua
-nhu cầu được **yêu thương, che chở và trân trọng**.
-
 ## Học vấn & năng khiếu
 
 Thái Âm chủ về **văn học, thẩm mỹ và sự tinh tế** → chủ mệnh thường:
@@ -662,15 +686,39 @@ Thái Âm là ngôi sao của **sự hưởng thụ**:
 - Thích **ăn ngon mặc đẹp**
 - Chú trọng không gian sống
 - **Gu thẩm mỹ cao**
-- Chi tiêu **khá thoáng tay**
+- Chi tiêu **khá thoáng tay**`,
+  },
 
-## ⚠️ Hãm địa
+  {
+    id: 'thai-am-tai-menh-mieu-vuong-dung-mao',
+    title: 'Thái Âm Miếu/Vượng tại Mệnh - dung mạo',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    trangThai: ['Miếu', 'Vượng'],
+    doUuTien: 78,
+    tomTat: `✅ **Thái Âm Miếu / Vượng tại Mệnh:** thần sắc **nhu nhuận, phúc hậu**.`,
+  },
 
-Khi Thái Âm rơi vào hãm địa, các ưu điểm trên dễ biến thành:
-- **Buông thả**
-- **Ham vui**
-- **Lệ thuộc cảm xúc**
-- Khiến tâm lý **thiếu ổn định**`,
+  {
+    id: 'thai-am-tai-menh-ham-tinh-cach',
+    title: 'Thái Âm Hãm tại Mệnh - tính cách',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Thái Âm Hãm tại Mệnh:** ưu điểm dễ biến thành **buông thả, ham
+vui, lệ thuộc cảm xúc**, tâm lý thiếu ổn định.`,
+  },
+
+  {
+    id: 'thai-am-tai-menh-nu-tinh-cach',
+    title: 'Nữ mệnh - Thái Âm tại Mệnh - tâm tính',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 78,
+    tomTat: `**Nữ mệnh — Thái Âm tại Mệnh:** tính chất **đa sầu đa cảm, lãng mạn**
+biểu hiện rõ nét — cần được **yêu thương, che chở và trân trọng**.`,
   },
 
   // ============================================================
@@ -721,13 +769,6 @@ Thái Âm mang tính **âm** → phát triển sự nghiệp theo hướng:
 - **Hoạch định chiến lược**
 - **Đầu tư dài hạn**
 
-## Khi Thái Âm cư Quan Lộc
-
-Bản mệnh dễ đảm nhiệm vai trò:
-- **Quản lý**
-- **Điều phối**
-- Các công việc cần **sự thấu hiểu và tinh tế**
-
 ## ⚠️ Trường hợp Thái Âm hãm địa
 
 - Giai đoạn **tiền vận thường vất vả**
@@ -735,6 +776,16 @@ Bản mệnh dễ đảm nhiệm vai trò:
 - Tuy nhiên **trung vận và hậu vận** vẫn có cơ hội cải thiện rõ rệt nếu:
   - Gặp **vận tốt**
   - Hoặc được **cát tinh nâng đỡ**`,
+  },
+
+  {
+    id: 'thai-am-tai-quan-loc-vai-tro',
+    title: 'Thái Âm tại Quan Lộc - vai trò công việc',
+    sao: ['Thái Âm'],
+    cung: ['Quan Lộc'],
+    doUuTien: 75,
+    tomTat: `**Thái Âm cư Quan Lộc:** dễ đảm nhiệm vai trò **quản lý, điều phối**
+— các công việc cần **sự thấu hiểu và tinh tế**.`,
   },
 
   // ============================================================
@@ -746,32 +797,16 @@ Bản mệnh dễ đảm nhiệm vai trò:
     sao: ['Thái Âm'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Nam mệnh — Thái Âm tượng trưng cho VỢ:** Thái Âm sáng tại Mệnh
-hoặc Phu Thê → gặp **vợ hiền lành, đảm đang, biết quán xuyến gia đình**, làm
-kinh tế đi lên sau hôn nhân.
-
-**Nữ mệnh — Thái Âm miếu vượng:** cách **"vượng phu ích tử"** — phụ nữ của gia
-đình, biết vun vén, chăm lo đời sống tinh thần lẫn vật chất.
+    tomTat: `**Thái Âm tại Mệnh - hôn nhân:** đường tình cảm thường mang tính
+**lãng mạn và giàu cảm xúc**.
 
 ⚠️ **Duyên ngầm:** Thái Âm + **Đào Hoa, Hồng Loan, Thiên Riêu** → đường tình
 cảm phong phú, dễ được yêu mến nhưng tiềm ẩn nguy cơ **đa tình**, không tiết
 chế sẽ sinh rắc rối tình duyên.`,
 
-    chiTiet: `## Đối với Nam mệnh
+    chiTiet: `## Tính chất chung
 
-Thái Âm ngụ Mệnh **tượng trưng cho người vợ**.
-
-**Khi Thái Âm sáng sủa tại Mệnh hoặc cung Phu Thê:**
-- Đương số dễ gặp người phối ngẫu **hiền lành, đảm đang**
-- Biết **quán xuyến gia đình**
-- Góp phần làm **kinh tế đi lên sau hôn nhân**
-
-## Đối với Nữ mệnh
-
-**Thái Âm miếu vượng** = cách cục **"vượng phu ích tử"**:
-- Mẫu người **phụ nữ của gia đình**
-- Biết **vun vén**
-- Chăm lo **đời sống tinh thần lẫn vật chất** cho người thân
+Thái Âm cư Mệnh khiến tình cảm đương số **lãng mạn và giàu cảm xúc**.
 
 ## Duyên ngầm
 
@@ -783,6 +818,43 @@ Do mang tính chất **lãng mạn và giàu cảm xúc**, Thái Âm cũng chủ
 
 ⚠️ Nhưng cũng tiềm ẩn nguy cơ **đa tình** — không tiết chế sẽ sinh rắc rối về
 tình duyên.`,
+  },
+
+  {
+    id: 'thai-am-tai-menh-hon-nhan-nam',
+    title: 'Nam mệnh - Thái Âm tại Mệnh - bạn đời',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nam',
+    doUuTien: 75,
+    tomTat: `**Nam mệnh — Thái Âm tại Mệnh:** Thái Âm tượng trưng cho **vợ**.
+Thái Âm sáng → gặp **vợ hiền lành, đảm đang, biết quán xuyến gia đình**, làm
+kinh tế đi lên sau hôn nhân.`,
+  },
+
+  {
+    id: 'thai-am-tai-menh-hon-nhan-nu-mieu-vuong',
+    title: 'Nữ mệnh - Thái Âm Miếu/Vượng tại Mệnh - vượng phu ích tử',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    trangThai: ['Miếu', 'Vượng'],
+    doUuTien: 78,
+    tomTat: `✅ **Nữ mệnh — Thái Âm Miếu/Vượng tại Mệnh:** cách **"vượng phu ích
+tử"** — phụ nữ của gia đình, biết vun vén, chăm lo đời sống tinh thần lẫn vật
+chất.`,
+  },
+
+  {
+    id: 'thai-am-mieu-vuong-tai-phu-the-nam',
+    title: 'Nam mệnh - Thái Âm Miếu/Vượng tại Phu Thê',
+    sao: ['Thái Âm'],
+    cung: ['Phu Thê'],
+    gioiTinh: 'Nam',
+    trangThai: ['Miếu', 'Vượng'],
+    doUuTien: 78,
+    tomTat: `**Nam mệnh — Thái Âm Miếu/Vượng tại Phu Thê:** gặp **vợ hiền lành,
+đảm đang, biết quán xuyến gia đình**, làm kinh tế đi lên sau hôn nhân.`,
   },
 
   // ============================================================
@@ -798,11 +870,7 @@ tình duyên.`,
 
 ⚠️ **Mệnh Thái Âm bị ám tinh xâm phạm** (Đà La, Hóa Kỵ, Không Kiếp) hoặc bị
 **Tuần Triệt án ngữ** → dễ gặp **vấn đề thị lực**: cận thị, đau mắt, suy giảm
-thị giác.
-
-⚠️ **Nữ mệnh:** Thái Âm ở Mệnh còn liên quan đến **khí huyết, phụ khoa** và
-các bệnh mang tính âm thầm. Hãm địa cần đặc biệt chú ý chăm sóc **sức khỏe
-sinh sản và tinh thần**.`,
+thị giác.`,
 
     chiTiet: `## Vấn đề thị lực
 
@@ -817,18 +885,19 @@ Thái Âm cùng Thái Dương là **cặp sao chủ về đôi mắt**.
 → Đương số dễ gặp các vấn đề về thị lực:
 - **Cận thị**
 - **Đau mắt**
-- **Suy giảm thị giác**
+- **Suy giảm thị giác**`,
+  },
 
-## Riêng nữ mệnh
-
-Thái Âm ở Mệnh còn liên quan đến:
-- **Khí huyết**
-- **Phụ khoa**
-- Các bệnh mang tính **âm thầm**
-
-⚠️ Nếu Thái Âm hãm địa, cần đặc biệt chú ý:
-- Chăm sóc **sức khỏe sinh sản**
-- Chăm sóc **tinh thần**`,
+  {
+    id: 'thai-am-tai-menh-suc-khoe-nu',
+    title: 'Nữ mệnh - Thái Âm tại Mệnh - sức khỏe',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 70,
+    tomTat: `⚠️ **Nữ mệnh — Thái Âm tại Mệnh:** liên quan đến **khí huyết, phụ
+khoa** và các bệnh mang tính âm thầm. Hãm địa cần đặc biệt chú ý chăm sóc
+**sức khỏe sinh sản và tinh thần**.`,
   },
 
   // ============================================================
@@ -889,8 +958,7 @@ Ngôi sao này biểu hiện khả năng:
     tomTat: `**Thái Âm + Thiên Đồng đồng cung tại Tý/Ngọ:** mềm mại, nhân ái.
 
 ✅ **Tý (đắc):** thông minh, hiền lành, **giàu lòng trắc ẩn**, dễ gặp phúc báo.
-Cuộc sống an nhàn, tài lộc đầy đủ, tinh thần hướng thiện. **Nam:** quân sư,
-hoạch định chiến lược. **Nữ:** dung mạo ưa nhìn, phúc khí dày, gia đạo êm ấm.
+Cuộc sống an nhàn, tài lộc đầy đủ, tinh thần hướng thiện.
 
 ⚠️ **Ngọ (hãm):** cuộc đời nhiều bế tắc, tiền vận vất vả, tâm lý bất ổn, dễ thị
 phi. Nhưng "cùng tắc biến" — **Tuần / Triệt / Tam Hóa cứu giải** → bứt phá
@@ -914,14 +982,6 @@ Chủ về:
 - **Tài lộc đầy đủ**
 - Tinh thần hướng thiện
 
-**Nam mệnh:**
-- Dễ trở thành **quân sư, người hoạch định chiến lược**
-
-**Nữ mệnh:**
-- Dung mạo **ưa nhìn**
-- **Phúc khí dày**
-- Gia đạo êm ấm
-
 ## ⚠️ Thái Âm cư Ngọ (hãm địa)
 
 Chủ về:
@@ -940,6 +1000,30 @@ Chủ về:
 **Không có sao giải cứu:**
 - Cuộc đời dễ rơi vào cảnh **lao đao**
 - **Khó tụ tài**`,
+  },
+
+  {
+    id: 'thai-am-tai-menh-ty-nam',
+    title: 'Nam mệnh - Thái Âm tại Mệnh ở Tý',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Tý'],
+    gioiTinh: 'Nam',
+    doUuTien: 80,
+    tomTat: `✅ **Nam mệnh — Thái Âm tại cung Tý:** dễ trở thành **quân sư, người
+hoạch định chiến lược**.`,
+  },
+
+  {
+    id: 'thai-am-tai-menh-ty-nu',
+    title: 'Nữ mệnh - Thái Âm tại Mệnh ở Tý',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Tý'],
+    gioiTinh: 'Nữ',
+    doUuTien: 80,
+    tomTat: `✅ **Nữ mệnh — Thái Âm tại cung Tý:** dung mạo **ưa nhìn**, **phúc
+khí dày**, gia đạo **êm ấm**.`,
   },
 
   // ============================================================
@@ -997,9 +1081,8 @@ Khi đó:
     tomTat: `**Thái Âm + Thiên Cơ đồng cung tại Dần/Thân:** cuộc đời mang tính
 **dịch chuyển** rõ nét.
 
-⚠️ **Dần (mọc/lặn):** **bôn ba, ly hương**, ít ổn định. Đặc biệt **nữ mệnh
-khá kỵ** — đa sầu đa cảm, tình duyên trắc trở, tâm lý bất an. Cần nhiều cát
-tinh nâng đỡ.
+⚠️ **Dần (mọc/lặn):** **bôn ba, ly hương**, ít ổn định. Cần nhiều cát tinh nâng
+đỡ.
 
 ✅ **Thân (vượng):** khéo léo, giỏi tính toán, **năng lực quản lý tiền bạc**,
 xây dựng gia đình êm ấm. Tuy nhiên do Thiên Cơ → tâm trí hay suy nghĩ nhiều,
@@ -1017,11 +1100,6 @@ Chủ về:
 - **Ly hương**
 - Cuộc sống **ít ổn định**
 
-**Đặc biệt với nữ mệnh:** đây là vị trí **khá kỵ**:
-- Dễ **đa sầu đa cảm**
-- **Tình duyên trắc trở**
-- Tâm lý hay **bất an**
-
 → Muốn giảm bớt bất lợi, cần **hội nhiều cát tinh** để nâng đỡ.
 
 ## Mệnh Thái Âm cư Thân (vượng địa)
@@ -1035,6 +1113,18 @@ Chủ về:
 - Tâm trí hay **suy nghĩ nhiều**
 - Dễ **đa nghi**
 - Nếu không tiết chế sẽ **tự tạo áp lực** cho bản thân`,
+  },
+
+  {
+    id: 'thai-am-tai-menh-dan-nu',
+    title: 'Nữ mệnh - Thái Âm tại Mệnh ở Dần',
+    sao: ['Thái Âm'],
+    cung: ['Mệnh'],
+    chi: ['Dần'],
+    gioiTinh: 'Nữ',
+    doUuTien: 80,
+    tomTat: `⚠️ **Nữ mệnh — Thái Âm tại cung Dần:** vị trí **khá kỵ** với nữ mệnh
+— dễ **đa sầu đa cảm**, **tình duyên trắc trở**, tâm lý hay **bất an**.`,
   },
 
   // ============================================================
@@ -1193,9 +1283,6 @@ Nếu hội thêm **Hóa Kỵ** (đương số **tuổi Ất**):
     tomTat: `**Thái Âm tại Quan Lộc:** khác Thái Dương chủ Quý, Thái Âm chủ **Phú,
 tài lộc** — cần thêm **Văn Xương, Vũ Khúc** mới chủ về **địa vị xã hội**.
 
-✅ **Miếu / Vượng:** sự nghiệp ổn định, may mắn, dễ thành công.
-⚠️ **Lạc Hãm:** sự nghiệp biến động, **khó tích lũy tài sản**.
-
 **Cách thức:** Thái Âm thiên về **lập kế hoạch** chứ không tự mình hành động →
 nên làm **lập kế hoạch, quản lý tài chính**, ...`,
 
@@ -1204,17 +1291,6 @@ nên làm **lập kế hoạch, quản lý tài chính**, ...`,
 Khác với Thái Dương chủ về **Quý**, Thái Âm chủ về **Phú, tài lộc**.
 
 → Phải cần có **Văn Xương + Vũ Khúc** thì mới chủ về có **địa vị trong xã hội**.
-
-## Theo vị trí
-
-**Miếu / Vượng:**
-- Sự nghiệp **ổn định**
-- **May mắn**
-- Dễ thành công trong sự nghiệp
-
-⚠️ **Lạc Hãm:**
-- Sự nghiệp **biến động**
-- **Khó tích lũy tài sản**
 
 ## Cách làm việc phù hợp
 
@@ -1225,6 +1301,28 @@ không chủ về tự mình hành động.
 - **Lập kế hoạch**
 - **Quản lý tài chính**
 - ...`,
+  },
+
+  {
+    id: 'thai-am-tai-quan-loc-mieu-vuong',
+    title: 'Thái Âm Miếu/Vượng tại Quan Lộc',
+    sao: ['Thái Âm'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Miếu', 'Vượng'],
+    doUuTien: 75,
+    tomTat: `✅ **Thái Âm Miếu/Vượng tại Quan Lộc:** sự nghiệp **ổn định**, **may
+mắn**, dễ thành công.`,
+  },
+
+  {
+    id: 'thai-am-tai-quan-loc-ham',
+    title: 'Thái Âm Hãm tại Quan Lộc',
+    sao: ['Thái Âm'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Hãm'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thái Âm Hãm tại Quan Lộc:** sự nghiệp **biến động**, **khó
+tích lũy tài sản**.`,
   },
 
   // ============================================================
@@ -1240,12 +1338,7 @@ không chủ về tự mình hành động.
 tiền hiệu quả**, nhờ đó giàu có.
 
 ✅ **Hóa Lộc + Lộc Tồn + Hóa Quyền:** tăng khả năng quản lý tài chính, dư giả.
-✅ **Hóa Khoa:** tăng nổi tiếng + quản lý tài chính.
-
-**Theo vị trí:**
-- **Miếu / Đắc / Vượng:** giàu có, dễ kiếm tiền, công việc thuận lợi
-- **Tỵ, Hợi (hãm):** kém hơn nhưng **chủ về Quý** — đây là **hai vị trí duy nhất
-  của Thái Âm chủ về quyền lực**`,
+✅ **Hóa Khoa:** tăng nổi tiếng + quản lý tài chính.`,
 
     chiTiet: `## Tính chất
 
@@ -1262,19 +1355,30 @@ Thái Âm là **phú tinh** nhưng **chủ về tích lũy** → giỏi:
 
 **Hóa Khoa:**
 - Tăng **sự nổi tiếng**
-- Tăng **quản lý tài chính**
+- Tăng **quản lý tài chính**`,
+  },
 
-## Theo vị trí
+  {
+    id: 'thai-am-tai-tai-bach-mieu-vuong',
+    title: 'Thái Âm Miếu/Đắc/Vượng tại Tài Bạch',
+    sao: ['Thái Âm'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Miếu', 'Đắc', 'Vượng'],
+    doUuTien: 75,
+    tomTat: `✅ **Thái Âm Miếu / Đắc / Vượng tại Tài Bạch:** **giàu có, dễ kiếm
+tiền**, công việc thuận lợi.`,
+  },
 
-**Miếu / Đắc / Vượng:**
-- **Giàu có**
-- **Dễ kiếm tiền**
-- Công việc **thuận lợi**
-
-**Hãm địa tại Tỵ, Hợi:**
-- Kém hơn về tài
-- Nhưng **chủ về Quý**
-- Đây là **hai vị trí duy nhất của Thái Âm chủ về quyền lực**`,
+  {
+    id: 'thai-am-tai-tai-bach-ty-hoi-ham',
+    title: 'Thái Âm Hãm tại Tài Bạch (Tỵ, Hợi)',
+    sao: ['Thái Âm'],
+    cung: ['Tài Bạch'],
+    chi: ['Tỵ', 'Hợi'],
+    trangThai: ['Hãm'],
+    doUuTien: 80,
+    tomTat: `**Thái Âm Hãm tại Tài Bạch ở Tỵ, Hợi:** kém về tài nhưng **chủ về
+Quý** — đây là **hai vị trí duy nhất của Thái Âm chủ về quyền lực**.`,
   },
 
   // ============================================================
@@ -1329,29 +1433,36 @@ sẽ hưng phát**.`,
     doUuTien: 80,
     tomTat: `**Thái Âm tại Phụ Mẫu:** chủ về sự **ly biệt**.
 
-✅ **Nhập Miếu:** hóa giải điều hung.
-⚠️ **Lạc hãm:** bất lợi ở **mẹ** — nhẹ thì **cô độc, bé không được chăm sóc**;
-nặng thì **rời xa cha mẹ**.
-
 → Thái Âm tại Phụ Mẫu **không nên ở vị trí Hãm địa**.`,
 
     chiTiet: `## Đặc điểm chung
 
 Thái Âm ở cung Phụ Mẫu chủ về sự **ly biệt**.
 
-## Theo vị trí
-
-**Nhập Miếu:**
-- **Hóa giải** điều hung hạn
-
-⚠️ **Lạc Hãm:**
-- Bất lợi ở **mẹ**
-- **Nhẹ:** cô độc, bé không được chăm sóc
-- **Nặng:** rời xa cha mẹ
-
 ## Khuyến nghị
 
 Thái Âm ở cung Phụ Mẫu **không nên ở vị trí Hãm địa**.`,
+  },
+
+  {
+    id: 'thai-am-tai-phu-mau-mieu',
+    title: 'Thái Âm Miếu tại Phụ Mẫu',
+    sao: ['Thái Âm'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Miếu'],
+    doUuTien: 75,
+    tomTat: `✅ **Thái Âm Nhập Miếu tại Phụ Mẫu:** **hóa giải** điều hung.`,
+  },
+
+  {
+    id: 'thai-am-tai-phu-mau-ham',
+    title: 'Thái Âm Hãm tại Phụ Mẫu',
+    sao: ['Thái Âm'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Thái Âm Lạc Hãm tại Phụ Mẫu:** bất lợi ở **mẹ** — **nhẹ:** cô
+độc, bé không được chăm sóc; **nặng:** rời xa cha mẹ.`,
   },
 
   // ============================================================
@@ -1364,29 +1475,46 @@ Thái Âm ở cung Phụ Mẫu **không nên ở vị trí Hãm địa**.`,
     cung: ['Thiên Di'],
     doUuTien: 80,
     tomTat: `**Thái Âm tại Thiên Di:** khác Thái Dương — **không nên quá bộc lộ
-tài năng** vì dễ chuốc **thị phi, oán trách sau lưng**.
-
-✅ **Đắc địa:** dễ dàng **xuất ngoại**; ở cung **Thân** còn có thể **định cư
-nước ngoài**.
-✅ **Miếu địa:** rất tốt — có **nhiều tài sản**, ra ngoài được **nhiều người
-giúp đỡ**.`,
+tài năng** vì dễ chuốc **thị phi, oán trách sau lưng**.`,
 
     chiTiet: `## Đặc điểm
 
 Thái Âm khác với Thái Dương → nếu **quá bộc lộ tài năng** thì dễ chuốc:
 - **Thị phi**
-- **Oán trách sau lưng**
+- **Oán trách sau lưng**`,
+  },
 
-## Theo vị trí
+  {
+    id: 'thai-am-tai-thien-di-dac',
+    title: 'Thái Âm Đắc tại Thiên Di',
+    sao: ['Thái Âm'],
+    cung: ['Thiên Di'],
+    trangThai: ['Đắc'],
+    doUuTien: 75,
+    tomTat: `✅ **Thái Âm Đắc địa tại Thiên Di:** dễ dàng **xuất ngoại**.`,
+  },
 
-**Đắc địa:**
-- Có số dễ dàng **xuất ngoại**
-- Ở **cung Thân** còn có thể **định cư ở nước ngoài**
+  {
+    id: 'thai-am-tai-thien-di-than-dac',
+    title: 'Thái Âm Đắc tại Thiên Di ở Thân',
+    sao: ['Thái Âm'],
+    cung: ['Thiên Di'],
+    chi: ['Thân'],
+    trangThai: ['Đắc'],
+    doUuTien: 80,
+    tomTat: `✅ **Thái Âm Đắc địa tại Thiên Di ở cung Thân:** có thể **định cư ở
+nước ngoài**.`,
+  },
 
-**Miếu địa:**
-- Rất tốt
-- Có **nhiều tài sản**
-- Ra ngoài được **nhiều người giúp đỡ**`,
+  {
+    id: 'thai-am-tai-thien-di-mieu',
+    title: 'Thái Âm Miếu tại Thiên Di',
+    sao: ['Thái Âm'],
+    cung: ['Thiên Di'],
+    trangThai: ['Miếu'],
+    doUuTien: 78,
+    tomTat: `✅ **Thái Âm Miếu địa tại Thiên Di:** rất tốt — có **nhiều tài sản**,
+ra ngoài được **nhiều người giúp đỡ**.`,
   },
 
   // ============================================================
@@ -1433,27 +1561,45 @@ Thái Âm tại cung Nô Bộc chủ về:
     sao: ['Thái Âm'],
     cung: ['Tử Tức'],
     doUuTien: 80,
-    tomTat: `**Thái Âm tại Tử Tức:** **nhiều may mắn, thuận lợi về nuôi dạy con cái**.
-
-✅ **Miếu / Vượng:** **đông con**.
-✅ + **các sao Lộc:** con cái **giàu có**.
-⚠️ **Lạc Hãm:** con cái có phần **nhu nhược, hướng nội** hơn.`,
+    tomTat: `**Thái Âm tại Tử Tức:** **nhiều may mắn, thuận lợi về nuôi dạy con cái**.`,
 
     chiTiet: `## Đặc điểm chung
 
 Cung Tử Tức có sao Thái Âm:
 - **Nhiều may mắn**
-- **Thuận lợi về nuôi dạy con cái**
+- **Thuận lợi về nuôi dạy con cái**`,
+  },
 
-## Theo vị trí
+  {
+    id: 'thai-am-tai-tu-tuc-mieu-vuong',
+    title: 'Thái Âm Miếu/Vượng tại Tử Tức',
+    sao: ['Thái Âm'],
+    cung: ['Tử Tức'],
+    trangThai: ['Miếu', 'Vượng'],
+    doUuTien: 75,
+    tomTat: `✅ **Thái Âm Miếu / Vượng tại Tử Tức:** **đông con**.`,
+  },
 
-**Miếu / Vượng:**
-- Đều **đông con**
-- Gặp các **sao Lộc** → con cái **giàu có**
+  {
+    id: 'thai-am-tai-tu-tuc-mieu-vuong-loc',
+    title: 'Thái Âm Miếu/Vượng + Lộc tại Tử Tức',
+    sao: ['Thái Âm'],
+    cung: ['Tử Tức'],
+    trangThai: ['Miếu', 'Vượng'],
+    ketHop: ['Lộc Tồn', 'Hóa Lộc'],
+    doUuTien: 80,
+    tomTat: `✅ **Thái Âm Miếu/Vượng + sao Lộc tại Tử Tức:** con cái **giàu có**.`,
+  },
 
-**Lạc Hãm:**
-- Con cái có phần **nhu nhược**
-- **Hướng nội** hơn`,
+  {
+    id: 'thai-am-tai-tu-tuc-ham',
+    title: 'Thái Âm Hãm tại Tử Tức',
+    sao: ['Thái Âm'],
+    cung: ['Tử Tức'],
+    trangThai: ['Hãm'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thái Âm Lạc Hãm tại Tử Tức:** con cái có phần **nhu nhược,
+hướng nội** hơn.`,
   },
 
   // ============================================================
@@ -1465,19 +1611,23 @@ Cung Tử Tức có sao Thái Âm:
     sao: ['Thái Âm'],
     cung: ['Huynh Đệ'],
     doUuTien: 80,
-    tomTat: `**Thái Âm thủ Huynh Đệ + có sao hình:** chủ về có **chị em gái**.
-
-✅ **Nam mệnh — Thái Âm ở cung Hợi:** thường được **chị em gái giúp đỡ** hoặc
-hay **hợp tác, làm ăn với phái nữ**.`,
+    tomTat: `**Thái Âm thủ Huynh Đệ + có sao hình:** chủ về có **chị em gái**.`,
 
     chiTiet: `## Đặc điểm
 
-Thái Âm thủ cung Huynh Đệ, **có sao hình** → chủ về có **chị em gái**.
+Thái Âm thủ cung Huynh Đệ, **có sao hình** → chủ về có **chị em gái**.`,
+  },
 
-## Đặc biệt: Nam mệnh + Thái Âm ở cung Hợi
-
-- Thường được **chị em gái giúp đỡ**
-- Hoặc hay **hợp tác, làm ăn với phái nữ**`,
+  {
+    id: 'thai-am-tai-huynh-de-hoi-nam',
+    title: 'Nam mệnh - Thái Âm tại Huynh Đệ ở Hợi',
+    sao: ['Thái Âm'],
+    cung: ['Huynh Đệ'],
+    chi: ['Hợi'],
+    gioiTinh: 'Nam',
+    doUuTien: 82,
+    tomTat: `✅ **Nam mệnh — Thái Âm tại Huynh Đệ ở cung Hợi:** thường được **chị
+em gái giúp đỡ** hoặc hay **hợp tác, làm ăn với phái nữ**.`,
   },
 
   // ============================================================
@@ -1492,9 +1642,6 @@ Thái Âm thủ cung Huynh Đệ, **có sao hình** → chủ về có **chị e
     tomTat: `**Thái Âm chủ Phú** → thủ Điền Trạch có lợi trong **chuyện đất cát**.
 Có sao cát → có **tổ nghiệp kế thừa** + có thể **tự mua thêm**.
 
-✅ **Nhập Miếu:** nhà ở **nơi yên tĩnh**.
-⚠️ **Lạc hãm + sát tinh:** ở nơi **đông đúc, ồn ào**.
-
 **Tổ hợp đặc biệt:**
 - **Thiên Đồng + Thái Âm tại Điền:** có lợi cho **trồng trọt, chăn nuôi**
 - **Thiên Cơ + Thái Âm tại Điền:** hay phải **dời chuyển**, khó ổn định một nơi`,
@@ -1507,14 +1654,6 @@ Thái Âm chủ về **Phú** → thủ cung Điền Trạch có lợi trong **c
 - Có **tổ nghiệp kế thừa**
 - Cũng có thể **tự mua thêm**
 
-## Theo vị trí
-
-**Nhập Miếu:**
-- Nhà ở **nơi yên tĩnh**
-
-⚠️ **Lạc hãm hội sát tinh:**
-- Ở nơi **đông đúc, ồn ào**
-
 ## Tổ hợp đặc biệt
 
 **Thiên Đồng + Thái Âm tại cung Điền:**
@@ -1523,6 +1662,28 @@ Thái Âm chủ về **Phú** → thủ cung Điền Trạch có lợi trong **c
 **Thiên Cơ + Thái Âm tại cung Điền:**
 - Hay phải **dời chuyển**
 - **Khó ổn định tại một nơi**`,
+  },
+
+  {
+    id: 'thai-am-tai-dien-trach-mieu',
+    title: 'Thái Âm Miếu tại Điền Trạch',
+    sao: ['Thái Âm'],
+    cung: ['Điền Trạch'],
+    trangThai: ['Miếu'],
+    doUuTien: 78,
+    tomTat: `✅ **Thái Âm Nhập Miếu tại Điền Trạch:** nhà ở **nơi yên tĩnh**.`,
+  },
+
+  {
+    id: 'thai-am-tai-dien-trach-ham-sat',
+    title: 'Thái Âm Hãm + sát tinh tại Điền Trạch',
+    sao: ['Thái Âm'],
+    cung: ['Điền Trạch'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Thái Âm Lạc Hãm + sát tinh tại Điền Trạch:** ở nơi **đông đúc,
+ồn ào**.`,
   },
 
   // ============================================================
@@ -1534,34 +1695,45 @@ Thái Âm chủ về **Phú** → thủ cung Điền Trạch có lợi trong **c
     sao: ['Thái Âm'],
     cung: ['Phúc Đức'],
     doUuTien: 80,
-    tomTat: `**Thái Âm tại Phúc Đức:** thích **yên tĩnh**, không ưa náo nhiệt.
-
-✅ **Miếu địa:** **lạc quan, biết hưởng thụ đời sống tinh thần**, **phúc lộc
-song toàn, sống thọ, vui vẻ thoải mái đến già**.
-
-⚠️ **Hãm địa:** **năng lực cạnh tranh không mạnh**.
-
-⚠️ **Miếu địa + Địa Không + Địa Kiếp:** sẽ thành **vô tâm**.`,
+    tomTat: `**Thái Âm tại Phúc Đức:** thích **yên tĩnh**, không ưa náo nhiệt.`,
 
     chiTiet: `## Đặc điểm chung
 
-Thông thường chỉ người thích sự **yên tĩnh**, **không ưa náo nhiệt**.
+Thông thường chỉ người thích sự **yên tĩnh**, **không ưa náo nhiệt**.`,
+  },
 
-## Theo vị trí
+  {
+    id: 'thai-am-tai-phuc-duc-mieu',
+    title: 'Thái Âm Miếu tại Phúc Đức',
+    sao: ['Thái Âm'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Miếu'],
+    doUuTien: 75,
+    tomTat: `✅ **Thái Âm Miếu địa tại Phúc Đức:** thường **lạc quan, biết hưởng
+thụ đời sống tinh thần**, **phúc lộc song toàn, sống thọ, vui vẻ thoải mái đến
+già**.`,
+  },
 
-⚠️ **Hãm địa:**
-- **Năng lực cạnh tranh không mạnh**
+  {
+    id: 'thai-am-tai-phuc-duc-ham',
+    title: 'Thái Âm Hãm tại Phúc Đức',
+    sao: ['Thái Âm'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Hãm'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thái Âm Hãm địa tại Phúc Đức:** **năng lực cạnh tranh không mạnh**.`,
+  },
 
-**Miếu địa:**
-- Thường **lạc quan**
-- **Biết hưởng thụ đời sống tinh thần**
-- **Phúc lộc song toàn**
-- **Sống thọ**
-- **Vui vẻ thoải mái đến già**
-
-## ⚠️ Miếu địa + Địa Không + Địa Kiếp
-
-- Sẽ thành **vô tâm**`,
+  {
+    id: 'thai-am-tai-phuc-duc-mieu-khong-kiep',
+    title: 'Thái Âm Miếu + Không Kiếp tại Phúc Đức',
+    sao: ['Thái Âm'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Miếu'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Thái Âm Miếu địa + Địa Không + Địa Kiếp tại Phúc Đức:** sẽ thành
+**vô tâm**.`,
   },
 
   // ============================================================

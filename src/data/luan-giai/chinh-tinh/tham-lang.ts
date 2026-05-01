@@ -180,10 +180,11 @@ tính chất** của sao:
     id: 'tham-lang-bo-sao-xau-kinh-da',
     title: 'Tham Lang + Kình Dương + Đà La',
     sao: ['Tham Lang'],
+    cung: ['Mệnh'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 45,
-    tomTat: `⚠️ **Tham Lang + Kình Dương + Đà La:** kích hoạt mặt tối của Tham
-Lang tọa Mệnh, dễ dẫn đến **sa đọa vì sắc, rượu, cờ bạc**.`,
+    tomTat: `⚠️ **Tham Lang + Kình Dương + Đà La đồng độ:** kích hoạt mặt tối của
+Tham Lang, dễ dẫn đến **sa đọa vì sắc, rượu, cờ bạc**.`,
   },
 
   {
@@ -780,16 +781,10 @@ Thích hợp với những nghề nghiệp:
     title: 'Tham Lang tại Tài Bạch',
     sao: ['Tham Lang'],
     cung: ['Tài Bạch'],
-    doUuTien: 80,
+    doUuTien: 78,
     tomTat: `**Tham Lang tại Tài Bạch:** **phóng khoáng, rộng rãi** nhưng biết
 **tính toán + kiếm tiền giỏi**. Tuy nhiên **không giỏi giữ tiền** — thiên về
-**"lấy công làm thủ"**.
-
-✅ **Đắc / Miếu / Vượng:** dễ kiếm tiền, **nhanh phát đạt**, phù hợp **buôn
-bán, kinh doanh** → giàu có.
-
-⚠️ **Tham Lang Hóa Kỵ:** kiếm tiền dễ vướng **thị phi, tranh chấp tiền bạc**.
-**+ Liêm Trinh:** **vất vả** trong vấn đề tài chính.`,
+**"lấy công làm thủ"**. Xem entry chuyên biệt theo trạng thái và bộ kết hợp.`,
 
     chiTiet: `## Tính cách tài chính
 
@@ -800,20 +795,41 @@ Tham Lang ở cung Tài chủ về người:
 **Tuy nhiên:** Tham Lang **không giỏi giữ tiền** — thiên về khuynh hướng
 **"lấy công làm thủ"**.
 
-## ✅ Đắc / Miếu / Vượng
+→ Diễn giải theo trạng thái và bộ kết hợp được tách thành luận giải riêng.`,
+  },
 
-- **Dễ kiếm tiền**
-- **Nhanh phát đạt**
-- Phù hợp với các nghề **buôn bán, kinh doanh** → trở nên **giàu có**
+  {
+    id: 'tham-lang-tai-tai-bach-dac-mieu-vuong',
+    title: 'Tham Lang Đắc / Miếu / Vượng tại Tài Bạch',
+    sao: ['Tham Lang'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Đắc', 'Miếu', 'Vượng'],
+    doUuTien: 80,
+    tomTat: `✅ **Tham Lang ĐẮC / MIẾU / VƯỢNG tại Tài Bạch:** **dễ kiếm tiền**,
+**nhanh phát đạt**, phù hợp các nghề **buôn bán, kinh doanh** → trở nên **giàu
+có**.`,
+  },
 
-## ⚠️ Tham Lang Hóa Kỵ
+  {
+    id: 'tham-lang-tai-tai-bach-hoa-ky',
+    title: 'Tham Lang Hóa Kỵ tại Tài Bạch',
+    sao: ['Tham Lang'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Tham Lang Hóa Kỵ tại Tài Bạch:** kiếm tiền dễ vướng **thị phi,
+tranh chấp tiền bạc**.`,
+  },
 
-- Kiếm tiền sẽ dễ tính vào **thị phi**
-- **Tranh chấp trong chuyện tiền bạc**
-
-## ⚠️ + Liêm Trinh
-
-- Sẽ phải **vất vả** trong vấn đề tài chính`,
+  {
+    id: 'tham-lang-tai-tai-bach-liem-trinh',
+    title: 'Tham Lang tại Tài Bạch + Liêm Trinh',
+    sao: ['Tham Lang'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Liêm Trinh'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Tham Lang tại Tài Bạch + Liêm Trinh:** sẽ phải **vất vả** trong
+vấn đề tài chính.`,
   },
 
   // ============================================================
@@ -824,26 +840,38 @@ Tham Lang ở cung Tài chủ về người:
     title: 'Tham Lang tại Phụ Mẫu (đặc tính chung)',
     sao: ['Tham Lang'],
     cung: ['Phụ Mẫu'],
-    doUuTien: 80,
-    tomTat: `**Tham Lang tại Phụ Mẫu:**
+    doUuTien: 75,
+    tomTat: `**Tham Lang tại Phụ Mẫu:** đặc tính cha mẹ thay đổi theo trạng
+thái + bộ kết hợp — xem entry chuyên biệt.`,
 
-✅ **Miếu / Vượng:** cha mẹ **sống thọ, sức khỏe tốt**.
-⚠️ **Hãm địa:** hôn nhân cha mẹ **không bền chặt, dễ ly biệt**.`,
+    chiTiet: `## Tổng quan
 
-    chiTiet: `## Theo vị trí
+Tham Lang tại Phụ Mẫu chủ về cha mẹ — biểu hiện thay đổi theo trạng thái và
+bộ kết hợp.
 
-**Miếu / Vượng:**
-- Cha mẹ **sống thọ**
-- Có **sức khỏe tốt**
+→ Diễn giải theo trạng thái + bộ kết hợp được tách thành luận giải riêng.`,
+  },
 
-⚠️ **Hãm địa:**
-- Hôn nhân cha mẹ **không bền chặt**
-- **Dễ ly biệt**
+  {
+    id: 'tham-lang-tai-phu-mau-mieu-vuong',
+    title: 'Tham Lang Miếu / Vượng tại Phụ Mẫu',
+    sao: ['Tham Lang'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Miếu', 'Vượng'],
+    doUuTien: 78,
+    tomTat: `✅ **Tham Lang MIẾU / VƯỢNG tại Phụ Mẫu:** cha mẹ **sống thọ, sức khỏe
+tốt**.`,
+  },
 
-## Cát kết hợp
-
-**+ Linh Tinh + Hỏa Tinh + Không Kiếp đồng hội ở vị trí Đắc địa:**
-- Cha mẹ **giàu có, an nhàn**`,
+  {
+    id: 'tham-lang-tai-phu-mau-ham',
+    title: 'Tham Lang Hãm tại Phụ Mẫu',
+    sao: ['Tham Lang'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Tham Lang HÃM tại Phụ Mẫu:** hôn nhân cha mẹ **không bền chặt,
+dễ ly biệt**.`,
   },
 
   {
@@ -865,44 +893,56 @@ hội ở vị trí Đắc địa:** cha mẹ **giàu có, an nhàn**.`,
     title: 'Tham Lang tại Phu Thê',
     sao: ['Tham Lang'],
     cung: ['Phu Thê'],
-    doUuTien: 80,
-    tomTat: `**Tham Lang tại Phu Thê:**
+    doUuTien: 75,
+    tomTat: `**Tham Lang tại Phu Thê:** đặc tính hôn nhân thay đổi theo trạng
+thái và giới tính — chia thành các entry chuyên biệt.
 
-✅ **Vị trí Vượng:** yếu tố đào hoa giảm nhẹ → **vợ chồng tài giỏi, hôn nhân
-hạnh phúc**. **+ Sát tinh** — sóng gió chỉ ở **trước hôn nhân**. → Nên **kết
-hôn muộn**.
+⚠️ Tổng quát: **ly hôn rồi tái hôn sẽ càng BẤT LỢI**.`,
 
-⚠️ **Hãm địa:**
-- **Nam:** nên lấy **vợ lớn tuổi hơn mình**
-- **Nữ:** cần lấy chồng **xứng đôi** mới tránh sự cố
+    chiTiet: `## Tổng quan
 
-⚠️ Dù nam hay nữ, **ly hôn rồi tái hôn sẽ càng BẤT LỢI**.`,
-
-    chiTiet: `## ✅ Vị trí Vượng
-
-- Yếu tố **đào hoa được giảm nhẹ** → tính chất khá tốt
-- Vợ chồng **tài giỏi**
-- Hôn nhân **hạnh phúc**
-
-**Dù có sát tinh:**
-- Sóng gió chỉ ở **giai đoạn trước hôn nhân**
-- Tình yêu sóng gió
-
-→ Cũng chính vì thế, Tham Lang Vượng địa chủ về **kết hôn muộn**.
-
-## ⚠️ Hãm địa
-
-**Nam:**
-- Nên lấy **vợ lớn tuổi hơn mình**
-
-**Nữ:**
-- Cần phải lấy chồng **xứng đôi**
-- → Mới có thể tránh xảy ra sự cố chẳng lành
+Tham Lang tại Phu Thê chủ về hôn nhân — diễn giải theo trạng thái và giới
+tính được tách thành luận giải riêng.
 
 ## ⚠️ Tái hôn
 
-Hơn nữa, dù là **nam mệnh hay nữ mệnh**, nếu **ly hôn rồi tái hôn** sẽ càng
-**bất lợi**.`,
+Trong mọi trường hợp, nếu **ly hôn rồi tái hôn** sẽ càng **bất lợi**.`,
+  },
+
+  {
+    id: 'tham-lang-tai-phu-the-vuong',
+    title: 'Tham Lang Vượng tại Phu Thê',
+    sao: ['Tham Lang'],
+    cung: ['Phu Thê'],
+    trangThai: ['Vượng'],
+    doUuTien: 80,
+    tomTat: `✅ **Tham Lang VƯỢNG tại Phu Thê:** yếu tố đào hoa giảm nhẹ → **vợ
+chồng tài giỏi, hôn nhân hạnh phúc**. Dù có sát tinh, sóng gió chỉ ở **trước hôn
+nhân**. Nên **kết hôn muộn**.`,
+  },
+
+  {
+    id: 'tham-lang-tai-phu-the-ham-nam',
+    title: 'Tham Lang Hãm tại Phu Thê - Nam mệnh',
+    sao: ['Tham Lang'],
+    cung: ['Phu Thê'],
+    trangThai: ['Hãm'],
+    gioiTinh: 'Nam',
+    doUuTien: 78,
+    tomTat: `⚠️ **Nam mệnh — Tham Lang HÃM tại Phu Thê:** nên lấy **vợ lớn tuổi
+hơn mình**.`,
+  },
+
+  {
+    id: 'tham-lang-tai-phu-the-ham-nu',
+    title: 'Tham Lang Hãm tại Phu Thê - Nữ mệnh',
+    sao: ['Tham Lang'],
+    cung: ['Phu Thê'],
+    trangThai: ['Hãm'],
+    gioiTinh: 'Nữ',
+    doUuTien: 78,
+    tomTat: `⚠️ **Nữ mệnh — Tham Lang HÃM tại Phu Thê:** cần lấy chồng **xứng
+đôi** mới tránh sự cố.`,
   },
 
   // ============================================================
@@ -992,16 +1032,9 @@ mới được **lâu dài**.`,
     title: 'Tham Lang tại Phúc Đức',
     sao: ['Tham Lang'],
     cung: ['Phúc Đức'],
-    doUuTien: 80,
+    doUuTien: 78,
     tomTat: `✅ **Tham Lang tại Phúc Đức:** **phát huy ưu điểm**, đem lại nhiều
-**may mắn**.
-
-✅ **+ Vũ Khúc đồng hợp:** họ hàng nhiều người **giàu nhờ buôn bán**, phúc lộc
-đầy đủ. Vượng + Vũ Khúc → **hưởng phúc thọ, hậu vận**, họ hàng **vinh hoa phú
-quý**.
-
-⚠️ **Hãm địa + đào hoa:** cuộc đời **phong lưu**, **khí chất + tài nghệ**
-khiến người khác giới **chao đảo**.`,
+**may mắn**. Xem entry chuyên biệt theo Vũ Khúc / trạng thái Hãm.`,
 
     chiTiet: `## Đặc điểm chung
 
@@ -1009,22 +1042,42 @@ Tham Lang chủ cung Phúc Đức sẽ:
 - **Phát huy những ưu điểm** của sao
 - Đem lại nhiều **may mắn**
 
-## ✅ + Vũ Khúc đồng hợp
+→ Diễn giải theo trạng thái + bộ kết hợp được tách thành luận giải riêng.`,
+  },
 
-- Họ hàng nhiều người **giàu nhờ buôn bán**
-- **Phúc lộc đầy đủ**
+  {
+    id: 'tham-lang-tai-phuc-duc-vu-khuc',
+    title: 'Tham Lang tại Phúc Đức + Vũ Khúc',
+    sao: ['Tham Lang'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Vũ Khúc'],
+    doUuTien: 75,
+    tomTat: `✅ **Tham Lang tại Phúc Đức + Vũ Khúc đồng hợp:** họ hàng nhiều người
+**giàu nhờ buôn bán**, **phúc lộc đầy đủ**.`,
+  },
 
-**Tham Lang ở vị trí Vượng đi với Vũ Khúc:**
-- Được hưởng **phúc thọ**
-- Có **hậu vận**
-- Họ hàng cũng được **vinh hoa phú quý**
+  {
+    id: 'tham-lang-tai-phuc-duc-vuong-vu-khuc',
+    title: 'Tham Lang Vượng tại Phúc Đức + Vũ Khúc',
+    sao: ['Tham Lang'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Vượng'],
+    ketHop: ['Vũ Khúc'],
+    doUuTien: 80,
+    tomTat: `✅ **Tham Lang VƯỢNG tại Phúc Đức + Vũ Khúc:** được hưởng **phúc thọ**,
+có **hậu vận**, họ hàng cũng được **vinh hoa phú quý**.`,
+  },
 
-## ⚠️ Hãm địa + đào hoa
-
-Ở vị trí Hãm địa hội các sao đào hoa:
-- Cuộc đời **phong lưu**
-- Có **khí chất và tài nghệ**
-- → Khiến **người khác giới chao đảo**`,
+  {
+    id: 'tham-lang-tai-phuc-duc-ham-dao-hong',
+    title: 'Tham Lang Hãm tại Phúc Đức + Đào Hồng',
+    sao: ['Tham Lang'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Hãm'],
+    ketHop: ['Đào Hoa', 'Hồng Loan'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Tham Lang HÃM tại Phúc Đức + Đào Hoa / Hồng Loan:** cuộc đời
+**phong lưu**, **khí chất và tài nghệ** khiến **người khác giới chao đảo**.`,
   },
 
   // ============================================================
@@ -1123,12 +1176,9 @@ Tham Lang ở cung Huynh Đệ đều chủ về:
     cung: ['Tật Ách'],
     doUuTien: 80,
     tomTat: `**Tham Lang thuộc DƯƠNG MỘC + còn thuộc THỦY** → tại Tật Ách chủ
-về:
-- **Bệnh GAN, THẬN**
-- **Bệnh sinh dục**
-- ...
+về **bệnh GAN, THẬN, sinh dục**.
 
-✅ **Miếu / Vượng:** giảm bớt tai họa, bệnh tật.`,
+→ Diễn giải theo trạng thái được tách thành luận giải riêng.`,
 
     chiTiet: `## Bệnh chính
 
@@ -1138,8 +1188,17 @@ Tham Lang thuộc **dương Mộc**, còn thuộc **Thủy** → tại Tật Ác
 - Hoặc **bệnh sinh dục**
 - ...
 
-## ✅ Miếu / Vượng
+→ Diễn giải theo trạng thái được tách thành luận giải riêng.`,
+  },
 
-- Có thể **giảm bớt tai họa, bệnh tật**`,
+  {
+    id: 'tham-lang-tai-tat-ach-mieu-vuong',
+    title: 'Tham Lang Miếu / Vượng tại Tật Ách',
+    sao: ['Tham Lang'],
+    cung: ['Tật Ách'],
+    trangThai: ['Miếu', 'Vượng'],
+    doUuTien: 75,
+    tomTat: `✅ **Tham Lang MIẾU / VƯỢNG tại Tật Ách:** có thể **giảm bớt tai
+họa, bệnh tật**.`,
   },
 ];

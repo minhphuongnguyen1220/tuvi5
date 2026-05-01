@@ -131,8 +131,19 @@ for await (const file of walk(ROOT)) {
       ketHopField.length || trangThaiField.length || gioiTinhStr;
     if (!hasSpecific) continue;
 
-    const tomTat = getTemplateField(ent.src, 'tomTat') || '';
-    const chiTiet = getTemplateField(ent.src, 'chiTiet') || '';
+    const tomTatRaw = getTemplateField(ent.src, 'tomTat') || '';
+    const chiTietRaw = getTemplateField(ent.src, 'chiTiet') || '';
+    // Bỏ qua dòng "pointer" trỏ tới entries đã tách (vd "Xem entry chuyên biệt cho ...").
+    // Những dòng này là metadata, không phải rule, không cần audit.
+    const stripPointerLines = (s) => s.split('\n').filter(line => {
+      const t = line.trim();
+      if (/Xem entry chuyên biệt/i.test(t)) return false;
+      if (/được tách thành luận giải riêng/i.test(t)) return false;
+      if (/Tổ hợp .* được tách/i.test(t)) return false;
+      return true;
+    }).join('\n');
+    const tomTat = stripPointerLines(tomTatRaw);
+    const chiTiet = stripPointerLines(chiTietRaw);
     const content = tomTat + '\n' + chiTiet;
     const saoField = getArrayField(ent.src, 'sao') || [];
     const ketHopFieldArr = getArrayField(ent.src, 'ketHop') || [];
@@ -259,18 +270,32 @@ for (const f of flagged) {
 const sorted = [...byFile.keys()].sort();
 const argv = process.argv.slice(2);
 const summaryOnly = argv.includes('--summary');
+const filterArg = argv.find(a => a.startsWith('--filter='));
+const filterRe = filterArg ? new RegExp(filterArg.slice('--filter='.length)) : null;
+if (filterRe) {
+  for (const k of [...byFile.keys()]) {
+    if (!filterRe.test(k)) byFile.delete(k);
+  }
+}
 
-if (!summaryOnly) {
+{
+  // Always write detailed report to file (next to script).
+  const lines = [];
   for (const f of sorted) {
-    console.log(`\n## ${f}`);
+    lines.push(`\n## ${f}`);
     for (const e of byFile.get(f)) {
-      console.log(`\n### ${e.id}`);
-      console.log(`  cung=[${e.cungField.join(',')}] chi=[${e.chiField.join(',')}] trangThai=[${e.trangThaiField.join(',')}]`);
+      lines.push(`\n### ${e.id}`);
+      lines.push(`  cung=[${e.cungField.join(',')}] chi=[${e.chiField.join(',')}] trangThai=[${e.trangThaiField.join(',')}]`);
       for (const fl of e.flags) {
-        console.log(`  - ${fl.kind}: ${fl.detail}`);
-        if (fl.snippet) console.log(`    "${fl.snippet}"`);
+        lines.push(`  - ${fl.kind}: ${fl.detail}`);
+        if (fl.snippet) lines.push(`    "${fl.snippet}"`);
       }
     }
+  }
+  const { writeFile } = await import('node:fs/promises');
+  await writeFile('audit-output.txt', lines.join('\n'), 'utf8');
+  if (!summaryOnly) {
+    for (const l of lines) console.log(l);
   }
 }
 

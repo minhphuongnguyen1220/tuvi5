@@ -101,16 +101,32 @@ chiếm đoạt**.`,
     title: 'Thiên Phủ tại Mệnh - Dung mạo',
     sao: ['Thiên Phủ'],
     cung: ['Mệnh'],
-    doUuTien: 80,
-    tomTat: `**Thiên Phủ cư Mệnh:**
+    doUuTien: 78,
+    tomTat: `**Thiên Phủ cư Mệnh:** mặt **vuông, hồng hào, răng trắng**, thần mắt
+hoạt bát, **tướng mạo thanh tú**, tinh thần dồi dào, nước da đẹp. Xem entry
+chuyên biệt cho Nam / Nữ mệnh.`,
+  },
 
-- **Nữ:** thân hình **đầy đặn**, vẻ mặt **tươi đẹp như hoa mới nở**, trong sáng,
-  hoạt bát
-- **Nam trước trung niên:** thân hình vừa phải
-- **Nam sau trung niên:** **to béo, bụng phệ**
+  {
+    id: 'thien-phu-tai-menh-dung-mao-nu',
+    title: 'Thiên Phủ tại Mệnh - Dung mạo Nữ mệnh',
+    sao: ['Thiên Phủ'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 75,
+    tomTat: `**Nữ mệnh — Thiên Phủ cư Mệnh:** thân hình **đầy đặn**, vẻ mặt **tươi
+đẹp như hoa mới nở**, trong sáng, hoạt bát.`,
+  },
 
-Mặt **vuông, hồng hào, răng trắng**, thần mắt hoạt bát, **tướng mạo thanh tú**,
-tinh thần dồi dào, nước da đẹp.`,
+  {
+    id: 'thien-phu-tai-menh-dung-mao-nam',
+    title: 'Thiên Phủ tại Mệnh - Dung mạo Nam mệnh',
+    sao: ['Thiên Phủ'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nam',
+    doUuTien: 75,
+    tomTat: `**Nam mệnh — Thiên Phủ cư Mệnh:** trước trung niên thân hình vừa phải;
+sau trung niên thường **to béo, bụng phệ**.`,
   },
 
   // ============================================================
@@ -209,9 +225,19 @@ mạo hiểm đột phá.
 → **Thích hợp với nơi công bộc cửa quan** (làm quan, công chức, thể chế ổn định).
 
 **Người có tham vọng và mưu lược**, lên kế hoạch chi tiết — nhưng khi bắt tay
-vào làm thì **lười biếng** hoặc phấn đấu đến mức nào đó rồi bỏ.
+vào làm thì **lười biếng** hoặc phấn đấu đến mức nào đó rồi bỏ.`,
+  },
 
-**Mệnh nữ:** thích ổn định; gặp **Tử Vi tam phương tứ chính** → mệnh nữ phú quý.`,
+  {
+    id: 'thien-phu-tai-menh-su-nghiep-nu',
+    title: 'Thiên Phủ tại Mệnh - Sự nghiệp Nữ mệnh',
+    sao: ['Thiên Phủ'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    ketHop: ['Tử Vi'],
+    doUuTien: 75,
+    tomTat: `✅ **Nữ mệnh — Thiên Phủ tại Mệnh + Tử Vi tam phương tứ chính:** thích
+ổn định; gặp Tử Vi → mệnh nữ **phú quý**.`,
   },
 
   // ============================================================
@@ -222,6 +248,7 @@ vào làm thì **lười biếng** hoặc phấn đấu đến mức nào đó r
     title: 'Thiên Phủ tại Mệnh - Mệnh nữ',
     sao: ['Thiên Phủ'],
     cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
     doUuTien: 78,
     tomTat: `**Phụ nữ Thiên Phủ cư Mệnh** thông minh, **xinh đẹp, thanh tú, thanh
 tao**, khéo léo, có lý trí.
@@ -392,10 +419,18 @@ gia đình thường có **xích mích, mâu thuẫn** giữa các thành viên.
     cung: ['Phúc Đức'],
     doUuTien: 78,
     tomTat: `**Thiên Phủ tại Phúc Đức:** dòng họ có nhiều người **làm nên việc
-lớn, có danh vọng, sự nghiệp rực rỡ**.
+lớn, có danh vọng, sự nghiệp rực rỡ**.`,
+  },
 
-⚠️ Ở **Đắc địa:** họ hàng thường **đi xa quê hương lập nghiệp**, tuy giàu có
-nhưng **không hòa thuận, thân thiết** với nhau.`,
+  {
+    id: 'thien-phu-tai-phuc-duc-dac',
+    title: 'Thiên Phủ Đắc tại Phúc Đức',
+    sao: ['Thiên Phủ'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Đắc'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiên Phủ ĐẮC tại Phúc Đức:** họ hàng thường **đi xa quê hương
+lập nghiệp**, tuy giàu có nhưng **không hòa thuận, thân thiết** với nhau.`,
   },
 
   // ============================================================
@@ -444,12 +479,21 @@ mở rộng**, mua được nhiều **bất động sản**.`,
     title: 'Thiên Phủ tại Quan Lộc (đặc tính chung)',
     sao: ['Thiên Phủ'],
     cung: ['Quan Lộc'],
-    doUuTien: 82,
+    doUuTien: 80,
     tomTat: `**Thiên Phủ tại Quan Lộc:** tiềm năng làm các công việc liên quan đến
-**tiền** — **ngân hàng, kiểm toán, tài chính**. Tăng khả năng **quản lý và giữ tiền**.
+**tiền** — **ngân hàng, kiểm toán, tài chính**. Tăng khả năng **quản lý và giữ
+tiền**. **Làm việc nhà nước** ổn định nhưng thăng tiến chậm.`,
+  },
 
-- **Bình hòa:** nên **khởi nghiệp, tự làm chủ** doanh nghiệp → tài lộc rộng mở
-- **Làm việc nhà nước:** ổn định nhưng thăng tiến chậm`,
+  {
+    id: 'thien-phu-tai-quan-loc-binh',
+    title: 'Thiên Phủ Bình hòa tại Quan Lộc',
+    sao: ['Thiên Phủ'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Bình'],
+    doUuTien: 75,
+    tomTat: `**Thiên Phủ BÌNH HÒA tại Quan Lộc:** nên **khởi nghiệp, tự làm chủ**
+doanh nghiệp → tài lộc rộng mở.`,
   },
 
   {
@@ -623,11 +667,22 @@ nghiệp cùng nhau** ("đồng vợ đồng chồng"), gia đình đầm ấm, 
     title: 'Thiên Phủ tại Huynh Đệ (đặc tính chung)',
     sao: ['Thiên Phủ'],
     cung: ['Huynh Đệ'],
-    doUuTien: 75,
-    tomTat: `**Thiên Phủ tại Huynh Đệ** (cung vị **bình thường**):
+    doUuTien: 73,
+    tomTat: `**Thiên Phủ tại Huynh Đệ** (cung vị **bình thường**) — xem entry
+chuyên biệt cho Miếu / Vượng + cát tinh.`,
+  },
 
-- **Miếu / Vượng + Văn Xương / Văn Khúc / Thiên Khôi:** nhiều **anh em tài giỏi**,
-  thường **giúp đỡ khi khó khăn, hoạn nạn**`,
+  {
+    id: 'thien-phu-tai-huynh-de-mieu-vuong-cat',
+    title: 'Thiên Phủ Miếu / Vượng tại Huynh Đệ + cát tinh',
+    sao: ['Thiên Phủ'],
+    cung: ['Huynh Đệ'],
+    trangThai: ['Miếu', 'Vượng'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Thiên Khôi'],
+    doUuTien: 75,
+    tomTat: `✅ **Thiên Phủ MIẾU / VƯỢNG tại Huynh Đệ + Văn Xương / Văn Khúc /
+Thiên Khôi:** nhiều **anh em tài giỏi**, thường **giúp đỡ khi khó khăn, hoạn
+nạn**.`,
   },
 
   {
