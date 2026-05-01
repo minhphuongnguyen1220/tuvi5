@@ -128,9 +128,10 @@ mang tính chất **QUÝ TỘC, CAO SANG**.
 
   {
     id: 'duong-tuong-suy-toi-to-giup-viec',
-    title: 'Dưỡng + Thiên Tướng + Suy - Làm tôi tớ giúp việc',
+    title: 'Dưỡng + Thiên Tướng + Suy tại Thiên Di - Làm tôi tớ giúp việc',
     sao: ['Dưỡng'],
     ketHop: ['Thiên Tướng', 'Suy'],
+    cung: ['Thiên Di'],
     doUuTien: 55,
     tomTat: `⚠️ **Dưỡng + Thiên Tướng + Suy tại Thiên Di** — dễ làm **TÔI TỚ, GIÚP VIỆC**
 nhà quyền môn.
@@ -203,8 +204,7 @@ PHỤC VỤ** không được ghi nhận.
 - Thích **QUAN TÂM CHĂM SÓC** mọi người xung quanh
 - Là người **BIẾT QUAN TÂM, CHĂM SÓC BẢN THÂN, YÊU ĐỜI**
 
-⚡ **Thân có sao Dưỡng:** về già **ĐÔNG CON, ĐÔNG CHÁU**, được **QUAN TÂM
-CHĂM LO** khi về già.`,
+⚡ **Hậu vận:** về già **ĐÔNG CON, ĐÔNG CHÁU**, được **QUAN TÂM CHĂM LO** khi về già.`,
   },
 
   {

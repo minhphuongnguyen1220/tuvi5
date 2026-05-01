@@ -107,10 +107,6 @@ thường có:
 - **ÔN HÒA, NHÂN HẬU**
 - **THANH TAO, ĐIỀM ĐẠM, CỞI MỞ**
 
-🌟 **Riêng phụ nữ:**
-- **ĐOAN TRANG** trong nết hạnh
-- "**Công dung ngôn hạnh**" vẹn toàn
-
 🌟 **Công danh - Tài lộc:**
 - May mắn trong **KHOA BẢNG VĂN CHƯƠNG**
 - **THI ĐỖ CAO**, có **KHOA GIÁP LỚN**
@@ -126,6 +122,20 @@ Long Trì thể hiện **TƯƠNG ĐỐI VẸN TOÀN** về:
 - **GIA ĐẠO**
 
 → Đây là **CÁT TINH ĐẸP VẸN TOÀN** trong tử vi.`,
+  },
+
+  {
+    id: 'long-tri-tai-menh-nu',
+    title: 'Long Trì tại Mệnh - nữ mệnh đoan trang',
+    sao: ['Long Trì'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 72,
+    tomTat: `🌟 **Long Trì thủ Mệnh - Nữ mệnh:**
+- **ĐOAN TRANG** trong nết hạnh
+- "**Công dung ngôn hạnh**" vẹn toàn
+- Phẩm hạnh thanh cao
+- Thần thái ôn hòa, nhân hậu`,
   },
 
   {
@@ -169,8 +179,9 @@ Long Trì thể hiện **TƯƠNG ĐỐI VẸN TOÀN** về:
     sao: ['Long Trì'],
     ketHop: ['Thiên Lương'],
     cung: ['Phu Thê', 'Mệnh'],
+    gioiTinh: 'Nữ',
     doUuTien: 70,
-    tomTat: `🌟 **Long Trì + Thiên Lương** (đặc biệt **NỮ MỆNH**):
+    tomTat: `🌟 **Long Trì + Thiên Lương** (Nữ mệnh):
 
 🌟 **Đặc trưng:**
 - Nữ mệnh có **CHỒNG DANH GIÁ**

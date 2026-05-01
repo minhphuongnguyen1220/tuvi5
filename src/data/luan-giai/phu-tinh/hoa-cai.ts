@@ -244,7 +244,7 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     sao: ['Hoa Cái'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Hoa Cái tại Thiên Di** — phần nào tương đồng khi thủ tại Mệnh.
+    tomTat: `**Hoa Cái tại Thiên Di** — phần nào tương đồng cách thủ ở vị trí gốc.
 
 ⚡ **Đặc trưng:**
 - Tỏa ra **SỨC HÚT ĐẶC BIỆT**

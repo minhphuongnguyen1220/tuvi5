@@ -113,28 +113,50 @@ hoặc vết sẹo**.`,
     sao: ['Đà La'],
     cung: ['Mệnh'],
     doUuTien: 85,
-    tomTat: `**Đà La cư Mệnh:**
+    tomTat: `**Đà La cư Mệnh** — tính cách phụ thuộc nặng vào trạng thái sao.
 
-🌟 **Đắc địa (Thìn/Tuất/Sửu/Mùi):** **quả cảm, có cơ mưu quyền biến**, **khôn
-ngoan, nhìn xa trông rộng**, ít ai qua mặt được. **Thận trọng, tính toán kỹ**,
-hơi nham hiểm nhưng nhẹ, dễ tiết chế.
+(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
 
-⚠️ **Hãm địa:** **hung bạo, gian xảo, lưu manh, dâm dật, liều lĩnh**, làm việc
-**không từ thủ đoạn**, biết sai vẫn làm. **Ngang tàng, bướng bỉnh, khó khuyên
-bảo**, hay **nói xấu người khác, nuôi oán thù**. Vì là **Tiểu Hóa Kỵ** → dễ gây
-**khẩu nghiệp** và **bị cô lập**.`,
+    chiTiet: `## Hóa giải khi Đà La hãm
 
-    chiTiet: `## Sự nghiệp phù hợp
-
-**Đắc địa:** mưu trí, thao lược → phù hợp **quân sự, tình báo**, lĩnh vực đòi
-hỏi **kín đáo và mưu lược**.
-
-## Hóa giải
-
-**Hãm địa:** cần các sao hóa giải:
+Cần các sao hóa giải:
 - **Tuần, Triệt:** chặn bớt hung khí
 - **Giải Thần, Ân Quang, Thiên Quý:** chuyển nguy thành an
-- **Chính tinh Miếu Vượng:** áp chế Đà La`,
+- **Chính tinh tại miếu địa hoặc vượng địa:** áp chế Đà La`,
+  },
+
+  {
+    id: 'da-la-tai-menh-dac-dia-tu-mo',
+    title: '🌟 Đà La tại Mệnh Đắc địa (Tứ Mộ) - Quả cảm cơ mưu',
+    sao: ['Đà La'],
+    cung: ['Mệnh'],
+    chi: ['Thìn', 'Tuất', 'Sửu', 'Mùi'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 80,
+    tomTat: `🌟 **Đà La Đắc địa tại Mệnh** (Thìn / Tuất / Sửu / Mùi - Tứ Mộ):
+
+- **Quả cảm, có cơ mưu quyền biến**
+- **Khôn ngoan, nhìn xa trông rộng**, ít ai qua mặt được
+- **Thận trọng, tính toán kỹ**, hơi nham hiểm nhưng nhẹ, dễ tiết chế
+
+🌟 **Sự nghiệp:** mưu trí, thao lược → phù hợp **quân sự, tình báo**, lĩnh vực
+đòi hỏi **kín đáo và mưu lược**.`,
+  },
+
+  {
+    id: 'da-la-tai-menh-ham',
+    title: '⚠️ Đà La tại Mệnh Hãm - Hung bạo gian xảo',
+    sao: ['Đà La'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Đà La Hãm địa tại Mệnh:**
+
+- **Hung bạo, gian xảo, lưu manh, dâm dật, liều lĩnh**
+- Làm việc **không từ thủ đoạn**, biết sai vẫn làm
+- **Ngang tàng, bướng bỉnh, khó khuyên bảo**
+- Hay **nói xấu người khác, nuôi oán thù**
+- Vì là **Tiểu Hóa Kỵ** → dễ gây **khẩu nghiệp** và **bị cô lập**`,
   },
 
   // ============================================================
@@ -260,16 +282,42 @@ thời giảm xung động tinh thần của Kình:
     sao: ['Đà La'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Đà La tại Phúc Đức:**
+    tomTat: `**Đà La tại Phúc Đức** — phúc khí dòng họ phụ thuộc nặng vào trạng
+thái sao.
 
-⚠️ **Hãm địa:** họ hàng **ly tán, không hòa thuận**, dễ **mất / thất lạc mồ mả
-gia tiên**, nhiều người **bệnh nặng khó chữa, mất sớm**. Mồ mả **hẻo lánh**,
-dễ bị động về mộ phần. Họ hàng nhiều thị phi → gây nghiệp cho thế hệ sau.
+⚠️ **+ Kiếp Sát / Linh Hỏa / Thiên Riêu:** chủ mệnh dễ **trầm cảm, thần kinh
+yếu**.
 
-🌟 **Đắc địa:** họ hàng có nhiều người **làm quan chức, văn võ song toàn**, theo
-**công an, quân đội, lực lượng vũ trang**.
+(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
 
-⚠️ **+ Kiếp Sát / Linh Hỏa / Thiên Riêu:** chủ mệnh dễ **trầm cảm, thần kinh yếu**.`,
+  {
+    id: 'da-la-tai-phuc-duc-dac-dia',
+    title: '🌟 Đà La tại Phúc Đức Đắc địa - Họ hàng quan chức',
+    sao: ['Đà La'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Đà La Đắc địa tại Phúc Đức:**
+
+Họ hàng có nhiều người **làm quan chức, văn võ song toàn**, theo **công an,
+quân đội, lực lượng vũ trang**.`,
+  },
+
+  {
+    id: 'da-la-tai-phuc-duc-ham',
+    title: '⚠️ Đà La tại Phúc Đức Hãm - Họ hàng ly tán',
+    sao: ['Đà La'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Hãm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đà La Hãm địa tại Phúc Đức:**
+
+- Họ hàng **ly tán, không hòa thuận**
+- Dễ **mất / thất lạc mồ mả gia tiên**
+- Nhiều người **bệnh nặng khó chữa, mất sớm**
+- Mồ mả **hẻo lánh**, dễ bị động về mộ phần
+- Họ hàng nhiều thị phi → gây nghiệp cho thế hệ sau`,
   },
 
   // ============================================================
@@ -300,17 +348,42 @@ Nhà thường **nhỏ, bất cân đối**, nằm trong **ngõ ngoằn ngoèo**
     sao: ['Đà La'],
     cung: ['Quan Lộc'],
     doUuTien: 80,
-    tomTat: `**Đà La tại Quan Lộc:**
-
-⚠️ **Hãm địa:** công danh **bất thuận**, dễ bị **ghen ghét, thị phi**, thành
-công phải trải qua gian nan. Mưu sự khó thành, công việc bất ổn, hay bị **soi
-mói, ghen ăn tức ở** hoặc **tự gây thị phi**.
-
-🌟 **Đắc địa:** hợp **võ nghiệp** hoặc nghề cần **mưu tính**.
+    tomTat: `**Đà La tại Quan Lộc** — sự nghiệp phụ thuộc nặng vào trạng thái sao.
 
 - **+ Thiên Mã:** **bôn ba đi lại nhiều**, sự nghiệp thành công vẫn vất vả
 - **+ Tả Hữu / Hóa Lộc Quyền** ở Tứ Mộ: hợp ngành **quyết đoán, mạnh mẽ**
-- ⚠️ **+ Liêm Trinh:** công danh **bất an**, dễ gặp **rắc rối pháp luật, kiện tụng**`,
+- ⚠️ **+ Liêm Trinh:** công danh **bất an**, dễ gặp **rắc rối pháp luật, kiện
+  tụng**
+
+(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
+
+  {
+    id: 'da-la-tai-quan-loc-dac-dia',
+    title: '🌟 Đà La tại Quan Lộc Đắc địa - Hợp võ nghiệp mưu tính',
+    sao: ['Đà La'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Đà La Đắc địa tại Quan Lộc:**
+
+Hợp **võ nghiệp** hoặc nghề cần **mưu tính** — tận dụng được tính chất tham
+mưu, kín đáo của Đà La.`,
+  },
+
+  {
+    id: 'da-la-tai-quan-loc-ham',
+    title: '⚠️ Đà La tại Quan Lộc Hãm - Công danh bất thuận',
+    sao: ['Đà La'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Hãm'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Đà La Hãm địa tại Quan Lộc:**
+
+- Công danh **bất thuận**, dễ bị **ghen ghét, thị phi**, thành công phải trải
+  qua gian nan
+- Mưu sự khó thành, công việc bất ổn
+- Hay bị **soi mói, ghen ăn tức ở** hoặc **tự gây thị phi**`,
   },
 
   // ============================================================
@@ -322,16 +395,40 @@ mói, ghen ăn tức ở** hoặc **tự gây thị phi**.
     sao: ['Đà La'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Đà La tại Nô Bộc:**
+    tomTat: `**Đà La tại Nô Bộc** — chất lượng bạn bè phụ thuộc nặng vào trạng
+thái sao.
 
-⚠️ **Hãm địa:** bạn bè cấp dưới **không trung thực, nhiều thị phi**, **mưu cơ
-toan tính**, dễ **bị phản bội**. Vì bạn bè dính dáng **pháp luật, kiện tụng**.
-Hay xung đột mâu thuẫn, **xô xát đánh nhau**.
+⚠️ **+ Không Kiếp / Hình Riêu:** dễ bị bạn bè **phản bội, hãm hại**.
 
-🌟 **Đắc địa:** bạn bè theo **võ nghiệp**, giỏi **mưu cơ tính toán**, có thể
-**tham mưu** cho đương số.
+(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
 
-⚠️ **+ Không Kiếp / Hình Riêu:** dễ bị bạn bè **phản bội, hãm hại**.`,
+  {
+    id: 'da-la-tai-no-boc-dac-dia',
+    title: '🌟 Đà La tại Nô Bộc Đắc địa - Bạn bè võ nghiệp tham mưu',
+    sao: ['Đà La'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Đà La Đắc địa tại Nô Bộc:**
+
+- Bạn bè theo **võ nghiệp**, giỏi **mưu cơ tính toán**
+- Có thể **tham mưu** cho đương số`,
+  },
+
+  {
+    id: 'da-la-tai-no-boc-ham',
+    title: '⚠️ Đà La tại Nô Bộc Hãm - Bạn bè phản bội',
+    sao: ['Đà La'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Hãm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đà La Hãm địa tại Nô Bộc:**
+
+- Bạn bè cấp dưới **không trung thực, nhiều thị phi**, **mưu cơ toan tính**
+- Dễ **bị phản bội**
+- Bạn bè dính dáng **pháp luật, kiện tụng**
+- Hay xung đột mâu thuẫn, **xô xát đánh nhau**`,
   },
 
   // ============================================================
@@ -386,13 +483,35 @@ vướng **thị phi, tranh cãi, kiện tụng**, đôi khi **xô xát**.
     tomTat: `**Đà La tại Tài Bạch:** nhiều **tính toán, mưu mô** trong kiếm tiền.
 Môi trường làm ăn **phức tạp**, nhiều **rắc rối, thị phi, tranh chấp**.
 
-🌟 **Đắc địa:** dù môi trường khắc nghiệt vẫn kiếm được tiền nhờ **mưu trí,
-suy tính kỹ**.
+⚠️ **+ Không / Kiếp Sát / Linh Hỏa:** dễ **phá sản**, vì tiền mà **rắc rối,
+tai nạn**.
 
-⚠️ **Hãm địa:** thiếu thốn, **trắng tay, thâm hụt** vì dùng thủ đoạn "khôn lỏi",
-**kiếm tiền bất chính**.
+(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
 
-⚠️ **+ Không / Kiếp Sát / Linh Hỏa:** dễ **phá sản**, vì tiền mà **rắc rối, tai nạn**.`,
+  {
+    id: 'da-la-tai-tai-bach-dac-dia',
+    title: '🌟 Đà La tại Tài Bạch Đắc địa - Mưu trí kiếm tiền',
+    sao: ['Đà La'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Đà La Đắc địa tại Tài Bạch:**
+
+Dù môi trường khắc nghiệt vẫn kiếm được tiền nhờ **mưu trí, suy tính kỹ**.`,
+  },
+
+  {
+    id: 'da-la-tai-tai-bach-ham',
+    title: '⚠️ Đà La tại Tài Bạch Hãm - Trắng tay vì khôn lỏi',
+    sao: ['Đà La'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Hãm'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Đà La Hãm địa tại Tài Bạch:**
+
+- Thiếu thốn, **trắng tay, thâm hụt**
+- Dùng thủ đoạn "khôn lỏi", **kiếm tiền bất chính**`,
   },
 
   // ============================================================

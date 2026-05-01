@@ -153,8 +153,8 @@ Khi **cùng đắc/hãm như nhau:** **tài năng, quyền uy của Khôi MẠNH
 — mang **phúc lộc dồi dào, công danh rực rỡ, phúc thọ song toàn**.
 
 **Đặc điểm bổ sung lẫn nhau:**
-- **Thiên Khôi:** mềm mỏng, giàu tình nghĩa → quý nhân **đàn ông** quyền thế
-- **Thiên Việt:** nghiêm khắc, lý trí → quý nhân **phụ nữ** cất nhắc
+- **Thiên Khôi:** mềm mỏng, giàu tình nghĩa → quý nhân **nam giới** quyền thế giúp đỡ
+- **Thiên Việt:** nghiêm khắc, lý trí → quý nhân **nữ giới** cất nhắc
 
 → Phối hợp tạo thành **bộ song quý nhân** — vừa tình cảm vừa lý trí, vừa mềm
 mỏng vừa cứng rắn → giúp bản mệnh **cân bằng** để tiến thân.

@@ -137,9 +137,33 @@ HOẠN**.
 - Bị **HIẾP DÂM** dẫn đến **CÓ HOANG THAI**
 - Dễ **PHÁ THAI, SẨY THAI, HƯ THAI**
 - Cũng là trường hợp **BẠO DÂM**
-- Đặc biệt nguy hiểm với phụ nữ
 
-⚡ **Tử Tức** (Thai + Không Kiếp):
+(Xem entries chuyên biệt cho cung Tử Tức + nữ mệnh.)`,
+  },
+
+  {
+    id: 'thai-khong-kiep-bi-cuong-buc-nu',
+    title: '⚠️ Thai + Không Kiếp - Nữ mệnh đặc biệt nguy hiểm',
+    sao: ['Thai'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    gioiTinh: 'Nữ',
+    doUuTien: 55,
+    tomTat: `⚠️ **Thai + Địa Không + Địa Kiếp - Nữ mệnh:** đặc biệt nguy hiểm với
+phụ nữ — nguy cơ bị hiếp dâm dẫn đến hoang thai, hoặc tự nguyện trong quan
+hệ rồi bị bỏ rơi.`,
+  },
+
+  {
+    id: 'thai-khong-kiep-tai-tu-tuc',
+    title: 'Thai + Không Kiếp tại Tử Tức - Trụy thai, sát con',
+    sao: ['Thai'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thai + Địa Không + Địa Kiếp tại Tử Tức** — bất lợi mang thai, dễ trụy
+thai, sát con.
+
+⚡ **Đặc trưng:**
 - **BẤT LỢI** trong quá trình mang thai
 - **TRỤY THAI, SẨY THAI, SINH NỞ KHÓ KHĂN**
 - Con thường **CHẾT TRONG QUÁ TRÌNH SINH NỞ**, hoặc **SÁT CON**`,
@@ -160,12 +184,30 @@ KHỔ**.
 - Bị **CƯỠNG BỨC**
 - Có **TƯ THÔNG** (quan hệ vụng trộm)
 
-⚡ **Tại Phu Thê:**
-- Mệnh dễ có con **TRƯỚC HÔN NHÂN**
-- Hoặc có **CON RIÊNG** rồi mới lấy nhau
-- Con cái có **TẬT BẨM SINH**
+(Xem entries chuyên biệt cho từng cung Phu Thê / Huynh Đệ.)`,
+  },
 
-⚡ **Tại Huynh Đệ:**
+  {
+    id: 'thai-phuc-vuong-tuong-tai-phu-the',
+    title: 'Thai + Phục + Vượng + Tướng tại Phu Thê - Có con trước hôn nhân',
+    sao: ['Thai'],
+    cung: ['Phu Thê'],
+    ketHop: ['Phục Binh', 'Đế Vượng', 'Thiên Tướng'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thai + Phục Binh + Đế Vượng + Thiên Tướng tại Phu Thê:**
+- Đương số dễ có con **TRƯỚC HÔN NHÂN**
+- Hoặc có **CON RIÊNG** rồi mới lấy nhau
+- Con cái có **TẬT BẨM SINH**`,
+  },
+
+  {
+    id: 'thai-phuc-vuong-tuong-tai-huynh-de',
+    title: 'Thai + Phục + Vượng + Tướng tại Huynh Đệ - Anh chị em dị bào',
+    sao: ['Thai'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Phục Binh', 'Đế Vượng', 'Thiên Tướng'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thai + Phục Binh + Đế Vượng + Thiên Tướng tại Huynh Đệ:**
 - Có anh chị em **DỊ BÀO, HƯ HỎNG**
 - Gặp các vấn đề **TAI NẠN TRINH TIẾT**`,
   },
@@ -204,7 +246,7 @@ TẬT BẨM SINH**.`,
 - Quá trình sinh nở **THUẬN LỢI**
 - Mẹ tròn con vuông
 - Gia đình **YÊN ẤM**, hỷ sự nối tiếp hỷ sự
-- Là điềm **ĐẠI CÁT** cho cung Tử Tức`,
+- Là điềm **ĐẠI CÁT** cho việc con cái`,
   },
 
   {
@@ -248,7 +290,7 @@ TẬT BẨM SINH**.`,
 - **GIẢM SỐ LƯỢNG** con cái
 - Cô-Quả là cặp ám tinh chế giảm sinh nở
 - Thai + Cô-Quả = ít con muộn con
-- Đặc biệt với người Mệnh có Cô-Quả`,
+- Đặc biệt nặng với đương số đã có sẵn Cô-Quả ở vị trí khác`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -402,7 +444,7 @@ TẬT BẨM SINH**.`,
     tomTat: `**Thai tại Nô Bộc** — bạn bè **HAY THAY ĐỔI**, không bền lâu.
 
 ⚡ **Đặc trưng:**
-- Mệnh hay **THAY ĐỔI BẠN BÈ**
+- Đương số hay **THAY ĐỔI BẠN BÈ**
 - Tình bạn **KHÔNG THÂN THIẾT BỀN LÂU**
 - Đông anh chị em - những người **KHÁ GIẢ, CÓ ĐỊA VỊ TÀI CHÍNH TỐT**, là
   người **TỐT TÍNH**
@@ -427,7 +469,7 @@ TẬT BẨM SINH**.`,
 - **TÌNH MỘT ĐÊM**
 
 ⚡ **Bản thân có Đế Vượng tọa thủ:**
-- Mệnh là người có **NGOẠI HÌNH XINH ĐẸP HẤP DẪN**
+- Đương số có **NGOẠI HÌNH XINH ĐẸP HẤP DẪN**
 - **THÂN HÌNH ĐẪY ĐÀ**
 - Ra ngoài có **NHIỀU NGƯỜI THÍCH**
 - Có **SỨC HÚT MẠNH**

@@ -67,7 +67,7 @@ TIẾN NHANH, BÔN BA MÀ PHÁT ĐẠT**.
 - **TIỀN TÀI VÀ DANH VỌNG** đều tăng mạnh
 - Chủ về **GIAO THƯƠNG, BUÔN BÁN TỐT**
 - Trở nên **GIÀU CÓ**
-- Mệnh tạo gặp **THUẬN LỢI** trong việc kiếm tiền`,
+- Đương số gặp **THUẬN LỢI** trong việc kiếm tiền`,
   },
 
   {
@@ -497,8 +497,8 @@ lực, hôn nhân hạnh phúc.`,
 - Anh em dễ có người **THÀNH ĐẠT**
 
 ⚠️ **Đặc biệt:**
-- Nếu mệnh tạo là **CON TRƯỞNG** trong nhà
-- Mệnh tạo dễ bị **CÁC EM TRANH QUYỀN**
+- Nếu đương số là **CON TRƯỞNG** trong nhà
+- Dễ bị **CÁC EM TRANH QUYỀN**
 - Hoặc có **NGƯỜI KHÁC GÁNH VÁC TRÁCH NHIỆM** thay`,
   },
 ];

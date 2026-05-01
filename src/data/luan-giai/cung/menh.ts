@@ -26,15 +26,7 @@ toàn bộ 11 cung còn lại.
 Thông qua việc phân tích các sao cát hung trong Cung Mệnh, có thể suy đoán được
 vận mệnh tiên thiên, dung mạo, cá tính, tài năng và thành tựu của một người.
 
-## Quan hệ với Cung Thiên Di
-
-Cung Mệnh có mối quan hệ đối xứng với Cung Thiên Di:
-- **Cung Mệnh** thuộc dương (hiển hiện)
-- **Cung Thiên Di** thuộc âm (ẩn tàng)
-
-Khi xem xét về số mệnh, đặc biệt trong trường hợp **Cung Mệnh Vô Chính Diệu**,
-việc tham khảo các sao trong Cung Thiên Di sẽ cung cấp những thông tin quan trọng
-về vận mệnh của đương số.
+→ Quan hệ đối xứng với cung đối diện được tách thành luận giải riêng.
 
 ## Ứng dụng khi xem lá số
 
@@ -44,5 +36,22 @@ vị này.
 
 **Về công việc:** Cung Mệnh phân tích tài năng và ưu thế của đương số. Từ đó
 định hướng nghề nghiệp, công việc phù hợp với điểm mạnh và tính cách.`,
+  },
+
+  {
+    id: 'cung-menh-quan-he-thien-di',
+    title: 'Cung Mệnh - Quan hệ với Cung Thiên Di',
+    cung: ['Mệnh', 'Thiên Di'],
+    doUuTien: 8,
+    tomTat: `**Cung Mệnh có mối quan hệ đối xứng với Cung Thiên Di:**
+- **Cung Mệnh** thuộc dương (hiển hiện)
+- **Cung Thiên Di** thuộc âm (ẩn tàng)
+
+Hai cung này luôn xung chiếu nhau, tạo thành **trục Mệnh - Di** — phản ánh
+hai mặt: con người **bên trong (Mệnh)** và con người **biểu hiện ra ngoài (Di)**.
+
+Khi xem xét về số mệnh, đặc biệt trong trường hợp **Cung Mệnh Vô Chính Diệu**,
+việc tham khảo các sao trong Cung Thiên Di sẽ cung cấp những thông tin quan trọng
+về vận mệnh của đương số — vì sao ở Thiên Di mượn sang chiếu về Mệnh.`,
   },
 ];

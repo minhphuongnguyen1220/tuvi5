@@ -109,7 +109,6 @@ mãn — đây là điều khiến cặp Sửu/Mùi đắc cách nhất.`,
 
 ⚡ **Đặc trưng:**
 - Sách vở ghi: **"Quang Quý miếu địa tại Sửu Mùi"**
-- Có người cho rằng **VƯỢNG TẠI SỬU MÙI** (đắc tại Mão Dậu)
 - Là cung **THỔ** — đất trung dung kết phát phúc khí
 - Chủ về **ĐẠI KHOA** — gặp cát tinh thì học giỏi, công danh hiển đạt
 - **Hưởng ÂN HUỆ TRỜI BAN**, hay gặp may mắn
@@ -117,13 +116,13 @@ mãn — đây là điều khiến cặp Sửu/Mùi đắc cách nhất.`,
 - Thường có **TÍN NGƯỠNG**, tin vào đấng thiêng liêng
 
 ⚡ **Câu phú:** **"Quý Ân Sửu Mùi hạn cầu - Đường mây gặp bước cao sâu cửu
-trùng"** — vào hạn tại Sửu/Mùi cầu công danh đỗ đạt cao.
+trùng"** — vào hạn tại bản cung cầu công danh đỗ đạt cao.
 
-⚡ **Đặc biệt:** Chỉ riêng Sửu/Mùi mới có cách **GIÁP QUANG GIÁP QUÝ** —
+⚡ **Đặc biệt:** Chỉ riêng vị trí này mới có cách **GIÁP QUANG GIÁP QUÝ** —
 cách đẹp nhưng yếu hơn đồng cung trực tiếp.
 
-⚡ **Khả năng giải họa:** Tại Sửu/Mùi giải được hung tinh tọa thủ tại cung
-**NHỊ HỢP là Tý và Ngọ**.`,
+⚡ **Khả năng giải họa:** Tại Sửu/Mùi giải được hung tinh tọa thủ tại các
+cung nhị hợp tương ứng.`,
   },
 
   {
@@ -147,8 +146,18 @@ cực mạnh.
 - Có thêm **Hình Riêu cả bộ** với Không/Kiếp → giảm rất nhiều tai họa
   nhưng không hết
 
-⚡ **Tại Mão/Dậu (tam hợp):** Có người cho rằng đắc tại Mão/Dậu — vẫn giữ
-được phẩm chất phúc tinh tốt.`,
+(Xem entry chuyên biệt cho Quang Quý đắc tại Mão / Dậu.)`,
+  },
+
+  {
+    id: 'quang-quy-mao-dau-tam-hop',
+    title: 'Quang Quý tại Mão / Dậu - Đắc tam hợp giữ phúc tinh',
+    sao: ['Ân Quang', 'Thiên Quý'],
+    chi: ['Mão', 'Dậu'],
+    doUuTien: 75,
+    tomTat: `🌟 **Quang Quý tại Mão / Dậu** (tam hợp với Sửu/Mùi):
+
+Có người cho rằng đắc tại Mão / Dậu — vẫn giữ được phẩm chất phúc tinh tốt.`,
   },
 
   {
@@ -229,6 +238,7 @@ TRÙNG, NỮ TÁC CUNG PHI"**.
     id: 'quang-quy-co-luong-thin-tuat',
     title: 'Quang Quý + Cơ Lương Thìn/Tuất - Đại quý',
     sao: ['Ân Quang', 'Thiên Quý'],
+    chi: ['Thìn', 'Tuất'],
     ketHop: ['Thiên Cơ', 'Thiên Lương'],
     doUuTien: 55,
     tomTat: `**Quang Quý + Thiên Cơ + Thiên Lương đồng cung Thìn/Tuất** — **ĐẠI QUÝ,
@@ -340,7 +350,7 @@ giúp đỡ.
 - Phúc khí bị triết giảm
 - Cuộc đời vẫn an ổn nhưng khó hiển đạt lớn
 
-⚡ **Hóa giải:** Vị trí đắc cách (Sửu/Mùi/Thìn/Tuất) phần nào bù đắp.`,
+⚡ **Hóa giải:** Vị trí đắc cách của Quang Quý phần nào bù đắp.`,
   },
 
   {

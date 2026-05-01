@@ -309,11 +309,21 @@ làm việc trong môi trường **TRÍ THỨC, QUAN TRƯỜNG**.
     tomTat: `🌟 **Thanh Long cư Tử Tức:** dấu hiệu **CÁT LỢI** — con cái **thông
 minh, giỏi giang, thành đạt, hiếu thảo**.
 
-🌟 **Nữ mệnh:** **MAY MẮN trong sinh nở**, dễ có **QUÝ TỬ** → gia đình hưng
-thịnh.
-
 ⚠️ **+ Kình Đà / Hỏa Linh:** con cái **khó nuôi**, **tính tình ngang ngạnh**.
 Một số trường hợp: **sinh ít con** hoặc **có con nhưng xa cách**, không sum vầy.`,
+  },
+
+  {
+    id: 'thanh-long-tu-tuc-nu-quy-tu',
+    title: 'Thanh Long tại Tử Tức - Nữ may sinh nở quý tử',
+    sao: ['Thanh Long'],
+    cung: ['Tử Tức'],
+    gioiTinh: 'Nữ',
+    doUuTien: 70,
+    tomTat: `🌟 **Thanh Long tại Tử Tức — nữ mệnh:**
+- **MAY MẮN trong sinh nở**
+- Dễ có **QUÝ TỬ** → gia đình hưng thịnh
+- Đường con cái thuận lợi, ít vất vả`,
   },
 
   // ============================================================
@@ -332,14 +342,34 @@ Phú nói: **"Trai lấy vợ đẹp, gái lấy chồng hiền"**.
 
 **Người hôn phối:** hiền hậu, **có học**, **quý hiển**, sống có tình nghĩa.
 
-🌟 **Nam mệnh:** vợ **đẹp, đoan trang, có học thức**, biết vun vén gia đình,
-hỗ trợ chồng trong công danh.
-
-🌟 **Nữ mệnh:** chồng **hiền lành**, có **địa vị xã hội**, là **chỗ dựa vững
-chắc**.
-
 ⚠️ **+ Đà La / Hỏa Tinh / Linh Tinh:** duyên phận **trắc trở**, vợ chồng **bất
 hòa**, dễ **xa cách** vì công việc hoặc có sự **chia lìa**.`,
+  },
+
+  {
+    id: 'thanh-long-phu-the-nam-vo-dep',
+    title: 'Thanh Long tại Phu Thê - Nam mệnh vợ đẹp đoan trang',
+    sao: ['Thanh Long'],
+    cung: ['Phu Thê'],
+    gioiTinh: 'Nam',
+    doUuTien: 70,
+    tomTat: `🌟 **Thanh Long tại Phu Thê — nam mệnh:**
+- Vợ **ĐẸP, ĐOAN TRANG, CÓ HỌC THỨC**
+- Biết **VUN VÉN GIA ĐÌNH**
+- Hỗ trợ chồng trong **CÔNG DANH**`,
+  },
+
+  {
+    id: 'thanh-long-phu-the-nu-chong-hien',
+    title: 'Thanh Long tại Phu Thê - Nữ mệnh chồng hiền có địa vị',
+    sao: ['Thanh Long'],
+    cung: ['Phu Thê'],
+    gioiTinh: 'Nữ',
+    doUuTien: 70,
+    tomTat: `🌟 **Thanh Long tại Phu Thê — nữ mệnh:**
+- Chồng **HIỀN LÀNH**
+- Có **ĐỊA VỊ XÃ HỘI**
+- Là **CHỖ DỰA VỮNG CHẮC** cho gia đình`,
   },
 
   // ============================================================

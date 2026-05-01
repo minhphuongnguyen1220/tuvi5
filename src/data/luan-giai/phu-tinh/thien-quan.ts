@@ -178,12 +178,12 @@ QUÝ NHÂN HỘI HỢP** thì khó thoát được tai ương họa hại.
     sao: ['Thiên Quan', 'Thiên Phúc'],
     cung: ['Mệnh', 'Phúc Đức', 'Thiên Di', 'Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Quan Phúc tọa thủ tại Mệnh, Thân, Phúc Đức, Thiên Di, Tật Ách** — 5 vị
-trí **HỢP CÁCH NHẤT** của bộ này.
+    tomTat: `**Quan Phúc tọa thủ tại Mệnh, cung an thân, Phúc Đức, Thiên Di, Tật Ách**
+— 5 vị trí **HỢP CÁCH NHẤT** của bộ này.
 
 ⚡ **Vì sao 5 cung này hợp:**
 - **Mệnh** — cứu giải hung họa cho bản thân
-- **Thân** — bảo vệ phần thực hành cuộc đời (Thân chủ hậu vận)
+- **Cung an thân** — bảo vệ phần thực hành cuộc đời (chủ hậu vận)
 - **Phúc Đức** — tăng phúc trạch dòng họ, mộ phần
 - **Thiên Di** — ra ngoài có quý nhân, gặp môi trường thiện lành
 - **Tật Ách** — bệnh tật tai họa được hóa giải
@@ -203,7 +203,7 @@ thì khả năng cứu giải càng mạnh.`,
     id: 'quan-phuc-tu-duc-luc-than-tu',
     title: 'Quan Phúc + Tứ Đức - Lòng nhân hậu nhân lên gấp bội',
     sao: ['Thiên Quan', 'Thiên Phúc'],
-    ketHop: ['Long Đức'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 55,
     tomTat: `**Quan Phúc + Tứ Đức** (Thiên Đức + Nguyệt Đức + Long Đức + Phúc Đức) —
 **LÒNG NHÂN HẬU NHÂN LÊN GẤP NHIỀU LẦN**.
@@ -592,9 +592,9 @@ GIÚP ĐỠ** người khác.
 - Quan Phúc có hình tượng là **NGƯỜI TU HÀNH, NHÀ SƯ, TU SỸ**
 - Tạo nên sự **THANH THẢN** cho hành trình cuối đời
 
-⚠️ **Cảnh báo:** Tật Ách KHÔNG MẠNH BẰNG MỆNH — nếu Mệnh xấu hay Vận xấu
-thì vẫn có thể chết yểu. Càng tu tập, làm phúc từ sớm thì khả năng cứu giải
-càng mạnh.`,
+⚠️ **Cảnh báo:** Tật Ách không phải vị trí mạnh nhất — nếu bản cung hoặc
+vận hạn xấu thì vẫn có thể chết yểu. Càng tu tập, làm phúc từ sớm thì khả
+năng cứu giải càng mạnh.`,
   },
 
   {

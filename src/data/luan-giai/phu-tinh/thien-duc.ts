@@ -113,9 +113,17 @@ giàu sang"** — quý cách hôn nhân.
 - Gái → **CHỒNG GIÀU SANG**
 - Tứ Đức **CHẾ** tính dâm tà của Đào Hồng → biến **ĐOAN CHÍNH**
 - Thu hút bằng **PHẨM HẠNH**, không lả lơi
-- Hôn nhân **ĐỒNG ĐIỆU**, đẹp đôi
+- Hôn nhân **ĐỒNG ĐIỆU**, đẹp đôi`,
+  },
 
-⚡ **Hợp tại Phu Thê:**
+  {
+    id: 'thien-nguyet-duc-dao-hong-phu-the',
+    title: 'Thiên-Nguyệt Đức + Đào Hồng tại Phu Thê',
+    sao: ['Thiên Đức', 'Nguyệt Đức'],
+    cung: ['Phu Thê'],
+    ketHop: ['Đào Hoa', 'Hồng Loan'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Đức + Nguyệt Đức + Đào Hồng tại Phu Thê:**
 - Vợ chồng **TRAI TÀI GÁI SẮC**
 - Tình cảm **HÒA HỢP**
 - Gia đình được **NHIỀU NGƯỜI NGƯỠNG MỘ**`,
@@ -170,6 +178,7 @@ con cháu đời sau cũng dễ có duyên tu tập.`,
     title: 'Thiên Đức tại Mệnh - Tâm hồn đẹp phúc hậu',
     sao: ['Thiên Đức'],
     cung: ['Mệnh'],
+    ketHop: ['Phúc Đức'],
     doUuTien: 80,
     tomTat: `**Thiên Đức thủ Mệnh** — tâm hồn **ĐẸP, PHÚC HẬU**.
 

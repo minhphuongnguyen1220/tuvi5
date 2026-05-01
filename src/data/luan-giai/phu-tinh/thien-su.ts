@@ -77,7 +77,7 @@ thể thay đổi.
 - Tai ương **BẤT NGỜ**
 
 ⚡ **Cùng "Lưới Trời":**
-- Thiên Sứ + Thiên Thương + Thiên La (cố định Thìn) + Địa Võng (cố định Tuất)
+- Thiên Sứ + Thiên Thương + Thiên La + Địa Võng
 - → 4 sao "lưới trời" cố định trên lá số`,
   },
 
@@ -213,7 +213,7 @@ gặp nạn** và **biến cố xảy ra ở đâu**.`,
 - Khó khăn, trở ngại có thể xảy đến
 
 ⚡ **Cảnh báo:** Đây là một trong các cách **CHẾT** nguy hiểm nhất khi luận
-hạn — cần kiểm tra kỹ Phúc Đức và sao giải.`,
+hạn — cần kiểm tra kỹ phúc tinh và sao giải.`,
   },
 
   {
@@ -263,18 +263,29 @@ chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
     sao: ['Thiên Sứ'],
     chi: ['Tý', 'Dần'],
     doUuTien: 60,
-    tomTat: `⚠️ **Thiên Sứ ở Tý hoặc Dần** — **ĐỘC**, vị trí xấu nhất.
+    tomTat: `⚠️ **Thiên Sứ tại Tý hoặc Dần** — **ĐỘC**, vị trí xấu nhất.
 
 ⚡ **Đặc trưng:**
 - Vị trí Tý và Dần phát huy mạnh nhất tính độc của Thiên Sứ
-- Họa đến **MAU** (Tý/Mão/Thìn/Ngọ/Mùi)
 
 ⚡ **Lưu ý:**
 - Tý là cung Thủy - cùng hành với Sứ → tăng độc
 - Dần là Tứ Sinh - kích hoạt biến động
 
-⚡ **Khi luận:** Cần đặc biệt cảnh giác khi Tật Ách rơi vào Tý hoặc Dần
-trong vận hạn.`,
+⚡ **Khi luận:** Cần đặc biệt cảnh giác trong vận hạn.`,
+  },
+
+  {
+    id: 'thien-su-hoa-den-mau',
+    title: 'Sứ - Họa đến mau (Tý/Mão/Thìn/Ngọ/Mùi)',
+    sao: ['Thiên Sứ'],
+    chi: ['Tý', 'Mão', 'Thìn', 'Ngọ', 'Mùi'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Thiên Sứ tại Tý / Mão / Thìn / Ngọ / Mùi** — họa đến **MAU**.
+
+⚡ **Đặc trưng:**
+- Tại các vị trí này, Thiên Sứ phát tác **NHANH** khi vào hạn
+- Cảnh báo cần đề phòng tai họa **BẤT NGỜ**`,
   },
 
   {

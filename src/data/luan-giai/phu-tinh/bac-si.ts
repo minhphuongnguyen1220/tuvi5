@@ -139,8 +139,8 @@ cháu sau này**.
 ⚡ Đương số được sinh trong môi trường **đủ đầy**, được chăm sóc và định hướng
 rõ ràng → **không phải chật vật mưu sinh**.
 
-⚠️ Bản thân đôi khi **dễ ốm đau, mắc bệnh vặt khi còn nhỏ** (đặc trưng do Đà
-La luôn ở cung Mệnh khi Bác Sĩ ở Phụ Mẫu).`,
+⚠️ Bản thân đôi khi **dễ ốm đau, mắc bệnh vặt khi còn nhỏ** (đặc trưng cấu hình
+sao quanh Bác Sĩ - Lộc Tồn - Đà La - Kình Dương).`,
   },
 
   // ============================================================
@@ -230,8 +230,7 @@ hàng, đồng nghiệp, cấp trên.
 
 🌟 Có **lộc trong làm ăn, chung vốn** với bạn bè.
 
-⚡ **Khi Mệnh nhị hợp với Nô:** càng thể hiện mạnh khả năng **làm ăn chung**
-với bạn bè, đồng nghiệp.
+⚡ Khả năng **làm ăn chung** với bạn bè, đồng nghiệp được phát huy mạnh.
 
 🌟 Bạn bè đồng nghiệp **có học thức, chuyên môn giỏi**.
 

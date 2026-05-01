@@ -584,17 +584,18 @@ mang xác chết) — **CỰC XẤU**:
   // ============================================================
   {
     id: 'thien-ma-tuan-triet-tu-ma',
-    title: 'Thiên Mã + Tuần Triệt - "Tử Mã" (ngựa chết)',
+    title: 'Thiên Mã + Tuần Triệt tại Mệnh - "Tử Mã" (ngựa chết)',
     sao: ['Thiên Mã'],
+    cung: ['Mệnh'],
     ketHop: ['Tuần', 'Triệt'],
     doUuTien: 62,
-    tomTat: `⚠️ **Thiên Mã + Tuần / Triệt** = cách **"Tử Mã"** (ngựa chết) — **rất
+    tomTat: `⚠️ **Thiên Mã thủ Mệnh + Tuần / Triệt** = cách **"Tử Mã"** (ngựa chết) — **rất
 hung hãn**:
 - **Tai họa, bại hoại, chết chóc**
 - **Thương tích tay chân**
 - **Ý chí nghị lực kém**
 
-⚠️ Tại Mệnh: tính năng động và may mắn **bị suy giảm rõ rệt**, ý chí và nghị
+⚠️ Tính năng động và may mắn **bị suy giảm rõ rệt**, ý chí và nghị
 lực bị cản trở, công danh tài lộc gặp **nhiều ngăn trở**, thành tựu đến **chậm**
 và phải đánh đổi bằng nhiều gian nan.
 

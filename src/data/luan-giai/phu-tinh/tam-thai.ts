@@ -115,21 +115,30 @@ nghiệp **RỰC RỠ, THĂNG TIẾN DỄ DÀNG**.
 
   {
     id: 'tam-thai-bat-toa-tuan-triet-ngan-tro',
-    title: 'Tam Thai - Bát Tọa + Tuần Triệt - Ngăn trở công danh',
+    title: 'Tam Thai - Bát Tọa + Tuần Triệt - Ngăn trở',
     sao: ['Tam Thai', 'Bát Tọa'],
     ketHop: ['Tuần', 'Triệt'],
     doUuTien: 55,
     tomTat: `⚠️ **Tam Thai - Bát Tọa + Tuần / Triệt án ngữ** — phá vỡ **AN NHÀN VÀ MAY
 MẮN** vốn có.
 
-⚠️ **Tại Mệnh / Tài Bạch / Quan Lộc:**
+⚡ Tam Thai - Bát Tọa vốn là cát tinh "may mắn ban sẵn" — Tuần Triệt làm
+**MẤT TÍNH ĐÓ**.`,
+  },
+
+  {
+    id: 'tam-thai-bat-toa-tuan-triet-tam-cung',
+    title: 'Tam Thai - Bát Tọa + Tuần Triệt tại Mệnh/Tài/Quan',
+    sao: ['Tam Thai', 'Bát Tọa'],
+    cung: ['Mệnh', 'Tài Bạch', 'Quan Lộc'],
+    ketHop: ['Tuần', 'Triệt'],
+    doUuTien: 60,
+    tomTat: `⚠️ **Tam Thai - Bát Tọa + Tuần / Triệt án ngữ tại Mệnh / Tài Bạch / Quan
+Lộc:**
 - Phá vỡ **AN NHÀN VÀ MAY MẮN** vốn có
 - Con đường công danh thay vì bằng phẳng → **GẬP GHỀNH, KHÓ KHĂN**
 - Sự **QUÝ HIỂN BỊ GIẢM SÚT**
-- Đương số phải **NỖ LỰC NHIỀU** mới có thể đạt thành tựu
-
-⚡ Tam Thai - Bát Tọa vốn là cát tinh "may mắn ban sẵn" — Tuần Triệt làm
-**MẤT TÍNH ĐÓ**.`,
+- Đương số phải **NỖ LỰC NHIỀU** mới có thể đạt thành tựu`,
   },
 
   {
@@ -172,9 +181,17 @@ biếng ỷ lại.
 - "**NGỒI MÁT ĂN BÁT VÀNG**"
 - **KHÔNG CÓ CHÍ TIẾN THỦ**
 - Chỉ thích **HƯỞNG THỤ, Ỷ LẠI**
-- **KHÓ LÀM NÊN NGHIỆP LỚN**
+- **KHÓ LÀM NÊN NGHIỆP LỚN**`,
+  },
 
-⚠️ **Riêng tại Tài Bạch + Không Kiếp:**
+  {
+    id: 'tam-thai-bat-toa-khong-kiep-tai-bach-luoi',
+    title: 'Tam Thai - Bát Tọa + Không Kiếp tại Tài Bạch - lười kiếm tiền',
+    sao: ['Tam Thai', 'Bát Tọa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 60,
+    tomTat: `⚠️ **Tam Thai - Bát Tọa + Địa Không + Địa Kiếp tại Tài Bạch:**
 - Dễ trở nên **LƯỜI BIẾNG**
 - Không quan tâm **KIẾM TIỀN**
 - **HAO HỤT** tài sản sẵn có`,
@@ -236,8 +253,8 @@ THAI GIÁP TỌA**".
 - Cha mẹ **KHÔNG PHẢI GÁNH NẶNG**
 - Mối quan hệ gia đình **GIẢM BỚT XUNG KHẮC**
 
-⚡ Cách "Giáp Thai Giáp Tọa" — Mệnh được Tam Thai và Bát Tọa **GIÁP HAI BÊN**
-→ rất quý cách, được nâng đỡ từ phía cha mẹ.`,
+⚡ Cách "Giáp Thai Giáp Tọa" — bản cung được Tam Thai và Bát Tọa **GIÁP HAI
+BÊN** → rất quý cách, được nâng đỡ từ phía cha mẹ.`,
   },
 
   {

@@ -69,8 +69,8 @@ export const luanGiai_ThienTai: DoanLuanGiai[] = [
 ⚡ **Tài song hành Đức:** Thiên Tài gặp **bộ Tứ Đức** (Long-Phúc-Thiên-Nguyệt
 Đức) → **TÀI ĐỨC VẸN TOÀN**, được lòng thiên hạ, hưởng phúc bền lâu.
 
-⚡ **Đặc biệt:** Khi **Thiên Tài thủ Mệnh thì Thiên Thọ thủ Thân** — gieo
-duyên nào gặt quả đó, làm điều thiện về cuối đời nhận lại may mắn.`,
+⚡ **Đặc biệt:** Khi **Thiên Tài thủ Mệnh thì Thiên Thọ thủ cung an thân**
+— gieo duyên nào gặt quả đó, làm điều thiện về cuối đời nhận lại may mắn.`,
   },
 
   {
@@ -354,7 +354,7 @@ MINH TÀI TRÍ TĂNG GẤP BỘI, ĐA HỌC ĐA NĂNG"**.
     id: 'thien-tai-tu-duc-tai-duc-ven-toan',
     title: 'Thiên Tài + bộ Tứ Đức - Tài đức vẹn toàn',
     sao: ['Thiên Tài'],
-    ketHop: ['Long Đức'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 55,
     tomTat: `**Thiên Tài hội bộ Tứ Đức** (Long Đức + Phúc Đức + Thiên Đức + Nguyệt Đức)
 — cách **TÀI ĐỨC VẸN TOÀN**.
@@ -369,7 +369,7 @@ MINH TÀI TRÍ TĂNG GẤP BỘI, ĐA HỌC ĐA NĂNG"**.
 - Tài năng được dẫn dắt theo hướng **CHÍNH ĐẠO**
 - Không còn nguy cơ "con dao hai lưỡi" tự hại bản thân
 
-⚡ Đây là một trong những cách **AN LÀNH NHẤT** cho người Mệnh Thiên Tài.`,
+⚡ Đây là một trong những cách **AN LÀNH NHẤT** cho người có Thiên Tài.`,
   },
 
   {

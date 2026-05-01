@@ -66,11 +66,18 @@ LỚN"** (đã có ở thanh-long.ts).
 - Gặp **VẬN HỘI TỐT, ĐẮC THỜI**
 - Lợi cho **THI CỬ, CẦU DANH, CẦU TÀI**
 - Lợi cho **LÀM ĂN, THI THỐ TÀI NĂNG**
-- Có tài **HÙNG BIỆN VÔ CÙNG LOGIC**
+- Có tài **HÙNG BIỆN VÔ CÙNG LOGIC**`,
+  },
 
-⚡ **Tương tự khi Lưu Hà đóng tại Hợi/Tý** (cung Thủy hợp vị):
-- Có ý nghĩa tương tự
-- Nhưng thiếu Thanh Long → dịp may ít hơn
+  {
+    id: 'luu-ha-cung-thuy-hop-vi',
+    title: 'Lưu Hà tại Hợi/Tý - cung Thủy hợp vị',
+    sao: ['Lưu Hà'],
+    chi: ['Hợi', 'Tý'],
+    doUuTien: 55,
+    tomTat: `**Lưu Hà đóng tại Hợi/Tý** (cung Thủy hợp vị):
+- Tài hùng biện được phát huy, lợi thi cử cầu danh
+- Nhưng thiếu Thanh Long → dịp may ít hơn cách Lưu Hà + Thanh Long
 - Dễ mắc **NẠN SÔNG NƯỚC**`,
   },
 
@@ -182,15 +189,35 @@ Cần tu thân tích đức để hóa giải.`,
 ⚠️ **Phúc thọ - tai họa:**
 - Dễ có **TAI NẠN SÔNG NƯỚC**, trong đời dễ có lần **CHẾT ĐUỐI**
 - **MÁU HUYẾT**, bệnh **MÁU LOÃNG**
-- Phụ nữ dễ bị **BĂNG HUYẾT** lúc sinh đẻ
 - Tai nạn đường sá
 
 ⚡ **Cát tinh hội (Tấu Thư + Thanh Long + Thái Tuế):**
 - Tài hùng biện **VÔ CÙNG LOGIC**
-- Nổi bật trong học tập, công việc
+- Nổi bật trong học tập, công việc`,
+  },
 
-⚡ **Đặc biệt đóng cung Thủy** (Hợi/Tý) → hợp vị, tài năng phát huy đúng
-mức nhưng **CẨN THẬN HUNG HỌA SÔNG NƯỚC**.`,
+  {
+    id: 'luu-ha-tai-menh-nu-bang-huyet',
+    title: 'Lưu Hà tại Mệnh - Nữ băng huyết',
+    sao: ['Lưu Hà'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `⚠️ **Lưu Hà thủ Mệnh — nữ mệnh:**
+- Dễ bị **BĂNG HUYẾT** lúc sinh đẻ
+- Bệnh **MÁU HUYẾT, MÁU LOÃNG** càng nghiêm trọng`,
+  },
+
+  {
+    id: 'luu-ha-tai-menh-cung-thuy',
+    title: 'Lưu Hà tại Mệnh - Hợi/Tý cung Thủy hợp vị',
+    sao: ['Lưu Hà'],
+    cung: ['Mệnh'],
+    chi: ['Hợi', 'Tý'],
+    doUuTien: 73,
+    tomTat: `⚡ **Lưu Hà thủ Mệnh đóng cung Thủy (Hợi/Tý):**
+- Hợp vị, tài năng phát huy đúng mức
+- Nhưng **CẨN THẬN HUNG HỌA SÔNG NƯỚC** càng phải đề phòng`,
   },
 
   {
@@ -391,13 +418,24 @@ vào trạng thái không tỉnh táo gây tai họa.`,
     tomTat: `**Lưu Hà tại Tử Tức** — con cái có **TÀI ĂN NÓI**.
 
 ⚠️ **Cảnh báo:**
-- Phụ nữ **BĂNG HUYẾT** lúc sinh đẻ
 - Con cái dễ mắc **BỆNH MÁU HUYẾT**
 - Cẩn thận khi con vui chơi **SÔNG NƯỚC** → dễ **ĐUỐI NƯỚC**
 
 ⚡ **Tính cách con cái:**
 - **THÂM TRẦM, NHIỀU MƯU MẸO**
 - Tính cách **KHÓ ĐOÁN**`,
+  },
+
+  {
+    id: 'luu-ha-tu-tuc-nu-bang-huyet',
+    title: 'Lưu Hà tại Tử Tức - Nữ băng huyết khi sinh đẻ',
+    sao: ['Lưu Hà'],
+    cung: ['Tử Tức'],
+    gioiTinh: 'Nữ',
+    doUuTien: 70,
+    tomTat: `⚠️ **Lưu Hà tại Tử Tức — nữ mệnh:**
+- Dễ bị **BĂNG HUYẾT** lúc sinh đẻ
+- Đường sinh nở gian nan, gặp **biến chứng máu huyết**`,
   },
 
   {

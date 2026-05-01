@@ -99,19 +99,39 @@ export const luanGiai_ThaiPhu: DoanLuanGiai[] = [
     doUuTien: 70,
     tomTat: `**Thai Phụ + Phong Cáo + Quốc Ấn** — kết quả **RẤT ĐẸP**.
 
-⚡ **Tại Mệnh / Quan Lộc:**
-- **NHIỀU QUÝ HIỂN, ĐƯỢC TRỌNG DỤNG**
-- Là người **MANG ẤN**
-- Có **QUYỀN CAO CHỨC TRỌNG VÀ PHÚ QUÝ**
-
-⚡ **Tại cung Điền:**
-- Có **NHIỀU ĐIỀN SẢN**
-- Được ban cấp ruộng đất, nhà cao cửa rộng
-
 ⚡ **Bộ Tứ Vinh** (Thai Phụ + Phong Cáo + Quang Quý + Quốc Ấn):
 - Sớm có **CÔNG DANH**
 - Trai **HIỂN ĐẠT**
-- Nữ **LẤY CHỒNG LÀM LỚN**`,
+- Nữ **LẤY CHỒNG LÀM LỚN**
+
+(Xem entries chuyên biệt cho từng cung Mệnh / Quan Lộc / Điền Trạch.)`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-quoc-an-tai-menh-quan-loc',
+    title: 'Thai Phụ + Phong Cáo + Quốc Ấn tại Mệnh / Quan Lộc - Mang ấn quý hiển',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Mệnh', 'Quan Lộc'],
+    ketHop: ['Quốc Ấn'],
+    doUuTien: 75,
+    tomTat: `🌟 **Thai Phụ + Phong Cáo + Quốc Ấn tại Mệnh hoặc Quan Lộc:**
+
+- **NHIỀU QUÝ HIỂN, ĐƯỢC TRỌNG DỤNG**
+- Là người **MANG ẤN**
+- Có **QUYỀN CAO CHỨC TRỌNG VÀ PHÚ QUÝ**`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-quoc-an-tai-dien-trach',
+    title: 'Thai Phụ + Phong Cáo + Quốc Ấn tại Điền Trạch - Nhiều điền sản',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Quốc Ấn'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thai Phụ + Phong Cáo + Quốc Ấn tại Điền Trạch:**
+
+- Có **NHIỀU ĐIỀN SẢN**
+- Được ban cấp ruộng đất, nhà cao cửa rộng`,
   },
 
   {
@@ -398,16 +418,25 @@ con cháu hưởng phúc trạch lâu dài.`,
 - Nhiều người **CÓ CHỨC TƯỚC** trong xã hội
 - Vây quanh bởi bạn bè **HIỀN LƯƠNG, HỌC CAO HIỂU RỘNG**, sống có nghĩa tình
 
-⚡ **Cung Mệnh có Thiên Lương / Thiên Tướng:**
-- Dễ làm **THẦY GIÁO MÁT TAY**
-- Có nhiều **HỌC TRÒ HIỂN ĐẠT, XUẤT SẮC**
-
 ⚡ **Phong Cáo + Thiên Quan / Thiên Phúc:**
 - Có **QUÝ NHÂN GIÚP ĐỠ LÀM NÊN**
 
 ⚠️ **Gặp Sát Hình Kỵ + Linh Tinh + Kình Dương + Địa Kiếp:**
 - Bạn bè **CHỐI BỎ TRÁCH NHIỆM**
 - Hoặc **TỪ MẶT NHAU** khi có mâu thuẫn`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-luong-tuong-tai-menh-thay-giao',
+    title: 'Thai Phụ - Phong Cáo + Thiên Lương / Thiên Tướng tại Mệnh - Thầy giáo mát tay',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Lương', 'Thiên Tướng'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thai Phụ - Phong Cáo (hội chiếu) + Thiên Lương / Thiên Tướng tại Mệnh:**
+
+- Dễ làm **THẦY GIÁO MÁT TAY**
+- Có nhiều **HỌC TRÒ HIỂN ĐẠT, XUẤT SẮC**`,
   },
 
   {
@@ -433,7 +462,7 @@ con cháu hưởng phúc trạch lâu dài.`,
 - Cách cục "**THIÊN THỜI - ĐỊA LỢI - NHÂN HÒA**"
 - Việc lớn **DỄ THÀNH**
 - Việc nhỏ **HANH THÔNG**
-- Mệnh có **QUÝ TINH SOI LỐI**`,
+- Đương số có **QUÝ TINH SOI LỐI**`,
   },
 
   {
@@ -451,7 +480,20 @@ con cháu hưởng phúc trạch lâu dài.`,
 ⚡ **Ngày chết:**
 - Dễ có **HUÂN HUY CHƯƠNG, KHEN THƯỞNG, TRUY TẶNG**
 
-⚡ **Hợp Tả Hữu / Thiên Di / Quan Lộc / Tử Tức + Hóa Khoa:**
+(Xem entry chuyên biệt cho cách Tả Hữu + Hóa Khoa hội chiếu các cung Thiên
+Di / Quan Lộc / Tử Tức.)`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-ta-huu-khoa-vinh-quang',
+    title: 'Thai Phụ - Phong Cáo + Tả Hữu + Hóa Khoa - Lúc mất nhận huân chương',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Tật Ách'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Hóa Khoa'],
+    doUuTien: 68,
+    tomTat: `🌟 **Thai Phụ - Phong Cáo tại Tật Ách + Tả Hữu / Hóa Khoa hội chiếu**
+(từ các cung tam hợp xung chiếu):
+
 - Lúc mất dễ nhận **HUÂN HUY CHƯƠNG, KHEN THƯỞNG, TRUY TẶNG**
 - Ra đi vinh quang được người đời tôn vinh`,
   },
@@ -470,7 +512,7 @@ con cháu hưởng phúc trạch lâu dài.`,
 - Người hay được **KHEN THƯỞNG, ĐOẠT GIẢI, TRAO TẶNG TIỀN**
 - Tiền tài đến từ **LAO ĐỘNG TRÍ ÓC** nhiều hơn sức vóc chân tay
 
-⚡ **Bộ tam hợp Mệnh - Tài Bạch - Quan Lộc:**
+⚡ **Cộng hưởng tam hợp tài quan:**
 - Khả năng **LÃNH ĐẠO**
 - Vươn tới nhiều **THÀNH CÔNG RỰC RỠ**
 - Nhờ **HỌC THỨC UYÊN THÂM** và **BẰNG CẤP CHUYÊN NGHIỆP**

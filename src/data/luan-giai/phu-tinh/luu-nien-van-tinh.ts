@@ -43,13 +43,25 @@ HAI**.
 
 🌟 **Đặc điểm:**
 - Vẻ mặt **THANH TÚ, KHÔI NGÔ**
-- Phụ nữ thì có **NHAN SẮC**
 - Dáng dấp luôn **NHÃ NHẶN, THƯ SINH, HỌC THỨC**
 - Nét đẹp thiên về **DUYÊN DÁNG và TINH TẾ**
 
 🌟 **Khí chất:**
 - Thần sắc toát lên sự **ĐIỀM ĐẠM, TRÍ THỨC**
 - Dễ **TẠO THIỆN CẢM** với người đối diện`,
+  },
+
+  {
+    id: 'luu-nien-van-tinh-tuong-mao-nu',
+    title: 'Lưu Niên Văn Tinh tại Mệnh - Nữ mệnh nhan sắc',
+    sao: ['Lưu Niên Văn Tinh'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 45,
+    tomTat: `🌟 **Lưu Niên Văn Tinh thủ Mệnh — nữ mệnh:**
+- Có **NHAN SẮC**
+- Dáng vẻ **THƯ SINH, NHÃ NHẶN, TRÍ THỨC**
+- Vẻ đẹp **DUYÊN DÁNG VÀ TINH TẾ**`,
   },
 
   {
@@ -143,7 +155,7 @@ Văn Tinh** (học vấn) = bộ **TRÍ TUỆ XUẤT CHÚNG** — hợp với:
 - Cha mẹ có **NHIỀU BẰNG CẤP**, học lên được cao
 - Có thể là **THẠC SỸ, GIÁO SƯ, TIẾN SỸ**
 
-⚡ **Người Mệnh ÂM DƯƠNG THUẬN LÝ:**
+⚡ **Đương số ÂM DƯƠNG THUẬN LÝ:**
 - Sinh ra trong gia đình **GIA GIÁO, GIỎI GIANG**
 - Tuổi trẻ thường có **ĐIỀU KIỆN HỌC TẬP TỐT**
 - **THUẬN LỢI THI CỬ, THÀNH DANH**
@@ -246,9 +258,17 @@ NHIỀU BẰNG CẤP CAO**.`,
 🌟 **Đặc trưng:**
 - Bạn bè có **HỌC THỨC, HAM HỌC**
 - **NHIỀU BẰNG CẤP**
-- Có thể **GIÚP ĐỠ** mình trong công việc và học tập
+- Có thể **GIÚP ĐỠ** mình trong công việc và học tập`,
+  },
 
-🌟 **+ Cung Mệnh có Thiên Lương / Thiên Tướng:**
+  {
+    id: 'luu-nien-no-boc-menh-luong-tuong',
+    title: 'Lưu Niên Văn Tinh Nô + Thiên Lương/Tướng tại Mệnh - thầy giáo',
+    sao: ['Lưu Niên Văn Tinh'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Lương', 'Thiên Tướng'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lưu Niên Văn Tinh tại Nô Bộc + Thiên Lương / Thiên Tướng tại Mệnh:**
 - Dễ làm **THẦY GIÁO MÁT TAY**
 - Có **NHIỀU HỌC TRÒ HIỂN ĐẠT, XUẤT SẮC**`,
   },

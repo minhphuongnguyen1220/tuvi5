@@ -219,10 +219,19 @@ hoặc **SÁT BẠI TINH đánh phá** làm mất đi ý nghĩa đẹp.`,
 - Người ra ngoài hay được ở gần **CÁC VỊ LÃNH ĐẠO, QUAN CHỨC LỚN**
 - Là người ra ngoài có **ĐỊA VỊ, CHỨC QUYỀN**
 - Có thể **QUẢN LÝ một tập thể** phía dưới
-- Được **NHIỀU NGƯỜI NỂ TRỌNG**
+- Được **NHIỀU NGƯỜI NỂ TRỌNG**`,
+  },
 
-🌟 **+ Tả Phù / Hữu Bật tại Mệnh hoặc Quan:**
-- Dễ làm **THƯ KÝ, TRỢ LÝ** cho sếp/lãnh đạo cấp cao`,
+  {
+    id: 'quoc-an-thien-di-ta-huu-menh-quan',
+    title: 'Quốc Ấn Thiên Di + Tả Hữu tại Mệnh/Quan - Thư ký trợ lý',
+    sao: ['Quốc Ấn'],
+    cung: ['Mệnh', 'Quan Lộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Quốc Ấn tại Thiên Di + Tả Phù / Hữu Bật tại Mệnh hoặc Quan Lộc:**
+- Dễ làm **THƯ KÝ, TRỢ LÝ** cho sếp/lãnh đạo cấp cao
+- Đứng ngay cạnh quyền lực, hỗ trợ điều hành tổ chức`,
   },
 
   {
@@ -236,10 +245,18 @@ hoặc **SÁT BẠI TINH đánh phá** làm mất đi ý nghĩa đẹp.`,
 🌟 **Đặc trưng:**
 - Là người **THÍCH chuyện TÂM LINH, THỜ CÚNG**
 - Ốm đau bệnh tật là hay ra **ĐỀN, RA CHÙA**
-- **CÚNG LỄ** để xin khỏi bệnh
+- **CÚNG LỄ** để xin khỏi bệnh`,
+  },
 
-⚡ **Cách báo CĂN ĐẶC BIỆT:**
-**Quốc Ấn ở cung Tật + cung Mệnh hội nhiều SAO TÂM LINH:**
+  {
+    id: 'quoc-an-tat-menh-tam-linh-can-tran',
+    title: 'Quốc Ấn Tật + sao Tâm linh tại Mệnh - Căn Nhà Trần',
+    sao: ['Quốc Ấn'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Riêu', 'Đà La', 'Hoa Cái', 'Đẩu Quân'],
+    doUuTien: 70,
+    tomTat: `⚡ **Cách báo CĂN ĐẶC BIỆT** — Quốc Ấn tại Tật Ách + Mệnh hội nhiều
+SAO TÂM LINH (Riêu, Đà, Hoa Cái, Đẩu Quân...):
 - Dễ có **CĂN BÊN TỨ PHỦ**, **NHÀ TRẦN**
 - Chủ yếu là **CĂN SỐ BÊN NHÀ TRẦN**
 - Có **LỘC SÁT QUỶ TRỪ TÀ**

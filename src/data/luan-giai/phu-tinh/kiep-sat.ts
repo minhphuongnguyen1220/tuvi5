@@ -189,7 +189,6 @@ Trong nhiều trường hợp Kiếp Sát đóng cung Điền chủ về:
 - Trên đất có **NHIỀU VONG LINH, HÀI CỐT bên dưới**
 - Người ở nhà hay gặp **TAI NẠN, VA CHẠM gây xước xát**
 - Dễ có **ĐÁNH NHAU, TRANH CHẤP** về đất cát
-- Có thể với cả **anh em** (nếu cung Huynh Đệ xấu)
 
 🌟 **Tuy nhiên - sau 3 đời:**
 Nếu **ở được 3 đời** trên đất đó thì tự nhiên **đất đó lại PHÁT**, **HỢP với
@@ -282,8 +281,6 @@ gia chủ**.
 - Bản thân thường có **THƯƠNG TẬT**, **NHIỀU SẸO**
 - Dễ bị **NẠN HÌNH THƯƠNG, SÚNG ĐẠN, DAO KÉO ĐÂM PHẢI**
 
-⚠️ **Phụ nữ:** dễ **ĐẺ MỔ**, đường sinh nở gian nan, gặp **biến chứng**.
-
 ⚠️ **Tuổi thọ:** có thể bị **rút ngắn** do nghiệp sát nặng — cuộc đời nhiều lần
 "**THẬP TỬ NHẤT SINH**".
 
@@ -293,6 +290,21 @@ gia chủ**.
 - Tai qua nạn khỏi
 - Lâu dài → đương số **lấy chính TRẢI NGHIỆM bệnh tật của mình để GIÚP NGƯỜI**
 - Hành nghề **Y** hoặc làm trong môi trường cần **DŨNG CẢM, CHỊU ÁP LỰC**`,
+  },
+
+  {
+    id: 'kiep-sat-tai-tat-ach-nu-de-mo',
+    title: 'Kiếp Sát tại Tật Ách - nữ đẻ mổ sinh nở khó',
+    sao: ['Kiếp Sát'],
+    cung: ['Tật Ách'],
+    gioiTinh: 'Nữ',
+    doUuTien: 72,
+    tomTat: `⚠️ **Kiếp Sát tại Tật Ách - Nữ mệnh:**
+- Dễ phải **ĐẺ MỔ**
+- Đường sinh nở **GIAN NAN**
+- Gặp **BIẾN CHỨNG** lúc sinh
+- Dễ phải tiêm truyền, tiểu phẫu
+- Cần khám tiền sản kỹ, chọn cơ sở y tế uy tín`,
   },
 
   {

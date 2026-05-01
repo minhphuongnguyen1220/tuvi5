@@ -55,7 +55,7 @@ phi, **biện hộ, bút chiến**. Cần thiết cho:
 ⚠️ **Tinh thần CẠNH TRANH, ĐỐ KỴ, NẶNG BÁO PHỤC** — sẵn sàng dùng thủ đoạn
 tranh thắng → khơi mào **trả đũa**.
 
-⚡ **Quan Phủ tại Mệnh / Thân:** báo hiệu **NGHIỆP CHƯỚNG** của việc **báo
+⚡ **Quan Phủ thủ Mệnh:** báo hiệu **NGHIỆP CHƯỚNG** của việc **báo
 oán, thù dai, thị phi**.`,
   },
 

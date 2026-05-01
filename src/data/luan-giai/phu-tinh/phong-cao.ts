@@ -105,14 +105,15 @@ mới bền vững.`,
 
   {
     id: 'phong-cao-tai-tai-bach-rieng',
-    title: 'Phong Cáo tại Tài Bạch (Thai Phụ ở Mệnh)',
+    title: 'Phong Cáo tại Tài Bạch (cặp Thai Phụ - Phong Cáo)',
     sao: ['Phong Cáo'],
     cung: ['Tài Bạch'],
+    ketHop: ['Thai Phụ'],
     doUuTien: 70,
-    tomTat: `**Phong Cáo tại Tài Bạch** — quy luật cặp đôi với Thai Phụ tại Mệnh.
+    tomTat: `**Phong Cáo tại Tài Bạch** — đi cặp với Thai Phụ theo quy luật an sao.
 
 ⚡ **Quy luật:**
-- Thai Phụ ở Mệnh → **PHONG CÁO Ở TÀI**
+- Phong Cáo và Thai Phụ luôn cách nhau cố định
 - Người hay được **KHEN THƯỞNG, TRAO TẶNG TIỀN**
 - Có thể **DÙNG BẰNG CẤP, HỌC VỊ ĐỂ KIẾM TIỀN**
 

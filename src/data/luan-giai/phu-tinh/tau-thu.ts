@@ -64,14 +64,15 @@ sáng tạo, chuyên nghiệp**.`,
   // ============================================================
   {
     id: 'tau-thu-quan-phu-di-doi-chieu',
-    title: 'Tấu Thư thủ Mệnh - Quan Phủ Di đối chiếu (kiện tụng)',
+    title: 'Tấu Thư thủ Mệnh - Quan Phủ đối chiếu (kiện tụng)',
     sao: ['Tấu Thư'],
     cung: ['Mệnh'],
+    ketHop: ['Quan Phủ'],
     doUuTien: 60,
     tomTat: `⚡ **NGUYÊN TẮC ĐẶC BIỆT về Tấu Thư:**
 
-Vì quy luật an sao trong vòng Lộc Tồn → **Tấu Thư thủ Mệnh LUÔN có Quan Phủ ở
-Thiên Di đối chiếu** về Mệnh.
+Vì quy luật an sao trong vòng Lộc Tồn → **Tấu Thư thủ Mệnh LUÔN có Quan Phủ
+xung chiếu** về Mệnh.
 
 ⚠️ **Hệ quả:**
 - Khi **ra ngoài** dễ **VƯỚNG VÀO KIỆN TỤNG**
@@ -354,10 +355,20 @@ léo, tinh tế**, có **học thức**, biết đối nhân xử thế → tạ
 người xung quanh.
 
 ⚠️ Tính chất Tấu Thư gắn với **giấy tờ, văn bản pháp lý** → người hôn phối
-**dễ dính tới KIỆN TỤNG**.
+**dễ dính tới KIỆN TỤNG**.`,
+  },
 
-⚠️ **+ Sát bại tinh + Đào Hồng / Hoa Cái thủ Mệnh:** vợ chồng **DỄ BỎ NHAU** —
-Tấu Thư chính là **ĐƠN XIN LY HÔN**.`,
+  {
+    id: 'tau-thu-phu-the-dao-hong-menh-ly-hon',
+    title: 'Tấu Thư Phu + Đào Hồng/Hoa Cái Mệnh - Đơn ly hôn',
+    sao: ['Tấu Thư'],
+    cung: ['Mệnh'],
+    ketHop: ['Đào Hoa', 'Hồng Loan', 'Hoa Cái'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tấu Thư tại Phu Thê + sát bại tinh + Đào Hồng / Hoa Cái thủ Mệnh:**
+- Vợ chồng **DỄ BỎ NHAU**
+- Tấu Thư chính là **ĐƠN XIN LY HÔN**
+- Tình duyên đứt đoạn vì xáo trộn nội tâm và đào hoa`,
   },
 
   // ============================================================

@@ -89,15 +89,35 @@ luật an sao).
 🌟 **Đặc điểm:**
 - **NHAN SẮC ĐẸP**
 - **DA MẶT HỒNG HÀO, THANH TÚ**
-- Đặc biệt với **PHỤ NỮ**
 
 ⚡ **Hình tượng cơ thể** = **CÁI TAI**:
 - Người này có **ĐÔI TAI ĐẸP, DÀY**
-- Có **KHẢ NĂNG THÍNH GIÁC TỐT**
+- Có **KHẢ NĂNG THÍNH GIÁC TỐT**`,
+  },
 
-🌟 **Phụ nữ:** **ĐOAN TRANG, QUÝ PHÁI**.
+  {
+    id: 'phuong-cac-tuong-mao-nu',
+    title: 'Phượng Các - Tướng mạo (nữ mệnh)',
+    sao: ['Phượng Các'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 45,
+    tomTat: `🌟 **Phượng Các thủ Mệnh - Nữ mệnh:**
+- **ĐOAN TRANG, QUÝ PHÁI**
+- Da mặt hồng hào, thanh tú
+- Tai dày, đẹp, thính giác tốt`,
+  },
 
-🌟 **Đàn ông:** **KHÔI VĨ, PHONG ĐỘ**.`,
+  {
+    id: 'phuong-cac-tuong-mao-nam',
+    title: 'Phượng Các - Tướng mạo (nam mệnh)',
+    sao: ['Phượng Các'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nam',
+    doUuTien: 45,
+    tomTat: `🌟 **Phượng Các thủ Mệnh - Nam mệnh:**
+- **KHÔI VĨ, PHONG ĐỘ**
+- Tai dày, đẹp, thính giác tốt`,
   },
 
   {
@@ -138,8 +158,6 @@ luật an sao).
 - **CHÍNH TRỰC**, luôn **BẢO VỆ LẼ PHẢI**
 - **NHÂN CÁCH CAO THƯỢNG**, **KHÍ CHẤT CAO QUÝ**
 
-🌟 **Riêng phụ nữ:** **ĐOAN TRANG** trong nết hạnh.
-
 🌟 **Công danh - Tài lộc:**
 - May mắn **KHOA BẢNG VĂN CHƯƠNG**
 - **THI ĐỖ CAO**, có **KHOA GIÁP LỚN**
@@ -154,6 +172,20 @@ luật an sao).
 - **CƯỚI XIN THUẬN LỢI**
 - **SINH NỞ DỄ DÀNG**
 - Con cái **THÔNG MINH, DỄ NUÔI**`,
+  },
+
+  {
+    id: 'phuong-cac-tai-menh-nu',
+    title: 'Phượng Các tại Mệnh - nữ mệnh đoan trang',
+    sao: ['Phượng Các'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 72,
+    tomTat: `🌟 **Phượng Các thủ Mệnh - Nữ mệnh:**
+- **ĐOAN TRANG** trong nết hạnh
+- Phẩm hạnh **THANH CAO, QUÝ PHÁI**
+- Vẹn toàn về **NHAN SẮC, TÍNH HẠNH, TÀI LỘC, GIA ĐẠO**
+- May mắn trong **HÔN NHÂN, SINH NỞ**`,
   },
 
   {

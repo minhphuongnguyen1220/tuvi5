@@ -213,8 +213,8 @@ VIỆC THIỆN**, sẵn sàng giúp đỡ người khác **MỘT CÁCH VÔ TƯ**
 - Có **NHÀ SƯ, TU SỸ** đến cầu nguyện
 - Thanh thản hành trình cuối đời
 
-⚠️ **Lưu ý:** Tật Ách không bằng Mệnh — Mệnh xấu hay Vận xấu vẫn có thể
-chết yểu. Quan Phúc tại Tật chỉ giảm bớt mức độ.`,
+⚠️ **Lưu ý:** vị trí Tật Ách chỉ giảm nhẹ tai ương, không bằng cung gốc — vận
+hạn xấu nặng vẫn có thể chết yểu. Quan Phúc tại Tật chỉ giảm bớt mức độ.`,
   },
 
   {

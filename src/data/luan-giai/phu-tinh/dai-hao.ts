@@ -85,15 +85,38 @@ dễ "**cháy túi**" → túng thiếu, thất thường.
     tomTat: `**Đại Hao cư Phụ Mẫu:** cha mẹ phải **"tha hương cầu thực"**, sống xa
 quê cha đất tổ, thay đổi nơi ở/nghề nghiệp.
 
-⚠️ **Hãm địa:** cha mẹ **gầy gò, vất vả**, đồng tiền thất thường — **kiếm được
-ít mà lúc mất thì mất CẢ CỤC TO** (đặc trưng Đại Hao = quy mô lớn).
-
-🌟 **Đắc địa:** cha mẹ **kinh doanh LỚN, đầu tư MẠNH** — dòng tiền giữa con
-cái và cha mẹ **lưu thông liên tục**, có thể cha mẹ hỗ trợ tài chính cho con,
-hoặc ngược lại.
-
 ⚠️ **+ Thiên Hình / Thiên Việt:** cha mẹ **nghiêm khắc, giáo điều**, "nói một
-là một", con cái khó lòng trái ý.`,
+là một", con cái khó lòng trái ý.
+
+→ Khác biệt khi Đắc và Hãm được tách thành luận giải riêng.`,
+  },
+
+  {
+    id: 'dai-hao-tai-phu-mau-dac',
+    title: 'Đại Hao tại Phụ Mẫu - Đắc địa kinh doanh lớn',
+    sao: ['Đại Hao'],
+    cung: ['Phụ Mẫu'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    trangThai: ['Đắc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Đại Hao đắc tại Phụ Mẫu** (Dần / Thân / Mão / Dậu):
+- Cha mẹ **kinh doanh LỚN, đầu tư MẠNH**
+- Dòng tiền giữa con cái và cha mẹ **lưu thông liên tục**
+- Có thể cha mẹ **hỗ trợ tài chính cho con**, hoặc ngược lại
+- Quy mô tài chính lớn`,
+  },
+
+  {
+    id: 'dai-hao-tai-phu-mau-ham',
+    title: 'Đại Hao tại Phụ Mẫu - Hãm địa cha mẹ vất vả',
+    sao: ['Đại Hao'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Hãm'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Đại Hao hãm tại Phụ Mẫu:**
+- Cha mẹ **gầy gò, vất vả**
+- Đồng tiền thất thường
+- **Kiếm được ít mà lúc mất thì mất CẢ CỤC TO** (đặc trưng Đại Hao = quy mô lớn)`,
   },
 
   // ============================================================
@@ -296,13 +319,26 @@ nhưng nuôi ít.
 ⚠️ **Hao HÃM:** người hôn phối **HOANG TÀN, phá của**, gây **chia ly**. Người
 phối ngẫu **tiêu xài phung phí**, tổn thất tài chính LỚN.
 
-⚠️ **Hao ĐẮC ĐỊA + Đào Hồng thủ Mệnh:** dễ **NHIỀU VỢ, thê thiếp**, **ở với
-NHIỀU BÀ một lúc** (khác Tiểu Hao "mỗi ngày một bà" — Đại Hao mạnh hơn).
-
 ⚠️ **+ Đà La / Thiên Hình / Thiên Riêu:** người hôn phối **phong lưu thái
 trượng**, tài tử, phá tán → **"ông ăn chả bà ăn nem"**.
 
 🌟 **Đắc + cát tinh:** chủ mệnh **tháo vát**, biết quan tâm chiều chuộng bạn đời.`,
+  },
+
+  {
+    id: 'dai-hao-phu-the-dac-dao-hong-menh',
+    title: 'Đại Hao đắc tại Phu Thê + Đào Hồng hội chiếu - nhiều vợ thê thiếp',
+    sao: ['Đại Hao'],
+    cung: ['Phu Thê'],
+    trangThai: ['Đắc'],
+    ketHop: ['Đào Hoa', 'Hồng Loan'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Đại Hao đắc địa tại Phu Thê + Đào Hồng hội chiếu cung gốc:**
+- Dễ **NHIỀU VỢ, thê thiếp**
+- Có nhiều mối quan hệ tình cảm cùng lúc
+- Khác Tiểu Hao "**mỗi ngày một bà**" — Đại Hao mạnh hơn, **quy mô lớn**
+
+→ Đại Hao đắc + Đào Hồng = duyên đa, nhân tình nhân ngãi nhiều.`,
   },
 
   // ============================================================

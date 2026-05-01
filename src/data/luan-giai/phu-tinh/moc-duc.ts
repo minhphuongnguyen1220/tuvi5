@@ -133,22 +133,34 @@ nguy cơ **BỆNH SINH SẢN, SINH LÝ**.
 - Cộng sát tinh → bệnh đường **TÌNH DỤC, TIẾT NIỆU** tăng cao
 - Bệnh **TIM MẠCH** (do Mộc Dục thuộc Thủy)
 
-⚠️ **Đặc biệt nữ mệnh:**
-- Vấn đề **SINH SẢN** nghiêm trọng:
-  - **HƯ THAI**
-  - **KHÓ SINH**
-  - **SẢY THAI** ngoài ý muốn
-
 ⚡ **Hóa giải:** Cần Tử Vi + Thiên Phủ + Lương + Đồng + Hóa Khoa hội chiếu
 giảm bớt.`,
+  },
+
+  {
+    id: 'moc-duc-tat-ach-nu-sinh-san',
+    title: 'Mộc Dục + sát tinh tại Tật - Nữ mệnh sinh sản',
+    sao: ['Mộc Dục'],
+    cung: ['Tật Ách'],
+    gioiTinh: 'Nữ',
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Mộc Dục + Kình Dương + Đà La + Hóa Kỵ + Không Kiếp tại Tật Ách —
+nữ mệnh:**
+
+⚠️ Vấn đề **SINH SẢN** nghiêm trọng:
+- **HƯ THAI**
+- **KHÓ SINH**
+- **SẢY THAI** ngoài ý muốn`,
   },
 
   {
     id: 'moc-duc-sat-tinh-menh-quan-phu-nong-noi',
     title: 'Mộc Dục + sát tinh tại Mệnh/Quan/Phu - Nông nổi thiếu kiên định',
     sao: ['Mộc Dục'],
+    cung: ['Mệnh', 'Quan Lộc', 'Phu Thê'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh'],
-    doUuTien: 55,
+    doUuTien: 60,
     tomTat: `⚠️ **Mộc Dục + sát tinh tại Mệnh / Quan Lộc / Phu Thê** — tăng tính **NÔNG
 NỔI, THIẾU KIÊN ĐỊNH**.
 
@@ -365,12 +377,20 @@ chút mồ mả.`,
   - **BỆNH ĐƯỜNG SINH DỤC**
   - **TIM MẠCH** (do Mộc Dục Thủy)
 
-⚠️ **Đặc biệt phụ nữ:**
+⚡ **Hóa giải:** Cần dưỡng sinh, tu thân, tránh quan hệ phóng túng.`,
+  },
+
+  {
+    id: 'moc-duc-tat-ach-nu-de-kho',
+    title: 'Mộc Dục tại Tật Ách - Nữ khó đẻ, sảy thai',
+    sao: ['Mộc Dục'],
+    cung: ['Tật Ách'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `⚠️ **Mộc Dục tại Tật Ách — nữ mệnh:**
 - Dễ gây **KHÓ ĐẺ**
 - **SẨY THAI** ngoài ý muốn
-- Càng xấu hơn khi có thêm **ÁM, SÁT TINH** (Hóa Kỵ, Đà La, Riêu, Không Kiếp)
-
-⚡ **Hóa giải:** Cần dưỡng sinh, tu thân, tránh quan hệ phóng túng.`,
+- Càng xấu hơn khi có thêm **ÁM, SÁT TINH** (Hóa Kỵ, Đà La, Riêu, Không Kiếp)`,
   },
 
   {

@@ -128,20 +128,29 @@ Phù hợp các lĩnh vực **đòi hỏi sức mạnh và quyết đoán** — 
 
 🌟 May mắn: luôn có **bạn bè, đồng nghiệp, cấp trên, người xa lạ giúp đỡ**.
 
-⚠️ Vì là Âm Thủy → mang **tính đào hoa** → đường tình duyên **khổ tâm**.`,
+⚠️ Vì là Âm Thủy → mang **tính đào hoa** → đường tình duyên **khổ tâm**.
 
-    chiTiet: `## Cách Tả Hữu Sửu Mùi / giáp Mệnh
+→ Cách Tả Hữu đồng cung tại Sửu / Mùi được tách thành luận giải riêng.`,
 
-**Tả Phù + Hữu Bật đồng cung tại Sửu / Mùi** hoặc **giáp Mệnh + hội chiếu** →
-đương số:
-- **Đa tài, "văn võ song toàn"**
-- **Thông thạo nhiều nghề**
-- **Đảm đang, tháo vát**
-
-## Lưu ý
+    chiTiet: `## Lưu ý
 
 Hữu Bật cư Mệnh nên đi cùng chính tinh mạnh — đặc biệt **Tử Vi, Thiên Phủ** —
 để phát huy hết khả năng trợ lực.`,
+  },
+
+  {
+    id: 'ta-huu-suu-mui-menh',
+    title: 'Tả Phù + Hữu Bật đồng cung Sửu / Mùi - Văn võ song toàn',
+    sao: ['Hữu Bật'],
+    cung: ['Mệnh'],
+    chi: ['Sửu', 'Mùi'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tả Phù + Hữu Bật đồng cung tại Sửu / Mùi** hoặc **giáp Mệnh + hội chiếu**:
+- **Đa tài, "văn võ song toàn"**
+- **Thông thạo nhiều nghề**
+- **Đảm đang, tháo vát**
+- Là cách cục đặc biệt của bộ Tả Hữu tại Sửu/Mùi`,
   },
 
   // ============================================================

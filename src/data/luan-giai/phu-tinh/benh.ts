@@ -373,12 +373,24 @@ Phúc):
 
 ⚠️ **Hội nhiều sát bại tinh** (hung sát bại hình kỵ):
 - Con cái dễ **MẮC DỊ TẬT**
-- Phụ nữ dễ mắc bệnh **KHÓ ĐẺ**
-- Khó khăn trong **SINH NỞ**
 - Tình cảm với con cái có sự **XA CÁCH**
 
 ⚡ **Lời khuyên:** Chú trọng **SỨC KHỎE SINH SẢN**, chế độ **DƯỠNG THAI**, học
 cách **LẮNG NGHE VÀ THẤU HIỂU CON** từ sớm.`,
+  },
+
+  {
+    id: 'benh-tai-tu-tuc-nu-kho-de',
+    title: 'Bệnh tại Tử Tức - nữ khó đẻ sinh nở khó',
+    sao: ['Bệnh'],
+    cung: ['Tử Tức'],
+    gioiTinh: 'Nữ',
+    doUuTien: 68,
+    tomTat: `⚠️ **Bệnh thủ Tử Tức - Nữ mệnh:**
+- Phụ nữ dễ mắc bệnh **KHÓ ĐẺ**
+- Khó khăn trong **SINH NỞ**
+- Sức khỏe sinh sản **YẾU**
+- Cần khám tiền sản kỹ, chế độ dưỡng thai chu đáo`,
   },
 
   {
@@ -397,9 +409,8 @@ cách **LẮNG NGHE VÀ THẤU HIỂU CON** từ sớm.`,
 - Sức khỏe dễ **ỐM ĐAU, TẬT BỆNH**
 - Sức đề kháng kém, cần **TẨM BỔ, TĂNG CƯỜNG**
 
-⚡ **Đối ứng:**
-- Đối xung Quan Lộc có **TRƯỜNG SINH** tọa thủ
-- → Bản thân có sự nghiệp công danh **DỄ PHÁT TRIỂN HƠN** người hôn phối
+⚡ **Đối ứng cách Bệnh - Trường Sinh xung:**
+- Đương số có sự nghiệp công danh **DỄ PHÁT TRIỂN HƠN** người hôn phối
 
 ⚠️ **Cảnh báo:**
 - Cách của những người **HI SINH QUÁ NHIỀU** trong tình yêu

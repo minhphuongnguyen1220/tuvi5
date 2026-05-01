@@ -188,8 +188,9 @@ nay nhiều yếu tố nguy hiểm đã được kiểm soát.`,
 
   {
     id: 'thien-thuong-han-thien-hinh-bi-danh',
-    title: 'Hạn: Thương + Thiên Hình - Bị đánh',
+    title: 'Hạn: Thương + Thiên Hình tại Nô Bộc - Bị đánh',
     sao: ['Thiên Thương'],
+    cung: ['Nô Bộc'],
     ketHop: ['Thiên Hình'],
     doUuTien: 55,
     tomTat: `⚠️ **Thiên Thương + Thiên Hình vào hạn** — họa **"HÌNH THƯƠNG"** = **BỊ ĐÁNH**.

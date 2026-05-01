@@ -174,8 +174,34 @@ PHÁP LUẬT**, dễ **BỊ VU OAN**, hoặc trải qua **NHIỀU LẦN SỤP Đ
 ⚡ **Đặc trưng phúc lộc:**
 - Bạch Hổ **KHÔNG** chủ về **GIÀU SANG PHÚ QUÝ**
 - Là nền tảng để **TỰ THÂN LẬP NGHIỆP**, đạt thành tựu **BỀN VỮNG**
-- Đắc địa: của cải đến **CHẬM** nhưng giữ **LÂU**, **không thích nhờ cậy**
-- Hãm địa: tiền bạc là **NỖI TRĂN TRỞ**, làm bao nhiêu cũng không đủ`,
+
+(Xem entry chuyên biệt theo trạng thái Đắc / Hãm cho khía cạnh tiền bạc.)`,
+  },
+
+  {
+    id: 'bach-ho-cong-danh-dac-dia',
+    title: '🌟 Bạch Hổ Đắc địa - Của cải bền vững tự lập',
+    sao: ['Bạch Hổ'],
+    cung: ['Mệnh'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Bạch Hổ Đắc địa - Tài lộc:**
+
+- Của cải đến **CHẬM** nhưng giữ **LÂU**
+- **Không thích nhờ cậy** — tự thân lập nghiệp`,
+  },
+
+  {
+    id: 'bach-ho-cong-danh-ham',
+    title: '⚠️ Bạch Hổ Hãm - Tiền bạc trăn trở',
+    sao: ['Bạch Hổ'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Bạch Hổ Hãm địa - Tài lộc:**
+
+- Tiền bạc là **NỖI TRĂN TRỞ**
+- Làm bao nhiêu cũng không đủ`,
   },
 
   {
@@ -293,8 +319,21 @@ nhưng cũng dễ tự đẩy mình vào **CĂNG THẲNG, VẤT VẢ**.
 - **Rắc rối, tai họa nhiều**
 - Bị **VU OAN, BẮT BỚ, HÌNH TÙ** vì công việc
 
-🌟 **+ Bạch Hổ tại Dần (HỔ VỀ RỪNG):** gặp thời vận tốt, phát huy tài năng → đạt
-**chức quyền cao** — đặc biệt tốt cho tuổi **GIÁP, KỶ**, dễ **NỔI DANH HẬU THẾ**.`,
+(Xem entry chuyên biệt cho cách "Hổ về rừng" tại Dần.)`,
+  },
+
+  {
+    id: 'bach-ho-tai-quan-loc-dan-ho-ve-rung',
+    title: '🌟 Bạch Hổ tại Quan Lộc tại Dần - "Hổ về rừng"',
+    sao: ['Bạch Hổ'],
+    cung: ['Quan Lộc'],
+    chi: ['Dần'],
+    doUuTien: 80,
+    tomTat: `🌟 **Bạch Hổ tại Quan Lộc cư Dần** = cách **"HỔ VỀ RỪNG"**:
+
+- Gặp thời vận tốt, phát huy tài năng → đạt **chức quyền cao**
+- Đặc biệt tốt cho tuổi **GIÁP, KỶ**
+- Dễ **NỔI DANH HẬU THẾ**`,
   },
 
   {
@@ -331,7 +370,8 @@ gánh vác **TRÁCH NHIỆM với XÃ HỘI**, với mọi người xung quanh.
 🌟 **Bạch Hổ ĐẮC địa:**
 - Có **QUYỀN LỰC** khi ra ngoài
 - Hay ở gần **người có quyền chức**
-- **+ Tả/Hữu đơn thủ Mệnh:** dễ làm **THƯ KÝ, TRỢ LÝ** cho người quyền lớn
+- **+ Tả Phù / Hữu Bật đơn thủ:** dễ làm **THƯ KÝ, TRỢ LÝ** cho người quyền
+  lớn (xét theo cấu trúc Tả/Hữu đơn thủ tại bản cung tương ứng)
 
 💡 Để hóa giải Bạch Hổ tại Di: **TRÁNH XA RỦI RO**, không gây **TRANH CÃI, THỊ
 PHI** với người khác.`,
@@ -419,7 +459,7 @@ chết trong bụng mẹ**.
 - **NHIỀU LO TOAN, TRĂN TRỞ** cho người hôn phối
 - Hôn nhân **KHÔNG BỀN LÂU**
 - Dễ rơi vào cảnh **TANG CHỒNG / TANG VỢ**
-- Hoặc gặp cảnh **LY THÂN, LY HÔN, Ở GÓA** (nếu Phúc - Mệnh - Thân xấu)
+- Hoặc gặp cảnh **LY THÂN, LY HÔN, Ở GÓA** (khi các cung phối thuộc xấu)
 - Bạch Hổ tại Phu Thê còn có ý nghĩa **CƯỚI CHẠY TANG**
 - Người hôn phối **HAY ỐM ĐAU BỆNH TẬT LIÊN MIÊN**
 

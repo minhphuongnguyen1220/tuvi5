@@ -60,12 +60,10 @@ export const luanGiai_DiaVong: DoanLuanGiai[] = [
     sao: ['Địa Võng'],
     chi: ['Tuất'],
     doUuTien: 35,
-    tomTat: `**Địa Võng** luôn **CỐ ĐỊNH tại cung Tuất**.
+    tomTat: `**Địa Võng** luôn **CỐ ĐỊNH tại cung Tuất** — gọi là **LƯỚI ĐẤT**.
 
-⚡ **Quy luật vị trí:**
-- **Tuất = ĐỊA VÕNG** (Lưới Đất)
-- **Thìn = THIÊN LA** (Lưới Trời)
-- Hai cung **THÌN - TUẤT** xung chiếu nhau, tạo **TRỤC LƯỚI TRỜI**`,
+⚡ Là một nửa của **TRỤC LƯỚI TRỜI** (cùng Thiên La cố định Thìn) — hai cung
+xung chiếu nhau tạo nên cặp đôi nghiệp duyên ràng buộc.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -166,11 +164,20 @@ Lưu Hà) tại Phụ Mẫu** — **TRI THỨC LƯU TRUYỀN**.
 
 ⚡ **Đặc trưng:**
 - "**CÂY CÓ GỐC, NƯỚC CÓ NGUỒN**"
-- Dù muốn hay không, **PHẢI CHỊU ẢNH HƯỞNG TỔ TIÊN**
+- Dù muốn hay không, **PHẢI CHỊU ẢNH HƯỞNG TỔ TIÊN**`,
+  },
 
-⚡ **Mệnh có thêm sao Không tọa thủ:**
+  {
+    id: 'dia-vong-phuc-menh-co-khong-thoat-the-tuc',
+    title: 'Địa Võng Phúc + sao Không tại Mệnh - Thoát ly thế tục',
+    sao: ['Địa Võng'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Không', 'Thiên Không'],
+    doUuTien: 65,
+    tomTat: `⚡ **Địa Võng tại Phúc Đức + sao Không tọa thủ tại Mệnh:**
 - Hình thành suy nghĩ **MUỐN THOÁT LY THẾ TỤC**
-- Như một cách **TRẢ NGHIỆP**`,
+- Như một cách **TRẢ NGHIỆP**
+- Dễ có duyên với tu tập, đi tu, ẩn cư`,
   },
 
   {
@@ -183,12 +190,20 @@ Lưu Hà) tại Phụ Mẫu** — **TRI THỨC LƯU TRUYỀN**.
 
 ⚡ **Đặc trưng:**
 - Có thể là nhà cửa **BỊ PHONG TỎA**
-- Hoặc nhà ở **VỊ TRÍ RANH GIỚI, BIÊN GIỚI**
+- Hoặc nhà ở **VỊ TRÍ RANH GIỚI, BIÊN GIỚI**`,
+  },
 
-⚡ **Cảnh báo tài sản:**
-- Nếu cung Tài Bạch hội tụ nhiều **ĐÀ KỴ HÌNH HAO**:
-  - Dễ rơi vào **KIẾM TIỀN PHI PHÁP**
-  - Đến lúc **TRẢ NGHIỆP** → nhà cửa, đất đai, tài sản **BỊ PHONG TỎA, GIAM CẦM**`,
+  {
+    id: 'dia-vong-tai-bach-da-ky-hinh-hao-tich-thu',
+    title: 'Địa Võng Điền + Đà Kỵ Hình Hao tại Tài - Tài sản bị tịch thu',
+    sao: ['Địa Võng'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Đà La', 'Hóa Kỵ', 'Thiên Hình', 'Đại Hao', 'Tiểu Hao'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Địa Võng tại Điền Trạch + cung Tài Bạch hội tụ Đà Kỵ Hình Hao:**
+- Dễ rơi vào **KIẾM TIỀN PHI PHÁP**
+- Đến lúc **TRẢ NGHIỆP** → nhà cửa, đất đai, tài sản **BỊ PHONG TỎA, GIAM
+  CẦM, TỊCH THU**`,
   },
 
   {

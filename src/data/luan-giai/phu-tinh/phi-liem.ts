@@ -162,7 +162,7 @@ KHUẨN**, dị vật bay hỗn loạn.
 - **Dị vật văng trúng**, thương tích
 - **Tai nạn đột ngột**: té xe, lửa điện, **nhiễm virus**
 
-⚠️ **CỰC NGUY HIỂM** khi Mệnh / Tật có **Thiên Hình + Thiên Việt + Phi Liêm +
+⚠️ **CỰC NGUY HIỂM** khi Tật Ách có **Thiên Hình + Thiên Việt + Phi Liêm +
 Linh Tinh + Hỏa Tinh** → bộ **"LỬA ĐIỆN" rất mạnh**:
 - **Súng đạn, lửa điện**
 - **SÉT ĐÁNH, TÉ XE**

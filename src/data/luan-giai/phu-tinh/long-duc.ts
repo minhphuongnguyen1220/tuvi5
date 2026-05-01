@@ -143,7 +143,7 @@ cục Cơ Nguyệt Đồng Lương + quý tinh tâm linh.`,
   **sâu sắc**
 
 ⚡ **Quy luật ĐỐI XUNG:**
-**Long Đức thủ Phụ Mẫu** → cung **Mệnh thủ TUẾ PHÁ** (đối xung 6 cung).
+Long Đức thủ Phụ Mẫu → đối cung luôn có **TUẾ PHÁ** chiếu về.
 - Người có cha mẹ **HIỀN LÀNH, NHẸ NHÀNG** nhưng bản thân thường **BỐC ĐỒNG,
   HAY CHỐNG ĐỐI**, đi ngược lại
 - Đây là cách rất hay gặp: con của người hiền hậu lại **ngỗ nghịch**

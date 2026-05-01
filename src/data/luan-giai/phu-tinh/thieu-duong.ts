@@ -62,7 +62,7 @@ TAI HỌA**.`,
     id: 'thieu-duong-tu-duc-thien-khong-giac-ngo',
     title: 'Thiếu Dương + Tứ Đức + Thiên Không - cơ duyên giác ngộ',
     sao: ['Thiếu Dương'],
-    ketHop: ['Thiên Không'],
+    ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 70,
     tomTat: `🌟 **Thiếu Dương + Thiên Không** (LUÔN đi cùng) **+ TỨ ĐỨC chiếu** (Long Đức +
 Phúc Đức + Thiên Đức + Nguyệt Đức):

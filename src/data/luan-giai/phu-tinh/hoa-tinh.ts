@@ -80,18 +80,37 @@ trầm cảm**. Biết tính toán nhưng đi quá đà → thành **chi ly, keo
 
 **Tâm lý:** **nội tâm bất ổn**. Khi môi trường tiêu cực → tâm trạng dễ **mất cân
 bằng**. Đi kèm nhiều ám tinh → nhạy cảm thành gánh nặng → có xu hướng theo đuổi
-**con đường tâm linh** để tìm điểm tựa.`,
-
-    chiTiet: `## Công danh tài lộc
+**con đường tâm linh** để tìm điểm tựa.
 
 🌟 **+ Tham Lang:** Hỏa Tinh trở thành **THƯỢNG CÁCH** — số **nắm quyền uy**,
 hợp **võ nghiệp** hoặc **buôn bán quy mô lớn** (xem entry riêng "Hỏa Tham
-thượng cách").
+thượng cách").`,
+  },
 
-🌟 **Đắc địa + cát tinh:** sự nghiệp **hanh thông**, tài lộc **ổn định**.
+  {
+    id: 'hoa-tinh-menh-dac-cat-tinh',
+    title: 'Hỏa Tinh tại Mệnh - Đắc địa + cát tinh',
+    sao: ['Hỏa Tinh'],
+    cung: ['Mệnh'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 80,
+    tomTat: `🌟 **Hỏa Tinh ĐẮC tại Mệnh + cát tinh:**
+- Sự nghiệp **HANH THÔNG**
+- Tài lộc **ỔN ĐỊNH**
+- Phát huy mặt tích cực: dũng khí, ý chí, quyết đoán`,
+  },
 
-⚠️ **Hãm địa hoặc + hung tinh:** đường công danh **bị cản trở**, có thể gặp họa
-liên quan **lửa hoặc điện**.`,
+  {
+    id: 'hoa-tinh-menh-ham-hung-tinh',
+    title: 'Hỏa Tinh tại Mệnh - Hãm + hung tinh',
+    sao: ['Hỏa Tinh'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Hỏa Tinh HÃM tại Mệnh hoặc + hung tinh:**
+- Đường công danh **BỊ CẢN TRỞ**
+- Có thể gặp họa liên quan **LỬA hoặc ĐIỆN**
+- Tâm tính nóng nảy, liều lĩnh khó kiểm soát`,
   },
 
   // ============================================================
@@ -219,17 +238,37 @@ dữ, có vong linh, tà khí**.
     sao: ['Hỏa Tinh'],
     cung: ['Quan Lộc'],
     doUuTien: 80,
-    tomTat: `**Hỏa Tinh tại Quan Lộc:**
-
-🌟 **Đắc địa + Linh Tinh đắc:** "tiếp lửa" về ý chí — **chăm chỉ, quyết đoán**,
-giỏi **phán đoán thời cơ**, tư duy phân tích tốt. Phù hợp **cơ khí, điện tử,
-truyền thông, quân sự, an ninh**.
-
-⚠️ **Hãm địa:** công danh **trắc trở**, "lên bổng xuống trầm", khó giữ chức vị
-ổn định.
+    tomTat: `**Hỏa Tinh tại Quan Lộc:** ảnh hưởng đến công danh, sự nghiệp.
 
 ⚠️ **+ Nhiều sao xấu:** áp lực công việc lớn, dễ **căng thẳng, suy nhược** hoặc
 **mâu thuẫn với cấp trên, đồng nghiệp**.`,
+  },
+
+  {
+    id: 'hoa-tinh-quan-dac-linh-tinh',
+    title: 'Hỏa Tinh tại Quan Lộc - Đắc + Linh Tinh đắc',
+    sao: ['Hỏa Tinh'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hỏa Tinh ĐẮC tại Quan Lộc + Linh Tinh đắc:**
+- "Tiếp lửa" về ý chí — **CHĂM CHỈ, QUYẾT ĐOÁN**
+- Giỏi **PHÁN ĐOÁN THỜI CƠ**, tư duy phân tích tốt
+- Phù hợp **cơ khí, điện tử, truyền thông, quân sự, an ninh**`,
+  },
+
+  {
+    id: 'hoa-tinh-quan-ham',
+    title: 'Hỏa Tinh tại Quan Lộc - Hãm địa',
+    sao: ['Hỏa Tinh'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Hãm'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hỏa Tinh HÃM tại Quan Lộc:**
+- Công danh **TRẮC TRỞ**
+- "Lên bổng xuống trầm", khó giữ chức vị **ỔN ĐỊNH**
+- Sự nghiệp lên nhanh xuống nhanh`,
   },
 
   // ============================================================
@@ -291,10 +330,20 @@ khó phục hồi.
 ⚠️ **+ Mộc Dục:** đề phòng **bỏng nước sôi**.
 
 ⚠️ **+ Thiên Hình / Linh Tinh / Thiên Việt:** thương tích **dao kéo, cháy nổ,
-điện giật, tai nạn giao thông**.
+điện giật, tai nạn giao thông**.`,
+  },
 
-⚠️ **+ Kình Dương hãm tại Thìn:** cẩn trọng **môi trường sông nước, đề phòng
-chết đuối**.`,
+  {
+    id: 'hoa-tinh-tat-ach-kinh-thin-chet-duoi',
+    title: 'Hỏa Tinh tại Tật + Kình Dương hãm tại Thìn - Chết đuối',
+    sao: ['Hỏa Tinh'],
+    cung: ['Tật Ách'],
+    chi: ['Thìn'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hỏa Tinh tại Tật Ách + Kình Dương hãm tại Thìn:**
+- Cẩn trọng **MÔI TRƯỜNG SÔNG NƯỚC**
+- Đề phòng **CHẾT ĐUỐI**`,
   },
 
   // ============================================================

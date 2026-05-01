@@ -382,15 +382,27 @@ THỌ TRƯỜNG, HƯỞNG PHÚC, SỐNG LÂU"**.
 thành cách **SONG THỌ** mạnh mẽ:
 - Thọ mệnh kéo dài rõ rệt
 - Hưởng phúc trạch dày
-- Ít bệnh tật, nếu có cũng nhanh qua khỏi
-- Đặc biệt tốt khi đóng tại **Tật Ách** hoặc **Phúc Đức**`,
+- Ít bệnh tật, nếu có cũng nhanh qua khỏi`,
+  },
+
+  {
+    id: 'thien-tho-thien-luong-tat-phuc',
+    title: 'Thiên Thọ + Thiên Lương tại Tật/Phúc - Thọ trường tột bậc',
+    sao: ['Thiên Thọ'],
+    cung: ['Tật Ách', 'Phúc Đức'],
+    ketHop: ['Thiên Lương'],
+    doUuTien: 60,
+    tomTat: `🌟 **Thiên Thọ + Thiên Lương đồng cung tại Tật Ách hoặc Phúc Đức** — vị
+trí ĐẶC BIỆT TỐT của bộ song thọ:
+- Thọ mệnh kéo dài, hưởng phúc dày
+- Đây là cách AN LÀNH BẬC NHẤT về phúc thọ`,
   },
 
   {
     id: 'thien-tho-tu-duc-cai-van',
     title: 'Thiên Thọ + bộ Tứ Đức - Cải vận tăng thọ',
     sao: ['Thiên Thọ'],
-    ketHop: ['Long Đức'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 50,
     tomTat: `**Thiên Thọ hội bộ Tứ Đức** (Long Đức + Phúc Đức + Thiên Đức + Nguyệt Đức)
 — cách cục **CẢI VẬN TĂNG THỌ** rất mạnh.
@@ -399,7 +411,20 @@ thành cách **SONG THỌ** mạnh mẽ:
 Thiên Thọ:
 - **Hóa giải sát tinh** đến tận gốc
 - **Tăng phúc thọ** đến mức tối đa
-- Đặc biệt khi đóng tại **Tật Ách** hoặc **Phúc Đức** → trường thọ
 - Là một trong những cách **AN LÀNH NHẤT** trong tử vi`,
+  },
+
+  {
+    id: 'thien-tho-tu-duc-tat-phuc',
+    title: 'Thiên Thọ + Tứ Đức tại Tật/Phúc - Trường thọ',
+    sao: ['Thiên Thọ'],
+    cung: ['Tật Ách', 'Phúc Đức'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
+    doUuTien: 55,
+    tomTat: `🌟 **Thiên Thọ + Tứ Đức tại Tật Ách hoặc Phúc Đức** → đặc biệt **TRƯỜNG
+THỌ**:
+- Sao Giải tập trung hóa giải mọi sát tinh
+- Phúc thọ đạt đỉnh
+- An lành tột bậc cả về sức khỏe lẫn phúc trạch dòng họ`,
   },
 ];

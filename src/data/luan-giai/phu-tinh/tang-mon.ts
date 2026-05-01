@@ -77,13 +77,12 @@ Thiên Hư (**SONG HAO TANG HỔ KHỐC HƯ**).
 → 6 sao **BẠI TINH** chính trong tử vi, mỗi sao đều có đặc tính **HAO TỔN, MẤT
 MÁT, BUỒN PHIỀN**.
 
-⚠️ Khi nhiều sao của bộ này **HỘI TỤ** tại 1 cung, đặc biệt cung Mệnh hoặc Tật:
+⚠️ Khi nhiều sao của bộ này **HỘI TỤ** tại 1 cung quan trọng:
 - Vận trình **CỰC NẶNG**
 - **HAO TÀI, BUỒN KHỔ, MẤT MÁT** dồn dập
 - Cần **GIẢI TINH MẠNH** mới chế giảm
 
-🌟 **Tang Môn riêng biệt:** dù là bại tinh nhưng nếu **ĐẮC ĐỊA** (Dần Thân Mão
-Dậu) thì lại có nhiều **mặt tích cực** — quả cảm, tài hùng biện.`,
+(Xem entry chuyên biệt cho Tang Môn đắc địa.)`,
   },
 
   {
@@ -106,10 +105,33 @@ Dậu) thì lại có nhiều **mặt tích cực** — quả cảm, tài hùng 
 - Có khả năng **HIỂN ĐẠT về VÕ NGHIỆP**
 - Bộ sao **VĂN VÕ SONG TOÀN**
 
-🌟 **+ Văn tinh hội chiếu (nam Mệnh):** hiển đạt về **CHÍNH TRỊ**.
-🌟 **+ Võ tinh đi kèm (nam Mệnh):** hiển đạt về **QUÂN SỰ**.
+(Xem entries chuyên biệt theo giới tính.)`,
+  },
 
-🌟 **Phụ nữ ĐẮC địa:**
+  {
+    id: 'tang-mon-tai-menh-dac-dia-nam',
+    title: '🌟 Tang Môn Đắc địa tại Mệnh - Nam mệnh',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    gioiTinh: 'Nam',
+    doUuTien: 73,
+    tomTat: `🌟 **Tang Môn ĐẮC ĐỊA tại Mệnh - Nam mệnh:**
+
+🌟 **+ Văn tinh hội chiếu:** hiển đạt về **CHÍNH TRỊ**.
+🌟 **+ Võ tinh đi kèm:** hiển đạt về **QUÂN SỰ**.`,
+  },
+
+  {
+    id: 'tang-mon-tai-menh-dac-dia-nu',
+    title: '🌟 Tang Môn Đắc địa tại Mệnh - Nữ mệnh khí phách',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `🌟 **Tang Môn ĐẮC địa tại Mệnh - Nữ mệnh:**
+
 - **KHÍ PHÁCH**, ý chí **MẠNH NHƯ ĐÀN ÔNG**
 - Có **TÂM TÍNH NAM GIỚI**
 - Người **rất ĐẶC BIỆT** — **TỰ TAY LẬP NGHIỆP**
@@ -344,8 +366,8 @@ biệt nếu hãm địa hoặc có thêm sát tinh.`,
   - Vấn đề **TỬ CUNG**
   - Ảnh hưởng đến **SINH NỞ**
 
-⚠️ **Lưu ý:** Bệnh hoạn này **càng RÕ RỆT** nếu Tang Môn đóng ở **MỆNH hoặc
-TẬT** — dù tại đó **đắc địa** (Dần Thân Mão Dậu).`,
+⚠️ **Lưu ý:** Bệnh hoạn này **càng RÕ RỆT** ngay cả khi Tang Môn đóng ở vị
+trí đắc cách — không vì đắc địa mà miễn nhiễm.`,
   },
 
   {
@@ -381,7 +403,7 @@ TẬT** — dù tại đó **đắc địa** (Dần Thân Mão Dậu).`,
 
 ⚠️ **TANG CHỒNG hoặc TANG VỢ**, hoặc **LY THÂN, LY HÔN**.
 
-⚠️ **Ở GÓA** (nếu Phúc, Mệnh, Thân xấu).
+⚠️ **Ở GÓA** (nếu các cung trọng yếu khác như Phúc Đức xấu).
 
 ⚠️ **HÓA GIẢI:** lấy vợ/chồng **CÓ TẬT** (mù lòa, què gãy) → mới **TRÁNH ĐƯỢC
 HÌNH KHẮC, CHIA LY**.

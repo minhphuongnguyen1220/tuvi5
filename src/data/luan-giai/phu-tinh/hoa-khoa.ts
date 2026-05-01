@@ -72,12 +72,35 @@ gặp sát hay ám tinh).`,
 - Có **tài năng suy luận, nghiên cứu, giáo khoa**
 - **Nhân hậu, từ thiện, nết tốt**
 
-🌟 **Đắc địa:** **trí nhớ tốt, tư duy logic sắc bén**. "Lấy nhu thắng cương",
-ứng xử **ôn hòa**, giữ lễ nghĩa → có thể nổi danh nhờ **tri thức**.
+(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
 
-⚠️ **Hãm địa:** vẫn có trí tuệ cao nhưng **khó phát huy** vì môi trường không
-thuận hoặc bị sát tinh phá. Dễ thành **lý luận suông, giỏi lý thuyết mà thiếu
-thực tế**.`,
+  {
+    id: 'hoa-khoa-tai-menh-tinh-tinh-dac-dia',
+    title: 'Hóa Khoa tại Mệnh Đắc địa - Trí nhớ tốt, tư duy sắc bén',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 78,
+    tomTat: `🌟 **Hóa Khoa Đắc địa tại Mệnh:**
+
+- **Trí nhớ tốt, tư duy logic sắc bén**
+- "Lấy nhu thắng cương", ứng xử **ôn hòa**, giữ lễ nghĩa
+- Có thể nổi danh nhờ **tri thức**`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-tinh-tinh-ham',
+    title: '⚠️ Hóa Khoa tại Mệnh Hãm - Lý luận suông',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Hóa Khoa Hãm địa tại Mệnh:**
+
+- Vẫn có trí tuệ cao nhưng **khó phát huy** vì môi trường không thuận hoặc bị
+  sát tinh phá
+- Dễ thành **lý luận suông, giỏi lý thuyết mà thiếu thực tế**`,
   },
 
   // ============================================================
@@ -191,18 +214,40 @@ Tư tưởng cao **khó gần** hoặc **áp đặt lý tưởng** khiến con m
     tomTat: `🌟 **Hóa Khoa tại Phúc Đức:** **phúc ấm từ dòng họ**, được tổ tiên
 **che chở**.
 
-**Đắc địa:** dòng họ có **truyền thống học hành**, người thân nhiều **danh vị**.
-Hưởng **phúc tổ lâu dài**, lập nghiệp nhờ **nền tảng gia tộc**. Tư tưởng **thanh
-cao, sống trọng nghĩa lý**.
-
 🌟 **+ Hóa Quyền + Văn Xương + Văn Khúc:** **giòng dõi văn gia**.
 🌟 **+ Văn Xương + Văn Khúc:** **đỗ lớn**.
 🌟 **+ Hóa Lộc:** **THỌ**.
 🌟 **+ Vũ Khúc + Tham Lang:** **PHÁT ANH HÙNG**.
 
-⚠️ **Hãm địa:** sống nặng lý tưởng, **thiếu thực tế, dễ cô lập**. Tổ tiên có
-danh nhưng **không đủ lực phù trợ**, **phúc mỏng dần**. **+ Sát tinh / Không
-Kiếp:** danh tiếng tổ tiên dễ **bôi nhọ / mai một**.`,
+(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phuc-duc-dac-dia',
+    title: 'Hóa Khoa tại Phúc Đức Đắc địa - Truyền thống học hành',
+    sao: ['Hóa Khoa'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa Đắc địa tại Phúc Đức:**
+
+- Dòng họ có **truyền thống học hành**, người thân nhiều **danh vị**
+- Hưởng **phúc tổ lâu dài**, lập nghiệp nhờ **nền tảng gia tộc**
+- Tư tưởng **thanh cao, sống trọng nghĩa lý**`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phuc-duc-ham',
+    title: '⚠️ Hóa Khoa tại Phúc Đức Hãm - Phúc mỏng dần',
+    sao: ['Hóa Khoa'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Hãm'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa Hãm địa tại Phúc Đức:**
+
+- Sống nặng lý tưởng, **thiếu thực tế, dễ cô lập**
+- Tổ tiên có danh nhưng **không đủ lực phù trợ**, **phúc mỏng dần**
+- **+ Sát tinh / Không Kiếp:** danh tiếng tổ tiên dễ **bôi nhọ / mai một**`,
   },
 
   // ============================================================
@@ -243,13 +288,29 @@ vấn, hiểu biết**. **Trọng tri thức**, dễ **đỗ đạt**, có **dan
 Phù hợp công việc liên quan **lý luận, quản lý, giảng huấn, nghiên cứu**.
 
 🌟 **+ Hóa Quyền + Tử Vi / Thiên Phủ + Vũ Khúc / Thiên Mã:** **hiển vinh**.
-🌟 **+ Tam Hóa + Tả Hữu + Phá Quân ở Tý / Ngọ:** **quân công lớn, hiển hách**.
+
+(Xem entry chuyên biệt cho cách Tam Hóa + Tả Hữu + Phá Quân tại Tý/Ngọ.)
 
 ⚠️ **Hãm địa:** sự nghiệp "**lên thác xuống ghềnh**" do **lý tưởng hóa nghề
 nghiệp**. Học nhiều nhưng **khó chuyển hóa thành kết quả thực tế**.
 
 ⚠️ **+ Không Kiếp / Hóa Kỵ:** đề phòng **tai tiếng do lời nói, tranh luận học
 thuật**, vướng **vụ việc pháp lý** trong nghề.`,
+  },
+
+  {
+    id: 'hoa-khoa-quan-loc-tam-hoa-ta-huu-pha-quan-ty-ngo',
+    title: '🌟 Hóa Khoa tại Quan Lộc + Tam Hóa + Tả Hữu + Phá Quân tại Tý/Ngọ - Quân công lớn',
+    sao: ['Hóa Khoa'],
+    cung: ['Quan Lộc'],
+    chi: ['Tý', 'Ngọ'],
+    ketHop: ['Hóa Lộc', 'Hóa Quyền', 'Tả Phù', 'Hữu Bật', 'Phá Quân'],
+    doUuTien: 80,
+    tomTat: `🌟 **Hóa Khoa tại Quan Lộc + Tam Hóa + Tả Hữu + Phá Quân tại Tý hoặc
+Ngọ:**
+
+**QUÂN CÔNG LỚN, HIỂN HÁCH** — cách cục đỉnh cao về sự nghiệp võ nghiệp /
+quan lộ.`,
   },
 
   // ============================================================
@@ -261,17 +322,40 @@ thuật**, vướng **vụ việc pháp lý** trong nghề.`,
     sao: ['Hóa Khoa'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Hóa Khoa tại Nô Bộc:**
-
-🌟 **Đắc địa:** chơi với **người có học, trọng lễ nghĩa, tri thức** — thầy cô,
-học giả, bạn **thanh cao văn nhã**. Chọn người đồng hành theo **đạo đức, học
-vấn, cách giao tiếp**. **Được kính trọng**, ít tranh chấp với cấp dưới.
+    tomTat: `**Hóa Khoa tại Nô Bộc** — bạn bè quanh đương số mang **tính tri thức**.
 
 🌟 **+ Tam Hóa:** **nhiều người giúp đỡ đắc lực, làm nên**.
 
-⚠️ **Hãm địa:** **lý tưởng hóa bạn bè** — chọn theo tư tưởng hơn thực tế. Bạn
-**chỉ hợp lý tưởng nhưng không hỗ trợ thực tế**. **Nói lý nhiều**, khó hòa nhập
-môi trường bình dân / thương mại.`,
+(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-no-boc-dac-dia',
+    title: 'Hóa Khoa tại Nô Bộc Đắc địa - Bạn bè tri thức',
+    sao: ['Hóa Khoa'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa Đắc địa tại Nô Bộc:**
+
+- Chơi với **người có học, trọng lễ nghĩa, tri thức** — thầy cô, học giả, bạn
+  **thanh cao văn nhã**
+- Chọn người đồng hành theo **đạo đức, học vấn, cách giao tiếp**
+- **Được kính trọng**, ít tranh chấp với cấp dưới`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-no-boc-ham',
+    title: '⚠️ Hóa Khoa tại Nô Bộc Hãm - Lý tưởng hóa bạn bè',
+    sao: ['Hóa Khoa'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Hãm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Khoa Hãm địa tại Nô Bộc:**
+
+- **Lý tưởng hóa bạn bè** — chọn theo tư tưởng hơn thực tế
+- Bạn **chỉ hợp lý tưởng nhưng không hỗ trợ thực tế**
+- **Nói lý nhiều**, khó hòa nhập môi trường bình dân / thương mại`,
   },
 
   // ============================================================
@@ -332,22 +416,44 @@ tưởng**, thiếu cân bằng tâm-thân-trí.`,
     sao: ['Hóa Khoa'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `**Hóa Khoa tại Tài Bạch:**
-
-🌟 **Đắc địa:** tài lộc từ nghề **tri thức, luật pháp, giáo dục, y tế, lý luận**.
-Đầu tư cho **học vấn, phát triển bản thân**. Tài vận **ổn định, tích lũy**, làm
-ăn **uy tín**.
+    tomTat: `**Hóa Khoa tại Tài Bạch** — tài lộc gắn với **chất xám, học vấn**.
 
 🌟 **+ Văn Khúc / Khôi Việt:** lợi từ **học bổng, bản quyền, công trình nghiên
 cứu, dạy học, viết sách, tư vấn chuyên môn**.
 
 🌟 **+ Tam Hóa** hoặc **+ Vũ + Tướng + Lương + Tả Hữu:** **điền tài vượng phát**.
 
-⚠️ **Hãm địa:** tiền đến **chậm** do quá tính toán, bỏ qua cơ hội thực tế. **"Nghèo
-trong cao quý"** — không bon chen, khó làm giàu nhanh.
-
 ⚠️ **+ Hóa Kỵ / Kình Đà:** tài lộc **trì hoãn** → tránh **bảo thủ về quan điểm
-tài chính**.`,
+tài chính**.
+
+(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tai-bach-dac-dia',
+    title: 'Hóa Khoa tại Tài Bạch Đắc địa - Tài lộc tri thức',
+    sao: ['Hóa Khoa'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa Đắc địa tại Tài Bạch:**
+
+- Tài lộc từ nghề **tri thức, luật pháp, giáo dục, y tế, lý luận**
+- Đầu tư cho **học vấn, phát triển bản thân**
+- Tài vận **ổn định, tích lũy**, làm ăn **uy tín**`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tai-bach-ham',
+    title: '⚠️ Hóa Khoa tại Tài Bạch Hãm - Nghèo trong cao quý',
+    sao: ['Hóa Khoa'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Hãm'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa Hãm địa tại Tài Bạch:**
+
+- Tiền đến **chậm** do quá tính toán, bỏ qua cơ hội thực tế
+- **"Nghèo trong cao quý"** — không bon chen, khó làm giàu nhanh`,
   },
 
   // ============================================================

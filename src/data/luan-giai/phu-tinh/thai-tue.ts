@@ -154,8 +154,9 @@ sẽ **bớt cô độc** hơn.`,
 
   {
     id: 'thai-tue-tuoi-am-tu-linh',
-    title: 'Thái Tuế + Tuổi Âm + Tứ Linh (Cái Long Hổ Phượng)',
+    title: 'Thái Tuế tại Mệnh + Tuổi Âm + Tứ Linh (Cái Long Hổ Phượng)',
     sao: ['Thái Tuế'],
+    cung: ['Mệnh'],
     ketHop: ['Hoa Cái', 'Long Trì', 'Bạch Hổ', 'Phượng Các'],
     doUuTien: 78,
     tomTat: `🌟 **Người tuổi ÂM (Sửu/Mão/Tỵ/Mùi/Dậu/Hợi) + Thái Tuế tại Mệnh + bộ
@@ -224,7 +225,20 @@ ngạo cô độc**.`,
 - Lời nói thành chứng cứ chống lại mình
 - Có thể bị **truy tố hình sự**, **giam cầm**
 
-→ Đặc biệt nguy hiểm ở **cung Tật Ách** hoặc **đại vận**.`,
+→ Đặc biệt nguy hiểm trong **đại vận** xấu.`,
+  },
+
+  {
+    id: 'thai-tue-thien-hinh-tat-ach',
+    title: 'Thái Tuế + Thiên Hình tại Tật Ách - Đặc biệt nguy hiểm',
+    sao: ['Thái Tuế'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Thiên Hình tại Tật Ách:**
+- Đặc biệt **NGUY HIỂM** — bệnh tật cộng kiện tụng cùng phát
+- Dễ phải mổ xẻ, vào tù vì tai nạn pháp lý
+- Cần tránh kiện cáo và đề phòng tai nạn dao kéo`,
   },
 
   {

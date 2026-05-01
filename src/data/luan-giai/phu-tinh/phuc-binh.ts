@@ -262,6 +262,7 @@ HÌNH TƯỚNG ẤN"** — **HIỂN ĐẠT về VÕ NGHIỆP**.
     id: 'phuc-binh-tuong-dao-thai',
     title: 'Phục Binh + Tướng Quân + Đào Hoa + Thai - Dâm bôn (đặc biệt nữ)',
     sao: ['Phục Binh'],
+    cung: ['Mệnh', 'Phu Thê', 'Nô Bộc'],
     ketHop: ['Tướng Quân', 'Đào Hoa', 'Thai'],
     doUuTien: 65,
     tomTat: `⚠️ **Phục Binh + Tướng Quân + Đào Hoa + Thai:** dễ dính **CHUYỆN DÂM

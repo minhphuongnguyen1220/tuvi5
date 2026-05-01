@@ -107,7 +107,7 @@ Vốn nằm trong tam hợp **CHÍNH NGHĨA**, Quan Phù thủ Mệnh có tinh t
 - Hoặc trở thành **NẠN NHÂN** — bị oán, bị báo thù, bị kiện, bị phản bội
 
 ⚠️ **Cảnh báo về NGHIỆP CHƯỚNG:**
-Dù là đấu tranh, suy xét **mang tính xây dựng**, Quan Phù thủ Mệnh - Thân vẫn
+Dù là đấu tranh, suy xét **mang tính xây dựng**, Quan Phù thủ Mệnh vẫn
 có nguy cơ báo hiệu **NGHIỆP CHƯỚNG của BÁO OÁN, THÙ DAI, THỊ PHI** — tinh thần
 **KHƠI MÀO TRẢ ĐŨA** từ phía nạn nhân.`,
   },

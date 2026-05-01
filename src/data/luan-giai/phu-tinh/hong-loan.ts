@@ -116,8 +116,8 @@ chuyên chủ về niềm vui, hỉ sự.
 - **Da trắng**, **có da có thịt, béo tốt, đẫy đà**
 - **Có khiếu ăn mặc, gu thẩm mỹ cao**
 - Ra ngoài thích mặc đồ **diêm dúa, nhiều màu sắc, hoa hòe**
-- **Phụ nữ:** thướt tha, mềm mại, điệu đà — sáng một bộ chiều một bộ, **thay
-  đổi mốt liên tục**
+
+(Xem entry chuyên biệt theo giới tính cho chi tiết tướng mạo + hôn nhân.)
 
 **Tính tình:** ưa tìm cảm xúc bên trong tâm hồn, **không ham vật chất**, tính
 **như nghệ sĩ**.
@@ -144,12 +144,7 @@ biểu diễn.
 
 ## Hôn nhân - phức tạp nhất
 
-⚠️ **Nữ mệnh:** rất đào hoa, nhiều người theo đuổi nhưng dễ rơi vào **"lắm
-mối tối nằm không"**. **Nhạy cảm dễ xúc động** → dễ yêu cũng dễ đau khổ vì yêu.
-
-⚠️ **Nam mệnh:** sức hút tự nhiên, **sinh lực mạnh**, nói chuyện duyên dáng
-→ dễ chiếm cảm tình khác phái → khó giữ chung thủy tuyệt đối, dễ vướng quan
-hệ ngoài lề.
+(Xem entry chuyên biệt theo giới tính cho đặc điểm hôn nhân.)
 
 ⚠️ Nếu **không có Vũ Khúc / Thiên Hình** kèm theo, hôn nhân dễ **"sớm nở tối
 tàn"**. Hôn nhân bắt đầu từ cảm xúc bốc đồng thường kết thúc nhanh chóng.
@@ -190,6 +185,37 @@ nhờ nghệ thuật, biểu diễn, thẩm mỹ.
    phúc khí`,
   },
 
+  {
+    id: 'hong-loan-tai-menh-nu',
+    title: 'Hồng Loan tại Mệnh - Nữ mệnh',
+    sao: ['Hồng Loan'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 75,
+    tomTat: `🌟 **Hồng Loan tại Mệnh - Nữ mệnh:**
+
+**Tướng mạo:** thướt tha, mềm mại, điệu đà — sáng một bộ chiều một bộ, **thay
+đổi mốt liên tục**.
+
+**Hôn nhân:** rất đào hoa, nhiều người theo đuổi nhưng dễ rơi vào **"lắm mối
+tối nằm không"**. **Nhạy cảm dễ xúc động** → dễ yêu cũng dễ đau khổ vì yêu.`,
+  },
+
+  {
+    id: 'hong-loan-tai-menh-nam',
+    title: 'Hồng Loan tại Mệnh - Nam mệnh',
+    sao: ['Hồng Loan'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nam',
+    doUuTien: 75,
+    tomTat: `🌟 **Hồng Loan tại Mệnh - Nam mệnh:**
+
+Sức hút tự nhiên, **sinh lực mạnh**, nói chuyện duyên dáng → dễ chiếm cảm
+tình khác phái.
+
+⚠️ Khó giữ chung thủy tuyệt đối, dễ vướng quan hệ ngoài lề.`,
+  },
+
   // ============================================================
   // 5. Hồng Loan tại Phụ Mẫu
   // ============================================================
@@ -227,10 +253,6 @@ còn lại thường thích tu tập**, tìm hiểu tâm linh.`,
     doUuTien: 75,
     tomTat: `**Hồng Loan cư Phúc Đức:**
 
-⚡ **Đặc trưng dòng họ:** trong dòng họ **đàn bà thọ hơn đàn ông**, **nhiều
-người góa chồng** — đặc biệt nếu cung Phúc nằm tại **các cung Thổ** (Thìn /
-Tuất / Sửu / Mùi).
-
 🌟 **Đào Hồng cư Phúc:** các cụ ngày xưa **đào hoa, nhiều vợ**; họ hàng có
 nhiều người **thành danh, thành đạt, may mắn**.
 
@@ -241,7 +263,22 @@ nhiều người **thành danh, thành đạt, may mắn**.
 ⚡ **Mồ mả tổ tiên** thường gần nơi **ẩm ướt, sông hồ** (hành Thủy).
 
 ⚠️ **+ Hung sát:** họ hàng vướng duyên tình trắc trở, góa bụa, tang tóc, tranh
-chấp đất đai/mồ mả. Đương số khó tránh nghiệp duyên ràng buộc.`,
+chấp đất đai/mồ mả. Đương số khó tránh nghiệp duyên ràng buộc.
+
+(Xem entry chuyên biệt cho cách Hồng Loan cư Phúc Đức tại Tứ Mộ.)`,
+  },
+
+  {
+    id: 'hong-loan-tai-phuc-duc-tu-mo',
+    title: '⚠️ Hồng Loan tại Phúc Đức ở Tứ Mộ - Nhiều người góa chồng',
+    sao: ['Hồng Loan'],
+    cung: ['Phúc Đức'],
+    chi: ['Thìn', 'Tuất', 'Sửu', 'Mùi'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan cư Phúc Đức tại Tứ Mộ (Thìn / Tuất / Sửu / Mùi):**
+
+Trong dòng họ, các bà thọ hơn các ông, **nhiều người góa chồng** — đặc trưng
+do tính chất Thổ khắc Thủy của Hồng Loan tại các cung Thổ.`,
   },
 
   // ============================================================
@@ -394,8 +431,7 @@ tiền **dễ dàng thuận lợi**, **gặp nhiều may mắn**.
 - Mua vui cho **tâm hồn**
 - **Nhân tình**
 
-⚠️ **Phụ nữ + Đào Hồng cư Tài + Mệnh/Tài/Quan có nhiều sao xấu:** dễ kiếm
-tiền **dựa vào nhan sắc** — lúc này **không đẹp cho lắm**.
+(Xem entry chuyên biệt cho nữ mệnh khi đi với sao xấu.)
 
 🌟 **+ Cát tinh:** cuộc sống **an nhàn**, cả đời **may mắn**.
 
@@ -405,6 +441,18 @@ tiền **dựa vào nhan sắc** — lúc này **không đẹp cho lắm**.
 ⚠️ **+ Sát tinh:** tiền đến nhanh nhưng đi cũng nhanh — **hao tổn** từ tình
 cảm, ăn chơi, làm đẹp, nhân tình. Dễ vướng **nợ nần, tranh chấp, bị bạn lợi
 dụng**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-tai-bach-nu-sao-xau',
+    title: '⚠️ Hồng Loan tại Tài Bạch + Sao xấu - Nữ mệnh dùng nhan sắc',
+    sao: ['Hồng Loan'],
+    cung: ['Tài Bạch'],
+    gioiTinh: 'Nữ',
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan cư Tài Bạch + nhiều sao xấu - Nữ mệnh:**
+
+Dễ kiếm tiền **dựa vào nhan sắc** — lúc này **không đẹp cho lắm**.`,
   },
 
   // ============================================================
@@ -556,10 +604,23 @@ NƯỚC**.
 - Du lịch **đi thuyền**
 - Môi trường **ẩm thấp**
 
-⚠️ **Đào Hồng cư Mệnh + Thiên Không / Địa Không:** rất dễ là người **dính dáng
-đến căn đồng số lính**, tình duyên lận đận, **khổ vì tình**.
+⚠️ **Đào Hồng + Không Kiếp + Bệnh Phù:** mắc **bệnh phong tình**.
 
-⚠️ **Đào Hồng + Không Kiếp + Bệnh Phù:** mắc **bệnh phong tình**.`,
+(Xem entry chuyên biệt cho Đào Hồng tại Mệnh + Thiên Không / Địa Không.)`,
+  },
+
+  {
+    id: 'hong-loan-tai-menh-thien-khong-can-dong',
+    title: '⚠️ Đào Hồng tại Mệnh + Thiên Không / Địa Không - Căn đồng số lính',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Không', 'Địa Không'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Đào Hồng cư Mệnh + Thiên Không / Địa Không:**
+
+- Rất dễ là người **dính dáng đến căn đồng số lính**
+- Tình duyên lận đận
+- **Khổ vì tình**`,
   },
 
   // ============================================================

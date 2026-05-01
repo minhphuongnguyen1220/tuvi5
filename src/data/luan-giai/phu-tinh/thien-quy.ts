@@ -220,7 +220,7 @@ NÂNG ĐỠ**.
     tomTat: `**Thiên Quý tại Tật Ách** — mang tính chất **CỨU GIẢI**.
 
 ⚡ **Đặc trưng:**
-- Thân mệnh **GIẢM NHẸ TAI ƯƠNG**
+- Bản mệnh **GIẢM NHẸ TAI ƯƠNG**
 - Mắc bệnh **CHÓNG KHỎI**
 - Dễ gặp **THẦY GIỎI** chữa trị
 - Dễ tìm được **PHƯƠNG THUỐC QUÝ**

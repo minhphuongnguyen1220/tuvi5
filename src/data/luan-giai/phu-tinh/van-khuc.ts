@@ -66,8 +66,6 @@ năng, đỗ đạt cao.
     tomTat: `**Văn Khúc cư Mệnh:** vẻ ngoài **thanh tú, điển trai, thanh lịch, thư
 sinh**.
 
-**Nữ mệnh:** **duyên dáng, nhan sắc xinh đẹp, phong thái đoan trang**.
-
 Tính cách: đam mê đèn sách, **cẩn thận, thông minh**, "trên thông thiên văn,
 dưới tường địa lý", **tự giác cao**. Tài năng về **văn chương, mỹ thuật, âm
 nhạc, khiếu ăn nói**.
@@ -93,9 +91,35 @@ là tài năng của chính mình.
 
 ⚠️ **Văn Khúc hãm địa:**
 - **Khốn khổ**, phải bỏ làng lập nghiệp ở xa
-- **Có tật, bị tai họa**, hoặc **yểu tử**
-- **Đàn bà:** **dâm đãng**, u buồn vì gia đạo
-- **+ Sát tinh** (nữ): có thể là **gái giang hồ, khắc chồng, ti tiện**`,
+- **Có tật, bị tai họa**, hoặc **yểu tử**`,
+  },
+
+  {
+    id: 'van-khuc-tai-menh-nu-menh',
+    title: 'Văn Khúc tại Mệnh - Nữ mệnh duyên dáng',
+    sao: ['Văn Khúc'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 75,
+    tomTat: `🌟 **Văn Khúc thủ Mệnh — nữ mệnh:**
+- **DUYÊN DÁNG, NHAN SẮC XINH ĐẸP**
+- Phong thái **ĐOAN TRANG**
+- Đa cảm, lãng mạn, dễ lay động trước cái đẹp`,
+  },
+
+  {
+    id: 'van-khuc-menh-ham-nu-sat-tinh',
+    title: 'Văn Khúc Hãm + sát tinh tại Mệnh - Nữ giang hồ',
+    sao: ['Văn Khúc'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    gioiTinh: 'Nữ',
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Văn Khúc HÃM + sát tinh tại Mệnh — nữ mệnh:**
+- Có thể là **gái giang hồ**
+- **KHẮC CHỒNG, TI TIỆN**
+- **Dâm đãng**, u buồn vì gia đạo`,
   },
 
   // ============================================================
@@ -361,9 +385,21 @@ Anh chị em thường đi theo con đường **học hành, nghệ thuật, vă
 - **Yểu tử**
 
 Đặc biệt khi đi cùng **Tuần / Triệt / Hóa Kỵ / Phá Quân:** học hành thi cử **lận
-đận**, công danh chật vật, phải **tha phương**, **tù tội, yểu tử**.
+đận**, công danh chật vật, phải **tha phương**, **tù tội, yểu tử**.`,
+  },
 
-**+ Thiên Riêu:** thêm **đào hoa, đa tình** — nữ mệnh xinh đẹp lãng mạn nhưng
-**lụy tình**, thích tâm linh tín ngưỡng.`,
+  {
+    id: 'van-khuc-liem-trinh-rieu-ty-hoi-nu',
+    title: 'Văn Khúc + Liêm Trinh + Riêu tại Tỵ/Hợi - Nữ lụy tình',
+    sao: ['Văn Khúc', 'Liêm Trinh'],
+    cung: ['Mệnh'],
+    chi: ['Tỵ', 'Hợi'],
+    gioiTinh: 'Nữ',
+    ketHop: ['Thiên Riêu'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Văn Khúc + Liêm Trinh + Thiên Riêu tại Tỵ / Hợi — nữ mệnh:**
+- Thêm **ĐÀO HOA, ĐA TÌNH**
+- Xinh đẹp lãng mạn nhưng **LỤY TÌNH**
+- Thích **tâm linh, tín ngưỡng**`,
   },
 ];

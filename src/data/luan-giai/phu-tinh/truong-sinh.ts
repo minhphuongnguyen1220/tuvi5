@@ -80,7 +80,8 @@ Trường Sinh.
 - Khi xấu (nhiều sát tinh) → tai họa lan tỏa cả 3 cung
 
 ⚡ **Câu phú nổi tiếng:** **"Khá khen cung Phúc nhà ngươi / Trường Sinh,
-Đế Vượng lắm người thành danh"** — khi Sinh + Vượng đồng cung tại Phúc Đức.`,
+Đế Vượng lắm người thành danh"** — đã có entry chuyên biệt khi Sinh + Vượng
+đồng cung tại cung Phúc.`,
   },
 
   {
@@ -248,11 +249,20 @@ Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT 
 - Cơ thể **SUY YẾU**, khí lực cạn dần
 - Bệnh **TÁI ĐI TÁI LẠI**
 - Làm **GIẢM THỌ MỆNH**
-- Thân thể chẳng được an yên
+- Thân thể chẳng được an yên`,
+  },
 
-⚡ **Đặc biệt nguy hiểm tại Tật Ách:**
+  {
+    id: 'truong-sinh-kinh-da-tat-ach',
+    title: 'Trường Sinh + Kình Đà tại Tật - Bệnh phát sinh liên tục',
+    sao: ['Trường Sinh'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Trường Sinh + Kình Dương + Đà La tại Tật Ách** — đặc biệt nguy hiểm:
 - Đặc tính **DỒI DÀO, NẢY NỞ** chuyển thành tiêu cực
-- Bệnh không bao giờ hết, **PHÁT SINH LIÊN TỤC**`,
+- Bệnh không bao giờ hết, **PHÁT SINH LIÊN TỤC**
+- Bệnh tật và tai họa nối tiếp nhau`,
   },
 
   {

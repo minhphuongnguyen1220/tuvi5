@@ -108,12 +108,8 @@ ngành nghề**.`,
 - Dễ trở thành người **BA HOA, BỐC PHÉT**, **NÓI PHÉT, KHOÁC LÁC**
 - Thu hút bằng lời nhưng đôi khi quá đà khiến người nghe **bán tín bán nghi**
 
-⚡ **Quy luật cung tam hợp:**
-Mệnh có Điếu Khách → cung **Tài Bạch luôn có Tuế Phá** + cung **Quan Lộc luôn
-có Tang Môn**:
-- **Tài Bạch (Tuế Phá):** chi tiêu tiền của **không có chủ đích**, không rõ ràng
-- **Quan Lộc (Tang Môn):** luôn **lo lắng**, công việc gặp **buồn phiền**, cả
-  đời lo lắng
+⚡ **Quy luật cung tam hợp:** đương số mặc định **chi tiêu không có chủ đích**
+và **luôn lo lắng** trong công việc (do cấu trúc tam hợp Tang Tuế Điếu).
 
 ⚠️ **Cảnh báo:**
 - Thẩm mỹ chỉ chú ý **vẻ ngoài hào nhoáng** hơn giá trị lâu dài
@@ -138,8 +134,8 @@ có Tang Môn**:
 
 → Đây là cách **CHUYỂN HÓA** Điếu Khách từ **ăn chơi** sang **học hành chăm chỉ**.
 
-🌟 Cùng với cách Mã Khốc Khách + Cô Quả + Tý Ngọ Mão Dậu → 3 cách HÓA GIẢI tính
-xấu của Điếu Khách.`,
+🌟 Cùng với 2 cách hóa giải khác (Mã Khốc Khách + cách đồng cung Cô-Quả) → 3
+cách hóa giải tính xấu của Điếu Khách.`,
   },
 
   {
@@ -190,7 +186,7 @@ có thể kết luận chính xác.`,
     sao: ['Điếu Khách'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `⚡ **Điếu Khách tại Phúc Đức** → cung **Mệnh LUÔN có Thái Tuế**:
+    tomTat: `⚡ **Điếu Khách tại Phúc Đức** (đương số mặc định bị Thái Tuế chiếu chủ thân):
 
 🌟 **Tính cách đương số:**
 - Có **TÀI ĂN NÓI**
@@ -290,7 +286,7 @@ văn phòng, công ty, nhà ở NHIỀU LẦN trong đời**.`,
     sao: ['Điếu Khách'],
     cung: ['Thiên Di'],
     doUuTien: 78,
-    tomTat: `⚡ **Điếu Khách tại Thiên Di** → cung **Phúc Đức thường có Thiên Mã**:
+    tomTat: `⚡ **Điếu Khách tại Thiên Di** (cấu trúc tam hợp tạo phối với Thiên Mã):
 
 🌟 **Đặc trưng:**
 - Họ hàng nhiều người **LY TÔNG TỔ NGHIỆP**, **LẬP NGHIỆP PHƯƠNG XA**
@@ -301,15 +297,26 @@ văn phòng, công ty, nhà ở NHIỀU LẦN trong đời**.`,
 🌟 **+ Thái Dương / Vũ Khúc / Cự Môn / Hỏa Tinh** (sao "động" mạnh):
 - Càng có xu hướng **XUẤT NGOẠI**
 
-⚠️ **Mặt trái với nam giới:**
-Vì bản chất **"LÀM KHÁCH"** → đàn ông khi ra ngoài **ĂN UỐNG TIỆC TÙNG** sẽ
-**GIẢM SỰ QUAN TÂM gia đình**:
-- Ảnh hưởng xấu đến **TÌNH DUYÊN, GIA ĐẠO**
-
 🌟 **Cách đẹp ngoại giao:**
 **+ Lưu Hà / Quốc Ấn / Hóa Lộc / Tham Lang:**
 - Việc **KÝ KẾT HỢP TÁC** thường xảy ra trong những lần đi giao lưu với đối tác
-- Phù hợp với công việc **NGOẠI GIAO**`,
+- Phù hợp với công việc **NGOẠI GIAO**
+
+(Xem entry chuyên biệt cho nam mệnh.)`,
+  },
+
+  {
+    id: 'dieu-khach-tai-thien-di-nam-menh',
+    title: '⚠️ Điếu Khách tại Thiên Di - Nam mệnh',
+    sao: ['Điếu Khách'],
+    cung: ['Thiên Di'],
+    gioiTinh: 'Nam',
+    doUuTien: 70,
+    tomTat: `⚠️ **Điếu Khách tại Thiên Di - Nam mệnh:**
+
+Vì bản chất **"LÀM KHÁCH"** → ra ngoài **ĂN UỐNG TIỆC TÙNG** sẽ **GIẢM SỰ
+QUAN TÂM gia đình**:
+- Ảnh hưởng xấu đến **TÌNH DUYÊN, GIA ĐẠO**`,
   },
 
   {
@@ -414,7 +421,7 @@ hệ vợ chồng **XA CÁCH, THIẾU TÌNH CẢM**.
 - **TIÊU TIỀN PHÓNG KHOÁNG**
 - Có **TÀI ĂN NÓI**, **HAM VUI HAM CHƠI**
 
-⚠️ **+ cung Phúc Đức có Lộc + Phu Thê có Kiếp / Đà / Riêu / Hóa Kỵ:**
+⚠️ **+ Kiếp / Đà / Riêu / Hóa Kỵ tại Phu Thê** (kèm Lộc ở vị trí bổ trợ):
 - Sẽ thành tình huống người bạn đời nhìn mình như "**MỎ VÀNG**" → bị đào tiền
 
 🌟 **Đắc cách + Văn Xương + Văn Khúc + Tả Hữu:**
@@ -467,14 +474,31 @@ tinh dễ kích động như Thiên Cơ / Cự Môn):
     sao: ['Điếu Khách'],
     ketHop: ['Địa Kiếp', 'Kình Dương', 'Hỏa Tinh'],
     doUuTien: 65,
-    tomTat: `⚠️ **Điếu Khách + Địa Kiếp + Kình Dương + Hỏa Tinh:**
+    tomTat: `⚠️ **Điếu Khách + Địa Kiếp + Kình Dương + Hỏa Tinh** (cấu trúc tang thương):
 
 ⚡ **Cơ sở triết tự:** "**Điếu**" trong **VĂN ĐIẾU** = lời **buồn thương, chia
 buồn**.
 
-⚠️ **Khi vào các cung CHỦ MỐI QUAN HỆ LỤC THÂN** (Phụ Mẫu, Phu Thê, Tử Tức, Huynh
-Đệ) gặp hạn Điếu Khách + Lục Sát Tinh:
+⚠️ Khi tổ hợp này nhập hạn vào các cung **lục thân**:
 - Sẽ thúc đẩy **TAI NẠN** hoặc **VẤN ĐỀ TANG THƯƠNG**
+- Gây **PHIỀN LỤY** cho đương số
+- Gia đình gặp **TANG TÓC**
+
+(Xem entry chuyên biệt theo cung Phụ Mẫu / Phu Thê / Tử Tức / Huynh Đệ.)`,
+  },
+
+  {
+    id: 'dieu-khach-kiep-kinh-hoa-luc-than-tang',
+    title: '⚠️ Điếu Khách + Kiếp + Kình + Hỏa tại Lục Thân - Tang thương',
+    sao: ['Điếu Khách'],
+    cung: ['Phụ Mẫu', 'Phu Thê', 'Tử Tức', 'Huynh Đệ'],
+    ketHop: ['Địa Kiếp', 'Kình Dương', 'Hỏa Tinh'],
+    doUuTien: 60,
+    tomTat: `⚠️ **Điếu Khách + Địa Kiếp + Kình Dương + Hỏa Tinh tại các cung lục thân**
+(Phụ Mẫu / Phu Thê / Tử Tức / Huynh Đệ):
+
+- Hạn này thúc đẩy **TAI NẠN** hoặc **VẤN ĐỀ TANG THƯƠNG** với người thân
+  thuộc cung tương ứng
 - Gây **PHIỀN LỤY** cho đương số
 - Gia đình gặp **TANG TÓC**`,
   },

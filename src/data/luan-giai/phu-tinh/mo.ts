@@ -233,10 +233,7 @@ con cháu về sau.
 - Người **RA NGOÀI GẶP NHIỀU MAY MẮN**
 - Kết hôn xong mọi việc **DỄ PHÁT TRIỂN HƠN**
 
-⚡ **Cách đặc biệt:** Mộ + Thai + Tọa tại **TỨ MỘ** (Thìn Tuất Sửu Mùi):
-- Báo hiệu **PHÚC PHẦN BỀN VỮNG**
-- **DÒNG TỘC THỊNH VƯỢNG LÂU DÀI**
-- Đắc lợi cho con cháu về sau`,
+→ Cách Mộ + Thai + Tọa tại Tứ Mộ được tách thành luận giải riêng.`,
   },
 
   {
@@ -331,13 +328,24 @@ nhất **KHÔNG ĐEM ĐẾN ĐIỀU TIẾNG**.`,
 - Cuộc sống chỉ xoay quanh nơi **THÂN QUEN**
 - Hiếm khi bước vào **MÔI TRƯỜNG LẠ LẪM**
 
-⚡ **Đặc biệt - cung Phúc Đức vượng:**
+→ Trường hợp cung Phúc Đức vượng giúp giảm tính bảo thủ được tách thành luận giải riêng.`,
+  },
+
+  {
+    id: 'mo-thien-di-phuc-vuong',
+    title: 'Mộ tại Thiên Di + cung phúc đức vượng - vẫn nhiều may mắn',
+    sao: ['Mộ'],
+    cung: ['Thiên Di'],
+    doUuTien: 68,
+    tomTat: `🌟 **Mộ thủ Thiên Di kết hợp cung phúc khí vượng (đẹp):**
 - Vẫn **GẶP NHIỀU ĐIỀM LÀNH** khi ra ngoài
 - Dễ gặp cơ hội tốt
 - Được người **ĐỊA VỊ HỖ TRỢ**
-- Người có cung Phúc Đức đẹp, được nhiều may mắn
+- Người có cung số tốt được nhiều may mắn
 - Gia đình người hôn phối dễ có **ĐIỀU KIỆN**
-- Cưới vợ xong mọi thứ **DỄ HANH THÔNG**`,
+- Cưới vợ xong mọi thứ **DỄ HANH THÔNG**
+
+→ Cung phúc vượng "kéo" Mộ ở Thiên Di vượt qua được tính bảo thủ, hòa nhập chậm.`,
   },
 
   {

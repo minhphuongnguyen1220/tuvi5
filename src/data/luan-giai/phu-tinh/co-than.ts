@@ -136,11 +136,12 @@ tách lẻ.
 
   {
     id: 'co-qua-cac-sao-che-giai',
-    title: 'Các sao chế giải Cô-Quả',
+    title: 'Các sao chế giải Cô-Quả tại Mệnh',
     sao: ['Cô Thần', 'Quả Tú'],
+    cung: ['Mệnh'],
     ketHop: ['Thái Dương'],
     doUuTien: 50,
-    tomTat: `**Các sao có khả năng CHẾ GIẢI sự cô độc** của Cô Thần - Quả Tú:
+    tomTat: `**Các sao có khả năng CHẾ GIẢI sự cô độc** của Cô Thần - Quả Tú khi thủ Mệnh:
 
 ⚡ **Nhóm sao chế giải mạnh:**
 1. **Thái Âm** + **Thái Dương** (Nhật Nguyệt) — ánh sáng xua đi cô độc
@@ -149,12 +150,12 @@ tách lẻ.
 4. **Tham Lang** — chính đào hoa
 
 ⚡ **Cách dụng:**
-- Khi Mệnh có Cô-Quả + những sao trên hội chiếu → **GIẢM TÁC HỌA**
+- Khi đương số có Cô-Quả thủ Mệnh + những sao trên hội chiếu → **GIẢM TÁC HỌA**
 - Vẫn giữ được tinh thần độc lập của Cô-Quả
 - Nhưng không rơi vào cô đơn cực độ
 - Còn có duyên kết bạn, kết hôn
 
-⚡ **Đặc biệt khi:** Mệnh nam có Cô Thần + Thái Âm (mẹ/vợ sáng) → giảm
+⚡ **Đặc biệt với nam:** có Cô Thần + Thái Âm (mẹ/vợ sáng) → giảm
 "kỵ mẹ kỵ vợ" rõ rệt.`,
   },
 
@@ -479,11 +480,12 @@ Khôi Việt):**
 
   {
     id: 'co-qua-hoa-ky-thai-tue-ghen-ghet',
-    title: 'Cô-Quả + Hóa Kỵ + Thái Tuế - Bị ghen ghét ruồng bỏ',
+    title: 'Cô-Quả tại Mệnh + Hóa Kỵ + Thái Tuế - Bị ghen ghét ruồng bỏ',
     sao: ['Cô Thần', 'Quả Tú'],
+    cung: ['Mệnh'],
     ketHop: ['Hóa Kỵ', 'Thái Tuế'],
     doUuTien: 50,
-    tomTat: `**Cô-Quả + Điếu Khách + Đà La + Hóa Kỵ + Thái Tuế + Khốc Hư + Bạch Hổ** —
+    tomTat: `**Cô-Quả thủ Mệnh + Điếu Khách + Đà La + Hóa Kỵ + Thái Tuế + Khốc Hư + Bạch Hổ** —
 dễ **BỊ GHEN GHÉT, ĐỐ KỴ, RUỒNG BỎ, THẤT SỦNG**.
 
 ⚡ **Đặc trưng:**
@@ -494,7 +496,7 @@ dễ **BỊ GHEN GHÉT, ĐỐ KỴ, RUỒNG BỎ, THẤT SỦNG**.
 - Càng **NỔI BẬT** nhưng **CÔ ĐỘC**
 - Khó hòa nhập với môi trường chung
 
-⚡ Trong tình huống thực tế: Mệnh có Cô-Quả + sao tài năng → năng lực vượt
+⚡ Trong tình huống thực tế: đương số có Cô-Quả thủ Mệnh + sao tài năng → năng lực vượt
 trội nhưng bị đố kỵ bởi chính những người xung quanh.`,
   },
 ];

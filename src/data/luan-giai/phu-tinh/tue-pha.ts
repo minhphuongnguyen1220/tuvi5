@@ -84,9 +84,18 @@ luôn sống với tinh thần **GANH ĐUA, CẠNH TRANH**, vươn mình cải t
 
 ⚠️ **Cảnh báo (Tuế Phá luôn đồng cung Thiên Hư):**
 - Cuộc đời **ÍT KHI TOẠI LÒNG**
-- Lắm **TRẮC TRỞ**
+- Lắm **TRẮC TRỞ**`,
+  },
 
-🌟 **Cách "tiền bần hậu phú":** Tuế Phá + Khốc Hư tại **Tý / Ngọ**:
+  {
+    id: 'tue-pha-tai-menh-ty-ngo-tien-ban-hau-phu',
+    title: 'Tuế Phá tại Mệnh - Tý/Ngọ - tiền bần hậu phú',
+    sao: ['Tuế Phá'],
+    cung: ['Mệnh'],
+    chi: ['Tý', 'Ngọ'],
+    ketHop: ['Thiên Khốc', 'Thiên Hư'],
+    doUuTien: 75,
+    tomTat: `🌟 **Cách "tiền bần hậu phú"** — Tuế Phá + Khốc Hư tại **Tý / Ngọ**:
 - Tuổi trẻ **không ngừng nỗ lực**
 - Về sau đạt được **thành quả xứng đáng**`,
   },
@@ -240,7 +249,7 @@ GIỎI**.`,
 - Càng **ÍT BẠN BÈ**
 - Hầu hết những người chơi với chủ mệnh đều tỏ thái độ **BẤT MÃN, không thể HÒA
   HỢP** khi ở gần
-- Dần sẽ có sự **XA CÁCH**
+- Dần dà sẽ có sự **XA CÁCH**
 
 🌟 **+ Tả Phù / Hữu Bật:** bạn bè tuy hay **GÓP Ý THẲNG THẮN, KHÓ NGHE** nhưng
 vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
@@ -252,7 +261,7 @@ vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
     sao: ['Tuế Phá'],
     cung: ['Thiên Di'],
     doUuTien: 78,
-    tomTat: `⚡ **Tuế Phá tại Thiên Di** → cung Mệnh **luôn có Thái Tuế** đối xung:
+    tomTat: `⚡ **Tuế Phá tại Thiên Di** (đối xung Thái Tuế):
 
 🌟 Người có **TÍNH CÁCH muốn đóng góp xây dựng**, **CHÍNH TRỰC**:
 - Khi ra ngoài hay gặp phải cảnh **BẤT BÌNH**
@@ -261,7 +270,7 @@ vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
 ⚠️ **Mặt khó:**
 - Gặp nhiều sự **BẤT ĐỒNG, KHÓ CHỊU**
 - **Nhiều người chống đối lại**
-- Đôi khi khiến họ **MẤT LÒNG nhiều người**
+- Đôi khi khiến họ **MẤT LÒNG** với người chung quanh
 
 🌟 **+ Tả Hữu / Quang Quý / Tứ Linh (Long Trì + Phượng Các + Bạch Hổ + Hoa Cái):**
 - Sự **ĐÓNG GÓP** của chủ mệnh được **GHI NHẬN**

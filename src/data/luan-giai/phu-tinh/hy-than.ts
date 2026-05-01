@@ -36,10 +36,6 @@ cho cung đó.`,
     tomTat: `🌟 **Hỷ Thần thủ Mệnh:** người **VUI TÍNH**, có lòng **độ lượng,
 bao dung**.
 
-**Tướng mạo (theo phú):**
-- **Đàn ông:** mắt sâu, lông mày rậm — tướng quý
-- **Phụ nữ:** tươi tắn, thần thái sáng ngời
-
 🌟 Hay gặp **MAY MẮN** — thể hiện trong:
 - **Cưới hỏi**
 - **Đỗ đạt**
@@ -47,8 +43,48 @@ bao dung**.
 
 ⚠️ **+ Không Kiếp + Hóa Kỵ:** dễ bị **MỤN NHỌT, BÚI TRĨ**.
 
-⚡ **Đặc trưng vị thế:** Hỷ Thần thủ Mệnh thì **Thiên Di luôn có Lực Sĩ** → ra
-ngoài **TỐT BỤNG**, hay **giúp đỡ người khác**, **ít tính toán**.`,
+→ Ảnh hưởng đối cung (Lực Sĩ chiếu) được tách thành luận giải riêng.`,
+  },
+
+  {
+    id: 'hy-than-tai-menh-luc-si-thien-di',
+    title: 'Hỷ Thần thủ Mệnh + Lực Sĩ ở Thiên Di - giúp người',
+    sao: ['Hỷ Thần'],
+    cung: ['Mệnh'],
+    ketHop: ['Lực Sĩ'],
+    doUuTien: 65,
+    tomTat: `⚡ **Đặc trưng vị thế** — Hỷ Thần thủ Mệnh thì đối cung luôn
+có Lực Sĩ chiếu về:
+- Ra ngoài **TỐT BỤNG**
+- Hay **giúp đỡ người khác**
+- **Ít tính toán** với người ngoài
+- Được nhiều người yêu mến nhờ tinh thần hào hiệp`,
+  },
+
+  {
+    id: 'hy-than-tai-menh-nam',
+    title: 'Hỷ Thần tại Mệnh - tướng nam',
+    sao: ['Hỷ Thần'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nam',
+    doUuTien: 70,
+    tomTat: `🌟 **Hỷ Thần thủ Mệnh - Nam mệnh - tướng mạo (theo phú):**
+- **Mắt sâu, lông mày rậm** — tướng quý
+- Phong thái **vui tươi, độ lượng**
+- May mắn trong cưới hỏi, đỗ đạt, tài lộc`,
+  },
+
+  {
+    id: 'hy-than-tai-menh-nu',
+    title: 'Hỷ Thần tại Mệnh - tướng nữ',
+    sao: ['Hỷ Thần'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 70,
+    tomTat: `🌟 **Hỷ Thần thủ Mệnh - Nữ mệnh - tướng mạo (theo phú):**
+- **Tươi tắn, thần thái sáng ngời**
+- Phong thái **vui tươi, độ lượng**
+- May mắn trong cưới hỏi, đỗ đạt, tài lộc`,
   },
 
   {

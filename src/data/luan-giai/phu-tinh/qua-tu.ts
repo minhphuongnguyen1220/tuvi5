@@ -80,9 +80,23 @@ LUẬT**, đôi khi mở ra cơ duyên với **TÂM LINH, TU TẬP**.`,
 ⚡ **Hội Thiên Tướng + Thất Sát + Hóa Quyền + Tướng Quân:**
 - Trầm lặng hóa **KHÍ CHẤT UY NGHI**
 - Lời nói có **SỨC NẶNG**
-- Dễ thành người **CẦM QUYỀN** trong tập thể
+- Dễ thành người **CẦM QUYỀN** trong tập thể`,
+  },
 
-⚠️ **"NỮ KỴ QUẢ":** Phát tác mạnh nhất với nữ mệnh — kỵ chồng kỵ cha.`,
+  {
+    id: 'qua-tu-tai-menh-nu-menh',
+    title: 'Quả Tú tại Mệnh - Nữ mệnh',
+    sao: ['Quả Tú'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `⚠️ **"NỮ KỴ QUẢ":** Quả Tú thủ Mệnh phát tác mạnh nhất với nữ mệnh — kỵ
+chồng, kỵ cha.
+
+⚡ **Đặc trưng:**
+- Đường tình duyên, hôn nhân **TRẮC TRỞ**
+- Cô độc trong nội tâm dù bên ngoài có đông người
+- Cha hoặc chồng dễ gặp tai ương, bệnh tật, xa cách`,
   },
 
   {
@@ -126,13 +140,25 @@ LUẬT**, đôi khi mở ra cơ duyên với **TÂM LINH, TU TẬP**.`,
 (người nữ mất sớm khi còn trẻ → trở thành Bà Cô Tổ phù trì).
 
 ⚠️ **Sát tinh hội:**
-- Phụ nữ **ĐOẢN MỆNH**
 - Gia tộc **PHÂN TÁN**, mồ mả không tụ
 - Con cháu **THA HƯƠNG**
 
 ⚠️ **+ Không Kiếp + Tuần Triệt:**
 - Phúc mỏng, thọ yếu
 - Có nguy cơ **TUYỆT TỰ**`,
+  },
+
+  {
+    id: 'qua-tu-tai-phuc-duc-nu-doan-menh',
+    title: 'Quả Tú tại Phúc Đức + sát tinh - Nữ đoản mệnh',
+    sao: ['Quả Tú'],
+    cung: ['Phúc Đức'],
+    gioiTinh: 'Nữ',
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quả Tú tại Phúc Đức + sát tinh hội — nữ mệnh:**
+- Phụ nữ trong dòng họ dễ **ĐOẢN MỆNH**, mất sớm
+- Đường thọ yếu hơn nam giới trong gia tộc`,
   },
 
   {
@@ -304,7 +330,7 @@ xử lý kịp thời.
     sao: ['Quả Tú'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Quả Tú tại Phu Thê** — ảnh hưởng đến hôn nhân (đặc biệt nữ mệnh).
+    tomTat: `**Quả Tú tại Phu Thê** — ảnh hưởng đến hôn nhân.
 
 ⚡ **Cát tinh hội (Tứ Đức + Lục Cát Tinh):**
 - Hôn nhân **YÊN ỔN**
@@ -315,9 +341,23 @@ xử lý kịp thời.
 ⚠️ **Đồng cung Tuần + Triệt + Không Kiếp + Hồng Loan:**
 - Tình cảm "**CƠM CHẲNG LÀNH, CANH CHẲNG NGỌT**"
 - Vợ chồng hay **BẤT ĐỒNG, XA CÁCH**
-- Hôn nhân mang màu **CÔ ĐỘC**, không có sự thấu hiểu
+- Hôn nhân mang màu **CÔ ĐỘC**, không có sự thấu hiểu`,
+  },
 
-⚡ **Đặc biệt nữ mệnh** ("Nữ kỵ Quả") — phát tác mạnh nhất, kỵ chồng kỵ cha.`,
+  {
+    id: 'qua-tu-tai-phu-the-nu-menh',
+    title: 'Quả Tú tại Phu Thê - Nữ mệnh',
+    sao: ['Quả Tú'],
+    cung: ['Phu Thê'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `⚠️ **"Nữ kỵ Quả":** Quả Tú tại Phu Thê đặc biệt phát tác mạnh với nữ mệnh
+— kỵ chồng, kỵ cha.
+
+⚡ **Đặc trưng:**
+- Hôn nhân muộn hoặc gặp trục trặc
+- Người chồng dễ gặp tai ương, đau ốm hoặc xa cách
+- Sống trong cô độc nội tâm dù đã thành gia thất`,
   },
 
   {

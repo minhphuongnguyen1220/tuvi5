@@ -63,10 +63,9 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
     tomTat: `**Thiên La** luôn **CỐ ĐỊNH tại cung Thìn**.
 
 ⚡ **Quy luật vị trí:**
-- **Thìn = THIÊN LA** (Lưới Trời)
-- **Tuất = ĐỊA VÕNG** (Lưới Đất)
-- Hai cung **THÌN - TUẤT** xung chiếu nhau, tạo thành **TRỤC LƯỚI TRỜI**
-- Đây là **2 CUNG ĐẶC BIỆT** chứa nhiều ràng buộc, nghiệp duyên`,
+- Thiên La cố định tại **Thìn = LƯỚI TRỜI**
+- Đối cung là vị trí Địa Võng (Lưới Đất) — tạo thành **TRỤC LƯỚI TRỜI**
+- Đây là **vị trí ĐẶC BIỆT** chứa nhiều ràng buộc, nghiệp duyên`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════

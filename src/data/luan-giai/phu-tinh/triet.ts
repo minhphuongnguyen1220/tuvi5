@@ -383,11 +383,23 @@ KHO RỖNG**.
 - Hội với hung sát tinh: Triệt thành "**LƯỠI KÉO CẮT HỌA**", **THOÁT NẠN
   TRONG GANG TẤC**, giữ được tính mạng
 
-⚡ **Triệt + Mệnh và Phụ Mẫu:** có thể **MỒ CÔI SỚM** hoặc sớm ra đời tự
-lập.
-
 ⚠️ **Vô chính diệu + Tam Không / Tứ Không:** làm nên **DANH PHẬN** nhưng
 không bền, tuổi niên thiếu vất vả.`,
+  },
+
+  {
+    id: 'triet-menh-phu-mau-mo-coi',
+    title: 'Triệt tại Mệnh và Phụ Mẫu - Mồ côi sớm',
+    sao: ['Triệt'],
+    cung: ['Phụ Mẫu'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Triệt đồng thời tại Mệnh và Phụ Mẫu** — có thể **MỒ CÔI SỚM** hoặc
+sớm ra đời tự lập.
+
+⚡ **Đặc trưng:**
+- Phúc ấm cha mẹ bị **CHẶN ĐỨNG**
+- Đương số phải **TỰ LẬP TỪ NHỎ**
+- Thiếu sự nâng đỡ từ phía gia đình`,
   },
 
   {
@@ -652,6 +664,7 @@ giàu sang hiển hách.`,
     title: 'Triệt tại Tử Tức',
     sao: ['Triệt'],
     cung: ['Tử Tức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Đức', 'Phúc Đức'],
     doUuTien: 78,
     tomTat: `**Triệt tại Tử Tức** — **SÁT CON ĐẦU LÒNG**, sinh con đầu khó nuôi.
 

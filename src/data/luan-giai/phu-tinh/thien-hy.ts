@@ -476,7 +476,21 @@ dục**, **ham vui quá mức** → dẫn đến:
 ⚠️ Biểu hiện: **vui vẻ bề ngoài** nhưng **nội tâm thiếu ổn định** → "vui giả -
 buồn thật", khó giữ an nhiên lâu dài.
 
-⚠️ Tại Phu Thê: **"ông ăn chả bà ăn nem"** — ngoại tình.`,
+→ Trường hợp tại cung Phu Thê được tách thành luận giải riêng.`,
+  },
+
+  {
+    id: 'thien-hy-rieu-thai-phu-the',
+    title: 'Thiên Hỷ + Thiên Riêu / Thai tại Phu Thê - ngoại tình',
+    sao: ['Thiên Hỷ'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Riêu', 'Thai'],
+    doUuTien: 60,
+    tomTat: `⚠️ **Thiên Hỷ + Thiên Riêu / Thai tại Phu Thê:**
+- **"Ông ăn chả bà ăn nem"** — **NGOẠI TÌNH**
+- Vợ chồng đều có tình cảm bên ngoài
+- Hạnh phúc gia đình **rạn nứt**
+- Hỷ khí biến thành sắc dục, mất an nhiên`,
   },
 
   // ============================================================

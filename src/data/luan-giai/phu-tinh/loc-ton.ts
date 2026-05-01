@@ -85,14 +85,12 @@ trong tam hợp Lộc Tồn → mới được hưởng trọn vẹn niềm vui 
     tomTat: `⚡ **Lộc Tồn LUÔN bị Kình Dương + Đà La giáp 2 bên** — đây là quy luật
 an sao, không thể tránh.
 
-**Hệ quả:**
-- Khi **Lộc Tồn thủ Mệnh** → cung **Phụ Mẫu** và **Huynh Đệ** luôn bị Kình Đà
-  đánh phá → bản thân dễ rơi vào **cô độc** từ nhỏ
-- Khi **Lộc Tồn cư Phúc Đức** → **Kình Đà giáp Điền Trạch và Phụ Mẫu** → khó
-  hưởng của cải tổ tiên truyền lại
-- Khi **Lộc Tồn cư Điền** → Kình Dương cư **Quan Lộc** → công danh không suôn sẻ
+**Hệ quả tổng quát:** dù Lộc Tồn ở vị trí nào, hai cung kế bên (giáp) đều
+luôn bị Kình Đà đánh phá → cô độc, cản trở.
 
-→ Lộc Tồn dù tốt đến đâu cũng kèm theo **thử thách** và **cô độc**.`,
+→ Lộc Tồn dù tốt đến đâu cũng kèm theo **thử thách** và **cô độc**.
+
+(Xem entry chuyên biệt cho từng cung tương ứng.)`,
   },
 
   // ============================================================
@@ -202,9 +200,9 @@ nghiệp truyền lại** cho con cái.
 Cha mẹ **điềm đạm, cẩn thận, từ thiện**, hay được nhiều **may mắn**, dễ gây
 dựng của tiền.
 
-⚡ **Quan trọng:** vì Lộc Tồn ở Phụ Mẫu → cung **Mệnh luôn có Đà La tọa thủ**
-→ ngăn chặn tiến tới Lộc Tồn → bản thân **dễ phải tự gây dựng**, **khó hưởng
-gia sản** mẹ cha để lại.
+⚡ **Quan trọng:** vì cấu trúc giáp Kình Đà → đương số mặc định bị **Đà La
+tọa thủ** đối ứng → ngăn chặn tiến tới Lộc Tồn → bản thân **dễ phải tự gây
+dựng**, **khó hưởng gia sản** mẹ cha để lại.
 
 ⚠️ **Đà La hãm địa:** bản thân đương số sinh ra **dễ ốm đau, có dị tật**.
 
@@ -235,8 +233,8 @@ cho đương số.
   chịu lấy vợ/chồng**
 - Nhiều người có **điều kiện, kinh tế tốt nhưng ít giúp đỡ nhau**, mỗi người
   một phương
-- Bản thân và cha mẹ **ít được hưởng của cải tổ tiên** do luôn có **Kình Đà
-  giáp Điền Trạch và Phụ Mẫu**
+- Bản thân và cha mẹ **ít được hưởng của cải tổ tiên** do cấu trúc Kình Đà
+  giáp các cung gia sản kế bên
 
 🌟 **+ Cát tinh:** dòng họ biết gìn giữ truyền thống, mồ mả tổ tiên được chăm
 lo, con cháu thuận lợi trưởng thành.
@@ -263,7 +261,8 @@ Hay **may mắn** trong chuyện **đất cát, nhà cửa, buôn bất động 
 Nơi ở thường là **nơi ông cha để lại** hoặc được **cấp, trao tặng**.
 
 ⚡ **Đặc trưng kèm theo:**
-- **Kình Dương cư Quan Lộc** → công danh **không suôn sẻ, dễ trắc trở**
+- Cấu trúc Kình Dương đối ứng cung sự nghiệp → công danh **không suôn sẻ, dễ
+  trắc trở**
 - Hàng xóm xung quanh có **người độc thân, mãi không lấy vợ/chồng**
 
 ⚠️ **+ Địa Không, Địa Kiếp, Hóa Kỵ, Tuần Triệt:** đất có nhưng **khó giữ**,
