@@ -90,12 +90,22 @@ an sao.
 ⚡ **Hợp nghề:**
 - **BÁC SỸ, Y SĨ** (tay nghề mổ xẻ + tinh tế)
 - Bộ **Tướng + Y + Quang Quý + Bác Sỹ + Hình Riêu** = bác sỹ giải phẫu giỏi
-- **PHẪU THUẬT THẨM MỸ** (đặc biệt khi có Đào Hồng cho nữ)
+- **PHẪU THUẬT THẨM MỸ**
 
 ⚡ **Mặt tối:**
 - Bị **SẸO MẶT, TAY CHÂN** (đặc tính Hình)
-- Đào hoa Riêu kết hợp Hình → bệnh hoa liễu, vạ tình
-- Phụ nữ nóng nảy, dễ phẫu thuật thẩm mỹ`,
+- Đào hoa Riêu kết hợp Hình → bệnh hoa liễu, vạ tình`,
+  },
+
+  {
+    id: 'thien-hinh-rieu-bo-doi-nu-menh',
+    title: 'Bộ Hình Riêu - Nữ mệnh',
+    sao: ['Thiên Hình'],
+    gioiTinh: 'Nữ',
+    ketHop: ['Thiên Riêu'],
+    doUuTien: 50,
+    tomTat: `⚡ **Nữ mệnh có bộ Hình Riêu:** tính nóng nảy, dễ chọn **PHẪU THUẬT
+THẨM MỸ** (đặc biệt khi có thêm **Đào Hoa / Hồng Loan**).`,
   },
 
   {
@@ -103,6 +113,7 @@ an sao.
     title: 'Thiên Hình Mệnh nữ - Chế Đào Hồng đào hoa',
     sao: ['Thiên Hình'],
     cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
     doUuTien: 60,
     tomTat: `**Thiên Hình thủ Mệnh nữ** — đặc trưng quý: **CHẾ ĐÀO HOA**.
 
@@ -197,14 +208,41 @@ nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi d
 
 ⚡ **Đặc trưng:**
 - Cha mẹ **NÓNG NẢY, KHẮT KHE**
-- Dễ **BẠO HÀNH** và gây **ÁP LỰC** cho đương số
+- Dễ **BẠO HÀNH** và gây **ÁP LỰC** cho đương số`,
+  },
 
-⚡ **Đắc địa (Dần Thân Mão Dậu):**
+  {
+    id: 'thien-hinh-tai-phu-mau-dac-dia',
+    title: 'Thiên Hình tại Phụ Mẫu - Đắc địa',
+    sao: ['Thiên Hình'],
+    cung: ['Phụ Mẫu'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    doUuTien: 78,
+    tomTat: `**Thiên Hình ĐẮC ĐỊA tại Phụ Mẫu (Dần/Thân/Mão/Dậu):**
 - Cha mẹ là người **NGHIÊM KHẮC, KỶ LUẬT CAO**
-- Thường làm trong các ngành **QUÂN SỰ, PHÁP LUẬT, GIÁM SÁT, Y HỌC DAO KÉO**
-- Hội Quang Quý + Tả Hữu + Khoa Quyền Lộc → cha mẹ có **UY TÍN, CHỨC VỤ CAO**
+- Thường làm trong các ngành **QUÂN SỰ, PHÁP LUẬT, GIÁM SÁT, Y HỌC DAO KÉO**`,
+  },
 
-⚡ **Hãm địa + sát tinh (Kình Đà, Hóa Kỵ, Không Kiếp):**
+  {
+    id: 'thien-hinh-tai-phu-mau-cat-tinh',
+    title: 'Thiên Hình tại Phụ Mẫu + cát tinh - cha mẹ uy tín',
+    sao: ['Thiên Hình'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Ân Quang', 'Thiên Quý', 'Tả Phù', 'Hữu Bật', 'Hóa Khoa', 'Hóa Quyền', 'Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `**Thiên Hình tại Phụ Mẫu + Quang Quý + Tả Hữu + Khoa Quyền Lộc:**
+- Cha mẹ có **UY TÍN, CHỨC VỤ CAO**`,
+  },
+
+  {
+    id: 'thien-hinh-tai-phu-mau-ham-sat',
+    title: 'Thiên Hình tại Phụ Mẫu - Hãm + sát tinh',
+    sao: ['Thiên Hình'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiên Hình HÃM tại Phụ Mẫu + sát tinh (Kình Đà, Hóa Kỵ, Không Kiếp):**
 - Cha mẹ **NÓNG NẢY QUÁ MỨC**, áp đặt
 - Dễ **YỂU MỆNH**
 - Gia đạo **NHIỀU SÓNG GIÓ**
@@ -223,14 +261,31 @@ nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi d
 - **SÁT PHẠT, ĐẤU ĐÁ** trong họ hàng
 - **THẤT THOÁT MỒ MẢ**
 - Trong họ hàng có người **CỨNG RẮN, THẲNG THẮN, UY NGHIÊM**
-- Vì tính khắt khe → họ hàng **DỄ XA CÁCH**, ít hòa thuận
+- Vì tính khắt khe → họ hàng **DỄ XA CÁCH**, ít hòa thuận`,
+  },
 
-⚡ **Đắc địa hội Quang Quý + Tả Hữu + Khoa Quyền Lộc:**
+  {
+    id: 'thien-hinh-tai-phuc-duc-dac-dia-cat-tinh',
+    title: 'Thiên Hình Phúc Đức - Đắc + cát tinh',
+    sao: ['Thiên Hình'],
+    cung: ['Phúc Đức'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    ketHop: ['Ân Quang', 'Thiên Quý', 'Tả Phù', 'Hữu Bật', 'Hóa Khoa', 'Hóa Quyền', 'Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `**Thiên Hình Đắc địa Phúc Đức + Quang Quý + Tả Hữu + Khoa Quyền Lộc:**
 - Phúc khí giảm nhưng vẫn còn người trong họ **GÂY DỰNG DANH DỰ**
 - Có chỗ dựa tinh thần
-- Hậu vận hưởng **TÍNH CÁCH MẠNH MẼ, Ý CHÍ KIÊN CƯỜNG** từ tổ tiên
+- Hậu vận hưởng **TÍNH CÁCH MẠNH MẼ, Ý CHÍ KIÊN CƯỜNG** từ tổ tiên`,
+  },
 
-⚡ **Hãm địa:**
+  {
+    id: 'thien-hinh-tai-phuc-duc-ham',
+    title: 'Thiên Hình tại Phúc Đức - Hãm',
+    sao: ['Thiên Hình'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Thiên Hình HÃM tại Phúc Đức:**
 - Họ hàng **ÍT NGƯỜI SỐNG THỌ**
 - Tranh chấp **ĐẤT CÁT, MỒ MẢ THẤT TÁN**
 - Dòng tộc **BẤT HÒA**`,
@@ -249,16 +304,41 @@ nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi d
 - **DÍNH KIỆN TỤNG, TRANH CHẤP** đất đai
 - Sinh tâm lý **CHÁN Ở NHÀ, CHÁN VIỆC NHÀ**
 - **ĐỊA THỔ GÂY ỐM ĐAU** nhiều
-- **CHÁY NỔ TAI ƯƠNG** sinh ra từ đó
+- **CHÁY NỔ TAI ƯƠNG** sinh ra từ đó`,
+  },
 
-⚡ **Đắc địa:**
-- Nhà cửa thường ở gần các nơi **CÔNG QUYỀN**: trụ sở công an, tòa án,
-  đơn vị quân đội
+  {
+    id: 'thien-hinh-tai-dien-trach-dac-dia',
+    title: 'Thiên Hình Điền Trạch - Đắc địa',
+    sao: ['Thiên Hình'],
+    cung: ['Điền Trạch'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    doUuTien: 78,
+    tomTat: `**Thiên Hình ĐẮC tại Điền Trạch (Dần/Thân/Mão/Dậu):**
+- Nhà cửa thường ở gần các nơi **CÔNG QUYỀN**: trụ sở công an, tòa án, đơn vị quân đội
 - Đương số có **Ý THỨC KỶ LUẬT CAO** trong quản lý nhà cửa
-- Sống **NGĂN NẮP**
-- Hội Tả Hữu + Khoa Quyền Lộc → nhà cửa khang trang, kiên cố
+- Sống **NGĂN NẮP**`,
+  },
 
-⚡ **Hãm địa:**
+  {
+    id: 'thien-hinh-tai-dien-trach-cat-tinh',
+    title: 'Thiên Hình Điền Trạch + Tả Hữu Khoa Quyền Lộc',
+    sao: ['Thiên Hình'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Hóa Khoa', 'Hóa Quyền', 'Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `**Thiên Hình tại Điền Trạch + Tả Hữu + Khoa Quyền Lộc:**
+- Nhà cửa **KHANG TRANG, KIÊN CỐ**`,
+  },
+
+  {
+    id: 'thien-hinh-tai-dien-trach-ham',
+    title: 'Thiên Hình tại Điền Trạch - Hãm địa',
+    sao: ['Thiên Hình'],
+    cung: ['Điền Trạch'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Thiên Hình HÃM tại Điền Trạch:**
 - Điền sản **KHÓ TÍCH LŨY**
 - Tranh chấp **KIỆN TỤNG ĐẤT ĐAI**
 - Gia đình **THIẾU HÒA KHÍ, XUNG ĐỘT**
@@ -278,14 +358,30 @@ MỔ XẺ**, tư duy độc lập, phán đoán nhanh.
 - **CHẬM PHÁT TRIỂN**, bị hãm đường công danh
 - **TAI NẠN NGHỀ NGHIỆP** khó tránh
 - Hình biểu tượng của **CHẬM TRỄ DỤNG TÀI**
-- Luôn bị **ÁP LỰC, ĐẤU ĐÁ** của người khác
+- Luôn bị **ÁP LỰC, ĐẤU ĐÁ** của người khác`,
+  },
 
-⚡ **Đắc địa:**
+  {
+    id: 'thien-hinh-tai-quan-loc-dac-dia',
+    title: 'Thiên Hình Quan Lộc - Đắc địa',
+    sao: ['Thiên Hình'],
+    cung: ['Quan Lộc'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    doUuTien: 78,
+    tomTat: `**Thiên Hình ĐẮC tại Quan Lộc (Dần/Thân/Mão/Dậu):**
 - Hợp **QUÂN SỰ, Y KHOA, THANH TRA, GIÁM SÁT**
 - Tuy chậm tiến nhưng có **THÀNH TỰU**
-- Khi gặp vận tốt sẽ được **DỤNG TÀI**, nổi bật trong lĩnh vực
+- Khi gặp vận tốt sẽ được **DỤNG TÀI**, nổi bật trong lĩnh vực`,
+  },
 
-⚡ **Hãm địa:**
+  {
+    id: 'thien-hinh-tai-quan-loc-ham',
+    title: 'Thiên Hình tại Quan Lộc - Hãm địa',
+    sao: ['Thiên Hình'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Thiên Hình HÃM tại Quan Lộc:**
 - Đường công danh **TRẮC TRỞ**
 - Hay vướng **THỊ PHI** nơi làm việc
 - Dễ bị **CÁCH CHỨC, KỶ LUẬT**
@@ -305,14 +401,31 @@ MỔ XẺ**, tư duy độc lập, phán đoán nhanh.
 - Luôn vì bạn bè mà **RƯỚC HỌA VÀO THÂN**
 - Bé bị **BẠN BẮT NẠT**
 - Lớn bị người đời **LÁNH XA**
-- Ẩn tàng **CĂM HẬN KÉO DÀI**, tìm cách **TRẢ ÂN BÁO OÁN**
+- Ẩn tàng **CĂM HẬN KÉO DÀI**, tìm cách **TRẢ ÂN BÁO OÁN**`,
+  },
 
-⚡ **Đắc địa:**
+  {
+    id: 'thien-hinh-tai-no-boc-dac-dia',
+    title: 'Thiên Hình Nô Bộc - Đắc địa',
+    sao: ['Thiên Hình'],
+    cung: ['Nô Bộc'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    doUuTien: 78,
+    tomTat: `**Thiên Hình ĐẮC tại Nô Bộc (Dần/Thân/Mão/Dậu):**
 - Ít bạn bè nhưng mối quan hệ **RÕ RÀNG, RẠCH RÒI**
 - Hợp với người trong môi trường **QUÂN ĐỘI, PHÁP LUẬT, Y TẾ**
-- Bạn bè có khả năng giúp đỡ trong công việc nhưng vẫn khó tìm tri kỷ thật sự
+- Bạn bè có khả năng giúp đỡ trong công việc nhưng vẫn khó tìm tri kỷ thật sự`,
+  },
 
-⚡ **Hãm địa + Kình Đà, Kỵ, Riêu, Đào, Hồng:**
+  {
+    id: 'thien-hinh-tai-no-boc-ham-sat',
+    title: 'Thiên Hình Nô Bộc - Hãm + Kình Đà Kỵ Riêu Đào Hồng',
+    sao: ['Thiên Hình'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Thiên Riêu', 'Đào Hoa', 'Hồng Loan'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiên Hình HÃM Nô Bộc + Kình Đà / Kỵ / Riêu / Đào / Hồng:**
 - Số lượng bạn bè **CÀNG ÍT**, dễ phản bội
 - **GÂY THỊ PHI**
 - Thuở nhỏ **BỊ BẠN BẮT NẠT**
@@ -333,14 +446,40 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
 - Hay gặp **CHUYỆN XUI XẺO**, thiếu may mắn
 - **KỸ NĂNG MỀM** giao tiếp & xử lý tình huống **KÉM**
 - Báo hiệu tình trạng **CHẬM MUỘN KẾT HÔN**
-- Đi xa làm điều phải quấy ắt **DÍNH TÙ TỘI**
+- Đi xa làm điều phải quấy ắt **DÍNH TÙ TỘI**`,
+  },
 
-⚡ **Đắc địa:**
+  {
+    id: 'thien-hinh-tai-thien-di-dac-dia',
+    title: 'Thiên Hình Thiên Di - Đắc địa',
+    sao: ['Thiên Hình'],
+    cung: ['Thiên Di'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    doUuTien: 78,
+    tomTat: `**Thiên Hình ĐẮC tại Thiên Di (Dần/Thân/Mão/Dậu):**
 - Đi ra ngoài mang dáng vẻ **NGHIÊM NGHỊ, ÍT NÓI, KHÓ GẦN** nhưng **LÀM ĐƯỢC VIỆC**
-- Có **UY QUYỀN** khiến người khác nể sợ
-- Hội Tả Hữu + Khoa Quyền Lộc → dễ được **TRỌNG DỤNG**, có chỗ dựa, lập công danh
+- Có **UY QUYỀN** khiến người khác nể sợ`,
+  },
 
-⚡ **Hãm địa:**
+  {
+    id: 'thien-hinh-tai-thien-di-cat-tinh',
+    title: 'Thiên Hình Thiên Di + Tả Hữu Khoa Quyền Lộc',
+    sao: ['Thiên Hình'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Hóa Khoa', 'Hóa Quyền', 'Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `**Thiên Hình Thiên Di + Tả Hữu + Khoa Quyền Lộc:**
+- Dễ được **TRỌNG DỤNG**, có chỗ dựa, lập công danh`,
+  },
+
+  {
+    id: 'thien-hinh-tai-thien-di-ham',
+    title: 'Thiên Hình tại Thiên Di - Hãm địa',
+    sao: ['Thiên Hình'],
+    cung: ['Thiên Di'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Thiên Hình HÃM tại Thiên Di:**
 - Vướng **KIỆN TỤNG, VA CHẠM**
 - Dùng đến **BẠO LỰC** giải quyết mâu thuẫn
 - Không hợp **XUẤT NGOẠI**`,
@@ -357,22 +496,73 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
 ⚡ **Đặc trưng:**
 - **CHÂN TAY LẮM SẸO**
 - Hay bị **ĐIỆN GIẬT, BỎNG NƯỚC, BỎNG DẦU, CHÁY NỔ**
-- Thường dính nhiều đến **PHÁP LUẬT**
+- Thường dính nhiều đến **PHÁP LUẬT**`,
+  },
 
-⚡ **Đắc địa:**
+  {
+    id: 'thien-hinh-tai-tat-ach-dac-dia',
+    title: 'Thiên Hình Tật Ách - Đắc địa',
+    sao: ['Thiên Hình'],
+    cung: ['Tật Ách'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    doUuTien: 78,
+    tomTat: `**Thiên Hình ĐẮC tại Tật Ách (Dần/Thân/Mão/Dậu):**
 - **SỨC CHỊU ĐỰNG TỐT**
 - Vượt qua nghịch cảnh bằng **Ý CHÍ KIÊN CƯỜNG**
-- Tuy hay gặp va chạm nhưng chỉ để lại **DẤU VẾT BÊN NGOÀI**
-- Hội Thiên Phủ + Tả Hữu + Khoa Quyền Lộc → ứng nghiệm tốt
+- Tuy hay gặp va chạm nhưng chỉ để lại **DẤU VẾT BÊN NGOÀI**`,
+  },
 
-⚡ **Hãm địa:**
+  {
+    id: 'thien-hinh-tai-tat-ach-cat-tinh',
+    title: 'Thiên Hình Tật Ách + Thiên Phủ Tả Hữu Khoa Quyền Lộc',
+    sao: ['Thiên Hình'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Phủ', 'Tả Phù', 'Hữu Bật', 'Hóa Khoa', 'Hóa Quyền', 'Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `**Thiên Hình Tật Ách + Thiên Phủ + Tả Hữu + Khoa Quyền Lộc:** ứng nghiệm tốt, sức chịu đựng tăng cường.`,
+  },
+
+  {
+    id: 'thien-hinh-tai-tat-ach-ham',
+    title: 'Thiên Hình tại Tật Ách - Hãm địa',
+    sao: ['Thiên Hình'],
+    cung: ['Tật Ách'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Thiên Hình HÃM tại Tật Ách:**
 - Họa **HÌNH THƯƠNG NẶNG**
 - **TAI NẠN NGHỀ NGHIỆP, BỎNG LỬA, ĐIỆN GIẬT, CHÁY NỔ**
-- Trên người nhiều **SẸO, VẾT MỔ** hoặc bệnh nan giải
-- Hội Không Kiếp + Kình Đà → **NGHIỆN NGẬP, TÙ TỘI, KIỆN TỤNG**
-- Hội Thiên Đồng + Hóa Kỵ → **ĂN CHƠI, SA VÀO TỬU SẮC**
+- Trên người nhiều **SẸO, VẾT MỔ** hoặc bệnh nan giải`,
+  },
 
-⚠️ **Đặc biệt nữ mệnh:**
+  {
+    id: 'thien-hinh-tai-tat-ach-khong-kiep-kinh-da',
+    title: 'Thiên Hình Tật Ách + Không Kiếp Kình Đà',
+    sao: ['Thiên Hình'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Hình Tật Ách + Không Kiếp + Kình Đà:** **NGHIỆN NGẬP, TÙ TỘI, KIỆN TỤNG**.`,
+  },
+
+  {
+    id: 'thien-hinh-tai-tat-ach-dong-ky',
+    title: 'Thiên Hình Tật Ách + Thiên Đồng + Hóa Kỵ',
+    sao: ['Thiên Hình'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Đồng', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Hình Tật Ách + Thiên Đồng + Hóa Kỵ:** **ĂN CHƠI, SA VÀO TỬU SẮC**.`,
+  },
+
+  {
+    id: 'thien-hinh-tai-tat-ach-nu-menh',
+    title: 'Thiên Hình tại Tật Ách - Nữ mệnh',
+    sao: ['Thiên Hình'],
+    cung: ['Tật Ách'],
+    gioiTinh: 'Nữ',
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiên Hình tại Tật Ách (nữ mệnh):**
 - **KHÓ SINH NỞ**, dễ sảy thai
 - Tính nóng, liều lĩnh, hành động bốc đồng → họa thân`,
   },
@@ -390,15 +580,32 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
 - Giảm sự **GIÀU CÓ, THỊNH VƯỢNG**
 - **HAM CỦA TIỀN** nhưng **LƯỜI TÍCH LŨY** và **SỢ KINH DOANH**, sợ thất bại
 - Luôn tìm cách **TIÊU TRƯỚC** khi nghĩ cách kiếm
-- Vận xấu ắt **BÁN NHÀ CỬA TƯ GIA** trả nợ
+- Vận xấu ắt **BÁN NHÀ CỬA TƯ GIA** trả nợ`,
+  },
 
-⚡ **Đắc địa:**
+  {
+    id: 'thien-hinh-tai-tai-bach-dac-dia',
+    title: 'Thiên Hình Tài Bạch - Đắc địa',
+    sao: ['Thiên Hình'],
+    cung: ['Tài Bạch'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    doUuTien: 78,
+    tomTat: `**Thiên Hình ĐẮC tại Tài Bạch (Dần/Thân/Mão/Dậu):**
 - Kiếm tiền từ ngành nghề đặc thù đòi hỏi **SẮC BÉN, CAN ĐẢM**
 - Tiền đến từ công việc gắn **TÍNH SÁT PHẠT, MỔ XẺ**
 - Tuy vất vả nhưng tạo được chỗ đứng nhờ **CHUYÊN MÔN**
-- Tiêu xài mạnh tay nhưng vẫn **CÂN ĐỐI** tài chính
+- Tiêu xài mạnh tay nhưng vẫn **CÂN ĐỐI** tài chính`,
+  },
 
-⚡ **Hãm địa + Kình Đà Kỵ Không Kiếp:**
+  {
+    id: 'thien-hinh-tai-tai-bach-ham-sat',
+    title: 'Thiên Hình Tài Bạch - Hãm + Kình Đà Kỵ Không Kiếp',
+    sao: ['Thiên Hình'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Thiên Hình HÃM Tài Bạch + Kình Đà Kỵ Không Kiếp:**
 - Vì tiền mà **MANG HỌA**
 - Sa vào **NỢ NẦN, KIỆN TỤNG, TRANH CHẤP TÀI SẢN**
 - Phải bán nhà trả nợ`,
@@ -417,15 +624,41 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
 - Con lớn ắt **CHỐNG ĐỐI, NGANG NGƯỢC**
 - Con cái **THIẾU HÒA THUẬN, TRANH GIÀNH** của cải
 - **SINH CON DỄ MỔ**
-- Hay **ỐM ĐAU VẬN NẠN**
+- Hay **ỐM ĐAU VẬN NẠN**`,
+  },
 
-⚡ **Đắc địa:**
+  {
+    id: 'thien-hinh-tai-tu-tuc-dac-dia',
+    title: 'Thiên Hình Tử Tức - Đắc địa',
+    sao: ['Thiên Hình'],
+    cung: ['Tử Tức'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    doUuTien: 78,
+    tomTat: `**Thiên Hình ĐẮC tại Tử Tức (Dần/Thân/Mão/Dậu):**
 - Con cái **HIỂN ĐẠT CÔNG DANH**
 - **BÍNH QUYỀN VẠN LÝ, TRẤN ẢI BIÊN CƯƠNG**
-- Hợp **BINH NGHIỆP, QUÂN ĐỘI, CÔNG AN**
-- Hội Tả Hữu + Khoa Quyền Lộc → con cái được trọng dụng, hiển hách
+- Hợp **BINH NGHIỆP, QUÂN ĐỘI, CÔNG AN**`,
+  },
 
-⚡ **Hãm địa + sát tinh (Kình, Đà, Riêu):**
+  {
+    id: 'thien-hinh-tai-tu-tuc-cat-tinh',
+    title: 'Thiên Hình Tử Tức + Tả Hữu Khoa Quyền Lộc',
+    sao: ['Thiên Hình'],
+    cung: ['Tử Tức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Hóa Khoa', 'Hóa Quyền', 'Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `**Thiên Hình Tử Tức + Tả Hữu + Khoa Quyền Lộc:** con cái được trọng dụng, hiển hách.`,
+  },
+
+  {
+    id: 'thien-hinh-tai-tu-tuc-ham-sat',
+    title: 'Thiên Hình Tử Tức - Hãm + Kình Đà Riêu',
+    sao: ['Thiên Hình'],
+    cung: ['Tử Tức'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Thiên Riêu'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiên Hình HÃM Tử Tức + Kình Đà Riêu:**
 - Con cái **GÂY HỌA**
 - Dính **VÒNG LAO LÝ**
 - Làm cha mẹ phiền muộn`,
@@ -448,9 +681,18 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
 - Vợ chồng **CÁ TÍNH MẠNH**, khó chiều
 - Khắt khe trong cư xử → đời sống thiếu **LÃNG MẠN**
 - Hôn nhân khắc khẩu nhưng vẫn giữ **RÀNG BUỘC TRÁCH NHIỆM**
-- Người hôn phối **CẨN TRỌNG, GIỎI CHUYÊN MÔN, THÀNH ĐẠT, UY QUYỀN**
+- Người hôn phối **CẨN TRỌNG, GIỎI CHUYÊN MÔN, THÀNH ĐẠT, UY QUYỀN**`,
+  },
 
-⚡ **Hãm địa + Kình Đà, Hóa Kỵ, Riêu, Đào, Hồng:**
+  {
+    id: 'thien-hinh-tai-phu-the-ham-sat',
+    title: 'Thiên Hình Phu Thê - Hãm + Kình Đà Kỵ Riêu Đào Hồng',
+    sao: ['Thiên Hình'],
+    cung: ['Phu Thê'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Thiên Riêu', 'Đào Hoa', 'Hồng Loan'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Thiên Hình HÃM Phu Thê + Kình Đà / Hóa Kỵ / Riêu / Đào / Hồng:**
 - **BẠO LỰC, NỢ NẦN, NGHIỆN NGẬP**
 - Một người làm một người phá
 - Kẻ yểu người thọ
@@ -467,15 +709,41 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
 
 ⚡ **Đặc trưng:**
 - Không **NHỜ ĐƯỢC** anh em
-- **GÂY CHIA RẼ TÌNH CẢM**
+- **GÂY CHIA RẼ TÌNH CẢM**`,
+  },
 
-⚡ **Đắc địa:**
+  {
+    id: 'thien-hinh-tai-huynh-de-dac-dia',
+    title: 'Thiên Hình Huynh Đệ - Đắc địa',
+    sao: ['Thiên Hình'],
+    cung: ['Huynh Đệ'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    doUuTien: 78,
+    tomTat: `**Thiên Hình ĐẮC tại Huynh Đệ (Dần/Thân/Mão/Dậu):**
 - Anh em **TÍNH CÁCH MẠNH MẼ, ĐỘC LẬP**
 - Mỗi người **CHÍ KHÍ RIÊNG**
-- Hội Binh + Tướng + Ấn → có người **THÀNH ĐẠT, CÔNG DANH HIỂN HÁCH**
-- Gia đình **CÓ UY TÍN**
+- Gia đình **CÓ UY TÍN**`,
+  },
 
-⚡ **Hãm địa + Lục Sát hoặc Phục Tướng:**
+  {
+    id: 'thien-hinh-tai-huynh-de-binh-tuong-an',
+    title: 'Thiên Hình Huynh Đệ + Binh Tướng Ấn',
+    sao: ['Thiên Hình'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Phục Binh', 'Tướng Quân', 'Quốc Ấn'],
+    doUuTien: 70,
+    tomTat: `**Thiên Hình Huynh Đệ + Binh + Tướng + Ấn:** có người **THÀNH ĐẠT, CÔNG DANH HIỂN HÁCH**.`,
+  },
+
+  {
+    id: 'thien-hinh-tai-huynh-de-ham-sat',
+    title: 'Thiên Hình Huynh Đệ - Hãm + Lục Sát / Phục Tướng',
+    sao: ['Thiên Hình'],
+    cung: ['Huynh Đệ'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Phục Binh', 'Tướng Quân'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiên Hình HÃM Huynh Đệ + Lục Sát / Phục Tướng:**
 - Anh em **KHÓ HÒA THUẬN**, ít trợ giúp
 - Vì tiền bạc, lợi ích mà **TRỞ MẶT**
 - Bị anh em **LỪA GẠT**

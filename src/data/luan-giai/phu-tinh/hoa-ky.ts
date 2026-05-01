@@ -86,25 +86,70 @@ bệnh **tâm linh** — bị **cơ hành, dở điên dở dại**.`,
     cung: ['Mệnh'],
     doUuTien: 85,
     tomTat: `**Hóa Kỵ cư Mệnh:** **thâm trầm, đa nghi, đố kỵ, ganh ghét** người
-khác. **Hướng nội**, thu mình lại, ít giao tiếp.
+khác. **Hướng nội**, thu mình lại, ít giao tiếp.`,
+  },
 
-🌟 **Đắc địa + cát tinh:** **khôn ngoan, sắc sảo, cẩn trọng** — được nhiều người
-kính nể. Người **kín đáo, biết tiến lùi, khiêm tốn nhưng bản lĩnh**, "đi guốc
-trong bụng" người khác — thấu hiểu, dễ cảm thông.
+  {
+    id: 'hoa-ky-tai-menh-dac-cat-tinh',
+    sao: ['Hóa Kỵ'],
+    cung: ['Mệnh'],
+    trangThai: ['Đắc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 78,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa + cát tinh tại Mệnh:** **khôn ngoan, sắc sảo, cẩn
+trọng** — được nhiều người kính nể. Người **kín đáo, biết tiến lùi, khiêm tốn
+nhưng bản lĩnh**, "đi guốc trong bụng" người khác — thấu hiểu, dễ cảm thông.`,
+  },
 
-⚠️ **Hãm địa:** **mặc cảm, tự ti, hay tự trách bản thân** → **bỏ lỡ cơ hội**.
-**Đa nghi, lo xa, thiếu quyết đoán**, dễ giằng xé giữa lý trí và cảm xúc.
+  {
+    id: 'hoa-ky-tai-menh-ham',
+    sao: ['Hóa Kỵ'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Hóa Kỵ Hãm địa tại Mệnh:** **mặc cảm, tự ti, hay tự trách bản thân**
+→ **bỏ lỡ cơ hội**. **Đa nghi, lo xa, thiếu quyết đoán**, dễ giằng xé giữa lý
+trí và cảm xúc.`,
+  },
 
-⚠️ **+ Sát tinh:** càng **khép kín**, sống nội tâm quá mức, **khó mở lòng**.
+  {
+    id: 'hoa-ky-tai-menh-sat-tinh',
+    sao: ['Hóa Kỵ'],
+    cung: ['Mệnh'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hóa Kỵ tại Mệnh + Sát tinh:** càng **khép kín**, sống nội tâm quá
+mức, **khó mở lòng**.`,
+  },
 
-🌟 **+ Hóa Khoa:** tăng **tư duy sâu sắc** — nhưng tránh **quá thiên lý trí mà
-thiếu hành động**.
+  {
+    id: 'hoa-ky-tai-menh-hoa-khoa',
+    sao: ['Hóa Kỵ'],
+    cung: ['Mệnh'],
+    ketHop: ['Hóa Khoa'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Kỵ tại Mệnh + Hóa Khoa:** tăng **tư duy sâu sắc** — nhưng tránh
+**quá thiên lý trí mà thiếu hành động**.`,
+  },
 
-⚠️ **+ Thiên Không / Địa Kiếp / Linh Hỏa:** **dằn vặt, trầm cảm, bi quan** hoặc
-**hành xử cực đoan**.
+  {
+    id: 'hoa-ky-tai-menh-khong-kiep-linh-hoa',
+    sao: ['Hóa Kỵ'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Không', 'Địa Kiếp', 'Linh Tinh', 'Hỏa Tinh'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hóa Kỵ tại Mệnh + Thiên Không / Địa Kiếp / Linh Hỏa:** **dằn vặt,
+trầm cảm, bi quan** hoặc **hành xử cực đoan**.`,
+  },
 
-🌟 **+ Tả Hữu / Khôi Việt:** chuyển hóa thành **biết mình biết người, xử sự khéo
-léo, có chiều sâu chiến lược**.`,
+  {
+    id: 'hoa-ky-tai-menh-ta-huu-khoi-viet',
+    sao: ['Hóa Kỵ'],
+    cung: ['Mệnh'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Kỵ tại Mệnh + Tả Hữu / Khôi Việt:** chuyển hóa thành **biết mình
+biết người, xử sự khéo léo, có chiều sâu chiến lược**.`,
   },
 
   // ============================================================
@@ -141,12 +186,29 @@ hội cát tinh thì dễ thành **vụn vặt, không nhìn xa trông rộng**.
 - Dễ vướng **thị phi, cãi vã, hiểu lầm, kiện tụng**
 - Hành Thủy → cẩn trọng **chuyện sông nước**
 - Bệnh **thần kinh, tinh thần** — **trầm cảm, căng thẳng**
-- ⚠️ **+ Thái Dương / Linh Hỏa:** càng rõ rệt
 
-**Sự nghiệp:** **ích kỷ, khó hòa nhập** → công danh khó khăn.
+**Sự nghiệp:** **ích kỷ, khó hòa nhập** → công danh khó khăn.`,
+  },
 
-🌟 **Đắc địa + Hóa Khoa / Hóa Lộc / Hóa Quyền:** đường công danh tài lộc **dễ
-dàng, thuận lợi**.`,
+  {
+    id: 'hoa-ky-tai-menh-thai-duong-linh-hoa',
+    sao: ['Hóa Kỵ'],
+    cung: ['Mệnh'],
+    ketHop: ['Thái Dương', 'Linh Tinh', 'Hỏa Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Kỵ tại Mệnh + Thái Dương / Linh Hỏa:** bệnh thần kinh, tinh thần
+**càng rõ rệt** — trầm cảm, căng thẳng nặng.`,
+  },
+
+  {
+    id: 'hoa-ky-tai-menh-dac-tam-hoa',
+    sao: ['Hóa Kỵ'],
+    cung: ['Mệnh'],
+    trangThai: ['Đắc'],
+    ketHop: ['Hóa Khoa', 'Hóa Lộc', 'Hóa Quyền'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa + Hóa Khoa / Hóa Lộc / Hóa Quyền tại Mệnh:** đường
+công danh tài lộc **dễ dàng, thuận lợi**.`,
   },
 
   // ============================================================
@@ -157,19 +219,44 @@ dàng, thuận lợi**.`,
     title: 'Hóa Kỵ tại Phụ Mẫu',
     sao: ['Hóa Kỵ'],
     cung: ['Phụ Mẫu'],
-    doUuTien: 75,
+    doUuTien: 72,
     tomTat: `**Hóa Kỵ tại Phụ Mẫu:**
 
 ⚠️ Cha mẹ **bất hòa, xung khắc** với nhau hoặc **cha mẹ - con cái không hợp tính**.
 Hay **bất hòa, cãi nhau**, con cái ít quan tâm chăm sóc cha mẹ. Cha mẹ dễ gặp
-**vấn đề tâm lý, thần kinh**.
+**vấn đề tâm lý, thần kinh**.`,
+  },
 
-🌟 **Đắc địa:** cha mẹ **khôn ngoan, sắc sảo, nhiều mưu kế**. Quan hệ tuy kín
-đáo nhưng sâu sắc, có **tôn trọng và thấu hiểu**. Sức khỏe ổn định, cuộc sống
-yên bình.
+  {
+    id: 'hoa-ky-tai-phu-mau-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Phụ Mẫu:** cha mẹ **khôn ngoan, sắc sảo, nhiều
+mưu kế**. Quan hệ tuy kín đáo nhưng sâu sắc, có **tôn trọng và thấu hiểu**. Sức
+khỏe ổn định, cuộc sống yên bình.`,
+  },
 
-⚠️ **Hãm địa:** tình cảm **rạn nứt do nhân sinh quan khác nhau**, sức khỏe cha
-mẹ yếu. **+ Địa Kiếp / Kình Dương:** **biến cố gia đình, tổn thương sâu sắc**.`,
+  {
+    id: 'hoa-ky-tai-phu-mau-ham',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Hãm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Kỵ Hãm địa tại Phụ Mẫu:** tình cảm **rạn nứt do nhân sinh quan
+khác nhau**, sức khỏe cha mẹ yếu.`,
+  },
+
+  {
+    id: 'hoa-ky-tai-phu-mau-ham-dia-kiep-kinh',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Hãm'],
+    ketHop: ['Địa Kiếp', 'Kình Dương'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Hóa Kỵ Hãm địa + Địa Kiếp / Kình Dương tại Phụ Mẫu:** **biến cố gia
+đình, tổn thương sâu sắc**.`,
   },
 
   // ============================================================
@@ -186,15 +273,38 @@ tội**", **tai vạ thị phi với họ hàng**.
 
 Ít quan tâm **thờ cúng tổ tiên**, mồ mả tổ tiên có nơi **bị ngập nước**.
 
-⚠️ **+ Sát tinh:** dòng họ có người **bị điên, bệnh thần kinh, phù thủng**.
-
-⚠️ **+ Không Kiếp:** thời vận dòng họ **suy bại, nghèo nàn**.
-
 ⚠️ Người Hóa Kỵ tại Phúc dễ **giảm nhân duyên với hôn phối**, **bất hòa với gia
-đình hôn phối**.
+đình hôn phối**.`,
+  },
 
-🌟 **Đắc địa:** ý thức **làm việc thiện, giữ đạo đức**, phúc phần **bền vững**,
-tâm tính **lương thiện**.`,
+  {
+    id: 'hoa-ky-tai-phuc-duc-sat-tinh',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Kỵ tại Phúc Đức + Sát tinh:** dòng họ có người **bị điên, bệnh
+thần kinh, phù thủng**.`,
+  },
+
+  {
+    id: 'hoa-ky-tai-phuc-duc-khong-kiep',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Kỵ tại Phúc Đức + Không Kiếp:** thời vận dòng họ **suy bại, nghèo
+nàn**.`,
+  },
+
+  {
+    id: 'hoa-ky-tai-phuc-duc-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Đắc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Phúc Đức:** ý thức **làm việc thiện, giữ đạo đức**,
+phúc phần **bền vững**, tâm tính **lương thiện**.`,
   },
 
   // ============================================================
@@ -211,15 +321,50 @@ tâm tính **lương thiện**.`,
 
 **Phong thủy bếp không tốt**. Gia đình **xung đột cãi vã**, hàng xóm **bất hòa**.
 
-Nhà gần **nơi ồn ào, náo nhiệt**, gần **cống rãnh hoặc sông ngòi bốc mùi**.
+Nhà gần **nơi ồn ào, náo nhiệt**, gần **cống rãnh hoặc sông ngòi bốc mùi**.`,
+  },
 
-🌟 **Đắc địa:** sống **kín đáo, không phô trương**, phát đạt nhờ đất theo hướng
-**âm thầm**. Gắn bó **quê cha đất tổ**, gìn giữ di sản. **+ Thiên Phủ / Tả Hữu /
-Lộc Tồn:** hưởng gia sản.
+  {
+    id: 'hoa-ky-tai-dien-trach-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Điền Trạch'],
+    trangThai: ['Đắc'],
+    doUuTien: 72,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Điền Trạch:** sống **kín đáo, không phô trương**,
+phát đạt nhờ đất theo hướng **âm thầm**. Gắn bó **quê cha đất tổ**, gìn giữ
+di sản.`,
+  },
 
-⚠️ **Hãm địa:** **tha hương, chuyển dời nhiều nơi**. **Tranh chấp đất đai, rắc
-rối giấy tờ**, mua nhầm nhà phong thủy xấu. **+ Địa Kiếp / Kiếp Sát:** bị **lừa,
-tổn thất** đầu tư bất động sản.`,
+  {
+    id: 'hoa-ky-tai-dien-trach-dac-phu-ta-huu-loc',
+    sao: ['Hóa Kỵ'],
+    cung: ['Điền Trạch'],
+    trangThai: ['Đắc'],
+    ketHop: ['Thiên Phủ', 'Tả Phù', 'Hữu Bật', 'Lộc Tồn'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Điền Trạch + Thiên Phủ / Tả Hữu / Lộc Tồn:** hưởng
+gia sản.`,
+  },
+
+  {
+    id: 'hoa-ky-tai-dien-trach-ham',
+    sao: ['Hóa Kỵ'],
+    cung: ['Điền Trạch'],
+    trangThai: ['Hãm'],
+    doUuTien: 72,
+    tomTat: `⚠️ **Hóa Kỵ Hãm địa tại Điền Trạch:** **tha hương, chuyển dời nhiều nơi**.
+**Tranh chấp đất đai, rắc rối giấy tờ**, mua nhầm nhà phong thủy xấu.`,
+  },
+
+  {
+    id: 'hoa-ky-tai-dien-trach-ham-kiep-sat',
+    sao: ['Hóa Kỵ'],
+    cung: ['Điền Trạch'],
+    trangThai: ['Hãm'],
+    ketHop: ['Địa Kiếp', 'Kiếp Sát'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Kỵ Hãm địa tại Điền Trạch + Địa Kiếp / Kiếp Sát:** bị **lừa, tổn
+thất** đầu tư bất động sản.`,
   },
 
   // ============================================================
@@ -230,21 +375,35 @@ tổn thất** đầu tư bất động sản.`,
     title: 'Hóa Kỵ tại Quan Lộc',
     sao: ['Hóa Kỵ'],
     cung: ['Quan Lộc'],
-    doUuTien: 80,
+    doUuTien: 78,
     tomTat: `⚠️ **Hóa Kỵ tại Quan Lộc:** **trắc trở công danh**, chậm thăng tiến.
 
 Bị **tiểu nhân dèm pha, chèn ép**, không được cấp trên tín nhiệm. Có thói **ghen
 ghét đố kỵ**, dùng **tiểu xảo chơi xấu, hãm hại đồng nghiệp**.
 
 ⚠️ **Tai tiếng, thị phi, dính pháp luật**. Đặt lợi ích cá nhân lên trên, sẵn
-sàng giành giật. Dễ **căng thẳng đầu óc, bệnh thần kinh**.
+sàng giành giật. Dễ **căng thẳng đầu óc, bệnh thần kinh**.`,
+  },
 
-🌟 **Đắc địa:** chuyên môn cao, theo hướng **học thuật, nghiên cứu, tư vấn**.
-Thành công đến **chậm nhưng bền vững**. Phù hợp **luật sư, y học, giáo dục, tôn
-giáo, nghệ thuật**. **"Nước chảy đá mòn"**.
+  {
+    id: 'hoa-ky-tai-quan-loc-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Đắc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Quan Lộc:** chuyên môn cao, theo hướng **học thuật,
+nghiên cứu, tư vấn**. Thành công đến **chậm nhưng bền vững**. Phù hợp **luật
+sư, y học, giáo dục, tôn giáo, nghệ thuật**. **"Nước chảy đá mòn"**.`,
+  },
 
-⚠️ **Hãm địa:** lên xuống thất thường, làm việc **đơn độc**, không được hỗ trợ
-tích cực.`,
+  {
+    id: 'hoa-ky-tai-quan-loc-ham',
+    sao: ['Hóa Kỵ'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Hãm'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hóa Kỵ Hãm địa tại Quan Lộc:** lên xuống thất thường, làm việc **đơn
+độc**, không được hỗ trợ tích cực.`,
   },
 
   // ============================================================
@@ -255,22 +414,52 @@ tích cực.`,
     title: 'Hóa Kỵ tại Nô Bộc',
     sao: ['Hóa Kỵ'],
     cung: ['Nô Bộc'],
-    doUuTien: 75,
+    doUuTien: 72,
     tomTat: `⚠️ **Hóa Kỵ tại Nô Bộc:** bạn bè đồng nghiệp **"bằng mặt không bằng
 lòng"**, **bị nói xấu, oán hại**.
 
-⚠️ **+ Phá Quân / Tang Môn:** "làm ơn mắc oán".
-
 ⚠️ **Thị phi, kiện tụng, tranh chấp** với bạn bè đồng nghiệp, **tai tiếng xấu**.
-Khó liên kết do **cái tôi quá lớn**.
+Khó liên kết do **cái tôi quá lớn**.`,
+  },
 
-⚠️ **+ Đào Hoa / Hồng Loan / Mộc Dục:** **nghiệp duyên với bạn khác giới** —
-dễ **bồ bịch, lăng nhăng**, nhất là khi đã có vợ chồng.
+  {
+    id: 'hoa-ky-tai-no-boc-pha-quan-tang-mon',
+    sao: ['Hóa Kỵ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Phá Quân', 'Tang Môn'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Kỵ tại Nô Bộc + Phá Quân / Tang Môn:** "làm ơn mắc oán".`,
+  },
 
-🌟 **Đắc địa:** cẩn trọng chọn bạn, **tự chủ cao**. Mối quan hệ **bền vững**,
-nhận **hỗ trợ âm thầm**.
+  {
+    id: 'hoa-ky-tai-no-boc-dao-hong-moc-duc',
+    sao: ['Hóa Kỵ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Đào Hoa', 'Hồng Loan', 'Mộc Dục'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Kỵ tại Nô Bộc + Đào Hoa / Hồng Loan / Mộc Dục:** **nghiệp duyên
+với bạn khác giới** — dễ **bồ bịch, lăng nhăng**, nhất là khi đã có vợ chồng.`,
+  },
 
-⚠️ **Hãm địa + Địa Kiếp:** gặp **người xấu / tiểu nhân** gây rối, tổn thương tình cảm.`,
+  {
+    id: 'hoa-ky-tai-no-boc-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Nô Bộc:** cẩn trọng chọn bạn, **tự chủ cao**. Mối
+quan hệ **bền vững**, nhận **hỗ trợ âm thầm**.`,
+  },
+
+  {
+    id: 'hoa-ky-tai-no-boc-ham-dia-kiep',
+    sao: ['Hóa Kỵ'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Hãm'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Kỵ Hãm địa + Địa Kiếp tại Nô Bộc:** gặp **người xấu / tiểu nhân**
+gây rối, tổn thương tình cảm.`,
   },
 
   // ============================================================
@@ -281,19 +470,34 @@ nhận **hỗ trợ âm thầm**.
     title: 'Hóa Kỵ tại Thiên Di',
     sao: ['Hóa Kỵ'],
     cung: ['Thiên Di'],
-    doUuTien: 78,
+    doUuTien: 75,
     tomTat: `⚠️ **Hóa Kỵ tại Thiên Di:** ra ngoài **nhiều tai tiếng, thị phi**.
 
 Ích kỷ, **chỉ nghĩ lợi ích bản thân** → bị **ghen ghét, đàm tiếu**.
 
 "**Làm phúc phải tội**", dễ **hiểu lầm qua lời nói**, làm gì cũng bị **chỉ trích,
-soi mói**. Tới lui những **nơi ồn ào, lắm thị phi**.
+soi mói**. Tới lui những **nơi ồn ào, lắm thị phi**.`,
+  },
 
-⚠️ **+ Thái Tuế / Thiên Hình / Bạch Hổ / Quan Phù:** dính **pháp luật, kiện tụng**.
+  {
+    id: 'hoa-ky-tai-thien-di-tue-hinh-ho-quan-phu',
+    sao: ['Hóa Kỵ'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thái Tuế', 'Thiên Hình', 'Bạch Hổ', 'Quan Phù'],
+    doUuTien: 72,
+    tomTat: `⚠️ **Hóa Kỵ tại Thiên Di + Thái Tuế / Thiên Hình / Bạch Hổ / Quan Phù:** dính
+**pháp luật, kiện tụng**.`,
+  },
 
-🌟 **Đắc địa:** "**cá gặp nước**" khi ra ngoài — **hòa nhập nhanh, tìm cơ hội
-tốt**, thích hợp công việc / cuộc sống **di chuyển**. Xây mạng lưới quan hệ **bền
-vững**, được **giúp đỡ từ người xa lạ**.`,
+  {
+    id: 'hoa-ky-tai-thien-di-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Thiên Di'],
+    trangThai: ['Đắc'],
+    doUuTien: 72,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Thiên Di:** "**cá gặp nước**" khi ra ngoài — **hòa
+nhập nhanh, tìm cơ hội tốt**, thích hợp công việc / cuộc sống **di chuyển**.
+Xây mạng lưới quan hệ **bền vững**, được **giúp đỡ từ người xa lạ**.`,
   },
 
   // ============================================================
@@ -304,22 +508,44 @@ vững**, được **giúp đỡ từ người xa lạ**.`,
     title: 'Hóa Kỵ tại Tật Ách',
     sao: ['Hóa Kỵ'],
     cung: ['Tật Ách'],
-    doUuTien: 80,
+    doUuTien: 78,
     tomTat: `⚠️ **Hóa Kỵ tại Tật Ách:** **thường xuyên bệnh, tai nạn, khó khăn sinh
 nở**, **đau mắt, đau bụng, đại tràng, khí huyết kém, ngộ độc thức ăn**.
 
 Hóa Kỵ là **âm tinh** → đi với sao biểu trưng bộ phận nào → **gây trục trặc bộ
 phận đó**.
 
-Hành Thủy → cẩn thận **sông nước, máu huyết**, **bệnh tinh thần thần kinh**.
+Hành Thủy → cẩn thận **sông nước, máu huyết**, **bệnh tinh thần thần kinh**.`,
+  },
 
-⚠️ **+ Thiên Riêu / Đà La / Linh Hỏa / Âm Dương / Thiên Đồng:** bệnh **TÂM LINH**
-— **bị cơ hành, dở điên dở dại**.
+  {
+    id: 'hoa-ky-tai-tat-ach-rieu-da-linh-hoa-am-duong-dong',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Riêu', 'Đà La', 'Linh Tinh', 'Hỏa Tinh', 'Thái Âm', 'Thái Dương', 'Thiên Đồng'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hóa Kỵ tại Tật Ách + Thiên Riêu / Đà La / Linh Hỏa / Âm Dương / Thiên
+Đồng:** bệnh **TÂM LINH** — **bị cơ hành, dở điên dở dại**.`,
+  },
 
-⚠️ **+ Thái Âm / Thái Dương** (bất luận cung nào): **MẮT KÉM, tật khúc xạ, đau mắt**.
+  {
+    id: 'hoa-ky-tai-tat-ach-am-duong',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thái Âm', 'Thái Dương'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Kỵ tại Tật Ách + Thái Âm / Thái Dương:** **MẮT KÉM, tật khúc xạ,
+đau mắt**.`,
+  },
 
-🌟 **Đắc địa:** sức đề kháng tốt, khả năng **tự chữa lành cao** dù có vấn đề
-sức khỏe tiềm ẩn. Sinh hoạt điều độ.`,
+  {
+    id: 'hoa-ky-tai-tat-ach-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tật Ách'],
+    trangThai: ['Đắc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Tật Ách:** sức đề kháng tốt, khả năng **tự chữa
+lành cao** dù có vấn đề sức khỏe tiềm ẩn. Sinh hoạt điều độ.`,
   },
 
   // ============================================================
@@ -330,23 +556,46 @@ sức khỏe tiềm ẩn. Sinh hoạt điều độ.`,
     title: 'Hóa Kỵ tại Tài Bạch',
     sao: ['Hóa Kỵ'],
     cung: ['Tài Bạch'],
-    doUuTien: 78,
+    doUuTien: 75,
     tomTat: `⚠️ **Hóa Kỵ tại Tài Bạch:** dễ **hao tán tiền bạc**.
-
-⚠️ **+ Phục Binh:** dễ bị **trộm cắp**, bị **cướp công cướp của**.
 
 ⚠️ **Đặt nặng vấn đề tiền bạc, lợi ích bản thân** → **tai tiếng thị phi kiện
 tụng** liên quan tiền bạc.
 
 🌟 Có thể kiếm tiền từ **tranh chấp / kiện tụng** — làm nghề **thẩm phán, luật sư**.
 
-⚠️ Là ám tinh → chỉ thấy **lợi ích NGẮN HẠN**, bỏ qua **lợi ích lâu dài**.
+⚠️ Là ám tinh → chỉ thấy **lợi ích NGẮN HẠN**, bỏ qua **lợi ích lâu dài**.`,
+  },
 
-🌟 **Đắc địa:** **kiểm soát tài chính tốt, thận trọng chi tiêu**, tích lũy **âm
-thầm không phô trương**.
+  {
+    id: 'hoa-ky-tai-tai-bach-phuc-binh',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Phục Binh'],
+    doUuTien: 72,
+    tomTat: `⚠️ **Hóa Kỵ tại Tài Bạch + Phục Binh:** dễ bị **trộm cắp**, bị **cướp công
+cướp của**.`,
+  },
 
-⚠️ **Hãm địa + Không Kiếp / Kình Dương:** **rủi ro pháp lý tài chính, lừa đảo,
-thua lỗ lớn** do thiếu minh bạch.`,
+  {
+    id: 'hoa-ky-tai-tai-bach-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Đắc'],
+    doUuTien: 72,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Tài Bạch:** **kiểm soát tài chính tốt, thận trọng
+chi tiêu**, tích lũy **âm thầm không phô trương**.`,
+  },
+
+  {
+    id: 'hoa-ky-tai-tai-bach-ham-khong-kiep-kinh',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Hãm'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Kỵ Hãm địa + Không Kiếp / Kình Dương tại Tài Bạch:** **rủi ro
+pháp lý tài chính, lừa đảo, thua lỗ lớn** do thiếu minh bạch.`,
   },
 
   // ============================================================
@@ -357,19 +606,51 @@ thua lỗ lớn** do thiếu minh bạch.`,
     title: 'Hóa Kỵ tại Tử Tức',
     sao: ['Hóa Kỵ'],
     cung: ['Tử Tức'],
-    doUuTien: 75,
+    doUuTien: 72,
     tomTat: `⚠️ **Hóa Kỵ tại Tử Tức:** **cha mẹ - con cái xung khắc**, không hòa
-thuận, **tranh giành thiệt hơn**.
+thuận, **tranh giành thiệt hơn**.`,
+  },
 
-⚠️ **+ Sát bại tinh:** **ÍT CON, con khó nuôi, khó dạy**, về già khó được con
-phụng dưỡng. Con dễ mắc **thị phi, kiện tụng, điều tiếng**, hoặc **bệnh thần kinh**.
+  {
+    id: 'hoa-ky-tai-tu-tuc-sat-bai-tinh',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Kỵ tại Tử Tức + Sát bại tinh:** **ÍT CON, con khó nuôi, khó dạy**,
+về già khó được con phụng dưỡng. Con dễ mắc **thị phi, kiện tụng, điều tiếng**,
+hoặc **bệnh thần kinh**.`,
+  },
 
-🌟 **Đắc địa:** **trách nhiệm và thận trọng** chăm con, coi trọng phát triển
-hậu duệ. **Vun đắp âm thầm**. **+ Thiên Phủ / Tả Hữu / Văn Xương:** con **giỏi
-giang, hiếu thảo, niềm tự hào**.
+  {
+    id: 'hoa-ky-tai-tu-tuc-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tử Tức'],
+    trangThai: ['Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Tử Tức:** **trách nhiệm và thận trọng** chăm con,
+coi trọng phát triển hậu duệ. **Vun đắp âm thầm**.`,
+  },
 
-⚠️ **Hãm địa:** khó sinh / nuôi, con cái **vấn đề sức khỏe / tinh thần**, quan
-hệ **xa cách, hiểu lầm kéo dài**.`,
+  {
+    id: 'hoa-ky-tai-tu-tuc-dac-phu-ta-huu-xuong',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tử Tức'],
+    trangThai: ['Đắc'],
+    ketHop: ['Thiên Phủ', 'Tả Phù', 'Hữu Bật', 'Văn Xương'],
+    doUuTien: 68,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Tử Tức + Thiên Phủ / Tả Hữu / Văn Xương:** con
+**giỏi giang, hiếu thảo, niềm tự hào**.`,
+  },
+
+  {
+    id: 'hoa-ky-tai-tu-tuc-ham',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tử Tức'],
+    trangThai: ['Hãm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Kỵ Hãm địa tại Tử Tức:** khó sinh / nuôi, con cái **vấn đề sức
+khỏe / tinh thần**, quan hệ **xa cách, hiểu lầm kéo dài**.`,
   },
 
   // ============================================================
@@ -380,22 +661,58 @@ hệ **xa cách, hiểu lầm kéo dài**.`,
     title: 'Hóa Kỵ tại Phu Thê',
     sao: ['Hóa Kỵ'],
     cung: ['Phu Thê'],
-    doUuTien: 80,
+    doUuTien: 78,
     tomTat: `⚠️ **Hóa Kỵ tại Phu Thê:** vợ chồng **cãi vã, bất hòa thường xuyên**,
-**hay ghen, nghi kỵ, soi xét nhau từng tí**. Nhân duyên giảm.
+**hay ghen, nghi kỵ, soi xét nhau từng tí**. Nhân duyên giảm.`,
+  },
 
-⚠️ **+ Phục Binh:** vợ chồng **bất hòa, lúc lấy gặp cản trở, mưu hại lẫn nhau**
-hoặc **bị người ngoài chia rẽ**.
+  {
+    id: 'hoa-ky-tai-phu-the-phuc-binh',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phu Thê'],
+    ketHop: ['Phục Binh'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hóa Kỵ tại Phu Thê + Phục Binh:** vợ chồng **bất hòa, lúc lấy gặp cản
+trở, mưu hại lẫn nhau** hoặc **bị người ngoài chia rẽ**.`,
+  },
 
-⚠️ **+ Đào Hoa / Hồng Loan:** **NGOẠI TÌNH, lừa dối nhau**.
+  {
+    id: 'hoa-ky-tai-phu-the-dao-hong',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phu Thê'],
+    ketHop: ['Đào Hoa', 'Hồng Loan'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hóa Kỵ tại Phu Thê + Đào Hoa / Hồng Loan:** **NGOẠI TÌNH, lừa dối nhau**.`,
+  },
 
-⚠️ **+ Thiên Riêu:** vợ/chồng **ham chơi, phóng đãng**, dễ có **người khác bên ngoài**.
+  {
+    id: 'hoa-ky-tai-phu-the-thien-rieu',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Riêu'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hóa Kỵ tại Phu Thê + Thiên Riêu:** vợ/chồng **ham chơi, phóng đãng**,
+dễ có **người khác bên ngoài**.`,
+  },
 
-⚠️ **+ Địa Kiếp / Thiên Hình / Thiên Riêu:** một người có **âm mưu hại vợ/chồng**,
-thậm chí **ý định GIẾT** người phối ngẫu.
+  {
+    id: 'hoa-ky-tai-phu-the-kiep-hinh-rieu',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phu Thê'],
+    ketHop: ['Địa Kiếp', 'Thiên Hình', 'Thiên Riêu'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hóa Kỵ tại Phu Thê + Địa Kiếp / Thiên Hình / Thiên Riêu:** một người
+có **âm mưu hại vợ/chồng**, thậm chí **ý định GIẾT** người phối ngẫu.`,
+  },
 
-🌟 **Đắc địa:** kín đáo, giữ khoảng cách tế nhị, **dung hòa nhường nhịn**. Vợ
-chồng **"nghĩa nặng tình sâu"**, âm thầm bền vững.`,
+  {
+    id: 'hoa-ky-tai-phu-the-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Phu Thê'],
+    trangThai: ['Đắc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Phu Thê:** kín đáo, giữ khoảng cách tế nhị, **dung
+hòa nhường nhịn**. Vợ chồng **"nghĩa nặng tình sâu"**, âm thầm bền vững.`,
   },
 
   // ============================================================
@@ -406,17 +723,32 @@ chồng **"nghĩa nặng tình sâu"**, âm thầm bền vững.`,
     title: 'Hóa Kỵ tại Huynh Đệ',
     sao: ['Hóa Kỵ'],
     cung: ['Huynh Đệ'],
-    doUuTien: 75,
+    doUuTien: 72,
     tomTat: `⚠️ **Hóa Kỵ tại Huynh Đệ:** anh chị em **xung khắc, bất hòa, tranh
 giành tài sản**, khó ở chung, thậm chí **kiện tụng lẫn nhau**.
 
-⚠️ **Âm dương nghịch lý:** mệnh tạo **tuổi nhỏ gặp nhiều tai họa, tai tiếng**.
+⚠️ **Âm dương nghịch lý:** mệnh tạo **tuổi nhỏ gặp nhiều tai họa, tai tiếng**.`,
+  },
 
-🌟 **Đắc địa:** anh chị em **hòa thuận, sẵn sàng giúp đỡ**. Đương số bình tĩnh
-thận trọng, đứng ra **hòa giải tranh chấp**.
+  {
+    id: 'hoa-ky-tai-huynh-de-dac',
+    sao: ['Hóa Kỵ'],
+    cung: ['Huynh Đệ'],
+    trangThai: ['Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Kỵ Đắc địa tại Huynh Đệ:** anh chị em **hòa thuận, sẵn sàng giúp
+đỡ**. Đương số bình tĩnh thận trọng, đứng ra **hòa giải tranh chấp**.`,
+  },
 
-⚠️ **Hãm địa:** quan hệ **căng thẳng**, có thể gặp **rắc rối pháp lý / tài sản**
-liên quan **huyết thống**. Cảm giác **cô lập**, thiếu hỗ trợ khi khó khăn hoạn nạn.`,
+  {
+    id: 'hoa-ky-tai-huynh-de-ham',
+    sao: ['Hóa Kỵ'],
+    cung: ['Huynh Đệ'],
+    trangThai: ['Hãm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Kỵ Hãm địa tại Huynh Đệ:** quan hệ **căng thẳng**, có thể gặp
+**rắc rối pháp lý / tài sản** liên quan **huyết thống**. Cảm giác **cô lập**,
+thiếu hỗ trợ khi khó khăn hoạn nạn.`,
   },
 
   // ============================================================

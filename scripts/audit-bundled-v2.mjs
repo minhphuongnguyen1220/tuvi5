@@ -134,23 +134,67 @@ for await (const file of walk(ROOT)) {
     const tomTat = getTemplateField(ent.src, 'tomTat') || '';
     const chiTiet = getTemplateField(ent.src, 'chiTiet') || '';
     const content = tomTat + '\n' + chiTiet;
+    const saoField = getArrayField(ent.src, 'sao') || [];
+    const ketHopFieldArr = getArrayField(ent.src, 'ketHop') || [];
 
     const flags = [];
 
     // 1. GENDER — chỉ flag nếu entry CHƯA có gioiTinh field nhưng content nhắc giới tính.
     // Nếu entry CÓ gioiTinh, content nhắc giới tính tương ứng là OK.
+    // Bỏ qua "phụ nữ" / "đàn ông" khi đứng sau verb chỉ "đối tượng" thay vì chủ thể.
     if (!gioiTinhStr) {
       const genderTerms = ['Nữ mệnh', 'Nam mệnh', 'nữ mệnh', 'nam mệnh', 'Phụ nữ', 'phụ nữ', 'Đàn ông', 'đàn ông'];
-      const genderHits = uniq(genderTerms.filter(t => content.includes(t)));
+      const objectVerbs = /(?:thu hút|hấp dẫn|với|đối với|dành cho|tặng|kèm theo|cùng với|gặp|yêu|lấy|cưới|chiều|chinh phục|lừa|dụ)\s+$/i;
+      const genderHits = uniq(genderTerms.filter(t => {
+        if (!content.includes(t)) return false;
+        // Skip "phụ nữ"/"đàn ông" nếu trước đó có verb chỉ-đối-tượng (FP).
+        if (/phụ nữ|đàn ông/i.test(t)) {
+          const idx = content.indexOf(t);
+          const before = content.slice(Math.max(0, idx - 30), idx);
+          if (objectVerbs.test(before)) return false;
+        }
+        return true;
+      }));
       if (genderHits.length > 0) {
         flags.push({ kind: 'GENDER', detail: genderHits.join(', '), snippet: snippetAround(content, genderHits[0]) });
       }
     }
 
     // 2. CROSS-CUNG — content có tên cung X mà X không trong cungField
+    // FP filters:
+    //  - Bỏ qua nếu cung name trùng tên 1 sao trong saoField hoặc ketHopField (vd sao Phúc Đức cùng tên cung Phúc Đức).
+    //  - Bỏ qua "Mệnh" nếu đi kèm trong idiom "Mệnh - Tài - Quan", "Mệnh/Tài/Quan", "Mệnh thân", "thủ Mệnh tại".
+    const saoNames = new Set([...saoField, ...ketHopFieldArr]);
     const cungInContent = uniq(CUNG_NAMES.filter(name => {
+      // Skip cung name nếu trùng sao name (sao-cung name overlap, vd Phúc Đức).
+      if (saoNames.has(name)) return false;
       const re = new RegExp(`(?:^|[^A-Za-zÀ-ỹ])${name}(?:[^A-Za-zÀ-ỹ]|$)`, 'u');
-      return re.test(content);
+      if (!re.test(content)) return false;
+      // FP idiom check cho "Mệnh".
+      if (name === 'Mệnh') {
+        const idioms = [
+          /Mệnh\s*[-–\/]\s*(?:Tài|Quan|Phúc|Thân)/u,
+          /(?:Tài|Quan|Phúc|Thân)\s*[-–\/]\s*Mệnh/u,
+          /thủ\s+Mệnh\s+tại/iu,
+          /Mệnh\s+(?:thân|VCD)/iu,
+          /(?:bản|gia)\s+Mệnh/iu,
+        ];
+        const stripped = content.replace(/\s+/g, ' ');
+        const idiomMatch = idioms.some(re2 => re2.test(stripped));
+        // Nếu CHỈ xuất hiện trong idiom, không flag. Cần check xem có dòng nào nhắc Mệnh ngoài idiom không.
+        if (idiomMatch) {
+          // Đếm số mention "Mệnh" — nếu chỉ 1 và nó nằm trong idiom thì skip.
+          const allMentions = [...stripped.matchAll(/(?:^|[^A-Za-zÀ-ỹ])Mệnh(?:[^A-Za-zÀ-ỹ]|$)/gu)];
+          let nonIdiomCount = 0;
+          for (const m of allMentions) {
+            const ctx = stripped.slice(Math.max(0, m.index - 20), m.index + 30);
+            const isIdiom = idioms.some(re2 => re2.test(ctx));
+            if (!isIdiom) nonIdiomCount++;
+          }
+          if (nonIdiomCount === 0) return false;
+        }
+      }
+      return true;
     }));
     const crossCung = cungInContent.filter(c => !cungField.includes(c));
     if (crossCung.length > 0) {
@@ -158,9 +202,34 @@ for await (const file of walk(ROOT)) {
     }
 
     // 3. CROSS-CHI — content có tên chi X mà X không trong chiField
+    // FP filters:
+    //  - Bỏ qua "Thân" khi là phần của "thân xác|thể|hình|tín|phụ|mẫu|phận|nhân|mật|thiết" (chỉ thân thể chứ không phải chi Thân).
+    //  - Bỏ qua chi mention nếu đi sau "Tuổi" (chỉ năm sinh, không phải vị trí cung).
     const chiInContent = uniq(CHI_NAMES.filter(name => {
       const re = new RegExp(`(?:^|[^A-Za-zÀ-ỹ])${name}(?:[^A-Za-zÀ-ỹ]|$)`, 'u');
-      return re.test(content);
+      if (!re.test(content)) return false;
+      if (name === 'Thân') {
+        // Bỏ qua nếu MỌI mention "Thân" đều theo sau là body word.
+        const bodyWords = /^\s*(?:xác|thể|hình|tín|phụ|mẫu|phận|nhân|mật|thiết|cận|tâm|chinh)/u;
+        const mentions = [...content.matchAll(/(?:^|[^A-Za-zÀ-ỹ])Thân([^A-Za-zÀ-ỹ]|$)/gu)];
+        let realMention = false;
+        for (const m of mentions) {
+          const after = content.slice(m.index + m[0].length - 1, m.index + m[0].length + 15);
+          if (!bodyWords.test(after)) realMention = true;
+        }
+        if (!realMention) return false;
+      }
+      // Bỏ qua nếu chi đi sau "Tuổi" (năm sinh, không phải cung).
+      const stripped = content.replace(/\s+/g, ' ');
+      const tuoiRe = new RegExp(`Tuổi[^.]{0,80}\\b${name}\\b`, 'iu');
+      const allRe = new RegExp(`(?:^|[^A-Za-zÀ-ỹ])${name}(?:[^A-Za-zÀ-ỹ]|$)`, 'gu');
+      const allMatches = [...stripped.matchAll(allRe)];
+      const allInTuoi = allMatches.every(m => {
+        const before = stripped.slice(Math.max(0, m.index - 80), m.index);
+        return /Tuổi[^.]{0,80}$/iu.test(before);
+      });
+      if (allInTuoi && allMatches.length > 0) return false;
+      return true;
     }));
     const crossChi = chiInContent.filter(c => !chiField.includes(c));
     if (crossChi.length > 0) {

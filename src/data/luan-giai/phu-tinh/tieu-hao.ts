@@ -98,19 +98,43 @@ tóp**, thể chất không khỏe.
 - **Không bền chí, chóng chán**
 - Đặc điểm này càng mạnh khi đi cùng **sao có tính ĐỘNG** (Mã, Đồng...)
 
-⚡ **Đặc trưng tiêu xài:**
-- **Hào phóng**, **thích tiêu pha**
-- 🌟 **Hao ĐẮC ĐỊA:** tiêu xài rộng rãi nhưng **hết tiền lại có** — thông minh,
-  ham học, **muốn trông xa biết rộng**
-- ⚠️ **Hao HÃM ĐỊA + Hóa Kỵ / Phá Quân / sát tinh:** tiền tài hao tán → túng
-  thiếu, **thất thường**
+⚡ **Đặc trưng tiêu xài:** **Hào phóng**, **thích tiêu pha**.
 
 ⚡ Người **HAY LY HƯƠNG LẬP NGHIỆP**, thích đi đây đi đó, nghề **lưu động** —
-xuất nhập khẩu, vận tải.
+xuất nhập khẩu, vận tải.`,
+  },
 
-⚠️ **Hao HÃM + sát bại tinh:** dễ có **đam mê** (cờ bạc, rượu chè, thú vui)
-hoặc **bị ghiền** (rượu, thuốc...) — đam mê chỉ trong 1 giai đoạn rồi chuyển
-sang đam mê khác.`,
+  {
+    id: 'tieu-hao-tai-menh-dac',
+    sao: ['Tiểu Hao'],
+    cung: ['Mệnh'],
+    trangThai: ['Đắc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Tiểu Hao Đắc địa tại Mệnh:** tiêu xài rộng rãi nhưng **hết tiền lại
+có** — thông minh, ham học, **muốn trông xa biết rộng**.`,
+  },
+
+  {
+    id: 'tieu-hao-tai-menh-ham-ky-pha-sat',
+    sao: ['Tiểu Hao'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    ketHop: ['Hóa Kỵ', 'Phá Quân', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa + Hóa Kỵ / Phá Quân / sát tinh tại Mệnh:** tiền tài
+hao tán → túng thiếu, **thất thường**.`,
+  },
+
+  {
+    id: 'tieu-hao-tai-menh-ham-sat-bai-tinh',
+    sao: ['Tiểu Hao'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao Hãm + sát bại tinh tại Mệnh:** dễ có **đam mê** (cờ bạc,
+rượu chè, thú vui) hoặc **bị ghiền** (rượu, thuốc...) — đam mê chỉ trong 1 giai
+đoạn rồi chuyển sang đam mê khác.`,
   },
 
   // ============================================================
@@ -121,18 +145,40 @@ sang đam mê khác.`,
     title: 'Tiểu Hao tại Phụ Mẫu',
     sao: ['Tiểu Hao'],
     cung: ['Phụ Mẫu'],
-    doUuTien: 70,
+    doUuTien: 68,
     tomTat: `**Tiểu Hao cư Phụ Mẫu:** cha mẹ **không sống gần quê cha đất tổ**,
-phải **thay đổi nơi ăn chốn ở, nghề nghiệp**.
+phải **thay đổi nơi ăn chốn ở, nghề nghiệp**.`,
+  },
 
-⚠️ **Hãm địa:** cha mẹ **gầy gò, vất vả**, đồng tiền **tán tụ thất thường**.
+  {
+    id: 'tieu-hao-tai-phu-mau-ham',
+    sao: ['Tiểu Hao'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Hãm'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa tại Phụ Mẫu:** cha mẹ **gầy gò, vất vả**, đồng tiền
+**tán tụ thất thường**.`,
+  },
 
-🌟 **Đắc địa:** giảm bớt tính xấu — cha mẹ thường làm **đầu tư, kinh doanh
-buôn bán**. Dòng tiền giữa đương số và cha mẹ nhiều — có thể được cha mẹ tạo
-điều kiện đầu tư hoặc giúp đỡ ngược lại.
+  {
+    id: 'tieu-hao-tai-phu-mau-dac',
+    sao: ['Tiểu Hao'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Đắc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tiểu Hao Đắc địa tại Phụ Mẫu:** giảm bớt tính xấu — cha mẹ thường làm
+**đầu tư, kinh doanh buôn bán**. Dòng tiền giữa đương số và cha mẹ nhiều — có
+thể được cha mẹ tạo điều kiện đầu tư hoặc giúp đỡ ngược lại.`,
+  },
 
-⚠️ **+ Thiên Hình / Thiên Việt:** cha mẹ **khó tính, nghiêm khắc**, hay **ép
-buộc con cái** phải nghe theo.`,
+  {
+    id: 'tieu-hao-tai-phu-mau-hinh-viet',
+    sao: ['Tiểu Hao'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Hình', 'Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tiểu Hao tại Phụ Mẫu + Thiên Hình / Thiên Việt:** cha mẹ **khó tính,
+nghiêm khắc**, hay **ép buộc con cái** phải nghe theo.`,
   },
 
   // ============================================================
@@ -143,22 +189,47 @@ buộc con cái** phải nghe theo.`,
     title: 'Tiểu Hao tại Phúc Đức',
     sao: ['Tiểu Hao'],
     cung: ['Phúc Đức'],
-    doUuTien: 72,
-    tomTat: `⚠️ **Tiểu Hao HÃM cư Phúc Đức:** **ĐIỂM KỴ** — làm **giảm phúc phần,
-may mắn** tổ tiên để lại.
-
-⚠️ Trong dòng họ **nhiều người nghèo túng, bần hàn**, phải **tha hương lập
-nghiệp** — "tha hương cầu thực", mỗi người một nơi.
-
-⚠️ **+ Địa Kiếp:** đương số **cô độc, vất vả** hoặc nhiều **trách nhiệm nặng
-nề** với họ hàng. Dễ vào con đường **kiếm tiền không chính nghĩa**, gây **hao
-tổn phước đức**.
-
-🌟 **Tiểu Hao ĐẮC ĐỊA cư Phúc:** người có **PHƯỚC ĐỨC TỐT**, được may mắn về
-tiền của — biết **dùng tiền làm phúc**, tôn bồi phúc đức cho mình và dòng tộc.
+    doUuTien: 68,
+    tomTat: `**Tiểu Hao cư Phúc Đức:** ảnh hưởng phúc phần dòng họ — biểu hiện rõ theo
+trạng thái đắc / hãm.
 
 ⚡ **Đặc trưng mộ phần:** xung quanh mồ mả tổ tiên có **mạch nước**, **dòng
 suối, dòng sông** chạy qua. Tùy đắc/hãm để xác định tốt xấu.`,
+  },
+
+  {
+    id: 'tieu-hao-tai-phuc-duc-ham',
+    sao: ['Tiểu Hao'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Hãm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa cư Phúc Đức:** **ĐIỂM KỴ** — làm **giảm phúc phần,
+may mắn** tổ tiên để lại.
+
+⚠️ Trong dòng họ **nhiều người nghèo túng, bần hàn**, phải **tha hương lập
+nghiệp** — "tha hương cầu thực", mỗi người một nơi.`,
+  },
+
+  {
+    id: 'tieu-hao-tai-phuc-duc-dia-kiep',
+    sao: ['Tiểu Hao'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tiểu Hao tại Phúc Đức + Địa Kiếp:** đương số **cô độc, vất vả** hoặc
+nhiều **trách nhiệm nặng nề** với họ hàng. Dễ vào con đường **kiếm tiền không
+chính nghĩa**, gây **hao tổn phước đức**.`,
+  },
+
+  {
+    id: 'tieu-hao-tai-phuc-duc-dac',
+    sao: ['Tiểu Hao'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tiểu Hao Đắc địa cư Phúc Đức:** người có **PHƯỚC ĐỨC TỐT**, được may
+mắn về tiền của — biết **dùng tiền làm phúc**, tôn bồi phúc đức cho mình và
+dòng tộc.`,
   },
 
   // ============================================================
@@ -169,23 +240,59 @@ suối, dòng sông** chạy qua. Tùy đắc/hãm để xác định tốt xấ
     title: 'Tiểu Hao tại Điền Trạch',
     sao: ['Tiểu Hao'],
     cung: ['Điền Trạch'],
-    doUuTien: 75,
-    tomTat: `⚠️ **Tiểu Hao HÃM cư Điền:** **TÁN nhiều TỤ ít**, khó giàu có (đặc
-biệt + **Không Kiếp**). Dù có cũng phải **bán** hoặc **hao tốn tài sản**.
+    doUuTien: 70,
+    tomTat: `**Tiểu Hao cư Điền Trạch:** ảnh hưởng đất đai gia sản — biểu hiện rõ theo
+trạng thái đắc / hãm.
 
 ⚡ Hay **hao tốn vì dọn nhà cửa, thay đổi chỗ ở**, đổi nơi làm việc.
 
-🌟 **Tiểu Hao ĐẮC ĐỊA cư Điền:** vẫn hay thay đổi nhà cửa nhưng trên vị thế
-**buôn bán, kinh doanh BẤT ĐỘNG SẢN có lãi**, nhà ngày càng **TO HƠN**.
+⚡ **Đặc trưng nhà:** gần **dòng sông, dòng suối, mạch nước ngầm** chạy qua,
+**nhà 2 mặt tiền**.`,
+  },
+
+  {
+    id: 'tieu-hao-tai-dien-trach-ham',
+    sao: ['Tiểu Hao'],
+    cung: ['Điền Trạch'],
+    trangThai: ['Hãm'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa cư Điền Trạch:** **TÁN nhiều TỤ ít**, khó giàu có. Dù
+có cũng phải **bán** hoặc **hao tốn tài sản**.`,
+  },
+
+  {
+    id: 'tieu-hao-tai-dien-trach-ham-khong-kiep',
+    sao: ['Tiểu Hao'],
+    cung: ['Điền Trạch'],
+    trangThai: ['Hãm'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa + Không Kiếp tại Điền Trạch:** **TÁN nhiều TỤ ít**,
+khó giàu có nặng nề. Dù có cũng phải **bán** hoặc **hao tốn tài sản**.`,
+  },
+
+  {
+    id: 'tieu-hao-tai-dien-trach-dac',
+    sao: ['Tiểu Hao'],
+    cung: ['Điền Trạch'],
+    trangThai: ['Đắc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Tiểu Hao Đắc địa cư Điền Trạch:** vẫn hay thay đổi nhà cửa nhưng trên
+vị thế **buôn bán, kinh doanh BẤT ĐỘNG SẢN có lãi**, nhà ngày càng **TO HƠN**.
 
 🌟 Người dễ **mở xưởng sản xuất, chế tạo** các nguồn hàng số lượng lớn, ra
-vào liên tục.
+vào liên tục.`,
+  },
 
-⚡ **Đặc trưng nhà:** gần **dòng sông, dòng suối, mạch nước ngầm** chạy qua,
-**nhà 2 mặt tiền**.
-
-⚠️ **+ Địa Kiếp:** "thêm dầu vào lửa" → dễ mắc **sai lầm trong mua bán BĐS**,
-**đầu tư sai giá trị thực tế**, gây thiệt hại kinh tế.`,
+  {
+    id: 'tieu-hao-tai-dien-trach-dia-kiep',
+    sao: ['Tiểu Hao'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao tại Điền Trạch + Địa Kiếp:** "thêm dầu vào lửa" → dễ mắc
+**sai lầm trong mua bán BĐS**, **đầu tư sai giá trị thực tế**, gây thiệt hại
+kinh tế.`,
   },
 
   // ============================================================
@@ -196,17 +303,32 @@ vào liên tục.
     title: 'Tiểu Hao tại Quan Lộc',
     sao: ['Tiểu Hao'],
     cung: ['Quan Lộc'],
-    doUuTien: 75,
-    tomTat: `⚡ **Tiểu Hao cư Quan:** công việc có **tính LƯU ĐỘNG**, hay **thay
+    doUuTien: 73,
+    tomTat: `⚡ **Tiểu Hao cư Quan Lộc:** công việc có **tính LƯU ĐỘNG**, hay **thay
 đổi chỗ làm**, đổi nghề nghiệp.
 
 🌟 **Phù hợp:** **xuất nhập khẩu, giao thông, đầu tư, vận tải, thương mại**
-quy mô lớn.
+quy mô lớn.`,
+  },
 
-⚠️ **Tiểu Hao HÃM:** cản trở **công danh, sự nghiệp** — chí hướng **không bền**,
-hoặc gặp hoàn cảnh phải thay đổi, **khó nhất tâm với một công việc**.
+  {
+    id: 'tieu-hao-tai-quan-loc-ham',
+    sao: ['Tiểu Hao'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Hãm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa cư Quan Lộc:** cản trở **công danh, sự nghiệp** —
+chí hướng **không bền**, hoặc gặp hoàn cảnh phải thay đổi, **khó nhất tâm với
+một công việc**.`,
+  },
 
-🌟 **Cách đặc biệt:** Lưỡng Hao + Cự Môn + Vũ Khúc + Hóa Quyền → **TƯỚNG TRẤN
+  {
+    id: 'tieu-hao-tai-quan-loc-cu-mon-vu-khuc-quyen',
+    sao: ['Tiểu Hao', 'Đại Hao'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Cự Môn', 'Vũ Khúc', 'Hóa Quyền'],
+    doUuTien: 78,
+    tomTat: `🌟 **Lưỡng Hao + Cự Môn + Vũ Khúc + Hóa Quyền tại Quan Lộc:** **TƯỚNG TRẤN
 THỦ một phương bên ngoài** (quyền lực ở phương xa).`,
   },
 
@@ -218,20 +340,51 @@ THỦ một phương bên ngoài** (quyền lực ở phương xa).`,
     title: 'Tiểu Hao tại Nô Bộc',
     sao: ['Tiểu Hao'],
     cung: ['Nô Bộc'],
-    doUuTien: 70,
-    tomTat: `⚠️ **Tiểu Hao cư Nô:** **khó thuê mướn người làm**, bị **tôi tớ trộm
+    doUuTien: 68,
+    tomTat: `⚠️ **Tiểu Hao cư Nô Bộc:** **khó thuê mướn người làm**, bị **tôi tớ trộm
 cắp**, làm **hao tốn của cải** hoặc bị **người dưới, bạn bè ăn chặn**.
 
 ⚡ Hay **thay đổi bạn bè, đồng nghiệp**, ít chơi lâu bền — khi nhiều bạn khi
-không có ai.
+không có ai.`,
+  },
 
-⚡ Đầu tư nhiều cho bạn bè, các mối quan hệ:
-- 🌟 **Đắc:** đầu tư có **lợi trở lại**
-- ⚠️ **Hãm:** **thất thoát, hao tán** không hợp lý
+  {
+    id: 'tieu-hao-tai-no-boc-dac',
+    sao: ['Tiểu Hao'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Đắc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tiểu Hao Đắc địa tại Nô Bộc:** đầu tư cho bạn bè, các mối quan hệ có
+**lợi trở lại**.`,
+  },
 
-⚠️ **+ Quan Phù / Quan Phủ:** bị **kiện cáo, tranh tụng** làm hao tán.
+  {
+    id: 'tieu-hao-tai-no-boc-ham',
+    sao: ['Tiểu Hao'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Hãm'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa tại Nô Bộc:** đầu tư cho bạn bè, các mối quan hệ
+**thất thoát, hao tán** không hợp lý.`,
+  },
 
-⚠️ **+ Sát Phá Tham + Thiên Hình:** **bị cướp**.`,
+  {
+    id: 'tieu-hao-tai-no-boc-quan-phu-phu',
+    sao: ['Tiểu Hao'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Quan Phù', 'Quan Phủ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tiểu Hao tại Nô Bộc + Quan Phù / Quan Phủ:** bị **kiện cáo, tranh
+tụng** làm hao tán.`,
+  },
+
+  {
+    id: 'tieu-hao-tai-no-boc-sat-pha-tham-hinh',
+    sao: ['Tiểu Hao'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thất Sát', 'Phá Quân', 'Tham Lang', 'Thiên Hình'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tiểu Hao tại Nô Bộc + Sát Phá Tham + Thiên Hình:** **bị cướp**.`,
   },
 
   // ============================================================
@@ -242,16 +395,23 @@ không có ai.
     title: 'Tiểu Hao tại Thiên Di',
     sao: ['Tiểu Hao'],
     cung: ['Thiên Di'],
-    doUuTien: 70,
+    doUuTien: 68,
     tomTat: `⚠️ **Tiểu Hao cư Thiên Di:** ra ngoài hay gặp **chuyện phải tốn tiền,
 tổn hao** — **tai nạn, mất mát**, các khoản chi **ngoài dự tính**.
 
 ⚡ Người thường phải **THA HƯƠNG LẬP NGHIỆP**, **thay đổi chỗ ở** nhiều lần,
-khó lâu bền ở một nơi.
+khó lâu bền ở một nơi.`,
+  },
 
-🌟 **Tiểu Hao ĐẮC ĐỊA:** kinh doanh **PHÁT ĐẠT**, **"một vốn bốn lời"**, thực
-hiện giao dịch tài chính lớn — sử dụng tiền bạc làm **công cụ tạo mối quan
-hệ làm ăn**.`,
+  {
+    id: 'tieu-hao-tai-thien-di-dac',
+    sao: ['Tiểu Hao'],
+    cung: ['Thiên Di'],
+    trangThai: ['Đắc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tiểu Hao Đắc địa tại Thiên Di:** kinh doanh **PHÁT ĐẠT**, **"một vốn
+bốn lời"**, thực hiện giao dịch tài chính lớn — sử dụng tiền bạc làm **công cụ
+tạo mối quan hệ làm ăn**.`,
   },
 
   // ============================================================
@@ -262,20 +422,41 @@ hệ làm ăn**.`,
     title: 'Tiểu Hao tại Tật Ách',
     sao: ['Tiểu Hao'],
     cung: ['Tật Ách'],
-    doUuTien: 75,
-    tomTat: `🌟 **Tiểu Hao cư Tật:** làm **HAO TRỪ tật bệnh** — đẩy lùi bệnh tật,
+    doUuTien: 73,
+    tomTat: `🌟 **Tiểu Hao cư Tật Ách:** làm **HAO TRỪ tật bệnh** — đẩy lùi bệnh tật,
 nhất là **bệnh mãn tính**. Có thể **dùng tiền chữa chạy**.
 
-⚠️ **NGOẠI LỆ — Hao ĐẮC ĐỊA tại Tật:** không tốt — gây **TÍCH TỤ, ứ đọng** tai
-họa, bệnh tật → bệnh **bùng phát DỮ DỘI, dồn dập**.
+⚡ **Bệnh thường gặp:** liên quan **bộ phận tiêu hóa, đường ruột, gan, dạ dày**.`,
+  },
 
-⚡ **Bệnh thường gặp:** liên quan **bộ phận tiêu hóa, đường ruột, gan, dạ dày**.
+  {
+    id: 'tieu-hao-tai-tat-ach-dac',
+    sao: ['Tiểu Hao'],
+    cung: ['Tật Ách'],
+    trangThai: ['Đắc'],
+    doUuTien: 70,
+    tomTat: `⚠️ **NGOẠI LỆ — Tiểu Hao Đắc địa tại Tật Ách:** không tốt — gây **TÍCH TỤ,
+ứ đọng** tai họa, bệnh tật → bệnh **bùng phát DỮ DỘI, dồn dập**.`,
+  },
 
-⚠️ **+ Phá Quân / Song Hao / Thất Sát / Mộc Dục / Hóa Kỵ:** thường bị **UNG
-NHỌT, UNG THƯ phải mổ xẻ**.
+  {
+    id: 'tieu-hao-tai-tat-ach-pha-quan-song-hao-sat-moc-ky',
+    sao: ['Tiểu Hao'],
+    cung: ['Tật Ách'],
+    ketHop: ['Phá Quân', 'Đại Hao', 'Thất Sát', 'Mộc Dục', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao tại Tật Ách + Phá Quân / Song Hao / Thất Sát / Mộc Dục / Hóa
+Kỵ:** thường bị **UNG NHỌT, UNG THƯ phải mổ xẻ**.`,
+  },
 
-⚠️ **+ Kình Đà / Không Kiếp / Hóa Kỵ:** vì đam mê thứ gì đó (cờ bạc, rượu chè)
-mà sinh ra bệnh.`,
+  {
+    id: 'tieu-hao-tai-tat-ach-kinh-da-khong-kiep-ky',
+    sao: ['Tiểu Hao'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao tại Tật Ách + Kình Đà / Không Kiếp / Hóa Kỵ:** vì đam mê thứ
+gì đó (cờ bạc, rượu chè) mà sinh ra bệnh.`,
   },
 
   // ============================================================
@@ -286,24 +467,72 @@ mà sinh ra bệnh.`,
     title: 'Tiểu Hao tại Tài Bạch',
     sao: ['Tiểu Hao'],
     cung: ['Tài Bạch'],
-    doUuTien: 80,
-    tomTat: `⚠️ **Tiểu Hao cư Tài (HÃM):** **TÁN TÀI, HAO TÀI**, **nghèo túng**,
-có tiền phải **tiêu luôn**, **khó tích trữ**.
+    doUuTien: 73,
+    tomTat: `**Tiểu Hao cư Tài Bạch:** ảnh hưởng tài chính rất rõ — biểu hiện theo
+trạng thái đắc / hãm.`,
+  },
 
-⚠️ **+ Đào / Hồng:** tốn tiền vì **nhân tình, làm đẹp**.
+  {
+    id: 'tieu-hao-ham-tai-bach-dien-trach-phuc-duc',
+    title: 'Tiểu Hao Hãm tại Tài / Điền / Phúc - rất xấu',
+    sao: ['Tiểu Hao'],
+    cung: ['Tài Bạch', 'Điền Trạch', 'Phúc Đức'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa rất kỵ tại Tài Bạch / Điền Trạch / Phúc Đức** — 3
+cung Tài/Điền/Phúc nếu có Tiểu Hao Hãm là **rất xấu**.`,
+  },
 
-⚠️ **+ Phá Quân / Tuyệt:** dễ **PHÁ SẢN**.
+  {
+    id: 'tieu-hao-tai-tai-bach-ham',
+    sao: ['Tiểu Hao'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Hãm'],
+    doUuTien: 78,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa cư Tài Bạch:** **TÁN TÀI, HAO TÀI**, **nghèo túng**,
+có tiền phải **tiêu luôn**, **khó tích trữ**.`,
+  },
 
-⚠️ **+ Kình / Đà / Không / Kiếp:** cũng **bị PHÁ SẢN**.
+  {
+    id: 'tieu-hao-tai-tai-bach-dao-hong',
+    sao: ['Tiểu Hao'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Đào Hoa', 'Hồng Loan'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Tiểu Hao tại Tài Bạch + Đào / Hồng:** tốn tiền vì **nhân tình, làm
+đẹp**.`,
+  },
 
-🌟 **Tiểu Hao ĐẮC ĐỊA cư Tài:** **CỰC TỐT** — đồng tiền vẫn ra vào liên tục
-nhưng **tạo ra nhiều của tiền hơn** — **kiếm ra đồng nào lại đem đi đầu tư**,
-**lãi mẹ đẻ lãi con** → cách **VÔ CÙNG GIÀU CÓ**.
+  {
+    id: 'tieu-hao-tai-tai-bach-pha-quan-tuyet',
+    sao: ['Tiểu Hao'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Phá Quân', 'Tuyệt'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Tiểu Hao tại Tài Bạch + Phá Quân / Tuyệt:** dễ **PHÁ SẢN**.`,
+  },
 
-→ "Buôn may bán đắt", đầu tư không ngừng nghỉ, kiếm lời từ vốn quay vòng.
+  {
+    id: 'tieu-hao-tai-tai-bach-kinh-da-khong-kiep',
+    sao: ['Tiểu Hao'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Tiểu Hao tại Tài Bạch + Kình / Đà / Không / Kiếp:** cũng **bị PHÁ
+SẢN**.`,
+  },
 
-⚡ **Lưu ý:** Tiểu Hao HÃM rất **kỵ** ở Tài Bạch, Điền Trạch, Phúc Đức → 3 cung
-Tài/Điền/Phúc nếu có Tiểu Hao Hãm là **rất xấu**.`,
+  {
+    id: 'tieu-hao-tai-tai-bach-dac',
+    sao: ['Tiểu Hao'],
+    cung: ['Tài Bạch'],
+    trangThai: ['Đắc'],
+    doUuTien: 78,
+    tomTat: `🌟 **Tiểu Hao Đắc địa cư Tài Bạch:** **CỰC TỐT** — đồng tiền vẫn ra vào
+liên tục nhưng **tạo ra nhiều của tiền hơn** — **kiếm ra đồng nào lại đem đi
+đầu tư**, **lãi mẹ đẻ lãi con** → cách **VÔ CÙNG GIÀU CÓ**.
+
+→ "Buôn may bán đắt", đầu tư không ngừng nghỉ, kiếm lời từ vốn quay vòng.`,
   },
 
   // ============================================================
@@ -314,15 +543,29 @@ Tài/Điền/Phúc nếu có Tiểu Hao Hãm là **rất xấu**.`,
     title: 'Tiểu Hao tại Tử Tức',
     sao: ['Tiểu Hao'],
     cung: ['Tử Tức'],
-    doUuTien: 70,
-    tomTat: `⚠️ **Tiểu Hao HÃM cư Tử Tức:** **giảm số lượng con cái** — **sinh
-nhiều nhưng nuôi ít**, mất mát hoặc sa sảy.
+    doUuTien: 65,
+    tomTat: `**Tiểu Hao cư Tử Tức:** Con cái **không ở gần cha mẹ**, sống **tự lập từ
+sớm** — "chim non rời tổ". Con cái **làm hao tán tiền của cha mẹ**.`,
+  },
 
-⚡ Con cái **không ở gần cha mẹ**, sống **tự lập từ sớm** — "chim non rời tổ".
-Con cái **làm hao tán tiền của cha mẹ**.
+  {
+    id: 'tieu-hao-tai-tu-tuc-ham',
+    sao: ['Tiểu Hao'],
+    cung: ['Tử Tức'],
+    trangThai: ['Hãm'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa cư Tử Tức:** **giảm số lượng con cái** — **sinh
+nhiều nhưng nuôi ít**, mất mát hoặc sa sảy.`,
+  },
 
-🌟 **Tiểu Hao ĐẮC ĐỊA:** việc đầu tư cho con có **HIỆU QUẢ** — con cái **thông
-minh, ham học**.`,
+  {
+    id: 'tieu-hao-tai-tu-tuc-dac',
+    sao: ['Tiểu Hao'],
+    cung: ['Tử Tức'],
+    trangThai: ['Đắc'],
+    doUuTien: 68,
+    tomTat: `🌟 **Tiểu Hao Đắc địa tại Tử Tức:** việc đầu tư cho con có **HIỆU QUẢ** —
+con cái **thông minh, ham học**.`,
   },
 
   // ============================================================
@@ -333,22 +576,54 @@ minh, ham học**.`,
     title: 'Tiểu Hao tại Phu Thê',
     sao: ['Tiểu Hao'],
     cung: ['Phu Thê'],
-    doUuTien: 75,
-    tomTat: `⚠️ **Tiểu Hao cư Phu Thê:** **không ưa** — hội thêm **sát bại tinh**
-làm **giảm nhân duyên** vợ chồng.
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao cư Phu Thê:** **không ưa** — hội thêm **sát bại tinh** làm
+**giảm nhân duyên** vợ chồng.
 
-⚡ Vợ chồng dễ **xa quê cách quán**.
+⚡ Vợ chồng dễ **xa quê cách quán**.`,
+  },
 
-⚠️ **Hao HÃM ĐỊA:** người hôn phối **HOANG TÀN, phá của**, gây **chia ly**.
+  {
+    id: 'tieu-hao-tai-phu-the-ham',
+    sao: ['Tiểu Hao'],
+    cung: ['Phu Thê'],
+    trangThai: ['Hãm'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Tiểu Hao Hãm địa tại Phu Thê:** người hôn phối **HOANG TÀN, phá của**,
+gây **chia ly**.`,
+  },
 
-⚠️ **Hao ĐẮC ĐỊA + Đào Hồng thủ Mệnh:** dễ **NHIỀU VỢ, thê thiếp**, "**mỗi
-ngày ở với một bà**".
+  {
+    id: 'tieu-hao-tai-phu-the-dac-dao-hong',
+    sao: ['Tiểu Hao'],
+    cung: ['Phu Thê'],
+    trangThai: ['Đắc'],
+    ketHop: ['Đào Hoa', 'Hồng Loan'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao Đắc địa + Đào Hồng thủ Mệnh tại Phu Thê:** dễ **NHIỀU VỢ,
+thê thiếp**, "**mỗi ngày ở với một bà**".`,
+  },
 
-⚠️ **+ Đà La / Thiên Hình / Thiên Riêu:** người hôn phối **phong lưu, phá tán**,
-**"ông ăn chả bà ăn nem"**.
+  {
+    id: 'tieu-hao-tai-phu-the-da-hinh-rieu',
+    sao: ['Tiểu Hao'],
+    cung: ['Phu Thê'],
+    ketHop: ['Đà La', 'Thiên Hình', 'Thiên Riêu'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tiểu Hao tại Phu Thê + Đà La / Thiên Hình / Thiên Riêu:** người hôn
+phối **phong lưu, phá tán**, **"ông ăn chả bà ăn nem"**.`,
+  },
 
-🌟 **Đắc + cát tinh:** chủ mệnh **quan tâm, chiều chuộng** bạn đời. Người hôn
-phối **giỏi giang, biết xoay sở tài chính**, có duyên kinh doanh.`,
+  {
+    id: 'tieu-hao-tai-phu-the-dac-cat-tinh',
+    sao: ['Tiểu Hao'],
+    cung: ['Phu Thê'],
+    trangThai: ['Đắc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tiểu Hao Đắc địa + cát tinh tại Phu Thê:** chủ mệnh **quan tâm, chiều
+chuộng** bạn đời. Người hôn phối **giỏi giang, biết xoay sở tài chính**, có
+duyên kinh doanh.`,
   },
 
   // ============================================================
@@ -359,17 +634,31 @@ phối **giỏi giang, biết xoay sở tài chính**, có duyên kinh doanh.`,
     title: 'Tiểu Hao tại Huynh Đệ',
     sao: ['Tiểu Hao'],
     cung: ['Huynh Đệ'],
-    doUuTien: 70,
+    doUuTien: 68,
     tomTat: `⚠️ **Tiểu Hao cư Huynh Đệ:** **GIẢM số lượng anh chị em**.
 
-⚠️ **+ Sát bại tinh:** dễ có người **chết trẻ**, **khó thọ**, mất mát/sa sảy
-trong bụng mẹ.
-
 ⚡ Anh chị em **ly tán**, mỗi người một chí hướng, dễ có người **chơi bời phá
-tán**, gây **tổn thất tài sản chung**.
+tán**, gây **tổn thất tài sản chung**.`,
+  },
 
-🌟 **Tiểu Hao ĐẮC ĐỊA:** anh em có người **giỏi làm ăn kinh tế, GIÀU CÓ KHÁ
-GIẢ** → "**một người làm quan, cả họ được nhờ**".`,
+  {
+    id: 'tieu-hao-tai-huynh-de-sat-bai-tinh',
+    sao: ['Tiểu Hao'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tiểu Hao tại Huynh Đệ + Sát bại tinh:** dễ có người **chết trẻ**,
+**khó thọ**, mất mát/sa sảy trong bụng mẹ.`,
+  },
+
+  {
+    id: 'tieu-hao-tai-huynh-de-dac',
+    sao: ['Tiểu Hao'],
+    cung: ['Huynh Đệ'],
+    trangThai: ['Đắc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tiểu Hao Đắc địa tại Huynh Đệ:** anh em có người **giỏi làm ăn kinh
+tế, GIÀU CÓ KHÁ GIẢ** → "**một người làm quan, cả họ được nhờ**".`,
   },
 
   // ============================================================
@@ -402,11 +691,19 @@ chi càng có lại.`,
     doUuTien: 60,
     tomTat: `⚠️ **Tiểu Hao + Tuyệt đồng cung:** người **XẢO QUYỆT**.
 
-⚠️ **+ Mệnh VCD** (Vô Chính Diệu): càng **xảo trá**, **rất KEO KIỆT, tham
-lận**.
-
 → Người **mưu mô, sẵn sàng dùng mánh khóe** chiếm lợi từ người khác → mất dần
 **sự tin tưởng** của người xung quanh, **"một lần bất tín, vạn lần bất tin"**.`,
+  },
+
+  {
+    id: 'tieu-hao-tuyet-menh-vcd',
+    title: 'Tiểu Hao + Tuyệt tại Mệnh VCD',
+    sao: ['Tiểu Hao'],
+    cung: ['Mệnh'],
+    ketHop: ['Tuyệt'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tiểu Hao + Tuyệt tại Mệnh VCD** (Vô Chính Diệu): càng **xảo trá**,
+**rất KEO KIỆT, tham lận**.`,
   },
 
   // ============================================================
@@ -460,9 +757,18 @@ càng **lún sâu**:
 
 ⚠️ **Tiểu Hao + Kình / Đà / Không / Kiếp:** cũng **PHÁ SẢN**.
 
-→ Tâm lý "**được ăn cả, ngã về không**" → đầu tư quá mức, chơi lớn → mất hết.
+→ Tâm lý "**được ăn cả, ngã về không**" → đầu tư quá mức, chơi lớn → mất hết.`,
+  },
 
-⚠️ Đặc biệt nguy hiểm khi tại **cung Tài Bạch** hoặc **cung Mệnh**.`,
+  {
+    id: 'tieu-hao-pha-san-menh-tai-bach',
+    title: 'Tiểu Hao phá sản tại Mệnh / Tài Bạch',
+    sao: ['Tiểu Hao'],
+    cung: ['Mệnh', 'Tài Bạch'],
+    ketHop: ['Phá Quân', 'Tuyệt', 'Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tiểu Hao + sát phá tinh tại Mệnh / Tài Bạch:** đặc biệt nguy hiểm —
+nguy cơ **PHÁ SẢN** rất cao.`,
   },
 
   // ============================================================

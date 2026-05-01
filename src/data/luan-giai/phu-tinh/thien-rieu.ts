@@ -100,16 +100,24 @@ tam hợp.
 - **Bác sỹ phẫu thuật** dùng dao kéo cứu chữa
 - **Thầy lang** châm cứu bấm huyệt
 
-⚡ **Hội cát tinh (Thiên Lương, Thiên Tướng, Phúc Đức, Hóa Khoa, Quang Quý):**
-- Cẩn thận, ưa sạch sẽ, tỷ mỉ
-- Đầu óc **PHÂN TÍCH RÕ RÀNG, CHI LY**
-- Năng khiếu cao về **Y DƯỢC, THUỐC MEN, THẢO DƯỢC**
-- Chăm sóc bệnh nhân **RẤT MÁT TAY**
-
 ⚡ **Hệ quả khi đóng bất kỳ cung nào:**
 - Thể chất của cung đó **YẾU ỚT**
 - Thường xuyên đau yếu lặt vặt
 - Hoặc bị bệnh mãn tính phải điều trị thuốc men`,
+  },
+
+  {
+    id: 'rieu-y-hinh-hoi-cat-tinh',
+    title: 'Bộ Riêu-Y-Hình + cát tinh - Y dược chuyên sâu',
+    sao: ['Thiên Riêu', 'Thiên Y'],
+    ketHop: ['Thiên Hình', 'Thiên Lương', 'Thiên Tướng', 'Phúc Đức', 'Hóa Khoa', 'Ân Quang', 'Thiên Quý'],
+    doUuTien: 65,
+    tomTat: `⚡ **Bộ Riêu-Y-Hình hội cát tinh** (Thiên Lương / Thiên Tướng / Phúc Đức /
+Hóa Khoa / Quang Quý):
+- Cẩn thận, ưa sạch sẽ, tỷ mỉ
+- Đầu óc **PHÂN TÍCH RÕ RÀNG, CHI LY**
+- Năng khiếu cao về **Y DƯỢC, THUỐC MEN, THẢO DƯỢC**
+- Chăm sóc bệnh nhân **RẤT MÁT TAY**`,
   },
 
   {
@@ -167,6 +175,7 @@ trong tử vi.
     title: 'Câu phú: Hình Riêu phận gái long đong',
     sao: ['Thiên Riêu'],
     cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
     ketHop: ['Thiên Hình'],
     doUuTien: 70,
     tomTat: `**Câu phú nổi tiếng cảnh báo nữ mệnh:**
@@ -287,7 +296,7 @@ chưa có gia đình.
     title: 'Thiên Riêu tại Mệnh',
     sao: ['Thiên Riêu'],
     cung: ['Mệnh'],
-    doUuTien: 78,
+    doUuTien: 75,
     tomTat: `**Thiên Riêu thủ Mệnh** — người **HAM VUI, THÍCH CHƠI BỜI, PHÓNG ĐÃNG**.
 
 ⚡ **Cơ thể:** **NHIỀU LÔNG, ĐA MAO** (nam và nữ) — đặc điểm nhu cầu sinh
@@ -298,27 +307,59 @@ lý cao.
 - Tính tình **KHÔNG DỨT KHOÁT**
 - Khó cầu công danh, thi cử
 
-⚡ **Đắc địa Dần/Mão/Thân/Dậu:**
+⚡ **Bệnh lý:**
+- Bệnh về **BỘ PHẬN SINH DỤC** (lậu, liệt dương, teo...)
+- Nhu cầu sinh lý cao, đầu óc luôn **GIẰNG CO NỘI TÂM**
+- Dễ bị **BỆNH ÂM, THẦN KINH, VONG ÁM**`,
+  },
+
+  {
+    id: 'thien-rieu-tai-menh-dac',
+    sao: ['Thiên Riêu'],
+    cung: ['Mệnh'],
+    chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thiên Riêu Đắc địa Dần/Mão/Thân/Dậu tại Mệnh:**
 - **CƠ MƯU, HỌC THUẬT UYÊN BÁC**
 - Dáng vẻ **PHONG LƯU**
 - Thích chơi bời nhưng kín đáo
 
-⚡ **Hãm địa:**
-- **THÂM ĐỘC, ĐA NGHI, GIỎI ỨNG PHÓ**
-- Dung mạo đẹp đẽ, **THÍCH DÂM DỤC**
-- Nếu có **Đào Hồng** → càng nặng
-- Phần nhiều vì **CHUYỆN SẮC DỤC** mà mang họa, **PHÁ GIA BẠI SẢN**
-
-⚠️ **Câu phú nữ:** "Hình Riêu phận gái long đong / Ví không lộn chồng
-ắt cũng phản phu".
-
-⚡ **Bệnh lý:**
-- Bệnh về **BỘ PHẬN SINH DỤC** (lậu, liệt dương, teo...)
-- Nhu cầu sinh lý cao, đầu óc luôn **GIẰNG CO NỘI TÂM**
-- Dễ bị **BỆNH ÂM, THẦN KINH, VONG ÁM**
-
 ⚡ **Hợp nghề (đắc địa):** Y dược, Spa, làm tóc, bác sỹ phụ khoa nam khoa,
 hành nghề tâm linh.`,
+  },
+
+  {
+    id: 'thien-rieu-tai-menh-ham',
+    sao: ['Thiên Riêu'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiên Riêu Hãm địa tại Mệnh:**
+- **THÂM ĐỘC, ĐA NGHI, GIỎI ỨNG PHÓ**
+- Dung mạo đẹp đẽ, **THÍCH DÂM DỤC**
+- Phần nhiều vì **CHUYỆN SẮC DỤC** mà mang họa, **PHÁ GIA BẠI SẢN**`,
+  },
+
+  {
+    id: 'thien-rieu-tai-menh-ham-dao-hong',
+    sao: ['Thiên Riêu'],
+    cung: ['Mệnh'],
+    trangThai: ['Hãm'],
+    ketHop: ['Đào Hoa', 'Hồng Loan'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Riêu Hãm địa + Đào Hồng tại Mệnh:** đặc tính dâm dục, sa ngã
+**càng nặng** — phá gia bại sản.`,
+  },
+
+  {
+    id: 'thien-rieu-tai-menh-nu',
+    sao: ['Thiên Riêu'],
+    cung: ['Mệnh'],
+    gioiTinh: 'Nữ',
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Riêu thủ Mệnh - Nữ mệnh - câu phú:**
+
+> "Hình Riêu phận gái long đong / Ví không lộn chồng ắt cũng phản phu".`,
   },
 
   {
@@ -326,21 +367,12 @@ hành nghề tâm linh.`,
     title: 'Thiên Riêu tại Phụ Mẫu',
     sao: ['Thiên Riêu'],
     cung: ['Phụ Mẫu'],
-    doUuTien: 75,
+    doUuTien: 73,
     tomTat: `**Thiên Riêu tại Phụ Mẫu** — cha mẹ **TAY NGHỀ KHÉO**, sống bằng nghề liên
 quan đến **SÔNG NƯỚC**.
 
 ⚡ **Đặc trưng:**
 - Có tài về **NGHỆ THUẬT, MỸ THUẬT**, có **HOA TAY**
-
-⚡ **Sát bại tinh + Đào hoa:**
-- **GIẢM DUYÊN** cha mẹ
-- Cha mẹ dễ có **NGƯỜI BÊN NGOÀI**
-- Cha mẹ thường **ĂN NẰM TRƯỚC, CƯỚI SAU**
-
-⚡ **Đắc địa + phúc thiện tinh:**
-- Cha mẹ làm **DƯỢC SỸ, THẦY THUỐC** cứu người
-- Hoặc nghề **CẮT TÓC, SPA**
 
 ⚡ **Tâm linh:**
 - Cha mẹ thích chuyện **TÂM LINH, BÓI TOÁN, XEM TỬ VI**
@@ -348,28 +380,59 @@ quan đến **SÔNG NƯỚC**.
   },
 
   {
+    id: 'thien-rieu-tai-phu-mau-sat-bai-tinh-dao-hoa',
+    sao: ['Thiên Riêu'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Đào Hoa'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Riêu tại Phụ Mẫu + Sát bại tinh + Đào hoa:**
+- **GIẢM DUYÊN** cha mẹ
+- Cha mẹ dễ có **NGƯỜI BÊN NGOÀI**
+- Cha mẹ thường **ĂN NẰM TRƯỚC, CƯỚI SAU**`,
+  },
+
+  {
+    id: 'thien-rieu-tai-phu-mau-dac-phuc-thien',
+    sao: ['Thiên Riêu'],
+    cung: ['Phụ Mẫu'],
+    trangThai: ['Đắc'],
+    ketHop: ['Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Riêu Đắc địa + phúc thiện tinh tại Phụ Mẫu:**
+- Cha mẹ làm **DƯỢC SỸ, THẦY THUỐC** cứu người
+- Hoặc nghề **CẮT TÓC, SPA**`,
+  },
+
+  {
     id: 'thien-rieu-tai-phuc-duc',
     title: 'Thiên Riêu tại Phúc Đức',
     sao: ['Thiên Riêu'],
     cung: ['Phúc Đức'],
-    doUuTien: 75,
+    doUuTien: 73,
     tomTat: `**Thiên Riêu tại Phúc Đức** — dòng họ **NỮ LẬN ĐẬN** tình duyên, **NAM
 PHONG LƯU**.
 
-⚡ **Đặc trưng:**
-- Trong dòng họ:
-  - **Nữ**: lận đận tình duyên chồng con, **CÓ ÁC TẬT, CHẾT NON, CÔ ĐỘC**
-  - **Nam**: phóng đãng phong lưu, đi xa, **CÓ TÀI NGHỆ ĐẶC BIỆT**
-
-⚡ **Đắc địa:**
-- Có **PHÚC LỚN**, được tổ tiên phù hộ
-- **LINH ỨNG** mỗi khi mong cầu cứu giúp
-- Mồ mả có **CÂY CỎ MỌC UM TÙM, XANH TỐT**, dễ có **MỒ KẾT** linh thiêng
+⚡ **Đặc trưng dòng họ:**
+- **Nữ trong dòng họ:** lận đận tình duyên chồng con, **CÓ ÁC TẬT, CHẾT NON,
+  CÔ ĐỘC**
+- **Nam trong dòng họ:** phóng đãng phong lưu, đi xa, **CÓ TÀI NGHỆ ĐẶC BIỆT**
 
 ⚡ **Tâm linh dòng họ:**
 - Dòng họ có người làm **THẦY BÀ, TÂM LINH**
 - **TRUYỀN THỪA** lại tới đời mình
 - Bản thân dễ có **GIÁC QUAN TÂM LINH** mạnh`,
+  },
+
+  {
+    id: 'thien-rieu-tai-phuc-duc-dac',
+    sao: ['Thiên Riêu'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Riêu Đắc địa tại Phúc Đức:**
+- Có **PHÚC LỚN**, được tổ tiên phù hộ
+- **LINH ỨNG** mỗi khi mong cầu cứu giúp
+- Mồ mả có **CÂY CỎ MỌC UM TÙM, XANH TỐT**, dễ có **MỒ KẾT** linh thiêng`,
   },
 
   {
@@ -400,20 +463,52 @@ PHONG LƯU**.
     title: 'Thiên Riêu tại Quan Lộc',
     sao: ['Thiên Riêu'],
     cung: ['Quan Lộc'],
-    doUuTien: 75,
+    doUuTien: 73,
     tomTat: `**Thiên Riêu tại Quan Lộc** — bản chất ám tinh **CẢN TRỞ, PHÁ HOẠI** công
 danh, học tập. Chỉ đẹp khi **ĐẮC ĐỊA**.
 
-⚡ **Hợp nghề tăng dần:**
-- **Riêu + Hình** không có cát tinh → **NGHỀ LÀM TÓC, SPA**
-- **Riêu đắc địa + phúc thiện tinh** → **THẦY THUỐC, BÁC SỸ NAM KHOA, PHỤ KHOA, SINH DỤC**
-
 ⚡ **Tâm linh:**
-- Có thể là người làm nghề **TÂM LINH, XEM BÓI, XEM TỬ VI, THẦY PHÁP**
-- Hội **Khôi Việt + Tả Hữu + Long Phượng + Thiên Đồng** → **THẦY PHÁP CAO
-  TAY, NỔI TIẾNG**
+- Có thể là người làm nghề **TÂM LINH, XEM BÓI, XEM TỬ VI, THẦY PHÁP**`,
+  },
 
-⚡ **Hội đào hoa tinh:**
+  {
+    id: 'thien-rieu-tai-quan-loc-thien-hinh',
+    sao: ['Thiên Riêu'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚡ **Thiên Riêu + Thiên Hình tại Quan Lộc** (không có cát tinh): **NGHỀ
+LÀM TÓC, SPA**.`,
+  },
+
+  {
+    id: 'thien-rieu-tai-quan-loc-dac-phuc-thien',
+    sao: ['Thiên Riêu'],
+    cung: ['Quan Lộc'],
+    trangThai: ['Đắc'],
+    ketHop: ['Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Riêu Đắc địa + phúc thiện tinh tại Quan Lộc:** **THẦY THUỐC,
+BÁC SỸ NAM KHOA, PHỤ KHOA, SINH DỤC**.`,
+  },
+
+  {
+    id: 'thien-rieu-tai-quan-loc-khoi-viet-ta-huu-long-phuong-dong',
+    sao: ['Thiên Riêu'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt', 'Tả Phù', 'Hữu Bật', 'Long Trì', 'Phượng Các', 'Thiên Đồng'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Riêu tại Quan Lộc + Khôi Việt + Tả Hữu + Long Phượng + Thiên
+Đồng:** **THẦY PHÁP CAO TAY, NỔI TIẾNG**.`,
+  },
+
+  {
+    id: 'thien-rieu-tai-quan-loc-dao-hoa-tinh',
+    sao: ['Thiên Riêu'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Đào Hoa', 'Hồng Loan', 'Thiên Hỷ'],
+    doUuTien: 68,
+    tomTat: `⚡ **Thiên Riêu tại Quan Lộc + đào hoa tinh:**
 - Được quý mến
 - Dễ phát sinh **TÌNH CẢM NGOÀI LUỒNG** tại nơi làm việc`,
   },
@@ -423,21 +518,36 @@ danh, học tập. Chỉ đẹp khi **ĐẮC ĐỊA**.
     title: 'Thiên Riêu tại Nô Bộc',
     sao: ['Thiên Riêu'],
     cung: ['Nô Bộc'],
-    doUuTien: 75,
+    doUuTien: 73,
     tomTat: `**Thiên Riêu tại Nô Bộc** — bè bạn, người giúp việc **NAY Ở MAI ĐI**, ham
 chơi nhưng **CÓ TÀI NGHỆ ĐẶC BIỆT**.
-
-⚡ **Hãm địa:**
-- Bạn bè, đồng nghiệp **ĂN CHƠI, TRÁC TÁNG**
-- Dễ có **QUAN HỆ NGOÀI LUỒNG** với bạn bè khác giới
-- **TÌNH MỘT ĐÊM**
 
 ⚡ **Tâm linh:**
 - Bạn bè nhiều **THẦY ĐỒNG, CÔ ĐỒNG**
 - Nhiều người quan tâm **TÂM LINH, BÓI TOÁN**
-- Bản thân hay làm công việc liên quan giới tâm linh, thờ cúng
+- Bản thân hay làm công việc liên quan giới tâm linh, thờ cúng`,
+  },
 
-⚡ **Đắc địa + phúc thiện tinh:**
+  {
+    id: 'thien-rieu-tai-no-boc-ham',
+    sao: ['Thiên Riêu'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Hãm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Riêu Hãm địa tại Nô Bộc:**
+- Bạn bè, đồng nghiệp **ĂN CHƠI, TRÁC TÁNG**
+- Dễ có **QUAN HỆ NGOÀI LUỒNG** với bạn bè khác giới
+- **TÌNH MỘT ĐÊM**`,
+  },
+
+  {
+    id: 'thien-rieu-tai-no-boc-dac-phuc-thien',
+    sao: ['Thiên Riêu'],
+    cung: ['Nô Bộc'],
+    trangThai: ['Đắc'],
+    ketHop: ['Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Riêu Đắc địa + phúc thiện tinh tại Nô Bộc:**
 - Bạn bè nhiều **THẦY THUỐC, BÁC SỸ GIỎI**
 - Mát tay, bốc thuốc chữa bệnh tốt`,
   },
@@ -447,7 +557,7 @@ chơi nhưng **CÓ TÀI NGHỆ ĐẶC BIỆT**.
     title: 'Thiên Riêu tại Thiên Di',
     sao: ['Thiên Riêu'],
     cung: ['Thiên Di'],
-    doUuTien: 75,
+    doUuTien: 73,
     tomTat: `**Thiên Riêu tại Thiên Di** — ra ngoài **KHÔNG CÓ NƠI CHỐN CỐ ĐỊNH**, đa nghệ.
 
 ⚡ **Đặc trưng:**
@@ -455,13 +565,27 @@ chơi nhưng **CÓ TÀI NGHỆ ĐẶC BIỆT**.
 - Nhiều mối quan hệ **KHÔNG LÀNH MẠNH**
 - **TÌNH MỘT ĐÊM**
 - Dễ có **MA TÀ, VONG** theo về
-- Thích đi **XEM BÓI TOÁN, ĐỀN CHÙA**
+- Thích đi **XEM BÓI TOÁN, ĐỀN CHÙA**`,
+  },
 
-⚠️ **Sát tinh + đào hoa hội:**
+  {
+    id: 'thien-rieu-tai-thien-di-sat-tinh-dao-hoa',
+    sao: ['Thiên Riêu'],
+    cung: ['Thiên Di'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Đào Hoa', 'Hồng Loan'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Riêu tại Thiên Di + Sát tinh + đào hoa:**
 - Vướng tình một đêm
-- Mối quan hệ sắc dục thiếu lành mạnh
+- Mối quan hệ sắc dục thiếu lành mạnh`,
+  },
 
-⚡ **Cát tinh hội (Quan Phúc):**
+  {
+    id: 'thien-rieu-tai-thien-di-quan-phuc',
+    sao: ['Thiên Riêu'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Riêu tại Thiên Di + Quan Phúc (Thiên Quan, Thiên Phúc):**
 - Thường tới nơi **CHÙA CHIỀN**
 - Nghiên cứu **HUYỀN HỌC**
 - Vẫn nhạy cảm với trường khí âm`,
@@ -518,26 +642,48 @@ chi phối tâm trí.`,
     title: 'Thiên Riêu tại Tử Tức',
     sao: ['Thiên Riêu'],
     cung: ['Tử Tức'],
-    doUuTien: 75,
+    doUuTien: 73,
     tomTat: `**Thiên Riêu tại Tử Tức** — **SINH NỞ KHÓ KHĂN**, hoặc khó nuôi con, hoặc
 **CÓ CON RIÊNG** của vợ/chồng.
 
 ⚡ **Đặc trưng:**
 - Con cái hay **CHƠI BỜI**
 
-⚡ **Hãm địa:**
+⚡ **Tâm linh:**
+- Con cái hay tin vào **TÂM LINH, BÓI TOÁN**`,
+  },
+
+  {
+    id: 'thien-rieu-tai-tu-tuc-ham',
+    sao: ['Thiên Riêu'],
+    cung: ['Tử Tức'],
+    trangThai: ['Hãm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Riêu Hãm địa tại Tử Tức:**
 - Con cái sau dễ **CHƠI BỜI, PHÁ TÁN**
 - Có đứa **BỎ NHÀ THEO TRAI/THEO GÁI**
-- Lăng nhăng tình cảm
+- Lăng nhăng tình cảm`,
+  },
 
-⚡ **Đắc địa:**
+  {
+    id: 'thien-rieu-tai-tu-tuc-dac',
+    sao: ['Thiên Riêu'],
+    cung: ['Tử Tức'],
+    trangThai: ['Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Riêu Đắc địa tại Tử Tức:**
 - Con cái **TRƯỞNG THÀNH, THÔNG MINH**
-- Có đứa làm **THẦY THUỐC, BÁC SỸ**
+- Có đứa làm **THẦY THUỐC, BÁC SỸ**`,
+  },
 
-⚡ **Tâm linh:**
-- Con cái hay tin vào **TÂM LINH, BÓI TOÁN**
-- Hội **Linh Hỏa + Riêu Đà Kỵ + Thiên Đồng** → có đứa **NẶNG CĂN**, dễ
-  thần kinh có vấn đề`,
+  {
+    id: 'thien-rieu-tai-tu-tuc-linh-hoa-da-ky-dong',
+    sao: ['Thiên Riêu'],
+    cung: ['Tử Tức'],
+    ketHop: ['Linh Tinh', 'Hỏa Tinh', 'Đà La', 'Hóa Kỵ', 'Thiên Đồng'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Thiên Riêu tại Tử Tức + Linh Hỏa + Riêu Đà Kỵ + Thiên Đồng:** có đứa
+**NẶNG CĂN**, dễ thần kinh có vấn đề.`,
   },
 
   {
@@ -545,22 +691,46 @@ chi phối tâm trí.`,
     title: 'Thiên Riêu tại Phu Thê',
     sao: ['Thiên Riêu'],
     cung: ['Phu Thê'],
-    doUuTien: 78,
+    doUuTien: 75,
     tomTat: `**Thiên Riêu tại Phu Thê** — người hôn phối **NHIỀU LÔNG TÓC, NHU CẦU SINH
 LÝ CAO**, thường dễ **ĂN CƠM TRƯỚC KẺNG**.
 
-⚡ **Đắc địa:**
-- Vợ chồng **ƯA THÍCH VUI CHƠI, VĂN NGHỆ**
-- **PHONG LƯU TÀI TỬ**
-- Đi cùng **PHÚC THIỆN TINH** → có người làm **THẦY THUỐC, BÁC SỸ GIỎI**
-
-⚡ **Hãm địa:**
-- "**ÔNG ĂN CHẢ, BÀ ĂN NEM**"
-- Đặc biệt khi có sát bại tinh + đào hoa tinh đi cùng → khó bền duyên
-- Cả vợ cả chồng đều có **TÌNH NHÂN BÊN NGOÀI**
-
 ⚡ **Tâm linh:** Người hôn phối thích chuyện **TÂM LINH, BÓI TOÁN**, đi đền
 chùa.`,
+  },
+
+  {
+    id: 'thien-rieu-tai-phu-the-dac',
+    sao: ['Thiên Riêu'],
+    cung: ['Phu Thê'],
+    trangThai: ['Đắc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thiên Riêu Đắc địa tại Phu Thê:**
+- Vợ chồng **ƯA THÍCH VUI CHƠI, VĂN NGHỆ**
+- **PHONG LƯU TÀI TỬ**`,
+  },
+
+  {
+    id: 'thien-rieu-tai-phu-the-dac-phuc-thien',
+    sao: ['Thiên Riêu'],
+    cung: ['Phu Thê'],
+    trangThai: ['Đắc'],
+    ketHop: ['Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Riêu Đắc địa + phúc thiện tinh tại Phu Thê:** có người làm
+**THẦY THUỐC, BÁC SỸ GIỎI**.`,
+  },
+
+  {
+    id: 'thien-rieu-tai-phu-the-ham',
+    sao: ['Thiên Riêu'],
+    cung: ['Phu Thê'],
+    trangThai: ['Hãm'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiên Riêu Hãm địa tại Phu Thê:**
+- "**ÔNG ĂN CHẢ, BÀ ĂN NEM**"
+- Đặc biệt khi có sát bại tinh + đào hoa tinh đi cùng → khó bền duyên
+- Cả vợ cả chồng đều có **TÌNH NHÂN BÊN NGOÀI**`,
   },
 
   {
@@ -568,15 +738,23 @@ chùa.`,
     title: 'Thiên Riêu tại Huynh Đệ',
     sao: ['Thiên Riêu'],
     cung: ['Huynh Đệ'],
-    doUuTien: 75,
+    doUuTien: 73,
     tomTat: `**Thiên Riêu tại Huynh Đệ** — dễ có **ANH CHỊ EM DỊ BÀO** hoặc **ANH CHỊ EM
 NUÔI**.
 
 ⚡ **Đặc trưng:**
 - Trong anh chị em có người **PHONG LƯU TÀI TỬ**
-- Có người **BỎ NHÀ THEO TRAI/GÁI**, ăn chơi lang bạt
+- Có người **BỎ NHÀ THEO TRAI/GÁI**, ăn chơi lang bạt`,
+  },
 
-⚡ **Đắc địa + phúc thiện tinh:**
+  {
+    id: 'thien-rieu-tai-huynh-de-dac-phuc-thien',
+    sao: ['Thiên Riêu'],
+    cung: ['Huynh Đệ'],
+    trangThai: ['Đắc'],
+    ketHop: ['Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Riêu Đắc địa + phúc thiện tinh tại Huynh Đệ:**
 - Anh chị em **GIỎI**
 - Có người làm **THẦY THUỐC, BÁC SỸ NỔI TIẾNG**`,
   },
