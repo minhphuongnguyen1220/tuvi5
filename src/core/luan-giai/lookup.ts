@@ -1,6 +1,7 @@
 import type { CungTrongLaSo, GioiTinh } from '@/core/tuvi/types';
 import { tatCaLuanGiai, type DoanLuanGiai } from '@/data/luan-giai';
 import { NGU_HANH_CHINH_TINH, NGU_HANH_PHU_TINH } from '@/lib/mau-ngu-hanh';
+import { CAT_TINH, HUNG_TINH, VONG_TRUONG_SINH } from '@/lib/phan-loai-sao';
 
 /**
  * Kiểm tra 1 chuỗi có phải tên sao THỰC không (tồn tại trong bảng tra ngũ
@@ -9,6 +10,40 @@ import { NGU_HANH_CHINH_TINH, NGU_HANH_PHU_TINH } from '@/lib/mau-ngu-hanh';
 function laTenSaoThuc(name: string): boolean {
   return NGU_HANH_CHINH_TINH[name] !== undefined ||
          NGU_HANH_PHU_TINH[name] !== undefined;
+}
+
+/**
+ * Phân nhóm sao để sort entries theo thứ tự hiển thị:
+ *   0 = Chính tinh
+ *   1 = Phụ tinh CÁT (không vòng Trường Sinh)
+ *   2 = Phụ tinh trung tính (không vòng Trường Sinh)
+ *   3 = Phụ tinh HUNG (không vòng Trường Sinh)
+ *   4 = Vòng Trường Sinh
+ *   5 = Tuần / Triệt (luôn cuối)
+ *   6 = Không có sao (cung-only entry) → đầu hoặc cuối tùy quyết định, hiện cuối
+ */
+function nhomSao(tenSao: string): number {
+  if (!tenSao) return 6;
+  if (NGU_HANH_CHINH_TINH[tenSao]) return 0;
+  if (tenSao === 'Tuần' || tenSao === 'Triệt') return 5;
+  if (VONG_TRUONG_SINH.has(tenSao)) return 4;
+  if (HUNG_TINH.has(tenSao)) return 3;
+  if (CAT_TINH.has(tenSao)) return 1;
+  return 2; // trung tính
+}
+
+/**
+ * Phân loại entry theo loại nội dung trong cùng 1 sao:
+ *   0 = Ý nghĩa sao trong cung (chỉ có cung field, không trangThai/ketHop)
+ *   1 = Ý nghĩa theo trạng thái (có trangThai)
+ *   2 = Kết hợp với sao khác (có ketHop)
+ */
+function loaiNoiDung(entry: DoanLuanGiai): number {
+  const hasTT = !!(entry.trangThai && entry.trangThai.length > 0);
+  const hasKH = !!(entry.ketHop && entry.ketHop.length > 0);
+  if (!hasTT && !hasKH) return 0;
+  if (hasTT && !hasKH) return 1;
+  return 2;
 }
 
 /**
@@ -25,6 +60,10 @@ function laTenSaoThuc(name: string): boolean {
 export function timLuanGiaiCuaCung(cung: CungTrongLaSo, gioiTinh?: GioiTinh): DoanLuanGiai[] {
   const allSao = [...cung.saoChinh, ...cung.saoPhu];
   const tatCaSaoTrongCung = allSao.map(s => s.ten);
+
+  // Map vị trí sao trong cung để sort cùng nhóm theo thứ tự hiển thị
+  const viTriSao = new Map<string, number>();
+  allSao.forEach((s, i) => viTriSao.set(s.ten, i));
 
   return tatCaLuanGiai
     .filter((doan) => {
@@ -81,5 +120,30 @@ export function timLuanGiaiCuaCung(cung: CungTrongLaSo, gioiTinh?: GioiTinh): Do
 
       return true;
     })
-    .sort((a, b) => (b.doUuTien ?? 50) - (a.doUuTien ?? 50));
+    .sort((a, b) => {
+      // Tìm "primary sao" của entry: sao đầu tiên TRONG CUNG (đã được lookup)
+      // Nếu entry áp dụng nhiều sao, dùng sao có vị trí sớm nhất trong cung.
+      const saoCuaA = (a.sao ?? []).filter(s => tatCaSaoTrongCung.includes(s));
+      const saoCuaB = (b.sao ?? []).filter(s => tatCaSaoTrongCung.includes(s));
+      const primaryA = saoCuaA.sort((x, y) => (viTriSao.get(x) ?? 999) - (viTriSao.get(y) ?? 999))[0] ?? '';
+      const primaryB = saoCuaB.sort((x, y) => (viTriSao.get(x) ?? 999) - (viTriSao.get(y) ?? 999))[0] ?? '';
+
+      // 1. Sort theo nhóm sao (chính tinh > phụ tinh cát > trung tính > hung > vòng TS > Tuần/Triệt)
+      const nhomA = nhomSao(primaryA);
+      const nhomB = nhomSao(primaryB);
+      if (nhomA !== nhomB) return nhomA - nhomB;
+
+      // 2. Cùng nhóm: sort theo vị trí sao trong cung
+      const viTriA = viTriSao.get(primaryA) ?? 999;
+      const viTriB = viTriSao.get(primaryB) ?? 999;
+      if (viTriA !== viTriB) return viTriA - viTriB;
+
+      // 3. Cùng sao: sort theo loại nội dung (cung > trạng thái > kết hợp)
+      const loaiA = loaiNoiDung(a);
+      const loaiB = loaiNoiDung(b);
+      if (loaiA !== loaiB) return loaiA - loaiB;
+
+      // 4. Cuối cùng: theo doUuTien (cao trước)
+      return (b.doUuTien ?? 50) - (a.doUuTien ?? 50);
+    });
 }
