@@ -113,9 +113,6 @@ hấp tấp, đôi khi hơi **bị động**.
 
 **Chi tiêu:** **cẩn thận, biết tính toán dành dụm** → biết dành dụm mà nên giàu.
 
-⚠️ **+ Cô Quả / Đẩu Quân / Vũ Khúc:** tính tiết kiệm biến thành **ki bo, keo
-kiệt, bủn xỉn**.
-
 ⚡ **Đặc trưng cô độc:** vì Kình Đà giáp Mệnh → tuổi thơ **cô đơn, xa cách cha
 mẹ/anh em**, phải **tự lập từ sớm**.`,
 
@@ -158,6 +155,32 @@ trong tình cảm.
 - Sao Lộc Tồn **chế ngự được tất cả sao chủ dâm đãng, đào hoa, lả lơi**
 - Được hưởng của **tiền nhân** hoặc hay **gặp quý nhân** giúp đỡ
 - Nếu **không có sát bại tinh** đánh phá → **vinh hiển, sống lâu**`,
+  },
+
+  // ----- Sub-rules tách từ Lộc Tồn tại Mệnh -----
+  {
+    id: 'loc-ton-tai-menh-co-qua',
+    sao: ['Lộc Tồn'],
+    cung: ['Mệnh'],
+    ketHop: ['Cô Thần', 'Quả Tú'],
+    doUuTien: 77,
+    tomTat: `⚠️ **Lộc Tồn + Cô Thần / Quả Tú tại Mệnh:** tính tiết kiệm biến thành **ki bo, keo kiệt, bủn xỉn**.`,
+  },
+  {
+    id: 'loc-ton-tai-menh-dau-quan',
+    sao: ['Lộc Tồn'],
+    cung: ['Mệnh'],
+    ketHop: ['Đẩu Quân'],
+    doUuTien: 77,
+    tomTat: `⚠️ **Lộc Tồn + Đẩu Quân tại Mệnh:** tính tiết kiệm biến thành **ki bo, keo kiệt, bủn xỉn**.`,
+  },
+  {
+    id: 'loc-ton-tai-menh-vu-khuc',
+    sao: ['Lộc Tồn'],
+    cung: ['Mệnh'],
+    ketHop: ['Vũ Khúc'],
+    doUuTien: 77,
+    tomTat: `⚠️ **Lộc Tồn + Vũ Khúc tại Mệnh:** tính tiết kiệm biến thành **ki bo, keo kiệt, bủn xỉn**.`,
   },
 
   // ============================================================
@@ -207,11 +230,15 @@ dựng**, **khó hưởng gia sản** mẹ cha để lại.
 ⚠️ **Đà La hãm địa:** bản thân đương số sinh ra **dễ ốm đau, có dị tật**.
 
 🌟 **Hội nhiều cát tinh:** cha mẹ là người có **chức quyền, làm chủ, làm sếp**,
-có ấn có dấu, được hưởng nhiều **bổng lộc**.
-
-⚠️ **+ Sát tinh:** cha mẹ tính tình **nóng nảy, hay khắc khẩu**, dễ gặp nạn
-liên quan **mổ xẻ, bệnh tật**. Đương số phải tự lập từ sớm, đôi khi liên lụy
-bởi nghiệp duyên cha mẹ.`,
+có ấn có dấu, được hưởng nhiều **bổng lộc**.`,
+  },
+  {
+    id: 'loc-ton-tai-phu-mau-sat-tinh',
+    sao: ['Lộc Tồn'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Lộc Tồn + Sát tinh tại Phụ Mẫu:** cha mẹ tính tình **nóng nảy, hay khắc khẩu**, dễ gặp nạn liên quan **mổ xẻ, bệnh tật**. Đương số phải tự lập từ sớm, đôi khi liên lụy bởi nghiệp duyên cha mẹ.`,
   },
 
   // ============================================================
@@ -234,14 +261,23 @@ cho đương số.
 - Nhiều người có **điều kiện, kinh tế tốt nhưng ít giúp đỡ nhau**, mỗi người
   một phương
 - Bản thân và cha mẹ **ít được hưởng của cải tổ tiên** do cấu trúc Kình Đà
-  giáp các cung gia sản kế bên
-
-🌟 **+ Cát tinh:** dòng họ biết gìn giữ truyền thống, mồ mả tổ tiên được chăm
-lo, con cháu thuận lợi trưởng thành.
-
-⚠️ **+ Địa Không, Địa Kiếp, Hóa Kỵ, Tuần, Triệt:** gia tộc **ly tán**, đời sau
-phải tự bươn chải, ít được nhờ cậy. Trong họ hàng có người **yểu mệnh, tàn
-tật** hoặc chật vật mưu sinh.`,
+  giáp các cung gia sản kế bên`,
+  },
+  {
+    id: 'loc-ton-tai-phuc-duc-cat-tinh',
+    sao: ['Lộc Tồn'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Cát tinh (Lục Cát) tại Phúc Đức:** dòng họ biết gìn giữ truyền thống, mồ mả tổ tiên được chăm lo, con cháu thuận lợi trưởng thành.`,
+  },
+  {
+    id: 'loc-ton-tai-phuc-duc-khong-kiep-ky-tuan-triet',
+    sao: ['Lộc Tồn'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Tuần', 'Triệt'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Lộc Tồn + Địa Không / Địa Kiếp / Hóa Kỵ / Tuần / Triệt tại Phúc Đức:** gia tộc **ly tán**, đời sau phải tự bươn chải, ít được nhờ cậy. Trong họ hàng có người **yểu mệnh, tàn tật** hoặc chật vật mưu sinh.`,
   },
 
   // ============================================================
@@ -263,11 +299,15 @@ Nơi ở thường là **nơi ông cha để lại** hoặc được **cấp, tr
 ⚡ **Đặc trưng kèm theo:**
 - Cấu trúc Kình Dương đối ứng cung sự nghiệp → công danh **không suôn sẻ, dễ
   trắc trở**
-- Hàng xóm xung quanh có **người độc thân, mãi không lấy vợ/chồng**
-
-⚠️ **+ Địa Không, Địa Kiếp, Hóa Kỵ, Tuần Triệt:** đất có nhưng **khó giữ**,
-nhà cửa phải **sửa sang liên tục**, dễ vướng **tranh chấp, kiện tụng**. Phải
-vất vả bảo toàn tài sản.`,
+- Hàng xóm xung quanh có **người độc thân, mãi không lấy vợ/chồng**`,
+  },
+  {
+    id: 'loc-ton-tai-dien-trach-khong-kiep-ky-tuan-triet',
+    sao: ['Lộc Tồn'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Tuần', 'Triệt'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Lộc Tồn + Địa Không / Địa Kiếp / Hóa Kỵ / Tuần / Triệt tại Điền Trạch:** đất có nhưng **khó giữ**, nhà cửa phải **sửa sang liên tục**, dễ vướng **tranh chấp, kiện tụng**. Phải vất vả bảo toàn tài sản.`,
   },
 
   // ============================================================
@@ -288,14 +328,87 @@ Trong công việc thường **tỉ mỉ, cẩn thận, kĩ càng**.
 hậu cần** — "tay hòm chìa khóa" khó ai thay thế.
 
 ⚡ **Đặc trưng:** công danh **không có ngay**, phải **bền bỉ từ từ** mới lên
-cao, đạt được nhiều thành tựu lớn.
-
-🌟 **+ Tử Vi / Thiên Phủ / Thái Âm miếu vượng / Hóa Lộc / Thiên Mã / Tả Hữu /
-Khôi Việt / Long Phượng / Quang Quý:** công danh **hiển đạt**, tuy chậm mà chắc.
-
-⚠️ **+ Địa Không, Địa Kiếp, Hóa Kỵ, Tuần Triệt:** công danh sự nghiệp **không
-bền**, hay có **tai họa**, **thu nhập bấp bênh**, chức vụ khó bền, dễ **gặp họa
-liên quan đến tiền bạc**.`,
+cao, đạt được nhiều thành tựu lớn.`,
+  },
+  {
+    id: 'loc-ton-tai-quan-loc-tu-vi',
+    sao: ['Lộc Tồn'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 75,
+    tomTat: `🌟 **Lộc Tồn + Tử Vi tại Quan Lộc:** công danh **hiển đạt**, tuy chậm mà chắc.`,
+  },
+  {
+    id: 'loc-ton-tai-quan-loc-thien-phu',
+    sao: ['Lộc Tồn'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 75,
+    tomTat: `🌟 **Lộc Tồn + Thiên Phủ tại Quan Lộc:** công danh **hiển đạt**, tuy chậm mà chắc.`,
+  },
+  {
+    id: 'loc-ton-tai-quan-loc-thai-am',
+    sao: ['Lộc Tồn'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thái Âm'],
+    doUuTien: 75,
+    tomTat: `🌟 **Lộc Tồn + Thái Âm miếu vượng tại Quan Lộc:** công danh **hiển đạt**, tuy chậm mà chắc.`,
+  },
+  {
+    id: 'loc-ton-tai-quan-loc-hoa-loc',
+    sao: ['Lộc Tồn'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Lộc Tồn + Hóa Lộc tại Quan Lộc:** công danh **hiển đạt**, tuy chậm mà chắc.`,
+  },
+  {
+    id: 'loc-ton-tai-quan-loc-thien-ma',
+    sao: ['Lộc Tồn'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Mã'],
+    doUuTien: 75,
+    tomTat: `🌟 **Lộc Tồn + Thiên Mã tại Quan Lộc:** công danh **hiển đạt**, tuy chậm mà chắc.`,
+  },
+  {
+    id: 'loc-ton-tai-quan-loc-ta-huu',
+    sao: ['Lộc Tồn'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 75,
+    tomTat: `🌟 **Lộc Tồn + Tả Phù / Hữu Bật tại Quan Lộc:** công danh **hiển đạt**, tuy chậm mà chắc.`,
+  },
+  {
+    id: 'loc-ton-tai-quan-loc-khoi-viet',
+    sao: ['Lộc Tồn'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 75,
+    tomTat: `🌟 **Lộc Tồn + Thiên Khôi / Thiên Việt tại Quan Lộc:** công danh **hiển đạt**, tuy chậm mà chắc.`,
+  },
+  {
+    id: 'loc-ton-tai-quan-loc-long-phuong',
+    sao: ['Lộc Tồn'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Long Trì', 'Phượng Các'],
+    doUuTien: 75,
+    tomTat: `🌟 **Lộc Tồn + Long Trì / Phượng Các tại Quan Lộc:** công danh **hiển đạt**, tuy chậm mà chắc.`,
+  },
+  {
+    id: 'loc-ton-tai-quan-loc-quang-quy',
+    sao: ['Lộc Tồn'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Ân Quang', 'Thiên Quý'],
+    doUuTien: 75,
+    tomTat: `🌟 **Lộc Tồn + Ân Quang / Thiên Quý tại Quan Lộc:** công danh **hiển đạt**, tuy chậm mà chắc.`,
+  },
+  {
+    id: 'loc-ton-tai-quan-loc-khong-kiep-ky-tuan-triet',
+    sao: ['Lộc Tồn'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Tuần', 'Triệt'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Lộc Tồn + Địa Không / Địa Kiếp / Hóa Kỵ / Tuần / Triệt tại Quan Lộc:** công danh sự nghiệp **không bền**, hay có **tai họa**, **thu nhập bấp bênh**, chức vụ khó bền, dễ **gặp họa liên quan đến tiền bạc**.`,
   },
 
   // ============================================================
@@ -312,11 +425,15 @@ liên quan đến tiền bạc**.`,
 🌟 Hay được bạn bè, đồng nghiệp, cấp dưới **mời đi ăn, đi chơi**, có duyên
 **hợp tác, giúp đỡ**, dễ được **biếu xén, tặng quà**.
 
-🌟 **Càng về già càng hay quen được bạn tốt, bạn giỏi**.
-
-⚠️ **+ Địa Không, Địa Kiếp, Hóa Kỵ, Tuần Triệt:** mối quan hệ **"bằng mặt mà
-không bằng lòng"**. Bạn bè **phản trắc**, cộng sự **lừa lọc**, thậm chí rước
-họa vào thân, kéo theo **kiện tụng** hoặc tranh chấp.`,
+🌟 **Càng về già càng hay quen được bạn tốt, bạn giỏi**.`,
+  },
+  {
+    id: 'loc-ton-tai-no-boc-khong-kiep-ky-tuan-triet',
+    sao: ['Lộc Tồn'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Tuần', 'Triệt'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Lộc Tồn + Địa Không / Địa Kiếp / Hóa Kỵ / Tuần / Triệt tại Nô Bộc:** mối quan hệ **"bằng mặt mà không bằng lòng"**. Bạn bè **phản trắc**, cộng sự **lừa lọc**, thậm chí rước họa vào thân, kéo theo **kiện tụng** hoặc tranh chấp.`,
   },
 
   // ============================================================
@@ -332,15 +449,55 @@ họa vào thân, kéo theo **kiện tụng** hoặc tranh chấp.`,
 
 Ra ngoài thường **đi một mình**, luôn cẩn thận, từ tốn, nhẹ nhàng.
 
-Hay được **mời đi ăn, đi uống, được tặng quà** — nói chung là **may mắn**.
-
-🌟 **+ Tử Vi / Thái Âm đắc địa / Hóa Lộc / Tả Hữu / Khôi Việt:** ra ngõ dễ
-**gặp quý nhân**, càng đi xa càng có cơ hội **đổi đời**.
-
-⚠️ **+ Địa Không, Địa Kiếp, Hóa Kỵ, Tuần Triệt:** **"lộc chưa tới đã tan"**,
-tiền bạc khó giữ, gặp người xấu làm hỏng chuyện. Có lúc tưởng được lộc nhưng
-**"lợi bất cập hại"** — vướng vào **rắc rối pháp lý, thị phi**, hoặc bị người
-quen lợi dụng.`,
+Hay được **mời đi ăn, đi uống, được tặng quà** — nói chung là **may mắn**.`,
+  },
+  {
+    id: 'loc-ton-tai-thien-di-tu-vi',
+    sao: ['Lộc Tồn'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Tử Vi tại Thiên Di:** ra ngõ dễ **gặp quý nhân**, càng đi xa càng có cơ hội **đổi đời**.`,
+  },
+  {
+    id: 'loc-ton-tai-thien-di-thai-am',
+    sao: ['Lộc Tồn'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thái Âm'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Thái Âm đắc địa tại Thiên Di:** ra ngõ dễ **gặp quý nhân**, càng đi xa càng có cơ hội **đổi đời**.`,
+  },
+  {
+    id: 'loc-ton-tai-thien-di-hoa-loc',
+    sao: ['Lộc Tồn'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Hóa Lộc tại Thiên Di:** ra ngõ dễ **gặp quý nhân**, càng đi xa càng có cơ hội **đổi đời**.`,
+  },
+  {
+    id: 'loc-ton-tai-thien-di-ta-huu',
+    sao: ['Lộc Tồn'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Tả Phù / Hữu Bật tại Thiên Di:** ra ngõ dễ **gặp quý nhân**, càng đi xa càng có cơ hội **đổi đời**.`,
+  },
+  {
+    id: 'loc-ton-tai-thien-di-khoi-viet',
+    sao: ['Lộc Tồn'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Thiên Khôi / Thiên Việt tại Thiên Di:** ra ngõ dễ **gặp quý nhân**, càng đi xa càng có cơ hội **đổi đời**.`,
+  },
+  {
+    id: 'loc-ton-tai-thien-di-khong-kiep-ky-tuan-triet',
+    sao: ['Lộc Tồn'],
+    cung: ['Thiên Di'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Tuần', 'Triệt'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Lộc Tồn + Địa Không / Địa Kiếp / Hóa Kỵ / Tuần / Triệt tại Thiên Di:** **"lộc chưa tới đã tan"**, tiền bạc khó giữ, gặp người xấu làm hỏng chuyện. Có lúc tưởng được lộc nhưng **"lợi bất cập hại"** — vướng vào **rắc rối pháp lý, thị phi**, hoặc bị người quen lợi dụng.`,
   },
 
   // ============================================================
@@ -364,11 +521,16 @@ tiêu hóa, nội tạng**.
 - Hay **được tiền khi xảy ra tai nạn, thảm họa xung quanh** (ví dụ: bán khẩu
   trang đúng mùa covid → tự dưng giàu to)
 
-⚠️ **+ Địa Không, Địa Kiếp, Thiên Hình, Thiên Riêu, Hóa Kỵ, Linh Tinh, Hỏa
-Tinh:** nhiều **tai nạn** hoặc có **ám tật**.
-
 ⚠️ Nếu **kiếm tiền thất đức** → "gieo gió gặt bão", tiền chưa tới tay đã hóa
 thành họa, dễ mắc **bệnh khó chữa**.`,
+  },
+  {
+    id: 'loc-ton-tai-tat-ach-sat-tinh',
+    sao: ['Lộc Tồn'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Thiên Hình', 'Thiên Riêu', 'Hóa Kỵ', 'Linh Tinh', 'Hỏa Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Lộc Tồn + Địa Không / Địa Kiếp / Thiên Hình / Thiên Riêu / Hóa Kỵ / Linh Tinh / Hỏa Tinh tại Tật Ách:** nhiều **tai nạn** hoặc có **ám tật**.`,
   },
 
   // ============================================================
@@ -387,14 +549,47 @@ Có khả năng **kiểm soát chi tiêu tốt, chặt chẽ**, làm các ngành
 **tài chính** rất tốt.
 
 🌟 Về sau dễ được **ông bà, cha mẹ để lại tiền của**, giữ lại và tiếp tục phát
-huy được.
-
-🌟 **+ Tử Vi / Thiên Phủ / Vũ Khúc / Long Phượng:** **lộc bất tận hưởng**, càng
-về sau càng hưng vượng, ít khi sa sút.
-
-⚠️ **+ Địa Không, Địa Kiếp, Hóa Kỵ, Thiên Không:** tiền tài dễ đến nhưng **dễ
-đi**. Nhiều trường hợp dính phải **lừa đảo, kiện tụng** hoặc hao tán do **tham
-quá hóa liều, đầu cơ sai chỗ**.`,
+huy được.`,
+  },
+  {
+    id: 'loc-ton-tai-tai-bach-tu-vi',
+    sao: ['Lộc Tồn'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 77,
+    tomTat: `🌟 **Lộc Tồn + Tử Vi tại Tài Bạch:** **lộc bất tận hưởng**, càng về sau càng hưng vượng, ít khi sa sút.`,
+  },
+  {
+    id: 'loc-ton-tai-tai-bach-thien-phu',
+    sao: ['Lộc Tồn'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 77,
+    tomTat: `🌟 **Lộc Tồn + Thiên Phủ tại Tài Bạch:** **lộc bất tận hưởng**, càng về sau càng hưng vượng, ít khi sa sút.`,
+  },
+  {
+    id: 'loc-ton-tai-tai-bach-vu-khuc',
+    sao: ['Lộc Tồn'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Vũ Khúc'],
+    doUuTien: 77,
+    tomTat: `🌟 **Lộc Tồn + Vũ Khúc tại Tài Bạch:** **lộc bất tận hưởng**, càng về sau càng hưng vượng, ít khi sa sút.`,
+  },
+  {
+    id: 'loc-ton-tai-tai-bach-long-phuong',
+    sao: ['Lộc Tồn'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Long Trì', 'Phượng Các'],
+    doUuTien: 77,
+    tomTat: `🌟 **Lộc Tồn + Long Trì / Phượng Các tại Tài Bạch:** **lộc bất tận hưởng**, càng về sau càng hưng vượng, ít khi sa sút.`,
+  },
+  {
+    id: 'loc-ton-tai-tai-bach-khong-kiep-ky-thien-khong',
+    sao: ['Lộc Tồn'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Thiên Không'],
+    doUuTien: 77,
+    tomTat: `⚠️ **Lộc Tồn + Địa Không / Địa Kiếp / Hóa Kỵ / Thiên Không tại Tài Bạch:** tiền tài dễ đến nhưng **dễ đi**. Nhiều trường hợp dính phải **lừa đảo, kiện tụng** hoặc hao tán do **tham quá hóa liều, đầu cơ sai chỗ**.`,
   },
 
   // ============================================================
@@ -412,12 +607,17 @@ cha mẹ**.
 🌟 Con cái tuy **số lượng ít nhưng chất lượng cao** — **ngoan, giỏi giang, hiếu
 thảo**. "Lộc trời ban" nên thường tới **muộn**.
 
-⚠️ **+ Sát tinh:** dễ phải **nhận con nuôi** bên ngoài. Có được con cũng **ít
-gần gũi**, sống xa nhà hoặc khó dạy bảo.
-
 🌟 Cách cục được hóa giải phần nào nếu có **Tử Vi, Thiên Phủ, Thái Âm vượng
 địa** → con tuy ít nhưng hiếu thuận, có tài có đức. Cha mẹ về sau hưởng phúc
 nhờ con.`,
+  },
+  {
+    id: 'loc-ton-tai-tu-tuc-sat-tinh',
+    sao: ['Lộc Tồn'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Lộc Tồn + Sát tinh tại Tử Tức:** dễ phải **nhận con nuôi** bên ngoài. Có được con cũng **ít gần gũi**, sống xa nhà hoặc khó dạy bảo.`,
   },
 
   // ============================================================
@@ -436,14 +636,55 @@ cưới xong thường **được một khoản tiền**.
 
 Thường cưới **muộn**, cưới người **hơn tuổi mình**.
 
-🌟 **+ Tử Vi / Thiên Phủ / Thái Âm vượng địa / Hóa Lộc / Tả Hữu:** đường hôn
-nhân thuận lợi, duyên đến muộn nhưng tình nghĩa **sắt son, bền chặt**.
-
-⚠️ **+ Sát tinh hội chiếu:** duyên phận **không suôn sẻ**, hôn nhân **muộn
-màng** hoặc **dang dở**. Vợ chồng khó tránh "**cơm không lành, canh chẳng
-ngọt**".
-
 ⚡ Tình cảm có thể hơi **thiếu lửa, thiếu chủ động**.`,
+  },
+  {
+    id: 'loc-ton-tai-phu-the-tu-vi',
+    sao: ['Lộc Tồn'],
+    cung: ['Phu Thê'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Tử Vi tại Phu Thê:** đường hôn nhân thuận lợi, duyên đến muộn nhưng tình nghĩa **sắt son, bền chặt**.`,
+  },
+  {
+    id: 'loc-ton-tai-phu-the-thien-phu',
+    sao: ['Lộc Tồn'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Thiên Phủ tại Phu Thê:** đường hôn nhân thuận lợi, duyên đến muộn nhưng tình nghĩa **sắt son, bền chặt**.`,
+  },
+  {
+    id: 'loc-ton-tai-phu-the-thai-am',
+    sao: ['Lộc Tồn'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thái Âm'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Thái Âm vượng địa tại Phu Thê:** đường hôn nhân thuận lợi, duyên đến muộn nhưng tình nghĩa **sắt son, bền chặt**.`,
+  },
+  {
+    id: 'loc-ton-tai-phu-the-hoa-loc',
+    sao: ['Lộc Tồn'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Hóa Lộc tại Phu Thê:** đường hôn nhân thuận lợi, duyên đến muộn nhưng tình nghĩa **sắt son, bền chặt**.`,
+  },
+  {
+    id: 'loc-ton-tai-phu-the-ta-huu',
+    sao: ['Lộc Tồn'],
+    cung: ['Phu Thê'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lộc Tồn + Tả Phù / Hữu Bật tại Phu Thê:** đường hôn nhân thuận lợi, duyên đến muộn nhưng tình nghĩa **sắt son, bền chặt**.`,
+  },
+  {
+    id: 'loc-ton-tai-phu-the-sat-tinh',
+    sao: ['Lộc Tồn'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Lộc Tồn + Sát tinh hội chiếu tại Phu Thê:** duyên phận **không suôn sẻ**, hôn nhân **muộn màng** hoặc **dang dở**. Vợ chồng khó tránh "**cơm không lành, canh chẳng ngọt**".`,
   },
 
   // ============================================================
@@ -458,14 +699,23 @@ ngọt**".
     tomTat: `**Lộc Tồn cư Huynh Đệ:** **ít anh chị em**, thường **chênh tuổi nhau
 nhiều**.
 
-🌟 Anh chị em là người **có điều kiện, hiền lành, thích từ thiện**.
-
-🌟 **+ Cát tinh:** quan hệ anh chị em **khăng khít, đầy phúc khí**. Anh em
-giỏi giang, thương yêu và **sẵn sàng tương trợ** lúc khó khăn.
-
-⚠️ **+ Địa Không, Địa Kiếp, Hóa Kỵ:** anh em **"xa mặt cách lòng"**, mỗi người
-mỗi ngả. Cùng máu mủ mà chẳng khác người dưng, thậm chí vì **chút lợi nhỏ mà
-trở mặt**.`,
+🌟 Anh chị em là người **có điều kiện, hiền lành, thích từ thiện**.`,
+  },
+  {
+    id: 'loc-ton-tai-huynh-de-cat-tinh',
+    sao: ['Lộc Tồn'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Lộc Tồn + Cát tinh (Lục Cát) tại Huynh Đệ:** quan hệ anh chị em **khăng khít, đầy phúc khí**. Anh em giỏi giang, thương yêu và **sẵn sàng tương trợ** lúc khó khăn.`,
+  },
+  {
+    id: 'loc-ton-tai-huynh-de-khong-kiep-ky',
+    sao: ['Lộc Tồn'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Lộc Tồn + Địa Không / Địa Kiếp / Hóa Kỵ tại Huynh Đệ:** anh em **"xa mặt cách lòng"**, mỗi người mỗi ngả. Cùng máu mủ mà chẳng khác người dưng, thậm chí vì **chút lợi nhỏ mà trở mặt**.`,
   },
 
   // ============================================================

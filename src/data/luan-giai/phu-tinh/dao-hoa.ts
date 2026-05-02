@@ -232,13 +232,37 @@ phong tình**.`,
 trí ĐẸP NHẤT của Đào Hồng.
 
 → Sự nghiệp đẹp, công danh hiển đạt, môi trường làm việc nhiều người khác giới
-giúp đương số phát huy được sức hút và sự khéo léo.
-
-🌟 **+ Tử / Phủ / Nhật / Nguyệt:** làm **TĂNG rực rỡ**.
-
-🌟 **+ Khôi Việt / Tả Hữu:** **thượng cách** — mở ra con đường công danh sáng lạn.
-
-🌟 **+ văn tinh** (Xương Khúc): công danh càng phát đạt từ tài lẻ.`,
+giúp đương số phát huy được sức hút và sự khéo léo.`,
+  },
+  {
+    id: 'dao-hong-quan-loc-tu-phu-nhat-nguyet',
+    title: 'Đào Hồng + Tử/Phủ/Nhật/Nguyệt tại Quan Lộc - Tăng rực rỡ',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Tử Vi', 'Thiên Phủ', 'Thái Dương', 'Thái Âm'],
+    doUuTien: 80,
+    tomTat: `🌟 **Đào Hồng + Tử Vi / Thiên Phủ / Thái Dương / Thái Âm tại Quan Lộc:**
+làm **TĂNG rực rỡ** cho công danh sự nghiệp.`,
+  },
+  {
+    id: 'dao-hong-quan-loc-khoi-viet-ta-huu',
+    title: 'Đào Hồng + Khôi Việt / Tả Hữu tại Quan Lộc - Thượng cách',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt', 'Tả Phù', 'Hữu Bật'],
+    doUuTien: 80,
+    tomTat: `🌟 **Đào Hồng + Thiên Khôi / Thiên Việt / Tả Phù / Hữu Bật tại Quan
+Lộc:** **thượng cách** — mở ra con đường công danh sáng lạn.`,
+  },
+  {
+    id: 'dao-hong-quan-loc-van-tinh',
+    title: 'Đào Hồng + Văn tinh tại Quan Lộc - Phát đạt từ tài lẻ',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Lưu Niên Văn Tinh', 'Hóa Khoa'],
+    doUuTien: 80,
+    tomTat: `🌟 **Đào Hồng + Văn Xương / Văn Khúc / Lưu Niên Văn Tinh / Hóa Khoa
+tại Quan Lộc:** công danh càng phát đạt từ **tài lẻ**.`,
   },
 
   // ============================================================
@@ -251,13 +275,29 @@ giúp đương số phát huy được sức hút và sự khéo léo.
     cung: ['Thiên Di', 'Quan Lộc', 'Tài Bạch', 'Nô Bộc'],
     doUuTien: 70,
     tomTat: `⚡ **Đào Hồng tại 4 cung Di / Quan / Tài / Nô** — vị trí đặc biệt
-liên quan đến công danh tài lộc.
-
-🌟 **+ Cát tinh:** có **may mắn về công danh, tài lộc** do **người khác phái
-mang đến**.
-
-⚠️ **+ Hung / sát tinh:** **bất lợi về công danh tài lộc** vì đặc tính đào
-hoa của mình → bị tình ái làm hỏng việc, vướng thị phi nam nữ.`,
+liên quan đến công danh tài lộc.`,
+  },
+  {
+    id: 'dao-hong-di-quan-tai-no-luc-cat',
+    title: 'Đào Hồng + Lục Cát tại Di/Quan/Tài/Nô - May mắn từ người khác phái',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Thiên Di', 'Quan Lộc', 'Tài Bạch', 'Nô Bộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `🌟 **Đào Hồng + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Thiên Di / Quan Lộc / Tài Bạch / Nô Bộc:** có
+**may mắn về công danh, tài lộc** do **người khác phái mang đến**.`,
+  },
+  {
+    id: 'dao-hong-di-quan-tai-no-tu-sat',
+    title: 'Đào Hồng + Tứ Sát tại Di/Quan/Tài/Nô - Bất lợi vì tình ái',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Thiên Di', 'Quan Lộc', 'Tài Bạch', 'Nô Bộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Đào Hồng + Tứ Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh)
+tại Thiên Di / Quan Lộc / Tài Bạch / Nô Bộc:** **bất lợi về công danh tài lộc**
+vì đặc tính đào hoa → bị tình ái làm hỏng việc, vướng thị phi nam nữ.`,
   },
 
   // ============================================================
@@ -440,18 +480,74 @@ tính **hư ảo**, dễ chuốc khổ đau.
 - **Nhiều người mê**
 - **Tình ái dở dang**
 
-⚠️ **+ Đà La + Hóa Kỵ:** **gái dâm loàn**, **không sao toàn danh tiết**.
-
-⚠️ **+ Phục Binh + Tướng Quân + Thiên Riêu + Quân + Thai hội:** tất bị **HÃM
-HIẾP và CHỬA HOANG**. Trường hợp này nếu **Quang + Quý** thì có thể **chế ngự
-được phần lớn**.
-
-🌟 **+ Tử Vi / Thiên Phủ / Thiên Hình:** trở nên **đoan thục** — nét đẹp đoan
-chính, giữ mình.
-
-🌟 **Đào Hồng + Tấu Vũ:** làm **thợ may KHÉO**.
-
 (Xem entry chuyên biệt cho cách "Đào Hồng nữ mệnh + Tang Môn tại Phụ Mẫu".)`,
+  },
+  {
+    id: 'dao-hong-nu-menh-da-ky',
+    title: 'Đào Hồng + Đà La + Hóa Kỵ - Nữ mệnh dâm loàn',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Đà La', 'Hóa Kỵ'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `⚠️ **Nữ mệnh có Đào Hồng + Đà La + Hóa Kỵ tại Mệnh:** **gái dâm loàn**,
+**không sao toàn danh tiết**.`,
+  },
+  {
+    id: 'dao-hong-nu-menh-phuc-binh-tuong-quan-rieu-thai',
+    title: 'Đào Hồng + Phục Binh + Tướng Quân + Thiên Riêu + Thai - Hãm hiếp, chửa hoang',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Phục Binh', 'Tướng Quân', 'Thiên Riêu', 'Thai'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `⚠️ **Nữ mệnh có Đào Hồng + Phục Binh + Tướng Quân + Thiên Riêu + Thai
+hội tại Mệnh:** tất bị **HÃM HIẾP và CHỬA HOANG**.
+
+→ Nếu thêm **Ân Quang + Thiên Quý** thì có thể **chế ngự được phần lớn**.`,
+  },
+  {
+    id: 'dao-hong-nu-menh-tu-vi',
+    title: 'Đào Hồng + Tử Vi - Nữ mệnh đoan thục',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Tử Vi'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `🌟 **Nữ mệnh có Đào Hồng + Tử Vi tại Mệnh:** trở nên **đoan thục** —
+nét đẹp đoan chính, giữ mình.`,
+  },
+  {
+    id: 'dao-hong-nu-menh-thien-phu',
+    title: 'Đào Hồng + Thiên Phủ - Nữ mệnh đoan thục',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Phủ'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `🌟 **Nữ mệnh có Đào Hồng + Thiên Phủ tại Mệnh:** trở nên **đoan thục**
+— nét đẹp đoan chính, giữ mình.`,
+  },
+  {
+    id: 'dao-hong-nu-menh-thien-hinh',
+    title: 'Đào Hồng + Thiên Hình - Nữ mệnh đoan thục',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Hình'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `🌟 **Nữ mệnh có Đào Hồng + Thiên Hình tại Mệnh:** trở nên **đoan thục**
+— nét đẹp đoan chính, giữ mình.`,
+  },
+  {
+    id: 'dao-hong-nu-menh-tau-vu',
+    title: 'Đào Hồng + Tấu Vũ - Nữ mệnh thợ may khéo',
+    sao: ['Đào Hoa', 'Hồng Loan'],
+    cung: ['Mệnh'],
+    ketHop: ['Tấu Vũ'],
+    gioiTinh: 'Nữ',
+    doUuTien: 73,
+    tomTat: `🌟 **Nữ mệnh có Đào Hồng + Tấu Vũ tại Mệnh:** làm **thợ may KHÉO**.`,
   },
 
   {
@@ -527,7 +623,7 @@ bạn đời → tình duyên trắc trở, dễ rơi vào cảnh **"lắm mối
 - **Tóc**: rụng tóc, suy nhược
 - **Khí huyết**: kém
 - **Tửu lượng kém**
-- ⚠️ **+ Thai / Mộc Dục / Hóa Kỵ:** dễ mắc **bệnh lây qua đường tình dục**
+- ⚠️ **Khi có Thai / Mộc Dục / Hóa Kỵ:** dễ mắc **bệnh lây qua đường tình dục**
 
 ## Tài lộc - từ khiếu nghệ thuật
 
@@ -630,10 +726,6 @@ duy trì vận phúc lâu dài.`,
     tomTat: `🌟 **Đào Hoa cư Quan Lộc:** tuổi trẻ **đầy sức sống, giàu nhiệt
 huyết, sáng tạo và ham học hỏi**.
 
-🌟 **+ Đào Hồng hội chiếu:** đam mê cống hiến, **lăn xả** đạt thành tích cao.
-
-🌟 **+ Khôi Việt / Tả Phù / Hữu Bật:** **thượng cách** — công danh **sáng lạn**.
-
 ⚡ **Đặc trưng:** dễ được cấp trên **tín nhiệm, giao trọng trách**, được tạo
 điều kiện **học tập nâng cao**.
 
@@ -642,6 +734,26 @@ duyên gặp gỡ**.
 
 🌟 **Năng khiếu nghệ thuật bẩm sinh:** viết lách, hội họa, âm nhạc, thi ca.
 Nếu theo đuổi sở trường có thể **"tay ngang thành danh"**.`,
+  },
+  {
+    id: 'dao-hoa-quan-loc-hong-loan',
+    title: 'Đào Hoa + Hồng Loan tại Quan Lộc - Đam mê cống hiến',
+    sao: ['Đào Hoa'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hồng Loan'],
+    doUuTien: 73,
+    tomTat: `🌟 **Đào Hoa + Hồng Loan hội chiếu tại Quan Lộc:** đam mê cống hiến,
+**lăn xả** đạt thành tích cao.`,
+  },
+  {
+    id: 'dao-hoa-quan-loc-luc-cat',
+    title: 'Đào Hoa + Lục Cát tại Quan Lộc - Thượng cách',
+    sao: ['Đào Hoa'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Quan Lộc:** **thượng cách** — công danh **sáng lạn**.`,
   },
 
   // ============================================================
@@ -659,12 +771,37 @@ tay bài trí nhà cửa**.
 🌟 Chuộng lối sống **tao nhã** — chọn kiểu **nhà cổ có thư phòng, bể cá, cây
 cảnh, nơi thưởng trà**.
 
-⚡ Môi trường sống dễ gần **khu sầm uất** — quán xá, **tiệm hoa, salon làm đẹp**.
-
-⚠️ **+ Sát tinh:** chuyển hóa thành mặt tiêu cực.
-
-⚠️ **+ Địa Kiếp / Điếu Khách:** nhà ở gần **khu ăn chơi sắc dục** hoặc **ổ cờ
-bạc, tệ nạn nhiều cám dỗ**.`,
+⚡ Môi trường sống dễ gần **khu sầm uất** — quán xá, **tiệm hoa, salon làm đẹp**.`,
+  },
+  {
+    id: 'dao-hoa-dien-trach-tu-sat',
+    title: 'Đào Hoa + Tứ Sát tại Điền Trạch - Chuyển hóa tiêu cực',
+    sao: ['Đào Hoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đào Hoa + Tứ Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh) tại
+Điền Trạch:** chuyển hóa thành **mặt tiêu cực**.`,
+  },
+  {
+    id: 'dao-hoa-dien-trach-dia-kiep',
+    title: 'Đào Hoa + Địa Kiếp tại Điền Trạch - Nhà gần ăn chơi',
+    sao: ['Đào Hoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đào Hoa + Địa Kiếp tại Điền Trạch:** nhà ở gần **khu ăn chơi sắc
+dục** hoặc **ổ cờ bạc, tệ nạn nhiều cám dỗ**.`,
+  },
+  {
+    id: 'dao-hoa-dien-trach-dieu-khach',
+    title: 'Đào Hoa + Điếu Khách tại Điền Trạch - Nhà gần ăn chơi',
+    sao: ['Đào Hoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Điếu Khách'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đào Hoa + Điếu Khách tại Điền Trạch:** nhà ở gần **khu ăn chơi
+sắc dục** hoặc **ổ cờ bạc, tệ nạn nhiều cám dỗ**.`,
   },
 
   // ============================================================
@@ -685,10 +822,18 @@ bạc, tệ nạn nhiều cám dỗ**.`,
   trợ đủ đường
 
 🌟 **Số xuất ngoại** — phải **lập nghiệp xa quê, kết duyên hoặc định cư nơi
-đất khách**.
-
-🌟 **+ Cát tinh:** **tiếng tăm nổi như cồn**, chân bước đến đâu thành danh đến
-đó.`,
+đất khách**.`,
+  },
+  {
+    id: 'dao-hoa-thien-di-luc-cat',
+    title: 'Đào Hoa + Lục Cát tại Thiên Di - Tiếng tăm nổi như cồn',
+    sao: ['Đào Hoa'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 75,
+    tomTat: `🌟 **Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Thiên Di:** **tiếng tăm nổi như cồn**, chân bước
+đến đâu thành danh đến đó.`,
   },
 
   // ============================================================
@@ -744,12 +889,48 @@ khiếu, bộ não nhạy bén, tài ăn nói khéo léo** để làm giàu.
 
 🌟 Tuổi còn trẻ đã **tự biết kiếm tiền**, **khởi nghiệp sớm**, độc lập tài chính.
 
-🌟 **+ Khôi / Việt / Tả Phù / Hữu Bật / Lộc Tồn:** khả năng **làm chủ kinh tế
-rất mạnh**, "lấy ngón nghề nuôi thân".
-
-⚠️ **+ Sát tinh / Hóa Kỵ:** vận đời dễ phải **dùng nhan sắc để kiếm tiền**.
-
 (Xem entry chuyên biệt cho nữ mệnh.)`,
+  },
+  {
+    id: 'dao-hoa-tai-bach-luc-cat',
+    title: 'Đào Hoa + Lục Cát tại Tài Bạch - Làm chủ kinh tế',
+    sao: ['Đào Hoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Tài Bạch:** khả năng **làm chủ kinh tế rất mạnh**,
+"lấy ngón nghề nuôi thân".`,
+  },
+  {
+    id: 'dao-hoa-tai-bach-loc-ton',
+    title: 'Đào Hoa + Lộc Tồn tại Tài Bạch - Làm chủ kinh tế',
+    sao: ['Đào Hoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Lộc Tồn'],
+    doUuTien: 73,
+    tomTat: `🌟 **Đào Hoa + Lộc Tồn tại Tài Bạch:** khả năng **làm chủ kinh tế rất
+mạnh**, "lấy ngón nghề nuôi thân".`,
+  },
+  {
+    id: 'dao-hoa-tai-bach-tu-sat',
+    title: 'Đào Hoa + Tứ Sát tại Tài Bạch - Dùng nhan sắc kiếm tiền',
+    sao: ['Đào Hoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Đào Hoa + Tứ Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh)
+tại Tài Bạch:** vận đời dễ phải **dùng nhan sắc để kiếm tiền**.`,
+  },
+  {
+    id: 'dao-hoa-tai-bach-hoa-ky',
+    title: 'Đào Hoa + Hóa Kỵ tại Tài Bạch - Dùng nhan sắc kiếm tiền',
+    sao: ['Đào Hoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Đào Hoa + Hóa Kỵ tại Tài Bạch:** vận đời dễ phải **dùng nhan sắc
+để kiếm tiền**.`,
   },
 
   {
@@ -776,15 +957,60 @@ tinh hãm địa.`,
     cung: ['Tật Ách'],
     doUuTien: 75,
     tomTat: `🌟 **Đào Hoa cư Tật Ách:** đương số có **khả năng hồi phục nhanh**,
-**bệnh nhẹ chóng khỏi** — như cây cỏ gặp mưa lại tươi tốt.
-
-⚠️ **+ Hung sát bại tinh:** cần đặc biệt chú ý:
+**bệnh nhẹ chóng khỏi** — như cây cỏ gặp mưa lại tươi tốt.`,
+  },
+  {
+    id: 'dao-hoa-tat-ach-luc-sat',
+    title: 'Đào Hoa + Lục Sát tại Tật Ách - Chú ý tim mạch / máu huyết',
+    sao: ['Đào Hoa'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đào Hoa + Lục Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh /
+Địa Không / Địa Kiếp) tại Tật Ách:** cần đặc biệt chú ý:
 - **Tim mạch**, **tóc tai**
 - **Máu huyết**
-- **Thận** (khi bước vào tuổi trung niên)
-
-⚠️ **+ Thai / Mộc Dục / Hóa Kỵ / Thái Âm:** nguy cơ mắc **bệnh đường sinh dục
+- **Thận** (khi bước vào tuổi trung niên)`,
+  },
+  {
+    id: 'dao-hoa-tat-ach-thai',
+    title: 'Đào Hoa + Thai tại Tật Ách - Bệnh sinh dục, nội tiết',
+    sao: ['Đào Hoa'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thai'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đào Hoa + Thai tại Tật Ách:** nguy cơ mắc **bệnh đường sinh dục
 và nội tiết**.`,
+  },
+  {
+    id: 'dao-hoa-tat-ach-moc-duc',
+    title: 'Đào Hoa + Mộc Dục tại Tật Ách - Bệnh sinh dục, nội tiết',
+    sao: ['Đào Hoa'],
+    cung: ['Tật Ách'],
+    ketHop: ['Mộc Dục'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đào Hoa + Mộc Dục tại Tật Ách:** nguy cơ mắc **bệnh đường sinh
+dục và nội tiết**.`,
+  },
+  {
+    id: 'dao-hoa-tat-ach-hoa-ky',
+    title: 'Đào Hoa + Hóa Kỵ tại Tật Ách - Bệnh sinh dục, nội tiết',
+    sao: ['Đào Hoa'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đào Hoa + Hóa Kỵ tại Tật Ách:** nguy cơ mắc **bệnh đường sinh
+dục và nội tiết**.`,
+  },
+  {
+    id: 'dao-hoa-tat-ach-thai-am',
+    title: 'Đào Hoa + Thái Âm tại Tật Ách - Bệnh sinh dục, nội tiết',
+    sao: ['Đào Hoa'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thái Âm'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đào Hoa + Thái Âm tại Tật Ách:** nguy cơ mắc **bệnh đường sinh
+dục và nội tiết**.`,
   },
 
   // ============================================================

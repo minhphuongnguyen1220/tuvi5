@@ -193,12 +193,6 @@ con cháu đời sau cũng dễ có duyên tu tập.`,
 - **HÓA GIẢI** tai ương, bệnh tật nhỏ
 - Đem lại **MAY MẮN, HỶ SỰ**
 
-⚡ **+ Sao giải hỗ trợ** (Thiên Giải, Địa Giải, Giải Thần, Thiên Quan, Thiên
-Phúc, Quang Quý, Tả Hữu):
-- Hiệu lực cứu giải **CÀNG MẠNH**
-- Đương số **GẶP DỮ HÓA LÀNH**
-- **TAI QUA NẠN KHỎI**
-
 ⚠️ **Đặc biệt - Thiên Đức tại Mệnh CŨNG đồng cung Phúc Đức:**
 - → Tam hợp Thái Tuế: **Thiếu Dương + Thiên Không + Đào Hoa + Kiếp Sát + Tử
   Phù** (do Phúc Đức là sao vòng Thái Tuế vị trí 9)
@@ -209,6 +203,20 @@ Phúc, Quang Quý, Tả Hữu):
 - Tựa "**KHUÔN VÀNG THƯỚC NGỌC**" nhắc nhở **TU DƯỠNG TÂM TÍNH**
 - Dùng trí tuệ vào **VIỆC CHÍNH ĐÁNG**
 - Nếu mưu trí dùng vào **VIỆC SAI TRÁI** → thành công cũng **CHÓNG TÀN**`,
+  },
+
+  {
+    id: 'thien-duc-tai-menh-sao-giai',
+    title: 'Thiên Đức tại Mệnh + Sao giải hỗ trợ',
+    sao: ['Thiên Đức'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Giải', 'Địa Giải', 'Giải Thần', 'Thiên Quan', 'Thiên Phúc', 'Ân Quang', 'Thiên Quý', 'Tả Phù', 'Hữu Bật'],
+    doUuTien: 75,
+    tomTat: `**Thiên Đức tại Mệnh + Sao giải hỗ trợ** (Thiên Giải, Địa Giải, Giải Thần,
+Thiên Quan, Thiên Phúc, Quang Quý, Tả Hữu):
+- Hiệu lực cứu giải **CÀNG MẠNH**
+- Đương số **GẶP DỮ HÓA LÀNH**
+- **TAI QUA NẠN KHỎI**`,
   },
 
   {
@@ -223,12 +231,28 @@ Phúc, Quang Quý, Tả Hữu):
 - Cha mẹ thường là người **HIỀN HÒA, NHÂN TỪ**
 - Giàu **LÒNG VỊ THA**
 - Sống **CÓ TÌNH CÓ NGHĨA**
-- Biết **QUAN TÂM VÀ GIÚP ĐỠ** mọi người
+- Biết **QUAN TÂM VÀ GIÚP ĐỠ** mọi người`,
+  },
 
-⚡ **+ Nguyệt Đức:**
-- Cha mẹ càng **NHÂN HẬU, ĐỨC ĐỘ**
+  {
+    id: 'thien-duc-tai-phu-mau-nguyet-duc',
+    title: 'Thiên Đức + Nguyệt Đức tại Phụ Mẫu',
+    sao: ['Thiên Đức'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Nguyệt Đức'],
+    doUuTien: 70,
+    tomTat: `**Thiên Đức + Nguyệt Đức tại Phụ Mẫu:**
+- Cha mẹ càng **NHÂN HẬU, ĐỨC ĐỘ**`,
+  },
 
-⚡ **+ Cát tinh khác:**
+  {
+    id: 'thien-duc-tai-phu-mau-cat-tinh',
+    title: 'Thiên Đức + Cát tinh tại Phụ Mẫu',
+    sao: ['Thiên Đức'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `**Thiên Đức + Cát tinh khác tại Phụ Mẫu:**
 - Gia đình **NỀ NẾP TỐT ĐẸP**
 - Cha mẹ giữ **TIẾNG THƠM** về nhân cách
 - Để lại **PHÚC PHẦN DỒI DÀO** cho con cái
@@ -250,14 +274,30 @@ Phúc, Quang Quý, Tả Hữu):
 - Biết "**DĨ HÒA VI QUÝ**", cư xử **NHÚN NHƯỜNG**
 - Trong nhà ngoài ngõ đều **YÊN ẤM**
 - Là nền tảng để **PHÚC KHÍ GIA TỘC BỀN LÂU**
-- Mồ mả tổ tiên **THUẬN VỊ**
+- Mồ mả tổ tiên **THUẬN VỊ**`,
+  },
 
-⚡ **+ Nguyệt Đức (Tứ Đức đầy đủ):**
+  {
+    id: 'thien-duc-tai-phuc-duc-nguyet-duc',
+    title: 'Thiên Đức + Nguyệt Đức tại Phúc Đức (Tứ Đức đầy đủ)',
+    sao: ['Thiên Đức'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Nguyệt Đức'],
+    doUuTien: 73,
+    tomTat: `**Thiên Đức + Nguyệt Đức tại Phúc Đức (Tứ Đức đầy đủ):**
 - Họ hàng **PHÚC HẬU**
 - Mồ mả tổ tiên gần nơi **THỜ PHẬT BÀ QUAN ÂM**
-- Phúc ấm tổ tiên cực đẹp
+- Phúc ấm tổ tiên cực đẹp`,
+  },
 
-⚡ **+ Tam Thai - Bát Tọa hoặc Quan Phúc:**
+  {
+    id: 'thien-duc-tai-phuc-duc-tam-thai-bat-toa-quan-phuc',
+    title: 'Thiên Đức + Tam Thai Bát Tọa hoặc Quan Phúc tại Phúc Đức',
+    sao: ['Thiên Đức'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tam Thai', 'Bát Tọa', 'Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 73,
+    tomTat: `**Thiên Đức + Tam Thai - Bát Tọa hoặc Quan Phúc tại Phúc Đức:**
 - Mồ mả tổ tiên **YÊN ỔN, LONG MẠCH VƯỢNG PHÁT**
 - Gia tộc có **TRUYỀN THỐNG HÀNH THIỆN TÍCH ĐỨC**
 - Con cháu hưởng **PHÚC ẤM**
@@ -296,9 +336,17 @@ Phúc, Quang Quý, Tả Hữu):
 - **ÍT GẶP TRỞ NGẠI LỚN**
 - Người luôn đặt **CÁI TÂM NGANG VỚI TÀI**
 - Làm việc với **LƯƠNG TRI VÀ TINH THẦN TRÁCH NHIỆM CAO**
-- Dễ nhận được **SỰ TIN TƯỞNG, KÍNH NỂ** từ đồng nghiệp và cấp trên
+- Dễ nhận được **SỰ TIN TƯỞNG, KÍNH NỂ** từ đồng nghiệp và cấp trên`,
+  },
 
-⚡ **+ Nguyệt Đức + Thiên Quan + Thiên Phúc + Tả Hữu:**
+  {
+    id: 'thien-duc-tai-quan-loc-nguyet-duc-quan-phuc-ta-huu',
+    title: 'Thiên Đức + Nguyệt Đức + Quan Phúc + Tả Hữu tại Quan Lộc',
+    sao: ['Thiên Đức'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Nguyệt Đức', 'Thiên Quan', 'Thiên Phúc', 'Tả Phù', 'Hữu Bật'],
+    doUuTien: 73,
+    tomTat: `**Thiên Đức + Nguyệt Đức + Thiên Quan + Thiên Phúc + Tả Hữu tại Quan Lộc:**
 - Vận trình công danh như "**CÁ GẶP NƯỚC**"
 - **CÀNG LÀM CÀNG THUẬN**`,
   },
@@ -315,9 +363,18 @@ Phúc, Quang Quý, Tả Hữu):
 - Bạn bè, cộng sự xung quanh có **TẤM LÒNG NHÂN ÁI**
 - Có **SỰ THẤU HIỂU VÀ NÂNG ĐỠ** lẫn nhau
 - Mối liên hệ xã giao **KHÁ YÊN ẤM**, ít sóng gió
-- Dễ gặp **NGƯỜI TỐT KỀ VAI SÁT CÁNH**
+- Dễ gặp **NGƯỜI TỐT KỀ VAI SÁT CÁNH**`,
+  },
 
-⚡ **+ Thái Âm + Thiên Phủ + Thiên Cơ + Thiên Đồng + Thiên Lương:**
+  {
+    id: 'thien-duc-tai-no-boc-co-nguyet-dong-luong',
+    title: 'Thiên Đức + Cơ Nguyệt Đồng Lương + Thiên Phủ tại Nô Bộc',
+    sao: ['Thiên Đức'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thái Âm', 'Thiên Phủ', 'Thiên Cơ', 'Thiên Đồng', 'Thiên Lương'],
+    doUuTien: 70,
+    tomTat: `**Thiên Đức + Thái Âm + Thiên Phủ + Thiên Cơ + Thiên Đồng + Thiên Lương tại
+Nô Bộc:**
 - Bạn bè đều là **NGƯỜI HIỀN LƯƠNG, ĐỨC ĐỘ**
 - Cùng đồng hành công việc lẫn cuộc sống`,
   },
@@ -333,9 +390,17 @@ Phúc, Quang Quý, Tả Hữu):
 ⚡ **Đặc trưng:**
 - Khi bước chân ra ngoài luôn biết giữ thái độ **NHÃ NHẶN, KHIÊM TỐN**
 - Biết **GIÚP NGƯỜI LÚC KHÓ KHĂN**
-- Dễ được người khác **ĐÁP LẠI ÂN TÌNH**
+- Dễ được người khác **ĐÁP LẠI ÂN TÌNH**`,
+  },
 
-⚡ **+ Khôi Việt + Thiên Quan + Thiên Phúc:**
+  {
+    id: 'thien-duc-tai-thien-di-khoi-viet-quan-phuc',
+    title: 'Thiên Đức + Khôi Việt + Quan Phúc tại Thiên Di',
+    sao: ['Thiên Đức'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt', 'Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 70,
+    tomTat: `**Thiên Đức + Khôi Việt + Thiên Quan + Thiên Phúc tại Thiên Di:**
 - Cuộc sống nơi **ĐẤT KHÁCH**:
   - Được **QUÝ NHÂN GIÚP ĐỠ**
   - Gặp nhiều **CƠ HỘI TỐT**
@@ -378,15 +443,23 @@ VỆ**".
 - Lấy **CHỮ TÍN LÀM ĐẦU**
 - Không **BON CHEN TRANH ĐOẠT**
 
-⚡ **+ Nguyệt Đức + Thiên Quan + Thiên Phúc:**
-- Có **LỘC TIỀN TÀI**
-- Tài vận **ỔN ĐỊNH**
-
 ⚡ **Đặc tính:**
 - Nhiều người có xu hướng đem tiền **LÀM TỪ THIỆN**
 - Tạo phúc đức cho đời
 - Nhờ **TÂM SÁNG** mà tài vận **ỔN ĐỊNH**
 - Ít khi lâm vào cảnh **TÚNG THIẾU**`,
+  },
+
+  {
+    id: 'thien-duc-tai-tai-bach-nguyet-duc-quan-phuc',
+    title: 'Thiên Đức + Nguyệt Đức + Quan Phúc tại Tài Bạch',
+    sao: ['Thiên Đức'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Nguyệt Đức', 'Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 70,
+    tomTat: `**Thiên Đức + Nguyệt Đức + Thiên Quan + Thiên Phúc tại Tài Bạch:**
+- Có **LỘC TIỀN TÀI**
+- Tài vận **ỔN ĐỊNH**`,
   },
 
   {
@@ -402,16 +475,36 @@ VỆ**".
 - Biết **KÍNH TRÊN NHƯỜNG DƯỚI**
 - Gia đình **ÍT XUNG ĐỘT**
 
-⚡ **+ Thiên Đồng / Nguyệt Đức:**
-- Vợ chồng dễ **SỚM CÓ TIN VUI** về con cái
-- Tổ ấm thêm **RỘN RÀNG TIẾNG CƯỜI**
-
 ⚡ **Đặc trưng:**
 - "**CON CÁI LÀ LỘC TRỜI CHO**"
 - Sự xuất hiện của con cái:
   - Đem lại **NIỀM VUI**
   - Tình cảm vợ chồng thêm **BỀN CHẶT**
   - Cuộc sống gia đình **ẤM ÊM, HẠNH PHÚC LÂU DÀI**`,
+  },
+
+  {
+    id: 'thien-duc-tai-tu-tuc-thien-dong',
+    title: 'Thiên Đức + Thiên Đồng tại Tử Tức',
+    sao: ['Thiên Đức'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Đồng'],
+    doUuTien: 70,
+    tomTat: `**Thiên Đức + Thiên Đồng tại Tử Tức:**
+- Vợ chồng dễ **SỚM CÓ TIN VUI** về con cái
+- Tổ ấm thêm **RỘN RÀNG TIẾNG CƯỜI**`,
+  },
+
+  {
+    id: 'thien-duc-tai-tu-tuc-nguyet-duc',
+    title: 'Thiên Đức + Nguyệt Đức tại Tử Tức',
+    sao: ['Thiên Đức'],
+    cung: ['Tử Tức'],
+    ketHop: ['Nguyệt Đức'],
+    doUuTien: 70,
+    tomTat: `**Thiên Đức + Nguyệt Đức tại Tử Tức:**
+- Vợ chồng dễ **SỚM CÓ TIN VUI** về con cái
+- Tổ ấm thêm **RỘN RÀNG TIẾNG CƯỜI**`,
   },
 
   {
@@ -428,10 +521,18 @@ VỆ**".
 - Biết **GIỮ HÒA KHÍ** trong gia đình
 - Đôi bên **NHƯỜNG NHỊN NHAU**
 - Mâu thuẫn cũng "**CHÍN BỎ LÀM MƯỜI**"
-- **TRÁNH XUNG ĐỘT** không đáng
+- **TRÁNH XUNG ĐỘT** không đáng`,
+  },
 
-⚡ **+ Thiên Phủ + Thái Âm + Thái Dương + Thiên Đồng + Nguyệt Đức + Đào
-Hoa + Ân Quang + Thiên Quý:**
+  {
+    id: 'thien-duc-tai-phu-the-bo-quy-cach',
+    title: 'Thiên Đức + Phủ Âm Dương Đồng + Nguyệt Đức + Đào + Quang Quý tại Phu Thê',
+    sao: ['Thiên Đức'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Phủ', 'Thái Âm', 'Thái Dương', 'Thiên Đồng', 'Nguyệt Đức', 'Đào Hoa', 'Ân Quang', 'Thiên Quý'],
+    doUuTien: 73,
+    tomTat: `**Thiên Đức + Thiên Phủ + Thái Âm + Thái Dương + Thiên Đồng + Nguyệt Đức +
+Đào Hoa + Ân Quang + Thiên Quý tại Phu Thê:**
 - Vợ chồng **TRAI TÀI GÁI SẮC**
 - Tình cảm **HÒA HỢP**
 - Gia đình được **NHIỀU NGƯỜI NGƯỠNG MỘ VÀ QUÝ MẾN**`,
@@ -443,9 +544,17 @@ Hoa + Ân Quang + Thiên Quý:**
     sao: ['Thiên Đức'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Thiên Đức tại Huynh Đệ** — anh chị em **THUẬN HÒA**, "chị ngã em nâng".
+    tomTat: `**Thiên Đức tại Huynh Đệ** — anh chị em **THUẬN HÒA**, "chị ngã em nâng".`,
+  },
 
-⚡ **+ Tả Phù + Hữu Bật:**
+  {
+    id: 'thien-duc-tai-huynh-de-ta-huu',
+    title: 'Thiên Đức + Tả Phù + Hữu Bật tại Huynh Đệ',
+    sao: ['Thiên Đức'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `**Thiên Đức + Tả Phù + Hữu Bật tại Huynh Đệ:**
 - Anh chị em trong nhà **THUẬN HÒA**
 - Biết **NƯƠNG TỰA VÀ GIÚP ĐỠ** lẫn nhau
 - Quan hệ tình cảm **BỀN CHẶT**
