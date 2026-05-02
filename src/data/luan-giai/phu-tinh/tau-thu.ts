@@ -362,7 +362,7 @@ người xung quanh.
     id: 'tau-thu-phu-the-dao-hong-menh-ly-hon',
     title: 'Tấu Thư Phu + Đào Hồng/Hoa Cái Mệnh - Đơn ly hôn',
     sao: ['Tấu Thư'],
-    cung: ['Mệnh'],
+    cung: ['Phu Thê', 'Mệnh'],
     ketHop: ['Đào Hoa', 'Hồng Loan', 'Hoa Cái'],
     doUuTien: 70,
     tomTat: `⚠️ **Tấu Thư tại Phu Thê + sát bại tinh + Đào Hồng / Hoa Cái thủ Mệnh:**

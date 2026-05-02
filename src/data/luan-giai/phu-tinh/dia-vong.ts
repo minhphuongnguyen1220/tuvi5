@@ -62,7 +62,7 @@ export const luanGiai_DiaVong: DoanLuanGiai[] = [
     doUuTien: 35,
     tomTat: `**Địa Võng** luôn **CỐ ĐỊNH tại cung Tuất** — gọi là **LƯỚI ĐẤT**.
 
-⚡ Là một nửa của **TRỤC LƯỚI TRỜI** (cùng Thiên La cố định Thìn) — hai cung
+⚡ Là một nửa của **TRỤC LƯỚI TRỜI** (cùng Thiên La phía đối) — hai cung
 xung chiếu nhau tạo nên cặp đôi nghiệp duyên ràng buộc.`,
   },
 
@@ -171,7 +171,7 @@ Lưu Hà) tại Phụ Mẫu** — **TRI THỨC LƯU TRUYỀN**.
     id: 'dia-vong-phuc-menh-co-khong-thoat-the-tuc',
     title: 'Địa Võng Phúc + sao Không tại Mệnh - Thoát ly thế tục',
     sao: ['Địa Võng'],
-    cung: ['Mệnh'],
+    cung: ['Phúc Đức', 'Mệnh'],
     ketHop: ['Địa Không', 'Thiên Không'],
     doUuTien: 65,
     tomTat: `⚡ **Địa Võng tại Phúc Đức + sao Không tọa thủ tại Mệnh:**
@@ -197,7 +197,7 @@ Lưu Hà) tại Phụ Mẫu** — **TRI THỨC LƯU TRUYỀN**.
     id: 'dia-vong-tai-bach-da-ky-hinh-hao-tich-thu',
     title: 'Địa Võng Điền + Đà Kỵ Hình Hao tại Tài - Tài sản bị tịch thu',
     sao: ['Địa Võng'],
-    cung: ['Tài Bạch'],
+    cung: ['Điền Trạch', 'Tài Bạch'],
     ketHop: ['Đà La', 'Hóa Kỵ', 'Thiên Hình', 'Đại Hao', 'Tiểu Hao'],
     doUuTien: 65,
     tomTat: `⚠️ **Địa Võng tại Điền Trạch + cung Tài Bạch hội tụ Đà Kỵ Hình Hao:**

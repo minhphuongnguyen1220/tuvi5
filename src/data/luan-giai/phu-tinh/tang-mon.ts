@@ -403,7 +403,7 @@ trí đắc cách — không vì đắc địa mà miễn nhiễm.`,
 
 ⚠️ **TANG CHỒNG hoặc TANG VỢ**, hoặc **LY THÂN, LY HÔN**.
 
-⚠️ **Ở GÓA** (nếu các cung trọng yếu khác như Phúc Đức xấu).
+⚠️ **Ở GÓA** (nếu các cung trọng yếu khác xấu).
 
 ⚠️ **HÓA GIẢI:** lấy vợ/chồng **CÓ TẬT** (mù lòa, què gãy) → mới **TRÁNH ĐƯỢC
 HÌNH KHẮC, CHIA LY**.

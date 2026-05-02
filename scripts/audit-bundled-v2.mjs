@@ -137,13 +137,15 @@ for await (const file of walk(ROOT)) {
     // Những dòng này là metadata, không phải rule, không cần audit.
     const stripPointerLines = (s) => s.split('\n').filter(line => {
       const t = line.trim();
-      if (/Xem entry chuyên biệt/i.test(t)) return false;
+      if (/Xem entr(?:y|ies) chuyên biệt/i.test(t)) return false;
       if (/được tách thành luận giải riêng/i.test(t)) return false;
       if (/Tổ hợp .* được tách/i.test(t)) return false;
       return true;
     }).join('\n');
-    const tomTat = stripPointerLines(tomTatRaw);
-    const chiTiet = stripPointerLines(chiTietRaw);
+    // "Dần dà" là idiom Vietnamese ("dần dần"), không phải chi Dần.
+    const dropIdiomDanDa = (s) => s.replace(/Dần dà/g, 'sau này');
+    const tomTat = dropIdiomDanDa(stripPointerLines(tomTatRaw));
+    const chiTiet = dropIdiomDanDa(stripPointerLines(chiTietRaw));
     const content = tomTat + '\n' + chiTiet;
     const saoField = getArrayField(ent.src, 'sao') || [];
     const ketHopFieldArr = getArrayField(ent.src, 'ketHop') || [];

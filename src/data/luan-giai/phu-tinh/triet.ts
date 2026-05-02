@@ -391,7 +391,7 @@ không bền, tuổi niên thiếu vất vả.`,
     id: 'triet-menh-phu-mau-mo-coi',
     title: 'Triệt tại Mệnh và Phụ Mẫu - Mồ côi sớm',
     sao: ['Triệt'],
-    cung: ['Phụ Mẫu'],
+    cung: ['Mệnh', 'Phụ Mẫu'],
     doUuTien: 70,
     tomTat: `⚠️ **Triệt đồng thời tại Mệnh và Phụ Mẫu** — có thể **MỒ CÔI SỚM** hoặc
 sớm ra đời tự lập.

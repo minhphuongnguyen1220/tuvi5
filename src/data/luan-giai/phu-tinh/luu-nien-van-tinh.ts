@@ -265,7 +265,7 @@ NHIỀU BẰNG CẤP CAO**.`,
     id: 'luu-nien-no-boc-menh-luong-tuong',
     title: 'Lưu Niên Văn Tinh Nô + Thiên Lương/Tướng tại Mệnh - thầy giáo',
     sao: ['Lưu Niên Văn Tinh'],
-    cung: ['Mệnh'],
+    cung: ['Nô Bộc', 'Mệnh'],
     ketHop: ['Thiên Lương', 'Thiên Tướng'],
     doUuTien: 67,
     tomTat: `🌟 **Lưu Niên Văn Tinh tại Nô Bộc + Thiên Lương / Thiên Tướng tại Mệnh:**

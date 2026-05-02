@@ -449,12 +449,19 @@ HIẾP và CHỬA HOANG**. Trường hợp này nếu **Quang + Quý** thì có 
 🌟 **+ Tử Vi / Thiên Phủ / Thiên Hình:** trở nên **đoan thục** — nét đẹp đoan
 chính, giữ mình.
 
-🌟 **Hồng Loan tại cung Phúc Đức** = cách **"Nga Mi Tác Án"** — đem lại sự
-**rực rỡ** cho dòng họ.
-
 🌟 **Đào Hồng + Tấu Vũ:** làm **thợ may KHÉO**.
 
 (Xem entry chuyên biệt cho cách "Đào Hồng nữ mệnh + Tang Môn tại Phụ Mẫu".)`,
+  },
+
+  {
+    id: 'hong-loan-tai-phuc-duc-nga-mi-tac-an',
+    title: 'Hồng Loan tại Phúc Đức - cách Nga Mi Tác Án',
+    sao: ['Hồng Loan'],
+    cung: ['Phúc Đức'],
+    doUuTien: 78,
+    tomTat: `🌟 **Hồng Loan tại cung Phúc Đức** = cách **"Nga Mi Tác Án"** — đem lại
+sự **rực rỡ** cho dòng họ.`,
   },
 
   {

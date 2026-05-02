@@ -155,7 +155,7 @@ cực mạnh.
     sao: ['Ân Quang', 'Thiên Quý'],
     chi: ['Mão', 'Dậu'],
     doUuTien: 75,
-    tomTat: `🌟 **Quang Quý tại Mão / Dậu** (tam hợp với Sửu/Mùi):
+    tomTat: `🌟 **Quang Quý tại Mão / Dậu**:
 
 Có người cho rằng đắc tại Mão / Dậu — vẫn giữ được phẩm chất phúc tinh tốt.`,
   },

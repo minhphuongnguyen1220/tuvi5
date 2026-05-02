@@ -480,8 +480,7 @@ con cháu hưởng phúc trạch lâu dài.`,
 ⚡ **Ngày chết:**
 - Dễ có **HUÂN HUY CHƯƠNG, KHEN THƯỞNG, TRUY TẶNG**
 
-(Xem entry chuyên biệt cho cách Tả Hữu + Hóa Khoa hội chiếu các cung Thiên
-Di / Quan Lộc / Tử Tức.)`,
+(Xem entry chuyên biệt cho cách Tả Hữu + Hóa Khoa hội chiếu các cung trọng yếu khác.)`,
   },
 
   {
