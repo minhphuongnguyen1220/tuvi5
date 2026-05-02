@@ -12,32 +12,34 @@ export const luanGiai_CuMon: DoanLuanGiai[] = [
     title: 'Cự Môn - Đặc tính chung',
     sao: ['Cự Môn'],
     doUuTien: 30,
-    tomTat: `**Cự Môn** thuộc chòm Bắc Đẩu Tinh, ngũ hành **Thủy** tính **Âm**.
-Hóa khí là **sao Thị Phi**. Tính chất "chảy ngầm" — thường mang nhiều phiền toái
-và thị phi cho người có sao này tại các cung quan trọng.
+    tomTat: `Cự Môn thuộc chòm Bắc Đẩu Tinh, ngũ hành Thủy, tính Âm. Hóa khí là
+sao Thị Phi, mang tính "chảy ngầm" — thường đem nhiều phiền toái và thị phi
+đến cho đương số có sao này tọa thủ ở các cung trọng yếu.
 
-**Vị trí miếu hãm:**
-- **Miếu địa:** Mão, Dậu (đồng cung Thiên Cơ) — tốt nhất
-- **Vượng địa:** các cung còn lại
-- **Đắc địa:** Tý, Ngọ, Hợi
-- **Hãm địa:** Thìn, Tuất, Sửu, Mùi — xấu nhất`,
+Vị trí miếu hãm:
 
-    chiTiet: `## So sánh với các sao khác
+- Miếu địa
+  - Mão, Dậu (đồng cung Thiên Cơ) — tốt nhất
+- Vượng địa
+  - Các cung còn lại
+- Đắc địa
+  - Tý, Ngọ, Hợi
+- Hãm địa
+  - Thìn, Tuất, Sửu, Mùi — xấu nhất`,
 
-**Cự Môn vs Tham Lang vs Thiên Cơ:** cả ba đều thuộc kiểu giao tiếp hướng ngoại
-nhưng tính chất khác biệt:
-- **Tham Lang:** đa tài đa nghệ, giao tiếp thiên về lãng mạn (tửu, sắc, tài, khí)
-- **Thiên Cơ:** giao tiếp thiên về liên lạc, vì người mà bôn tẩu vất vả
-- **Cự Môn:** dùng "miệng" là chính, thiên về diễn giảng biện thuyết đúng sai
+    chiTiet: `So sánh Cự Môn với các sao có nét tương đồng:
 
-**Cự Môn vs Văn Khúc:** cả hai đều thiên về tài biện luận:
-- **Văn Khúc:** kỹ xảo biện luận, chú trọng tu từ, mang hàm nghĩa "tài" và "đào hoa"
-- **Cự Môn:** chú trọng thực tế, gồm phân tích và liên tưởng, "tài khí" tương đối ít
+- Cự Môn so với Tham Lang và Thiên Cơ — cả ba đều hướng ngoại nhưng:
+  - Tham Lang: đa tài đa nghệ, giao tiếp thiên về lãng mạn (tửu, sắc, tài, khí)
+  - Thiên Cơ: giao tiếp thiên về liên lạc, vì người mà bôn tẩu vất vả
+  - Cự Môn: dùng miệng là chính, thiên về diễn giảng biện thuyết đúng sai
 
-## Khí hóa "Ám"
+- Cự Môn so với Văn Khúc — cùng thiên về tài biện luận nhưng:
+  - Văn Khúc: kỹ xảo biện luận, chú trọng tu từ, mang hàm nghĩa "tài" và "đào hoa"
+  - Cự Môn: chú trọng thực tế, gồm phân tích và liên tưởng, tài khí tương đối ít
 
-Khí hóa của Cự Môn là **ám** — trong bóng tối có thể thấy được ánh sáng bên ngoài.
-Cự Môn có khả năng quan sát sự vật thấu đáo hơn người.`,
+Khí hóa của Cự Môn là Ám — trong bóng tối vẫn thấy được ánh sáng bên ngoài.
+Đương số có Cự Môn nhờ vậy mà quan sát sự vật thấu đáo hơn người thường.`,
   },
 
   // ============================================================
@@ -49,32 +51,40 @@ Cự Môn có khả năng quan sát sự vật thấu đáo hơn người.`,
     sao: ['Cự Môn'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `Người có **Cự Môn cư Mệnh** thường ánh mắt nhìn đoan chính, vẻ mặt
-nghiêm túc, giọng nói cao thanh, hành động nhanh nhẹn.
+    tomTat: `Đương số có Cự Môn tọa thủ Mệnh thường mang dáng vẻ:
 
-Tính cách: ngay thẳng bộc trực, đa nghi, học nhiều nhưng ít tinh thông. Có khả
-năng nghiên cứu, hiểu biết rộng, biện luận sắc sảo. Thường lấy công việc là mục
-đích hàng đầu, ít thiên về thú vui. Xem entry chuyên biệt theo trạng thái cho
-dung mạo.`,
+- Ánh mắt nhìn đoan chính, vẻ mặt nghiêm túc
+- Giọng nói cao thanh, hành động nhanh nhẹn
 
-    chiTiet: `## Tính cách chi tiết
+Về tính cách:
 
-Có khuôn mặt thánh thiện khả ái, cũng có vẻ mặt hiền lành ít nói. **Lục thân thiếu
-hòa hợp**, là người chủ quan và tự tin, thường hay tỏ thái độ bất mãn với hiện
-tại nên thích gây chuyện thị phi. Lúc thiện lúc ác thường không biểu hiện ra ngoài.
+- Ngay thẳng bộc trực, đa nghi, học nhiều nhưng ít tinh thông
+- Giàu khả năng nghiên cứu, hiểu biết rộng, biện luận sắc sảo
+- Lấy công việc làm mục đích hàng đầu, ít thiên về thú vui
 
-Học nhiều nhưng ít tinh thông, phong cách làm việc thường tỏ ra khó khăn vất vả
-nên khó có được sự thanh nhàn thảnh thơi.
+Dung mạo cụ thể tùy trạng thái — xem các entry chuyên biệt theo Miếu / Hãm.`,
 
-Tính tình đa nghi, **kết bạn ban đầu thì tốt nhưng cuối cùng lại ác**. Tư duy
-lãnh đạm, trong lòng nhỏ nhen, hiếm khi rộng lượng. Làm việc lớn thường quá chú
-trọng tới hình thức mà bỏ qua khả năng phân tích, quan sát, phán đoán, ghi nhớ
-và liên tưởng.
+    chiTiet: `Đương số có Cự Môn tại Mệnh thường có khuôn mặt thánh thiện khả
+ái, cũng có thể là vẻ mặt hiền lành ít nói. Lục thân thiếu hòa hợp; chủ mệnh
+chủ quan và tự tin, thường tỏ thái độ bất mãn với hiện tại nên thích gây
+chuyện thị phi — lúc thiện lúc ác thường không biểu hiện ra ngoài.
 
-Tuy nhiên, là người **giàu khả năng nghiên cứu**, nên thường có tầm hiểu biết
-rộng, có sáng kiến. Dù không giao tiếp nhưng khả năng biểu đạt rất tốt, biện
-luận sắc sảo. Có xu hướng sống cuộc đời thanh bạch, lấy công việc là mục đích
-hàng đầu.`,
+Trong công việc và học hành:
+
+- Học nhiều nhưng ít tinh thông
+- Phong cách làm việc thường tỏ ra khó khăn vất vả, khó có sự thanh nhàn
+
+Trong quan hệ và tâm lý:
+
+- Tính tình đa nghi, kết bạn ban đầu thì tốt nhưng cuối cùng lại ác
+- Tư duy lãnh đạm, trong lòng nhỏ nhen, hiếm khi rộng lượng
+- Làm việc lớn thường quá chú trọng tới hình thức mà bỏ qua khả năng phân
+  tích, quan sát, phán đoán, ghi nhớ và liên tưởng
+
+Tuy vậy, đương số giàu khả năng nghiên cứu nên thường có tầm hiểu biết rộng,
+có sáng kiến. Dù không thiên về giao tiếp, khả năng biểu đạt rất tốt và biện
+luận sắc sảo. Có xu hướng sống cuộc đời thanh bạch, lấy công việc làm mục
+đích hàng đầu.`,
   },
 
   {
@@ -84,8 +94,8 @@ hàng đầu.`,
     cung: ['Mệnh'],
     trangThai: ['Miếu'],
     doUuTien: 78,
-    tomTat: `**Cự Môn MIẾU tại Mệnh:** cơ thể cao đậm, nhìn vẻ ngoài **phúc hậu
-lương thiện**.`,
+    tomTat: `Khi Cự Môn Miếu địa tại Mệnh, đương số có cơ thể cao đậm, vẻ
+ngoài phúc hậu lương thiện.`,
   },
 
   {
@@ -95,7 +105,7 @@ lương thiện**.`,
     cung: ['Mệnh'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Cự Môn HÃM tại Mệnh:** thân thể **cao gầy**.`,
+    tomTat: `Khi Cự Môn Hãm địa tại Mệnh, đương số có thân thể cao gầy.`,
   },
 
   // ============================================================
