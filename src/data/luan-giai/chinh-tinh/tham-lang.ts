@@ -742,9 +742,6 @@ Nếu được **cát tinh hóa giải**.`,
 nghệ thuật**. Làm giàu nhờ **khả năng xã giao**, dễ thịnh vượng trong **mua
 bán**.
 
-**+ Sao đào hoa đồng độ:** nghề liên quan đến **người khác giới** hoặc **tiêu
-dùng, trang điểm**.
-
 ✅ **Đắc địa:** thích hợp các nghề **khai sáng** hoặc **kinh doanh phong cách
 đặc biệt** → dễ thành công.`,
 
@@ -758,12 +755,6 @@ Tham Lang thủ cung Quan chủ về:
 - Thường nhờ **khả năng xã giao**
 - Dễ thịnh vượng trong việc **mua bán**
 
-## + Sao đào hoa đồng độ
-
-Nghề nghiệp phần nhiều sẽ liên quan đến:
-- **Người khác giới**
-- Hoặc thiên về công việc **tiêu dùng, trang điểm**, ...
-
 ## ✅ Đắc địa
 
 Thích hợp với những nghề nghiệp:
@@ -771,6 +762,18 @@ Thích hợp với những nghề nghiệp:
 - Hoặc có **phong cách kinh doanh đặc biệt**
 
 → Nhờ vậy mà dễ đi đến **thành công**.`,
+  },
+
+  {
+    id: 'tham-lang-tai-quan-loc-dao-hoa',
+    title: 'Tham Lang + sao đào hoa (Tam Minh) tại Quan Lộc',
+    sao: ['Tham Lang'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Đào Hoa', 'Hồng Loan', 'Thiên Hỷ'],
+    doUuTien: 75,
+    tomTat: `**Tham Lang + sao đào hoa (Đào Hoa / Hồng Loan / Thiên Hỷ) tại Quan
+Lộc:** nghề nghiệp liên quan đến **người khác giới** hoặc **tiêu dùng, trang
+điểm**.`,
   },
 
   // ============================================================

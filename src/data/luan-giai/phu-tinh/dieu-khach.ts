@@ -294,15 +294,99 @@ văn phòng, công ty, nhà ở NHIỀU LẦN trong đời**.`,
 - Ra ngoài **NGOẠI GIAO TỐT**, có **TÀI ĂN NÓI**
 - Ra ngoài hay **ĂN UỐNG TIỆC TÙNG**
 
-🌟 **+ Thái Dương / Vũ Khúc / Cự Môn / Hỏa Tinh** (sao "động" mạnh):
-- Càng có xu hướng **XUẤT NGOẠI**
+(Xem entry chuyên biệt cho nam mệnh, sao động mạnh, cách ngoại giao.)`,
+  },
 
-🌟 **Cách đẹp ngoại giao:**
-**+ Lưu Hà / Quốc Ấn / Hóa Lộc / Tham Lang:**
-- Việc **KÝ KẾT HỢP TÁC** thường xảy ra trong những lần đi giao lưu với đối tác
-- Phù hợp với công việc **NGOẠI GIAO**
+  {
+    id: 'dieu-khach-tai-thien-di-thai-duong',
+    title: 'Điếu Khách + Thái Dương tại Thiên Di',
+    sao: ['Điếu Khách'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thái Dương'],
+    doUuTien: 73,
+    tomTat: `🌟 **Điếu Khách + Thái Dương tại Thiên Di** (sao "động" mạnh):
+càng có xu hướng **XUẤT NGOẠI**.`,
+  },
 
-(Xem entry chuyên biệt cho nam mệnh.)`,
+  {
+    id: 'dieu-khach-tai-thien-di-vu-khuc',
+    title: 'Điếu Khách + Vũ Khúc tại Thiên Di',
+    sao: ['Điếu Khách'],
+    cung: ['Thiên Di'],
+    ketHop: ['Vũ Khúc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Điếu Khách + Vũ Khúc tại Thiên Di** (sao "động" mạnh): càng
+có xu hướng **XUẤT NGOẠI**.`,
+  },
+
+  {
+    id: 'dieu-khach-tai-thien-di-cu-mon',
+    title: 'Điếu Khách + Cự Môn tại Thiên Di',
+    sao: ['Điếu Khách'],
+    cung: ['Thiên Di'],
+    ketHop: ['Cự Môn'],
+    doUuTien: 73,
+    tomTat: `🌟 **Điếu Khách + Cự Môn tại Thiên Di** (sao "động" mạnh): càng
+có xu hướng **XUẤT NGOẠI**.`,
+  },
+
+  {
+    id: 'dieu-khach-tai-thien-di-hoa-tinh',
+    title: 'Điếu Khách + Hỏa Tinh tại Thiên Di',
+    sao: ['Điếu Khách'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 73,
+    tomTat: `🌟 **Điếu Khách + Hỏa Tinh tại Thiên Di** (sao "động" mạnh): càng
+có xu hướng **XUẤT NGOẠI**.`,
+  },
+
+  {
+    id: 'dieu-khach-tai-thien-di-luu-ha',
+    title: 'Điếu Khách + Lưu Hà tại Thiên Di - cách đẹp ngoại giao',
+    sao: ['Điếu Khách'],
+    cung: ['Thiên Di'],
+    ketHop: ['Lưu Hà'],
+    doUuTien: 73,
+    tomTat: `🌟 **Điếu Khách + Lưu Hà tại Thiên Di** = cách đẹp ngoại giao:
+việc **KÝ KẾT HỢP TÁC** thường xảy ra trong những lần đi giao lưu với đối tác —
+phù hợp với công việc **NGOẠI GIAO**.`,
+  },
+
+  {
+    id: 'dieu-khach-tai-thien-di-quoc-an',
+    title: 'Điếu Khách + Quốc Ấn tại Thiên Di - cách đẹp ngoại giao',
+    sao: ['Điếu Khách'],
+    cung: ['Thiên Di'],
+    ketHop: ['Quốc Ấn'],
+    doUuTien: 73,
+    tomTat: `🌟 **Điếu Khách + Quốc Ấn tại Thiên Di** = cách đẹp ngoại giao:
+việc **KÝ KẾT HỢP TÁC** thường xảy ra trong những lần đi giao lưu với đối tác —
+phù hợp với công việc **NGOẠI GIAO**.`,
+  },
+
+  {
+    id: 'dieu-khach-tai-thien-di-hoa-loc',
+    title: 'Điếu Khách + Hóa Lộc tại Thiên Di - cách đẹp ngoại giao',
+    sao: ['Điếu Khách'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Điếu Khách + Hóa Lộc tại Thiên Di** = cách đẹp ngoại giao:
+việc **KÝ KẾT HỢP TÁC** thường xảy ra trong những lần đi giao lưu với đối tác —
+phù hợp với công việc **NGOẠI GIAO**.`,
+  },
+
+  {
+    id: 'dieu-khach-tai-thien-di-tham-lang',
+    title: 'Điếu Khách + Tham Lang tại Thiên Di - cách đẹp ngoại giao',
+    sao: ['Điếu Khách'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tham Lang'],
+    doUuTien: 73,
+    tomTat: `🌟 **Điếu Khách + Tham Lang tại Thiên Di** = cách đẹp ngoại giao:
+việc **KÝ KẾT HỢP TÁC** thường xảy ra trong những lần đi giao lưu với đối tác —
+phù hợp với công việc **NGOẠI GIAO**.`,
   },
 
   {

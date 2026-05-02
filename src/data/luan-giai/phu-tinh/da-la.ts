@@ -441,10 +441,18 @@ thái sao.
     cung: ['Thiên Di'],
     doUuTien: 78,
     tomTat: `**Đà La tại Thiên Di:** ra ngoài dễ gặp **thị phi**, bị **lừa gạt,
-đâm sau lưng** — "người tốt thì ít, kẻ toan tính thì nhiều".
+đâm sau lưng** — "người tốt thì ít, kẻ toan tính thì nhiều".`,
+  },
 
-**+ Thiên Mã:** phải **bôn ba nhiều nơi, nay đây mai đó** — hợp nghề **đi lại
-nhiều**, có thể thành công nhưng khó an nhàn:
+  {
+    id: 'da-la-tai-thien-di-thien-ma',
+    title: 'Đà La + Thiên Mã tại Thiên Di',
+    sao: ['Đà La'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Mã'],
+    doUuTien: 73,
+    tomTat: `**Đà La + Thiên Mã tại Thiên Di:** phải **bôn ba nhiều nơi, nay đây
+mai đó** — hợp nghề **đi lại nhiều**, có thể thành công nhưng khó an nhàn.
 
 > Dong chơi du thủy du sơn,
 > Bởi sao Thiên Mã gặp chàng Đà La.`,

@@ -841,10 +841,18 @@ con gái thì **lăng loàn, tai tiếng**.`,
     ketHop: ['Linh Tinh', 'Hỏa Tinh'],
     doUuTien: 50,
     tomTat: `⚠️ **Cự + Linh + Hỏa:** cách rất xấu, hạn nặng → **chết yểu** hoặc
-tai nạn lớn khó qua khỏi.
+tai nạn lớn khó qua khỏi.`,
+  },
 
-**+ Đà + Kình:** gặp biến cố tâm lý, trầm cảm u uất → **tự vẫn**. Không thì bị
-**tàn tật, chân tay bỏng nặng**.`,
+  {
+    id: 'cu-mon-cach-cu-da-kinh',
+    title: 'Cách xấu - Cự + Đà La + Kình Dương',
+    sao: ['Cự Môn'],
+    cung: ['Mệnh'],
+    ketHop: ['Đà La', 'Kình Dương'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Cự + Đà + Kình:** gặp biến cố tâm lý, trầm cảm u uất → **tự
+vẫn**. Không thì bị **tàn tật, chân tay bỏng nặng**.`,
   },
 
   {

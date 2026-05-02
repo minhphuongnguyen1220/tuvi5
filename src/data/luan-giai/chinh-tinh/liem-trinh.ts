@@ -2009,7 +2009,7 @@ Người có Liêm Trinh ở cung Nô Bộc chủ về:
 
 ## ⚠️ Hung kết hợp
 
-**+ Các sát tinh đồng hợp:**
+Khi có **các sát tinh đồng hợp**:
 - Còn chủ về **tình cảm đổ vỡ**
 - Gặp **thị phi**
 - Hoặc **tổn thất vì bạn bè**`,
@@ -2048,7 +2048,7 @@ Liêm Trinh tại cung Huynh Đệ → trong nhà có **nhiều anh em**.
 
 ## Cát kết hợp
 
-**+ Lộc Tồn:**
+Khi có **Lộc Tồn**:
 - Sẽ thường được **giúp đỡ về mặt vật chất**
 
 ## Lưu ý

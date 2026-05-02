@@ -382,8 +382,8 @@ khi vào hạn càng ứng nghiệm.`,
 - Được **HIỂN ĐẠT về CÔNG DANH**
 - Làm **CHỨC VỤ rất TO**
 
-→ Cách cục **CỰC ĐẸP** — Tam Hóa là tam giải thần (Lộc, Quyền, Khoa) + Quốc Ấn
-+ Tướng Quân → đường **THĂNG TIẾN VƯƠNG GIẢ**.`,
+→ Cách cục **CỰC ĐẸP** — Tam Hóa là tam giải thần (Lộc, Quyền, Khoa) cộng
+Quốc Ấn cộng Tướng Quân → đường **THĂNG TIẾN VƯƠNG GIẢ**.`,
   },
 
   {

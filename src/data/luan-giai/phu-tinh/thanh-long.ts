@@ -483,15 +483,23 @@ chức, đắc thế)
     id: 'thanh-long-sat-bai-tinh',
     title: 'Thanh Long + Sát bại tinh - Mất uy lực, yểu hèn',
     sao: ['Thanh Long'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 55,
-    tomTat: `⚠️ **Thanh Long hội cùng các sát tinh, bại tinh:** **MẤT HẾT UY LỰC**,
-trở thành **YỂU và HÈN NHÁT**.
+    tomTat: `⚠️ **Thanh Long hội sát tinh** (Kình Dương / Đà La / Hỏa Tinh / Linh
+Tinh): **MẤT HẾT UY LỰC**, trở thành **YỂU và HÈN NHÁT**.
 
 → Rồng xanh khi gặp sát bại tinh thì như **rồng bị thương, mất sức** → không
-còn uy nghiêm, dũng mãnh nữa.
+còn uy nghiêm, dũng mãnh nữa.`,
+  },
 
-→ Đặc biệt nguy hiểm khi gặp đồng cung với **Không Kiếp + Kình Đà + Linh Hỏa
-+ Hóa Kỵ** đầy đủ.`,
+  {
+    id: 'thanh-long-day-du-sat-bai',
+    title: 'Thanh Long + Không Kiếp + Kình Đà + Linh Hỏa + Hóa Kỵ - đại nguy',
+    sao: ['Thanh Long'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La', 'Linh Tinh', 'Hỏa Tinh', 'Hóa Kỵ'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Thanh Long + Không Kiếp + Kình Đà + Linh Hỏa + Hóa Kỵ đầy đủ:**
+đặc biệt nguy hiểm — Thanh Long mất hết uy lực, **đại nguy nan**.`,
   },
 
   // ============================================================

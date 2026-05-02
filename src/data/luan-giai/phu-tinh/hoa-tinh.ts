@@ -307,9 +307,18 @@ làm việc.
 
 ⚠️ **+ Linh Tinh / Thiên Việt / Thiên Hình:** điềm báo **tai nạn nghiêm trọng**.
 
-**+ Thiên Mã:** cuộc sống **bôn ba, di chuyển nhiều**, "một nắng hai sương".
-
 Thường lui tới **nơi linh thiêng** hoặc dễ chịu ảnh hưởng **năng lượng tiêu cực**.`,
+  },
+
+  {
+    id: 'hoa-tinh-tai-thien-di-thien-ma',
+    title: 'Hỏa Tinh + Thiên Mã tại Thiên Di',
+    sao: ['Hỏa Tinh'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Mã'],
+    doUuTien: 73,
+    tomTat: `**Hỏa Tinh + Thiên Mã tại Thiên Di:** cuộc sống **bôn ba, di chuyển
+nhiều**, "một nắng hai sương".`,
   },
 
   // ============================================================

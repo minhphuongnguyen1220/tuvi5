@@ -1808,7 +1808,7 @@ Cung Phúc Đức có Thiên Cơ chủ về:
 
 ## ⚠️ Hung kết hợp
 
-**+ Kình Dương + Đà La đồng hợp:**
+Khi có **Kình Dương + Đà La đồng hợp**:
 - Càng khiến Thiên Cơ dễ **tự rước lấy chuyện buồn phiền**
 
 **Bị Hỏa Tinh + Linh Tinh giáp cung:**

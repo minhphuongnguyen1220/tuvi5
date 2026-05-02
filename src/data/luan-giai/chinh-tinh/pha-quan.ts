@@ -125,10 +125,7 @@ sau không ngừng** ("có gốc rễ"):
 
 ✅ **Tốt nhất:** **Lộc Tồn / Hóa Lộc đồng cung**
 ✅ **Kế đó:** hội hợp với chính diệu **Hóa Lộc khác**
-✅ **Kế đó nữa:** hội hợp với **Lộc Tồn**
-
-**+ Hóa Quyền + Thiên Khôi + Thiên Việt + Tả Phù + Hữu Bật** (hội chiếu hoặc
-đồng độ) → **TĂNG khí thế sáng lập sự nghiệp**.`,
+✅ **Kế đó nữa:** hội hợp với **Lộc Tồn**`,
 
     chiTiet: `## Phá Quân ưa Lộc — "có gốc rễ"
 
@@ -141,13 +138,17 @@ không ngừng bổ xung**, gọi là **"có gốc rễ"**.
 
 **2. Kế đó:** hội hợp với **chính diệu Hóa Lộc khác**.
 
-**3. Kế đó nữa:** hội hợp với **Lộc Tồn**.
+**3. Kế đó nữa:** hội hợp với **Lộc Tồn**.`,
+  },
 
-## Bộ sao tăng khí thế
-
-**+ Hóa Quyền + Thiên Khôi + Thiên Việt + Tả Phù + Hữu Bật:**
-- Hội chiếu hoặc đồng độ với Phá Quân
-- → Có thể **làm tăng khí thế sáng lập sự nghiệp**`,
+  {
+    id: 'pha-quan-bo-sao-tot-tang-khi-the',
+    title: 'Phá Quân + Hóa Quyền + Khôi Việt + Tả Hữu - tăng khí thế sáng lập',
+    sao: ['Phá Quân'],
+    ketHop: ['Hóa Quyền', 'Thiên Khôi', 'Thiên Việt', 'Tả Phù', 'Hữu Bật'],
+    doUuTien: 45,
+    tomTat: `✅ **Phá Quân + Hóa Quyền + Thiên Khôi + Thiên Việt + Tả Phù + Hữu
+Bật** (hội chiếu hoặc đồng độ): **TĂNG khí thế sáng lập sự nghiệp**.`,
   },
 
   // ============================================================
@@ -1254,8 +1255,51 @@ anh em **bất hòa** hoặc có **anh em khác mẹ**, đồng sự dễ **kế
     cung: ['Huynh Đệ'],
     ketHop: ['Vũ Khúc'],
     doUuTien: 70,
-    tomTat: `**Phá Quân tại Huynh Đệ + Vũ Khúc đồng độ:** chủ về **2 người**,
-+ Sát tinh → **1 người**, **thiếu hòa mục**.`,
+    tomTat: `**Phá Quân tại Huynh Đệ + Vũ Khúc đồng độ:** chủ về **2 người**.`,
+  },
+
+  {
+    id: 'pha-quan-tai-huynh-de-vu-khuc-kinh',
+    title: 'Phá Quân + Vũ Khúc + Kình Dương tại Huynh Đệ',
+    sao: ['Phá Quân'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Vũ Khúc', 'Kình Dương'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Phá Quân + Vũ Khúc + Kình Dương tại Huynh Đệ:** chủ về **1
+người**, **thiếu hòa mục**.`,
+  },
+
+  {
+    id: 'pha-quan-tai-huynh-de-vu-khuc-da',
+    title: 'Phá Quân + Vũ Khúc + Đà La tại Huynh Đệ',
+    sao: ['Phá Quân'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Vũ Khúc', 'Đà La'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Phá Quân + Vũ Khúc + Đà La tại Huynh Đệ:** chủ về **1 người**,
+**thiếu hòa mục**.`,
+  },
+
+  {
+    id: 'pha-quan-tai-huynh-de-vu-khuc-hoa',
+    title: 'Phá Quân + Vũ Khúc + Hỏa Tinh tại Huynh Đệ',
+    sao: ['Phá Quân'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Vũ Khúc', 'Hỏa Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Phá Quân + Vũ Khúc + Hỏa Tinh tại Huynh Đệ:** chủ về **1 người**,
+**thiếu hòa mục**.`,
+  },
+
+  {
+    id: 'pha-quan-tai-huynh-de-vu-khuc-linh',
+    title: 'Phá Quân + Vũ Khúc + Linh Tinh tại Huynh Đệ',
+    sao: ['Phá Quân'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Vũ Khúc', 'Linh Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Phá Quân + Vũ Khúc + Linh Tinh tại Huynh Đệ:** chủ về **1 người**,
+**thiếu hòa mục**.`,
   },
 
   {
@@ -1389,8 +1433,18 @@ mà không có nghi lễ chính thức**, hay sau khi kết hôn thì **ở hai 
     cung: ['Phu Thê'],
     ketHop: ['Vũ Khúc'],
     doUuTien: 70,
-    tomTat: `⚠️ **Phá Quân tại Phu Thê + Vũ Khúc đồng độ:** chủ về **sinh ly**,
-+ Hóa Kỵ → người phối ngẫu **bị nạn tai bệnh tật**.`,
+    tomTat: `⚠️ **Phá Quân tại Phu Thê + Vũ Khúc đồng độ:** chủ về **sinh ly**.`,
+  },
+
+  {
+    id: 'pha-quan-tai-phu-the-vu-khuc-hoa-ky',
+    title: 'Phá Quân + Vũ Khúc + Hóa Kỵ tại Phu Thê',
+    sao: ['Phá Quân'],
+    cung: ['Phu Thê'],
+    ketHop: ['Vũ Khúc', 'Hóa Kỵ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Phá Quân + Vũ Khúc + Hóa Kỵ tại Phu Thê:** người phối ngẫu
+**bị nạn, tai, bệnh tật**.`,
   },
 
   {

@@ -235,14 +235,82 @@ HẬU, NHƯỜNG NHỊN nhau, hay LÀM PHÚC**.
 - **MỒ MẢ tổ tiên** thường **GẦN nơi có nguồn nước nhỏ chạy qua** (suối, mương,
   rạch nhỏ)
 - Phần âm đức **SÁNG**, che chở dòng họ qua nhiều đời
-- Gia tộc **HÒA NHÃ**, ưa **làm phúc**
+- Gia tộc **HÒA NHÃ**, ưa **làm phúc**`,
+  },
 
-⚠️ **Cách "đời cha ăn mặn, đời con khát nước":**
-**+ Địa Kiếp / Địa Không / Hóa Kỵ / Linh Tinh / Hỏa Tinh:**
+  {
+    id: 'thieu-am-tai-phuc-duc-dia-kiep',
+    title: '⚠️ Thiếu Âm + Địa Kiếp tại Phúc Đức - đời cha ăn mặn',
+    sao: ['Thiếu Âm'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Âm + Địa Kiếp tại Phúc Đức** = cách "đời cha ăn mặn, đời
+con khát nước":
 - Phúc phần **HAO TỔN**
-- Con cháu tinh thần **CHẤT CHỨA KHỔ ĐAU** mà chẳng dễ giãi bày
+- Con cháu tinh thần **CHẤT CHỨA KHỔ ĐAU** mà chẳng dễ giãi bày`,
+  },
 
-⚠️ **+ Linh Tinh / Đà La (ám tinh):**
+  {
+    id: 'thieu-am-tai-phuc-duc-dia-khong',
+    title: '⚠️ Thiếu Âm + Địa Không tại Phúc Đức - đời cha ăn mặn',
+    sao: ['Thiếu Âm'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Âm + Địa Không tại Phúc Đức** = cách "đời cha ăn mặn, đời
+con khát nước":
+- Phúc phần **HAO TỔN**
+- Con cháu tinh thần **CHẤT CHỨA KHỔ ĐAU** mà chẳng dễ giãi bày`,
+  },
+
+  {
+    id: 'thieu-am-tai-phuc-duc-hoa-ky',
+    title: '⚠️ Thiếu Âm + Hóa Kỵ tại Phúc Đức - đời cha ăn mặn',
+    sao: ['Thiếu Âm'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Âm + Hóa Kỵ tại Phúc Đức** = cách "đời cha ăn mặn, đời
+con khát nước":
+- Phúc phần **HAO TỔN**
+- Con cháu tinh thần **CHẤT CHỨA KHỔ ĐAU** mà chẳng dễ giãi bày`,
+  },
+
+  {
+    id: 'thieu-am-tai-phuc-duc-linh-tinh-luc-sat',
+    title: '⚠️ Thiếu Âm + Linh Tinh tại Phúc Đức - đời cha ăn mặn / tâm linh u ám',
+    sao: ['Thiếu Âm'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Âm + Linh Tinh tại Phúc Đức:**
+- Phúc phần **HAO TỔN**, đời cha ăn mặn đời con khát nước
+- Con cháu tinh thần **CHẤT CHỨA KHỔ ĐAU** mà chẳng dễ giãi bày
+- Đời sống **TÂM LINH U ÁM**, dễ vướng **NĂNG LƯỢNG XẤU**, **QUẤY NHIỄU VÔ HÌNH**`,
+  },
+
+  {
+    id: 'thieu-am-tai-phuc-duc-hoa-tinh',
+    title: '⚠️ Thiếu Âm + Hỏa Tinh tại Phúc Đức - đời cha ăn mặn',
+    sao: ['Thiếu Âm'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Âm + Hỏa Tinh tại Phúc Đức** = cách "đời cha ăn mặn, đời
+con khát nước":
+- Phúc phần **HAO TỔN**
+- Con cháu tinh thần **CHẤT CHỨA KHỔ ĐAU** mà chẳng dễ giãi bày`,
+  },
+
+  {
+    id: 'thieu-am-tai-phuc-duc-da-la',
+    title: '⚠️ Thiếu Âm + Đà La tại Phúc Đức - tâm linh u ám',
+    sao: ['Thiếu Âm'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Âm + Đà La (ám tinh) tại Phúc Đức:**
 - Đời sống **TÂM LINH U ÁM**
 - Dễ vướng **NĂNG LƯỢNG XẤU**, **QUẤY NHIỄU VÔ HÌNH**`,
   },

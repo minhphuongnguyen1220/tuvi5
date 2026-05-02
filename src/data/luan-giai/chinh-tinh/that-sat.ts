@@ -1013,7 +1013,7 @@ Khi hội **Tử Vi + Thiên Phủ:**
 
 ## Tả Hữu Khôi Việt
 
-**+ Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt:**
+Khi hội **Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt**:
 - Mang lại **quý nhân trợ lực**
 - Sự nghiệp **hanh thông**
 
@@ -1100,7 +1100,7 @@ Thất Sát thủ cung Tài Bạch chủ về:
 Dù ở **Miếu, Vượng, Đắc hay Hãm** — người có Thất Sát tại Tài đều có khả năng
 **kiếm tiền nhanh chóng**.
 
-**+ Sao Lộc:** càng **giàu sang, phú quý**.
+Khi có thêm **sao Lộc**: càng **giàu sang, phú quý**.
 
 ## ⚠️ Hãm địa - "bạo phát bạo phá"
 
@@ -1355,7 +1355,7 @@ Thất Sát tại cung Nô Bộc chủ về:
 
 ## Cát kết hợp
 
-**+ Cát tinh hội hợp:**
+Khi có **cát tinh hội hợp**:
 - Có thể tăng thêm nhiều bạn
 - Nhưng vẫn khó **nhờ cậy hoặc được trợ giúp**
 
@@ -1449,7 +1449,7 @@ Thất Sát thủ cung Tử Tức chủ về:
 
 ## ✅ Cát kết hợp
 
-**+ Quang Quý + Giải Thần:**
+Khi hội **Quang Quý + Giải Thần**:
 - Con cái **hiền lành**
 - **Ngoan ngoãn** hơn`,
   },

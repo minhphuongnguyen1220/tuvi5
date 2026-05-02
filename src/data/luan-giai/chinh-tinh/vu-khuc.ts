@@ -500,10 +500,19 @@ với nghề chuyên môn để mưu sinh.`,
 
 ⚡ **Đặc trưng:** thành công **CHẬM** — phải sau **30 tuổi** mới phát triển. Có
 nhà đất tổ tiên nhưng phải **tự tay tạo dựng** mới lớn lao. Càng lớn tuổi càng
-**nhiều nhà cửa**.
+**nhiều nhà cửa**.`,
+  },
 
-**+ Lộc Tồn + Hóa Lộc:** sự nghiệp tiền bạc **phát triển nhanh chóng**, hậu vận
-**có của ăn của để**.`,
+  {
+    id: 'vu-khuc-menh-suu-mui-vu-tham-loc',
+    title: 'Vũ Tham cư Mệnh tại Sửu / Mùi + Lộc Tồn + Hóa Lộc',
+    sao: ['Vũ Khúc', 'Tham Lang'],
+    cung: ['Mệnh'],
+    chi: ['Sửu', 'Mùi'],
+    ketHop: ['Lộc Tồn', 'Hóa Lộc'],
+    doUuTien: 87,
+    tomTat: `✅ **Vũ Tham Sửu/Mùi + Lộc Tồn + Hóa Lộc:** sự nghiệp tiền bạc
+**phát triển nhanh chóng**, hậu vận **có của ăn của để**.`,
   },
 
   {
@@ -649,9 +658,17 @@ cha mẹ **khó sống với nhau đến già**.`,
 
 ⚠️ Dòng họ có người **góa chồng, cô đơn** — đặc biệt khi **+ Cô Quả / Tang Môn**.
 
-Mồ mả tổ tiên thường ở **xa, riêng lẻ**, ít được con cháu quan tâm chăm sóc.
+Mồ mả tổ tiên thường ở **xa, riêng lẻ**, ít được con cháu quan tâm chăm sóc.`,
+  },
 
-**+ Hóa Kỵ:** **hao tốn tiền bạc**.`,
+  {
+    id: 'vu-khuc-tai-phuc-duc-hoa-ky',
+    title: 'Vũ Khúc + Hóa Kỵ tại Phúc Đức',
+    sao: ['Vũ Khúc'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Vũ Khúc + Hóa Kỵ tại Phúc Đức:** **hao tốn tiền bạc**.`,
   },
 
   {

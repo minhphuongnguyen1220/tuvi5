@@ -106,14 +106,14 @@ Lộc** → sức mạnh hỗ trợ biến thành **"gánh họa thay người"*
 
 ## 2. Hao tổn tài lộc
 
-**+ Hóa Kỵ / Không Kiếp:**
+Khi có thêm **Hóa Kỵ / Không Kiếp**:
 - Tiền vào cửa trước, ra cửa sau
 - Bị **lợi dụng quỹ chung**
 - Đầu tư theo nhóm mà **vỡ nợ, đổ sông đổ bể**
 
 ## 3. Hôn nhân tan vỡ
 
-**+ Không Kiếp / Kình Đà / Hóa Kỵ / Thái Tuế:**
+Khi có thêm **Không Kiếp / Kình Đà / Hóa Kỵ / Thái Tuế**:
 - Tình cảm éo le, **dẫn tới ly dị**
 - Có người **nên vợ nên chồng rồi rẽ ngang**
 - Bất đồng quan điểm sống / cách biệt tuổi tác / tôn giáo → **rạn nứt khó hàn gắn**`,
@@ -186,11 +186,19 @@ từ **tổ tiên hoặc người thân trong dòng tộc**.`,
     tomTat: `🌟 **Tả Phù tại Quan Lộc:** dấu hiệu **gặp thời được thế**, công việc
 **ít phải tự xoay sở đơn độc**.
 
-**+ Hữu Bật:** luôn **gặp người chỉ đường dẫn lối**, đặc biệt vào những giai
-đoạn **then chốt của sự nghiệp**.
-
 ⚠️ **+ Kình Dương / Đà La / Hóa Kỵ:** dễ bị **kẻ khác hớt tay trên, cướp mất
 thành quả**, không được ghi nhận.`,
+  },
+
+  {
+    id: 'ta-phu-tai-quan-loc-huu-bat',
+    title: 'Tả Phù + Hữu Bật tại Quan Lộc',
+    sao: ['Tả Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 75,
+    tomTat: `🌟 **Tả Phù + Hữu Bật tại Quan Lộc:** luôn **gặp người chỉ đường
+dẫn lối**, đặc biệt vào những giai đoạn **then chốt của sự nghiệp**.`,
   },
 
   // ============================================================

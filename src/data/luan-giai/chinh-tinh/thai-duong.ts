@@ -1303,13 +1303,14 @@ Thái Dương ở Tử kiểu gì cũng có:
   // 26. Thái Dương tại Huynh Đệ
   // ============================================================
   {
-    id: 'thai-duong-tai-huynh-de',
-    title: 'Thái Dương tại Huynh Đệ (chung)',
+    id: 'thai-duong-tai-huynh-de-tu-cat',
+    title: 'Thái Dương + Văn Xương + Văn Khúc + Thiên Khôi + Thiên Việt tại Huynh Đệ',
     sao: ['Thái Dương'],
     cung: ['Huynh Đệ'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 70,
-    tomTat: `**Thái Dương tại Huynh Đệ:** hội **Văn Xương + Văn Khúc + Thiên Khôi
-+ Thiên Việt** → anh chị em **thuận hòa, cùng giúp đỡ nhau phát triển sự nghiệp**.`,
+    tomTat: `**Thái Dương tại Huynh Đệ + Văn Xương + Văn Khúc + Thiên Khôi +
+Thiên Việt:** anh chị em **thuận hòa, cùng giúp đỡ nhau phát triển sự nghiệp**.`,
   },
 
   {
