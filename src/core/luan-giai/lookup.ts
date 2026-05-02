@@ -47,6 +47,53 @@ function loaiNoiDung(entry: DoanLuanGiai): number {
 }
 
 /**
+ * Các nhóm sao "đồng nghĩa" (synonym group) — entry dùng cả nhóm này có
+ * nghĩa "có BẤT KỲ sao nào trong nhóm" (semantic OR).
+ *
+ * Các ketHop khác (vd cách cục cụ thể như "Cự + Linh + Hỏa") yêu cầu PHẢI
+ * có TẤT CẢ sao (semantic AND).
+ *
+ * Để engine xử lý đúng: nếu entry.ketHop khớp CHÍNH XÁC 1 trong các nhóm
+ * dưới (cùng kích thước, cùng phần tử) → OR. Ngược lại → AND.
+ */
+const SYNONYM_GROUPS: ReadonlyArray<ReadonlyArray<string>> = [
+  // Văn tinh / Xương Khúc (mở rộng)
+  ['Văn Xương', 'Văn Khúc', 'Lưu Niên Văn Tinh', 'Hóa Khoa'],
+  // Lục Cát
+  ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+  // Tứ Sát / Sát tinh
+  ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+  // Lục Sát
+  ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+  // Tứ Hóa
+  ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa', 'Hóa Kỵ'],
+  // Tam Hóa
+  ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa'],
+  // Tứ Đức
+  ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
+  // Tứ Linh
+  ['Long Trì', 'Phượng Các', 'Bạch Hổ', 'Hoa Cái'],
+  // Tam Minh
+  ['Đào Hoa', 'Hồng Loan', 'Thiên Hỷ'],
+  // Sát Phá Tham
+  ['Thất Sát', 'Phá Quân', 'Tham Lang'],
+  // Tử Phủ Vũ Tướng
+  ['Tử Vi', 'Thiên Phủ', 'Vũ Khúc', 'Thiên Tướng'],
+  // Cơ Nguyệt Đồng Lương
+  ['Thiên Cơ', 'Thái Âm', 'Thiên Đồng', 'Thiên Lương'],
+];
+
+function laSynonymGroup(ketHop: string[]): boolean {
+  if (ketHop.length < 3) return false; // pair (≤2) thường là cách cục AND
+  const sorted = [...ketHop].sort();
+  return SYNONYM_GROUPS.some(group => {
+    if (group.length !== sorted.length) return false;
+    const sortedGroup = [...group].sort();
+    return sorted.every((s, i) => s === sortedGroup[i]);
+  });
+}
+
+/**
  * Tìm các đoạn luận giải khớp với 1 cung trong lá số.
  *
  * Quy tắc khớp:
@@ -106,13 +153,18 @@ export function timLuanGiaiCuaCung(cung: CungTrongLaSo, gioiTinh?: GioiTinh): Do
         if (!matchTrangThai) return false;
       }
 
-      // Lọc theo kết hợp sao: ÍT NHẤT 1 sao THỰC trong ketHop phải có mặt
-      // trong cung. Cách cục labels (vd "Tử Phủ đồng cung") không tính — chỉ
-      // mang tính informational, không filter.
+      // Lọc theo kết hợp sao:
+      //  - Nếu ketHop là synonym group → OR (cần ÍT NHẤT 1 sao trong nhóm)
+      //  - Nếu ketHop là cách cục cụ thể → AND (cần TẤT CẢ sao trong cung)
+      // Cách cục labels (vd "Tử Phủ đồng cung") chỉ mang tính informational,
+      // không tham gia filter.
       if (doan.ketHop && doan.ketHop.length > 0) {
         const realSaoInKetHop = doan.ketHop.filter(laTenSaoThuc);
         if (realSaoInKetHop.length > 0) {
-          const coKetHop = realSaoInKetHop.some(s => tatCaSaoTrongCung.includes(s));
+          const isOrSemantics = laSynonymGroup(realSaoInKetHop);
+          const coKetHop = isOrSemantics
+            ? realSaoInKetHop.some(s => tatCaSaoTrongCung.includes(s))
+            : realSaoInKetHop.every(s => tatCaSaoTrongCung.includes(s));
           if (!coKetHop) return false;
         }
         // Nếu ketHop chỉ chứa labels → bỏ qua filter này (entry vẫn pass)
