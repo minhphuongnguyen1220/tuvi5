@@ -196,12 +196,74 @@ Quan Phúc tại Điền Trạch** — nhà thờ **PHẬT BÀ QUAN ÂM**.
 - Cha mẹ **NHÂN HẬU, HIỀN LÀNH**
 - Sống **CÓ ĐẠO ĐỨC**
 - Hay **LÀM TỪ THIỆN, THÍCH TU TẬP**
-- Con cháu được hưởng **PHÚC LỚN**
+- Con cháu được hưởng **PHÚC LỚN**`,
+  },
 
-⚡ **+ Địa Không / Địa Kiếp / Xương Khúc:**
-- Cha mẹ thường có **DUYÊN TU TẬP**
+  {
+    id: 'nguyet-duc-tai-phu-mau-khong',
+    title: '⚡ Nguyệt Đức + Địa Không tại Phụ Mẫu - Duyên tu tập',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚡ **Nguyệt Đức + Địa Không tại Phụ Mẫu:** cha mẹ thường có **DUYÊN
+TU TẬP**.`,
+  },
 
-⚠️ **Cảnh báo + Hóa Kỵ / Hình / Sát chiếu:**
+  {
+    id: 'nguyet-duc-tai-phu-mau-kiep',
+    title: '⚡ Nguyệt Đức + Địa Kiếp tại Phụ Mẫu - Duyên tu tập',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚡ **Nguyệt Đức + Địa Kiếp tại Phụ Mẫu:** cha mẹ thường có **DUYÊN
+TU TẬP**.`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-phu-mau-xuong',
+    title: '⚡ Nguyệt Đức + Văn Xương tại Phụ Mẫu - Duyên tu tập',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `⚡ **Nguyệt Đức + Văn Xương tại Phụ Mẫu:** cha mẹ thường có **DUYÊN
+TU TẬP**.`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-phu-mau-khuc',
+    title: '⚡ Nguyệt Đức + Văn Khúc tại Phụ Mẫu - Duyên tu tập',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `⚡ **Nguyệt Đức + Văn Khúc tại Phụ Mẫu:** cha mẹ thường có **DUYÊN
+TU TẬP**.`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-phu-mau-hoa-ky',
+    title: '⚠️ Nguyệt Đức + Hóa Kỵ tại Phụ Mẫu - Mâu thuẫn',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Hóa Kỵ tại Phụ Mẫu:**
+- Tình cảm cha mẹ - con cái có **NHIỀU VẤN ĐỀ KHÓ GIẢI QUYẾT**
+- Trong lòng còn thương nhưng **NGOÀI MẶT MÂU THUẪN**
+- Dứt áo ra đi vẫn **NẶNG LÒNG**`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-phu-mau-thien-hinh',
+    title: '⚠️ Nguyệt Đức + Thiên Hình tại Phụ Mẫu - Mâu thuẫn',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Thiên Hình tại Phụ Mẫu:**
 - Tình cảm cha mẹ - con cái có **NHIỀU VẤN ĐỀ KHÓ GIẢI QUYẾT**
 - Trong lòng còn thương nhưng **NGOÀI MẶT MÂU THUẪN**
 - Dứt áo ra đi vẫn **NẶNG LÒNG**`,
@@ -219,18 +281,69 @@ Quan Phúc tại Điền Trạch** — nhà thờ **PHẬT BÀ QUAN ÂM**.
 - Tâm tính trở nên **TỪ BI, LƯƠNG THIỆN**
 - Đương số sống **NHÂN NGHĨA, BIẾT TRƯỚC BIẾT SAU**
 - Dòng họ tổ tiên nhiều người **HIỀN LÀNH, NHÂN HẬU**, nhường nhịn nhau
-- Hay **LÀM PHÚC**
+- Hay **LÀM PHÚC**`,
+  },
 
-⚡ **+ Thiên Đức (Thiên Đức + Nguyệt Đức đồng cung):**
+  {
+    id: 'nguyet-duc-tai-phuc-duc-thien-duc',
+    title: '⚡ Nguyệt Đức + Thiên Đức tại Phúc Đức - Họ hàng phúc hậu',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Đức'],
+    doUuTien: 73,
+    tomTat: `⚡ **Nguyệt Đức + Thiên Đức đồng cung tại Phúc Đức:**
 - Họ hàng **PHÚC HẬU**
 - Mồ mả **THUẬN VỊ**
-- Mồ mả tổ tiên đặt gần nơi **THỜ PHẬT BÀ QUAN ÂM**
+- Mồ mả tổ tiên đặt gần nơi **THỜ PHẬT BÀ QUAN ÂM**`,
+  },
 
-⚡ **+ Tứ Đức đầy đủ:**
+  {
+    id: 'nguyet-duc-tai-phuc-duc-tu-duc',
+    title: '⚡ Nguyệt Đức + Tứ Đức tại Phúc Đức - Phúc ấm bền',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
+    doUuTien: 73,
+    tomTat: `⚡ **Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
+Đức) đầy đủ tại Phúc Đức:**
 - Phúc ấm càng **BỀN**
-- Đời sống tinh thần con cháu có **ĐIỂM TỰA VỮNG CHẮC**
+- Đời sống tinh thần con cháu có **ĐIỂM TỰA VỮNG CHẮC**`,
+  },
 
-⚠️ **+ Kiếp / Kỵ / Linh Tinh:**
+  {
+    id: 'nguyet-duc-tai-phuc-duc-kiep',
+    title: '⚠️ Nguyệt Đức + Địa Kiếp tại Phúc Đức - Sai lầm tội lỗi',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Địa Kiếp tại Phúc Đức:**
+- Dễ xảy ra **SAI LẦM, TỘI LỖI**
+- Hiện tượng **BIẾT SAI MỚI SỬA**
+- Việc nhận ra lỗi để **"QUAY ĐẦU LÀ BỜ"** vẫn tốt hơn mải mê đi sai`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-phuc-duc-hoa-ky',
+    title: '⚠️ Nguyệt Đức + Hóa Kỵ tại Phúc Đức - Sai lầm tội lỗi',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Hóa Kỵ tại Phúc Đức:**
+- Dễ xảy ra **SAI LẦM, TỘI LỖI**
+- Hiện tượng **BIẾT SAI MỚI SỬA**
+- Việc nhận ra lỗi để **"QUAY ĐẦU LÀ BỜ"** vẫn tốt hơn mải mê đi sai`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-phuc-duc-linh',
+    title: '⚠️ Nguyệt Đức + Linh Tinh tại Phúc Đức - Sai lầm tội lỗi',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Linh Tinh tại Phúc Đức:**
 - Dễ xảy ra **SAI LẦM, TỘI LỖI**
 - Hiện tượng **BIẾT SAI MỚI SỬA**
 - Việc nhận ra lỗi để **"QUAY ĐẦU LÀ BỜ"** vẫn tốt hơn mải mê đi sai`,
@@ -248,13 +361,90 @@ Quan Phúc tại Điền Trạch** — nhà thờ **PHẬT BÀ QUAN ÂM**.
 - Đi đâu cũng có **NGƯỜI GIÚP ĐỠ** về nhà cửa, nơi ăn chốn ở
 - Quan hệ **LÀNG XÓM LÁNG GIỀNG TỐT**, nhường nhịn nhau, ít tai tiếng
 - Người ăn gì, ở đâu cũng **CHẤP NHẬN ĐƯỢC**
-- **KHÔNG ĐÒI HỎI**, yêu cầu cao
+- **KHÔNG ĐÒI HỎI**, yêu cầu cao`,
+  },
 
-⚡ **+ Tứ Đức đầy đủ:**
+  {
+    id: 'nguyet-duc-tai-dien-trach-tu-duc',
+    title: '⚡ Nguyệt Đức + Tứ Đức tại Điền Trạch - Nhà thanh tịnh',
+    sao: ['Nguyệt Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
+    doUuTien: 70,
+    tomTat: `⚡ **Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
+Đức) đầy đủ tại Điền Trạch:**
 - Nhà cửa **THANH TỊNH**
-- Mang tính **TÂM LINH**
+- Mang tính **TÂM LINH**`,
+  },
 
-⚠️ **+ Kình Đà / Hỏa Linh / Không Kiếp:**
+  {
+    id: 'nguyet-duc-tai-dien-trach-kinh',
+    title: '⚠️ Nguyệt Đức + Kình Dương tại Điền Trạch - Thị phi hàng xóm',
+    sao: ['Nguyệt Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Nguyệt Đức + Kình Dương tại Điền Trạch:**
+- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
+- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-dien-trach-da',
+    title: '⚠️ Nguyệt Đức + Đà La tại Điền Trạch - Thị phi hàng xóm',
+    sao: ['Nguyệt Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Đà La'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Nguyệt Đức + Đà La tại Điền Trạch:**
+- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
+- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-dien-trach-hoa',
+    title: '⚠️ Nguyệt Đức + Hỏa Tinh tại Điền Trạch - Thị phi hàng xóm',
+    sao: ['Nguyệt Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Nguyệt Đức + Hỏa Tinh tại Điền Trạch:**
+- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
+- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-dien-trach-linh',
+    title: '⚠️ Nguyệt Đức + Linh Tinh tại Điền Trạch - Thị phi hàng xóm',
+    sao: ['Nguyệt Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Nguyệt Đức + Linh Tinh tại Điền Trạch:**
+- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
+- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-dien-trach-khong',
+    title: '⚠️ Nguyệt Đức + Địa Không tại Điền Trạch - Thị phi hàng xóm',
+    sao: ['Nguyệt Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Địa Không'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Nguyệt Đức + Địa Không tại Điền Trạch:**
+- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
+- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-dien-trach-kiep',
+    title: '⚠️ Nguyệt Đức + Địa Kiếp tại Điền Trạch - Thị phi hàng xóm',
+    sao: ['Nguyệt Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Nguyệt Đức + Địa Kiếp tại Điền Trạch:**
 - Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
 - Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
   },
@@ -273,15 +463,67 @@ NGHỀ NGHIỆP**.
 - Người có **LƯƠNG TÂM NGHỀ NGHIỆP**
 - Đạo đức cao
 - Làm việc với **CÁI TÂM**
-- Không **BON CHEN, THỦ ĐOẠN**
+- Không **BON CHEN, THỦ ĐOẠN**`,
+  },
 
-⚡ **+ Tứ Đức đầy đủ:**
+  {
+    id: 'nguyet-duc-tai-quan-loc-tu-duc',
+    title: '⚡ Nguyệt Đức + Tứ Đức tại Quan Lộc - Tôn giáo cứu người',
+    sao: ['Nguyệt Đức'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
+    doUuTien: 73,
+    tomTat: `⚡ **Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
+Đức) đầy đủ tại Quan Lộc:**
 - Theo đuổi công việc liên quan **TÔN GIÁO, TÂM LINH**
-- Hoặc các ngành nghề **CỨU NGƯỜI, GIÚP ĐỜI**
+- Hoặc các ngành nghề **CỨU NGƯỜI, GIÚP ĐỜI**`,
+  },
 
-⚠️ **+ Thiên Hình / Kình Dương / Hỏa Tinh / Hóa Kỵ:**
+  {
+    id: 'nguyet-duc-tai-quan-loc-thien-hinh',
+    title: '⚠️ Nguyệt Đức + Thiên Hình tại Quan Lộc - Nghề tích phúc đức',
+    sao: ['Nguyệt Đức'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Thiên Hình tại Quan Lộc:**
 - Nên chọn **NGHỀ TÍCH PHÚC ĐỨC** để giảm tai họa
-- Ví dụ: tài xế lái xe cấp cứu (Hỏa Tinh + nhanh + cứu người)
+- Bác sĩ, điều dưỡng, công an cứu hộ`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-quan-loc-kinh',
+    title: '⚠️ Nguyệt Đức + Kình Dương tại Quan Lộc - Nghề tích phúc đức',
+    sao: ['Nguyệt Đức'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Kình Dương tại Quan Lộc:**
+- Nên chọn **NGHỀ TÍCH PHÚC ĐỨC** để giảm tai họa
+- Bác sĩ, điều dưỡng, công an cứu hộ`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-quan-loc-hoa-tinh',
+    title: '⚠️ Nguyệt Đức + Hỏa Tinh tại Quan Lộc - Nghề tích phúc đức',
+    sao: ['Nguyệt Đức'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Hỏa Tinh tại Quan Lộc:**
+- Nên chọn **NGHỀ TÍCH PHÚC ĐỨC** để giảm tai họa
+- Ví dụ: tài xế lái xe cấp cứu (Hỏa Tinh + nhanh + cứu người)`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-quan-loc-hoa-ky',
+    title: '⚠️ Nguyệt Đức + Hóa Kỵ tại Quan Lộc - Nghề tích phúc đức',
+    sao: ['Nguyệt Đức'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Hóa Kỵ tại Quan Lộc:**
+- Nên chọn **NGHỀ TÍCH PHÚC ĐỨC** để giảm tai họa
 - Bác sĩ, điều dưỡng, công an cứu hộ`,
   },
 
@@ -317,15 +559,45 @@ NGHỀ NGHIỆP**.
 - Người ra ngoài thường **NHẸ NHÀNG, KHIÊM TỐN**
 - Giúp đỡ mọi người và cũng **ĐƯỢC MỌI NGƯỜI GIÚP ĐỠ**
 - Ra ngoài hay có **NHÂN DUYÊN VỚI NGƯỜI NỮ GIỚI** giúp đỡ
-- Có người **NHẬN LÀM MẸ NUÔI, ĐỠ ĐẦU**
+- Có người **NHẬN LÀM MẸ NUÔI, ĐỠ ĐẦU**`,
+  },
 
-⚡ **+ Tứ Đức đầy đủ:**
+  {
+    id: 'nguyet-duc-tai-thien-di-tu-duc',
+    title: '⚡ Nguyệt Đức + Tứ Đức tại Thiên Di - Lui tới nơi tâm linh',
+    sao: ['Nguyệt Đức'],
+    cung: ['Thiên Di'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
+    doUuTien: 70,
+    tomTat: `⚡ **Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
+Đức) đầy đủ tại Thiên Di:**
 - Hay lui tới **NƠI TÂM LINH, TÍN NGƯỠNG**
 - Hoặc làm công việc thường xuyên đến **MÔI TRƯỜNG TÂM LINH**:
   - Phóng viên thu thập thông tin văn hóa
-  - Nhà nghiên cứu tôn giáo
+  - Nhà nghiên cứu tôn giáo`,
+  },
 
-⚠️ **+ Kình Dương / Thiên Hình:**
+  {
+    id: 'nguyet-duc-tai-thien-di-kinh',
+    title: '⚠️ Nguyệt Đức + Kình Dương tại Thiên Di - Tai nạn bất ngờ',
+    sao: ['Nguyệt Đức'],
+    cung: ['Thiên Di'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Kình Dương tại Thiên Di:**
+- Dễ xảy ra **TAI NẠN BẤT NGỜ**
+- Vận số phải **NHỜ NGƯỜI CỨU GIÚP**
+- Cách "**NGHIỆP DUYÊN**" đưa đến sự kết nối nhưng không cát lợi`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-thien-di-thien-hinh',
+    title: '⚠️ Nguyệt Đức + Thiên Hình tại Thiên Di - Tai nạn bất ngờ',
+    sao: ['Nguyệt Đức'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Thiên Hình tại Thiên Di:**
 - Dễ xảy ra **TAI NẠN BẤT NGỜ**
 - Vận số phải **NHỜ NGƯỜI CỨU GIÚP**
 - Cách "**NGHIỆP DUYÊN**" đưa đến sự kết nối nhưng không cát lợi`,
@@ -349,9 +621,43 @@ NGHỀ NGHIỆP**.
 - Gặp tai họa hay được **NGƯỜI PHỤ NỮ CỨU GIÚP**
 - Đi chùa xin **ĐỨC BÀ QUAN ÂM** phù trì cứu giúp
 - Niềm tin "**ẨN GIẤU**" với tâm linh
-- Có thể ngoài mặt không công nhận, sâu bên trong là niềm tin sâu sắc
+- Có thể ngoài mặt không công nhận, sâu bên trong là niềm tin sâu sắc`,
+  },
 
-⚠️ **+ Địa Không / Địa Kiếp / Hóa Kỵ:**
+  {
+    id: 'nguyet-duc-tai-tat-ach-khong',
+    title: '⚠️ Nguyệt Đức + Địa Không tại Tật Ách - Niềm tin mù quáng',
+    sao: ['Nguyệt Đức'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Địa Không tại Tật Ách:**
+- Hình thành **NIỀM TIN MÙ QUÁNG**
+- Tin vào **TÂM LINH CHỮA BỆNH** tốt hơn khoa học
+- Cần thận trọng`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-tat-ach-kiep',
+    title: '⚠️ Nguyệt Đức + Địa Kiếp tại Tật Ách - Niềm tin mù quáng',
+    sao: ['Nguyệt Đức'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Địa Kiếp tại Tật Ách:**
+- Hình thành **NIỀM TIN MÙ QUÁNG**
+- Tin vào **TÂM LINH CHỮA BỆNH** tốt hơn khoa học
+- Cần thận trọng`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-tat-ach-hoa-ky',
+    title: '⚠️ Nguyệt Đức + Hóa Kỵ tại Tật Ách - Niềm tin mù quáng',
+    sao: ['Nguyệt Đức'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Hóa Kỵ tại Tật Ách:**
 - Hình thành **NIỀM TIN MÙ QUÁNG**
 - Tin vào **TÂM LINH CHỮA BỆNH** tốt hơn khoa học
 - Cần thận trọng`,
@@ -371,14 +677,22 @@ NGHỀ NGHIỆP**.
 - Đôi khi sẵn sàng **CHẤP NHẬN THIỆT BƯỚC** nếu có tranh chấp
 - Hay dùng tiền đem đi **LÀM TỪ THIỆN, CÔNG ĐỨC**
 - Hay được **GIÚP ĐỠ HOẶC GẶP MAY** về tiền bạc
-- **KHÔNG CÓ VẤN ĐỀ KHÓ KHĂN** với tiền bạc
+- **KHÔNG CÓ VẤN ĐỀ KHÓ KHĂN** với tiền bạc`,
+  },
 
-⚡ **+ Tứ Đức đầy đủ:**
+  {
+    id: 'nguyet-duc-tai-tai-bach-tu-duc',
+    title: '⚡ Nguyệt Đức + Tứ Đức tại Tài Bạch - Kiếm tiền tâm linh',
+    sao: ['Nguyệt Đức'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
+    doUuTien: 70,
+    tomTat: `⚡ **Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
+Đức) đầy đủ tại Tài Bạch:**
 - Kiếm tiền có **YẾU TỐ TÂM LINH**
 - Người làm việc tâm linh cần **CÓ TÂM, CHỈN CHU, BIẾT NGHĨ CHO NGƯỜI KHÁC**
 - Dễ được **KÍNH TRỌNG, GIỚI THIỆU** nhiều mối làm ăn
-- Ví dụ: chuyên đi quay phim chụp ảnh đám ma, hướng dẫn viên du lịch tâm
-  linh`,
+- Ví dụ: chuyên đi quay phim chụp ảnh đám ma, hướng dẫn viên du lịch tâm linh`,
   },
 
   {
@@ -391,12 +705,17 @@ NGHỀ NGHIỆP**.
 
 ⚡ **Đặc trưng:**
 - Con cái **HÒA THUẬN, HIẾU THẢO**
-- Biết lo cho cha mẹ, nhất là về **HẬU VẬN**
+- Biết lo cho cha mẹ, nhất là về **HẬU VẬN**`,
+  },
 
-⚡ **+ Thiên Đồng:**
-- Vợ chồng **CÓ CON SỚM**
-
-⚠️ **+ Hung tinh** (đặc biệt Hỏa Tinh):
+  {
+    id: 'nguyet-duc-tai-tu-tuc-hoa-tinh',
+    title: '⚠️ Nguyệt Đức + Hỏa Tinh tại Tử Tức - Xa cách',
+    sao: ['Nguyệt Đức'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Hỏa Tinh tại Tử Tức:**
 - Thúc đẩy hiện tượng **XA CÁCH** trong mối quan hệ
 - Con cái từ nhỏ **KHÓ NUÔI**
 - Hoặc càng lớn càng **DẦN XA CÁCH** (đi học xa, làm ăn xa nhà)
@@ -425,16 +744,82 @@ NGHỀ NGHIỆP**.
 ⚡ **Đặc biệt cho NỮ MỆNH (cung Thê):**
 - Người vợ **NHU MỲ, HIỀN HẬU, DỊU DÀNG, ĐOAN CHÍNH, NGAY THẲNG**
 - Khéo léo **NỮ CÔNG GIA CHÁNH, NỘI TRỢ, THÊU THÙA**
-- Năng khiếu **HỘI HỌA, ÂM NHẠC**
+- Năng khiếu **HỘI HỌA, ÂM NHẠC**`,
+  },
 
-⚡ **+ Khôi Việt + Xương Khúc + Hóa Lộc:**
+  {
+    id: 'nguyet-duc-tai-phu-the-khoi-viet-xuong-khuc-hoa-loc',
+    title: '⚡ Nguyệt Đức + Khôi Việt + Xương Khúc + Hóa Lộc tại Phu Thê - Sắt son',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt', 'Văn Xương', 'Văn Khúc', 'Hóa Lộc'],
+    doUuTien: 73,
+    tomTat: `⚡ **Nguyệt Đức + Thiên Khôi + Thiên Việt + Văn Xương + Văn Khúc +
+Hóa Lộc tại Phu Thê:**
 - Hôn nhân **BỀN VỮNG**
-- Tình nghĩa vợ chồng **SẮT SON**
+- Tình nghĩa vợ chồng **SẮT SON**`,
+  },
 
-⚡ **+ Thiên Đức + Đào Hoa:**
-- Vợ chồng **ĐẸP ĐÔI, TƯƠNG ĐẮC**
+  {
+    id: 'nguyet-duc-tai-phu-the-kinh',
+    title: '⚠️ Nguyệt Đức + Kình Dương tại Phu Thê - Oan gia ngõ hẹp',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Kình Dương tại Phu Thê:**
+- "**OAN GIA NGÕ HẸP**"
+- Đến với nhau nhiều khổ đau nhưng khó dứt
+- Như để **TRẢ MỘT MÓN NỢ TIỀN DUYÊN**`,
+  },
 
-⚠️ **+ Kình Đà / Hỏa Kiếp / Không:**
+  {
+    id: 'nguyet-duc-tai-phu-the-da',
+    title: '⚠️ Nguyệt Đức + Đà La tại Phu Thê - Oan gia ngõ hẹp',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phu Thê'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Đà La tại Phu Thê:**
+- "**OAN GIA NGÕ HẸP**"
+- Đến với nhau nhiều khổ đau nhưng khó dứt
+- Như để **TRẢ MỘT MÓN NỢ TIỀN DUYÊN**`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-phu-the-hoa-tinh',
+    title: '⚠️ Nguyệt Đức + Hỏa Tinh tại Phu Thê - Oan gia ngõ hẹp',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Hỏa Tinh tại Phu Thê:**
+- "**OAN GIA NGÕ HẸP**"
+- Đến với nhau nhiều khổ đau nhưng khó dứt
+- Như để **TRẢ MỘT MÓN NỢ TIỀN DUYÊN**`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-phu-the-kiep',
+    title: '⚠️ Nguyệt Đức + Địa Kiếp tại Phu Thê - Oan gia ngõ hẹp',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phu Thê'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Địa Kiếp tại Phu Thê:**
+- "**OAN GIA NGÕ HẸP**"
+- Đến với nhau nhiều khổ đau nhưng khó dứt
+- Như để **TRẢ MỘT MÓN NỢ TIỀN DUYÊN**`,
+  },
+
+  {
+    id: 'nguyet-duc-tai-phu-the-khong',
+    title: '⚠️ Nguyệt Đức + Địa Không tại Phu Thê - Oan gia ngõ hẹp',
+    sao: ['Nguyệt Đức'],
+    cung: ['Phu Thê'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Nguyệt Đức + Địa Không tại Phu Thê:**
 - "**OAN GIA NGÕ HẸP**"
 - Đến với nhau nhiều khổ đau nhưng khó dứt
 - Như để **TRẢ MỘT MÓN NỢ TIỀN DUYÊN**`,
@@ -451,13 +836,30 @@ NGHỀ NGHIỆP**.
 ⚡ **Đặc trưng:**
 - Anh chị em **THUẬN HÒA**
 - Hay **GIÚP ĐỠ LẪN NHAU**
-- Biết **YÊU THƯƠNG, ĐÙM BỌC NHAU**
+- Biết **YÊU THƯƠNG, ĐÙM BỌC NHAU**`,
+  },
 
-⚡ **+ Tứ Đức đầy đủ:**
+  {
+    id: 'nguyet-duc-tai-huynh-de-tu-duc',
+    title: '⚡ Nguyệt Đức + Tứ Đức tại Huynh Đệ - Hướng đạo tu hành',
+    sao: ['Nguyệt Đức'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
+    doUuTien: 70,
+    tomTat: `⚡ **Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
+Đức) đầy đủ tại Huynh Đệ:**
 - Anh em có người **HƯỚNG ĐẠO**
-- Thích **TU HÀNH, LÀM VIỆC THIỆN** để tích phúc đức
+- Thích **TU HÀNH, LÀM VIỆC THIỆN** để tích phúc đức`,
+  },
 
-⚠️ **+ Sao xấu:**
+  {
+    id: 'nguyet-duc-tai-huynh-de-sat-tinh',
+    title: '⚠️ Nguyệt Đức + Tứ Sát tại Huynh Đệ - Anh em thành gánh nặng',
+    sao: ['Nguyệt Đức'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Nguyệt Đức + sát tinh (Tứ Sát) tại Huynh Đệ:**
 - Anh em lại trở thành **GÁNH NẶNG**
 - Muốn giúp nhưng lại thành **LÀM PHIỀN, GÂY LIÊN LỤY**`,
   },

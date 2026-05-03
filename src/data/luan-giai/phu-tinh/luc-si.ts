@@ -50,13 +50,62 @@ THƯỜNG**.
 - **Ưa làm trước, nghĩ sau** → dễ bị **lừa gạt**
 - **Thật thà, tốt tính**, có **uy quyền, uy lực**, hay **giúp đỡ người khác**
 
-⚡ **Đặc trưng ăn nhậu:** "ăn được ngủ được là tiên" rất đúng với Lực Sĩ.
+⚡ **Đặc trưng ăn nhậu:** "ăn được ngủ được là tiên" rất đúng với Lực Sĩ.`,
+  },
 
-🌟 **+ Thiên Đồng / Tham Lang / Liêm Trinh / Thiên Trù:** **ăn khỏe**, thích
-**ăn uống nhậu nhẹt tiệc tùng**.
+  {
+    id: 'luc-si-tai-menh-thien-dong',
+    title: 'Lực Sĩ + Thiên Đồng tại Mệnh - ăn khỏe',
+    sao: ['Lực Sĩ'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Đồng'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lực Sĩ + Thiên Đồng tại Mệnh:** **ăn khỏe**, thích **ăn uống
+nhậu nhẹt tiệc tùng**.`,
+  },
 
-🌟 **+ Hóa Lộc:** càng **sành ăn**, **thích ăn ngon ăn nhiều**, tìm lạc thú
-trong sự ăn uống → "cao thủ" trong tiệc tùng.`,
+  {
+    id: 'luc-si-tai-menh-tham-lang',
+    title: 'Lực Sĩ + Tham Lang tại Mệnh - ăn khỏe',
+    sao: ['Lực Sĩ'],
+    cung: ['Mệnh'],
+    ketHop: ['Tham Lang'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lực Sĩ + Tham Lang tại Mệnh:** **ăn khỏe**, thích **ăn uống
+nhậu nhẹt tiệc tùng**.`,
+  },
+
+  {
+    id: 'luc-si-tai-menh-liem-trinh',
+    title: 'Lực Sĩ + Liêm Trinh tại Mệnh - ăn khỏe',
+    sao: ['Lực Sĩ'],
+    cung: ['Mệnh'],
+    ketHop: ['Liêm Trinh'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lực Sĩ + Liêm Trinh tại Mệnh:** **ăn khỏe**, thích **ăn uống
+nhậu nhẹt tiệc tùng**.`,
+  },
+
+  {
+    id: 'luc-si-tai-menh-thien-tru',
+    title: 'Lực Sĩ + Thiên Trù tại Mệnh - ăn khỏe',
+    sao: ['Lực Sĩ'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Trù'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lực Sĩ + Thiên Trù tại Mệnh:** **ăn khỏe**, thích **ăn uống
+nhậu nhẹt tiệc tùng**.`,
+  },
+
+  {
+    id: 'luc-si-tai-menh-hoa-loc',
+    title: 'Lực Sĩ + Hóa Lộc tại Mệnh - sành ăn',
+    sao: ['Lực Sĩ'],
+    cung: ['Mệnh'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Lực Sĩ + Hóa Lộc tại Mệnh:** càng **sành ăn**, **thích ăn ngon
+ăn nhiều**, tìm lạc thú trong sự ăn uống → "cao thủ" trong tiệc tùng.`,
   },
 
   // ============================================================
@@ -71,14 +120,88 @@ trong sự ăn uống → "cao thủ" trong tiệc tùng.`,
     tomTat: `**Lực Sĩ cư Phụ Mẫu:** cha mẹ là người **có sức khỏe, cao lớn, chịu
 khó làm ăn**, không nề hà việc lớn bé.
 
-🌟 **+ Phong Cáo / Hóa Quyền / Tả Hữu / Quang Quý / Thiên Việt:** cha mẹ làm
-**võ nghiệp, quân nhân, sĩ quan, an ninh**.
-
 ⚠️ **Không có quyền tinh:** cha mẹ chịu thương chịu khó, **"bán mặt cho đất,
 bán lưng cho trời"**, thường xuất thân **nông dân hoặc buôn bán nhỏ**.
 
-⚠️ **+ Sao phá tài:** cha mẹ phải **lao lực kiếm tiền**, ít thời gian chăm con
-→ tình cảm gia đình khó trọn vẹn.`,
+⚠️ Khi có thêm sao phá tài: cha mẹ phải **lao lực kiếm tiền**, ít thời gian
+chăm con → tình cảm gia đình khó trọn vẹn.`,
+  },
+
+  {
+    id: 'luc-si-tai-phu-mau-phong-cao',
+    title: 'Lực Sĩ + Phong Cáo tại Phụ Mẫu - võ nghiệp',
+    sao: ['Lực Sĩ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Phong Cáo'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Phong Cáo tại Phụ Mẫu:** cha mẹ làm **võ nghiệp, quân
+nhân, sĩ quan, an ninh**.`,
+  },
+
+  {
+    id: 'luc-si-tai-phu-mau-hoa-quyen',
+    title: 'Lực Sĩ + Hóa Quyền tại Phụ Mẫu - võ nghiệp',
+    sao: ['Lực Sĩ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hóa Quyền'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Hóa Quyền tại Phụ Mẫu:** cha mẹ làm **võ nghiệp, quân
+nhân, sĩ quan, an ninh**.`,
+  },
+
+  {
+    id: 'luc-si-tai-phu-mau-ta-phu',
+    title: 'Lực Sĩ + Tả Phù tại Phụ Mẫu - võ nghiệp',
+    sao: ['Lực Sĩ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Tả Phù tại Phụ Mẫu:** cha mẹ làm **võ nghiệp, quân
+nhân, sĩ quan, an ninh**.`,
+  },
+
+  {
+    id: 'luc-si-tai-phu-mau-huu-bat',
+    title: 'Lực Sĩ + Hữu Bật tại Phụ Mẫu - võ nghiệp',
+    sao: ['Lực Sĩ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Hữu Bật tại Phụ Mẫu:** cha mẹ làm **võ nghiệp, quân
+nhân, sĩ quan, an ninh**.`,
+  },
+
+  {
+    id: 'luc-si-tai-phu-mau-an-quang',
+    title: 'Lực Sĩ + Ân Quang tại Phụ Mẫu - võ nghiệp',
+    sao: ['Lực Sĩ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Ân Quang'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Ân Quang tại Phụ Mẫu:** cha mẹ làm **võ nghiệp, quân
+nhân, sĩ quan, an ninh**.`,
+  },
+
+  {
+    id: 'luc-si-tai-phu-mau-thien-quy',
+    title: 'Lực Sĩ + Thiên Quý tại Phụ Mẫu - võ nghiệp',
+    sao: ['Lực Sĩ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Quý'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Thiên Quý tại Phụ Mẫu:** cha mẹ làm **võ nghiệp, quân
+nhân, sĩ quan, an ninh**.`,
+  },
+
+  {
+    id: 'luc-si-tai-phu-mau-thien-viet',
+    title: 'Lực Sĩ + Thiên Việt tại Phụ Mẫu - võ nghiệp',
+    sao: ['Lực Sĩ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Thiên Việt tại Phụ Mẫu:** cha mẹ làm **võ nghiệp, quân
+nhân, sĩ quan, an ninh**.`,
   },
 
   // ============================================================
@@ -93,13 +216,63 @@ bán lưng cho trời"**, thường xuất thân **nông dân hoặc buôn bán 
     tomTat: `**Lực Sĩ cư Phúc Đức:** dòng họ có **gen khỏe mạnh, to lớn**, sức
 bền tốt. Tính tình **thẳng thắn, không che giấu**.
 
-🌟 **Mồ mả các cụ to, bề thế**.
+🌟 **Mồ mả các cụ to, bề thế**.`,
+  },
 
-🌟 **+ Tràng Sinh / Quang Quý / Thiên Thọ:** dòng họ **TỐT PHÚC**, nhiều người
-**SỐNG THỌ**.
+  {
+    id: 'luc-si-tai-phuc-duc-trang-sinh',
+    title: 'Lực Sĩ + Tràng Sinh tại Phúc Đức - sống thọ',
+    sao: ['Lực Sĩ'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tràng Sinh'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lực Sĩ + Tràng Sinh tại Phúc Đức:** dòng họ **TỐT PHÚC**, nhiều
+người **SỐNG THỌ**.`,
+  },
 
-🌟 **+ Tả Hữu + Linh Tinh + Đà La:** đương số hình thành **khí chất KIÊN ĐỊNH**,
-mang tinh thần **bậc vĩ nhân**, **"dùi mài kinh sử"** đến ngày thành công.`,
+  {
+    id: 'luc-si-tai-phuc-duc-an-quang',
+    title: 'Lực Sĩ + Ân Quang tại Phúc Đức - sống thọ',
+    sao: ['Lực Sĩ'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Ân Quang'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lực Sĩ + Ân Quang tại Phúc Đức:** dòng họ **TỐT PHÚC**, nhiều
+người **SỐNG THỌ**.`,
+  },
+
+  {
+    id: 'luc-si-tai-phuc-duc-thien-quy',
+    title: 'Lực Sĩ + Thiên Quý tại Phúc Đức - sống thọ',
+    sao: ['Lực Sĩ'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Quý'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lực Sĩ + Thiên Quý tại Phúc Đức:** dòng họ **TỐT PHÚC**, nhiều
+người **SỐNG THỌ**.`,
+  },
+
+  {
+    id: 'luc-si-tai-phuc-duc-thien-tho',
+    title: 'Lực Sĩ + Thiên Thọ tại Phúc Đức - sống thọ',
+    sao: ['Lực Sĩ'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Thọ'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lực Sĩ + Thiên Thọ tại Phúc Đức:** dòng họ **TỐT PHÚC**, nhiều
+người **SỐNG THỌ**.`,
+  },
+
+  {
+    id: 'luc-si-tai-phuc-duc-ta-huu-linh-da',
+    title: 'Lực Sĩ + Tả Hữu + Linh Tinh + Đà La tại Phúc Đức - bậc vĩ nhân',
+    sao: ['Lực Sĩ'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Linh Tinh', 'Đà La'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lực Sĩ + Tả Phù + Hữu Bật + Linh Tinh + Đà La tại Phúc Đức:**
+đương số hình thành **khí chất KIÊN ĐỊNH**, mang tinh thần **bậc vĩ nhân**,
+**"dùi mài kinh sử"** đến ngày thành công.`,
   },
 
   // ============================================================
@@ -118,10 +291,62 @@ chắn** dù không quá sang trọng.
 đẹp và sang**.
 
 🌟 Sống ở nơi dễ gặp **địa chấn**, Lực Sĩ + **Hóa Khoa / Khôi Việt / Quang Quý
-/ Tả Phù / Hữu Bật:** giúp **TRÁNH SỤP ĐỔ**, tai họa.
+/ Tả Phù / Hữu Bật:** giúp **TRÁNH SỤP ĐỔ**, tai họa.`,
+  },
 
-⚠️ **+ Hỏa / Kiếp / Đà / Tử / Tuần:** cẩn trọng nguy cơ **mắc kẹt hoặc tai
-nạn** trong những không gian kiên cố.`,
+  {
+    id: 'luc-si-tai-dien-trach-hoa-tinh',
+    title: 'Lực Sĩ + Hỏa Tinh tại Điền Trạch - tai nạn không gian kiên cố',
+    sao: ['Lực Sĩ'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Hỏa Tinh tại Điền Trạch:** cẩn trọng nguy cơ **mắc kẹt
+hoặc tai nạn** trong những không gian kiên cố.`,
+  },
+
+  {
+    id: 'luc-si-tai-dien-trach-dia-kiep',
+    title: 'Lực Sĩ + Địa Kiếp tại Điền Trạch - tai nạn không gian kiên cố',
+    sao: ['Lực Sĩ'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Địa Kiếp tại Điền Trạch:** cẩn trọng nguy cơ **mắc kẹt
+hoặc tai nạn** trong những không gian kiên cố.`,
+  },
+
+  {
+    id: 'luc-si-tai-dien-trach-da-la',
+    title: 'Lực Sĩ + Đà La tại Điền Trạch - tai nạn không gian kiên cố',
+    sao: ['Lực Sĩ'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Đà La'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Đà La tại Điền Trạch:** cẩn trọng nguy cơ **mắc kẹt
+hoặc tai nạn** trong những không gian kiên cố.`,
+  },
+
+  {
+    id: 'luc-si-tai-dien-trach-tu',
+    title: 'Lực Sĩ + Tử tại Điền Trạch - tai nạn không gian kiên cố',
+    sao: ['Lực Sĩ'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tử'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Tử tại Điền Trạch:** cẩn trọng nguy cơ **mắc kẹt
+hoặc tai nạn** trong những không gian kiên cố.`,
+  },
+
+  {
+    id: 'luc-si-tai-dien-trach-tuan',
+    title: 'Lực Sĩ + Tuần tại Điền Trạch - tai nạn không gian kiên cố',
+    sao: ['Lực Sĩ'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tuần'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Tuần tại Điền Trạch:** cẩn trọng nguy cơ **mắc kẹt
+hoặc tai nạn** trong những không gian kiên cố.`,
   },
 
   // ============================================================
@@ -139,14 +364,31 @@ làm bất cứ việc gì được giao, **làm việc không biết mệt mỏ
 🌟 **Phù hợp:**
 - **Võ nghiệp, quân đội, công an, an ninh**
 - **Thể thao**
-- Ngành nghề yêu cầu **THỂ LỰC LỚN** (lao động chân tay, kỹ thuật nặng)
+- Ngành nghề yêu cầu **THỂ LỰC LỚN** (lao động chân tay, kỹ thuật nặng)`,
+  },
 
-🌟 **+ Văn tinh** (Xương Khúc): công việc vừa cần **sức** vừa cần **trí** →
-tạo cân bằng hài hòa.
+  {
+    id: 'luc-si-tai-quan-loc-van-tinh',
+    title: 'Lực Sĩ + Văn tinh tại Quan Lộc - sức + trí cân bằng',
+    sao: ['Lực Sĩ'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Lưu Niên Văn Tinh', 'Hóa Khoa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Lực Sĩ + Văn Xương / Văn Khúc / Lưu Niên Văn Tinh / Hóa Khoa
+tại Quan Lộc:** công việc vừa cần **sức** vừa cần **trí** → tạo cân bằng hài
+hòa.`,
+  },
 
-⚠️ **+ Thất Sát + Hóa Kỵ + Thiên Hình:** cần xem thêm sao chủ tật bệnh —
-công việc có thể khiến sức khỏe **suy giảm**, **"làm việc quên thân" mà sinh
-bệnh**.`,
+  {
+    id: 'luc-si-tai-quan-loc-that-sat-ky-hinh',
+    title: 'Lực Sĩ + Thất Sát + Hóa Kỵ + Thiên Hình tại Quan Lộc - lao lực sinh bệnh',
+    sao: ['Lực Sĩ'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thất Sát', 'Hóa Kỵ', 'Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Lực Sĩ + Thất Sát + Hóa Kỵ + Thiên Hình tại Quan Lộc:** cần xem
+thêm sao chủ tật bệnh — công việc có thể khiến sức khỏe **suy giảm**, **"làm
+việc quên thân" mà sinh bệnh**.`,
   },
 
   // ============================================================
@@ -158,16 +400,139 @@ bệnh**.`,
     sao: ['Lực Sĩ'],
     cung: ['Nô Bộc'],
     doUuTien: 70,
-    tomTat: `**Lực Sĩ cư Nô:** **tăng SỐ LƯỢNG bạn bè**.
+    tomTat: `**Lực Sĩ cư Nô:** **tăng SỐ LƯỢNG bạn bè**.`,
+  },
 
-🌟 **+ Tả Hữu / Quang Quý / Khôi Việt:** bạn bè **ít nhưng CHẤT LƯỢNG**, kết
-giao với người **tử tế, thật lòng**.
+  {
+    id: 'luc-si-tai-no-boc-ta-phu',
+    title: 'Lực Sĩ + Tả Phù tại Nô Bộc - bạn bè chất lượng',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Tả Phù tại Nô Bộc:** bạn bè **ít nhưng CHẤT LƯỢNG**,
+kết giao với người **tử tế, thật lòng**.`,
+  },
 
-🌟 **+ Thiên Trù:** hay được bạn bè **rủ đi ăn nhậu**, cơ hội tốt nảy nở **trên
-bàn tiệc** (đặc biệt + sao Lộc).
+  {
+    id: 'luc-si-tai-no-boc-huu-bat',
+    title: 'Lực Sĩ + Hữu Bật tại Nô Bộc - bạn bè chất lượng',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Hữu Bật tại Nô Bộc:** bạn bè **ít nhưng CHẤT LƯỢNG**,
+kết giao với người **tử tế, thật lòng**.`,
+  },
 
-⚠️ **+ Kình Dương / Thiên Hình / Không Kiếp / Hóa Kỵ:** **nhiều bạn xấu, giang
-hồ** → cẩn thận **bị ám hại, hành hung, phản bội** bởi bạn bè đồng nghiệp.`,
+  {
+    id: 'luc-si-tai-no-boc-an-quang',
+    title: 'Lực Sĩ + Ân Quang tại Nô Bộc - bạn bè chất lượng',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Ân Quang'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Ân Quang tại Nô Bộc:** bạn bè **ít nhưng CHẤT LƯỢNG**,
+kết giao với người **tử tế, thật lòng**.`,
+  },
+
+  {
+    id: 'luc-si-tai-no-boc-thien-quy',
+    title: 'Lực Sĩ + Thiên Quý tại Nô Bộc - bạn bè chất lượng',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Quý'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Thiên Quý tại Nô Bộc:** bạn bè **ít nhưng CHẤT LƯỢNG**,
+kết giao với người **tử tế, thật lòng**.`,
+  },
+
+  {
+    id: 'luc-si-tai-no-boc-thien-khoi',
+    title: 'Lực Sĩ + Thiên Khôi tại Nô Bộc - bạn bè chất lượng',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Thiên Khôi tại Nô Bộc:** bạn bè **ít nhưng CHẤT LƯỢNG**,
+kết giao với người **tử tế, thật lòng**.`,
+  },
+
+  {
+    id: 'luc-si-tai-no-boc-thien-viet',
+    title: 'Lực Sĩ + Thiên Việt tại Nô Bộc - bạn bè chất lượng',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Thiên Việt tại Nô Bộc:** bạn bè **ít nhưng CHẤT LƯỢNG**,
+kết giao với người **tử tế, thật lòng**.`,
+  },
+
+  {
+    id: 'luc-si-tai-no-boc-thien-tru',
+    title: 'Lực Sĩ + Thiên Trù tại Nô Bộc - rủ ăn nhậu',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Trù'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Thiên Trù tại Nô Bộc:** hay được bạn bè **rủ đi ăn
+nhậu**, cơ hội tốt nảy nở **trên bàn tiệc** (đặc biệt + sao Lộc).`,
+  },
+
+  {
+    id: 'luc-si-tai-no-boc-kinh-duong',
+    title: 'Lực Sĩ + Kình Dương tại Nô Bộc - bạn xấu giang hồ',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Kình Dương tại Nô Bộc:** **nhiều bạn xấu, giang hồ**
+→ cẩn thận **bị ám hại, hành hung, phản bội** bởi bạn bè đồng nghiệp.`,
+  },
+
+  {
+    id: 'luc-si-tai-no-boc-thien-hinh',
+    title: 'Lực Sĩ + Thiên Hình tại Nô Bộc - bạn xấu giang hồ',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Thiên Hình tại Nô Bộc:** **nhiều bạn xấu, giang hồ**
+→ cẩn thận **bị ám hại, hành hung, phản bội** bởi bạn bè đồng nghiệp.`,
+  },
+
+  {
+    id: 'luc-si-tai-no-boc-dia-khong',
+    title: 'Lực Sĩ + Địa Không tại Nô Bộc - bạn xấu giang hồ',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Địa Không'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Địa Không tại Nô Bộc:** **nhiều bạn xấu, giang hồ**
+→ cẩn thận **bị ám hại, hành hung, phản bội** bởi bạn bè đồng nghiệp.`,
+  },
+
+  {
+    id: 'luc-si-tai-no-boc-dia-kiep',
+    title: 'Lực Sĩ + Địa Kiếp tại Nô Bộc - bạn xấu giang hồ',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Địa Kiếp tại Nô Bộc:** **nhiều bạn xấu, giang hồ**
+→ cẩn thận **bị ám hại, hành hung, phản bội** bởi bạn bè đồng nghiệp.`,
+  },
+
+  {
+    id: 'luc-si-tai-no-boc-hoa-ky',
+    title: 'Lực Sĩ + Hóa Kỵ tại Nô Bộc - bạn xấu giang hồ',
+    sao: ['Lực Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Hóa Kỵ tại Nô Bộc:** **nhiều bạn xấu, giang hồ** →
+cẩn thận **bị ám hại, hành hung, phản bội** bởi bạn bè đồng nghiệp.`,
   },
 
   // ============================================================
@@ -182,12 +547,30 @@ hồ** → cẩn thận **bị ám hại, hành hung, phản bội** bởi bạn
     tomTat: `**Lực Sĩ cư Thiên Di:** người ra ngoài **THẬT THÀ, chân chất**, hay
 **giúp đỡ người khác**.
 
-⚡ Ra ngoài **vất vả** nhưng mang hình ảnh **khỏe mạnh, nhanh nhẹn**.
+⚡ Ra ngoài **vất vả** nhưng mang hình ảnh **khỏe mạnh, nhanh nhẹn**.`,
+  },
 
-🌟 **+ Thiên Trù:** ra ngoài hay **đợi mời đi ăn nhậu**.
+  {
+    id: 'luc-si-tai-thien-di-thien-tru',
+    title: 'Lực Sĩ + Thiên Trù tại Thiên Di - đợi mời ăn nhậu',
+    sao: ['Lực Sĩ'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Trù'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Thiên Trù tại Thiên Di:** ra ngoài hay **đợi mời đi
+ăn nhậu**.`,
+  },
 
-🌟 **+ Lộc + Tả Hữu:** nên ra ngoài giao lưu nhiều — có khả năng kết bạn với
-người **có chí khí, sức vóc, nhiệt huyết**.`,
+  {
+    id: 'luc-si-tai-thien-di-loc-ta-huu',
+    title: 'Lực Sĩ + Hóa Lộc + Tả Hữu tại Thiên Di - kết bạn nhiệt huyết',
+    sao: ['Lực Sĩ'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Lộc', 'Tả Phù', 'Hữu Bật'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Hóa Lộc + Tả Phù + Hữu Bật tại Thiên Di:** nên ra
+ngoài giao lưu nhiều — có khả năng kết bạn với người **có chí khí, sức vóc,
+nhiệt huyết**.`,
   },
 
   // ============================================================
@@ -202,15 +585,95 @@ người **có chí khí, sức vóc, nhiệt huyết**.`,
     tomTat: `⚠️ **Lực Sĩ cư Tật:** làm **GIA TĂNG cường độ tật bệnh** của các
 sao đi cùng.
 
-⚠️ Đặc trưng: liên quan tới **THỪA CÂN, ăn uống quá độ**.
+⚠️ Đặc trưng: liên quan tới **THỪA CÂN, ăn uống quá độ**.`,
+  },
 
-⚠️ **+ Đà La / Kiếp / Tuần** (sao chủ kéo dài): bệnh tật trở nên **dai dẳng,
-khó dứt**.
+  {
+    id: 'luc-si-tai-tat-ach-da-la',
+    title: 'Lực Sĩ + Đà La tại Tật Ách - bệnh dai dẳng',
+    sao: ['Lực Sĩ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Đà La'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Lực Sĩ + Đà La tại Tật Ách** (sao chủ kéo dài): bệnh tật trở
+nên **dai dẳng, khó dứt**.`,
+  },
 
-🌟 **+ Tả Hữu / Hóa Quyền:** tạo **động lực chăm sóc sức khỏe** → ngoại hình
-và thể lực tốt.
+  {
+    id: 'luc-si-tai-tat-ach-dia-kiep',
+    title: 'Lực Sĩ + Địa Kiếp tại Tật Ách - bệnh dai dẳng',
+    sao: ['Lực Sĩ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Lực Sĩ + Địa Kiếp tại Tật Ách** (sao chủ kéo dài): bệnh tật
+trở nên **dai dẳng, khó dứt**.`,
+  },
 
-⚠️ **+ Thiên Trù / Thiên Phủ** (sao chủ ăn uống): đề phòng **béo phì**.`,
+  {
+    id: 'luc-si-tai-tat-ach-tuan',
+    title: 'Lực Sĩ + Tuần tại Tật Ách - bệnh dai dẳng',
+    sao: ['Lực Sĩ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Tuần'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Lực Sĩ + Tuần tại Tật Ách** (sao chủ kéo dài): bệnh tật trở
+nên **dai dẳng, khó dứt**.`,
+  },
+
+  {
+    id: 'luc-si-tai-tat-ach-ta-phu',
+    title: 'Lực Sĩ + Tả Phù tại Tật Ách - động lực chăm sóc sức khỏe',
+    sao: ['Lực Sĩ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lực Sĩ + Tả Phù tại Tật Ách:** tạo **động lực chăm sóc sức
+khỏe** → ngoại hình và thể lực tốt.`,
+  },
+
+  {
+    id: 'luc-si-tai-tat-ach-huu-bat',
+    title: 'Lực Sĩ + Hữu Bật tại Tật Ách - động lực chăm sóc sức khỏe',
+    sao: ['Lực Sĩ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lực Sĩ + Hữu Bật tại Tật Ách:** tạo **động lực chăm sóc sức
+khỏe** → ngoại hình và thể lực tốt.`,
+  },
+
+  {
+    id: 'luc-si-tai-tat-ach-hoa-quyen',
+    title: 'Lực Sĩ + Hóa Quyền tại Tật Ách - động lực chăm sóc sức khỏe',
+    sao: ['Lực Sĩ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hóa Quyền'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lực Sĩ + Hóa Quyền tại Tật Ách:** tạo **động lực chăm sóc sức
+khỏe** → ngoại hình và thể lực tốt.`,
+  },
+
+  {
+    id: 'luc-si-tai-tat-ach-thien-tru',
+    title: 'Lực Sĩ + Thiên Trù tại Tật Ách - béo phì',
+    sao: ['Lực Sĩ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Trù'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Lực Sĩ + Thiên Trù tại Tật Ách** (sao chủ ăn uống): đề phòng
+**béo phì**.`,
+  },
+
+  {
+    id: 'luc-si-tai-tat-ach-thien-phu',
+    title: 'Lực Sĩ + Thiên Phủ tại Tật Ách - béo phì',
+    sao: ['Lực Sĩ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Lực Sĩ + Thiên Phủ tại Tật Ách** (sao chủ ăn uống): đề phòng
+**béo phì**.`,
   },
 
   // ============================================================
@@ -228,13 +691,75 @@ và thể lực tốt.
 ⚡ **Đặc trưng:** **"một nắng hai sương"**, dựa nhiều vào **sức lực bản thân**.
 
 ⚠️ Ăn tiêu **thoải mái**, **không có óc tính toán sâu** — hay tốn tiền cho
-mục đích cơ bản: **ăn uống, chơi bời, nhậu nhẹt**.
+mục đích cơ bản: **ăn uống, chơi bời, nhậu nhẹt**.`,
+  },
 
-⚠️ **+ Kiếp / Kỵ / Hỏa Tinh / Linh Tinh:** dễ tiêu pha cho mục đích **không
-chính đáng** (nhậu nhẹt, hưởng thụ).
+  {
+    id: 'luc-si-tai-tai-bach-dia-kiep',
+    title: 'Lực Sĩ + Địa Kiếp tại Tài Bạch - tiêu hoang',
+    sao: ['Lực Sĩ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Lực Sĩ + Địa Kiếp tại Tài Bạch:** dễ tiêu pha cho mục đích
+**không chính đáng** (nhậu nhẹt, hưởng thụ).`,
+  },
 
-🌟 **+ Lộc + văn tinh:** kết hợp **lao động tay chân với trí lực** → công việc
-nhẹ nhàng hơn, dễ đạt thành tựu tài chính.`,
+  {
+    id: 'luc-si-tai-tai-bach-hoa-ky',
+    title: 'Lực Sĩ + Hóa Kỵ tại Tài Bạch - tiêu hoang',
+    sao: ['Lực Sĩ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Lực Sĩ + Hóa Kỵ tại Tài Bạch:** dễ tiêu pha cho mục đích
+**không chính đáng** (nhậu nhẹt, hưởng thụ).`,
+  },
+
+  {
+    id: 'luc-si-tai-tai-bach-hoa-tinh',
+    title: 'Lực Sĩ + Hỏa Tinh tại Tài Bạch - tiêu hoang',
+    sao: ['Lực Sĩ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Lực Sĩ + Hỏa Tinh tại Tài Bạch:** dễ tiêu pha cho mục đích
+**không chính đáng** (nhậu nhẹt, hưởng thụ).`,
+  },
+
+  {
+    id: 'luc-si-tai-tai-bach-linh-tinh',
+    title: 'Lực Sĩ + Linh Tinh tại Tài Bạch - tiêu hoang',
+    sao: ['Lực Sĩ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Lực Sĩ + Linh Tinh tại Tài Bạch:** dễ tiêu pha cho mục đích
+**không chính đáng** (nhậu nhẹt, hưởng thụ).`,
+  },
+
+  {
+    id: 'luc-si-tai-tai-bach-loc-van-xuong',
+    title: 'Lực Sĩ + Hóa Lộc + Văn Xương tại Tài Bạch - tay chân + trí lực',
+    sao: ['Lực Sĩ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Lộc', 'Văn Xương'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lực Sĩ + Hóa Lộc + Văn Xương tại Tài Bạch:** kết hợp **lao
+động tay chân với trí lực** → công việc nhẹ nhàng hơn, dễ đạt thành tựu tài
+chính.`,
+  },
+
+  {
+    id: 'luc-si-tai-tai-bach-loc-van-khuc',
+    title: 'Lực Sĩ + Hóa Lộc + Văn Khúc tại Tài Bạch - tay chân + trí lực',
+    sao: ['Lực Sĩ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Lộc', 'Văn Khúc'],
+    doUuTien: 67,
+    tomTat: `🌟 **Lực Sĩ + Hóa Lộc + Văn Khúc tại Tài Bạch:** kết hợp **lao
+động tay chân với trí lực** → công việc nhẹ nhàng hơn, dễ đạt thành tựu tài
+chính.`,
   },
 
   // ============================================================
@@ -249,9 +774,40 @@ nhẹ nhàng hơn, dễ đạt thành tựu tài chính.`,
     tomTat: `🌟 **Lực Sĩ cư Tử Tức:** **GIA TĂNG SỐ LƯỢNG CON** — sinh con thuận
 lợi, **"con đàn cháu đống"**, thúc đẩy sự **kế thừa và phát triển** của gia tộc.
 
-🌟 Con cái **khỏe mạnh, tốt tính, đơn giản**.
+🌟 Con cái **khỏe mạnh, tốt tính, đơn giản**.`,
+  },
 
-🌟 **+ Khôi Việt / Hóa Lộc:** càng rõ rệt — nhiều con và đều **hưng vượng**.`,
+  {
+    id: 'luc-si-tai-tu-tuc-thien-khoi',
+    title: 'Lực Sĩ + Thiên Khôi tại Tử Tức - hưng vượng',
+    sao: ['Lực Sĩ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Thiên Khôi tại Tử Tức:** càng rõ rệt — nhiều con và
+đều **hưng vượng**.`,
+  },
+
+  {
+    id: 'luc-si-tai-tu-tuc-thien-viet',
+    title: 'Lực Sĩ + Thiên Việt tại Tử Tức - hưng vượng',
+    sao: ['Lực Sĩ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Thiên Việt tại Tử Tức:** càng rõ rệt — nhiều con và
+đều **hưng vượng**.`,
+  },
+
+  {
+    id: 'luc-si-tai-tu-tuc-hoa-loc',
+    title: 'Lực Sĩ + Hóa Lộc tại Tử Tức - hưng vượng',
+    sao: ['Lực Sĩ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Hóa Lộc tại Tử Tức:** càng rõ rệt — nhiều con và
+đều **hưng vượng**.`,
   },
 
   // ============================================================
@@ -305,13 +861,53 @@ mệnh:**
     cung: ['Huynh Đệ'],
     doUuTien: 70,
     tomTat: `**Lực Sĩ cư Huynh Đệ:** **TĂNG SỐ LƯỢNG anh chị em**, nhiều người
-**to lớn, khỏe mạnh**.
+**to lớn, khỏe mạnh**.`,
+  },
 
-🌟 **+ Cát tinh:** anh chị em **gắn bó, bền vững**, trở thành **chỗ dựa, che
-chở** cho nhau khi gặp khó khăn.
+  {
+    id: 'luc-si-tai-huynh-de-luc-cat',
+    title: 'Lực Sĩ + Lục Cát tại Huynh Đệ - gắn bó',
+    sao: ['Lực Sĩ'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `🌟 **Lực Sĩ + Cát tinh tại Huynh Đệ** (Tả Phù / Hữu Bật / Văn Xương
+/ Văn Khúc / Thiên Khôi / Thiên Việt): anh chị em **gắn bó, bền vững**, trở
+thành **chỗ dựa, che chở** cho nhau khi gặp khó khăn.`,
+  },
 
-⚠️ **+ Sát / Hình / Kỵ:** dễ **"trâu buộc ghét trâu ăn"** — anh em **mâu thuẫn**,
-thậm chí **bắt nạt nhau**.`,
+  {
+    id: 'luc-si-tai-huynh-de-tu-sat',
+    title: 'Lực Sĩ + Tứ Sát tại Huynh Đệ - mâu thuẫn',
+    sao: ['Lực Sĩ'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Sát tinh tại Huynh Đệ** (Kình Dương / Đà La / Hỏa
+Tinh / Linh Tinh): dễ **"trâu buộc ghét trâu ăn"** — anh em **mâu thuẫn**, thậm
+chí **bắt nạt nhau**.`,
+  },
+
+  {
+    id: 'luc-si-tai-huynh-de-thien-hinh',
+    title: 'Lực Sĩ + Thiên Hình tại Huynh Đệ - mâu thuẫn',
+    sao: ['Lực Sĩ'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Thiên Hình tại Huynh Đệ:** dễ **"trâu buộc ghét trâu
+ăn"** — anh em **mâu thuẫn**, thậm chí **bắt nạt nhau**.`,
+  },
+
+  {
+    id: 'luc-si-tai-huynh-de-hoa-ky',
+    title: 'Lực Sĩ + Hóa Kỵ tại Huynh Đệ - mâu thuẫn',
+    sao: ['Lực Sĩ'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Lực Sĩ + Hóa Kỵ tại Huynh Đệ:** dễ **"trâu buộc ghét trâu ăn"**
+— anh em **mâu thuẫn**, thậm chí **bắt nạt nhau**.`,
   },
 
   // ============================================================
@@ -344,10 +940,17 @@ MƯU**.
     tomTat: `🌟 **Lực Sĩ + Thiên Hình hoặc Bạch Hổ:** người có **CHÍ KHÍ SẮT ĐÁ,
 MẠNH MẼ**, **ĐÀN ÔNG, HIÊN NGANG**.
 
-→ Mẫu người tướng quân, dũng tướng — sức mạnh + uy nghiêm.
+→ Mẫu người tướng quân, dũng tướng — sức mạnh + uy nghiêm.`,
+  },
 
-⚡ **+ Thiên Hình:** thể hiện **sức mạnh, uy nghiêm, khó tính** và phần dũng
-mãnh.`,
+  {
+    id: 'luc-si-thien-hinh-suc-manh',
+    title: 'Lực Sĩ + Thiên Hình - sức mạnh uy nghiêm',
+    sao: ['Lực Sĩ'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 53,
+    tomTat: `⚡ **Lực Sĩ + Thiên Hình:** thể hiện **sức mạnh, uy nghiêm, khó
+tính** và phần dũng mãnh.`,
   },
 
   // ============================================================
@@ -467,14 +1070,28 @@ của**, **mất uy tín, danh dự**.`,
     title: 'Lực Sĩ vào hạn',
     sao: ['Lực Sĩ'],
     doUuTien: 50,
-    tomTat: `🌟 **Hạn có Lực Sĩ:**
-
-- **+ Thiên Mã:** **gặp thời vận tốt**
-- **+ Thiên Trù:** được **mời ăn uống linh đình**
-
-→ Hạn của hành động, sức khỏe, công việc tay chân.
+    tomTat: `🌟 **Hạn có Lực Sĩ:** hạn của hành động, sức khỏe, công việc tay
+chân.
 
 ⚠️ Cần **rèn tính kiên nhẫn, tránh nóng vội** — sức mạnh nếu không tiết chế dễ
 biến thành **gánh nặng**, khiến cuộc sống lao đao.`,
+  },
+
+  {
+    id: 'luc-si-han-thien-ma',
+    title: 'Hạn Lực Sĩ + Thiên Mã - thời vận tốt',
+    sao: ['Lực Sĩ'],
+    ketHop: ['Thiên Mã'],
+    doUuTien: 45,
+    tomTat: `🌟 **Hạn có Lực Sĩ + Thiên Mã:** **gặp thời vận tốt**.`,
+  },
+
+  {
+    id: 'luc-si-han-thien-tru',
+    title: 'Hạn Lực Sĩ + Thiên Trù - mời ăn uống',
+    sao: ['Lực Sĩ'],
+    ketHop: ['Thiên Trù'],
+    doUuTien: 45,
+    tomTat: `🌟 **Hạn có Lực Sĩ + Thiên Trù:** được **mời ăn uống linh đình**.`,
   },
 ];

@@ -41,11 +41,11 @@ thâm trầm hơn**, dễ bị **ganh ghét và gây trở ngại** cho cung mà
 Hành Thủy có xu hướng **hướng nội cao** — thích **THU HÚT mọi thứ về mình**,
 không quan tâm thế giới xung quanh.
 
-→ **+ Cát tinh:** như **thỏi NAM CHÂM hút hết**, **CẢN TRỞ các sao tốt** không
-cho đặc tính tốt phát huy ra ngoài.
+→ Khi có **cát tinh:** như **thỏi NAM CHÂM hút hết**, **CẢN TRỞ các sao tốt**
+không cho đặc tính tốt phát huy ra ngoài.
 
-→ **+ Sát bại tinh:** **ĐỒNG NHẤT** với chúng → tạo sức công phá mãnh liệt →
-**thị phi, điều tiếng, bệnh tật, khó khăn**.`,
+→ Khi có **sát bại tinh:** **ĐỒNG NHẤT** với chúng → tạo sức công phá mãnh
+liệt → **thị phi, điều tiếng, bệnh tật, khó khăn**.`,
   },
 
   // ============================================================
@@ -56,24 +56,67 @@ cho đặc tính tốt phát huy ra ngoài.
     title: 'Hóa Kỵ - Hiệu ứng với từng loại sao',
     sao: ['Hóa Kỵ'],
     doUuTien: 35,
-    tomTat: `⚡ **Hóa Kỵ làm BIẾN ĐỔI mọi sao đi cùng:**
-
-⚠️ **+ Sao học tập** (Văn Xương, Văn Khúc, Khôi Việt, Văn Tinh): **khó khăn học
-hành, công danh** — ít bằng cấp hoặc bằng cấp không dùng tới.
-
-⚠️ **+ Phúc thiện tinh** (Quang Quý, Quan Phúc, Thiên Đồng): biến thành **xui
-xẻo** — **"làm phúc phải tội"**, hay gặp trái ngang.
-
-⚠️ **+ Cự Môn:** đặc tính **vạ miệng, thị phi qua lời nói** RẤT RÕ RỆT.
-
-⚠️ **+ Sát bại tinh:** **đồng nhất** → công phá mãnh liệt — thị phi, điều tiếng,
-bệnh tật, khó khăn.
-
-⚠️ **+ Thái Âm / Thái Dương:** bất luận cung nào cũng chủ về **MẮT KÉM**, các
-**tật khúc xạ**, **đau mắt**.
-
-⚠️ **+ Thiên Riêu / Đà La / Linh Hỏa / Âm Dương / Thiên Đồng** (tại Tật Ách):
-bệnh **tâm linh** — bị **cơ hành, dở điên dở dại**.`,
+    tomTat: `⚡ **Hóa Kỵ làm BIẾN ĐỔI mọi sao đi cùng:** xem các tổ hợp cụ thể
+trong các entry chuyên biệt bên dưới.`,
+  },
+  {
+    id: 'hoa-ky-sao-hoc-tap',
+    title: 'Hóa Kỵ + Sao học tập (Xương Khúc/Khôi Việt) - Khó khăn học hành',
+    sao: ['Hóa Kỵ'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt', 'Lưu Niên Văn Tinh'],
+    doUuTien: 30,
+    tomTat: `⚠️ **Hóa Kỵ + sao học tập (Văn Xương / Văn Khúc / Thiên Khôi / Thiên
+Việt / Lưu Niên Văn Tinh):** **khó khăn học hành, công danh** — ít bằng cấp
+hoặc bằng cấp không dùng tới.`,
+  },
+  {
+    id: 'hoa-ky-phuc-thien-tinh',
+    title: 'Hóa Kỵ + Phúc thiện tinh - Làm phúc phải tội',
+    sao: ['Hóa Kỵ'],
+    ketHop: ['Ân Quang', 'Thiên Quý', 'Thiên Quan', 'Thiên Phúc', 'Thiên Đồng'],
+    doUuTien: 30,
+    tomTat: `⚠️ **Hóa Kỵ + Phúc thiện tinh (Ân Quang / Thiên Quý / Thiên Quan /
+Thiên Phúc / Thiên Đồng):** biến thành **xui xẻo** — **"làm phúc phải tội"**,
+hay gặp trái ngang.`,
+  },
+  {
+    id: 'hoa-ky-cu-mon',
+    title: 'Hóa Kỵ + Cự Môn - Vạ miệng thị phi',
+    sao: ['Hóa Kỵ'],
+    ketHop: ['Cự Môn'],
+    doUuTien: 30,
+    tomTat: `⚠️ **Hóa Kỵ + Cự Môn:** đặc tính **vạ miệng, thị phi qua lời nói**
+RẤT RÕ RỆT.`,
+  },
+  {
+    id: 'hoa-ky-sat-bai-tinh',
+    title: 'Hóa Kỵ + Sát bại tinh - Công phá mãnh liệt',
+    sao: ['Hóa Kỵ'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Đại Hao', 'Tiểu Hao'],
+    doUuTien: 30,
+    tomTat: `⚠️ **Hóa Kỵ + sát bại tinh (Kình / Đà / Hỏa / Linh / Không / Kiếp /
+Đại Hao / Tiểu Hao):** **đồng nhất** → công phá mãnh liệt — thị phi, điều
+tiếng, bệnh tật, khó khăn.`,
+  },
+  {
+    id: 'hoa-ky-thai-am-thai-duong',
+    title: 'Hóa Kỵ + Thái Âm/Thái Dương - Mắt kém',
+    sao: ['Hóa Kỵ'],
+    ketHop: ['Thái Âm', 'Thái Dương'],
+    doUuTien: 30,
+    tomTat: `⚠️ **Hóa Kỵ + Thái Âm / Thái Dương:** bất luận cung nào cũng chủ về
+**MẮT KÉM**, các **tật khúc xạ**, **đau mắt**.`,
+  },
+  {
+    id: 'hoa-ky-rieu-da-linh-hoa-am-duong-dong-tat-ach',
+    title: 'Hóa Kỵ + Riêu/Đà/Linh Hỏa/Âm Dương/Đồng tại Tật Ách - Bệnh tâm linh',
+    sao: ['Hóa Kỵ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Riêu', 'Đà La', 'Linh Tinh', 'Hỏa Tinh', 'Thái Âm', 'Thái Dương', 'Thiên Đồng'],
+    doUuTien: 30,
+    tomTat: `⚠️ **Hóa Kỵ + Thiên Riêu / Đà La / Linh Tinh / Hỏa Tinh / Thái Âm /
+Thái Dương / Thiên Đồng tại Tật Ách:** bệnh **tâm linh** — bị **cơ hành, dở
+điên dở dại**.`,
   },
 
   // ============================================================
@@ -165,11 +208,17 @@ biết người, xử sự khéo léo, có chiều sâu chiến lược**.`,
 Người Hóa Kỵ tại Mệnh **không cẩn trọng lời nói**, **dễ lỡ lời, gặp chuyện thị
 phi qua lời nói**.
 
-⚠️ **+ Cự Môn (đặc biệt):** đặc điểm này càng **thể hiện rõ** — vạ miệng nặng,
-thị phi liên miên.
-
 → Người Hóa Kỵ thích **đi vào chi tiết, đào sâu vấn đề đến gốc rễ** — không
 hội cát tinh thì dễ thành **vụn vặt, không nhìn xa trông rộng**.`,
+  },
+  {
+    id: 'hoa-ky-cai-luoi-cu-mon',
+    title: 'Hóa Kỵ + Cự Môn - Vạ miệng nặng',
+    sao: ['Hóa Kỵ'],
+    ketHop: ['Cự Môn'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Hóa Kỵ + Cự Môn:** đặc điểm **vạ miệng** càng **thể hiện rõ** —
+vạ miệng nặng, thị phi liên miên.`,
   },
 
   // ============================================================

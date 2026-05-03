@@ -155,7 +155,7 @@ Kiếp tham vọng viển vông, Tuần/Triệt biến đổi tính chất, Hóa
 
 ## Địa Không + Địa Kiếp — viển vông
 
-⚠️ **+ Địa Không + Địa Kiếp:**
+⚠️ Khi có **Địa Không + Địa Kiếp**:
 - Tham vọng trở nên **viển vông**
 - Cuộc đời **khó thực hiện lý tưởng**
 - Dễ rơi vào con đường **lừa đảo** hoặc **giang hồ**
@@ -1006,9 +1006,6 @@ con cái **xa cha mẹ**, hay **ham vui** khiến cuộc đời **gian truân, v
     tomTat: `✅ **Tham Lang nhập Miếu tại Điền Trạch:** được **thừa kế tổ nghiệp**
 gia đình để lại.
 
-✅ **+ Hỏa Tinh / Linh Tinh đồng độ:** tự bản thân có thể **mở rộng tài sản,
-mua bất động sản**.
-
 → Tuy nhiên, cung Điền Trạch Tham Lang nên **TỰ MÌNH GÂY DỰNG SỰ NGHIỆP** thì
 mới **lâu dài**.`,
 
@@ -1016,7 +1013,7 @@ mới **lâu dài**.`,
 
 - Chủ về được **thừa kế tổ nghiệp gia đình** để lại
 
-## + Hỏa Tinh / Linh Tinh đồng độ
+## Khi có Hỏa Tinh / Linh Tinh đồng độ
 
 - Tự bản thân có thể **mở rộng tài sản**
 - **Mua bất động sản**, ...
@@ -1025,6 +1022,16 @@ mới **lâu dài**.`,
 
 Tuy nhiên, cung Điền Trạch Tham Lang nên **tự mình gây dựng sự nghiệp** thì
 mới được **lâu dài**.`,
+  },
+  {
+    id: 'tham-lang-tai-dien-trach-hoa-linh',
+    title: 'Tham Lang tại Điền Trạch + Hỏa Tinh/Linh Tinh - Mở rộng bất động sản',
+    sao: ['Tham Lang'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 75,
+    tomTat: `✅ **Tham Lang + Hỏa Tinh / Linh Tinh đồng độ tại Điền Trạch:** tự
+bản thân có thể **mở rộng tài sản, mua bất động sản**.`,
   },
 
   // ============================================================
@@ -1094,8 +1101,6 @@ có **hậu vận**, họ hàng cũng được **vinh hoa phú quý**.`,
     doUuTien: 80,
     tomTat: `**Tham Lang tại Nô Bộc:** **nhiều bạn bè, nhiều mối quan hệ xã giao**.
 
-✅ **+ Cát tinh:** được **trợ lực từ người tài giỏi**.
-
 ⚠️ **Không có sao tốt:** người dưới quyền **không nhờ cậy được**, dễ có lòng
 **xâm phạm lợi ích bản thân**.`,
 
@@ -1105,15 +1110,20 @@ Tại cung Nô, Tham Lang chủ về:
 - **Nhiều bạn bè**
 - **Nhiều mối quan hệ xã giao**
 
-## Cát kết hợp
-
-Tuy nhiên vẫn cần có các **cát tinh** thì mới được **trợ lực từ những người
-tài giỏi**.
-
 ## ⚠️ Không có sao tốt
 
 - Người dưới quyền **không nhờ cậy được**
 - Dễ có lòng **xâm phạm lợi ích của bản thân**`,
+  },
+  {
+    id: 'tham-lang-tai-no-boc-luc-cat',
+    title: 'Tham Lang tại Nô Bộc + Lục Cát - Trợ lực người tài giỏi',
+    sao: ['Tham Lang'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 75,
+    tomTat: `✅ **Tham Lang + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Nô Bộc:** được **trợ lực từ người tài giỏi**.`,
   },
 
   // ============================================================
@@ -1126,21 +1136,24 @@ tài giỏi**.
     cung: ['Thiên Di'],
     doUuTien: 80,
     tomTat: `✅ **Tham Lang tại Thiên Di Vượng địa:** chủ về được **người dìu dắt**,
-được **hỗ trợ**, tạo cơ hội phát triển.
-
-✅ **+ Hỏa Tinh / Linh Tinh đồng độ:** thiên di có thể giúp đỡ để trở nên
-**giàu có**.`,
+được **hỗ trợ**, tạo cơ hội phát triển.`,
 
     chiTiet: `## Vượng địa
 
 Chủ về:
 - Được **người dìu dắt**
 - Được **hỗ trợ**
-- Tạo cơ hội để **phát triển**
-
-## + Hỏa Tinh / Linh Tinh đồng độ
-
-Thiên Di có thể giúp đỡ để trở nên **giàu có**.`,
+- Tạo cơ hội để **phát triển**`,
+  },
+  {
+    id: 'tham-lang-tai-thien-di-hoa-linh',
+    title: 'Tham Lang tại Thiên Di + Hỏa Tinh/Linh Tinh - Giàu có',
+    sao: ['Tham Lang'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 75,
+    tomTat: `✅ **Tham Lang + Hỏa Tinh / Linh Tinh đồng độ tại Thiên Di:** thiên
+di có thể giúp đỡ để trở nên **giàu có**.`,
   },
 
   // ============================================================
@@ -1153,20 +1166,24 @@ Thiên Di có thể giúp đỡ để trở nên **giàu có**.`,
     cung: ['Huynh Đệ'],
     doUuTien: 80,
     tomTat: `**Tham Lang tại Huynh Đệ:** anh em **hòa hợp**, **giao du rộng**,
-**anh em đông**.
-
-⚠️ **+ Đào Hoa đồng hội:** chị em gái dễ **vất vả đường tình duyên**.`,
+**anh em đông**.`,
 
     chiTiet: `## Đặc điểm chung
 
 Tham Lang ở cung Huynh Đệ đều chủ về:
 - Anh em **hòa hợp**
 - **Giao du rộng**
-- **Anh em đông**
-
-## ⚠️ + Đào Hoa đồng hội
-
-- Chị em gái dễ **vất vả đường tình duyên**`,
+- **Anh em đông**`,
+  },
+  {
+    id: 'tham-lang-tai-huynh-de-dao-hoa',
+    title: 'Tham Lang tại Huynh Đệ + Đào Hoa - Chị em vất vả tình duyên',
+    sao: ['Tham Lang'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Đào Hoa'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Tham Lang + Đào Hoa đồng hội tại Huynh Đệ:** chị em gái dễ **vất
+vả đường tình duyên**.`,
   },
 
   // ============================================================

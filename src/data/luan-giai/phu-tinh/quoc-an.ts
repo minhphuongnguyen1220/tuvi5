@@ -86,11 +86,6 @@ hẳn** do bản tính, nết hạnh **CƠ HỮU**.
 - Chủ về **ĐỖ ĐẠT, KHOA BẢNG, BẰNG SẮC**
 - Học trò có Ấn → **THI ĐỖ ĐIỂM CAO**, làm **BAN CÁN SỰ trong lớp**
 
-🌟 **+ Cát Tinh** (Phong Cáo / Hóa Khoa / Văn Xương / Văn Khúc / Long Trì /
-Phượng Các):
-- Có **KHEN TẶNG** của Hội đồng Khoa
-- Được **PHONG ÁO MŨ** trong lễ phát bằng phát thưởng **RỠ RÀNG**
-
 ⚡ **Phạm vi quyền chức:**
 - Không hẳn chỉ có **QUYỀN BINH**
 - Có thể có nghĩa trên **ĐỊA HẠT KHÁC** như **VĂN HÓA**
@@ -103,6 +98,18 @@ Phượng Các):
 
 ⚠️ **Điều kiện:** Những ý nghĩa này chỉ có khi **ẤN KHÔNG BỊ TUẦN, TRIỆT án ngữ**
 hoặc **SÁT BẠI TINH đánh phá** làm mất đi ý nghĩa đẹp.`,
+  },
+  {
+    id: 'quoc-an-tai-menh-cong-danh-cat-tinh',
+    title: 'Quốc Ấn tại Mệnh + Phong Cáo/Hóa Khoa/Xương Khúc/Long Phượng - Phong áo mũ',
+    sao: ['Quốc Ấn'],
+    cung: ['Mệnh'],
+    ketHop: ['Phong Cáo', 'Hóa Khoa', 'Văn Xương', 'Văn Khúc', 'Long Trì', 'Phượng Các'],
+    doUuTien: 73,
+    tomTat: `🌟 **Quốc Ấn + Phong Cáo / Hóa Khoa / Văn Xương / Văn Khúc / Long Trì
+/ Phượng Các tại Mệnh:**
+- Có **KHEN TẶNG** của Hội đồng Khoa
+- Được **PHONG ÁO MŨ** trong lễ phát bằng phát thưởng **RỠ RÀNG**`,
   },
 
   {
@@ -131,14 +138,29 @@ hoặc **SÁT BẠI TINH đánh phá** làm mất đi ý nghĩa đẹp.`,
 🌟 **Đặc trưng:**
 - Dòng dõi có **KHOA DANH, UY THẾ**
 - Nhiều người **HIỂN ĐẠT**
-- Được giữ **CHÍNH CHỨC**, có **HUY CHƯƠNG**
-
-🌟 **+ Nhiều Cát Tinh:**
+- Được giữ **CHÍNH CHỨC**, có **HUY CHƯƠNG**`,
+  },
+  {
+    id: 'quoc-an-tai-phuc-duc-luc-cat',
+    title: 'Quốc Ấn tại Phúc Đức + Lục Cát - Tổ tiên làm quan to',
+    sao: ['Quốc Ấn'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Quốc Ấn + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Phúc Đức:**
 - Các cụ tổ tiên xưa nhiều người **LÀM QUAN TO**, có **QUYỀN CHỨC**
 - Có **ẤN VUA BAN**
-- Đến đời nay vẫn có người làm
-
-🌟 **+ Binh Hình Tướng Ấn (Phục Binh + Thiên Hình + Tướng Quân):**
+- Đến đời nay vẫn có người làm`,
+  },
+  {
+    id: 'quoc-an-tai-phuc-duc-binh-hinh-tuong',
+    title: 'Quốc Ấn tại Phúc Đức + Phục Binh/Thiên Hình/Tướng Quân - Võ nghiệp',
+    sao: ['Quốc Ấn'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Phục Binh', 'Thiên Hình', 'Tướng Quân'],
+    doUuTien: 73,
+    tomTat: `🌟 **Quốc Ấn + Phục Binh + Thiên Hình + Tướng Quân tại Phúc Đức:**
 - Tổ tiên và dòng họ phát về **VÕ NGHIỆP**
 - Nhiều người làm **TƯỚNG LĨNH** trong ngành **LỰC LƯỢNG VŨ TRANG**`,
   },
@@ -322,9 +344,17 @@ biệt là **NHÀ TRẦN** (Đức Thánh Trần Hưng Đạo).`,
     cung: ['Huynh Đệ'],
     doUuTien: 70,
     tomTat: `🌟 **Quốc Ấn tại Huynh Đệ:**
-- Anh chị em **GIỎI GIANG**, có **ĐỊA VỊ trong xã hội**
-
-🌟 **+ Nhiều Cát Tinh / Lục Cát Tinh:**
+- Anh chị em **GIỎI GIANG**, có **ĐỊA VỊ trong xã hội**`,
+  },
+  {
+    id: 'quoc-an-tai-huynh-de-luc-cat',
+    title: 'Quốc Ấn tại Huynh Đệ + Lục Cát - Anh em lãnh đạo lớn',
+    sao: ['Quốc Ấn'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `🌟 **Quốc Ấn + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Huynh Đệ:**
 - Dễ làm **LÃNH ĐẠO LỚN** hoặc **CHỦ DOANH NGHIỆP THÀNH ĐẠT**
 - "**Một người làm quan cả họ được nhờ**"`,
   },

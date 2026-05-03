@@ -136,18 +136,102 @@ linh**, **rắc rối thành tu tập**.
 ⚠️ **Mặt khó:**
 - **TUỔI TRẺ** hay gặp các hoàn cảnh **RẮC RỐI**, **CHỊU THIỆT THÒI**
 - Công việc không thuận lợi
-- Nhờ **đức tính NHẪN NHỊN** mà dần **ỔN ĐỊNH**, để lại **PHÚC PHẦN cho con cháu**
+- Nhờ **đức tính NHẪN NHỊN** mà dần **ỔN ĐỊNH**, để lại **PHÚC PHẦN cho con cháu**`,
+  },
 
-🌟 **+ Nguyệt Đức + Đào Hoa:**
+  {
+    id: 'tu-phu-tai-phu-mau-nguyet-duc-dao-hoa',
+    title: 'Tử Phù + Nguyệt Đức + Đào Hoa tại Phụ Mẫu - cưới sớm',
+    sao: ['Tử Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Nguyệt Đức', 'Đào Hoa'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Nguyệt Đức + Đào Hoa tại Phụ Mẫu:**
 - Cha mẹ **CƯỚI NHAU SỚM**
 - Thời trẻ có **NHIỀU MỐI TÌNH DỞ DANG**
-- Về sau vẫn **BỀN VỮNG**
+- Về sau vẫn **BỀN VỮNG**`,
+  },
 
-🌟 **+ Thiên Lương / Thiên Khôi / Văn Xương / Văn Khúc:**
+  {
+    id: 'tu-phu-tai-phu-mau-thien-luong',
+    title: 'Tử Phù + Thiên Lương tại Phụ Mẫu - cha mẹ học thức',
+    sao: ['Tử Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Lương'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Lương tại Phụ Mẫu:**
 - Cha mẹ **CÓ HỌC THỨC**
-- Gia đạo về sau càng **AN NHÀN**
+- Gia đạo về sau càng **AN NHÀN**`,
+  },
 
-⚠️ **+ Kình Dương / Đà La / Hóa Kỵ:**
+  {
+    id: 'tu-phu-tai-phu-mau-thien-khoi',
+    title: 'Tử Phù + Thiên Khôi tại Phụ Mẫu - cha mẹ học thức',
+    sao: ['Tử Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Khôi tại Phụ Mẫu:**
+- Cha mẹ **CÓ HỌC THỨC**
+- Gia đạo về sau càng **AN NHÀN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phu-mau-van-xuong',
+    title: 'Tử Phù + Văn Xương tại Phụ Mẫu - cha mẹ học thức',
+    sao: ['Tử Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Văn Xương tại Phụ Mẫu:**
+- Cha mẹ **CÓ HỌC THỨC**
+- Gia đạo về sau càng **AN NHÀN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phu-mau-van-khuc',
+    title: 'Tử Phù + Văn Khúc tại Phụ Mẫu - cha mẹ học thức',
+    sao: ['Tử Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Văn Khúc tại Phụ Mẫu:**
+- Cha mẹ **CÓ HỌC THỨC**
+- Gia đạo về sau càng **AN NHÀN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phu-mau-kinh-duong',
+    title: 'Tử Phù + Kình Dương tại Phụ Mẫu - bất hòa biến động',
+    sao: ['Tử Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Kình Dương tại Phụ Mẫu:**
+- Cha mẹ hay **BẤT HÒA**
+- Cuộc sống nhiều **biến động**, vướng **rắc rối, thị phi**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phu-mau-da-la',
+    title: 'Tử Phù + Đà La tại Phụ Mẫu - bất hòa biến động',
+    sao: ['Tử Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Đà La'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Đà La tại Phụ Mẫu:**
+- Cha mẹ hay **BẤT HÒA**
+- Cuộc sống nhiều **biến động**, vướng **rắc rối, thị phi**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phu-mau-hoa-ky',
+    title: 'Tử Phù + Hóa Kỵ tại Phụ Mẫu - bất hòa biến động',
+    sao: ['Tử Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Hóa Kỵ tại Phụ Mẫu:**
 - Cha mẹ hay **BẤT HÒA**
 - Cuộc sống nhiều **biến động**, vướng **rắc rối, thị phi**`,
   },
@@ -166,13 +250,101 @@ linh**, **rắc rối thành tu tập**.
 
 ⚡ **Đặc điểm tâm linh:**
 - **MỒ MẢ TỔ TIÊN** đặt **GẦN nơi có TƯỢNG PHẬT BÀ QUAN ÂM**
-- Phúc phần liên quan tâm linh
+- Phúc phần liên quan tâm linh`,
+  },
 
-🌟 **+ Thiên Lương / Nguyệt Đức / Văn Xương / Văn Khúc:**
+  {
+    id: 'tu-phu-tai-phuc-duc-thien-luong',
+    title: 'Tử Phù + Thiên Lương tại Phúc Đức - học cao phúc đức',
+    sao: ['Tử Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Lương'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Lương tại Phúc Đức:**
 - Gia tộc nhiều người **HỌC CAO**
-- Chăm chỉ "**GIEO NHÂN LÀNH**" nên **PHÚC ĐỨC LÂU DÀI**
+- Chăm chỉ "**GIEO NHÂN LÀNH**" nên **PHÚC ĐỨC LÂU DÀI**`,
+  },
 
-⚠️ **+ Kình Dương / Hóa Kỵ / Không Kiếp:**
+  {
+    id: 'tu-phu-tai-phuc-duc-nguyet-duc',
+    title: 'Tử Phù + Nguyệt Đức tại Phúc Đức - học cao phúc đức',
+    sao: ['Tử Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Nguyệt Đức'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Nguyệt Đức tại Phúc Đức:**
+- Gia tộc nhiều người **HỌC CAO**
+- Chăm chỉ "**GIEO NHÂN LÀNH**" nên **PHÚC ĐỨC LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phuc-duc-van-xuong',
+    title: 'Tử Phù + Văn Xương tại Phúc Đức - học cao phúc đức',
+    sao: ['Tử Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Văn Xương tại Phúc Đức:**
+- Gia tộc nhiều người **HỌC CAO**
+- Chăm chỉ "**GIEO NHÂN LÀNH**" nên **PHÚC ĐỨC LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phuc-duc-van-khuc',
+    title: 'Tử Phù + Văn Khúc tại Phúc Đức - học cao phúc đức',
+    sao: ['Tử Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Văn Khúc tại Phúc Đức:**
+- Gia tộc nhiều người **HỌC CAO**
+- Chăm chỉ "**GIEO NHÂN LÀNH**" nên **PHÚC ĐỨC LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phuc-duc-kinh-duong',
+    title: 'Tử Phù + Kình Dương tại Phúc Đức - bất hòa tai ương',
+    sao: ['Tử Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Kình Dương tại Phúc Đức:**
+- Họ tộc dễ **BẤT HÒA**
+- Vướng **TAI ƯƠNG** liên quan đến **ĐẤT CÁT, MỒ MẢ**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phuc-duc-hoa-ky',
+    title: 'Tử Phù + Hóa Kỵ tại Phúc Đức - bất hòa tai ương',
+    sao: ['Tử Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Hóa Kỵ tại Phúc Đức:**
+- Họ tộc dễ **BẤT HÒA**
+- Vướng **TAI ƯƠNG** liên quan đến **ĐẤT CÁT, MỒ MẢ**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phuc-duc-dia-khong',
+    title: 'Tử Phù + Địa Không tại Phúc Đức - bất hòa tai ương',
+    sao: ['Tử Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Không'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Địa Không tại Phúc Đức:**
+- Họ tộc dễ **BẤT HÒA**
+- Vướng **TAI ƯƠNG** liên quan đến **ĐẤT CÁT, MỒ MẢ**`,
+  },
+
+  {
+    id: 'tu-phu-tai-phuc-duc-dia-kiep',
+    title: 'Tử Phù + Địa Kiếp tại Phúc Đức - bất hòa tai ương',
+    sao: ['Tử Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Địa Kiếp tại Phúc Đức:**
 - Họ tộc dễ **BẤT HÒA**
 - Vướng **TAI ƯƠNG** liên quan đến **ĐẤT CÁT, MỒ MẢ**`,
   },
@@ -189,17 +361,122 @@ linh**, **rắc rối thành tu tập**.
 - **Khó AN YÊN**, hay phải **SỬA SANG**
 - Hoặc **DÍNH TRANH CHẤP PHÁP LÝ**
 
-🌟 **+ Tử Vi / Thiên Phủ / Đồng Lương / Quang Quý:** thành cách **CÁT LÀNH**:
-- Nhà dễ **RƯỚC PHẬT BÀ QUAN ÂM về thờ**
-- Nhà gắn với **PHẬT PHÁP**, không gian **LINH THIÊNG**
-- Giúp **VƯỢNG KHÍ**, **AN ỔN LÂU DÀI**
-
-⚠️ **+ Hỏa Tinh / Linh Tinh / Hóa Kỵ:**
-- Nguy cơ cao **DÍNH TRANH CHẤP, KIỆN TỤNG**
-- Phải **THAY ĐỔI CHỖ Ở** nhiều lần
-
 💡 Nếu biết **TU TẬP, HÀNH THIỆN, LẬP BÀN THỜ PHẬT** thì **TAI ƯƠNG** phần
 nhiều cũng được **HÓA GIẢI**.`,
+  },
+
+  {
+    id: 'tu-phu-tai-dien-trach-tu-vi',
+    title: 'Tử Phù + Tử Vi tại Điền Trạch - cát lành Phật pháp',
+    sao: ['Tử Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Tử Vi tại Điền Trạch** thành cách **CÁT LÀNH**:
+- Nhà dễ **RƯỚC PHẬT BÀ QUAN ÂM về thờ**
+- Nhà gắn với **PHẬT PHÁP**, không gian **LINH THIÊNG**
+- Giúp **VƯỢNG KHÍ**, **AN ỔN LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-dien-trach-thien-phu',
+    title: 'Tử Phù + Thiên Phủ tại Điền Trạch - cát lành Phật pháp',
+    sao: ['Tử Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Phủ tại Điền Trạch** thành cách **CÁT LÀNH**:
+- Nhà dễ **RƯỚC PHẬT BÀ QUAN ÂM về thờ**
+- Nhà gắn với **PHẬT PHÁP**, không gian **LINH THIÊNG**
+- Giúp **VƯỢNG KHÍ**, **AN ỔN LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-dien-trach-thien-dong',
+    title: 'Tử Phù + Thiên Đồng tại Điền Trạch - cát lành Phật pháp',
+    sao: ['Tử Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Đồng'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Đồng tại Điền Trạch** thành cách **CÁT LÀNH**:
+- Nhà dễ **RƯỚC PHẬT BÀ QUAN ÂM về thờ**
+- Nhà gắn với **PHẬT PHÁP**, không gian **LINH THIÊNG**
+- Giúp **VƯỢNG KHÍ**, **AN ỔN LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-dien-trach-thien-luong',
+    title: 'Tử Phù + Thiên Lương tại Điền Trạch - cát lành Phật pháp',
+    sao: ['Tử Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Lương'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Lương tại Điền Trạch** thành cách **CÁT LÀNH**:
+- Nhà dễ **RƯỚC PHẬT BÀ QUAN ÂM về thờ**
+- Nhà gắn với **PHẬT PHÁP**, không gian **LINH THIÊNG**
+- Giúp **VƯỢNG KHÍ**, **AN ỔN LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-dien-trach-an-quang',
+    title: 'Tử Phù + Ân Quang tại Điền Trạch - cát lành Phật pháp',
+    sao: ['Tử Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Ân Quang'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Ân Quang tại Điền Trạch** thành cách **CÁT LÀNH**:
+- Nhà dễ **RƯỚC PHẬT BÀ QUAN ÂM về thờ**
+- Nhà gắn với **PHẬT PHÁP**, không gian **LINH THIÊNG**
+- Giúp **VƯỢNG KHÍ**, **AN ỔN LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-dien-trach-thien-quy',
+    title: 'Tử Phù + Thiên Quý tại Điền Trạch - cát lành Phật pháp',
+    sao: ['Tử Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Quý'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Quý tại Điền Trạch** thành cách **CÁT LÀNH**:
+- Nhà dễ **RƯỚC PHẬT BÀ QUAN ÂM về thờ**
+- Nhà gắn với **PHẬT PHÁP**, không gian **LINH THIÊNG**
+- Giúp **VƯỢNG KHÍ**, **AN ỔN LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-dien-trach-hoa-tinh',
+    title: 'Tử Phù + Hỏa Tinh tại Điền Trạch - tranh chấp kiện tụng',
+    sao: ['Tử Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Hỏa Tinh tại Điền Trạch:**
+- Nguy cơ cao **DÍNH TRANH CHẤP, KIỆN TỤNG**
+- Phải **THAY ĐỔI CHỖ Ở** nhiều lần`,
+  },
+
+  {
+    id: 'tu-phu-tai-dien-trach-linh-tinh',
+    title: 'Tử Phù + Linh Tinh tại Điền Trạch - tranh chấp kiện tụng',
+    sao: ['Tử Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Linh Tinh tại Điền Trạch:**
+- Nguy cơ cao **DÍNH TRANH CHẤP, KIỆN TỤNG**
+- Phải **THAY ĐỔI CHỖ Ở** nhiều lần`,
+  },
+
+  {
+    id: 'tu-phu-tai-dien-trach-hoa-ky',
+    title: 'Tử Phù + Hóa Kỵ tại Điền Trạch - tranh chấp kiện tụng',
+    sao: ['Tử Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Hóa Kỵ tại Điền Trạch:**
+- Nguy cơ cao **DÍNH TRANH CHẤP, KIỆN TỤNG**
+- Phải **THAY ĐỔI CHỖ Ở** nhiều lần`,
   },
 
   {
@@ -218,13 +495,78 @@ nhiều cũng được **HÓA GIẢI**.`,
 - **DỊCH VỤ, HỖ TRỢ, GIẢI CỨU** các tai nạn
 - **SỬA CHỮA**
 - **CỨU HỘ, Y TẾ**
-- **XỬ LÝ SỰ CỐ**
+- **XỬ LÝ SỰ CỐ**`,
+  },
 
-🌟 **+ Thiên Lương / Tử Vi / Thiên Phủ / Văn Xương / Văn Khúc:**
+  {
+    id: 'tu-phu-tai-quan-loc-thien-luong',
+    title: 'Tử Phù + Thiên Lương tại Quan Lộc - quý nhân hỗ trợ',
+    sao: ['Tử Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Lương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Thiên Lương tại Quan Lộc:**
 - Sự nghiệp có **QUÝ NHÂN HỖ TRỢ**
-- Thuận lợi trong **GIÁO DỤC, TỪ THIỆN, CHỮA BỆNH**
+- Thuận lợi trong **GIÁO DỤC, TỪ THIỆN, CHỮA BỆNH**`,
+  },
 
-⚠️ **+ Sát Tinh:**
+  {
+    id: 'tu-phu-tai-quan-loc-tu-vi',
+    title: 'Tử Phù + Tử Vi tại Quan Lộc - quý nhân hỗ trợ',
+    sao: ['Tử Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Tử Vi tại Quan Lộc:**
+- Sự nghiệp có **QUÝ NHÂN HỖ TRỢ**
+- Thuận lợi trong **GIÁO DỤC, TỪ THIỆN, CHỮA BỆNH**`,
+  },
+
+  {
+    id: 'tu-phu-tai-quan-loc-thien-phu',
+    title: 'Tử Phù + Thiên Phủ tại Quan Lộc - quý nhân hỗ trợ',
+    sao: ['Tử Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Thiên Phủ tại Quan Lộc:**
+- Sự nghiệp có **QUÝ NHÂN HỖ TRỢ**
+- Thuận lợi trong **GIÁO DỤC, TỪ THIỆN, CHỮA BỆNH**`,
+  },
+
+  {
+    id: 'tu-phu-tai-quan-loc-van-xuong',
+    title: 'Tử Phù + Văn Xương tại Quan Lộc - quý nhân hỗ trợ',
+    sao: ['Tử Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Văn Xương tại Quan Lộc:**
+- Sự nghiệp có **QUÝ NHÂN HỖ TRỢ**
+- Thuận lợi trong **GIÁO DỤC, TỪ THIỆN, CHỮA BỆNH**`,
+  },
+
+  {
+    id: 'tu-phu-tai-quan-loc-van-khuc',
+    title: 'Tử Phù + Văn Khúc tại Quan Lộc - quý nhân hỗ trợ',
+    sao: ['Tử Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Văn Khúc tại Quan Lộc:**
+- Sự nghiệp có **QUÝ NHÂN HỖ TRỢ**
+- Thuận lợi trong **GIÁO DỤC, TỪ THIỆN, CHỮA BỆNH**`,
+  },
+
+  {
+    id: 'tu-phu-tai-quan-loc-tu-sat',
+    title: 'Tử Phù + Tứ Sát tại Quan Lộc - sóng gió thị phi',
+    sao: ['Tử Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tử Phù + Sát Tinh tại Quan Lộc** (Kình Dương / Đà La / Hỏa
+Tinh / Linh Tinh):
 - Kéo theo nhiều **SÓNG GIÓ, THỊ PHI**
 - **TIỂU NHÂN cản trở**
 - Phải **ĐỔI VIỆC nhiều lần** mới ổn định`,
@@ -239,20 +581,84 @@ nhiều cũng được **HÓA GIẢI**.`,
     tomTat: `⚠️ **Tử Phù tại Nô Bộc:**
 - Hay gặp **RẮC RỐI, CHỊU THIỆT** với bạn bè, cấp dưới
 - Nhiều khi quá **CẢ TIN, TỐT BỤNG** mà rơi vào cảnh "**LÀM ƠN MẮC OÁN**"
-- Bị bạn bè, đồng nghiệp **LỢI DỤNG, PHẢN BỘI**
+- Bị bạn bè, đồng nghiệp **LỢI DỤNG, PHẢN BỘI**`,
+  },
 
-⚠️ **+ Đào Hoa:**
+  {
+    id: 'tu-phu-tai-no-boc-dao-hoa',
+    title: 'Tử Phù + Đào Hoa tại Nô Bộc - thị phi tình ái',
+    sao: ['Tử Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Đào Hoa'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tử Phù + Đào Hoa tại Nô Bộc:**
 - **THỊ PHI** càng nhiều
 - Vướng vào chuyện **TRAI GÁI PHỨC TẠP** dù đã yên bề gia thất
 - **TIẾNG XẤU khó gột**
-- Người nhiều mối tình dở dang, kết hôn rồi càng nhiều người thích, gây ra **tai
-  họa**
+- Người nhiều mối tình dở dang, kết hôn rồi càng nhiều người thích, gây ra
+  **tai họa**`,
+  },
 
-🌟 **+ Thiên Khôi / Thiên Việt / Tả Hữu / Văn Xương / Văn Khúc:**
+  {
+    id: 'tu-phu-tai-no-boc-luc-cat',
+    title: 'Tử Phù + Lục Cát tại Nô Bộc - quý nhân nâng đỡ',
+    sao: ['Tử Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tử Phù + Thiên Khôi / Thiên Việt / Tả Phù / Hữu Bật / Văn Xương
+/ Văn Khúc tại Nô Bộc:**
 - Có **QUÝ NHÂN nâng đỡ**
-- Bạn bè tốt giúp **bù đắp thiệt thòi**
+- Bạn bè tốt giúp **bù đắp thiệt thòi**`,
+  },
 
-⚠️ **+ Kình Dương / Hóa Kỵ / Không Kiếp:**
+  {
+    id: 'tu-phu-tai-no-boc-kinh-duong',
+    title: 'Tử Phù + Kình Dương tại Nô Bộc - bạn phản trắc',
+    sao: ['Tử Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tử Phù + Kình Dương tại Nô Bộc:**
+- Bạn bè dễ **PHẢN TRẮC**
+- Gặp kẻ **TIỂU NHÂN PHÁ HOẠI**
+- Vừa **HAO TÀI** vừa sinh **KIỆN TỤNG**`,
+  },
+
+  {
+    id: 'tu-phu-tai-no-boc-hoa-ky',
+    title: 'Tử Phù + Hóa Kỵ tại Nô Bộc - bạn phản trắc',
+    sao: ['Tử Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tử Phù + Hóa Kỵ tại Nô Bộc:**
+- Bạn bè dễ **PHẢN TRẮC**
+- Gặp kẻ **TIỂU NHÂN PHÁ HOẠI**
+- Vừa **HAO TÀI** vừa sinh **KIỆN TỤNG**`,
+  },
+
+  {
+    id: 'tu-phu-tai-no-boc-dia-khong',
+    title: 'Tử Phù + Địa Không tại Nô Bộc - bạn phản trắc',
+    sao: ['Tử Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Địa Không'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tử Phù + Địa Không tại Nô Bộc:**
+- Bạn bè dễ **PHẢN TRẮC**
+- Gặp kẻ **TIỂU NHÂN PHÁ HOẠI**
+- Vừa **HAO TÀI** vừa sinh **KIỆN TỤNG**`,
+  },
+
+  {
+    id: 'tu-phu-tai-no-boc-dia-kiep',
+    title: 'Tử Phù + Địa Kiếp tại Nô Bộc - bạn phản trắc',
+    sao: ['Tử Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tử Phù + Địa Kiếp tại Nô Bộc:**
 - Bạn bè dễ **PHẢN TRẮC**
 - Gặp kẻ **TIỂU NHÂN PHÁ HOẠI**
 - Vừa **HAO TÀI** vừa sinh **KIỆN TỤNG**`,
@@ -268,14 +674,95 @@ nhiều cũng được **HÓA GIẢI**.`,
 - Bản tính **HIỀN LÀNH**, ưa **NHẪN NHỊN** để giữ hòa khí
 - Ra ngoài thường **NHÚN NHƯỜNG, CHỊU THIỆT THÒI**
 - **Không hay tranh đấu**, dễ **BỊ LỢI DỤNG**
-- Nhờ sự **ĐIỀM ĐẠM** nên tránh được **VA CHẠM LỚN**, **ÍT GÂY THÙ CHUỐC OÁN**
+- Nhờ sự **ĐIỀM ĐẠM** nên tránh được **VA CHẠM LỚN**, **ÍT GÂY THÙ CHUỐC OÁN**`,
+  },
 
-🌟 **+ Đào Hoa / Hồng Loan:**
+  {
+    id: 'tu-phu-tai-thien-di-dao-hoa',
+    title: 'Tử Phù + Đào Hoa tại Thiên Di - quý mến khác giới',
+    sao: ['Tử Phù'],
+    cung: ['Thiên Di'],
+    ketHop: ['Đào Hoa'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tử Phù + Đào Hoa tại Thiên Di:**
 - Dễ **GẶP QUÝ NHÂN**
 - Được **NHIỀU NGƯỜI QUÝ MẾN**, đặc biệt là **bạn KHÁC GIỚI**
-- Cách **NHÚN NHƯỜNG, ĐIỀM ĐẠM** thu hút
+- Cách **NHÚN NHƯỜNG, ĐIỀM ĐẠM** thu hút`,
+  },
 
-⚠️ **+ Hóa Kỵ / Không Kiếp / Hỏa Linh:**
+  {
+    id: 'tu-phu-tai-thien-di-hong-loan',
+    title: 'Tử Phù + Hồng Loan tại Thiên Di - quý mến khác giới',
+    sao: ['Tử Phù'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hồng Loan'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tử Phù + Hồng Loan tại Thiên Di:**
+- Dễ **GẶP QUÝ NHÂN**
+- Được **NHIỀU NGƯỜI QUÝ MẾN**, đặc biệt là **bạn KHÁC GIỚI**
+- Cách **NHÚN NHƯỜNG, ĐIỀM ĐẠM** thu hút`,
+  },
+
+  {
+    id: 'tu-phu-tai-thien-di-hoa-ky',
+    title: 'Tử Phù + Hóa Kỵ tại Thiên Di - xuất hành bất lợi',
+    sao: ['Tử Phù'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tử Phù + Hóa Kỵ tại Thiên Di:**
+- Việc **XUẤT HÀNH** thường **BẤT LỢI**
+- Dễ **HAO TÀI**
+- Vướng **THỊ PHI** hay chuyện **TÌNH CẢM PHỨC TẠP**`,
+  },
+
+  {
+    id: 'tu-phu-tai-thien-di-dia-khong',
+    title: 'Tử Phù + Địa Không tại Thiên Di - xuất hành bất lợi',
+    sao: ['Tử Phù'],
+    cung: ['Thiên Di'],
+    ketHop: ['Địa Không'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tử Phù + Địa Không tại Thiên Di:**
+- Việc **XUẤT HÀNH** thường **BẤT LỢI**
+- Dễ **HAO TÀI**
+- Vướng **THỊ PHI** hay chuyện **TÌNH CẢM PHỨC TẠP**`,
+  },
+
+  {
+    id: 'tu-phu-tai-thien-di-dia-kiep',
+    title: 'Tử Phù + Địa Kiếp tại Thiên Di - xuất hành bất lợi',
+    sao: ['Tử Phù'],
+    cung: ['Thiên Di'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tử Phù + Địa Kiếp tại Thiên Di:**
+- Việc **XUẤT HÀNH** thường **BẤT LỢI**
+- Dễ **HAO TÀI**
+- Vướng **THỊ PHI** hay chuyện **TÌNH CẢM PHỨC TẠP**`,
+  },
+
+  {
+    id: 'tu-phu-tai-thien-di-hoa-tinh',
+    title: 'Tử Phù + Hỏa Tinh tại Thiên Di - xuất hành bất lợi',
+    sao: ['Tử Phù'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tử Phù + Hỏa Tinh tại Thiên Di:**
+- Việc **XUẤT HÀNH** thường **BẤT LỢI**
+- Dễ **HAO TÀI**
+- Vướng **THỊ PHI** hay chuyện **TÌNH CẢM PHỨC TẠP**`,
+  },
+
+  {
+    id: 'tu-phu-tai-thien-di-linh-tinh',
+    title: 'Tử Phù + Linh Tinh tại Thiên Di - xuất hành bất lợi',
+    sao: ['Tử Phù'],
+    cung: ['Thiên Di'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tử Phù + Linh Tinh tại Thiên Di:**
 - Việc **XUẤT HÀNH** thường **BẤT LỢI**
 - Dễ **HAO TÀI**
 - Vướng **THỊ PHI** hay chuyện **TÌNH CẢM PHỨC TẠP**`,
@@ -289,9 +776,73 @@ nhiều cũng được **HÓA GIẢI**.`,
     doUuTien: 75,
     tomTat: `⚠️ **Tử Phù tại Tật Ách:**
 - Hay mắc các **TAI HỌA, TAI NẠN, BỆNH TẬT NHỎ**
-- Cơ thể dễ mắc **BỆNH VẶT, KÉO DÀI DAI DẲNG** → tinh thần **MỆT MỎI**
+- Cơ thể dễ mắc **BỆNH VẶT, KÉO DÀI DAI DẲNG** → tinh thần **MỆT MỎI**`,
+  },
 
-🌟 **+ Thiên Lương / Nguyệt Đức / Thiên Đức / Thiên Quan / Thiên Phúc:**
+  {
+    id: 'tu-phu-tai-tat-ach-thien-luong',
+    title: 'Tử Phù + Thiên Lương tại Tật Ách - thầy giỏi thuốc hay',
+    sao: ['Tử Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Lương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Thiên Lương tại Tật Ách:**
+- Dễ gặp được **THẦY GIỎI, THUỐC HAY**
+- Nhiều lần "**TAI QUA NẠN KHỎI**"
+- Có **DUYÊN với Y HỌC** hoặc **TÂM LINH**
+- Biết hướng thiện để **HÓA GIẢI NGHIỆP BỆNH**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tat-ach-nguyet-duc',
+    title: 'Tử Phù + Nguyệt Đức tại Tật Ách - thầy giỏi thuốc hay',
+    sao: ['Tử Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Nguyệt Đức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Nguyệt Đức tại Tật Ách:**
+- Dễ gặp được **THẦY GIỎI, THUỐC HAY**
+- Nhiều lần "**TAI QUA NẠN KHỎI**"
+- Có **DUYÊN với Y HỌC** hoặc **TÂM LINH**
+- Biết hướng thiện để **HÓA GIẢI NGHIỆP BỆNH**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tat-ach-thien-duc',
+    title: 'Tử Phù + Thiên Đức tại Tật Ách - thầy giỏi thuốc hay',
+    sao: ['Tử Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Đức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Thiên Đức tại Tật Ách:**
+- Dễ gặp được **THẦY GIỎI, THUỐC HAY**
+- Nhiều lần "**TAI QUA NẠN KHỎI**"
+- Có **DUYÊN với Y HỌC** hoặc **TÂM LINH**
+- Biết hướng thiện để **HÓA GIẢI NGHIỆP BỆNH**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tat-ach-thien-quan',
+    title: 'Tử Phù + Thiên Quan tại Tật Ách - thầy giỏi thuốc hay',
+    sao: ['Tử Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Quan'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Thiên Quan tại Tật Ách:**
+- Dễ gặp được **THẦY GIỎI, THUỐC HAY**
+- Nhiều lần "**TAI QUA NẠN KHỎI**"
+- Có **DUYÊN với Y HỌC** hoặc **TÂM LINH**
+- Biết hướng thiện để **HÓA GIẢI NGHIỆP BỆNH**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tat-ach-thien-phuc',
+    title: 'Tử Phù + Thiên Phúc tại Tật Ách - thầy giỏi thuốc hay',
+    sao: ['Tử Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Phúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Thiên Phúc tại Tật Ách:**
 - Dễ gặp được **THẦY GIỎI, THUỐC HAY**
 - Nhiều lần "**TAI QUA NẠN KHỎI**"
 - Có **DUYÊN với Y HỌC** hoặc **TÂM LINH**
@@ -312,14 +863,167 @@ nhiều cũng được **HÓA GIẢI**.`,
 
 🌟 **Đặc tính tích phúc:**
 - **CHỊU KHÓ QUYÊN GÓP LÀM PHÚC**
-- **CÚNG GIƯỜNG CHƯ TĂNG**
+- **CÚNG GIƯỜNG CHƯ TĂNG**`,
+  },
 
-🌟 **+ Thiên Phúc / Thiên Quan / Thiên Đức / Nguyệt Đức / Văn Xương / Văn Khúc:**
+  {
+    id: 'tu-phu-tai-tai-bach-thien-phuc',
+    title: 'Tử Phù + Thiên Phúc tại Tài Bạch - tài chính ổn định',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Thiên Phúc'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Phúc tại Tài Bạch:**
 - Tài chính **ỔN ĐỊNH** hơn
 - Dòng tiền **CHẬM nhưng SẠCH và VỮNG**
-- Chi vào **VIỆC NGHĨA** → **HƯỞNG PHÚC BÁO LÂU DÀI**
+- Chi vào **VIỆC NGHĨA** → **HƯỞNG PHÚC BÁO LÂU DÀI**`,
+  },
 
-⚠️ **+ Hóa Kỵ / Kình Dương / Đà La / Không Kiếp / Hỏa Linh:**
+  {
+    id: 'tu-phu-tai-tai-bach-thien-quan',
+    title: 'Tử Phù + Thiên Quan tại Tài Bạch - tài chính ổn định',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Thiên Quan'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Quan tại Tài Bạch:**
+- Tài chính **ỔN ĐỊNH** hơn
+- Dòng tiền **CHẬM nhưng SẠCH và VỮNG**
+- Chi vào **VIỆC NGHĨA** → **HƯỞNG PHÚC BÁO LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-thien-duc',
+    title: 'Tử Phù + Thiên Đức tại Tài Bạch - tài chính ổn định',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Thiên Đức'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Đức tại Tài Bạch:**
+- Tài chính **ỔN ĐỊNH** hơn
+- Dòng tiền **CHẬM nhưng SẠCH và VỮNG**
+- Chi vào **VIỆC NGHĨA** → **HƯỞNG PHÚC BÁO LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-nguyet-duc',
+    title: 'Tử Phù + Nguyệt Đức tại Tài Bạch - tài chính ổn định',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Nguyệt Đức'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Nguyệt Đức tại Tài Bạch:**
+- Tài chính **ỔN ĐỊNH** hơn
+- Dòng tiền **CHẬM nhưng SẠCH và VỮNG**
+- Chi vào **VIỆC NGHĨA** → **HƯỞNG PHÚC BÁO LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-van-xuong',
+    title: 'Tử Phù + Văn Xương tại Tài Bạch - tài chính ổn định',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Văn Xương tại Tài Bạch:**
+- Tài chính **ỔN ĐỊNH** hơn
+- Dòng tiền **CHẬM nhưng SẠCH và VỮNG**
+- Chi vào **VIỆC NGHĨA** → **HƯỞNG PHÚC BÁO LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-van-khuc',
+    title: 'Tử Phù + Văn Khúc tại Tài Bạch - tài chính ổn định',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Văn Khúc tại Tài Bạch:**
+- Tài chính **ỔN ĐỊNH** hơn
+- Dòng tiền **CHẬM nhưng SẠCH và VỮNG**
+- Chi vào **VIỆC NGHĨA** → **HƯỞNG PHÚC BÁO LÂU DÀI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-hoa-ky',
+    title: 'Tử Phù + Hóa Kỵ tại Tài Bạch - hao tán mất tiền',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Hóa Kỵ tại Tài Bạch:**
+- Cẩn trọng **HAO TÁN**
+- **MẤT TIỀN do LỪA ĐẢO, TRANH CHẤP, TAI NẠN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-kinh-duong',
+    title: 'Tử Phù + Kình Dương tại Tài Bạch - hao tán mất tiền',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Kình Dương tại Tài Bạch:**
+- Cẩn trọng **HAO TÁN**
+- **MẤT TIỀN do LỪA ĐẢO, TRANH CHẤP, TAI NẠN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-da-la',
+    title: 'Tử Phù + Đà La tại Tài Bạch - hao tán mất tiền',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Đà La'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Đà La tại Tài Bạch:**
+- Cẩn trọng **HAO TÁN**
+- **MẤT TIỀN do LỪA ĐẢO, TRANH CHẤP, TAI NẠN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-dia-khong',
+    title: 'Tử Phù + Địa Không tại Tài Bạch - hao tán mất tiền',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Địa Không'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Địa Không tại Tài Bạch:**
+- Cẩn trọng **HAO TÁN**
+- **MẤT TIỀN do LỪA ĐẢO, TRANH CHẤP, TAI NẠN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-dia-kiep',
+    title: 'Tử Phù + Địa Kiếp tại Tài Bạch - hao tán mất tiền',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Địa Kiếp tại Tài Bạch:**
+- Cẩn trọng **HAO TÁN**
+- **MẤT TIỀN do LỪA ĐẢO, TRANH CHẤP, TAI NẠN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-hoa-tinh',
+    title: 'Tử Phù + Hỏa Tinh tại Tài Bạch - hao tán mất tiền',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Hỏa Tinh tại Tài Bạch:**
+- Cẩn trọng **HAO TÁN**
+- **MẤT TIỀN do LỪA ĐẢO, TRANH CHẤP, TAI NẠN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tai-bach-linh-tinh',
+    title: 'Tử Phù + Linh Tinh tại Tài Bạch - hao tán mất tiền',
+    sao: ['Tử Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Linh Tinh tại Tài Bạch:**
 - Cẩn trọng **HAO TÁN**
 - **MẤT TIỀN do LỪA ĐẢO, TRANH CHẤP, TAI NẠN**`,
   },
@@ -340,14 +1044,191 @@ nhiều cũng được **HÓA GIẢI**.`,
 - Con cái **HIỀN LÀNH, NGOAN NGOÃN**
 - **Biết nghe lời**, ít gây phiền toái
 - Sự **THIỆT THÒI NHỎ** của con được xem yếu tố **"GIẢM TRỪ" tai ương nặng** cho
-  gia đạo
+  gia đạo`,
+  },
 
-🌟 **+ Thiên Đức / Nguyệt Đức / Thiên Quan / Thiên Phúc / Tả Hữu / Văn Xương /
-Văn Khúc:**
+  {
+    id: 'tu-phu-tai-tu-tuc-thien-duc',
+    title: 'Tử Phù + Thiên Đức tại Tử Tức - con sáng dạ',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Đức'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Đức tại Tử Tức:**
 - Con cái **SÁNG DẠ, HIẾU THUẬN**
-- **CÔNG THÀNH DANH TOẠI**
+- **CÔNG THÀNH DANH TOẠI**`,
+  },
 
-⚠️ **+ Kình Dương / Đà La / Hóa Kỵ / Không Kiếp / Hỏa Linh:**
+  {
+    id: 'tu-phu-tai-tu-tuc-nguyet-duc',
+    title: 'Tử Phù + Nguyệt Đức tại Tử Tức - con sáng dạ',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Nguyệt Đức'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Nguyệt Đức tại Tử Tức:**
+- Con cái **SÁNG DẠ, HIẾU THUẬN**
+- **CÔNG THÀNH DANH TOẠI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-thien-quan',
+    title: 'Tử Phù + Thiên Quan tại Tử Tức - con sáng dạ',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Quan'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Quan tại Tử Tức:**
+- Con cái **SÁNG DẠ, HIẾU THUẬN**
+- **CÔNG THÀNH DANH TOẠI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-thien-phuc',
+    title: 'Tử Phù + Thiên Phúc tại Tử Tức - con sáng dạ',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Phúc'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Thiên Phúc tại Tử Tức:**
+- Con cái **SÁNG DẠ, HIẾU THUẬN**
+- **CÔNG THÀNH DANH TOẠI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-ta-phu',
+    title: 'Tử Phù + Tả Phù tại Tử Tức - con sáng dạ',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Tả Phù tại Tử Tức:**
+- Con cái **SÁNG DẠ, HIẾU THUẬN**
+- **CÔNG THÀNH DANH TOẠI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-huu-bat',
+    title: 'Tử Phù + Hữu Bật tại Tử Tức - con sáng dạ',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Hữu Bật tại Tử Tức:**
+- Con cái **SÁNG DẠ, HIẾU THUẬN**
+- **CÔNG THÀNH DANH TOẠI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-van-xuong',
+    title: 'Tử Phù + Văn Xương tại Tử Tức - con sáng dạ',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Văn Xương tại Tử Tức:**
+- Con cái **SÁNG DẠ, HIẾU THUẬN**
+- **CÔNG THÀNH DANH TOẠI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-van-khuc',
+    title: 'Tử Phù + Văn Khúc tại Tử Tức - con sáng dạ',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tử Phù + Văn Khúc tại Tử Tức:**
+- Con cái **SÁNG DẠ, HIẾU THUẬN**
+- **CÔNG THÀNH DANH TOẠI**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-kinh-duong',
+    title: 'Tử Phù + Kình Dương tại Tử Tức - con bệnh lận đận',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Kình Dương tại Tử Tức:**
+- Con dễ **MẮC BỆNH**, **HỌC HÀNH LẬN ĐẬN**
+- **TÌNH DUYÊN TRẮC TRỞ**
+- **LẬP GIA ĐÌNH MUỘN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-da-la',
+    title: 'Tử Phù + Đà La tại Tử Tức - con bệnh lận đận',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Đà La'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Đà La tại Tử Tức:**
+- Con dễ **MẮC BỆNH**, **HỌC HÀNH LẬN ĐẬN**
+- **TÌNH DUYÊN TRẮC TRỞ**
+- **LẬP GIA ĐÌNH MUỘN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-hoa-ky',
+    title: 'Tử Phù + Hóa Kỵ tại Tử Tức - con bệnh lận đận',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Hóa Kỵ tại Tử Tức:**
+- Con dễ **MẮC BỆNH**, **HỌC HÀNH LẬN ĐẬN**
+- **TÌNH DUYÊN TRẮC TRỞ**
+- **LẬP GIA ĐÌNH MUỘN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-dia-khong',
+    title: 'Tử Phù + Địa Không tại Tử Tức - con bệnh lận đận',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Không'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Địa Không tại Tử Tức:**
+- Con dễ **MẮC BỆNH**, **HỌC HÀNH LẬN ĐẬN**
+- **TÌNH DUYÊN TRẮC TRỞ**
+- **LẬP GIA ĐÌNH MUỘN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-dia-kiep',
+    title: 'Tử Phù + Địa Kiếp tại Tử Tức - con bệnh lận đận',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Địa Kiếp tại Tử Tức:**
+- Con dễ **MẮC BỆNH**, **HỌC HÀNH LẬN ĐẬN**
+- **TÌNH DUYÊN TRẮC TRỞ**
+- **LẬP GIA ĐÌNH MUỘN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-hoa-tinh',
+    title: 'Tử Phù + Hỏa Tinh tại Tử Tức - con bệnh lận đận',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Hỏa Tinh tại Tử Tức:**
+- Con dễ **MẮC BỆNH**, **HỌC HÀNH LẬN ĐẬN**
+- **TÌNH DUYÊN TRẮC TRỞ**
+- **LẬP GIA ĐÌNH MUỘN**`,
+  },
+
+  {
+    id: 'tu-phu-tai-tu-tuc-linh-tinh',
+    title: 'Tử Phù + Linh Tinh tại Tử Tức - con bệnh lận đận',
+    sao: ['Tử Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tử Phù + Linh Tinh tại Tử Tức:**
 - Con dễ **MẮC BỆNH**, **HỌC HÀNH LẬN ĐẬN**
 - **TÌNH DUYÊN TRẮC TRỞ**
 - **LẬP GIA ĐÌNH MUỘN**`,

@@ -85,10 +85,17 @@ dễ "**cháy túi**" → túng thiếu, thất thường.
     tomTat: `**Đại Hao cư Phụ Mẫu:** cha mẹ phải **"tha hương cầu thực"**, sống xa
 quê cha đất tổ, thay đổi nơi ở/nghề nghiệp.
 
-⚠️ **+ Thiên Hình / Thiên Việt:** cha mẹ **nghiêm khắc, giáo điều**, "nói một
-là một", con cái khó lòng trái ý.
-
 → Khác biệt khi Đắc và Hãm được tách thành luận giải riêng.`,
+  },
+  {
+    id: 'dai-hao-tai-phu-mau-hinh-viet',
+    title: 'Đại Hao tại Phụ Mẫu + Thiên Hình/Thiên Việt - Cha mẹ nghiêm khắc',
+    sao: ['Đại Hao'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Hình', 'Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Đại Hao + Thiên Hình / Thiên Việt tại Phụ Mẫu:** cha mẹ **nghiêm
+khắc, giáo điều**, "nói một là một", con cái khó lòng trái ý.`,
   },
 
   {
@@ -134,9 +141,6 @@ mắn thế hệ trước để lại **không còn nhiều**.
 ⚠️ Họ hàng **chia ly, mỗi người một phương**, hiếm khi đoàn tụ. **Hao hớt mỗi
 người một nơi**, tìm về thì **chẳng còn ai**.
 
-⚠️ **+ Địa Kiếp:** càng **cô độc, vất vả** — kiếm tiền bằng **con đường không
-chính nghĩa** → tổn hao phước đức.
-
 🌟 **Đại Hao ĐẮC ĐỊA cư Phúc:** thừa hưởng **phước đức tổ tiên**, may mắn về
 tiền của — biết **dùng tiền làm phúc**, "**gieo nhân lành gặt quả tốt**", chăm
 lo mồ mả, tu tạo phúc phần cho bản thân và hậu thế.
@@ -144,6 +148,16 @@ lo mồ mả, tu tạo phúc phần cho bản thân và hậu thế.
 ⚡ **Đặc trưng mộ phần:** xung quanh có **DÒNG NƯỚC LỚN** (suối, sông) hoặc
 **mạch ngầm** chảy qua — biểu tượng phúc khí lưu chuyển. Tùy đắc/hãm để xác
 định tốt xấu.`,
+  },
+  {
+    id: 'dai-hao-tai-phuc-duc-dia-kiep',
+    title: 'Đại Hao tại Phúc Đức + Địa Kiếp - Kiếm tiền bất chính',
+    sao: ['Đại Hao'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Đại Hao + Địa Kiếp tại Phúc Đức:** càng **cô độc, vất vả** —
+kiếm tiền bằng **con đường không chính nghĩa** → tổn hao phước đức.`,
   },
 
   // ============================================================
@@ -246,12 +260,27 @@ lâu bền.`,
 LỚN** → khi yên thì rất yên ả, nhưng khi phát thì **dồn dập DỮ DỘI**, **không
 kịp chống đỡ**.
 
-⚡ **Bệnh thường gặp:** **đường ruột, tiêu hóa, dạ dày, gan**.
-
-⚠️ **+ Phá Quân / Thất Sát / Mộc Dục / Hóa Kỵ:** **UNG NHỌT, UNG THƯ phải mổ
-xẻ**.
-
-⚠️ **+ Kình / Đà / Không Kiếp / Hóa Kỵ:** đam mê (cờ bạc, rượu chè) sinh bệnh.`,
+⚡ **Bệnh thường gặp:** **đường ruột, tiêu hóa, dạ dày, gan**.`,
+  },
+  {
+    id: 'dai-hao-tai-tat-ach-pha-sat-moc-duc-ky',
+    title: 'Đại Hao tại Tật Ách + Phá/Sát/Mộc Dục/Hóa Kỵ - Ung nhọt mổ xẻ',
+    sao: ['Đại Hao'],
+    cung: ['Tật Ách'],
+    ketHop: ['Phá Quân', 'Thất Sát', 'Mộc Dục', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đại Hao + Phá Quân / Thất Sát / Mộc Dục / Hóa Kỵ tại Tật Ách:**
+**UNG NHỌT, UNG THƯ phải mổ xẻ**.`,
+  },
+  {
+    id: 'dai-hao-tai-tat-ach-kinh-da-khong-kiep-ky',
+    title: 'Đại Hao tại Tật Ách + Kình/Đà/Không Kiếp/Hóa Kỵ - Đam mê sinh bệnh',
+    sao: ['Đại Hao'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đại Hao + Kình Dương / Đà La / Địa Không / Địa Kiếp / Hóa Kỵ
+tại Tật Ách:** đam mê (cờ bạc, rượu chè) sinh bệnh.`,
   },
 
   // ============================================================
@@ -273,14 +302,38 @@ tạo ra **NHIỀU CỦA TIỀN HƠN**:
 - **Tầng lớp kinh doanh, buôn bán LỚN**
 - Cách **VÔ CÙNG GIÀU CÓ**
 
-⚠️ **+ Đào Hồng:** tốn **NHIỀU TIỀN** cho tình nhân, làm đẹp.
-
-⚠️ **+ Phá / Tuyệt:** dễ **đầu tư LỚN, chơi LỚN mà PHÁ SẢN**.
-
-⚠️ **+ Kình / Đà / Không / Kiếp:** **PHÁ SẢN**.
-
 ⚡ **Lưu ý:** Đại Hao HÃM rất **kỵ** ở Tài / Điền / Phúc — 3 cung này có Đại
 Hao Hãm là **xấu nhất**.`,
+  },
+  {
+    id: 'dai-hao-tai-tai-bach-dao-hong',
+    title: 'Đại Hao tại Tài Bạch + Đào Hồng - Tốn tiền tình nhân',
+    sao: ['Đại Hao'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Đào Hoa', 'Hồng Loan'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Đại Hao + Đào Hoa / Hồng Loan tại Tài Bạch:** tốn **NHIỀU TIỀN**
+cho tình nhân, làm đẹp.`,
+  },
+  {
+    id: 'dai-hao-tai-tai-bach-pha-tuyet',
+    title: 'Đại Hao tại Tài Bạch + Phá/Tuyệt - Đầu tư phá sản',
+    sao: ['Đại Hao'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Phá Quân', 'Tuyệt'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Đại Hao + Phá Quân / Tuyệt tại Tài Bạch:** dễ **đầu tư LỚN, chơi
+LỚN mà PHÁ SẢN**.`,
+  },
+  {
+    id: 'dai-hao-tai-tai-bach-kinh-da-khong-kiep',
+    title: 'Đại Hao tại Tài Bạch + Kình/Đà/Không/Kiếp - Phá sản',
+    sao: ['Đại Hao'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Đại Hao + Kình Dương / Đà La / Địa Không / Địa Kiếp tại Tài
+Bạch:** **PHÁ SẢN**.`,
   },
 
   // ============================================================
@@ -319,10 +372,18 @@ nhưng nuôi ít.
 ⚠️ **Hao HÃM:** người hôn phối **HOANG TÀN, phá của**, gây **chia ly**. Người
 phối ngẫu **tiêu xài phung phí**, tổn thất tài chính LỚN.
 
-⚠️ **+ Đà La / Thiên Hình / Thiên Riêu:** người hôn phối **phong lưu thái
-trượng**, tài tử, phá tán → **"ông ăn chả bà ăn nem"**.
-
 🌟 **Đắc + cát tinh:** chủ mệnh **tháo vát**, biết quan tâm chiều chuộng bạn đời.`,
+  },
+  {
+    id: 'dai-hao-tai-phu-the-da-hinh-rieu',
+    title: 'Đại Hao tại Phu Thê + Đà La/Thiên Hình/Thiên Riêu - Phong lưu',
+    sao: ['Đại Hao'],
+    cung: ['Phu Thê'],
+    ketHop: ['Đà La', 'Thiên Hình', 'Thiên Riêu'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đại Hao + Đà La / Thiên Hình / Thiên Riêu tại Phu Thê:** người
+hôn phối **phong lưu thái trượng**, tài tử, phá tán → **"ông ăn chả bà ăn
+nem"**.`,
   },
 
   {
@@ -352,12 +413,21 @@ trượng**, tài tử, phá tán → **"ông ăn chả bà ăn nem"**.
     doUuTien: 70,
     tomTat: `⚠️ **Đại Hao cư Huynh Đệ:** **GIẢM số lượng** anh chị em.
 
-⚠️ **+ Sát bại tinh:** dễ có người **chết trẻ, khó thọ**, mất mát/sa sảy bụng mẹ.
-
 ⚡ Anh chị em **ly tán**, mỗi người một chí hướng, dễ **mâu thuẫn vì TIỀN**.
 
 🌟 **Đại Hao ĐẮC ĐỊA:** anh em có người **giỏi làm ăn kinh tế**, **giàu có
 khá giả**, giúp đỡ nhau về sau.`,
+  },
+  {
+    id: 'dai-hao-tai-huynh-de-sat-bai',
+    title: 'Đại Hao tại Huynh Đệ + Sát bại tinh - Anh em chết trẻ',
+    sao: ['Đại Hao'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Tiểu Hao'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Đại Hao + Sát bại tinh (Kình / Đà / Hỏa / Linh / Không / Kiếp /
+Hóa Kỵ / Tiểu Hao) tại Huynh Đệ:** dễ có người **chết trẻ, khó thọ**, mất
+mát/sa sảy bụng mẹ.`,
   },
 
   // ============================================================

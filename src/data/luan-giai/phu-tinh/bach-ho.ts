@@ -140,11 +140,6 @@ duyên với **PHẬT THÁNH, ĐẠO MẪU**.`,
 ⚠️ **Phúc thọ tai họa:**
 - Bất lợi cho **CHA MẸ, GIA ĐẠO, CON CÁI**
 - Bất lợi cho **chính mình** về tâm sinh lý, tính tình, vận số
-- **+ Sát/Bại Tinh:** đem đến **NHIỀU TAI HỌA**:
-  - Cuộc sống **KHỔ CỰC, CÔ ĐỘC**
-  - **Hôn nhân khắc vợ/chồng**, số **GÓA BỤA, CÔ ĐƠN**
-  - Có thể bị **BẮT BỚ, GIAM CẦM** liên quan pháp luật
-  - **Bệnh tật trầm kha**, tai nạn nguy hiểm, **YỂU TỬ**
 
 ⚠️ **Nữ nhân hãm địa:**
 - **Trục trặc tình duyên, gia đạo, hôn nhân**
@@ -152,6 +147,22 @@ duyên với **PHẬT THÁNH, ĐẠO MẪU**.`,
 - Nếu không thì **GÓA BỤA**, đau khổ vì chồng con
 - **Bất lợi sinh nở**, ảnh hưởng tử cung, kinh nguyệt
 - Sao Bạch Hổ cần **đắc địa + sao GIẢI MẠNH** mới chế giảm được`,
+  },
+
+  {
+    id: 'bach-ho-tai-menh-ham-sat-bai',
+    title: '⚠️ Bạch Hổ Hãm + Sát Bại tinh tại Mệnh - khổ cực cô độc',
+    sao: ['Bạch Hổ'],
+    cung: ['Mệnh'],
+    chi: ['Tý', 'Sửu', 'Thìn', 'Tỵ', 'Ngọ', 'Mùi', 'Tuất', 'Hợi'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Bạch Hổ Hãm + Sát Bại tinh (Lục Sát) tại Mệnh:** đem đến
+**NHIỀU TAI HỌA**:
+- Cuộc sống **KHỔ CỰC, CÔ ĐỘC**
+- **Hôn nhân khắc vợ/chồng**, số **GÓA BỤA, CÔ ĐƠN**
+- Có thể bị **BẮT BỚ, GIAM CẦM** liên quan pháp luật
+- **Bệnh tật trầm kha**, tai nạn nguy hiểm, **YỂU TỬ**`,
   },
 
   {
@@ -216,8 +227,6 @@ PHÁP LUẬT**, dễ **BỊ VU OAN**, hoặc trải qua **NHIỀU LẦN SỤP Đ
 - Không chỉ bản thân, **CHA MẸ, CON CÁI, NGƯỜI THÂN** trong gia đình cũng dễ
   vướng **vận xui sức khỏe**
 - Bệnh **MÁU HUYẾT, GÂN CỐT** hoặc **TAI NẠN BẤT NGỜ**
-- **+ Kình Dương, Đà La, Địa Kiếp, Thiên Hình:**
-  - **Khó thụ thai, sinh khó, sảy thai, hậu sản**
 
 ⚠️ **Hôn nhân (đặc biệt cách "DUYÊN NỢ NGHIỆT DUYÊN"):**
 - **Nữ:** dễ **GÓA BỤA**, phải **CƯỚI CHẠY TANG**, hoặc **ưu phiền vì chồng con**
@@ -226,6 +235,50 @@ PHÁP LUẬT**, dễ **BỊ VU OAN**, hoặc trải qua **NHIỀU LẦN SỤP Đ
 
 🌟 **Chỉ khi gặp NHIỀU CÁT TINH hóa giải**, đương số mới có hy vọng có một mái
 ấm **YÊN BÌNH, ĐỦ ĐẦY**.`,
+  },
+
+  {
+    id: 'bach-ho-tai-menh-kinh-duong',
+    title: '⚠️ Bạch Hổ + Kình Dương tại Mệnh - khó thụ thai',
+    sao: ['Bạch Hổ'],
+    cung: ['Mệnh'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Bạch Hổ + Kình Dương tại Mệnh:** **Khó thụ thai, sinh khó, sảy
+thai, hậu sản**.`,
+  },
+
+  {
+    id: 'bach-ho-tai-menh-da-la',
+    title: '⚠️ Bạch Hổ + Đà La tại Mệnh - khó thụ thai',
+    sao: ['Bạch Hổ'],
+    cung: ['Mệnh'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Bạch Hổ + Đà La tại Mệnh:** **Khó thụ thai, sinh khó, sảy thai,
+hậu sản**.`,
+  },
+
+  {
+    id: 'bach-ho-tai-menh-dia-kiep',
+    title: '⚠️ Bạch Hổ + Địa Kiếp tại Mệnh - khó thụ thai',
+    sao: ['Bạch Hổ'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Bạch Hổ + Địa Kiếp tại Mệnh:** **Khó thụ thai, sinh khó, sảy
+thai, hậu sản**.`,
+  },
+
+  {
+    id: 'bach-ho-tai-menh-thien-hinh',
+    title: '⚠️ Bạch Hổ + Thiên Hình tại Mệnh - khó thụ thai',
+    sao: ['Bạch Hổ'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Bạch Hổ + Thiên Hình tại Mệnh:** **Khó thụ thai, sinh khó, sảy
+thai, hậu sản**.`,
   },
 
   {
@@ -243,9 +296,20 @@ PHÁP LUẬT**, dễ **BỊ VU OAN**, hoặc trải qua **NHIỀU LẦN SỤP Đ
 🌟 **Bạch Hổ ĐẮC địa tại Phụ Mẫu:**
 - Cha mẹ **GIỎI GIANG**, có **công danh sự nghiệp tốt**, có **QUYỀN THẾ**, có
   tiếng nói trong xã hội
-- **+ Cát Tinh:** cha mẹ có thể làm **QUAN CHỨC TO**, làm **CHỦ DOANH NGHIỆP**
 - Vẫn không tránh khỏi **ốm đau** trong cuộc sống, nhưng **MỨC ĐỘ NHẸ**, không
   phải lo lắng quá nhiều như khi hãm địa.`,
+  },
+
+  {
+    id: 'bach-ho-tai-phu-mau-dac-cat-tinh',
+    title: '🌟 Bạch Hổ Đắc + Cát Tinh tại Phụ Mẫu - cha mẹ làm quan to',
+    sao: ['Bạch Hổ'],
+    cung: ['Phụ Mẫu'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Bạch Hổ Đắc địa + Cát Tinh (Lục Cát) tại Phụ Mẫu:** cha mẹ có
+thể làm **QUAN CHỨC TO**, làm **CHỦ DOANH NGHIỆP**.`,
   },
 
   {
@@ -268,8 +332,19 @@ PHÁP LUẬT**, dễ **BỊ VU OAN**, hoặc trải qua **NHIỀU LẦN SỤP Đ
 🌟 **Bạch Hổ ĐẮC địa tại Phúc Đức:**
 - Ông bà tổ tiên xưa kia có người **LÀM QUAN LỚN** có uy quyền, **rất linh thiêng**
 - Trong dòng họ có nhiều người **THÀNH ĐẠT**, làm **QUAN CHỨC TO**, có **NHIỀU
-  QUYỀN HÀNH**
-- **+ Cát Tinh:** vinh danh nhờ dòng họ, gia tộc.`,
+  QUYỀN HÀNH**`,
+  },
+
+  {
+    id: 'bach-ho-tai-phuc-duc-dac-cat-tinh',
+    title: '🌟 Bạch Hổ Đắc + Cát Tinh tại Phúc Đức - vinh danh dòng họ',
+    sao: ['Bạch Hổ'],
+    cung: ['Phúc Đức'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Bạch Hổ Đắc địa + Cát Tinh (Lục Cát) tại Phúc Đức:** vinh danh
+nhờ dòng họ, gia tộc.`,
   },
 
   {
@@ -310,16 +385,32 @@ khi **THÂN cư Quan**.
 → Coi sự nghiệp như **SỨ MỆNH ĐỜI MÌNH**. Không ngại khó, luôn **xông pha** —
 nhưng cũng dễ tự đẩy mình vào **CĂNG THẲNG, VẤT VẢ**.
 
-🌟 **+ Cát Tinh:** rất thuận lợi:
+(Xem entry chuyên biệt cho cách "Hổ về rừng" tại Dần.)`,
+  },
+
+  {
+    id: 'bach-ho-tai-quan-loc-cat-tinh',
+    title: '🌟 Bạch Hổ + Cát Tinh tại Quan Lộc - thăng tiến nổi danh',
+    sao: ['Bạch Hổ'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Bạch Hổ + Cát Tinh (Lục Cát) tại Quan Lộc:** rất thuận lợi:
 - **Công danh thăng tiến**, **uy quyền tăng**
 - **Đảm nhiệm vị trí cao**, gây dựng uy tín xã hội
-- Phát đạt, nổi danh về **học thuật**
+- Phát đạt, nổi danh về **học thuật**`,
+  },
 
-⚠️ **+ Sao Xấu:**
+  {
+    id: 'bach-ho-tai-quan-loc-sat-tinh',
+    title: '⚠️ Bạch Hổ + Sát tinh tại Quan Lộc - vu oan hình tù',
+    sao: ['Bạch Hổ'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Bạch Hổ + Sát tinh (Lục Sát) tại Quan Lộc:**
 - **Rắc rối, tai họa nhiều**
-- Bị **VU OAN, BẮT BỚ, HÌNH TÙ** vì công việc
-
-(Xem entry chuyên biệt cho cách "Hổ về rừng" tại Dần.)`,
+- Bị **VU OAN, BẮT BỚ, HÌNH TÙ** vì công việc`,
   },
 
   {
@@ -370,11 +461,35 @@ gánh vác **TRÁCH NHIỆM với XÃ HỘI**, với mọi người xung quanh.
 🌟 **Bạch Hổ ĐẮC địa:**
 - Có **QUYỀN LỰC** khi ra ngoài
 - Hay ở gần **người có quyền chức**
-- **+ Tả Phù / Hữu Bật đơn thủ:** dễ làm **THƯ KÝ, TRỢ LÝ** cho người quyền
-  lớn (xét theo cấu trúc Tả/Hữu đơn thủ tại bản cung tương ứng)
 
 💡 Để hóa giải Bạch Hổ tại Di: **TRÁNH XA RỦI RO**, không gây **TRANH CÃI, THỊ
 PHI** với người khác.`,
+  },
+
+  {
+    id: 'bach-ho-tai-thien-di-ta-phu-don-thu',
+    title: '🌟 Bạch Hổ Đắc + Tả Phù tại Thiên Di - thư ký trợ lý quyền lớn',
+    sao: ['Bạch Hổ'],
+    cung: ['Thiên Di'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 70,
+    tomTat: `🌟 **Bạch Hổ Đắc địa + Tả Phù (đơn thủ) tại Thiên Di:** dễ làm
+**THƯ KÝ, TRỢ LÝ** cho người quyền lớn (xét theo cấu trúc Tả Phù đơn thủ tại
+bản cung tương ứng).`,
+  },
+
+  {
+    id: 'bach-ho-tai-thien-di-huu-bat-don-thu',
+    title: '🌟 Bạch Hổ Đắc + Hữu Bật tại Thiên Di - thư ký trợ lý quyền lớn',
+    sao: ['Bạch Hổ'],
+    cung: ['Thiên Di'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Bạch Hổ Đắc địa + Hữu Bật (đơn thủ) tại Thiên Di:** dễ làm
+**THƯ KÝ, TRỢ LÝ** cho người quyền lớn (xét theo cấu trúc Hữu Bật đơn thủ tại
+bản cung tương ứng).`,
   },
 
   {
@@ -395,10 +510,18 @@ GÂN CỐT**:
 - Ảnh hưởng đến **SINH NỞ**
 
 ⚠️ **Tâm lý, tinh thần:**
-- Hay rơi vào trạng thái **U SẦU, BUỒN BÃ, BI QUAN**
+- Hay rơi vào trạng thái **U SẦU, BUỒN BÃ, BI QUAN**`,
+  },
 
-⚠️ **Bạch Hổ + Thiên Hình + Liêm Trinh + Hóa Kỵ:** **TAI HỌA HÌNH TÙ, HÌNH NGỤC**,
-dễ **PHẠM PHÁP LUẬT**, bị **BẮT BỚ**.`,
+  {
+    id: 'bach-ho-tai-tat-ach-hinh-liem-ky',
+    title: '⚠️ Bạch Hổ + Thiên Hình + Liêm Trinh + Hóa Kỵ tại Tật Ách - hình tù',
+    sao: ['Bạch Hổ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Hình', 'Liêm Trinh', 'Hóa Kỵ'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Bạch Hổ + Thiên Hình + Liêm Trinh + Hóa Kỵ tại Tật Ách:** **TAI
+HỌA HÌNH TÙ, HÌNH NGỤC**, dễ **PHẠM PHÁP LUẬT**, bị **BẮT BỚ**.`,
   },
 
   {
@@ -436,15 +559,72 @@ từ **NHIỀU KIẾP TRƯỚC** sang đến kiếp này phải trả.
 - Dễ **SẢY THAI hoặc SINH NON** ngày tháng
 - **SINH RA THÌ KHÓ NUÔI** hoặc sinh con nhưng **không được nuôi**
 
-⚠️ **+ Kình Dương / Thất Sát:** **KHÓ CÓ CON**, nặng hơn thì **KHÔNG CÓ CON CÁI**.
-
-⚠️ **+ Địa Không / Địa Kiếp:** **SINH NHIỀU NUÔI ÍT**, hay **SẢY THAI**, có thể
-phải **NẠO PHÁ THAI**. Thêm **Thiên Hình** → **SINH MỔ, KHÓ SINH** hoặc **con
-chết trong bụng mẹ**.
-
-⚠️ **+ Thai:** dễ **SẢY THAI**, **CON CHẾT NON**.
-
 ⚡ Vì là **DUYÊN NỢ TIỀN KIẾP** nên **PHẢI GẶP và PHẢI TRẢ**, **KHÔNG THỂ THOÁT**.`,
+  },
+
+  {
+    id: 'bach-ho-tai-tu-tuc-kinh-duong',
+    title: '⚠️ Bạch Hổ + Kình Dương tại Tử Tức - khó có con',
+    sao: ['Bạch Hổ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Bạch Hổ + Kình Dương tại Tử Tức:** **KHÓ CÓ CON**, nặng hơn
+thì **KHÔNG CÓ CON CÁI**.`,
+  },
+
+  {
+    id: 'bach-ho-tai-tu-tuc-that-sat',
+    title: '⚠️ Bạch Hổ + Thất Sát tại Tử Tức - khó có con',
+    sao: ['Bạch Hổ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thất Sát'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Bạch Hổ + Thất Sát tại Tử Tức:** **KHÓ CÓ CON**, nặng hơn thì
+**KHÔNG CÓ CON CÁI**.`,
+  },
+
+  {
+    id: 'bach-ho-tai-tu-tuc-dia-khong',
+    title: '⚠️ Bạch Hổ + Địa Không tại Tử Tức - sinh nhiều nuôi ít',
+    sao: ['Bạch Hổ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Không'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Bạch Hổ + Địa Không tại Tử Tức:** **SINH NHIỀU NUÔI ÍT**, hay
+**SẢY THAI**, có thể phải **NẠO PHÁ THAI**.`,
+  },
+
+  {
+    id: 'bach-ho-tai-tu-tuc-dia-kiep',
+    title: '⚠️ Bạch Hổ + Địa Kiếp tại Tử Tức - sinh nhiều nuôi ít',
+    sao: ['Bạch Hổ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Bạch Hổ + Địa Kiếp tại Tử Tức:** **SINH NHIỀU NUÔI ÍT**, hay
+**SẢY THAI**, có thể phải **NẠO PHÁ THAI**.`,
+  },
+
+  {
+    id: 'bach-ho-tai-tu-tuc-khong-kiep-hinh',
+    title: '⚠️ Bạch Hổ + Địa Không + Địa Kiếp + Thiên Hình tại Tử Tức - sinh mổ con chết bụng mẹ',
+    sao: ['Bạch Hổ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Bạch Hổ + Địa Không + Địa Kiếp + Thiên Hình tại Tử Tức:**
+**SINH MỔ, KHÓ SINH** hoặc **con chết trong bụng mẹ**.`,
+  },
+
+  {
+    id: 'bach-ho-tai-tu-tuc-thai',
+    title: '⚠️ Bạch Hổ + Thai tại Tử Tức - sảy thai chết non',
+    sao: ['Bạch Hổ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thai'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Bạch Hổ + Thai tại Tử Tức:** dễ **SẢY THAI**, **CON CHẾT NON**.`,
   },
 
   {

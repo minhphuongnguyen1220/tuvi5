@@ -64,8 +64,7 @@ TAI HỌA**.`,
     sao: ['Thiếu Dương'],
     ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 70,
-    tomTat: `🌟 **Thiếu Dương + Thiên Không** (LUÔN đi cùng) **+ TỨ ĐỨC chiếu** (Long Đức +
-Phúc Đức + Thiên Đức + Nguyệt Đức):
+    tomTat: `🌟 **Thiếu Dương + Thiên Không (LUÔN đi cùng) cùng TỨ ĐỨC chiếu** (Long Đức + Phúc Đức + Thiên Đức + Nguyệt Đức):
 
 🌟 **Cơ duyên TÂM LINH:**
 - Người có **NHIỀU CƠ DUYÊN GIÁC NGỘ**
@@ -73,16 +72,50 @@ Phúc Đức + Thiên Đức + Nguyệt Đức):
 - Có thiên hướng **HÀNH THIỆN, TÍCH ĐỨC**, gieo phúc giúp người
 
 → Đây là cách cục **TÂM LINH ĐẸP** — người Thiếu Dương dù không xuất gia thì
-cũng dễ trở thành **CƯ SỸ**, ưa nghiên cứu **đạo lý**.
+cũng dễ trở thành **CƯ SỸ**, ưa nghiên cứu **đạo lý**.`,
+  },
 
-🌟 **+ Quang Quý / Quan Phúc:** thiện tâm càng rõ, dễ trở thành **người DẪN
-DẮT TINH THẦN** cho cộng đồng nhỏ.`,
+  {
+    id: 'thieu-duong-tu-duc-thien-khong-quang-quy',
+    title: 'Thiếu Dương + Thiên Không + Tứ Đức + Ân Quang - Dẫn dắt tinh thần',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức', 'Ân Quang'],
+    doUuTien: 65,
+    tomTat: `🌟 **Thiếu Dương + Ân Quang:** thiện tâm càng rõ, dễ trở thành **người DẪN DẮT TINH THẦN** cho cộng đồng nhỏ.`,
+  },
+
+  {
+    id: 'thieu-duong-tu-duc-thien-khong-thien-quy',
+    title: 'Thiếu Dương + Thiên Không + Tứ Đức + Thiên Quý - Dẫn dắt tinh thần',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức', 'Thiên Quý'],
+    doUuTien: 65,
+    tomTat: `🌟 **Thiếu Dương + Thiên Quý:** thiện tâm càng rõ, dễ trở thành **người DẪN DẮT TINH THẦN** cho cộng đồng nhỏ.`,
+  },
+
+  {
+    id: 'thieu-duong-tu-duc-thien-khong-thien-quan',
+    title: 'Thiếu Dương + Thiên Không + Tứ Đức + Thiên Quan - Dẫn dắt tinh thần',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức', 'Thiên Quan'],
+    doUuTien: 65,
+    tomTat: `🌟 **Thiếu Dương + Thiên Quan:** thiện tâm càng rõ, dễ trở thành **người DẪN DẮT TINH THẦN** cho cộng đồng nhỏ.`,
+  },
+
+  {
+    id: 'thieu-duong-tu-duc-thien-khong-thien-phuc',
+    title: 'Thiếu Dương + Thiên Không + Tứ Đức + Thiên Phúc - Dẫn dắt tinh thần',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức', 'Thiên Phúc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Thiếu Dương + Thiên Phúc:** thiện tâm càng rõ, dễ trở thành **người DẪN DẮT TINH THẦN** cho cộng đồng nhỏ.`,
   },
 
   {
     id: 'thieu-duong-sao-giai',
     title: 'Thiếu Dương là sao Giải - tương đương Tứ Đức',
     sao: ['Thiếu Dương'],
+    cung: ['Mệnh', 'Tật Ách'],
     doUuTien: 50,
     tomTat: `⚡ **Thiếu Dương là một SAO GIẢI MẠNH:**
 
@@ -97,10 +130,25 @@ DẮT TINH THẦN** cho cộng đồng nhỏ.`,
 Bản chất Thiếu Dương là sự **NỖ LỰC**:
 - Bản mệnh phải **TỰ MÌNH CHÚ TÂM** vào sức khỏe
 - **CHỦ ĐỘNG THAY ĐỔI** thói quen sinh hoạt
-- → Mới cải thiện được bệnh trạng
+- → Mới cải thiện được bệnh trạng`,
+  },
 
-⚠️ **+ Không Kiếp:** sự cố gắng như **CÔNG DÃ TRÀNG** — nỗ lực nhiều mà hiệu
-quả chẳng bao nhiêu.`,
+  {
+    id: 'thieu-duong-sao-giai-dia-khong',
+    title: '⚠️ Thiếu Dương + Địa Không - Công dã tràng',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Địa Không'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Thiếu Dương + Địa Không:** sự cố gắng như **CÔNG DÃ TRÀNG** — nỗ lực nhiều mà hiệu quả chẳng bao nhiêu.`,
+  },
+
+  {
+    id: 'thieu-duong-sao-giai-dia-kiep',
+    title: '⚠️ Thiếu Dương + Địa Kiếp - Công dã tràng',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Thiếu Dương + Địa Kiếp:** sự cố gắng như **CÔNG DÃ TRÀNG** — nỗ lực nhiều mà hiệu quả chẳng bao nhiêu.`,
   },
 
   {
@@ -208,19 +256,77 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     tomTat: `🌟 **Thiếu Dương tại Phụ Mẫu:**
 - Cha mẹ **KHÔN NGOAN, NHÂN HẬU, TỪ THIỆN**
 - **CÓ TAY NGHỀ KHÉO**
-- Sống thiện, biết **đối nhân xử thế** → được mọi người **QUÝ MẾN**
+- Sống thiện, biết **đối nhân xử thế** → được mọi người **QUÝ MẾN**`,
+  },
 
-🌟 **+ Đào Hoa / Hồng Loan:** một trong hai người làm về:
-- **NGHỆ THUẬT, THẨM MỸ, KIẾN TRÚC**
-- **DANH TIẾNG LẪY LỪNG**, được nhiều người yêu mến, hâm mộ
-- Cha mẹ có người **ĐÀO HOA**, **NỔI TIẾNG bên ngoài**
+  {
+    id: 'thieu-duong-tai-phu-mau-dao-hoa',
+    title: 'Thiếu Dương + Đào Hoa tại Phụ Mẫu - Cha mẹ nghệ thuật',
+    sao: ['Thiếu Dương'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Đào Hoa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Đào Hoa tại Phụ Mẫu:** một trong hai người làm về **NGHỆ THUẬT, THẨM MỸ, KIẾN TRÚC**, **DANH TIẾNG LẪY LỪNG**, được nhiều người yêu mến, hâm mộ. Cha mẹ có người **ĐÀO HOA**, **NỔI TIẾNG bên ngoài**.`,
+  },
 
-🌟 **+ Thiên Không / Quang Quý / Thiên Quý:** cha mẹ có **DUYÊN GIÁC NGỘ** về:
-- **TÂM LINH, PHẬT PHÁP**
-- Thích **HÀNH THIỆN TÍCH ĐỨC**, gieo phúc giúp người
+  {
+    id: 'thieu-duong-tai-phu-mau-hong-loan',
+    title: 'Thiếu Dương + Hồng Loan tại Phụ Mẫu - Cha mẹ nghệ thuật',
+    sao: ['Thiếu Dương'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hồng Loan'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Hồng Loan tại Phụ Mẫu:** một trong hai người làm về **NGHỆ THUẬT, THẨM MỸ, KIẾN TRÚC**, **DANH TIẾNG LẪY LỪNG**, được nhiều người yêu mến, hâm mộ. Cha mẹ có người **ĐÀO HOA**, **NỔI TIẾNG bên ngoài**.`,
+  },
 
-⚠️ **+ Hỏa Tinh / Linh Tinh:** mối quan hệ trở nên **XA CÁCH**, cha mẹ có phần
-**VÔ TÂM** với mình.`,
+  {
+    id: 'thieu-duong-tai-phu-mau-thien-khong',
+    title: 'Thiếu Dương + Thiên Không tại Phụ Mẫu - Cha mẹ duyên giác ngộ',
+    sao: ['Thiếu Dương'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Không'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Không tại Phụ Mẫu:** cha mẹ có **DUYÊN GIÁC NGỘ** về **TÂM LINH, PHẬT PHÁP**. Thích **HÀNH THIỆN TÍCH ĐỨC**, gieo phúc giúp người.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-mau-an-quang',
+    title: 'Thiếu Dương + Ân Quang tại Phụ Mẫu - Cha mẹ duyên giác ngộ',
+    sao: ['Thiếu Dương'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Ân Quang'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Ân Quang tại Phụ Mẫu:** cha mẹ có **DUYÊN GIÁC NGỘ** về **TÂM LINH, PHẬT PHÁP**. Thích **HÀNH THIỆN TÍCH ĐỨC**, gieo phúc giúp người.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-mau-thien-quy',
+    title: 'Thiếu Dương + Thiên Quý tại Phụ Mẫu - Cha mẹ duyên giác ngộ',
+    sao: ['Thiếu Dương'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Quý'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Quý tại Phụ Mẫu:** cha mẹ có **DUYÊN GIÁC NGỘ** về **TÂM LINH, PHẬT PHÁP**. Thích **HÀNH THIỆN TÍCH ĐỨC**, gieo phúc giúp người.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-mau-hoa-tinh',
+    title: '⚠️ Thiếu Dương + Hỏa Tinh tại Phụ Mẫu - Quan hệ xa cách',
+    sao: ['Thiếu Dương'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Dương + Hỏa Tinh tại Phụ Mẫu:** mối quan hệ trở nên **XA CÁCH**, cha mẹ có phần **VÔ TÂM** với mình.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-mau-linh-tinh',
+    title: '⚠️ Thiếu Dương + Linh Tinh tại Phụ Mẫu - Quan hệ xa cách',
+    sao: ['Thiếu Dương'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Dương + Linh Tinh tại Phụ Mẫu:** mối quan hệ trở nên **XA CÁCH**, cha mẹ có phần **VÔ TÂM** với mình.`,
   },
 
   {
@@ -236,18 +342,131 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
 ⚠️ **Đặc điểm THIÊN KHÔNG đi cùng:**
 - Dù phúc đẹp nhưng đương số **KHÔNG ĐƯỢC HƯỞNG NHIỀU may mắn tổ tiên** để lại
 - Phải **TỰ TÔN BỒI, XÂY ĐẮP THÊM**
-- Người thường **LY HƯƠNG TỔ NGHIỆP**, **CƯỚI VỢ CƯỚI CHỒNG NƠI PHƯƠNG XA**
+- Người thường **LY HƯƠNG TỔ NGHIỆP**, **CƯỚI VỢ CƯỚI CHỒNG NƠI PHƯƠNG XA**`,
+  },
 
-⚠️ **+ Sát / Kỵ / Hình + Thiên Đồng / Thiên Lương / Thiên Việt:**
-- Dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**"
-- Một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**
+  {
+    id: 'thieu-duong-tai-phuc-duc-thien-dong-hoa-ky',
+    title: '⚠️ Thiếu Dương + Thiên Đồng + Hóa Kỵ tại Phúc Đức - Sướng trước khổ sau',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Đồng', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Dương + Thiên Đồng + Hóa Kỵ tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+  },
 
-🌟 **+ Quang Quý:** dòng họ nhiều người **HIỀN LƯƠNG**, có **DUYÊN GIÁC NGỘ** và
-**THỜ PHẬT**.
+  {
+    id: 'thieu-duong-tai-phuc-duc-thien-dong-thien-hinh',
+    title: '⚠️ Thiếu Dương + Thiên Đồng + Thiên Hình tại Phúc Đức - Sướng trước khổ sau',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Đồng', 'Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Dương + Thiên Đồng + Thiên Hình tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+  },
 
-🌟 **+ Tả Hữu / Khôi Việt** đặc biệt **+ Thái Dương miếu vượng:** thời điểm
-đương số ra đời cũng là lúc **HỌ HÀNG VƯỢNG PHÁT** — phúc phần gia đình **HƯNG
-THỊNH**, con cháu dựng vợ gả chồng ổn định.`,
+  {
+    id: 'thieu-duong-tai-phuc-duc-thien-luong-hoa-ky',
+    title: '⚠️ Thiếu Dương + Thiên Lương + Hóa Kỵ tại Phúc Đức - Sướng trước khổ sau',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Lương', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Dương + Thiên Lương + Hóa Kỵ tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phuc-duc-thien-luong-thien-hinh',
+    title: '⚠️ Thiếu Dương + Thiên Lương + Thiên Hình tại Phúc Đức - Sướng trước khổ sau',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Lương', 'Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Dương + Thiên Lương + Thiên Hình tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phuc-duc-thien-viet-hoa-ky',
+    title: '⚠️ Thiếu Dương + Thiên Việt + Hóa Kỵ tại Phúc Đức - Sướng trước khổ sau',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Việt', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Dương + Thiên Việt + Hóa Kỵ tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phuc-duc-thien-viet-thien-hinh',
+    title: '⚠️ Thiếu Dương + Thiên Việt + Thiên Hình tại Phúc Đức - Sướng trước khổ sau',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Việt', 'Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Dương + Thiên Việt + Thiên Hình tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phuc-duc-an-quang',
+    title: 'Thiếu Dương + Ân Quang tại Phúc Đức - Dòng họ hiền lương',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Ân Quang'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Ân Quang tại Phúc Đức:** dòng họ nhiều người **HIỀN LƯƠNG**, có **DUYÊN GIÁC NGỘ** và **THỜ PHẬT**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phuc-duc-thien-quy-phat',
+    title: 'Thiếu Dương + Thiên Quý tại Phúc Đức - Dòng họ hiền lương',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Quý'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Quý tại Phúc Đức:** dòng họ nhiều người **HIỀN LƯƠNG**, có **DUYÊN GIÁC NGỘ** và **THỜ PHẬT**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phuc-duc-ta-phu-thai-duong-sang',
+    title: 'Thiếu Dương + Tả Phù + Thái Dương sáng tại Phúc Đức - Họ hàng vượng phát',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tả Phù', 'Thái Dương'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Tả Phù + Thái Dương sáng tại Phúc Đức:** thời điểm đương số ra đời cũng là lúc **HỌ HÀNG VƯỢNG PHÁT** — phúc phần gia đình **HƯNG THỊNH**, con cháu dựng vợ gả chồng ổn định.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phuc-duc-huu-bat-thai-duong-sang',
+    title: 'Thiếu Dương + Hữu Bật + Thái Dương sáng tại Phúc Đức - Họ hàng vượng phát',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hữu Bật', 'Thái Dương'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Hữu Bật + Thái Dương sáng tại Phúc Đức:** thời điểm đương số ra đời cũng là lúc **HỌ HÀNG VƯỢNG PHÁT** — phúc phần gia đình **HƯNG THỊNH**, con cháu dựng vợ gả chồng ổn định.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phuc-duc-thien-khoi-thai-duong-sang',
+    title: 'Thiếu Dương + Thiên Khôi + Thái Dương sáng tại Phúc Đức - Họ hàng vượng phát',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Khôi', 'Thái Dương'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Khôi + Thái Dương sáng tại Phúc Đức:** thời điểm đương số ra đời cũng là lúc **HỌ HÀNG VƯỢNG PHÁT** — phúc phần gia đình **HƯNG THỊNH**, con cháu dựng vợ gả chồng ổn định.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phuc-duc-thien-viet-thai-duong-sang',
+    title: 'Thiếu Dương + Thiên Việt + Thái Dương sáng tại Phúc Đức - Họ hàng vượng phát',
+    sao: ['Thiếu Dương'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Việt', 'Thái Dương'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Việt + Thái Dương sáng tại Phúc Đức:** thời điểm đương số ra đời cũng là lúc **HỌ HÀNG VƯỢNG PHÁT** — phúc phần gia đình **HƯNG THỊNH**, con cháu dựng vợ gả chồng ổn định.`,
   },
 
   {
@@ -261,19 +480,110 @@ THỊNH**, con cháu dựng vợ gả chồng ổn định.`,
 - Đi đâu cũng được **GIÚP ĐỠ về NHÀ CỬA**, nơi ăn chốn ở
 - **KHÔNG PHẢI LO LẮNG** về nơi ăn chốn ở
 
-🌟 **+ Đào Hoa:** **SỚM CÓ NHÀ CÓ CỬA** từ khi còn trẻ.
-
-🌟 **+ Tử Vi / Thiên Phủ / Quang Quý:** nhà dễ **RƯỚC PHẬT VỀ THỜ**.
-
-🌟 **+ Thiên Khôi / Thiên Việt** hoặc **+ Thái Dương miếu vượng:** càng **ỨNG
-NGHIỆM** — điền trạch dồi dào.
-
 ⚠️ **Mặt vất vả:**
 Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**TAY TRẮNG DỰNG CƠ
-ĐỒ**".
+ĐỒ**".`,
+  },
 
-🌟 **+ Sao Lộc hội chiếu:** từ **TRUNG VẬN trở đi** mới gây dựng được cơ ngơi
-**VỮNG VÀNG**, hậu vận **AN NHÀN**.`,
+  {
+    id: 'thieu-duong-tai-dien-trach-dao-hoa',
+    title: 'Thiếu Dương + Đào Hoa tại Điền Trạch - Sớm có nhà cửa',
+    sao: ['Thiếu Dương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Đào Hoa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Đào Hoa tại Điền Trạch:** **SỚM CÓ NHÀ CÓ CỬA** từ khi còn trẻ.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-dien-trach-tu-vi',
+    title: 'Thiếu Dương + Tử Vi tại Điền Trạch - Rước Phật về thờ',
+    sao: ['Thiếu Dương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Tử Vi tại Điền Trạch:** nhà dễ **RƯỚC PHẬT VỀ THỜ**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-dien-trach-thien-phu',
+    title: 'Thiếu Dương + Thiên Phủ tại Điền Trạch - Rước Phật về thờ',
+    sao: ['Thiếu Dương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Phủ tại Điền Trạch:** nhà dễ **RƯỚC PHẬT VỀ THỜ**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-dien-trach-an-quang',
+    title: 'Thiếu Dương + Ân Quang tại Điền Trạch - Rước Phật về thờ',
+    sao: ['Thiếu Dương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Ân Quang'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Ân Quang tại Điền Trạch:** nhà dễ **RƯỚC PHẬT VỀ THỜ**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-dien-trach-thien-quy',
+    title: 'Thiếu Dương + Thiên Quý tại Điền Trạch - Rước Phật về thờ',
+    sao: ['Thiếu Dương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Quý'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Quý tại Điền Trạch:** nhà dễ **RƯỚC PHẬT VỀ THỜ**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-dien-trach-thien-khoi',
+    title: 'Thiếu Dương + Thiên Khôi tại Điền Trạch - Điền trạch dồi dào',
+    sao: ['Thiếu Dương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Khôi tại Điền Trạch:** càng **ỨNG NGHIỆM** — điền trạch dồi dào.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-dien-trach-thien-viet',
+    title: 'Thiếu Dương + Thiên Việt tại Điền Trạch - Điền trạch dồi dào',
+    sao: ['Thiếu Dương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Việt tại Điền Trạch:** càng **ỨNG NGHIỆM** — điền trạch dồi dào.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-dien-trach-thai-duong-sang',
+    title: 'Thiếu Dương + Thái Dương sáng tại Điền Trạch - Điền trạch dồi dào',
+    sao: ['Thiếu Dương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thái Dương'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thái Dương miếu vượng tại Điền Trạch:** càng **ỨNG NGHIỆM** — điền trạch dồi dào.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-dien-trach-hoa-loc',
+    title: 'Thiếu Dương + Hóa Lộc tại Điền Trạch - Trung vận an nhàn',
+    sao: ['Thiếu Dương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Hóa Lộc hội chiếu tại Điền Trạch:** từ **TRUNG VẬN trở đi** mới gây dựng được cơ ngơi **VỮNG VÀNG**, hậu vận **AN NHÀN**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-dien-trach-loc-ton',
+    title: 'Thiếu Dương + Lộc Tồn tại Điền Trạch - Trung vận an nhàn',
+    sao: ['Thiếu Dương'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Lộc Tồn'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Lộc Tồn hội chiếu tại Điền Trạch:** từ **TRUNG VẬN trở đi** mới gây dựng được cơ ngơi **VỮNG VÀNG**, hậu vận **AN NHÀN**.`,
   },
 
   {
@@ -291,20 +601,100 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
 - Lời nói có **SỨC LAN TỎA** → công việc hanh thông
 
 🌟 **Yếu tố LAN TỎA:** công việc có yếu tố **PHỔ CẬP RỘNG, LAN TỎA LỚN** — nhiều
-người **QUÝ MẾN, HÂM MỘ**.
+người **QUÝ MẾN, HÂM MỘ**.`,
+  },
 
-🌟 **+ Đào Hoa / Hồng Loan / Thiên Đồng:** dễ làm nghề về:
-- **LÀM ĐẸP**
-- **KIẾN TRÚC, THẨM MỸ**
-- Thiết kế thời trang, MC, người nổi tiếng
+  {
+    id: 'thieu-duong-tai-quan-loc-dao-hoa',
+    title: 'Thiếu Dương + Đào Hoa tại Quan Lộc - Nghề thẩm mỹ',
+    sao: ['Thiếu Dương'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Đào Hoa'],
+    doUuTien: 75,
+    tomTat: `🌟 **Thiếu Dương + Đào Hoa tại Quan Lộc:** dễ làm nghề về **LÀM ĐẸP, KIẾN TRÚC, THẨM MỸ**, thiết kế thời trang, MC, người nổi tiếng.`,
+  },
 
-🌟 **+ Thái Dương miếu vượng** = **ĐẮC CÁCH**:
-- Thêm **Hóa Quyền / Hóa Khoa / Hóa Lộc + Cát Tinh**: sự nghiệp **VỮNG VÀNG**
+  {
+    id: 'thieu-duong-tai-quan-loc-hong-loan',
+    title: 'Thiếu Dương + Hồng Loan tại Quan Lộc - Nghề thẩm mỹ',
+    sao: ['Thiếu Dương'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hồng Loan'],
+    doUuTien: 75,
+    tomTat: `🌟 **Thiếu Dương + Hồng Loan tại Quan Lộc:** dễ làm nghề về **LÀM ĐẸP, KIẾN TRÚC, THẨM MỸ**, thiết kế thời trang, MC, người nổi tiếng.`,
+  },
 
-⚠️ **+ Kiếp Sát / Hóa Kỵ / Thiên Hình:**
-- Công danh **TRẮC TRỞ**
-- Dễ lâm vào cảnh "**VẠN KIẾP BẤT PHỤC**"
-- Sự nghiệp nhiều phen **THĂNG TRẦM**, "**nay thịnh mai suy**"`,
+  {
+    id: 'thieu-duong-tai-quan-loc-thien-dong',
+    title: 'Thiếu Dương + Thiên Đồng tại Quan Lộc - Nghề thẩm mỹ',
+    sao: ['Thiếu Dương'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Đồng'],
+    doUuTien: 75,
+    tomTat: `🌟 **Thiếu Dương + Thiên Đồng tại Quan Lộc:** dễ làm nghề về **LÀM ĐẸP, KIẾN TRÚC, THẨM MỸ**, thiết kế thời trang, MC, người nổi tiếng.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-quan-loc-thai-duong-sang-quyen',
+    title: 'Thiếu Dương + Thái Dương sáng + Hóa Quyền tại Quan Lộc - Đắc cách',
+    sao: ['Thiếu Dương'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thái Dương', 'Hóa Quyền'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Thiếu Dương + Thái Dương miếu vượng + Hóa Quyền tại Quan Lộc:** ĐẮC CÁCH — sự nghiệp **VỮNG VÀNG**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-quan-loc-thai-duong-sang-khoa',
+    title: 'Thiếu Dương + Thái Dương sáng + Hóa Khoa tại Quan Lộc - Đắc cách',
+    sao: ['Thiếu Dương'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thái Dương', 'Hóa Khoa'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Thiếu Dương + Thái Dương miếu vượng + Hóa Khoa tại Quan Lộc:** ĐẮC CÁCH — sự nghiệp **VỮNG VÀNG**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-quan-loc-thai-duong-sang-loc',
+    title: 'Thiếu Dương + Thái Dương sáng + Hóa Lộc tại Quan Lộc - Đắc cách',
+    sao: ['Thiếu Dương'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thái Dương', 'Hóa Lộc'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Thiếu Dương + Thái Dương miếu vượng + Hóa Lộc tại Quan Lộc:** ĐẮC CÁCH — sự nghiệp **VỮNG VÀNG**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-quan-loc-kiep-sat',
+    title: '⚠️ Thiếu Dương + Kiếp Sát tại Quan Lộc - Công danh trắc trở',
+    sao: ['Thiếu Dương'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Kiếp Sát'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiếu Dương + Kiếp Sát tại Quan Lộc:** Công danh **TRẮC TRỞ** — dễ lâm vào cảnh "**VẠN KIẾP BẤT PHỤC**". Sự nghiệp nhiều phen **THĂNG TRẦM**, "**nay thịnh mai suy**".`,
+  },
+
+  {
+    id: 'thieu-duong-tai-quan-loc-hoa-ky',
+    title: '⚠️ Thiếu Dương + Hóa Kỵ tại Quan Lộc - Công danh trắc trở',
+    sao: ['Thiếu Dương'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiếu Dương + Hóa Kỵ tại Quan Lộc:** Công danh **TRẮC TRỞ** — dễ lâm vào cảnh "**VẠN KIẾP BẤT PHỤC**". Sự nghiệp nhiều phen **THĂNG TRẦM**, "**nay thịnh mai suy**".`,
+  },
+
+  {
+    id: 'thieu-duong-tai-quan-loc-thien-hinh',
+    title: '⚠️ Thiếu Dương + Thiên Hình tại Quan Lộc - Công danh trắc trở',
+    sao: ['Thiếu Dương'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiếu Dương + Thiên Hình tại Quan Lộc:** Công danh **TRẮC TRỞ** — dễ lâm vào cảnh "**VẠN KIẾP BẤT PHỤC**". Sự nghiệp nhiều phen **THĂNG TRẦM**, "**nay thịnh mai suy**".`,
   },
 
   {
@@ -316,16 +706,47 @@ người **QUÝ MẾN, HÂM MỘ**.
     tomTat: `🌟 **Thiếu Dương tại Nô Bộc:**
 - Bè bạn, người làm, người giúp việc **GIỎI GIANG, NHÂN HẬU**
 - Nhiều người là **NAM NHÂN**, **NỔI TIẾNG**
-- Bạn bè **CHĂM CHỈ, BIẾT LO TOAN**
+- Bạn bè **CHĂM CHỈ, BIẾT LO TOAN**`,
+  },
 
-⚠️ **+ Đào Hoa:**
-- Người dễ có **TÌNH NHÂN BÊN NGOÀI**
-- **HÔN NHÂN dễ DANG DỞ NHIỀU LẦN**
+  {
+    id: 'thieu-duong-tai-no-boc-dao-hoa',
+    title: '⚠️ Thiếu Dương + Đào Hoa tại Nô Bộc - Tình nhân bên ngoài',
+    sao: ['Thiếu Dương'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Đào Hoa'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thiếu Dương + Đào Hoa tại Nô Bộc:** người dễ có **TÌNH NHÂN BÊN NGOÀI**, **HÔN NHÂN dễ DANG DỞ NHIỀU LẦN**.`,
+  },
 
-⚠️ **+ Kiếp Sát / Hóa Kỵ / Thiên Hình:**
-- Bạn bè dễ rơi vào cảnh "**NHIỆT TÌNH CỘNG NGU DỐT THÀNH PHÁ HOẠI**"
-- Sự **GIÚP ĐỠ** từ người khác chẳng khác nào "**GẬY ÔNG ĐẬP LƯNG ÔNG**"
-- Lợi chưa thấy mà **HẠI ĐÃ CHẤT CHỒNG**`,
+  {
+    id: 'thieu-duong-tai-no-boc-kiep-sat',
+    title: '⚠️ Thiếu Dương + Kiếp Sát tại Nô Bộc - Bạn bè phá hoại',
+    sao: ['Thiếu Dương'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Kiếp Sát'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thiếu Dương + Kiếp Sát tại Nô Bộc:** Bạn bè dễ rơi vào cảnh "**NHIỆT TÌNH CỘNG NGU DỐT THÀNH PHÁ HOẠI**". Sự **GIÚP ĐỠ** từ người khác chẳng khác nào "**GẬY ÔNG ĐẬP LƯNG ÔNG**". Lợi chưa thấy mà **HẠI ĐÃ CHẤT CHỒNG**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-no-boc-hoa-ky',
+    title: '⚠️ Thiếu Dương + Hóa Kỵ tại Nô Bộc - Bạn bè phá hoại',
+    sao: ['Thiếu Dương'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thiếu Dương + Hóa Kỵ tại Nô Bộc:** Bạn bè dễ rơi vào cảnh "**NHIỆT TÌNH CỘNG NGU DỐT THÀNH PHÁ HOẠI**". Sự **GIÚP ĐỠ** từ người khác chẳng khác nào "**GẬY ÔNG ĐẬP LƯNG ÔNG**". Lợi chưa thấy mà **HẠI ĐÃ CHẤT CHỒNG**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-no-boc-thien-hinh',
+    title: '⚠️ Thiếu Dương + Thiên Hình tại Nô Bộc - Bạn bè phá hoại',
+    sao: ['Thiếu Dương'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thiếu Dương + Thiên Hình tại Nô Bộc:** Bạn bè dễ rơi vào cảnh "**NHIỆT TÌNH CỘNG NGU DỐT THÀNH PHÁ HOẠI**". Sự **GIÚP ĐỠ** từ người khác chẳng khác nào "**GẬY ÔNG ĐẬP LƯNG ÔNG**". Lợi chưa thấy mà **HẠI ĐÃ CHẤT CHỒNG**.`,
   },
 
   {
@@ -339,16 +760,60 @@ người **QUÝ MẾN, HÂM MỘ**.
   động bên ngoài nhiều
 - Ra ngoài **KHIÊM TỐN**, hay **GẶP QUÝ NHÂN GIÚP ĐỠ**
 - Cách cư xử **CỞI MỞ, LẠC QUAN** → dễ **TẠO CẢM TÌNH**
-- Người ra ngoài **HAY ĐI XA**
+- Người ra ngoài **HAY ĐI XA**`,
+  },
 
-🌟 **+ Đào Hoa / Hồng Loan:** ra ngoài **NỔI TIẾNG**, nhiều người khác giới
-**HÂM MỘ**.
+  {
+    id: 'thieu-duong-tai-thien-di-dao-hoa',
+    title: 'Thiếu Dương + Đào Hoa tại Thiên Di - Ra ngoài nổi tiếng',
+    sao: ['Thiếu Dương'],
+    cung: ['Thiên Di'],
+    ketHop: ['Đào Hoa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Đào Hoa tại Thiên Di:** ra ngoài **NỔI TIẾNG**, nhiều người khác giới **HÂM MỘ**.`,
+  },
 
-🌟 **+ Thái Dương miếu vượng + Hóa Lộc / Hóa Khoa / Hóa Quyền:** như "**HỔ MỌC
-THÊM CÁNH**":
-- **HỌC VẤN CAO**
-- **DANH TIẾNG NỔI TRỘI** trong lĩnh vực chuyên môn
-- Tốt cho **XUẤT NGOẠI, HỌC HÀNH**, mở rộng quan hệ xã hội`,
+  {
+    id: 'thieu-duong-tai-thien-di-hong-loan',
+    title: 'Thiếu Dương + Hồng Loan tại Thiên Di - Ra ngoài nổi tiếng',
+    sao: ['Thiếu Dương'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hồng Loan'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Hồng Loan tại Thiên Di:** ra ngoài **NỔI TIẾNG**, nhiều người khác giới **HÂM MỘ**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-thien-di-thai-duong-sang-loc',
+    title: 'Thiếu Dương + Thái Dương sáng + Hóa Lộc tại Thiên Di - Hổ mọc thêm cánh',
+    sao: ['Thiếu Dương'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thái Dương', 'Hóa Lộc'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thái Dương miếu vượng + Hóa Lộc tại Thiên Di:** như "**HỔ MỌC THÊM CÁNH**" — **HỌC VẤN CAO**, **DANH TIẾNG NỔI TRỘI** trong lĩnh vực chuyên môn. Tốt cho **XUẤT NGOẠI, HỌC HÀNH**, mở rộng quan hệ xã hội.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-thien-di-thai-duong-sang-khoa',
+    title: 'Thiếu Dương + Thái Dương sáng + Hóa Khoa tại Thiên Di - Hổ mọc thêm cánh',
+    sao: ['Thiếu Dương'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thái Dương', 'Hóa Khoa'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thái Dương miếu vượng + Hóa Khoa tại Thiên Di:** như "**HỔ MỌC THÊM CÁNH**" — **HỌC VẤN CAO**, **DANH TIẾNG NỔI TRỘI** trong lĩnh vực chuyên môn. Tốt cho **XUẤT NGOẠI, HỌC HÀNH**, mở rộng quan hệ xã hội.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-thien-di-thai-duong-sang-quyen',
+    title: 'Thiếu Dương + Thái Dương sáng + Hóa Quyền tại Thiên Di - Hổ mọc thêm cánh',
+    sao: ['Thiếu Dương'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thái Dương', 'Hóa Quyền'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thái Dương miếu vượng + Hóa Quyền tại Thiên Di:** như "**HỔ MỌC THÊM CÁNH**" — **HỌC VẤN CAO**, **DANH TIẾNG NỔI TRỘI** trong lĩnh vực chuyên môn. Tốt cho **XUẤT NGOẠI, HỌC HÀNH**, mở rộng quan hệ xã hội.`,
   },
 
   {

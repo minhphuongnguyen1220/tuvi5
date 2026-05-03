@@ -117,17 +117,139 @@ gặp sát hay ám tinh).`,
 - Có **quan chức**, có **danh thơm tiếng tốt**
 - **Văn tài xuất chúng** — đặc biệt **tài MÔ PHẠM, khả năng giáo khoa, năng
   khiếu lý thuyết gia**
-- Thường có **NGHỀ VĂN HÓA**: dạy học, khảo cứu, viết văn
+- Thường có **NGHỀ VĂN HÓA**: dạy học, khảo cứu, viết văn`,
+  },
 
-🌟 **+ Khôi Việt / Xương Khúc / Nhật Nguyệt sáng:** tài năng càng phát triển.
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-thien-khoi',
+    title: 'Hóa Khoa + Thiên Khôi tại Mệnh - Tài năng phát triển',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Thiên Khôi tại Mệnh:** tài năng càng phát triển, công danh thuận lợi.`,
+  },
 
-⚠️ **+ Sát tinh:** không đỗ cao hoặc **chậm khoa bảng** — nhưng KHÔNG mất tư
-chất thông minh, năng tài văn hóa.
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-thien-viet',
+    title: 'Hóa Khoa + Thiên Việt tại Mệnh - Tài năng phát triển',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Thiên Việt tại Mệnh:** tài năng càng phát triển, công danh thuận lợi.`,
+  },
 
-**Quy tắc kết hợp:**
-- **+ Văn tinh** → **hiển đạt**
-- **+ Quý tinh** → **có danh**
-- **+ Tài tinh** → **có lộc** ngoài đời nhiều hơn`,
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-van-xuong',
+    title: 'Hóa Khoa + Văn Xương tại Mệnh - Tài năng phát triển',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Văn Xương tại Mệnh:** tài năng càng phát triển, văn tài xuất chúng.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-van-khuc',
+    title: 'Hóa Khoa + Văn Khúc tại Mệnh - Tài năng phát triển',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Văn Khúc tại Mệnh:** tài năng càng phát triển, văn tài xuất chúng.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-thai-duong',
+    title: 'Hóa Khoa + Thái Dương sáng tại Mệnh - Tài năng phát triển',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Thái Dương'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Thái Dương (sáng) tại Mệnh:** tài năng càng phát triển, công danh hiển đạt.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-thai-am',
+    title: 'Hóa Khoa + Thái Âm sáng tại Mệnh - Tài năng phát triển',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Thái Âm'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Thái Âm (sáng) tại Mệnh:** tài năng càng phát triển, công danh hiển đạt.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-sat-tinh',
+    title: '⚠️ Hóa Khoa + Sát tinh tại Mệnh - Chậm khoa bảng',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hóa Khoa + Sát tinh tại Mệnh:** không đỗ cao hoặc **chậm khoa bảng** — nhưng KHÔNG mất tư chất thông minh, năng tài văn hóa.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-van-tinh',
+    title: 'Hóa Khoa + Văn tinh tại Mệnh - Hiển đạt',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Lưu Niên Văn Tinh', 'Hóa Khoa'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Văn tinh tại Mệnh:** **hiển đạt** trên đường công danh, văn tài xuất chúng.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-quy-tinh-thien-khoi',
+    title: 'Hóa Khoa + Quý tinh (Thiên Khôi) tại Mệnh - Có danh',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Thiên Khôi tại Mệnh:** **có danh**, được quý nhân nâng đỡ.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-quy-tinh-thien-viet',
+    title: 'Hóa Khoa + Quý tinh (Thiên Việt) tại Mệnh - Có danh',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Thiên Việt tại Mệnh:** **có danh**, được quý nhân nâng đỡ.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-tai-tinh-vu-khuc',
+    title: 'Hóa Khoa + Tài tinh (Vũ Khúc) tại Mệnh - Có lộc',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Vũ Khúc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Vũ Khúc tại Mệnh:** **có lộc** ngoài đời nhiều hơn.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-tai-tinh-loc-ton',
+    title: 'Hóa Khoa + Tài tinh (Lộc Tồn) tại Mệnh - Có lộc',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Lộc Tồn'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Lộc Tồn tại Mệnh:** **có lộc** ngoài đời nhiều hơn.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-cong-danh-tai-tinh-hoa-loc',
+    title: 'Hóa Khoa + Tài tinh (Hóa Lộc) tại Mệnh - Có lộc',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Hóa Lộc tại Mệnh:** **có lộc** ngoài đời nhiều hơn.`,
   },
 
   // ============================================================
@@ -137,43 +259,146 @@ chất thông minh, năng tài văn hóa.
     id: 'hoa-khoa-bo-sao-tot',
     title: 'Hóa Khoa - Bộ sao TỐT',
     sao: ['Hóa Khoa'],
+    cung: ['Mệnh', 'Tài Bạch', 'Quan Lộc'],
+    ketHop: ['Hóa Lộc', 'Hóa Quyền'],
     doUuTien: 55,
-    tomTat: `**Bộ sao tốt của Hóa Khoa:**
-
-🌟 **Tam Hóa Liên Châu** (Khoa + Quyền + Lộc) tại Mệnh / Tài / Quan: **QUÝ CÁCH,
-phúc lớn**, công danh vinh hiển. ⚠️ Tuổi **Canh, Tân** làm to mà yểu.
-
-🌟 **+ Tả Hữu lai triều** (Tam Hóa củng Mệnh): làm tới **CÔNG KHANH**.
-
-🌟 **+ Hóa Lộc trùng nhiêu ư Mệnh:** **phụ tử văn chương cái thế** (cha con đều
-văn chương xuất chúng).
-
-🌟 **+ Hóa Kỵ tại Tý cư Mệnh:** **NGÔN LÀNH DANH THUẬN**.
-
-🌟 **+ Văn Xương / Văn Khúc:** **đỗ sớm**.
-
-🌟 **+ Lộc Tồn tại Hợi / Dần / Thân:** **DANH VỊ OANH LIỆT**.
+    tomTat: `🌟 **Tam Hóa Liên Châu** (Khoa + Quyền + Lộc) tại Mệnh / Tài / Quan: **QUÝ CÁCH, phúc lớn**, công danh vinh hiển. ⚠️ Tuổi **Canh, Tân** làm to mà yểu.
 
 🌟 **Hóa Khoa độc thủ + Khôi Việt + Thiên Hỷ:** **dễ thành công** trong việc làm.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-tot-ta-huu-tam-hoa',
+    title: 'Hóa Khoa + Tả Hữu lai triều (Tam Hóa củng Mệnh) - Công khanh',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Hóa Lộc', 'Hóa Quyền'],
+    doUuTien: 50,
+    tomTat: `🌟 **Hóa Khoa + Tả Hữu lai triều (Tam Hóa củng Mệnh):** làm tới **CÔNG KHANH**.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-tot-hoa-loc-trung-nhieu',
+    title: 'Hóa Khoa + Hóa Lộc trùng nhiêu tại Mệnh - Phụ tử văn chương cái thế',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 50,
+    tomTat: `🌟 **Hóa Khoa + Hóa Lộc trùng nhiêu ư Mệnh:** **phụ tử văn chương cái thế** (cha con đều văn chương xuất chúng).`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-tot-hoa-ky-ty',
+    title: 'Hóa Khoa + Hóa Kỵ tại Tý cư Mệnh - Ngôn lành danh thuận',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    chi: ['Tý'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 50,
+    tomTat: `🌟 **Hóa Khoa + Hóa Kỵ tại Tý cư Mệnh:** **NGÔN LÀNH DANH THUẬN**.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-tot-van-xuong',
+    title: 'Hóa Khoa + Văn Xương - Đỗ sớm',
+    sao: ['Hóa Khoa'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 50,
+    tomTat: `🌟 **Hóa Khoa + Văn Xương:** **đỗ sớm**.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-tot-van-khuc',
+    title: 'Hóa Khoa + Văn Khúc - Đỗ sớm',
+    sao: ['Hóa Khoa'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 50,
+    tomTat: `🌟 **Hóa Khoa + Văn Khúc:** **đỗ sớm**.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-tot-loc-ton-hoi-dan-than',
+    title: 'Hóa Khoa + Lộc Tồn tại Hợi/Dần/Thân - Danh vị oanh liệt',
+    sao: ['Hóa Khoa'],
+    chi: ['Hợi', 'Dần', 'Thân'],
+    ketHop: ['Lộc Tồn'],
+    doUuTien: 50,
+    tomTat: `🌟 **Hóa Khoa + Lộc Tồn tại Hợi / Dần / Thân:** **DANH VỊ OANH LIỆT**.`,
   },
 
   // ============================================================
   // 6. Bộ sao XẤU của Hóa Khoa
   // ============================================================
   {
-    id: 'hoa-khoa-bo-sao-xau',
-    title: '⚠️ Hóa Khoa - Bộ sao XẤU',
+    id: 'hoa-khoa-bo-sao-xau-dia-khong',
+    title: '⚠️ Hóa Khoa + Địa Không - Không làm nên',
     sao: ['Hóa Khoa'],
-    doUuTien: 55,
-    tomTat: `⚠️ **Bộ sao xấu của Hóa Khoa:**
+    ketHop: ['Địa Không'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Khoa + Địa Không:** **không làm nên**, nhưng vẫn là **danh sĩ**, làm thầy người ta.`,
+  },
 
-- **+ Không Kiếp:** **không làm nên**, nhưng vẫn là **danh sĩ**, làm thầy người
-  ta
-- **+ Tuần / Triệt:** **một bước nên quan nhưng không bền**
-- **+ Kình Đà / Hỏa Linh / Không Kiếp:** thị phi, ganh ghét, **tổn hại danh
-  tiếng**, công danh trắc trở, thi cử lận đận
-- **+ Hóa Kỵ / Địa Kiếp / Linh Tinh:** dễ gặp **tranh luận, thị phi, phản bác**
-  dù lời nói đúng lý → cần tiết chế cầu toàn trong phát ngôn / viết lách`,
+  {
+    id: 'hoa-khoa-bo-sao-xau-dia-kiep',
+    title: '⚠️ Hóa Khoa + Địa Kiếp - Không làm nên',
+    sao: ['Hóa Khoa'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Khoa + Địa Kiếp:** **không làm nên**, nhưng vẫn là **danh sĩ**, làm thầy người ta.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-xau-tuan',
+    title: '⚠️ Hóa Khoa + Tuần - Một bước nên quan nhưng không bền',
+    sao: ['Hóa Khoa'],
+    ketHop: ['Tuần'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Khoa + Tuần:** **một bước nên quan nhưng không bền**.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-xau-triet',
+    title: '⚠️ Hóa Khoa + Triệt - Một bước nên quan nhưng không bền',
+    sao: ['Hóa Khoa'],
+    ketHop: ['Triệt'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Khoa + Triệt:** **một bước nên quan nhưng không bền**.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-xau-luc-sat',
+    title: '⚠️ Hóa Khoa + Lục Sát - Tổn hại danh tiếng',
+    sao: ['Hóa Khoa'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Khoa + Kình Đà / Hỏa Linh / Không Kiếp:** thị phi, ganh ghét, **tổn hại danh tiếng**, công danh trắc trở, thi cử lận đận.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-xau-hoa-ky',
+    title: '⚠️ Hóa Khoa + Hóa Kỵ - Tranh luận thị phi',
+    sao: ['Hóa Khoa'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Khoa + Hóa Kỵ:** dễ gặp **tranh luận, thị phi, phản bác** dù lời nói đúng lý → cần tiết chế cầu toàn trong phát ngôn / viết lách.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-xau-dia-kiep-tranh-luan',
+    title: '⚠️ Hóa Khoa + Địa Kiếp - Tranh luận thị phi',
+    sao: ['Hóa Khoa'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 49,
+    tomTat: `⚠️ **Hóa Khoa + Địa Kiếp:** dễ gặp **tranh luận, thị phi, phản bác** dù lời nói đúng lý → cần tiết chế cầu toàn trong phát ngôn / viết lách.`,
+  },
+
+  {
+    id: 'hoa-khoa-bo-sao-xau-linh-tinh',
+    title: '⚠️ Hóa Khoa + Linh Tinh - Tranh luận thị phi',
+    sao: ['Hóa Khoa'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Khoa + Linh Tinh:** dễ gặp **tranh luận, thị phi, phản bác** dù lời nói đúng lý → cần tiết chế cầu toàn trong phát ngôn / viết lách.`,
   },
 
   // ============================================================
@@ -190,16 +415,48 @@ văn chương xuất chúng).
 Cha mẹ là **người học cao, biết dạy con**, lấy **giáo dục làm gốc**. Gia đình
 **nề nếp, trọng chữ tín, danh thơm**.
 
-🌟 **+ Văn Khúc / Văn Xương:** dòng họ **coi trọng giáo dục**, con kế thừa **nền
-tảng tri thức vững vàng**.
-
-🌟 **+ Thiên Khôi:** **giàu lớn**. (Coi mồ mả → Hóa Khoa chủ ngôi **dương phần**.)
-
 ⚠️ **Hãm địa:** cha mẹ có tài nhưng **duyên phận cách trở, tình cảm lạnh nhạt**.
-Tư tưởng cao **khó gần** hoặc **áp đặt lý tưởng** khiến con mệt mỏi.
+Tư tưởng cao **khó gần** hoặc **áp đặt lý tưởng** khiến con mệt mỏi.`,
+  },
 
-⚠️ **+ Sát tinh:** cha mẹ có trí tuệ cao nhưng **đoản thọ / bất trắc / ly tán**,
-**danh tiếng tổn hại**.`,
+  {
+    id: 'hoa-khoa-tai-phu-mau-van-khuc',
+    title: 'Hóa Khoa + Văn Khúc tại Phụ Mẫu - Dòng họ coi trọng giáo dục',
+    sao: ['Hóa Khoa'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Văn Khúc tại Phụ Mẫu:** dòng họ **coi trọng giáo dục**, con kế thừa **nền tảng tri thức vững vàng**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phu-mau-van-xuong',
+    title: 'Hóa Khoa + Văn Xương tại Phụ Mẫu - Dòng họ coi trọng giáo dục',
+    sao: ['Hóa Khoa'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Văn Xương tại Phụ Mẫu:** dòng họ **coi trọng giáo dục**, con kế thừa **nền tảng tri thức vững vàng**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phu-mau-thien-khoi',
+    title: 'Hóa Khoa + Thiên Khôi tại Phụ Mẫu - Giàu lớn',
+    sao: ['Hóa Khoa'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Thiên Khôi tại Phụ Mẫu:** **giàu lớn**. (Coi mồ mả → Hóa Khoa chủ ngôi **dương phần**.)`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phu-mau-sat-tinh',
+    title: '⚠️ Hóa Khoa + Sát tinh tại Phụ Mẫu - Cha mẹ đoản thọ',
+    sao: ['Hóa Khoa'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Khoa + Sát tinh tại Phụ Mẫu:** cha mẹ có trí tuệ cao nhưng **đoản thọ / bất trắc / ly tán**, **danh tiếng tổn hại**.`,
   },
 
   // ============================================================
@@ -214,12 +471,47 @@ Tư tưởng cao **khó gần** hoặc **áp đặt lý tưởng** khiến con m
     tomTat: `🌟 **Hóa Khoa tại Phúc Đức:** **phúc ấm từ dòng họ**, được tổ tiên
 **che chở**.
 
-🌟 **+ Hóa Quyền + Văn Xương + Văn Khúc:** **giòng dõi văn gia**.
-🌟 **+ Văn Xương + Văn Khúc:** **đỗ lớn**.
-🌟 **+ Hóa Lộc:** **THỌ**.
-🌟 **+ Vũ Khúc + Tham Lang:** **PHÁT ANH HÙNG**.
-
 (Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phuc-duc-quyen-xuong-khuc',
+    title: 'Hóa Khoa + Hóa Quyền + Văn Xương + Văn Khúc tại Phúc Đức - Giòng dõi văn gia',
+    sao: ['Hóa Khoa'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hóa Quyền', 'Văn Xương', 'Văn Khúc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Hóa Quyền + Văn Xương + Văn Khúc tại Phúc Đức:** **giòng dõi văn gia**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phuc-duc-xuong-khuc',
+    title: 'Hóa Khoa + Văn Xương + Văn Khúc tại Phúc Đức - Đỗ lớn',
+    sao: ['Hóa Khoa'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Văn Xương', 'Văn Khúc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Văn Xương + Văn Khúc tại Phúc Đức:** **đỗ lớn**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phuc-duc-hoa-loc',
+    title: 'Hóa Khoa + Hóa Lộc tại Phúc Đức - Thọ',
+    sao: ['Hóa Khoa'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Hóa Lộc tại Phúc Đức:** **THỌ**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phuc-duc-vu-tham',
+    title: 'Hóa Khoa + Vũ Khúc + Tham Lang tại Phúc Đức - Phát anh hùng',
+    sao: ['Hóa Khoa'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Vũ Khúc', 'Tham Lang'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Vũ Khúc + Tham Lang tại Phúc Đức:** **PHÁT ANH HÙNG**.`,
   },
 
   {
@@ -246,8 +538,18 @@ Tư tưởng cao **khó gần** hoặc **áp đặt lý tưởng** khiến con m
     tomTat: `⚠️ **Hóa Khoa Hãm địa tại Phúc Đức:**
 
 - Sống nặng lý tưởng, **thiếu thực tế, dễ cô lập**
-- Tổ tiên có danh nhưng **không đủ lực phù trợ**, **phúc mỏng dần**
-- **+ Sát tinh / Không Kiếp:** danh tiếng tổ tiên dễ **bôi nhọ / mai một**`,
+- Tổ tiên có danh nhưng **không đủ lực phù trợ**, **phúc mỏng dần**`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phuc-duc-ham-luc-sat',
+    title: '⚠️ Hóa Khoa Hãm + Lục Sát tại Phúc Đức - Danh tiếng tổ tiên mai một',
+    sao: ['Hóa Khoa'],
+    cung: ['Phúc Đức'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Hóa Khoa Hãm + Sát tinh / Không Kiếp tại Phúc Đức:** danh tiếng tổ tiên dễ **bôi nhọ / mai một**.`,
   },
 
   // ============================================================
@@ -263,13 +565,98 @@ Tư tưởng cao **khó gần** hoặc **áp đặt lý tưởng** khiến con m
 tiếng** mang lại. **Khang trang**, gắn liền môi trường **giáo dục, văn hóa cao**.
 "An cư lạc nghiệp", gia đạo yên ổn, **nề nếp lễ nghĩa**.
 
-🌟 **+ Tam Hóa:** **ruộng vườn tiền của nhiều**.
-🌟 **+ Vũ Khúc / Thiên Tướng / Thiên Lương / Tả Hữu:** **điền tài vượng phát**.
-🌟 **+ Thiên Khôi / Văn Xương / Văn Khúc:** dễ mua nhà, sớm có bất động sản nhờ
-**tài học hoặc nghề tri thức**.
-
 ⚠️ **Hãm địa:** nhà đẹp nhưng **không khí lạnh nhạt, thiếu kết nối cảm xúc**.
 Chốn cư ngụ **khó ổn định lâu dài**, nay đây mai đó.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-dien-trach-tam-hoa',
+    title: 'Hóa Khoa + Tam Hóa tại Điền Trạch - Ruộng vườn tiền của nhiều',
+    sao: ['Hóa Khoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Tam Hóa tại Điền Trạch:** **ruộng vườn tiền của nhiều**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-dien-trach-vu-khuc',
+    title: 'Hóa Khoa + Vũ Khúc tại Điền Trạch - Điền tài vượng phát',
+    sao: ['Hóa Khoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Vũ Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Vũ Khúc tại Điền Trạch:** **điền tài vượng phát**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-dien-trach-thien-tuong',
+    title: 'Hóa Khoa + Thiên Tướng tại Điền Trạch - Điền tài vượng phát',
+    sao: ['Hóa Khoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Tướng'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Thiên Tướng tại Điền Trạch:** **điền tài vượng phát**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-dien-trach-thien-luong',
+    title: 'Hóa Khoa + Thiên Lương tại Điền Trạch - Điền tài vượng phát',
+    sao: ['Hóa Khoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Lương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Thiên Lương tại Điền Trạch:** **điền tài vượng phát**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-dien-trach-ta-phu',
+    title: 'Hóa Khoa + Tả Phù tại Điền Trạch - Điền tài vượng phát',
+    sao: ['Hóa Khoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Tả Phù tại Điền Trạch:** **điền tài vượng phát**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-dien-trach-huu-bat',
+    title: 'Hóa Khoa + Hữu Bật tại Điền Trạch - Điền tài vượng phát',
+    sao: ['Hóa Khoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Hữu Bật tại Điền Trạch:** **điền tài vượng phát**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-dien-trach-thien-khoi',
+    title: 'Hóa Khoa + Thiên Khôi tại Điền Trạch - Sớm có bất động sản',
+    sao: ['Hóa Khoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Thiên Khôi tại Điền Trạch:** dễ mua nhà, sớm có bất động sản nhờ **tài học hoặc nghề tri thức**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-dien-trach-van-xuong',
+    title: 'Hóa Khoa + Văn Xương tại Điền Trạch - Sớm có bất động sản',
+    sao: ['Hóa Khoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Văn Xương tại Điền Trạch:** dễ mua nhà, sớm có bất động sản nhờ **tài học hoặc nghề tri thức**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-dien-trach-van-khuc',
+    title: 'Hóa Khoa + Văn Khúc tại Điền Trạch - Sớm có bất động sản',
+    sao: ['Hóa Khoa'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Văn Khúc tại Điền Trạch:** dễ mua nhà, sớm có bất động sản nhờ **tài học hoặc nghề tri thức**.`,
   },
 
   // ============================================================
@@ -287,15 +674,80 @@ vấn, hiểu biết**. **Trọng tri thức**, dễ **đỗ đạt**, có **dan
 
 Phù hợp công việc liên quan **lý luận, quản lý, giảng huấn, nghiên cứu**.
 
-🌟 **+ Hóa Quyền + Tử Vi / Thiên Phủ + Vũ Khúc / Thiên Mã:** **hiển vinh**.
-
 (Xem entry chuyên biệt cho cách Tam Hóa + Tả Hữu + Phá Quân tại Tý/Ngọ.)
 
 ⚠️ **Hãm địa:** sự nghiệp "**lên thác xuống ghềnh**" do **lý tưởng hóa nghề
-nghiệp**. Học nhiều nhưng **khó chuyển hóa thành kết quả thực tế**.
+nghiệp**. Học nhiều nhưng **khó chuyển hóa thành kết quả thực tế**.`,
+  },
 
-⚠️ **+ Không Kiếp / Hóa Kỵ:** đề phòng **tai tiếng do lời nói, tranh luận học
-thuật**, vướng **vụ việc pháp lý** trong nghề.`,
+  {
+    id: 'hoa-khoa-tai-quan-loc-quyen-tu-vi-vu-khuc',
+    title: 'Hóa Khoa + Hóa Quyền + Tử Vi + Vũ Khúc tại Quan Lộc - Hiển vinh',
+    sao: ['Hóa Khoa'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Quyền', 'Tử Vi', 'Vũ Khúc'],
+    doUuTien: 77,
+    tomTat: `🌟 **Hóa Khoa + Hóa Quyền + Tử Vi + Vũ Khúc tại Quan Lộc:** **hiển vinh**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-quan-loc-quyen-tu-vi-thien-ma',
+    title: 'Hóa Khoa + Hóa Quyền + Tử Vi + Thiên Mã tại Quan Lộc - Hiển vinh',
+    sao: ['Hóa Khoa'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Quyền', 'Tử Vi', 'Thiên Mã'],
+    doUuTien: 77,
+    tomTat: `🌟 **Hóa Khoa + Hóa Quyền + Tử Vi + Thiên Mã tại Quan Lộc:** **hiển vinh**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-quan-loc-quyen-thien-phu-vu-khuc',
+    title: 'Hóa Khoa + Hóa Quyền + Thiên Phủ + Vũ Khúc tại Quan Lộc - Hiển vinh',
+    sao: ['Hóa Khoa'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Quyền', 'Thiên Phủ', 'Vũ Khúc'],
+    doUuTien: 77,
+    tomTat: `🌟 **Hóa Khoa + Hóa Quyền + Thiên Phủ + Vũ Khúc tại Quan Lộc:** **hiển vinh**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-quan-loc-quyen-thien-phu-thien-ma',
+    title: 'Hóa Khoa + Hóa Quyền + Thiên Phủ + Thiên Mã tại Quan Lộc - Hiển vinh',
+    sao: ['Hóa Khoa'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Quyền', 'Thiên Phủ', 'Thiên Mã'],
+    doUuTien: 77,
+    tomTat: `🌟 **Hóa Khoa + Hóa Quyền + Thiên Phủ + Thiên Mã tại Quan Lộc:** **hiển vinh**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-quan-loc-dia-khong',
+    title: '⚠️ Hóa Khoa + Địa Không tại Quan Lộc - Tai tiếng',
+    sao: ['Hóa Khoa'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Địa Không'],
+    doUuTien: 77,
+    tomTat: `⚠️ **Hóa Khoa + Địa Không tại Quan Lộc:** đề phòng **tai tiếng do lời nói, tranh luận học thuật**, vướng **vụ việc pháp lý** trong nghề.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-quan-loc-dia-kiep',
+    title: '⚠️ Hóa Khoa + Địa Kiếp tại Quan Lộc - Tai tiếng',
+    sao: ['Hóa Khoa'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 77,
+    tomTat: `⚠️ **Hóa Khoa + Địa Kiếp tại Quan Lộc:** đề phòng **tai tiếng do lời nói, tranh luận học thuật**, vướng **vụ việc pháp lý** trong nghề.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-quan-loc-hoa-ky',
+    title: '⚠️ Hóa Khoa + Hóa Kỵ tại Quan Lộc - Tai tiếng',
+    sao: ['Hóa Khoa'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 77,
+    tomTat: `⚠️ **Hóa Khoa + Hóa Kỵ tại Quan Lộc:** đề phòng **tai tiếng do lời nói, tranh luận học thuật**, vướng **vụ việc pháp lý** trong nghề.`,
   },
 
   {
@@ -324,9 +776,17 @@ quan lộ.`,
     doUuTien: 75,
     tomTat: `**Hóa Khoa tại Nô Bộc** — bạn bè quanh đương số mang **tính tri thức**.
 
-🌟 **+ Tam Hóa:** **nhiều người giúp đỡ đắc lực, làm nên**.
-
 (Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-no-boc-tam-hoa',
+    title: 'Hóa Khoa + Tam Hóa tại Nô Bộc - Nhiều người giúp đỡ',
+    sao: ['Hóa Khoa'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Tam Hóa tại Nô Bộc:** **nhiều người giúp đỡ đắc lực, làm nên**.`,
   },
 
   {
@@ -373,14 +833,78 @@ tượng có tri thức**.
 Dễ **trọng dụng** trong **giáo dục, chính trị, pháp luật** hoặc lĩnh vực yêu
 cầu học vấn. Đi xa học hành / công tác **kết quả tốt**, gặp **người nâng đỡ**.
 
-🌟 **+ Hóa Quyền:** **đi ra có tài lợi, người ta quý nể**.
-🌟 **+ Hóa Quyền + Tả Hữu + Khôi Việt** hoặc **+ Khôi Việt + Nhật Nguyệt + Tử Phủ:**
-**đi ra làm nên lớn**, gặp quý nhân tín nhiệm.
-🌟 **+ Tam Hóa:** **quyền binh, giàu sang**.
-
 ⚠️ **Hãm địa:** thường **nói lý thuyết**, thiếu thực tế → người khác khó gần. Đi
-xa **tĩnh tại nhưng ít sinh khí** — có lợi học tập nhưng tài lộc chậm. **+ Hóa
-Kỵ / Địa Kiếp / Linh Tinh:** **tranh luận, thị phi, phản bác** dù đúng lý.`,
+xa **tĩnh tại nhưng ít sinh khí** — có lợi học tập nhưng tài lộc chậm.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-thien-di-hoa-quyen',
+    title: 'Hóa Khoa + Hóa Quyền tại Thiên Di - Đi ra có tài lợi',
+    sao: ['Hóa Khoa'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Quyền'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Hóa Quyền tại Thiên Di:** **đi ra có tài lợi, người ta quý nể**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-thien-di-quyen-ta-huu-khoi-viet',
+    title: 'Hóa Khoa + Hóa Quyền + Tả Hữu + Khôi Việt tại Thiên Di - Đi ra làm nên lớn',
+    sao: ['Hóa Khoa'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Quyền', 'Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Hóa Quyền + Tả Hữu + Khôi Việt tại Thiên Di:** **đi ra làm nên lớn**, gặp quý nhân tín nhiệm.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-thien-di-khoi-viet-nhat-nguyet-tu-phu',
+    title: 'Hóa Khoa + Khôi Việt + Nhật Nguyệt + Tử Phủ tại Thiên Di - Đi ra làm nên lớn',
+    sao: ['Hóa Khoa'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt', 'Thái Dương', 'Thái Âm', 'Tử Vi', 'Thiên Phủ'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Khôi Việt + Nhật Nguyệt + Tử Phủ tại Thiên Di:** **đi ra làm nên lớn**, gặp quý nhân tín nhiệm.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-thien-di-tam-hoa',
+    title: 'Hóa Khoa + Tam Hóa tại Thiên Di - Quyền binh giàu sang',
+    sao: ['Hóa Khoa'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Tam Hóa tại Thiên Di:** **quyền binh, giàu sang**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-thien-di-hoa-ky',
+    title: '⚠️ Hóa Khoa + Hóa Kỵ tại Thiên Di - Tranh luận thị phi',
+    sao: ['Hóa Khoa'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa + Hóa Kỵ tại Thiên Di:** **tranh luận, thị phi, phản bác** dù đúng lý.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-thien-di-dia-kiep',
+    title: '⚠️ Hóa Khoa + Địa Kiếp tại Thiên Di - Tranh luận thị phi',
+    sao: ['Hóa Khoa'],
+    cung: ['Thiên Di'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa + Địa Kiếp tại Thiên Di:** **tranh luận, thị phi, phản bác** dù đúng lý.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-thien-di-linh-tinh',
+    title: '⚠️ Hóa Khoa + Linh Tinh tại Thiên Di - Tranh luận thị phi',
+    sao: ['Hóa Khoa'],
+    cung: ['Thiên Di'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa + Linh Tinh tại Thiên Di:** **tranh luận, thị phi, phản bác** dù đúng lý.`,
   },
 
   // ============================================================
@@ -400,11 +924,29 @@ hiểu biết**; trị bệnh bằng **lý luận, khoa học, y học chính qu
 **Ít mắc bệnh trầm trọng** — nếu có thì **phát hiện sớm, điều trị hợp lý, dễ
 hồi phục**. Tâm lý **ổn định, ít lo âu cực đoan**, giữ bình tĩnh.
 
-🌟 **+ Tam Hóa** hoặc **+ Tả Hữu + Tử Phủ:** **ốm gặp thuốc, tai nạn gặp người cứu**.
-
 ⚠️ **Hãm địa:** dễ mắc **bệnh hệ thần kinh, suy nghĩ quá mức, lo âu** do lý trí
 vận động quá nhiều. **Phân tích bệnh quá chi tiết** → **tâm bệnh hoặc loạn
 tưởng**, thiếu cân bằng tâm-thân-trí.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tat-ach-tam-hoa',
+    title: 'Hóa Khoa + Tam Hóa tại Tật Ách - Ốm gặp thuốc',
+    sao: ['Hóa Khoa'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Tam Hóa tại Tật Ách:** **ốm gặp thuốc, tai nạn gặp người cứu**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tat-ach-ta-huu-tu-phu',
+    title: 'Hóa Khoa + Tả Hữu + Tử Phủ tại Tật Ách - Ốm gặp thuốc',
+    sao: ['Hóa Khoa'],
+    cung: ['Tật Ách'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Tử Vi', 'Thiên Phủ'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hóa Khoa + Tả Hữu + Tử Phủ tại Tật Ách:** **ốm gặp thuốc, tai nạn gặp người cứu**.`,
   },
 
   // ============================================================
@@ -418,15 +960,87 @@ tưởng**, thiếu cân bằng tâm-thân-trí.`,
     doUuTien: 78,
     tomTat: `**Hóa Khoa tại Tài Bạch** — tài lộc gắn với **chất xám, học vấn**.
 
-🌟 **+ Văn Khúc / Khôi Việt:** lợi từ **học bổng, bản quyền, công trình nghiên
-cứu, dạy học, viết sách, tư vấn chuyên môn**.
-
-🌟 **+ Tam Hóa** hoặc **+ Vũ + Tướng + Lương + Tả Hữu:** **điền tài vượng phát**.
-
-⚠️ **+ Hóa Kỵ / Kình Đà:** tài lộc **trì hoãn** → tránh **bảo thủ về quan điểm
-tài chính**.
-
 (Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tai-bach-van-khuc',
+    title: 'Hóa Khoa + Văn Khúc tại Tài Bạch - Lợi từ chất xám',
+    sao: ['Hóa Khoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Văn Khúc tại Tài Bạch:** lợi từ **học bổng, bản quyền, công trình nghiên cứu, dạy học, viết sách, tư vấn chuyên môn**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tai-bach-thien-khoi',
+    title: 'Hóa Khoa + Thiên Khôi tại Tài Bạch - Lợi từ chất xám',
+    sao: ['Hóa Khoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Thiên Khôi tại Tài Bạch:** lợi từ **học bổng, bản quyền, công trình nghiên cứu, dạy học, viết sách, tư vấn chuyên môn**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tai-bach-thien-viet',
+    title: 'Hóa Khoa + Thiên Việt tại Tài Bạch - Lợi từ chất xám',
+    sao: ['Hóa Khoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Thiên Việt tại Tài Bạch:** lợi từ **học bổng, bản quyền, công trình nghiên cứu, dạy học, viết sách, tư vấn chuyên môn**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tai-bach-tam-hoa',
+    title: 'Hóa Khoa + Tam Hóa tại Tài Bạch - Điền tài vượng phát',
+    sao: ['Hóa Khoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Tam Hóa tại Tài Bạch:** **điền tài vượng phát**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tai-bach-vu-tuong-luong-ta-huu',
+    title: 'Hóa Khoa + Vũ + Tướng + Lương + Tả Hữu tại Tài Bạch - Điền tài vượng phát',
+    sao: ['Hóa Khoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Vũ Khúc', 'Thiên Tướng', 'Thiên Lương', 'Tả Phù', 'Hữu Bật'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Vũ + Tướng + Lương + Tả Hữu tại Tài Bạch:** **điền tài vượng phát**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tai-bach-hoa-ky',
+    title: '⚠️ Hóa Khoa + Hóa Kỵ tại Tài Bạch - Tài lộc trì hoãn',
+    sao: ['Hóa Khoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa + Hóa Kỵ tại Tài Bạch:** tài lộc **trì hoãn** → tránh **bảo thủ về quan điểm tài chính**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tai-bach-kinh-duong',
+    title: '⚠️ Hóa Khoa + Kình Dương tại Tài Bạch - Tài lộc trì hoãn',
+    sao: ['Hóa Khoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa + Kình Dương tại Tài Bạch:** tài lộc **trì hoãn** → tránh **bảo thủ về quan điểm tài chính**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tai-bach-da-la',
+    title: '⚠️ Hóa Khoa + Đà La tại Tài Bạch - Tài lộc trì hoãn',
+    sao: ['Hóa Khoa'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Đà La'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa + Đà La tại Tài Bạch:** tài lộc **trì hoãn** → tránh **bảo thủ về quan điểm tài chính**.`,
   },
 
   {
@@ -472,14 +1086,118 @@ mặt**".
 Cách dạy con thiên về **lý trí, giáo dưỡng đạo đức**, dùng tình cảm nhẹ nhàng
 **cảm hóa**.
 
-🌟 **+ Tam Hóa:** sinh **quý tử, làm nên sang giàu**.
-🌟 **+ Xương Khúc / Khôi Việt / Tả Hữu:** con cái **xuất chúng học thuật**, tiếng
-thơm đạo đức trong **giáo dục, công quyền**.
-
 ⚠️ Đôi khi **kỳ vọng cao** về học hành / đạo đức → áp lực cho con / khoảng cách
-thế hệ. "**Nuôi con bằng tư tưởng**", thiếu thực tế.
+thế hệ. "**Nuôi con bằng tư tưởng**", thiếu thực tế.`,
+  },
 
-⚠️ **+ Không Kiếp / Hóa Kỵ / Thiên Hình:** con **biệt lập, không dễ chia sẻ**.`,
+  {
+    id: 'hoa-khoa-tai-tu-tuc-tam-hoa',
+    title: 'Hóa Khoa + Tam Hóa tại Tử Tức - Sinh quý tử',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Tam Hóa tại Tử Tức:** sinh **quý tử, làm nên sang giàu**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tu-tuc-van-xuong',
+    title: 'Hóa Khoa + Văn Xương tại Tử Tức - Con xuất chúng học thuật',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Văn Xương tại Tử Tức:** con cái **xuất chúng học thuật**, tiếng thơm đạo đức trong **giáo dục, công quyền**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tu-tuc-van-khuc',
+    title: 'Hóa Khoa + Văn Khúc tại Tử Tức - Con xuất chúng học thuật',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Văn Khúc tại Tử Tức:** con cái **xuất chúng học thuật**, tiếng thơm đạo đức trong **giáo dục, công quyền**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tu-tuc-thien-khoi',
+    title: 'Hóa Khoa + Thiên Khôi tại Tử Tức - Con xuất chúng học thuật',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Thiên Khôi tại Tử Tức:** con cái **xuất chúng học thuật**, tiếng thơm đạo đức trong **giáo dục, công quyền**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tu-tuc-thien-viet',
+    title: 'Hóa Khoa + Thiên Việt tại Tử Tức - Con xuất chúng học thuật',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Thiên Việt tại Tử Tức:** con cái **xuất chúng học thuật**, tiếng thơm đạo đức trong **giáo dục, công quyền**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tu-tuc-ta-phu',
+    title: 'Hóa Khoa + Tả Phù tại Tử Tức - Con xuất chúng học thuật',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Tả Phù tại Tử Tức:** con cái **xuất chúng học thuật**, tiếng thơm đạo đức trong **giáo dục, công quyền**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tu-tuc-huu-bat',
+    title: 'Hóa Khoa + Hữu Bật tại Tử Tức - Con xuất chúng học thuật',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Hữu Bật tại Tử Tức:** con cái **xuất chúng học thuật**, tiếng thơm đạo đức trong **giáo dục, công quyền**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tu-tuc-dia-khong',
+    title: '⚠️ Hóa Khoa + Địa Không tại Tử Tức - Con biệt lập',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Khoa + Địa Không tại Tử Tức:** con **biệt lập, không dễ chia sẻ**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tu-tuc-dia-kiep',
+    title: '⚠️ Hóa Khoa + Địa Kiếp tại Tử Tức - Con biệt lập',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Khoa + Địa Kiếp tại Tử Tức:** con **biệt lập, không dễ chia sẻ**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tu-tuc-hoa-ky',
+    title: '⚠️ Hóa Khoa + Hóa Kỵ tại Tử Tức - Con biệt lập',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Khoa + Hóa Kỵ tại Tử Tức:** con **biệt lập, không dễ chia sẻ**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-tu-tuc-thien-hinh',
+    title: '⚠️ Hóa Khoa + Thiên Hình tại Tử Tức - Con biệt lập',
+    sao: ['Hóa Khoa'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Khoa + Thiên Hình tại Tử Tức:** con **biệt lập, không dễ chia sẻ**.`,
   },
 
   // ============================================================
@@ -498,14 +1216,49 @@ Vợ chồng **đồng cảm, tôn trọng** lẫn nhau về quan điểm sống
 nhân xây dựng trên **chia sẻ, đối thoại** — "thuận vợ thuận chồng tát biển Đông
 cũng cạn".
 
-🌟 **+ Tam Hóa + Khôi Việt:** **quý nhân hảo phối**.
-
 ⚠️ Có xu hướng **lý tưởng hóa hôn nhân** → kỳ vọng nhiều dễ **hụt hẫng**. Bạn
 đời giỏi lý thuyết đạo lý nhưng **thiếu thực tế, thụ động, khô khan biểu hiện
-tình cảm**.
+tình cảm**.`,
+  },
 
-⚠️ **+ Hóa Kỵ / Không Kiếp:** **tranh cãi do bất đồng lý tưởng** từ điều nhỏ
-nhặt.`,
+  {
+    id: 'hoa-khoa-tai-phu-the-tam-hoa-khoi-viet',
+    title: 'Hóa Khoa + Tam Hóa + Khôi Việt tại Phu Thê - Quý nhân hảo phối',
+    sao: ['Hóa Khoa'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Khoa + Tam Hóa + Khôi Việt tại Phu Thê:** **quý nhân hảo phối**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phu-the-hoa-ky',
+    title: '⚠️ Hóa Khoa + Hóa Kỵ tại Phu Thê - Tranh cãi bất đồng lý tưởng',
+    sao: ['Hóa Khoa'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa + Hóa Kỵ tại Phu Thê:** **tranh cãi do bất đồng lý tưởng** từ điều nhỏ nhặt.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phu-the-dia-khong',
+    title: '⚠️ Hóa Khoa + Địa Không tại Phu Thê - Tranh cãi bất đồng lý tưởng',
+    sao: ['Hóa Khoa'],
+    cung: ['Phu Thê'],
+    ketHop: ['Địa Không'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa + Địa Không tại Phu Thê:** **tranh cãi do bất đồng lý tưởng** từ điều nhỏ nhặt.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-phu-the-dia-kiep',
+    title: '⚠️ Hóa Khoa + Địa Kiếp tại Phu Thê - Tranh cãi bất đồng lý tưởng',
+    sao: ['Hóa Khoa'],
+    cung: ['Phu Thê'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hóa Khoa + Địa Kiếp tại Phu Thê:** **tranh cãi do bất đồng lý tưởng** từ điều nhỏ nhặt.`,
   },
 
   // ============================================================
@@ -522,15 +1275,79 @@ giúp đỡ nhau** trên con đường học vấn / sự nghiệp, đặc biệ
 
 Gia đình nhỏ **nề nếp**, anh em cùng phát triển hài hòa.
 
-🌟 **+ Khôi Việt / Xương Khúc:** anh em **giỏi giang, nổi danh học hành**, hoạt
-động trong **chuyên môn cao**.
-
 ⚠️ **Hãm địa:** anh em **khoảng cách do khác biệt trình độ, lý tưởng** → "mỗi
 người một thế giới riêng". Hòa khí nhưng **ít gắn bó thực chất**, hỗ trợ bằng
-**lý thuyết nhiều hơn thực tiễn**.
+**lý thuyết nhiều hơn thực tiễn**.`,
+  },
 
-⚠️ **+ Không Kiếp / Hóa Kỵ:** **hiểu nhầm, tranh luận do bất đồng quan điểm**,
-mâu thuẫn ngầm không nói ra.`,
+  {
+    id: 'hoa-khoa-tai-huynh-de-thien-khoi',
+    title: 'Hóa Khoa + Thiên Khôi tại Huynh Đệ - Anh em giỏi giang',
+    sao: ['Hóa Khoa'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Thiên Khôi tại Huynh Đệ:** anh em **giỏi giang, nổi danh học hành**, hoạt động trong **chuyên môn cao**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-huynh-de-thien-viet',
+    title: 'Hóa Khoa + Thiên Việt tại Huynh Đệ - Anh em giỏi giang',
+    sao: ['Hóa Khoa'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Thiên Việt tại Huynh Đệ:** anh em **giỏi giang, nổi danh học hành**, hoạt động trong **chuyên môn cao**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-huynh-de-van-xuong',
+    title: 'Hóa Khoa + Văn Xương tại Huynh Đệ - Anh em giỏi giang',
+    sao: ['Hóa Khoa'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Văn Xương tại Huynh Đệ:** anh em **giỏi giang, nổi danh học hành**, hoạt động trong **chuyên môn cao**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-huynh-de-van-khuc',
+    title: 'Hóa Khoa + Văn Khúc tại Huynh Đệ - Anh em giỏi giang',
+    sao: ['Hóa Khoa'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Khoa + Văn Khúc tại Huynh Đệ:** anh em **giỏi giang, nổi danh học hành**, hoạt động trong **chuyên môn cao**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-huynh-de-dia-khong',
+    title: '⚠️ Hóa Khoa + Địa Không tại Huynh Đệ - Hiểu nhầm tranh luận',
+    sao: ['Hóa Khoa'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Khoa + Địa Không tại Huynh Đệ:** **hiểu nhầm, tranh luận do bất đồng quan điểm**, mâu thuẫn ngầm không nói ra.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-huynh-de-dia-kiep',
+    title: '⚠️ Hóa Khoa + Địa Kiếp tại Huynh Đệ - Hiểu nhầm tranh luận',
+    sao: ['Hóa Khoa'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Khoa + Địa Kiếp tại Huynh Đệ:** **hiểu nhầm, tranh luận do bất đồng quan điểm**, mâu thuẫn ngầm không nói ra.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-huynh-de-hoa-ky',
+    title: '⚠️ Hóa Khoa + Hóa Kỵ tại Huynh Đệ - Hiểu nhầm tranh luận',
+    sao: ['Hóa Khoa'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Khoa + Hóa Kỵ tại Huynh Đệ:** **hiểu nhầm, tranh luận do bất đồng quan điểm**, mâu thuẫn ngầm không nói ra.`,
   },
 
   // ============================================================
@@ -544,19 +1361,77 @@ mâu thuẫn ngầm không nói ra.`,
     doUuTien: 70,
     tomTat: `⚠️ **Hóa Khoa là "tấm áo khoác" bao bọc bên ngoài** — đôi khi khiến
 đương số quá chú trọng **hình thức** hoặc **sự hoàn hảo về tri thức**. Không tu
-tập tâm hồn → dễ rơi vào **TỰ MÃN với kiến thức của mình**.
+tập tâm hồn → dễ rơi vào **TỰ MÃN với kiến thức của mình**.`,
+  },
 
-⚠️ **+ Nhiều sát tinh:** Hóa Khoa biến tướng thành **"NGỤY QUÂN TỬ"** — dùng
-học thức để **che đậy mưu mô bên trong** (hình tượng **Nhạc Bất Quần**).
+  {
+    id: 'hoa-khoa-tai-menh-nguy-quan-tu-sat-tinh',
+    title: '⚠️ Hóa Khoa + Sát tinh tại Mệnh - Ngụy quân tử',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Hóa Khoa + Nhiều sát tinh tại Mệnh:** Hóa Khoa biến tướng thành **"NGỤY QUÂN TỬ"** — dùng học thức để **che đậy mưu mô bên trong** (hình tượng **Nhạc Bất Quần**).`,
+  },
 
-⚠️ **+ Không Kiếp:** **"thùng rỗng kêu to"** — chỉ có **vỏ bên ngoài** mà bên
-trong không có gì → kiểu **"tốt mã rẻ cùi"**.
+  {
+    id: 'hoa-khoa-tai-menh-nguy-quan-tu-dia-khong',
+    title: '⚠️ Hóa Khoa + Địa Không tại Mệnh - Thùng rỗng kêu to',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Không'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Hóa Khoa + Địa Không tại Mệnh:** **"thùng rỗng kêu to"** — chỉ có **vỏ bên ngoài** mà bên trong không có gì → kiểu **"tốt mã rẻ cùi"**.`,
+  },
 
-⚠️ **+ Kình Đà:** danh tiếng đi đôi với **cạnh tranh, áp lực, thị phi** — luôn
-có thế lực **chống lại / kéo mình xuống**.
+  {
+    id: 'hoa-khoa-tai-menh-nguy-quan-tu-dia-kiep',
+    title: '⚠️ Hóa Khoa + Địa Kiếp tại Mệnh - Thùng rỗng kêu to',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Hóa Khoa + Địa Kiếp tại Mệnh:** **"thùng rỗng kêu to"** — chỉ có **vỏ bên ngoài** mà bên trong không có gì → kiểu **"tốt mã rẻ cùi"**.`,
+  },
 
-⚠️ **+ Hỏa Linh:** danh tiếng / nền tảng **lên quá nhanh** → để lại **lỗ hổng
-lớn** khó xử lý kịp.`,
+  {
+    id: 'hoa-khoa-tai-menh-nguy-quan-tu-kinh-duong',
+    title: '⚠️ Hóa Khoa + Kình Dương tại Mệnh - Cạnh tranh áp lực',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Hóa Khoa + Kình Dương tại Mệnh:** danh tiếng đi đôi với **cạnh tranh, áp lực, thị phi** — luôn có thế lực **chống lại / kéo mình xuống**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-nguy-quan-tu-da-la',
+    title: '⚠️ Hóa Khoa + Đà La tại Mệnh - Cạnh tranh áp lực',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Đà La'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Hóa Khoa + Đà La tại Mệnh:** danh tiếng đi đôi với **cạnh tranh, áp lực, thị phi** — luôn có thế lực **chống lại / kéo mình xuống**.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-nguy-quan-tu-hoa-tinh',
+    title: '⚠️ Hóa Khoa + Hỏa Tinh tại Mệnh - Lên nhanh để lỗ hổng',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Hóa Khoa + Hỏa Tinh tại Mệnh:** danh tiếng / nền tảng **lên quá nhanh** → để lại **lỗ hổng lớn** khó xử lý kịp.`,
+  },
+
+  {
+    id: 'hoa-khoa-tai-menh-nguy-quan-tu-linh-tinh',
+    title: '⚠️ Hóa Khoa + Linh Tinh tại Mệnh - Lên nhanh để lỗ hổng',
+    sao: ['Hóa Khoa'],
+    cung: ['Mệnh'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Hóa Khoa + Linh Tinh tại Mệnh:** danh tiếng / nền tảng **lên quá nhanh** → để lại **lỗ hổng lớn** khó xử lý kịp.`,
   },
 
   // ============================================================

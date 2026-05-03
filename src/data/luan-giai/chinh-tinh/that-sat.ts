@@ -666,11 +666,7 @@ sức chịu đựng cao**.
 - **Tai nạn dao kéo**
 - **Va chạm mạnh**
 - **Phẫu thuật**
-- **Thương tích bất ngờ**
-
-⚠️ **+ Nhiều hung sát tinh:** vận hạn sức khỏe rõ rệt — **tai nạn nghiêm
-trọng, bệnh nặng, di chứng kéo dài**. Cần thận trọng trong **hạn xấu + môi
-trường nguy hiểm**.`,
+- **Thương tích bất ngờ**`,
 
     chiTiet: `## Khi đắc địa + ít sát
 

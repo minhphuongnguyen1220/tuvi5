@@ -145,15 +145,38 @@ thuyết phục.`,
     title: 'Tấu Thư + các sao chủ giác quan',
     sao: ['Tấu Thư'],
     doUuTien: 55,
-    tomTat: `⚡ **Tấu Thư + sao chủ giác quan** → giác quan **NHẠY BÉN**:
-
-- 🌟 **+ Phượng Các:** **THÍNH TAI** (thính giác tốt)
-- 🌟 **+ Long Trì:** **THÍNH MŨI**, khứu giác sắc bén
-- 🌟 **+ Thái Âm + Thái Dương:** **MẮT SÁNG, tinh anh** (thị giác tốt)
+    tomTat: `⚡ **Tấu Thư + sao chủ giác quan** → giác quan **NHẠY BÉN**.
 
 → Tấu Thư + các sao này tạo người vừa **giỏi ngôn ngữ** vừa có **giác quan
 nhạy bén** — phù hợp các nghề cần **quan sát + biểu đạt** (báo chí, văn học,
 nghệ thuật biểu diễn).`,
+  },
+
+  {
+    id: 'tau-thu-giac-quan-phuong-cac',
+    title: 'Tấu Thư + Phượng Các - thính tai',
+    sao: ['Tấu Thư'],
+    ketHop: ['Phượng Các'],
+    doUuTien: 50,
+    tomTat: `🌟 **Tấu Thư + Phượng Các:** **THÍNH TAI** (thính giác tốt).`,
+  },
+
+  {
+    id: 'tau-thu-giac-quan-long-tri',
+    title: 'Tấu Thư + Long Trì - thính mũi',
+    sao: ['Tấu Thư'],
+    ketHop: ['Long Trì'],
+    doUuTien: 50,
+    tomTat: `🌟 **Tấu Thư + Long Trì:** **THÍNH MŨI**, khứu giác sắc bén.`,
+  },
+
+  {
+    id: 'tau-thu-giac-quan-am-duong',
+    title: 'Tấu Thư + Thái Âm + Thái Dương - mắt sáng',
+    sao: ['Tấu Thư'],
+    ketHop: ['Thái Âm', 'Thái Dương'],
+    doUuTien: 50,
+    tomTat: `🌟 **Tấu Thư + Thái Âm + Thái Dương:** **MẮT SÁNG, tinh anh** (thị giác tốt).`,
   },
 
   // ============================================================
@@ -169,13 +192,27 @@ nghệ thuật biểu diễn).`,
 **viết lách** tốt — làm nghề **giảng dạy, nhà văn, nhà thơ**.
 
 🌟 Gia đình **GIÀU CÓ**, cha mẹ **vui tính**, có **khí chất thanh cao, lương
-thiện**.
+thiện**.`,
+  },
 
-🌟 **+ Ân Quang / Thiên Quý / Khôi Việt:** cha mẹ có **địa vị xã hội**, giao
-lưu tốt với người **quyền quý**.
+  {
+    id: 'tau-thu-phu-mau-quang-quy-khoi-viet',
+    title: 'Tấu Thư Phụ Mẫu + Ân Quang / Thiên Quý / Khôi Việt - cha mẹ địa vị xã hội',
+    sao: ['Tấu Thư'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Ân Quang', 'Thiên Quý', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tấu Thư Phụ Mẫu + Ân Quang / Thiên Quý / Khôi Việt:** cha mẹ có **địa vị xã hội**, giao lưu tốt với người **quyền quý**.`,
+  },
 
-⚠️ **+ Sát bại tinh:** ảnh hưởng **nhân duyên cha mẹ** — **kiện cáo, chia ly**
-→ Tấu Thư lúc này chính là **TỜ GIẤY LY HÔN, đơn thưa kiện**.`,
+  {
+    id: 'tau-thu-phu-mau-sat-bai-tinh',
+    title: 'Tấu Thư Phụ Mẫu + Sát bại tinh - kiện cáo chia ly',
+    sao: ['Tấu Thư'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tấu Thư Phụ Mẫu + Sát bại tinh:** ảnh hưởng **nhân duyên cha mẹ** — **kiện cáo, chia ly** → Tấu Thư lúc này chính là **TỜ GIẤY LY HÔN, đơn thưa kiện**.`,
   },
 
   // ============================================================
@@ -193,12 +230,18 @@ lưu tốt với người **quyền quý**.
 🌟 Dòng họ nhiều người **HỌC THỨC CAO**, xuất phát từ **dòng dõi NHO GIA**, có
 **truyền thống hiếu học**, **tư chất thông minh, đỗ đạt**.
 
-🌟 **+ Văn Xương / Văn Khúc / Long Trì / Phượng Các:** dấu hiệu dòng họ đề cao
-**CHỮ NGHĨA** — sự **truyền thừa văn hóa sâu đậm**, **gia phong nghiêm cẩn**,
-đề cao **nề nếp, lễ nghi**.
-
 🌟 **Nhà thờ họ, phần mộ tổ tiên** mang hình ảnh **bút nghiên, văn bia, câu
 đối** — gìn giữ và tôn vinh **tinh thần học đạo**.`,
+  },
+
+  {
+    id: 'tau-thu-phuc-duc-xuong-khuc-long-phuong',
+    title: 'Tấu Thư Phúc Đức + Xương Khúc / Long Phượng - dòng họ đề cao chữ nghĩa',
+    sao: ['Tấu Thư'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Long Trì', 'Phượng Các'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tấu Thư Phúc Đức + Văn Xương / Văn Khúc / Long Trì / Phượng Các:** dấu hiệu dòng họ đề cao **CHỮ NGHĨA** — sự **truyền thừa văn hóa sâu đậm**, **gia phong nghiêm cẩn**, đề cao **nề nếp, lễ nghi**.`,
   },
 
   // ============================================================
@@ -213,14 +256,28 @@ lưu tốt với người **quyền quý**.
     tomTat: `🌟 **Tấu Thư cư Điền:** nhà có **NHIỀU SÁCH VỞ, BÚT GIẤY**, treo
 nhiều **TRANH, CHỮ** — không gian sống như **"thư phòng thu nhỏ"**.
 
-🌟 **+ Văn Xương / Văn Khúc / Lưu Niên Văn Tinh:** gia chủ **YÊU CHỮ NGHĨA**,
-treo nhiều câu đối, tranh chữ.
-
 ⚠️ Tấu Thư hành **Kim**, chủ về **giấy tờ pháp lý** → ám chỉ nhà có **giấy tờ
-sổ đỏ** dễ bị dính vào **tranh chấp, kiện tụng**.
+sổ đỏ** dễ bị dính vào **tranh chấp, kiện tụng**.`,
+  },
 
-⚠️ **+ Sát tinh:** hàm ý **bất lợi về nhà đất** — cần cẩn trọng **tranh chấp
-sổ đỏ, giấy tờ sở hữu, quyền thừa kế**.`,
+  {
+    id: 'tau-thu-dien-trach-van-tinh',
+    title: 'Tấu Thư Điền Trạch + Văn tinh - gia chủ yêu chữ nghĩa',
+    sao: ['Tấu Thư'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Lưu Niên Văn Tinh', 'Hóa Khoa'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tấu Thư Điền Trạch + Văn Xương / Văn Khúc / Lưu Niên Văn Tinh:** gia chủ **YÊU CHỮ NGHĨA**, treo nhiều câu đối, tranh chữ.`,
+  },
+
+  {
+    id: 'tau-thu-dien-trach-sat-tinh',
+    title: 'Tấu Thư Điền Trạch + Sát tinh - tranh chấp giấy tờ',
+    sao: ['Tấu Thư'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tấu Thư Điền Trạch + Sát tinh:** hàm ý **bất lợi về nhà đất** — cần cẩn trọng **tranh chấp sổ đỏ, giấy tờ sở hữu, quyền thừa kế**.`,
   },
 
   // ============================================================
@@ -233,16 +290,37 @@ sổ đỏ, giấy tờ sở hữu, quyền thừa kế**.`,
     cung: ['Quan Lộc'],
     doUuTien: 78,
     tomTat: `🌟 **Tấu Thư cư Quan:** công việc liên quan **ăn nói và viết lách** —
-**chuyên viết, ban hành văn bản**.
+**chuyên viết, ban hành văn bản**.`,
+  },
 
-🌟 **+ Thái Tuế + Thiên Hình + Thiên Tướng + Quốc Ấn:** **SOẠN THẢO LUẬT**, các
-**văn bản, công văn** — chính sự, công quyền.
+  {
+    id: 'tau-thu-quan-loc-thai-tue-hinh-tuong-an',
+    title: 'Tấu Thư Quan + Thái Tuế + Thiên Hình + Thiên Tướng + Quốc Ấn - soạn thảo luật',
+    sao: ['Tấu Thư'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thái Tuế', 'Thiên Hình', 'Thiên Tướng', 'Quốc Ấn'],
+    doUuTien: 73,
+    tomTat: `🌟 **Tấu Thư Quan Lộc + Thái Tuế + Thiên Hình + Thiên Tướng + Quốc Ấn:** **SOẠN THẢO LUẬT**, các **văn bản, công văn** — chính sự, công quyền.`,
+  },
 
-🌟 **+ Tấu + Diêu + Vũ + Cơ + Đào + Hồng:** có **khiếu hài hước** và **CA
-HÁT** tốt.
+  {
+    id: 'tau-thu-quan-loc-dieu-vu-co-dao-hong',
+    title: 'Tấu Thư Quan + Diêu + Vũ + Cơ + Đào + Hồng - khiếu ca hát',
+    sao: ['Tấu Thư'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Riêu', 'Vũ Khúc', 'Thiên Cơ', 'Đào Hoa', 'Hồng Loan'],
+    doUuTien: 73,
+    tomTat: `🌟 **Tấu Thư Quan Lộc + Thiên Riêu + Vũ Khúc + Thiên Cơ + Đào Hoa + Hồng Loan:** có **khiếu hài hước** và **CA HÁT** tốt.`,
+  },
 
-🌟 **+ Tấu + Việt + Quang + Quý + Cơ + Hồng:** **TRAI CẬN THẦN, GÁI CUNG PHI**
-— cách quý phái, làm việc cận kề người quyền cao.`,
+  {
+    id: 'tau-thu-quan-loc-viet-quang-quy-co-hong',
+    title: 'Tấu Thư Quan + Việt + Quang + Quý + Cơ + Hồng - trai cận thần gái cung phi',
+    sao: ['Tấu Thư'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Việt', 'Ân Quang', 'Thiên Quý', 'Thiên Cơ', 'Hồng Loan'],
+    doUuTien: 73,
+    tomTat: `🌟 **Tấu Thư Quan Lộc + Thiên Việt + Ân Quang + Thiên Quý + Thiên Cơ + Hồng Loan:** **TRAI CẬN THẦN, GÁI CUNG PHI** — cách quý phái, làm việc cận kề người quyền cao.`,
   },
 
   // ============================================================
@@ -257,11 +335,18 @@ HÁT** tốt.
     tomTat: `🌟 **Tấu Thư cư Nô:** bạn bè **TỐT**, có **tài ăn nói** — bạn bè
 nhiều người là **CA SĨ, GIÁO SƯ, NHÀ THUYẾT PHÁP**.
 
-⚠️ **+ Kình Đà / Hóa Kỵ / Sát bại tinh:** dễ bị bạn bè/đồng nghiệp/cấp dưới
-**KIỆN CÁO, VU KHỐNG**, **phản bội, bịa đặt**.
-
 **Lời khuyên:** giữ thế **chủ động**, có **giấy tờ ràng buộc rõ ràng** để
 tránh rắc rối hợp tác.`,
+  },
+
+  {
+    id: 'tau-thu-no-boc-kinh-da-ky-sat',
+    title: 'Tấu Thư Nô + Kình Đà / Hóa Kỵ / Sát bại tinh - bạn bè vu khống',
+    sao: ['Tấu Thư'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tấu Thư Nô Bộc + Kình Đà / Hóa Kỵ / Sát bại tinh:** dễ bị bạn bè/đồng nghiệp/cấp dưới **KIỆN CÁO, VU KHỐNG**, **phản bội, bịa đặt**.`,
   },
 
   // ============================================================
@@ -274,13 +359,27 @@ tránh rắc rối hợp tác.`,
     cung: ['Thiên Di'],
     doUuTien: 72,
     tomTat: `🌟 **Tấu Thư cư Di:** ra ngoài hay **lo toan**, làm công việc liên
-quan **giấy tờ, văn bản**, hay **diễn thuyết, thuyết trình**.
+quan **giấy tờ, văn bản**, hay **diễn thuyết, thuyết trình**.`,
+  },
 
-🌟 **+ Thiên Cơ / Vũ Khúc / Đào / Hồng:** ra ngoài làm **CA SĨ, NHÀ DIỄN
-THUYẾT NỔI TIẾNG**.
+  {
+    id: 'tau-thu-thien-di-co-vu-dao-hong',
+    title: 'Tấu Thư Di + Cơ / Vũ / Đào / Hồng - ca sĩ diễn thuyết',
+    sao: ['Tấu Thư'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Cơ', 'Vũ Khúc', 'Đào Hoa', 'Hồng Loan'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tấu Thư Thiên Di + Thiên Cơ / Vũ Khúc / Đào Hoa / Hồng Loan:** ra ngoài làm **CA SĨ, NHÀ DIỄN THUYẾT NỔI TIẾNG**.`,
+  },
 
-⚠️ **+ Sát bại tinh / Hóa Kỵ / Kình Đà:** vướng **THỊ PHI, KIỆN CÁO, VU KHỐNG**
-khi hoạt động xã hội.`,
+  {
+    id: 'tau-thu-thien-di-sat-ky-da',
+    title: 'Tấu Thư Di + Sát bại tinh / Kình Đà / Kỵ - thị phi vu khống',
+    sao: ['Tấu Thư'],
+    cung: ['Thiên Di'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tấu Thư Thiên Di + Sát bại tinh / Hóa Kỵ / Kình Đà:** vướng **THỊ PHI, KIỆN CÁO, VU KHỐNG** khi hoạt động xã hội.`,
   },
 
   // ============================================================
@@ -315,10 +414,17 @@ rất hay**, được tưởng niệm trang trọng.`,
     cung: ['Tài Bạch'],
     doUuTien: 75,
     tomTat: `🌟 **Tấu Thư cư Tài:** **GIỎI KIẾM TIỀN từ khả năng ăn nói, viết
-lách** — **"dùng lời làm vốn"** để nâng cao thu nhập.
+lách** — **"dùng lời làm vốn"** để nâng cao thu nhập.`,
+  },
 
-⚠️ **+ Sát bại tinh / Kình Đà / Hóa Kỵ:** lời nói trở thành **CON DAO HAI
-LƯỠI**:
+  {
+    id: 'tau-thu-tai-bach-sat-da-ky',
+    title: 'Tấu Thư Tài + Sát bại tinh / Kình Đà / Kỵ - kiện cáo vì tiền',
+    sao: ['Tấu Thư'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tấu Thư Tài Bạch + Sát bại tinh / Kình Đà / Hóa Kỵ:** lời nói trở thành **CON DAO HAI LƯỠI**:
 - Dễ bị **kiện cáo VÌ TIỀN BẠC**
 - **Hao tài tốn của** vào các vụ kiện tụng
 - Sai lệch về **chữ ký, giấy tờ pháp lý**`,
@@ -334,11 +440,17 @@ LƯỠI**:
     cung: ['Tử Tức'],
     doUuTien: 75,
     tomTat: `🌟 **Tấu Thư cư Tử Tức:** con cái có tài **VĂN HAY CHỮ TỐT**, **giao
-tiếp khéo léo**, **ứng biến tốt**, dễ nổi bật trong học tập hoặc sân khấu.
+tiếp khéo léo**, **ứng biến tốt**, dễ nổi bật trong học tập hoặc sân khấu.`,
+  },
 
-🌟 **+ Ân Quang + Thiên Quý** ("quý nhân"): **NHIỀU CON, có QUÝ TỬ** — là
-**"THẦN GIÁNG SINH"** (con sinh ra có **trực giác tốt** hoặc **căn tu tâm
-linh**).`,
+  {
+    id: 'tau-thu-tu-tuc-quang-quy',
+    title: 'Tấu Thư Tử Tức + Ân Quang + Thiên Quý - quý tử thần giáng sinh',
+    sao: ['Tấu Thư'],
+    cung: ['Tử Tức'],
+    ketHop: ['Ân Quang', 'Thiên Quý'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tấu Thư Tử Tức + Ân Quang + Thiên Quý** ("quý nhân"): **NHIỀU CON, có QUÝ TỬ** — là **"THẦN GIÁNG SINH"** (con sinh ra có **trực giác tốt** hoặc **căn tu tâm linh**).`,
   },
 
   // ============================================================
@@ -381,13 +493,27 @@ người xung quanh.
     cung: ['Huynh Đệ'],
     doUuTien: 70,
     tomTat: `🌟 **Tấu Thư cư Huynh Đệ:** anh chị em **GIỎI GIANG**, hay hỏi
-chuyện, có năng khiếu **viết lách**, tính cách **hoạt ngôn, khéo léo**.
+chuyện, có năng khiếu **viết lách**, tính cách **hoạt ngôn, khéo léo**.`,
+  },
 
-🌟 **+ Tả Phù / Hữu Bật / Văn Xương / Văn Khúc:** anh em **đồng lòng**, gia
-đình **êm ấm**.
+  {
+    id: 'tau-thu-huynh-de-ta-huu-xuong-khuc',
+    title: 'Tấu Thư Huynh Đệ + Tả Hữu / Xương Khúc - anh em đồng lòng',
+    sao: ['Tấu Thư'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tấu Thư Huynh Đệ + Tả Phù / Hữu Bật / Văn Xương / Văn Khúc:** anh em **đồng lòng**, gia đình **êm ấm**.`,
+  },
 
-⚠️ **+ Sát bại tinh:** anh chị em dễ **TRANH CHẤP, THƯA KIỆN NHAU** — lời
-nói trở thành **mồi lửa** gây kiện tụng.`,
+  {
+    id: 'tau-thu-huynh-de-sat-bai-tinh',
+    title: 'Tấu Thư Huynh Đệ + Sát bại tinh - anh em thưa kiện',
+    sao: ['Tấu Thư'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tấu Thư Huynh Đệ + Sát bại tinh:** anh chị em dễ **TRANH CHẤP, THƯA KIỆN NHAU** — lời nói trở thành **mồi lửa** gây kiện tụng.`,
   },
 
   // ============================================================

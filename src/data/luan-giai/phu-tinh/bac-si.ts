@@ -97,14 +97,14 @@ Mệnh" và "Kình Đà giáp Lộc Tồn".`,
 
     chiTiet: `## Học hành - đỗ đạt
 
-🌟 **+ Hóa Khoa / Thái Âm / Thái Dương / Văn Xương / Văn Khúc:**
+🌟 Khi có **Hóa Khoa / Thái Âm / Thái Dương / Văn Xương / Văn Khúc**:
 - **Học hành đỗ đạt**, dễ thành danh
 - Lĩnh vực đòi hỏi **chuyên môn cao**: nghiên cứu, giáo dục
 - **Công danh vang lừng rạng rỡ**
 
 ## Năng khiếu Y học
 
-🌟 **+ Phúc thiện tinh** (Thiên Lương / Thiên Tướng / Quang Quý / Quan Phúc):
+🌟 Khi có **Phúc thiện tinh** (Thiên Lương / Thiên Tướng / Quang Quý / Quan Phúc):
 - Có **năng khiếu y học, giáo dục, nghệ thuật**
 - Được trời phú đôi tay **"chữa lành"**
 - Thuận lợi theo đuổi **y dược** → trở thành **thầy thuốc, bác sĩ giỏi**, đóng
@@ -130,9 +130,6 @@ pháp điều trị hiệu quả** → mau bình phục.`,
     tomTat: `🌟 **Bác Sĩ cư Phụ Mẫu:** cha mẹ là người **có học thức, điềm đạm,
 có đạo đức**, biết **vun vén** và dạy con cái theo nề nếp.
 
-🌟 **+ Cát tinh:** càng lớn tuổi càng **thăng tiến**, làm **chủ doanh nghiệp,
-lãnh đạo, quan chức cao cấp**.
-
 🌟 Gia đình **khá giả** — cha mẹ tích được nhiều tài sản và để lại cho **con
 cháu sau này**.
 
@@ -141,6 +138,17 @@ rõ ràng → **không phải chật vật mưu sinh**.
 
 ⚠️ Bản thân đôi khi **dễ ốm đau, mắc bệnh vặt khi còn nhỏ** (đặc trưng cấu hình
 sao quanh Bác Sĩ - Lộc Tồn - Đà La - Kình Dương).`,
+  },
+  {
+    id: 'bac-si-tai-phu-mau-luc-cat',
+    title: 'Bác Sĩ tại Phụ Mẫu + Lục Cát - Cha mẹ thăng tiến',
+    sao: ['Bác Sĩ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Bác Sĩ + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Phụ Mẫu:** cha mẹ càng lớn tuổi càng **thăng
+tiến**, làm **chủ doanh nghiệp, lãnh đạo, quan chức cao cấp**.`,
   },
 
   // ============================================================
@@ -181,9 +189,17 @@ phối đều là **người thành đạt, tài chính mạnh**.`,
 **thừa hưởng điền sản** từ tổ tiên để lại.
 
 🌟 Quan tâm chăm lo cho ngôi nhà → nhà cửa **gọn gàng, sạch sẽ, thanh nhã**,
-trong nhà có **THƯ PHÒNG** (đặc trưng Bác Sĩ).
-
-🌟 **+ Thiên Cơ / Thiên Đồng / Văn Xương / Văn Khúc / Đào Hoa:**
+trong nhà có **THƯ PHÒNG** (đặc trưng Bác Sĩ).`,
+  },
+  {
+    id: 'bac-si-tai-dien-trach-co-dong-xuong-khuc-dao',
+    title: 'Bác Sĩ tại Điền Trạch + Cơ/Đồng/Xương Khúc/Đào - Kiến trúc sư',
+    sao: ['Bác Sĩ'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Cơ', 'Thiên Đồng', 'Văn Xương', 'Văn Khúc', 'Đào Hoa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Bác Sĩ + Thiên Cơ / Thiên Đồng / Văn Xương / Văn Khúc / Đào Hoa
+tại Điền Trạch:**
 - Có **tài năng nghệ thuật** liên quan **kiến trúc, thiết kế**
 - Trở thành **kiến trúc sư, kỹ sư, nghệ sĩ nổi tiếng**
 - Hoặc bén duyên với **bất động sản** lâu dài`,
@@ -207,10 +223,18 @@ Phong cách làm việc:
 
 🌟 Thường được đảm nhận **chức vụ cao**, hoặc **làm chủ doanh nghiệp**.
 
-🌟 **Lòng từ bi nhân hậu**, yêu thương giúp đỡ mọi người.
-
-🌟 **+ Phúc thiện tinh** (Thiên Lương / Thiên Tướng / Quang Quý / Quan Phúc):
-làm nghề **bác sĩ, thầy thuốc, giáo viên** — được nhiều người **kính trọng**.`,
+🌟 **Lòng từ bi nhân hậu**, yêu thương giúp đỡ mọi người.`,
+  },
+  {
+    id: 'bac-si-tai-quan-loc-phuc-thien',
+    title: 'Bác Sĩ tại Quan Lộc + Phúc thiện tinh - Bác sĩ thầy thuốc',
+    sao: ['Bác Sĩ'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Lương', 'Thiên Tướng', 'Ân Quang', 'Thiên Quý', 'Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Bác Sĩ + Phúc thiện tinh (Thiên Lương / Thiên Tướng / Ân Quang /
+Thiên Quý / Thiên Quan / Thiên Phúc) tại Quan Lộc:** làm nghề **bác sĩ, thầy
+thuốc, giáo viên** — được nhiều người **kính trọng**.`,
   },
 
   // ============================================================
@@ -232,9 +256,17 @@ hàng, đồng nghiệp, cấp trên.
 
 ⚡ Khả năng **làm ăn chung** với bạn bè, đồng nghiệp được phát huy mạnh.
 
-🌟 Bạn bè đồng nghiệp **có học thức, chuyên môn giỏi**.
-
-🌟 **+ Quý tinh:** bạn bè là **người có địa vị, quyền cao chức trọng** trong
+🌟 Bạn bè đồng nghiệp **có học thức, chuyên môn giỏi**.`,
+  },
+  {
+    id: 'bac-si-tai-no-boc-khoi-viet',
+    title: 'Bác Sĩ tại Nô Bộc + Khôi Việt - Bạn quyền cao',
+    sao: ['Bác Sĩ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt', 'Ân Quang', 'Thiên Quý'],
+    doUuTien: 70,
+    tomTat: `🌟 **Bác Sĩ + Quý tinh (Thiên Khôi / Thiên Việt / Ân Quang / Thiên
+Quý) tại Nô Bộc:** bạn bè là **người có địa vị, quyền cao chức trọng** trong
 xã hội — có tiếng nói trong xã hội.`,
   },
 
@@ -297,16 +329,39 @@ dịch bệnh.`,
     cung: ['Tài Bạch'],
     doUuTien: 78,
     tomTat: `🌟 **Bác Sĩ cư Tài Bạch:** có **kiến thức sâu rộng** về tài chính,
-tiền bạc — **cẩn thận, biết tính toán**, hiếm khi tiêu xài hoang phí.
-
-🌟 **+ Tài tinh:** công việc thường liên quan **ngành tài chính, kế toán**.
-Kiếm tiền **giỏi**, **quản lý tài chính tốt**.
-
-🌟 **+ Cát tinh:** dòng tiền **tăng trưởng đều đặn, ổn định**, ít gặp sóng gió
-bấp bênh.
-
-⚠️ **+ Vũ Khúc / Cô Quả / Đẩu Quân:** trở thành người **KEO KIỆT, TÍNH TOÁN
-CHI LI**.`,
+tiền bạc — **cẩn thận, biết tính toán**, hiếm khi tiêu xài hoang phí.`,
+  },
+  {
+    id: 'bac-si-tai-tai-bach-tai-tinh',
+    title: 'Bác Sĩ tại Tài Bạch + Tài tinh - Ngành tài chính kế toán',
+    sao: ['Bác Sĩ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Vũ Khúc', 'Thiên Phủ', 'Lộc Tồn', 'Hóa Lộc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Bác Sĩ + Tài tinh (Vũ Khúc / Thiên Phủ / Lộc Tồn / Hóa Lộc) tại
+Tài Bạch:** công việc thường liên quan **ngành tài chính, kế toán**. Kiếm tiền
+**giỏi**, **quản lý tài chính tốt**.`,
+  },
+  {
+    id: 'bac-si-tai-tai-bach-luc-cat',
+    title: 'Bác Sĩ tại Tài Bạch + Lục Cát - Dòng tiền ổn định',
+    sao: ['Bác Sĩ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Bác Sĩ + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Tài Bạch:** dòng tiền **tăng trưởng đều đặn, ổn
+định**, ít gặp sóng gió bấp bênh.`,
+  },
+  {
+    id: 'bac-si-tai-tai-bach-vu-khuc-co-qua-dau-quan',
+    title: 'Bác Sĩ tại Tài Bạch + Vũ Khúc/Cô Quả/Đẩu Quân - Keo kiệt',
+    sao: ['Bác Sĩ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Vũ Khúc', 'Cô Thần', 'Quả Tú', 'Đẩu Quân'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Bác Sĩ + Vũ Khúc / Cô Thần / Quả Tú / Đẩu Quân tại Tài Bạch:**
+trở thành người **KEO KIỆT, TÍNH TOÁN CHI LI**.`,
   },
 
   // ============================================================
@@ -321,9 +376,16 @@ CHI LI**.`,
     tomTat: `**Bác Sĩ cư Tử Tức:** đường con cái có phần **chậm hoặc muộn** —
 **hiếm muộn**, đôi khi phải nhờ **can thiệp của y học** để hỗ trợ mang thai.
 
-🌟 Bù lại con cái sinh ra **thông minh, ngoan ngoãn, hiếu thảo, thành đạt**.
-
-🌟 **+ Cát tinh** (đặc biệt **Văn Xương, Văn Khúc**):
+🌟 Bù lại con cái sinh ra **thông minh, ngoan ngoãn, hiếu thảo, thành đạt**.`,
+  },
+  {
+    id: 'bac-si-tai-tu-tuc-xuong-khuc',
+    title: 'Bác Sĩ tại Tử Tức + Văn Xương/Văn Khúc - Con giỏi lãnh đạo',
+    sao: ['Bác Sĩ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Văn Xương', 'Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Bác Sĩ + Văn Xương / Văn Khúc tại Tử Tức:**
 - Học hành **giỏi giang**
 - Có **tố chất lãnh đạo**
 - Mang lại **niềm tự hào lớn** cho gia đình`,

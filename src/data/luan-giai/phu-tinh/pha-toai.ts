@@ -106,9 +106,17 @@ hệ thống tử vi.`,
 - Cha mẹ thường hay **ÁP ĐẶT, CẢN TRỞ** ý kiến, hành động của con cái
 - Cha mẹ **MỖI NGƯỜI MỘT TÍNH**, hay **SINH CHUYỆN, CÃI NHAU**
 - "**Không ai chịu ai**"
-- Gia đạo nhiều sóng gió, dễ "**CƠM CHẲNG LÀNH, CANH CHẲNG NGỌT**"
+- Gia đạo nhiều sóng gió, dễ "**CƠM CHẲNG LÀNH, CANH CHẲNG NGỌT**"`,
+  },
 
-⚠️ **+ Sát Bại Tinh / Tuần / Triệt:**
+  {
+    id: 'pha-toai-phu-mau-sat-tuan-triet',
+    title: 'Phá Toái Phụ Mẫu + Sát Bại / Tuần / Triệt - cha mẹ chia ly',
+    sao: ['Phá Toái'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Tuần', 'Triệt'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phá Toái Phụ Mẫu + Sát Bại Tinh / Tuần / Triệt:**
 - Dễ làm **GIẢM DUYÊN** của cha mẹ
 - Có khả năng dẫn đến **CHIA LY**`,
   },
@@ -123,12 +131,27 @@ hệ thống tử vi.`,
 - **MỒ TỔ TIÊN** thường dễ bị **CHẮN NGANG, CẢN TRỞ** xung quanh
 - Trong dòng họ nhiều người có **CÁI TÔI CAO**
 - Hay dễ xảy ra **BẤT ĐỒNG, CÃI NHAU**
-- Con cháu dễ **XUNG KHẮC**, "**bằng mặt không bằng lòng**"
+- Con cháu dễ **XUNG KHẮC**, "**bằng mặt không bằng lòng**"`,
+  },
 
-⚠️ **+ Linh Tinh:** phiền muộn càng tăng.
+  {
+    id: 'pha-toai-phuc-duc-linh-tinh',
+    title: 'Phá Toái Phúc Đức + Linh Tinh - phiền muộn tăng',
+    sao: ['Phá Toái'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Phá Toái Phúc Đức + Linh Tinh:** phiền muộn càng tăng.`,
+  },
 
-⚠️ **+ Kình Đà / Hóa Kỵ / Thiên Riêu:**
-- Chủ mệnh có tật **NÓI NGỌNG, NÓI LẮP**`,
+  {
+    id: 'pha-toai-phuc-duc-kinh-da-ky-rieu',
+    title: 'Phá Toái Phúc Đức + Kình Đà / Hóa Kỵ / Thiên Riêu - nói ngọng nói lắp',
+    sao: ['Phá Toái'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Thiên Riêu'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Phá Toái Phúc Đức + Kình Đà / Hóa Kỵ / Thiên Riêu:** chủ mệnh có tật **NÓI NGỌNG, NÓI LẮP**.`,
   },
 
   {
@@ -162,12 +185,19 @@ hệ thống tử vi.`,
 - Người hay có **CÁI TÔI CAO**
 - **KHÓ KẾT HỢP làm NHÓM** được
 - Hay **PHÁ NGANG**
-- Trong công việc, học tập hay bị người khác **CẢN TRỞ, PHÁ NGANG**
+- Trong công việc, học tập hay bị người khác **CẢN TRỞ, PHÁ NGANG**`,
+  },
 
-🌟 **+ Tử Phủ + Đồng Lương + Quang Quý:** làm **BÁC SỸ TAI MŨI HỌNG**.
+  {
+    id: 'pha-toai-quan-loc-tu-phu-dong-luong-quang-quy',
+    title: 'Phá Toái Quan + Tử Phủ + Đồng Lương + Quang Quý - bác sỹ tai mũi họng',
+    sao: ['Phá Toái'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Tử Vi', 'Thiên Phủ', 'Thiên Đồng', 'Thiên Lương', 'Ân Quang', 'Thiên Quý'],
+    doUuTien: 73,
+    tomTat: `🌟 **Phá Toái Quan Lộc + Tử Vi + Thiên Phủ + Thiên Đồng + Thiên Lương + Ân Quang + Thiên Quý:** làm **BÁC SỸ TAI MŨI HỌNG**.
 
-→ Đây là cách **HÓA GIẢI ĐẸP** Phá Toái — vì hình tượng là CUỐNG HỌNG, làm
-nghề chữa cuống họng (TAI-MŨI-HỌNG) là **ĐẮC CÁCH**.`,
+→ Đây là cách **HÓA GIẢI ĐẸP** Phá Toái — vì hình tượng là CUỐNG HỌNG, làm nghề chữa cuống họng (TAI-MŨI-HỌNG) là **ĐẮC CÁCH**.`,
   },
 
   {
@@ -182,11 +212,19 @@ nghề chữa cuống họng (TAI-MŨI-HỌNG) là **ĐẮC CÁCH**.`,
 - Bạn bè có **CÁI TÔI CAO**, hay **ÁP ĐẶT**
 - **RẤT KHÓ CHƠI**
 
-🌟 **+ Cát Tinh:**
-- Mối quan hệ đôi khi có **BẤT HÒA NHỎ**
-- Nhưng nhìn chung vẫn **TỐT ĐẸP, BỀN CHẶT**
-
 💡 **Lời khuyên:** "**chọn bạn mà chơi**", **đề cao cảnh giác** trong giao tiếp.`,
+  },
+
+  {
+    id: 'pha-toai-no-boc-cat-tinh',
+    title: 'Phá Toái Nô + Cát Tinh - quan hệ bất hòa nhỏ vẫn bền chặt',
+    sao: ['Phá Toái'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt', 'Ân Quang', 'Thiên Quý'],
+    doUuTien: 65,
+    tomTat: `🌟 **Phá Toái Nô Bộc + Cát Tinh** (Lục Cát / Quang Quý):
+- Mối quan hệ đôi khi có **BẤT HÒA NHỎ**
+- Nhưng nhìn chung vẫn **TỐT ĐẸP, BỀN CHẶT**`,
   },
 
   {
@@ -200,11 +238,19 @@ nghề chữa cuống họng (TAI-MŨI-HỌNG) là **ĐẮC CÁCH**.`,
 - Ra ngoài **CÁI TÔI CAO**
 - Hay **NGANG NGƯỢC, PHÁ PHÁCH**
 - Thích **đi NGƯỢC ĐÁM ĐÔNG**
-- Dễ gặp rắc rối, ngăn trở trong **DI CHUYỂN** hoặc **CÔNG VIỆC**
+- Dễ gặp rắc rối, ngăn trở trong **DI CHUYỂN** hoặc **CÔNG VIỆC**`,
+  },
 
-⚠️ **+ Kình Dương / Đà La / Thiên Riêu / Hóa Kỵ:**
+  {
+    id: 'pha-toai-thien-di-kinh-da-rieu-ky',
+    title: 'Phá Toái Di + Kình / Đà / Riêu / Kỵ - ứng nghiệm mạnh',
+    sao: ['Phá Toái'],
+    cung: ['Thiên Di'],
+    ketHop: ['Kình Dương', 'Đà La', 'Thiên Riêu', 'Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Phá Toái Thiên Di + Kình Dương / Đà La / Thiên Riêu / Hóa Kỵ:**
 - Càng **ỨNG NGHIỆM mạnh**
-- Khó thuận lợi trong môi trường xã hội`,
+- Khó thuận lợi trong môi trường xã hội.`,
   },
 
   {
@@ -226,18 +272,42 @@ Phá Toái chủ về **CUỐNG HỌNG** → dễ bị bệnh:
 - **ÁP XE**
 - **VIÊM HỌNG**
 
-⚠️ **+ Không Kiếp:**
-- Càng rõ rệt
-- Dễ **UNG THƯ PHỔI, VÒM HỌNG**
-
 ⚠️ **Bệnh QUÁI GỞ:**
 Phá Toái thủ Tật cũng chủ về **BỆNH QUÁI GỞ**:
 - Có cách **PHẢN ỨNG, TRỞ BỆNH RIÊNG**
-- **KHÁC THƯỜNG, KHÓ PHÁT HIỆN, NHẬN ĐỊNH**
+- **KHÁC THƯỜNG, KHÓ PHÁT HIỆN, NHẬN ĐỊNH**`,
+  },
 
-⚠️ **+ Kình Đà + Hóa Kỵ + Thiên Riêu:** chủ **NÓI NGỌNG, NÓI LẮP**.
+  {
+    id: 'pha-toai-tat-ach-khong-kiep',
+    title: 'Phá Toái Tật + Không Kiếp - ung thư phổi vòm họng',
+    sao: ['Phá Toái'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Phá Toái Tật Ách + Địa Không + Địa Kiếp:**
+- Càng rõ rệt
+- Dễ **UNG THƯ PHỔI, VÒM HỌNG**`,
+  },
 
-⚠️ **+ Hỏa / Linh:** dễ mắc **BỆNH NAN Y**.`,
+  {
+    id: 'pha-toai-tat-ach-kinh-da-ky-rieu',
+    title: 'Phá Toái Tật + Kình Đà + Hóa Kỵ + Thiên Riêu - nói ngọng nói lắp',
+    sao: ['Phá Toái'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Thiên Riêu'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Phá Toái Tật Ách + Kình Đà + Hóa Kỵ + Thiên Riêu:** chủ **NÓI NGỌNG, NÓI LẮP**.`,
+  },
+
+  {
+    id: 'pha-toai-tat-ach-hoa-linh',
+    title: 'Phá Toái Tật + Hỏa / Linh - bệnh nan y',
+    sao: ['Phá Toái'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Phá Toái Tật Ách + Hỏa Tinh / Linh Tinh:** dễ mắc **BỆNH NAN Y**.`,
   },
 
   {
@@ -250,9 +320,17 @@ Phá Toái thủ Tật cũng chủ về **BỆNH QUÁI GỞ**:
 - Dễ làm **CẢN TRỞ, PHÁ NGANG** con đường về tiền bạc
 - Người **TIÊU TIỀN theo cách KHÁC NGƯỜI**
 - "**Một mình một kiểu, mặc ai can ngăn**"
-- Chi tiêu **KHÔNG HỢP LÝ**, dù nhận được nhiều lời khuyên vẫn **CỐ CHẤP**
+- Chi tiêu **KHÔNG HỢP LÝ**, dù nhận được nhiều lời khuyên vẫn **CỐ CHẤP**`,
+  },
 
-⚠️ **+ Địa Không / Địa Kiếp / Kiếp Sát:**
+  {
+    id: 'pha-toai-tai-bach-khong-kiep-kiep-sat',
+    title: 'Phá Toái Tài + Không / Kiếp / Kiếp Sát - khủng hoảng tài chính',
+    sao: ['Phá Toái'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Kiếp Sát'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Phá Toái Tài Bạch + Địa Không / Địa Kiếp / Kiếp Sát:**
 - **KHỦNG HOẢNG TÀI CHÍNH**, túng thiếu
 - Thậm chí làm **TIÊU TÁN SẢN NGHIỆP gia đình**`,
   },
@@ -271,12 +349,27 @@ Phá Toái thủ Tật cũng chủ về **BỆNH QUÁI GỞ**:
 ⚠️ **Tính cách con cái:**
 - **BƯỚNG BỈNH, NGANG TÀNG**
 - **KHÔNG NGHE LỜI bố mẹ**
-- Hay làm **ĐIỀU NGƯỢC LẠI**
+- Hay làm **ĐIỀU NGƯỢC LẠI**`,
+  },
 
-⚠️ **+ Tang Môn / Bạch Hổ / Thiên Khốc:** càng **LẬN ĐẬN** về đường con cái.
+  {
+    id: 'pha-toai-tu-tuc-tang-ho-khoc',
+    title: 'Phá Toái Tử Tức + Tang Môn / Bạch Hổ / Thiên Khốc - lận đận con cái',
+    sao: ['Phá Toái'],
+    cung: ['Tử Tức'],
+    ketHop: ['Tang Môn', 'Bạch Hổ', 'Thiên Khốc'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Phá Toái Tử Tức + Tang Môn / Bạch Hổ / Thiên Khốc:** càng **LẬN ĐẬN** về đường con cái.`,
+  },
 
-⚠️ **+ Đà La / Hóa Kỵ:** con cái **BƯỚNG BỈNH, không nghe lời** → cha mẹ
-**PHIỀN MUỘN**.`,
+  {
+    id: 'pha-toai-tu-tuc-da-ky',
+    title: 'Phá Toái Tử Tức + Đà La / Hóa Kỵ - con bướng bỉnh',
+    sao: ['Phá Toái'],
+    cung: ['Tử Tức'],
+    ketHop: ['Đà La', 'Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Phá Toái Tử Tức + Đà La / Hóa Kỵ:** con cái **BƯỚNG BỈNH, không nghe lời** → cha mẹ **PHIỀN MUỘN**.`,
   },
 
   {
@@ -297,16 +390,39 @@ Phá Toái thủ Tật cũng chủ về **BỆNH QUÁI GỞ**:
 - Thích làm gì thì tùy ý
 - Đôi khi **SAI TRÁI vẫn CÃI CỐ** cho bằng được
 - Vì thế Phá Toái cư cung Phu Thê rất dễ vì chuyện **CÃI CỌ** mà vợ chồng **BẤT
-  HÒA, LY DỊ**
+  HÒA, LY DỊ**`,
+  },
 
-⚠️ **+ Sát Bại Tinh:** **KHÓ ĐƯỢC BỀN DUYÊN** vợ chồng.
+  {
+    id: 'pha-toai-phu-the-sat-bai-tinh',
+    title: 'Phá Toái Phu Thê + Sát Bại Tinh - khó bền duyên',
+    sao: ['Phá Toái'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Phá Toái Phu Thê + Sát Bại Tinh:** **KHÓ ĐƯỢC BỀN DUYÊN** vợ chồng.`,
+  },
 
-⚠️ **+ Kình / Đà / Hóa Kỵ / Hỏa Linh / Thiên Riêu:**
+  {
+    id: 'pha-toai-phu-the-kinh-da-ky-hoa-linh-rieu',
+    title: 'Phá Toái Phu Thê + Kình / Đà / Kỵ / Hỏa / Linh / Riêu - ly thân ly hôn',
+    sao: ['Phá Toái'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Hỏa Tinh', 'Linh Tinh', 'Thiên Riêu'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Phá Toái Phu Thê + Kình / Đà / Hóa Kỵ / Hỏa Linh / Thiên Riêu:**
 - Duyên phận càng **MONG MANH**
-- Dễ dẫn tới **LY THÂN, LY HÔN**
+- Dễ dẫn tới **LY THÂN, LY HÔN**`,
+  },
 
-🌟 **+ Cát Tinh:** những va chạm ban đầu lại trở thành **TRẢI NGHIỆM** giúp đôi
-bên rút kinh nghiệm, biết **NHƯỜNG NHỊN** và dần tốt lên.`,
+  {
+    id: 'pha-toai-phu-the-cat-tinh',
+    title: 'Phá Toái Phu Thê + Cát Tinh - va chạm thành trải nghiệm',
+    sao: ['Phá Toái'],
+    cung: ['Phu Thê'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Phá Toái Phu Thê + Cát Tinh** (Lục Cát): những va chạm ban đầu lại trở thành **TRẢI NGHIỆM** giúp đôi bên rút kinh nghiệm, biết **NHƯỜNG NHỊN** và dần tốt lên.`,
   },
 
   {
@@ -321,10 +437,18 @@ bên rút kinh nghiệm, biết **NHƯỜNG NHỊN** và dần tốt lên.`,
 - Không thể **CÙNG ĐI ĐẾN MỘT KẾT LUẬN**
 - "**Chung giọt máu nhưng KHÔNG CHUNG LÒNG**"
 
-⚠️ **+ Cô Thần / Quả Tú / Hóa Kỵ:** càng **THỂ HIỆN RÕ NÉT**.
-
 ⚠️ **Đặc biệt:** nếu anh em **Ở CHUNG** càng dễ nảy sinh **XÍCH MÍCH, TRANH CÃI
 KHÓ HÒA GIẢI**.`,
+  },
+
+  {
+    id: 'pha-toai-huynh-de-co-qua-ky',
+    title: 'Phá Toái Huynh Đệ + Cô Thần / Quả Tú / Hóa Kỵ - thể hiện rõ nét',
+    sao: ['Phá Toái'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Cô Thần', 'Quả Tú', 'Hóa Kỵ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Phá Toái Huynh Đệ + Cô Thần / Quả Tú / Hóa Kỵ:** càng **THỂ HIỆN RÕ NÉT**.`,
   },
 
   {
@@ -343,7 +467,7 @@ KHÓ HÒA GIẢI**.`,
 → Đây là **CÁCH ĐẸP NHẤT** của Phá Toái — biến **hung tinh thành tướng quân
 uy dũng**.
 
-🌟 Cùng với cách **+ Tử Phủ Đồng Lương Quang Quý** (bác sỹ tai mũi họng) là 2
+🌟 Cùng với cách **Tử Phủ Đồng Lương + Quang Quý** (bác sỹ tai mũi họng) là 2
 cách hóa giải Phá Toái.`,
   },
 

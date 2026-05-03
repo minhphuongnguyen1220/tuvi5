@@ -57,10 +57,16 @@ Dù **đắc địa hay hãm địa**, Vũ Khúc đều mang tính:
 - **Cô độc, ít hạnh phúc gia đình và xã hội**
 - **Khó kết nối quan hệ** với người khác
 
-⚠️ **+ Cô Thần / Quả Tú / Đẩu Quân / Thái Tuế** (sao hiu quạnh) → **TĂNG ý nghĩa
-lẻ loi** lên rất nhiều.
-
 → Đặc biệt bất lợi cho nữ mệnh — gây **trắc trở duyên nợ**.`,
+  },
+  {
+    id: 'vu-khuc-co-than-co-qua-dau-quan-thai-tue',
+    title: 'Vũ Khúc + Cô Thần/Quả Tú/Đẩu Quân/Thái Tuế - Tăng lẻ loi',
+    sao: ['Vũ Khúc'],
+    ketHop: ['Cô Thần', 'Quả Tú', 'Đẩu Quân', 'Thái Tuế'],
+    doUuTien: 30,
+    tomTat: `⚠️ **Vũ Khúc + Cô Thần / Quả Tú / Đẩu Quân / Thái Tuế** (sao hiu
+quạnh) → **TĂNG ý nghĩa lẻ loi** lên rất nhiều, đặc biệt bất lợi cho nữ mệnh.`,
   },
 
   // ============================================================
@@ -656,9 +662,19 @@ cha mẹ **khó sống với nhau đến già**.`,
     doUuTien: 73,
     tomTat: `**Vũ Khúc tại Phúc Đức:**
 
-⚠️ Dòng họ có người **góa chồng, cô đơn** — đặc biệt khi **+ Cô Quả / Tang Môn**.
+⚠️ Dòng họ có người **góa chồng, cô đơn**.
 
 Mồ mả tổ tiên thường ở **xa, riêng lẻ**, ít được con cháu quan tâm chăm sóc.`,
+  },
+  {
+    id: 'vu-khuc-tai-phuc-duc-co-qua-tang-mon',
+    title: 'Vũ Khúc tại Phúc Đức + Cô Quả/Tang Môn - Góa chồng cô đơn',
+    sao: ['Vũ Khúc'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Cô Thần', 'Quả Tú', 'Tang Môn'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Vũ Khúc + Cô Thần / Quả Tú / Tang Môn tại Phúc Đức:** dòng họ
+có người **góa chồng, cô đơn** rất rõ rệt.`,
   },
 
   {
@@ -713,8 +729,18 @@ Chủ mệnh **lắm đất nhiều nhà**, có khả năng **tích tụ điền
   thể mua thêm phát triển
 - Thuận lợi **xây dựng, mua bán đất đai**
 
-⚠️ Dễ bị ảnh hưởng **phong thủy**, đặc biệt khi **+ Hóa Kỵ**.
+⚠️ Dễ bị ảnh hưởng **phong thủy**.
 ⚠️ Vì tính cô độc → nhà cửa **ít người, không khí lạnh lẽo**.`,
+  },
+  {
+    id: 'vu-khuc-tai-dien-trach-hoa-ky',
+    title: 'Vũ Khúc tại Điền Trạch + Hóa Kỵ - Phong thủy bất lợi',
+    sao: ['Vũ Khúc'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Vũ Khúc + Hóa Kỵ tại Điền Trạch:** rất dễ bị ảnh hưởng **phong
+thủy** xấu — nhà cửa, đất đai, mộ phần.`,
   },
 
   {
@@ -1470,9 +1496,16 @@ khắc khẩu xung đột.`,
     tomTat: `**Hạn đến Vũ Khúc:**
 
 - **Đắc địa + cát tinh:** thuận lợi tiền bạc, công danh
-- **+ Lộc Tồn + Thiên Mã + Thiên Cơ + Thiên Hỷ + Hồng Loan:** **THÀNH GIA THẤT**
-  (lập gia đình)
 
 ⚠️ **Hãm địa hoặc + sát tinh:** vận hạn về tiền, dễ phá tán, vướng tranh chấp.`,
+  },
+  {
+    id: 'vu-khuc-han-loc-ma-co-hy-hong',
+    title: 'Hạn Vũ Khúc + Lộc Tồn/Mã/Cơ/Hỷ/Hồng - Thành gia thất',
+    sao: ['Vũ Khúc'],
+    ketHop: ['Lộc Tồn', 'Thiên Mã', 'Thiên Cơ', 'Thiên Hỷ', 'Hồng Loan'],
+    doUuTien: 45,
+    tomTat: `🌟 **Hạn Vũ Khúc + Lộc Tồn + Thiên Mã + Thiên Cơ + Thiên Hỷ + Hồng
+Loan:** **THÀNH GIA THẤT** (lập gia đình).`,
   },
 ];

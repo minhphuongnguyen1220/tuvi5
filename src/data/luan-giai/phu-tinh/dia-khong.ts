@@ -293,18 +293,37 @@ tinh làm mất sự hung họa của Không Kiếp.`,
     doUuTien: 55,
     tomTat: `**Không Kiếp - các cách đáng chú ý:**
 
-🌟 **+ Tướng Mã Khoa đắc địa cư Mệnh:** tài giỏi, lập **sự nghiệp lừng lẫy
-trong CẢNH LOẠN LY**.
-
 🌟 **Cách "Phi Thường" - Đế Vương:** Không Kiếp đắc + Tử Phủ Vũ Tướng đắc + Sát
 Phá Liêm Tham đắc + Tả Hữu Khôi Việt Xương Khúc Long Phượng Đào Hồng Khoa
-Quyền Lộc + Kình Đà Hình Hổ → **NGUYÊN THỦ, ĐẾ VƯƠNG**, danh tiếng lừng lẫy.
-
-⚠️ **+ Tử Phủ cùng đắc:** thăng trầm công danh; Tử Phủ bị Tuần Triệt → hung họa
-hiểm nghèo khó tránh.
-
-⚠️ **+ Kình Đà Hỏa Linh** cùng hãm: nguy hiểm tính mạng — cả nam nữ đều **khắc
-vợ, sát phu**.`,
+Quyền Lộc + Kình Đà Hình Hổ → **NGUYÊN THỦ, ĐẾ VƯƠNG**, danh tiếng lừng lẫy.`,
+  },
+  {
+    id: 'khong-kiep-tuong-ma-khoa-dac-menh',
+    title: 'Không Kiếp + Thiên Tướng/Thiên Mã/Hóa Khoa đắc địa cư Mệnh - Sự nghiệp lừng lẫy',
+    sao: ['Địa Không', 'Địa Kiếp'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Tướng', 'Thiên Mã', 'Hóa Khoa'],
+    doUuTien: 50,
+    tomTat: `🌟 **Không Kiếp + Thiên Tướng / Thiên Mã / Hóa Khoa đắc địa cư Mệnh:**
+tài giỏi, lập **sự nghiệp lừng lẫy trong CẢNH LOẠN LY**.`,
+  },
+  {
+    id: 'khong-kiep-tu-phu',
+    title: 'Không Kiếp + Tử Phủ cùng đắc - Thăng trầm công danh',
+    sao: ['Địa Không', 'Địa Kiếp'],
+    ketHop: ['Tử Vi', 'Thiên Phủ'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Không Kiếp + Tử Vi / Thiên Phủ cùng đắc:** thăng trầm công
+danh; Tử Phủ bị Tuần Triệt → hung họa hiểm nghèo khó tránh.`,
+  },
+  {
+    id: 'khong-kiep-kinh-da-hoa-linh-ham',
+    title: 'Không Kiếp + Kình Đà Hỏa Linh cùng hãm - Khắc vợ sát phu',
+    sao: ['Địa Không', 'Địa Kiếp'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Không Kiếp + Kình Dương / Đà La / Hỏa Tinh / Linh Tinh cùng
+hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát phu**.`,
 
     chiTiet: `## Các bộ đặc biệt khác
 
@@ -801,14 +820,37 @@ vợ, sát phu**.`,
     title: '⚠️ Địa Không gặp hung tinh - 3 cách tai ương',
     sao: ['Địa Không'],
     doUuTien: 55,
-    tomTat: `⚠️ **3 cách tai ương khi Địa Không gặp hung tinh:**
-
-1. **+ Hỏa Tinh / Linh Tinh:** **HỎA TAI** — cháy nổ do bất cẩn, điện chập, cháy
-   nhà → cần kiểm tra điện, bếp, không để vật dễ cháy gần nguồn nhiệt
-2. **+ Tham Lang:** **TAI ƯƠNG SÔNG NƯỚC** — sông hồ, biển cả → hạn chế đi đường
-   thủy, chuẩn bị kỹ và tuân thủ an toàn
-3. **+ Hung tinh khác:** vợ chồng **lục đục, xa cách, đoạn tuyệt** — nam **khắc
-   vợ**, nữ **sát phu** → chọn bạn đời hợp mệnh, rèn kiên nhẫn bao dung`,
+    tomTat: `⚠️ **3 cách tai ương khi Địa Không gặp hung tinh** — xem các tổ
+hợp cụ thể trong các entry chuyên biệt bên dưới.`,
+  },
+  {
+    id: 'dia-khong-hoa-linh-hoa-tai',
+    title: 'Địa Không + Hỏa Tinh/Linh Tinh - Hỏa tai',
+    sao: ['Địa Không'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Địa Không + Hỏa Tinh / Linh Tinh:** **HỎA TAI** — cháy nổ do
+bất cẩn, điện chập, cháy nhà → cần kiểm tra điện, bếp, không để vật dễ cháy
+gần nguồn nhiệt.`,
+  },
+  {
+    id: 'dia-khong-tham-lang-thuy-tai',
+    title: 'Địa Không + Tham Lang - Tai ương sông nước',
+    sao: ['Địa Không'],
+    ketHop: ['Tham Lang'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Địa Không + Tham Lang:** **TAI ƯƠNG SÔNG NƯỚC** — sông hồ,
+biển cả → hạn chế đi đường thủy, chuẩn bị kỹ và tuân thủ an toàn.`,
+  },
+  {
+    id: 'dia-khong-hung-tinh-khac-khac-vo',
+    title: 'Địa Không + Hung tinh - Khắc vợ sát phu',
+    sao: ['Địa Không'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Thiên Hình', 'Bạch Hổ'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Địa Không + hung tinh (Kình / Đà / Hóa Kỵ / Thiên Hình / Bạch
+Hổ):** vợ chồng **lục đục, xa cách, đoạn tuyệt** — nam **khắc vợ**, nữ **sát
+phu** → chọn bạn đời hợp mệnh, rèn kiên nhẫn bao dung.`,
   },
 
   // ============================================================

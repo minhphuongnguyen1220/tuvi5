@@ -37,7 +37,7 @@ tượng **may mắn, học hành thành đạt, sự che chở của quý nhân
 - **Duyên vận:** người hôn phối **xuất thân cao quý**, đoan chính, sự nghiệp
   vững vàng. Hội nhiều sao sáng → hôn nhân **viên mãn**
 - **Tài lộc:** có duyên với tiền bạc, dễ được người **chức quyền nâng đỡ**.
-  **+ Lộc Tồn / Tả Hữu / Hóa Quyền:** tài lộc vượng
+  Khi có thêm **Lộc Tồn / Tả Hữu / Hóa Quyền:** tài lộc vượng
 
 ## Lưu ý
 
@@ -381,13 +381,29 @@ về hậu vận càng bền vững.`,
     tomTat: `**Thiên Việt tại Nô Bộc:** bạn bè, cấp dưới, học trò **giỏi giang**,
 có người trở thành **cánh tay phải đắc lực**.
 
-Dễ gặp **quý nhân quyền thế** giúp đỡ.
-
-🌟 **+ Nhiều sao tốt:** nên kết giao với **người học rộng, có địa vị** để mở
-cơ hội lớn.
-
-⚠️ **+ Sát tinh:** tránh gần **người quyền cao chức trọng** kẻo tự rước họa
-vào thân.`,
+Dễ gặp **quý nhân quyền thế** giúp đỡ.`,
+  },
+  {
+    id: 'thien-viet-tai-no-boc-luc-cat',
+    title: 'Thiên Việt tại Nô Bộc + Lục Cát - Mở cơ hội lớn',
+    sao: ['Thiên Việt'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thiên Việt + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Nô Bộc:** nên kết giao với **người học rộng, có
+địa vị** để mở cơ hội lớn.`,
+  },
+  {
+    id: 'thien-viet-tai-no-boc-tu-sat',
+    title: 'Thiên Việt tại Nô Bộc + Tứ Sát - Tránh người quyền cao',
+    sao: ['Thiên Việt'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiên Việt + Tứ Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh)
+tại Nô Bộc:** tránh gần **người quyền cao chức trọng** kẻo tự rước họa vào
+thân.`,
   },
 
   // ============================================================
@@ -418,13 +434,29 @@ duyên, quan hệ xã hội**.`,
     sao: ['Thiên Việt'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Thiên Việt tại Tật Ách:** **giảm nhẹ tai ương, bệnh tật nhỏ**.
-
-⚠️ **+ Hỏa Linh / Thiên Hình / Thiên Riêu:** nguy cơ **tai nạn về đầu, vai**
-hoặc **dao kiếm, điện giật, xe cộ**.
-
-🌟 **+ Thiên Quan - Thiên Phúc:** biết **tu tâm hướng thiện** → hạn nặng **hóa
-nhẹ**, quý nhân hỗ trợ, mắc bệnh gặp **thầy giỏi thuốc hay**.`,
+    tomTat: `**Thiên Việt tại Tật Ách:** **giảm nhẹ tai ương, bệnh tật nhỏ**.`,
+  },
+  {
+    id: 'thien-viet-tai-tat-ach-hoa-linh-hinh-rieu',
+    title: 'Thiên Việt tại Tật Ách + Hỏa/Linh/Hình/Riêu - Tai nạn đầu vai',
+    sao: ['Thiên Việt'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh', 'Thiên Hình', 'Thiên Riêu'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiên Việt + Hỏa Tinh / Linh Tinh / Thiên Hình / Thiên Riêu
+tại Tật Ách:** nguy cơ **tai nạn về đầu, vai** hoặc **dao kiếm, điện giật, xe
+cộ**.`,
+  },
+  {
+    id: 'thien-viet-tai-tat-ach-thien-quan-phuc',
+    title: 'Thiên Việt tại Tật Ách + Thiên Quan/Phúc - Tu tâm hóa hung',
+    sao: ['Thiên Việt'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Quan', 'Thiên Phúc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thiên Việt + Thiên Quan + Thiên Phúc tại Tật Ách:** biết **tu
+tâm hướng thiện** → hạn nặng **hóa nhẹ**, quý nhân hỗ trợ, mắc bệnh gặp **thầy
+giỏi thuốc hay**.`,
   },
 
   // ============================================================
@@ -440,10 +472,18 @@ nhẹ**, quý nhân hỗ trợ, mắc bệnh gặp **thầy giỏi thuốc hay**
 
 Thường được **quý nhân chỉ lối, nâng đỡ** trong kinh doanh / quản lý tài chính.
 
-🌟 **+ Lộc Tồn / Tả Hữu / Hóa Quyền:** tài lộc **dồi dào**, càng làm càng vượng.
-
 Nhờ **học vấn, danh tiếng, uy tín xã hội** → mở rộng thu nhập, tài chính **ổn
 định và thịnh vượng**.`,
+  },
+  {
+    id: 'thien-viet-tai-tai-bach-loc-ton-ta-huu-quyen',
+    title: 'Thiên Việt tại Tài Bạch + Lộc Tồn/Tả Hữu/Hóa Quyền - Tài lộc dồi dào',
+    sao: ['Thiên Việt'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Lộc Tồn', 'Tả Phù', 'Hữu Bật', 'Hóa Quyền'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thiên Việt + Lộc Tồn / Tả Phù / Hữu Bật / Hóa Quyền tại Tài
+Bạch:** tài lộc **dồi dào**, càng làm càng vượng.`,
   },
 
   // ============================================================
@@ -456,13 +496,29 @@ Nhờ **học vấn, danh tiếng, uy tín xã hội** → mở rộng thu nhậ
     cung: ['Tử Tức'],
     doUuTien: 75,
     tomTat: `**Thiên Việt tại Tử Tức:** con sinh ra **thông tuệ, hiếu thuận**, dễ
-**làm nên nghiệp lớn** → trở thành **niềm tự hào** của gia đình.
-
-🌟 **+ Nhiều cát tinh:** con cái **quý hiển, có chức quyền** → cha mẹ **rạng nhà
-rạng cửa** nhờ con.
-
-⚠️ **+ Thiên Hình / Hỏa Linh:** quá trình **sinh nở khó khăn**, con dễ **tai nạn
-nguy hiểm**, cha mẹ phải bận lòng.`,
+**làm nên nghiệp lớn** → trở thành **niềm tự hào** của gia đình.`,
+  },
+  {
+    id: 'thien-viet-tai-tu-tuc-luc-cat',
+    title: 'Thiên Việt tại Tử Tức + Lục Cát - Con quý hiển',
+    sao: ['Thiên Việt'],
+    cung: ['Tử Tức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiên Việt + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Tử Tức:** con cái **quý hiển, có chức quyền** →
+cha mẹ **rạng nhà rạng cửa** nhờ con.`,
+  },
+  {
+    id: 'thien-viet-tai-tu-tuc-hinh-hoa-linh',
+    title: 'Thiên Việt tại Tử Tức + Hình/Hỏa/Linh - Sinh nở khó',
+    sao: ['Thiên Việt'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Hình', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Việt + Thiên Hình / Hỏa Tinh / Linh Tinh tại Tử Tức:**
+quá trình **sinh nở khó khăn**, con dễ **tai nạn nguy hiểm**, cha mẹ phải bận
+lòng.`,
   },
 
   // ============================================================
@@ -478,11 +534,18 @@ nguy hiểm**, cha mẹ phải bận lòng.`,
 chính**, có **sự nghiệp riêng vững vàng**.
 
 Vợ chồng **trai tài gái sắc**, không chỉ giỏi mà còn có **địa vị khiến người khác
-ngưỡng mộ**.
-
-🌟 **+ Thiên Phủ / Nhật Nguyệt sáng / Hóa Lộc Quyền / Thanh Long / Ân Quang -
-Thiên Quý:** hôn nhân **viên mãn**, vợ chồng thuận hòa, gắn bó keo sơn đến **răng
-long đầu bạc**.`,
+ngưỡng mộ**.`,
+  },
+  {
+    id: 'thien-viet-tai-phu-the-bo-quy',
+    title: 'Thiên Việt tại Phu Thê + Phủ/Nhật Nguyệt/Lộc Quyền/Quang Quý - Hôn nhân viên mãn',
+    sao: ['Thiên Việt'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Phủ', 'Thái Dương', 'Thái Âm', 'Hóa Lộc', 'Hóa Quyền', 'Thanh Long', 'Ân Quang', 'Thiên Quý'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thiên Việt + Thiên Phủ / Nhật Nguyệt sáng / Hóa Lộc / Hóa Quyền /
+Thanh Long / Ân Quang / Thiên Quý tại Phu Thê:** hôn nhân **viên mãn**, vợ
+chồng thuận hòa, gắn bó keo sơn đến **răng long đầu bạc**.`,
   },
 
   // ============================================================

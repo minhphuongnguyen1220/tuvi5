@@ -47,13 +47,74 @@ hay **NÓI XẤU, dèm pha** người khác.
 ⚡ **"Gieo nhân nào gặt quả nấy":** mình cũng dễ bị **đố kỵ, mưu hại**.
 
 **Tính cách:** **KHÓ ĐOÁN**, dễ có hành động/suy nghĩ khiến người khác **bất
-ngờ**.
+ngờ**.`,
+  },
 
-⚠️ **+ Sát bại tinh** (Kiếp / Đà / Kỵ / Hỏa Linh): trở thành **KẺ GIAN, TRỘM
-CẮP, LỪA ĐẢO**, **đâm sau lưng**.
+  {
+    id: 'phuc-binh-tai-menh-kiep',
+    title: '⚠️ Phục Binh + Địa Kiếp tại Mệnh - Kẻ gian',
+    sao: ['Phục Binh'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Phục Binh + Địa Kiếp tại Mệnh:** trở thành **KẺ GIAN, TRỘM CẮP,
+LỪA ĐẢO**, **đâm sau lưng**.`,
+  },
 
-🌟 **+ Cát + phúc thiện tinh:** trở thành người **THÔNG MINH, ĐA MƯU, QUYỀN
-BIẾN**, **khó mà bị lừa** — nhà mưu lược tài ba.`,
+  {
+    id: 'phuc-binh-tai-menh-da',
+    title: '⚠️ Phục Binh + Đà La tại Mệnh - Kẻ gian',
+    sao: ['Phục Binh'],
+    cung: ['Mệnh'],
+    ketHop: ['Đà La'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Phục Binh + Đà La tại Mệnh:** trở thành **KẺ GIAN, TRỘM CẮP,
+LỪA ĐẢO**, **đâm sau lưng**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-menh-hoa-ky',
+    title: '⚠️ Phục Binh + Hóa Kỵ tại Mệnh - Kẻ gian',
+    sao: ['Phục Binh'],
+    cung: ['Mệnh'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Phục Binh + Hóa Kỵ tại Mệnh:** trở thành **KẺ GIAN, TRỘM CẮP,
+LỪA ĐẢO**, **đâm sau lưng**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-menh-hoa-tinh',
+    title: '⚠️ Phục Binh + Hỏa Tinh tại Mệnh - Kẻ gian',
+    sao: ['Phục Binh'],
+    cung: ['Mệnh'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Phục Binh + Hỏa Tinh tại Mệnh:** trở thành **KẺ GIAN, TRỘM CẮP,
+LỪA ĐẢO**, **đâm sau lưng**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-menh-linh',
+    title: '⚠️ Phục Binh + Linh Tinh tại Mệnh - Kẻ gian',
+    sao: ['Phục Binh'],
+    cung: ['Mệnh'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Phục Binh + Linh Tinh tại Mệnh:** trở thành **KẺ GIAN, TRỘM CẮP,
+LỪA ĐẢO**, **đâm sau lưng**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-menh-cat-tinh',
+    title: '🌟 Phục Binh + Lục Cát tại Mệnh - Mưu lược tài ba',
+    sao: ['Phục Binh'],
+    cung: ['Mệnh'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Phục Binh + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Mệnh:** trở thành người **THÔNG MINH, ĐA MƯU,
+QUYỀN BIẾN**, **khó mà bị lừa** — nhà mưu lược tài ba.`,
   },
 
   {
@@ -65,10 +126,51 @@ BIẾN**, **khó mà bị lừa** — nhà mưu lược tài ba.`,
     tomTat: `⚠️ **Phục Binh cư Phụ Mẫu:** cha mẹ **KHÔN NGOAN, KHÓ ĐOÁN**, làm
 gì cũng không qua khỏi mắt bố mẹ.
 
-⚠️ **+ Đào Hồng / Riêu / Thai:** cha mẹ dễ **PHẢN BỘI NHAU**, có **tình nhân
-bên ngoài**.
-
 🌟 Đương số là người con **HIẾU THẢO**, biết lắng nghe và chăm sóc cha mẹ.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-phu-mau-dao',
+    title: '⚠️ Phục Binh + Đào Hoa tại Phụ Mẫu - Cha mẹ phản bội nhau',
+    sao: ['Phục Binh'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Đào Hoa'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Đào Hoa tại Phụ Mẫu:** cha mẹ dễ **PHẢN BỘI NHAU**,
+có **tình nhân bên ngoài**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-phu-mau-hong',
+    title: '⚠️ Phục Binh + Hồng Loan tại Phụ Mẫu - Cha mẹ phản bội nhau',
+    sao: ['Phục Binh'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hồng Loan'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Hồng Loan tại Phụ Mẫu:** cha mẹ dễ **PHẢN BỘI
+NHAU**, có **tình nhân bên ngoài**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-phu-mau-rieu',
+    title: '⚠️ Phục Binh + Thiên Riêu tại Phụ Mẫu - Cha mẹ phản bội nhau',
+    sao: ['Phục Binh'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Riêu'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Thiên Riêu tại Phụ Mẫu:** cha mẹ dễ **PHẢN BỘI
+NHAU**, có **tình nhân bên ngoài**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-phu-mau-thai',
+    title: '⚠️ Phục Binh + Thai tại Phụ Mẫu - Cha mẹ phản bội nhau',
+    sao: ['Phục Binh'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thai'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Thai tại Phụ Mẫu:** cha mẹ dễ **PHẢN BỘI NHAU**,
+có **tình nhân bên ngoài**.`,
   },
 
   {
@@ -80,9 +182,18 @@ bên ngoài**.
     tomTat: `⚠️ **Phục Binh cư Phúc Đức:** trong dòng họ nhiều người **TÍNH TOÁN,
 SO ĐO**, **NGẦM HẠI LẪN NHAU**.
 
-⚠️ Gia đình người hôn phối nhiều **MƯU TÍNH SAU LƯNG** mình.
+⚠️ Gia đình người hôn phối nhiều **MƯU TÍNH SAU LƯNG** mình.`,
+  },
 
-⚠️ **+ Tử + Tuyệt:** nhà có người **CHẾT TRẬN, chết đường chết chợ**.`,
+  {
+    id: 'phuc-binh-tai-phuc-duc-tu-tuyet',
+    title: '⚠️ Phục Binh + Tử + Tuyệt tại Phúc Đức - Chết trận',
+    sao: ['Phục Binh'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tử', 'Tuyệt'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Phục Binh + Tử + Tuyệt tại Phúc Đức:** nhà có người **CHẾT
+TRẬN, chết đường chết chợ**.`,
   },
 
   {
@@ -119,10 +230,19 @@ khác** để đạt mục đích.
 - **Công an, cảnh sát**
 - **Luật sư, thẩm phán**
 
-⚠️ **+ Sát bại tinh:** ngành nghề dễ mang tính **LỪA ĐẢO, trục lợi**.
-
 ⚡ **Tính phò tá:** chủ mệnh thường phục vụ, hỗ trợ **cấp trên**, đóng vai trò
 **QUÂN SƯ đứng sau hậu trường**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-quan-loc-sat-tinh',
+    title: '⚠️ Phục Binh + Tứ Sát tại Quan Lộc - Lừa đảo trục lợi',
+    sao: ['Phục Binh'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + sát tinh (Tứ Sát) tại Quan Lộc:** ngành nghề dễ
+mang tính **LỪA ĐẢO, trục lợi**.`,
   },
 
   {
@@ -134,11 +254,19 @@ khác** để đạt mục đích.
     tomTat: `⚠️ **Phục Binh cư Nô:** bè bạn, người giúp việc **KHÔNG TỐT**, hay
 **phản trắc, lừa gạt** — hay bị phản bội.
 
-⚠️ **+ Thai + Phục + Đế Vượng + Tướng Quân** (Thai Phục Vượng Tướng): ra
-ngoài **NHIỀU bạn TÌNH**, quan hệ nam nữ phức tạp.
-
 🌟 **Mặt tích cực:** chủ mệnh có xu hướng **hết lòng phục vụ, giúp đỡ** bạn
 bè, đồng nghiệp.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-no-boc-thai-phuc-vuong-tuong',
+    title: '⚠️ Phục Binh + Thai + Đế Vượng + Tướng Quân tại Nô Bộc - Nhiều bạn tình',
+    sao: ['Phục Binh'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thai', 'Đế Vượng', 'Tướng Quân'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Thai + Đế Vượng + Tướng Quân (Thai Phục Vượng
+Tướng) tại Nô Bộc:** ra ngoài **NHIỀU bạn TÌNH**, quan hệ nam nữ phức tạp.`,
   },
 
   {
@@ -151,13 +279,67 @@ bè, đồng nghiệp.`,
 quyền** → ra ngoài thường bị **đố kỵ, cạnh tranh, ghen ghét**, **bị ám hại**
 (với sao xấu).
 
-⚠️ Người **thẳng thắn, bộc tính** → ưa mềm mỏng → ra ngoài dễ **bị LỪA**.
+⚠️ Người **thẳng thắn, bộc tính** → ưa mềm mỏng → ra ngoài dễ **bị LỪA**.`,
+  },
 
-🌟 **+ Cát tinh:** dễ được **kề cận, phò tá** cho các bậc lãnh đạo.
+  {
+    id: 'phuc-binh-tai-thien-di-luc-cat',
+    title: '🌟 Phục Binh + Lục Cát tại Thiên Di - Phò tá lãnh đạo',
+    sao: ['Phục Binh'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Phục Binh + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Thiên Di:** dễ được **kề cận, phò tá** cho các
+bậc lãnh đạo.`,
+  },
 
-⚠️ **+ Không Kiếp / Đà La / Hóa Kỵ:** thường bị **đố kỵ, cạnh tranh, ám hại**
-→ Ban đầu nhiều va vấp, dễ bị lừa → trải nghiệm rèn thành **bản lĩnh, mưu
-trí**.`,
+  {
+    id: 'phuc-binh-tai-thien-di-khong',
+    title: '⚠️ Phục Binh + Địa Không tại Thiên Di - Bị ám hại',
+    sao: ['Phục Binh'],
+    cung: ['Thiên Di'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Địa Không tại Thiên Di:** thường bị **đố kỵ, cạnh
+tranh, ám hại** → Ban đầu nhiều va vấp, dễ bị lừa → trải nghiệm rèn thành **bản
+lĩnh, mưu trí**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-thien-di-kiep',
+    title: '⚠️ Phục Binh + Địa Kiếp tại Thiên Di - Bị ám hại',
+    sao: ['Phục Binh'],
+    cung: ['Thiên Di'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Địa Kiếp tại Thiên Di:** thường bị **đố kỵ, cạnh
+tranh, ám hại** → Ban đầu nhiều va vấp, dễ bị lừa → trải nghiệm rèn thành **bản
+lĩnh, mưu trí**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-thien-di-da',
+    title: '⚠️ Phục Binh + Đà La tại Thiên Di - Bị ám hại',
+    sao: ['Phục Binh'],
+    cung: ['Thiên Di'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Đà La tại Thiên Di:** thường bị **đố kỵ, cạnh
+tranh, ám hại** → Ban đầu nhiều va vấp, dễ bị lừa → trải nghiệm rèn thành **bản
+lĩnh, mưu trí**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-thien-di-hoa-ky',
+    title: '⚠️ Phục Binh + Hóa Kỵ tại Thiên Di - Bị ám hại',
+    sao: ['Phục Binh'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Hóa Kỵ tại Thiên Di:** thường bị **đố kỵ, cạnh
+tranh, ám hại** → Ban đầu nhiều va vấp, dễ bị lừa → trải nghiệm rèn thành **bản
+lĩnh, mưu trí**.`,
   },
 
   {
@@ -183,28 +365,55 @@ kịp trở tay**.
     doUuTien: 75,
     tomTat: `⚠️ **Phục Binh cư Tài:** người **NHIỀU MƯU KẾ** để kiếm tiền.
 
-⚠️ **+ Sát bại tinh / Kình Đà:** sẵn sàng làm việc **BẤT LƯƠNG** hoặc dễ bị
-người khác **LỪA về tiền bạc**.
-
 ⚠️ Người dễ **vì tiền mà PHẢN BỘI**, lừa người khác → hoặc bị người khác
-**phản bội**.
+**phản bội**.`,
+  },
 
-🌟 **+ Cát tinh:** chủ mệnh **đa mưu**, biết nhiều cách làm ra tiền — phần lớn
-qua việc **PHÒ TÁ, phục vụ người khác**.`,
+  {
+    id: 'phuc-binh-tai-tai-bach-sat-tinh',
+    title: '⚠️ Phục Binh + Tứ Sát tại Tài Bạch - Bất lương',
+    sao: ['Phục Binh'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + sát tinh (Tứ Sát) tại Tài Bạch:** sẵn sàng làm
+việc **BẤT LƯƠNG** hoặc dễ bị người khác **LỪA về tiền bạc**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-tai-bach-luc-cat',
+    title: '🌟 Phục Binh + Lục Cát tại Tài Bạch - Đa mưu phò tá',
+    sao: ['Phục Binh'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Phục Binh + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Tài Bạch:** chủ mệnh **đa mưu**, biết nhiều cách
+làm ra tiền — phần lớn qua việc **PHÒ TÁ, phục vụ người khác**.`,
   },
 
   {
     id: 'phuc-binh-tai-tu-tuc',
-    title: 'Phục Binh tại Tử Tức',
+    title: 'Phục Binh tại Tử Tức + Thai Phục Vượng Tướng',
     sao: ['Phục Binh'],
     cung: ['Tử Tức'],
+    ketHop: ['Đế Vượng', 'Tướng Quân', 'Thai'],
     doUuTien: 70,
     tomTat: `⚠️ **Phục Binh cư Tử Tức + Đế Vượng + Tướng Quân + Thai** (Thai
 Phục Vượng Tướng): vợ chồng dễ có **CON RIÊNG bên ngoài**, **có bầu rồi mới
-cưới** hoặc **lỡ kế hoạch mà có con**.
+cưới** hoặc **lỡ kế hoạch mà có con**.`,
+  },
 
-🌟 **+ Phục Binh + Thiên Hình + Tướng Quân + Quốc Ấn** (Binh Hình Tướng Ấn):
-con cái **THÔNG MINH, MƯU TRÍ**, sau dễ theo **VÕ NGHIỆP, quân đội, công an**.`,
+  {
+    id: 'phuc-binh-tai-tu-tuc-binh-hinh-tuong-an',
+    title: '🌟 Phục Binh + Thiên Hình + Tướng Quân + Quốc Ấn tại Tử Tức',
+    sao: ['Phục Binh'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Hình', 'Tướng Quân', 'Quốc Ấn'],
+    doUuTien: 73,
+    tomTat: `🌟 **Phục Binh + Thiên Hình + Tướng Quân + Quốc Ấn (Binh Hình Tướng
+Ấn) tại Tử Tức:** con cái **THÔNG MINH, MƯU TRÍ**, sau dễ theo **VÕ NGHIỆP,
+quân đội, công an**.`,
   },
 
   {
@@ -216,31 +425,97 @@ con cái **THÔNG MINH, MƯU TRÍ**, sau dễ theo **VÕ NGHIỆP, quân đội,
     tomTat: `⚠️ **Phục Binh cư Phu Thê:** hôn nhân hay bị **NGĂN TRỞ**, vợ chồng
 **BẤT HÒA, KHẮC KHẨU**.
 
-Người hôn phối **lắm mưu nhiều kế**.
+Người hôn phối **lắm mưu nhiều kế**.`,
+  },
 
-⚠️ **+ Đào Hồng / Riêu / Thai:** dễ có **NGOẠI TÌNH bên ngoài**, vợ/chồng hay
-**li kỵ, không tin tưởng** nhau.
+  {
+    id: 'phuc-binh-tai-phu-the-dao',
+    title: '⚠️ Phục Binh + Đào Hoa tại Phu Thê - Ngoại tình',
+    sao: ['Phục Binh'],
+    cung: ['Phu Thê'],
+    ketHop: ['Đào Hoa'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Đào Hoa tại Phu Thê:** dễ có **NGOẠI TÌNH bên
+ngoài**, vợ/chồng hay **li kỵ, không tin tưởng** nhau.`,
+  },
 
-⚠️ **+ Thai + Đế Vượng + Tướng** (Thai Phục Vượng Tướng): "**TIỀN DÂM HẬU
-THÚ**" mới ra vợ chồng — vợ/chồng có **con riêng** rồi mới lấy nhau; sau khi
-lấy dễ có **ngoại tình, con riêng**.
+  {
+    id: 'phuc-binh-tai-phu-the-hong',
+    title: '⚠️ Phục Binh + Hồng Loan tại Phu Thê - Ngoại tình',
+    sao: ['Phục Binh'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hồng Loan'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Hồng Loan tại Phu Thê:** dễ có **NGOẠI TÌNH bên
+ngoài**, vợ/chồng hay **li kỵ, không tin tưởng** nhau.`,
+  },
 
-⚠️ **+ Hóa Kỵ:** vợ chồng bị **NGĂN TRỞ** lúc lấy nhau, **bất hòa**, "**nay
-giận, mai hờn**".`,
+  {
+    id: 'phuc-binh-tai-phu-the-rieu',
+    title: '⚠️ Phục Binh + Thiên Riêu tại Phu Thê - Ngoại tình',
+    sao: ['Phục Binh'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Riêu'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Thiên Riêu tại Phu Thê:** dễ có **NGOẠI TÌNH bên
+ngoài**, vợ/chồng hay **li kỵ, không tin tưởng** nhau.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-phu-the-thai',
+    title: '⚠️ Phục Binh + Thai tại Phu Thê - Ngoại tình',
+    sao: ['Phục Binh'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thai'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Thai tại Phu Thê:** dễ có **NGOẠI TÌNH bên ngoài**,
+vợ/chồng hay **li kỵ, không tin tưởng** nhau.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-phu-the-thai-phuc-vuong-tuong',
+    title: '⚠️ Phục Binh + Thai Phục Vượng Tướng tại Phu Thê - Tiền dâm hậu thú',
+    sao: ['Phục Binh'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thai', 'Đế Vượng', 'Tướng Quân'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Phục Binh + Thai + Đế Vượng + Tướng Quân (Thai Phục Vượng
+Tướng) tại Phu Thê:** "**TIỀN DÂM HẬU THÚ**" mới ra vợ chồng — vợ/chồng có
+**con riêng** rồi mới lấy nhau; sau khi lấy dễ có **ngoại tình, con riêng**.`,
+  },
+
+  {
+    id: 'phuc-binh-tai-phu-the-hoa-ky',
+    title: '⚠️ Phục Binh + Hóa Kỵ tại Phu Thê - Ngăn trở',
+    sao: ['Phục Binh'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Phục Binh + Hóa Kỵ tại Phu Thê:** vợ chồng bị **NGĂN TRỞ** lúc
+lấy nhau, **bất hòa**, "**nay giận, mai hờn**".`,
   },
 
   {
     id: 'phuc-binh-tai-huynh-de',
-    title: 'Phục Binh tại Huynh Đệ',
+    title: 'Phục Binh tại Huynh Đệ + Thai Phục Vượng Tướng',
     sao: ['Phục Binh'],
     cung: ['Huynh Đệ'],
+    ketHop: ['Thai', 'Đế Vượng', 'Tướng Quân'],
     doUuTien: 70,
     tomTat: `⚠️ **Phục Binh cư Huynh Đệ + Thai + Đế Vượng + Tướng Quân** (Thai
 Phục Vượng Tướng): anh chị em có người **PHONG LƯU** hoặc có **anh chị em DỊ
-BÀO** (khác cha/khác mẹ).
+BÀO** (khác cha/khác mẹ).`,
+  },
 
-⚠️ **+ Phá Quân + Tướng Quân chiếu xung:** có **chị em gái theo trai**, say
-mê đến nỗi **HOANG THAI BỎ MÌNH**.`,
+  {
+    id: 'phuc-binh-tai-huynh-de-pha-tuong',
+    title: '⚠️ Phục Binh + Phá Quân + Tướng Quân tại Huynh Đệ - Hoang thai',
+    sao: ['Phục Binh'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Phá Quân', 'Tướng Quân'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Phục Binh + Phá Quân + Tướng Quân (chiếu xung) tại Huynh Đệ:**
+có **chị em gái theo trai**, say mê đến nỗi **HOANG THAI BỎ MÌNH**.`,
   },
 
   {
@@ -298,23 +573,27 @@ dễ có **quan hệ tình cảm trước hôn nhân**, **chung sống** rồi m
     ketHop: ['Hóa Kỵ', 'Thái Tuế'],
     doUuTien: 60,
     tomTat: `⚠️ **Phục Binh + Hóa Kỵ + Thái Tuế:** hay bị **KIỆN CÁO, VU KHỐNG,
-THỊ PHI**.
-
-⚠️ **+ Phục + Tuế + Kỵ trong vận hạn:** có sự **CẠNH TRANH, KIỆN TỤNG, thị
-phi LO LẮNG**.`,
+THỊ PHI**, đặc biệt trong vận hạn → có sự **CẠNH TRANH, KIỆN TỤNG, thị phi LO
+LẮNG**.`,
   },
 
   {
-    id: 'phuc-binh-vao-han',
-    title: 'Phục Binh vào hạn',
+    id: 'phuc-binh-han-tang',
+    title: '⚠️ Hạn Phục Binh + Tang Môn - Tang sự',
     sao: ['Phục Binh'],
-    doUuTien: 50,
-    tomTat: `⚠️ **Hạn có Phục Binh:**
+    ketHop: ['Tang Môn'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Hạn Phục Binh + Tang Môn:** hạn có **TANG**.`,
+  },
 
-- **+ Tang Môn:** hạn có **TANG**
-- **+ Thái Tuế + Hóa Kỵ:** **cạnh tranh, kiện tụng, thị phi**, lo lắng
-- **+ Phá Quân + Tướng Quân + Thai + Riêu:** **cả nghe BỊ LỪA DỐI**, tơ duyên
-  trắc trở, **CHỬA HOANG**`,
+  {
+    id: 'phuc-binh-han-pha-tuong-thai-rieu',
+    title: '⚠️ Hạn Phục Binh + Phá Quân + Tướng Quân + Thai + Thiên Riêu',
+    sao: ['Phục Binh'],
+    ketHop: ['Phá Quân', 'Tướng Quân', 'Thai', 'Thiên Riêu'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Hạn Phục Binh + Phá Quân + Tướng Quân + Thai + Thiên Riêu:**
+**cả nghe BỊ LỪA DỐI**, tơ duyên trắc trở, **CHỬA HOANG**.`,
   },
 
   {

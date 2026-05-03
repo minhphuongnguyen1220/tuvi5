@@ -1047,17 +1047,39 @@ hiếu thảo, đỡ đần.`,
 Người hôn phối **có điều kiện, đảm đang, tháo vát**, tính cách **khéo léo, dễ
 mến dễ gần**.
 
-🌟 **+ Cát tinh:** vợ chồng **xứng lứa vừa đôi**, chung sống hòa thuận như
-**chim liền cánh**.
-
-⚠️ **+ Triệt / Lục Sát / Cô Thần / Quả Tú:** hôn nhân **"sớm nở tối tàn"**, dễ
-cưới mà khó giữ.
-
 ⚠️ **Bộ Hồng - Không - Cô - Quả tụ hội:** hôn nhân dễ vì **ghen tuông** mà nảy
-sinh mâu thuẫn, tổn thương lẫn nhau.
-
-⚠️ **+ Kình Dương / Đà La / Thiên Hình:** xung đột **nghiêm trọng** về cả **thể
-chất lẫn tinh thần**.`,
+sinh mâu thuẫn, tổn thương lẫn nhau.`,
+  },
+  {
+    id: 'dao-hoa-tai-phu-the-luc-cat',
+    title: 'Đào Hoa tại Phu Thê + Lục Cát - Xứng lứa vừa đôi',
+    sao: ['Đào Hoa'],
+    cung: ['Phu Thê'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Phu Thê:** vợ chồng **xứng lứa vừa đôi**, chung
+sống hòa thuận như **chim liền cánh**.`,
+  },
+  {
+    id: 'dao-hoa-tai-phu-the-triet-luc-sat-co-qua',
+    title: 'Đào Hoa tại Phu Thê + Triệt/Lục Sát/Cô Thần/Quả Tú - Sớm nở tối tàn',
+    sao: ['Đào Hoa'],
+    cung: ['Phu Thê'],
+    ketHop: ['Triệt', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Cô Thần', 'Quả Tú'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Đào Hoa + Triệt / Lục Sát / Cô Thần / Quả Tú tại Phu Thê:** hôn
+nhân **"sớm nở tối tàn"**, dễ cưới mà khó giữ.`,
+  },
+  {
+    id: 'dao-hoa-tai-phu-the-kinh-da-hinh',
+    title: 'Đào Hoa tại Phu Thê + Kình/Đà/Hình - Xung đột nghiêm trọng',
+    sao: ['Đào Hoa'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Thiên Hình'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Đào Hoa + Kình Dương / Đà La / Thiên Hình tại Phu Thê:** xung
+đột **nghiêm trọng** về cả **thể chất lẫn tinh thần**.`,
   },
 
   // ============================================================
@@ -1073,9 +1095,17 @@ chất lẫn tinh thần**.`,
 em **cùng giới tính** với mình.
 
 🌟 Đa phần là người **có tài, có duyên ăn nói**, dễ gặt hái thành tựu, có cuộc
-sống **khá giả**.
-
-⚠️ **+ Sao xấu:** anh em **"lắm tài nhiều tật"**:
+sống **khá giả**.`,
+  },
+  {
+    id: 'dao-hoa-tai-huynh-de-luc-sat',
+    title: 'Đào Hoa tại Huynh Đệ + Lục Sát - Lắm tài nhiều tật',
+    sao: ['Đào Hoa'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Đào Hoa + Lục Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh /
+Địa Không / Địa Kiếp) tại Huynh Đệ:** anh em **"lắm tài nhiều tật"**:
 - Người thì **tính cách ngông nghênh**
 - Kẻ thì **đa sầu đa cảm**`,
   },
@@ -1115,11 +1145,18 @@ nhiều **may mắn** trong tình duyên và cuộc sống.
 - Yêu nhau nhiều nhưng **oán hận cũng nhiều**
 - Dễ **chia tay đột ngột**
 
-⚠️ **+ Không Kiếp / Linh Tinh / Đà La:** dễ có **suy nghĩ ngoại tình** hoặc
-**rung động với người khác**, kể cả khi đã có vợ/chồng/người yêu.
-
 ⚡ Bản chất Đào Hoa **khao khát yêu thương, cưng chiều** → đôi khi **thiếu
 tỉnh táo** trong các mối quan hệ → dễ vào **mối duyên ngang trái**.`,
+  },
+  {
+    id: 'dao-hoa-hoa-ky-khong-kiep-linh-da',
+    title: 'Đào Hoa + Hóa Kỵ + Không/Kiếp/Linh/Đà - Ngoại tình',
+    sao: ['Đào Hoa'],
+    ketHop: ['Hóa Kỵ', 'Địa Không', 'Địa Kiếp', 'Linh Tinh', 'Đà La'],
+    doUuTien: 53,
+    tomTat: `⚠️ **Đào Hoa + Hóa Kỵ + Địa Không / Địa Kiếp / Linh Tinh / Đà La:**
+dễ có **suy nghĩ ngoại tình** hoặc **rung động với người khác**, kể cả khi đã
+có vợ/chồng/người yêu.`,
   },
 
   // ============================================================

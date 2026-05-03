@@ -81,9 +81,16 @@ Nếu đứng một mình → **"anh hùng không có đất dụng võ"**.
 🌟 **Đồng cung Tử Vi / Thiên Phủ:** chủ về **tiền tài danh vọng song toàn, văn
 võ toàn tài**.
 
-⚠️ **+ Kình Đà / Hỏa Linh / Hóa Kỵ xung phá:** thành **người bần tiện**.
-
 ⚠️ Đứng một mình + chống chọi **Kình Hỏa Liêm lạc hãm:** trở nên **yếu thế**.`,
+  },
+  {
+    id: 'huu-bat-kinh-da-hoa-linh-ky-xung-pha',
+    title: 'Hữu Bật + Kình Đà/Hỏa Linh/Hóa Kỵ xung phá - Người bần tiện',
+    sao: ['Hữu Bật'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Hóa Kỵ'],
+    doUuTien: 30,
+    tomTat: `⚠️ **Hữu Bật + Kình Dương / Đà La / Hỏa Tinh / Linh Tinh / Hóa Kỵ
+xung phá:** thành **người bần tiện**.`,
   },
 
   // ============================================================
@@ -183,10 +190,18 @@ Chủ mệnh thường được **người lớn tuổi, quý nhân yêu mến**
     tomTat: `**Hữu Bật tại Phúc Đức:** dòng họ có **nhiều người ly hương** và
 **thành công, giàu có ở xứ người**.
 
-Chủ mệnh được **hưởng phúc đức, sống lâu** — **càng xa quê càng dễ thành công**.
-
-⚠️ **+ Không Kiếp / Linh Hỏa / Hóa Kỵ:** phúc đức **suy giảm**, dòng họ **ly tán,
-lụn bại**, phải **phiêu bạt nơi xa** mới được yên thân.`,
+Chủ mệnh được **hưởng phúc đức, sống lâu** — **càng xa quê càng dễ thành công**.`,
+  },
+  {
+    id: 'huu-bat-tai-phuc-duc-khong-kiep-linh-hoa-ky',
+    title: 'Hữu Bật tại Phúc Đức + Không/Kiếp/Linh/Hỏa/Hóa Kỵ - Phúc đức suy giảm',
+    sao: ['Hữu Bật'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Linh Tinh', 'Hỏa Tinh', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hữu Bật + Địa Không / Địa Kiếp / Linh Tinh / Hỏa Tinh / Hóa Kỵ
+tại Phúc Đức:** phúc đức **suy giảm**, dòng họ **ly tán, lụn bại**, phải
+**phiêu bạt nơi xa** mới được yên thân.`,
   },
 
   // ============================================================
@@ -250,10 +265,17 @@ Luôn có người **sẵn sàng giúp đỡ, hỗ trợ** → chủ mệnh **kh
     cung: ['Thiên Di'],
     doUuTien: 78,
     tomTat: `**Hữu Bật tại Thiên Di:** đương số **hay đi đây đi đó**, ra ngoài có
-**nhiều quý nhân, trợ thủ giúp đỡ**.
-
-⚠️ **+ Kình Dương / Đà La / Hóa Kỵ:** dễ bị **tiểu nhân bày mưu tính kế, mưu hại
-có tổ chức**, khó lòng chống đỡ.`,
+**nhiều quý nhân, trợ thủ giúp đỡ**.`,
+  },
+  {
+    id: 'huu-bat-tai-thien-di-kinh-da-ky',
+    title: 'Hữu Bật tại Thiên Di + Kình/Đà/Hóa Kỵ - Tiểu nhân mưu hại',
+    sao: ['Hữu Bật'],
+    cung: ['Thiên Di'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hữu Bật + Kình Dương / Đà La / Hóa Kỵ tại Thiên Di:** dễ bị
+**tiểu nhân bày mưu tính kế, mưu hại có tổ chức**, khó lòng chống đỡ.`,
   },
 
   // ============================================================
@@ -266,10 +288,17 @@ có tổ chức**, khó lòng chống đỡ.`,
     cung: ['Tật Ách'],
     doUuTien: 75,
     tomTat: `**Hữu Bật tại Tật Ách:** khi bệnh **dễ gặp thầy hay thuốc tốt**, **mau
-chóng khỏi bệnh**.
-
-⚠️ **+ Không Kiếp / Kình Dương / Linh Tinh hãm địa:** bệnh tật **kéo dài, khó
-chữa, gây biến chứng**.`,
+chóng khỏi bệnh**.`,
+  },
+  {
+    id: 'huu-bat-tai-tat-ach-khong-kiep-kinh-linh',
+    title: 'Hữu Bật tại Tật Ách + Không/Kiếp/Kình/Linh hãm - Bệnh kéo dài',
+    sao: ['Hữu Bật'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hữu Bật + Địa Không / Địa Kiếp / Kình Dương / Linh Tinh hãm địa
+tại Tật Ách:** bệnh tật **kéo dài, khó chữa, gây biến chứng**.`,
   },
 
   // ============================================================
@@ -316,10 +345,19 @@ thiếu thốn**.`,
 
 - Dễ có **2 đời vợ/chồng** hoặc kết hôn với người **đã từng lập gia đình**
 - Vợ chồng thường **chênh lệch tuổi tác, khác quê quán hoặc khác tôn giáo**
-- ⚠️ **+ Kình Đà / Không Kiếp / Thiên Hình:** hôn nhân **càng dễ ly tán, đổ vỡ**
 
 🟡 Có thể cứu vãn nếu Phu Thê có thêm **chính tinh hữu lực** hoặc một số sát tinh
 tạo thế cân bằng → hôn nhân vẫn có thể hài hòa.`,
+  },
+  {
+    id: 'huu-bat-tai-phu-the-kinh-da-khong-kiep-hinh',
+    title: 'Hữu Bật tại Phu Thê + Kình Đà/Không Kiếp/Thiên Hình - Ly tán đổ vỡ',
+    sao: ['Hữu Bật'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp', 'Thiên Hình'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Hữu Bật + Kình Dương / Đà La / Địa Không / Địa Kiếp / Thiên Hình
+tại Phu Thê:** hôn nhân **càng dễ ly tán, đổ vỡ**.`,
   },
 
   // ============================================================
@@ -352,10 +390,7 @@ lòng giúp đỡ nhau** khi cần.`,
 hiển. Có người **đắc lực hỗ trợ** (trợ lý, thư ký, quý nhân).
 
 ⚡ **Bận rộn, di chuyển:** phải **đi công tác, thay đổi nơi làm việc**, hoặc bắt
-đầu **công việc mới ở phương xa**.
-
-⚠️ **+ Đào Hoa / Hồng Loan / Thiên Riêu / Mộc Dục:** dễ nảy sinh **tình cảm ngoài
-luồng**, **vướng tình tay ba** → hôn nhân rạn nứt nếu không biết giữ mình.`,
+đầu **công việc mới ở phương xa**.`,
 
     chiTiet: `## 1. Hạn thăng quan tiến chức
 
@@ -378,5 +413,15 @@ Hữu Bật bản chất là sao trợ lực — tượng trưng cho **người 
 - **Dễ nảy sinh tình cảm ngoài luồng**
 - Nếu không giữ mình → **vướng tình tay ba**
 - **Hôn nhân rạn nứt**`,
+  },
+  {
+    id: 'huu-bat-han-dao-hong-rieu-moc-duc',
+    title: 'Hạn Tả Hữu + Đào Hoa/Hồng Loan/Thiên Riêu/Mộc Dục - Tình ngoài luồng',
+    sao: ['Hữu Bật', 'Tả Phù'],
+    ketHop: ['Đào Hoa', 'Hồng Loan', 'Thiên Riêu', 'Mộc Dục'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Hạn Tả Phù + Hữu Bật + Đào Hoa / Hồng Loan / Thiên Riêu / Mộc
+Dục:** dễ nảy sinh **tình cảm ngoài luồng**, **vướng tình tay ba** → hôn nhân
+rạn nứt nếu không biết giữ mình.`,
   },
 ];

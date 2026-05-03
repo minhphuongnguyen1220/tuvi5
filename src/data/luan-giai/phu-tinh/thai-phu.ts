@@ -358,16 +358,51 @@ con cháu hưởng phúc trạch lâu dài.`,
 - Người hay được **BAN CẤP, TẶNG ĐIỀN SẢN**
 - Hay có **CỦA CẢI CỦA TIỀN NHÂN ĐỂ LẠI**
 - Nhà treo nhiều **GIẤY KHEN, BẰNG KHEN, GIẢI THƯỞNG**
-- "**NGỒI MÁT ĂN BÁT VÀNG**"
+- "**NGỒI MÁT ĂN BÁT VÀNG**"`,
+  },
 
-⚡ **Bộ kết hợp đặc biệt:**
-- **+ Quốc Ấn:** ban cấp điền sản ăn lộc, khẩn hoang. Nhà cửa, đất đai
-  **ĐẤU THẦU ĐƯỢC**
-- **+ Quốc Ấn + Tử Vi + Thiên Phủ:** giàu có về điền sản, **NHÀ CAO CỬA
-  RỘNG**. Người hay **BUÔN ĐẤT BUÔN CÁT** được
-- **+ Phượng Các:** nhà cao cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp
+  {
+    id: 'thai-phu-phong-cao-tai-dien-trach-quoc-an',
+    title: '⚡ Thai Phụ - Phong Cáo + Quốc Ấn tại Điền Trạch - đấu thầu được đất',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Quốc Ấn'],
+    doUuTien: 70,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Quốc Ấn tại Điền Trạch:** ban cấp điền
+sản ăn lộc, khẩn hoang. Nhà cửa, đất đai **ĐẤU THẦU ĐƯỢC**.`,
+  },
 
-⚡ **+ Long Trì + Phượng Các:**
+  {
+    id: 'thai-phu-phong-cao-tai-dien-trach-tu-phu',
+    title: '⚡ Thai Phụ - Phong Cáo + Quốc Ấn + Tử Vi + Thiên Phủ tại Điền Trạch - giàu điền sản',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Quốc Ấn', 'Tử Vi', 'Thiên Phủ'],
+    doUuTien: 72,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Quốc Ấn + Tử Vi + Thiên Phủ tại Điền
+Trạch:** giàu có về điền sản, **NHÀ CAO CỬA RỘNG**. Người hay **BUÔN ĐẤT BUÔN
+CÁT** được.`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-dien-trach-phuong-cac',
+    title: '⚡ Thai Phụ - Phong Cáo + Phượng Các tại Điền Trạch - nhà cao cửa rộng',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Phượng Các'],
+    doUuTien: 70,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Phượng Các tại Điền Trạch:** nhà cao
+cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp.`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-dien-trach-long-phuong',
+    title: '⚡ Thai Phụ - Phong Cáo + Long Trì + Phượng Các tại Điền Trạch - an cư lạc nghiệp',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Long Trì', 'Phượng Các'],
+    doUuTien: 70,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Long Trì + Phượng Các tại Điền Trạch:**
 - Cuộc sống **AN CƯ LẠC NGHIỆP** từ sớm
 - Khu xóm xung quanh hầu hết là **NGƯỜI TRÍ THỨC, GIÀU CÓ**, an ninh yên ổn`,
   },
@@ -392,13 +427,29 @@ con cháu hưởng phúc trạch lâu dài.`,
 ⚡ **Phân biệt 2 sao tại Quan:**
 - **Thai Phụ:** chủ về **HUÂN HUY CHƯƠNG, KHEN THƯỞNG, BẰNG KHEN**
 - **Phong Cáo:** chủ về **THĂNG CẤP, THĂNG QUAN TIẾN CHỨC** + thích quyền
-  uy ra oai sử dụng chức vụ
+  uy ra oai sử dụng chức vụ`,
+  },
 
-⚡ **+ Tướng + Quốc Ấn:**
+  {
+    id: 'thai-phu-phong-cao-tai-quan-loc-tuong-quoc-an',
+    title: '⚡ Thai Phụ - Phong Cáo + Thiên Tướng + Quốc Ấn tại Quan Lộc - quý hiển',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Tướng', 'Quốc Ấn'],
+    doUuTien: 75,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Thiên Tướng + Quốc Ấn tại Quan Lộc:**
 - **RẤT QUÝ HIỂN, ĐƯỢC TRỌNG DỤNG**
-- Có **HUY CHƯƠNG, TƯỞNG LỤC**
+- Có **HUY CHƯƠNG, TƯỞNG LỤC**`,
+  },
 
-⚠️ **+ Hóa Kỵ:**
+  {
+    id: 'thai-phu-phong-cao-tai-quan-loc-hoa-ky',
+    title: '⚠️ Thai Phụ - Phong Cáo + Hóa Kỵ tại Quan Lộc - thi trượt',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thai Phụ - Phong Cáo + Hóa Kỵ tại Quan Lộc:**
 - Đường công danh **TRẮC TRỞ**
 - Phải qua **NHIỀU LẦN THI TRƯỢT** mới đỗ đạt
 - Hoặc danh hiệu **NHIỀU LẦN CỐ GẮNG** mới có`,
@@ -454,15 +505,24 @@ con cháu hưởng phúc trạch lâu dài.`,
 - Được trao tặng nhiều **BẰNG CẤP, KHEN THƯỞNG**
 - Thuận lợi trong **ĐI XA, ĐI HỌC XA, DU HỌC**
 
-⚡ **+ Khôi Việt + Hoa Cái:**
-- Được **NGƯỜI ĐỜI NÂNG ĐỠ, DẪN DẮT**
-- "**THA HƯƠNG NƠI ĐẤT KHÁCH**" càng dễ phát triển
-
 ⚡ **Du học, lập nghiệp xứ người:**
 - Cách cục "**THIÊN THỜI - ĐỊA LỢI - NHÂN HÒA**"
 - Việc lớn **DỄ THÀNH**
 - Việc nhỏ **HANH THÔNG**
 - Đương số có **QUÝ TINH SOI LỐI**`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-thien-di-khoi-viet-hoa-cai',
+    title: '⚡ Thai Phụ - Phong Cáo + Khôi Việt + Hoa Cái tại Thiên Di - người đời nâng đỡ',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt', 'Hoa Cái'],
+    doUuTien: 70,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Thiên Khôi + Thiên Việt + Hoa Cái tại
+Thiên Di:**
+- Được **NGƯỜI ĐỜI NÂNG ĐỠ, DẪN DẮT**
+- "**THA HƯƠNG NƠI ĐẤT KHÁCH**" càng dễ phát triển`,
   },
 
   {
@@ -534,12 +594,76 @@ con cháu hưởng phúc trạch lâu dài.`,
 - Đạt **NHIỀU THÀNH TÍCH, CHỨC DANH** trong cuộc đời
 - "**CON NHÀ NÒI**", có **TƯ CHẤT THÔNG MINH, SÁNG DẠ** từ bé
 - **BẰNG KHEN, TRAO THƯỞNG TREO KÍN NHÀ**
-- Càng siêng học, càng dễ có thành tích
+- Càng siêng học, càng dễ có thành tích`,
+  },
 
-⚡ **+ Quang Quý / Quốc Ấn / Thiên Tướng:**
-- Con cái **HIỂN ĐẠT** đỉnh cao
+  {
+    id: 'thai-phu-phong-cao-tai-tu-tuc-thien-quang',
+    title: '⚡ Thai Phụ - Phong Cáo + Thiên Quang tại Tử Tức - con hiển đạt đỉnh cao',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Quang'],
+    doUuTien: 73,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Thiên Quang tại Tử Tức:** con cái **HIỂN
+ĐẠT** đỉnh cao.`,
+  },
 
-⚠️ **+ Hung tinh** (Hỏa Tinh, Linh Tinh):
+  {
+    id: 'thai-phu-phong-cao-tai-tu-tuc-thien-quy',
+    title: '⚡ Thai Phụ - Phong Cáo + Thiên Quý tại Tử Tức - con hiển đạt đỉnh cao',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Quý'],
+    doUuTien: 73,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Thiên Quý tại Tử Tức:** con cái **HIỂN
+ĐẠT** đỉnh cao.`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-tu-tuc-quoc-an',
+    title: '⚡ Thai Phụ - Phong Cáo + Quốc Ấn tại Tử Tức - con hiển đạt đỉnh cao',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Tử Tức'],
+    ketHop: ['Quốc Ấn'],
+    doUuTien: 73,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Quốc Ấn tại Tử Tức:** con cái **HIỂN
+ĐẠT** đỉnh cao.`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-tu-tuc-thien-tuong',
+    title: '⚡ Thai Phụ - Phong Cáo + Thiên Tướng tại Tử Tức - con hiển đạt đỉnh cao',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Tướng'],
+    doUuTien: 73,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Thiên Tướng tại Tử Tức:** con cái **HIỂN
+ĐẠT** đỉnh cao.`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-tu-tuc-hoa-tinh',
+    title: '⚠️ Thai Phụ - Phong Cáo + Hỏa Tinh tại Tử Tức - con xa cách',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thai Phụ - Phong Cáo + Hỏa Tinh tại Tử Tức:**
+- Con thường **ÍT GẮN BÓ**
+- **XA CÁCH** với cha mẹ
+- Cha mẹ **ÍT ĐƯỢC CON CHĂM SÓC**
+- Quan niệm xưa gọi là cách "**BẤT HIẾU**"
+- Hiện đại: mối quan hệ **THIẾU HÒA THUẬN**`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-tu-tuc-linh-tinh',
+    title: '⚠️ Thai Phụ - Phong Cáo + Linh Tinh tại Tử Tức - con xa cách',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Tử Tức'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thai Phụ - Phong Cáo + Linh Tinh tại Tử Tức:**
 - Con thường **ÍT GẮN BÓ**
 - **XA CÁCH** với cha mẹ
 - Cha mẹ **ÍT ĐƯỢC CON CHĂM SÓC**
@@ -561,13 +685,65 @@ con cháu hưởng phúc trạch lâu dài.`,
 - Người hôn phối **THUẬN LỢI** trong con đường **CÔNG DANH, KHOA BẢNG**
 - **NHIỀU THÀNH TỰU** trong cuộc đời
 - Hôn nhân **XỨNG LỨA VỪA ĐÔI**
-- Vợ chồng **THUẬN HÒA, GIỮ TRỌN ĐẠO NGHĨA**
+- Vợ chồng **THUẬN HÒA, GIỮ TRỌN ĐẠO NGHĨA**`,
+  },
 
-⚡ **+ Khôi Việt / Tả Hữu:**
+  {
+    id: 'thai-phu-phong-cao-tai-phu-the-thien-khoi',
+    title: '⚡ Thai Phụ - Phong Cáo + Thiên Khôi tại Phu Thê - hôn phối học vị cao',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 73,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Thiên Khôi tại Phu Thê:**
 - Người hôn phối có **HỌC VỊ CAO, TRÍ THỨC UYÊN BÁC**
-- Hỗ trợ đắc lực cho **ĐƯỜNG CÔNG DANH** của đương số
+- Hỗ trợ đắc lực cho **ĐƯỜNG CÔNG DANH** của đương số`,
+  },
 
-⚠️ **+ Đào Hoa + nhiều sát tinh:**
+  {
+    id: 'thai-phu-phong-cao-tai-phu-the-thien-viet',
+    title: '⚡ Thai Phụ - Phong Cáo + Thiên Việt tại Phu Thê - hôn phối học vị cao',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Thiên Việt tại Phu Thê:**
+- Người hôn phối có **HỌC VỊ CAO, TRÍ THỨC UYÊN BÁC**
+- Hỗ trợ đắc lực cho **ĐƯỜNG CÔNG DANH** của đương số`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-phu-the-ta-phu',
+    title: '⚡ Thai Phụ - Phong Cáo + Tả Phù tại Phu Thê - hôn phối học vị cao',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Phu Thê'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 73,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Tả Phù tại Phu Thê:**
+- Người hôn phối có **HỌC VỊ CAO, TRÍ THỨC UYÊN BÁC**
+- Hỗ trợ đắc lực cho **ĐƯỜNG CÔNG DANH** của đương số`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-phu-the-huu-bat',
+    title: '⚡ Thai Phụ - Phong Cáo + Hữu Bật tại Phu Thê - hôn phối học vị cao',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 73,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Hữu Bật tại Phu Thê:**
+- Người hôn phối có **HỌC VỊ CAO, TRÍ THỨC UYÊN BÁC**
+- Hỗ trợ đắc lực cho **ĐƯỜNG CÔNG DANH** của đương số`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-phu-the-dao-hoa-sat',
+    title: '⚠️ Thai Phụ - Phong Cáo + Đào Hoa + Sát tinh tại Phu Thê - một lòng hai dạ',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Phu Thê'],
+    ketHop: ['Đào Hoa', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thai Phụ - Phong Cáo + Đào Hoa + Lục Sát tại Phu Thê:**
 - Một trong hai dễ có suy nghĩ **NGOÀI LUỒNG**
 - "**MỘT LÒNG HAI DẠ**"
 - Thiếu sự **THỦY CHUNG**`,
@@ -588,13 +764,57 @@ con cháu hưởng phúc trạch lâu dài.`,
 - Học vị **ĐÁNG NỂ**
 - Đảm nhiệm các **VỊ TRÍ LÃNH ĐẠO, QUẢN LÝ CẤP CAO**
 
-⚡ **+ Tả Phù / Hữu Bật / Khôi Việt:**
-- Sự **GIÚP ĐỠ TỪ HÌNH ẢNH, BẰNG CẤP, ĐỊA VỊ** của anh chị
-- Trong lĩnh vực **CHUYÊN MÔN**
-
-⚠️ **Không có các sao trên:**
+⚠️ **Không có cát tinh phù trợ:**
 - Dù có nhận được sự trợ giúp nhưng **KHÔNG ĐÁNG KỂ**
 - Dễ vì **VỊ TRÍ KHÁC BIỆT** mà mối quan hệ có nhiều **KHOẢNG CÁCH**`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-huynh-de-ta-phu',
+    title: '⚡ Thai Phụ - Phong Cáo + Tả Phù tại Huynh Đệ - anh chị giúp đỡ chuyên môn',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 70,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Tả Phù tại Huynh Đệ:**
+- Sự **GIÚP ĐỠ TỪ HÌNH ẢNH, BẰNG CẤP, ĐỊA VỊ** của anh chị
+- Trong lĩnh vực **CHUYÊN MÔN**`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-huynh-de-huu-bat',
+    title: '⚡ Thai Phụ - Phong Cáo + Hữu Bật tại Huynh Đệ - anh chị giúp đỡ chuyên môn',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Hữu Bật tại Huynh Đệ:**
+- Sự **GIÚP ĐỠ TỪ HÌNH ẢNH, BẰNG CẤP, ĐỊA VỊ** của anh chị
+- Trong lĩnh vực **CHUYÊN MÔN**`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-huynh-de-thien-khoi',
+    title: '⚡ Thai Phụ - Phong Cáo + Thiên Khôi tại Huynh Đệ - anh chị giúp đỡ chuyên môn',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 70,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Thiên Khôi tại Huynh Đệ:**
+- Sự **GIÚP ĐỠ TỪ HÌNH ẢNH, BẰNG CẤP, ĐỊA VỊ** của anh chị
+- Trong lĩnh vực **CHUYÊN MÔN**`,
+  },
+
+  {
+    id: 'thai-phu-phong-cao-tai-huynh-de-thien-viet',
+    title: '⚡ Thai Phụ - Phong Cáo + Thiên Việt tại Huynh Đệ - anh chị giúp đỡ chuyên môn',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Thiên Việt tại Huynh Đệ:**
+- Sự **GIÚP ĐỠ TỪ HÌNH ẢNH, BẰNG CẤP, ĐỊA VỊ** của anh chị
+- Trong lĩnh vực **CHUYÊN MÔN**`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -620,9 +840,16 @@ con cháu hưởng phúc trạch lâu dài.`,
 - Báo hiệu **GIAI ĐOẠN HOÀNG KIM**
 - Cần **NẮM BẮT THỜI CƠ**
 - Trau dồi **KIẾN THỨC**, rèn luyện **KỸ NĂNG**
-- Mở rộng **MỐI QUAN HỆ XÃ HỘI**
+- Mở rộng **MỐI QUAN HỆ XÃ HỘI**`,
+  },
 
-⚡ **+ Long Trì:**
-- Sẽ được **THĂNG QUAN, TIẾN CHỨC**`,
+  {
+    id: 'thai-phu-phong-cao-vao-han-long-tri',
+    title: '⚡ Thai Phụ - Phong Cáo + Long Trì vào hạn - thăng quan tiến chức',
+    sao: ['Thai Phụ', 'Phong Cáo'],
+    ketHop: ['Long Trì'],
+    doUuTien: 45,
+    tomTat: `⚡ **Thai Phụ - Phong Cáo + Long Trì vào hạn:** sẽ được **THĂNG
+QUAN, TIẾN CHỨC**.`,
   },
 ];

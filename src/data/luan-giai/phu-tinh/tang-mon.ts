@@ -116,10 +116,60 @@ MÁT, BUỒN PHIỀN**.
     chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
     gioiTinh: 'Nam',
     doUuTien: 73,
-    tomTat: `🌟 **Tang Môn ĐẮC ĐỊA tại Mệnh - Nam mệnh:**
+    tomTat: `🌟 **Tang Môn ĐẮC ĐỊA tại Mệnh - Nam mệnh:** đa năng văn võ song
+toàn, theo nhánh nào sẽ hiển đạt theo nhánh đó.`,
+  },
 
-🌟 **+ Văn tinh hội chiếu:** hiển đạt về **CHÍNH TRỊ**.
-🌟 **+ Võ tinh đi kèm:** hiển đạt về **QUÂN SỰ**.`,
+  {
+    id: 'tang-mon-tai-menh-dac-dia-nam-van-tinh',
+    title: '🌟 Tang Môn Đắc + Văn tinh tại Mệnh - Nam hiển đạt chính trị',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    gioiTinh: 'Nam',
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Lưu Niên Văn Tinh', 'Hóa Khoa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn Đắc địa tại Mệnh + Văn tinh (Văn Xương / Văn Khúc /
+Lưu Niên Văn Tinh / Hóa Khoa) - Nam mệnh:** hiển đạt về **CHÍNH TRỊ**.`,
+  },
+
+  {
+    id: 'tang-mon-tai-menh-dac-dia-nam-vo-tinh-thien-hinh',
+    title: '🌟 Tang Môn Đắc + Thiên Hình tại Mệnh - Nam hiển đạt quân sự',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    gioiTinh: 'Nam',
+    ketHop: ['Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn Đắc địa tại Mệnh + Thiên Hình (võ tinh) - Nam mệnh:**
+hiển đạt về **QUÂN SỰ**.`,
+  },
+
+  {
+    id: 'tang-mon-tai-menh-dac-dia-nam-vo-tinh-thien-tuong',
+    title: '🌟 Tang Môn Đắc + Thiên Tướng tại Mệnh - Nam hiển đạt quân sự',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    gioiTinh: 'Nam',
+    ketHop: ['Thiên Tướng'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn Đắc địa tại Mệnh + Thiên Tướng (võ tinh) - Nam mệnh:**
+hiển đạt về **QUÂN SỰ**.`,
+  },
+
+  {
+    id: 'tang-mon-tai-menh-dac-dia-nam-vo-tinh-tuong-quan',
+    title: '🌟 Tang Môn Đắc + Tướng Quân tại Mệnh - Nam hiển đạt quân sự',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    chi: ['Dần', 'Thân', 'Mão', 'Dậu'],
+    gioiTinh: 'Nam',
+    ketHop: ['Tướng Quân'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn Đắc địa tại Mệnh + Tướng Quân (võ tinh) - Nam mệnh:**
+hiển đạt về **QUÂN SỰ**.`,
   },
 
   {
@@ -188,9 +238,17 @@ MÁT, BUỒN PHIỀN**.
 ⚠️ **Bất lợi sinh nở (nữ Mệnh):**
 - Có thể **NGUY HIỂM TÍNH MẠNG vì sinh đẻ** — mình chết hoặc con chết
 - Đau yếu **TỬ CUNG**, **HƯ THAI**
-- Dù có sinh con cũng **HẾT SỨC KHÓ NUÔI**
+- Dù có sinh con cũng **HẾT SỨC KHÓ NUÔI**`,
+  },
 
-⚠️ **+ Sát Tinh:**
+  {
+    id: 'tang-mon-menh-mo-coi-sat-tinh',
+    title: '⚠️ Tang Môn + Tứ Sát thủ Mệnh - Khổ cực bệnh trầm kha',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tang Môn + sát tinh (Tứ Sát) thủ Mệnh:**
 - **KHỔ CỰC, CÔ ĐỘC**
 - **KHẮC vợ chồng**, GÓA BỤA
 - **BẮT BỚ, GIAM CẦM**
@@ -242,29 +300,95 @@ BIỆN**.
 - **GIÁO SƯ**
 - **QUAN TÒA, LUẬT SƯ**
 
-🌟 **+ Lưu Hà / Lưu Thiên Khốc / Lưu Thiên Hư / Văn Xương / Văn Khúc:** tài hùng
-biện đạt **MỨC QUỐC TẾ**:
-- **HIỂN ĐẠT về KHOA CỬ** (thi đỗ cao)
-- **CÔNG DANH** (chức phận lớn, nhiều người biết tiếng)
-- **TÂM LÝ CHIẾN** (huy động quần chúng, vận động tinh thần)
-
 → Đây là cách **HÓA GIẢI ĐẸP NHẤT** Tang Môn — biến nỗi đau thành **TIẾNG NÓI**.`,
   },
 
   {
-    id: 'tang-mon-tai-menh-cat-tinh',
-    title: 'Tang Môn tại Mệnh + Cát Tinh',
+    id: 'tang-mon-tau-thu-luu-ha',
+    title: '🌟 Tang Môn + Tấu Thư + Lưu Hà - Hùng biện quốc tế',
+    sao: ['Tang Môn'],
+    ketHop: ['Tấu Thư', 'Lưu Hà'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn + Tấu Thư + Lưu Hà:** tài hùng biện đạt **MỨC QUỐC
+TẾ**:
+- **HIỂN ĐẠT về KHOA CỬ** (thi đỗ cao)
+- **CÔNG DANH** (chức phận lớn, nhiều người biết tiếng)
+- **TÂM LÝ CHIẾN** (huy động quần chúng, vận động tinh thần)`,
+  },
+
+  {
+    id: 'tang-mon-tau-thu-luu-khoc',
+    title: '🌟 Tang Môn + Tấu Thư + Lưu Thiên Khốc - Hùng biện quốc tế',
+    sao: ['Tang Môn'],
+    ketHop: ['Tấu Thư', 'Lưu Thiên Khốc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn + Tấu Thư + Lưu Thiên Khốc:** tài hùng biện đạt **MỨC
+QUỐC TẾ**:
+- **HIỂN ĐẠT về KHOA CỬ**
+- **CÔNG DANH**
+- **TÂM LÝ CHIẾN**`,
+  },
+
+  {
+    id: 'tang-mon-tau-thu-luu-hu',
+    title: '🌟 Tang Môn + Tấu Thư + Lưu Thiên Hư - Hùng biện quốc tế',
+    sao: ['Tang Môn'],
+    ketHop: ['Tấu Thư', 'Lưu Thiên Hư'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn + Tấu Thư + Lưu Thiên Hư:** tài hùng biện đạt **MỨC
+QUỐC TẾ**:
+- **HIỂN ĐẠT về KHOA CỬ**
+- **CÔNG DANH**
+- **TÂM LÝ CHIẾN**`,
+  },
+
+  {
+    id: 'tang-mon-tau-thu-xuong',
+    title: '🌟 Tang Môn + Tấu Thư + Văn Xương - Hùng biện quốc tế',
+    sao: ['Tang Môn'],
+    ketHop: ['Tấu Thư', 'Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn + Tấu Thư + Văn Xương:** tài hùng biện đạt **MỨC QUỐC
+TẾ**:
+- **HIỂN ĐẠT về KHOA CỬ**
+- **CÔNG DANH**
+- **TÂM LÝ CHIẾN**`,
+  },
+
+  {
+    id: 'tang-mon-tau-thu-khuc',
+    title: '🌟 Tang Môn + Tấu Thư + Văn Khúc - Hùng biện quốc tế',
+    sao: ['Tang Môn'],
+    ketHop: ['Tấu Thư', 'Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn + Tấu Thư + Văn Khúc:** tài hùng biện đạt **MỨC QUỐC
+TẾ**:
+- **HIỂN ĐẠT về KHOA CỬ**
+- **CÔNG DANH**
+- **TÂM LÝ CHIẾN**`,
+  },
+
+  {
+    id: 'tang-mon-tai-menh-khoi-viet-quang-quy',
+    title: '🌟 Tang Môn + Khôi Việt + Quang Quý tại Mệnh',
     sao: ['Tang Môn'],
     cung: ['Mệnh'],
-    ketHop: ['Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt', 'Ân Quang', 'Thiên Quý'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt', 'Ân Quang', 'Thiên Quý'],
     doUuTien: 70,
-    tomTat: `🌟 **Tang Môn tại Mệnh + Tả Hữu / Khôi Việt / Quang Quý:**
-
-🌟 **+ Khôi Việt + Quang Quý:**
+    tomTat: `🌟 **Tang Môn + Thiên Khôi + Thiên Việt + Ân Quang + Thiên Quý tại
+Mệnh:**
 - Bản mệnh hay **ÂM THẦM GIÚP ĐỠ** người khác
-- Vì "**ở hiền gặp lành**" → dễ được **QUÝ NHÂN nâng đỡ**
+- Vì "**ở hiền gặp lành**" → dễ được **QUÝ NHÂN nâng đỡ**`,
+  },
 
-🌟 **+ Tả Phù + Hữu Bật:**
+  {
+    id: 'tang-mon-tai-menh-ta-huu',
+    title: '🌟 Tang Môn + Tả Phù + Hữu Bật tại Mệnh',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn + Tả Phù + Hữu Bật tại Mệnh:**
 - Bên ngoài thể hiện tính cách **HÒA ĐỒNG**, biết **GIỮ HÒA KHÍ**
 - Bên trong **CHE GIẤU CẢM XÚC**, không thể hiện bất mãn để **bảo vệ MỐI QUAN
   HỆ XÃ HỘI**
@@ -273,26 +397,98 @@ biện đạt **MỨC QUỐC TẾ**:
   },
 
   {
-    id: 'tang-mon-menh-hung-tinh',
-    title: 'Tang Môn tại Mệnh + Hung Tinh - lập dị bị ghét bỏ',
+    id: 'tang-mon-menh-hoa-linh-hinh',
+    title: '⚠️ Tang Môn + Hỏa Tinh tại Mệnh - Cảm xúc bộc phát',
     sao: ['Tang Môn'],
     cung: ['Mệnh'],
-    ketHop: ['Hỏa Tinh', 'Linh Tinh', 'Thiên Hình', 'Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp'],
-    doUuTien: 70,
-    tomTat: `⚠️ **Tang Môn tại Mệnh + Hung Tinh:**
-
-⚠️ **+ Hỏa Tinh / Linh Tinh / Thiên Hình:**
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Tang Môn + Hỏa Tinh tại Mệnh:**
 - Cảm xúc bị **KÌM NÉN lâu ngày** dễ **BỘC PHÁT**, gây hậu quả **khó lường**
 - Dễ rơi vào trạng thái **LIỀU LĨNH, MẠO HIỂM**
-- Thậm chí có thể **TỔN HẠI BẢN THÂN**
+- Thậm chí có thể **TỔN HẠI BẢN THÂN**`,
+  },
 
-⚠️ **+ Kình Đà / Không Kiếp:**
+  {
+    id: 'tang-mon-menh-linh',
+    title: '⚠️ Tang Môn + Linh Tinh tại Mệnh - Cảm xúc bộc phát',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Tang Môn + Linh Tinh tại Mệnh:**
+- Cảm xúc bị **KÌM NÉN lâu ngày** dễ **BỘC PHÁT**, gây hậu quả **khó lường**
+- Dễ rơi vào trạng thái **LIỀU LĨNH, MẠO HIỂM**
+- Thậm chí có thể **TỔN HẠI BẢN THÂN**`,
+  },
+
+  {
+    id: 'tang-mon-menh-thien-hinh',
+    title: '⚠️ Tang Môn + Thiên Hình tại Mệnh - Cảm xúc bộc phát',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Tang Môn + Thiên Hình tại Mệnh:**
+- Cảm xúc bị **KÌM NÉN lâu ngày** dễ **BỘC PHÁT**, gây hậu quả **khó lường**
+- Dễ rơi vào trạng thái **LIỀU LĨNH, MẠO HIỂM**
+- Thậm chí có thể **TỔN HẠI BẢN THÂN**`,
+  },
+
+  {
+    id: 'tang-mon-menh-kinh',
+    title: '⚠️ Tang Môn + Kình Dương tại Mệnh - Lập dị bị cô lập',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Tang Môn + Kình Dương tại Mệnh:**
 - Chủ mệnh **KHÓ TÍNH và LẬP DỊ**
 - Khiến những người xung quanh **rất khó để LÀM HÀI LÒNG hay THẤU HIỂU**
-- Dễ đẩy người mang Tang Môn vào cảnh **BỊ CÔ LẬP** hoặc **BỊ NGƯỜI ĐỜI GHÉT BỎ**
+- Dễ đẩy người mang Tang Môn vào cảnh **BỊ CÔ LẬP** hoặc **BỊ NGƯỜI ĐỜI GHÉT BỎ**`,
+  },
 
-🌟 **Mặt tích cực bất ngờ + Không Kiếp:**
-- Khi sự bất mãn **đạt đến cùng cực** dưới tác động của Không Kiếp
+  {
+    id: 'tang-mon-menh-da',
+    title: '⚠️ Tang Môn + Đà La tại Mệnh - Lập dị bị cô lập',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    ketHop: ['Đà La'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Tang Môn + Đà La tại Mệnh:**
+- Chủ mệnh **KHÓ TÍNH và LẬP DỊ**
+- Khiến những người xung quanh **rất khó để LÀM HÀI LÒNG hay THẤU HIỂU**
+- Dễ đẩy người mang Tang Môn vào cảnh **BỊ CÔ LẬP** hoặc **BỊ NGƯỜI ĐỜI GHÉT BỎ**`,
+  },
+
+  {
+    id: 'tang-mon-menh-khong',
+    title: '⚠️ Tang Môn + Địa Không tại Mệnh - Lập dị, có thể giác ngộ',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Không'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Tang Môn + Địa Không tại Mệnh:**
+- Chủ mệnh **KHÓ TÍNH và LẬP DỊ**, dễ **BỊ CÔ LẬP**
+
+🌟 **Mặt tích cực bất ngờ:**
+- Khi sự bất mãn **đạt đến cùng cực** dưới tác động của Địa Không
+- Đương số có thể **NHÌN THẤU SỰ HƯ ẢO** của cuộc đời
+- Biến **BẤT MÃN** thành **ĐỘNG LỰC PHÁT TRIỂN** trên con đường **TU TẬP**`,
+  },
+
+  {
+    id: 'tang-mon-menh-kiep',
+    title: '⚠️ Tang Môn + Địa Kiếp tại Mệnh - Lập dị, có thể giác ngộ',
+    sao: ['Tang Môn'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 68,
+    tomTat: `⚠️ **Tang Môn + Địa Kiếp tại Mệnh:**
+- Chủ mệnh **KHÓ TÍNH và LẬP DỊ**, dễ **BỊ CÔ LẬP**
+
+🌟 **Mặt tích cực bất ngờ:**
+- Khi sự bất mãn **đạt đến cùng cực** dưới tác động của Địa Kiếp
 - Đương số có thể **NHÌN THẤU SỰ HƯ ẢO** của cuộc đời
 - Biến **BẤT MÃN** thành **ĐỘNG LỰC PHÁT TRIỂN** trên con đường **TU TẬP**`,
   },
@@ -331,16 +527,41 @@ biệt nếu hãm địa hoặc có thêm sát tinh.`,
     sao: ['Tang Môn'],
     cung: ['Điền Trạch'],
     doUuTien: 72,
-    tomTat: `⚠️ **Tang Môn tại Điền Trạch:**
+    tomTat: `⚠️ **Tang Môn tại Điền Trạch:** xem các entry chuyên biệt theo
+sao kết hợp.`,
+  },
 
-⚠️ **+ Hỏa Tinh** (Tang Hỏa):
-- Có **CHÁY NHÀ** hoặc **một phần nhà**
+  {
+    id: 'tang-mon-tai-dien-trach-hoa-tinh',
+    title: '⚠️ Tang Môn + Hỏa Tinh tại Điền Trạch - Tang Hỏa cháy nhà',
+    sao: ['Tang Môn'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tang Môn + Hỏa Tinh tại Điền Trạch (Tang Hỏa):** có **CHÁY NHÀ**
+hoặc **một phần nhà**.`,
+  },
 
-⚠️ **+ Phục Binh + Địa Không + Thiên Phù** (Tang Phục Không Phù):
-- **VÔ SẢN** — không có tài sản nhà cửa
+  {
+    id: 'tang-mon-tai-dien-trach-tang-phuc-khong-phu',
+    title: '⚠️ Tang Môn + Phục Binh + Địa Không + Thiên Phù tại Điền Trạch - Vô sản',
+    sao: ['Tang Môn'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Phục Binh', 'Địa Không', 'Thiên Phù'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tang Môn + Phục Binh + Địa Không + Thiên Phù tại Điền Trạch
+(Tang Phục Không Phù):** **VÔ SẢN** — không có tài sản nhà cửa.`,
+  },
 
-🌟 **+ Đào Hoa + Hồng Loan** (Tang Đào Hồng):
-- **HƯỞNG DI SẢN của CÔ DÌ** để lại`,
+  {
+    id: 'tang-mon-tai-dien-trach-tang-dao-hong',
+    title: '🌟 Tang Môn + Đào Hoa + Hồng Loan tại Điền Trạch - Tang Đào Hồng',
+    sao: ['Tang Môn'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Đào Hoa', 'Hồng Loan'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tang Môn + Đào Hoa + Hồng Loan tại Điền Trạch (Tang Đào Hồng):**
+**HƯỞNG DI SẢN của CÔ DÌ** để lại.`,
   },
 
   {
@@ -379,13 +600,78 @@ trí đắc cách — không vì đắc địa mà miễn nhiễm.`,
     tomTat: `⚠️ **Tang Môn tại Tử Tức:**
 - **KHÓ SINH**, **SINH NON ngày tháng**
 - **SINH CON KHÓ NUÔI**
-- Sinh con nhưng **KHÔNG NUÔI ĐƯỢC**
+- Sinh con nhưng **KHÔNG NUÔI ĐƯỢC**`,
+  },
 
-⚠️ **+ Kình Dương / Thất Sát:** có thể **KHÔNG CON**.
-⚠️ **+ Địa Không / Địa Kiếp:** **SÁT CON**.
-⚠️ **+ Thai:** **SẢY THAI, CON CHẾT NON**.
-⚠️ **+ Không Kiếp + Thai:** có thể **PHÁ THAI**.
-⚠️ **+ Thiên Hình:**
+  {
+    id: 'tang-mon-tai-tu-tuc-kinh',
+    title: '⚠️ Tang Môn + Kình Dương tại Tử Tức - Không con',
+    sao: ['Tang Môn'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tang Môn + Kình Dương tại Tử Tức:** có thể **KHÔNG CON**.`,
+  },
+
+  {
+    id: 'tang-mon-tai-tu-tuc-that-sat',
+    title: '⚠️ Tang Môn + Thất Sát tại Tử Tức - Không con',
+    sao: ['Tang Môn'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thất Sát'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tang Môn + Thất Sát tại Tử Tức:** có thể **KHÔNG CON**.`,
+  },
+
+  {
+    id: 'tang-mon-tai-tu-tuc-khong',
+    title: '⚠️ Tang Môn + Địa Không tại Tử Tức - Sát con',
+    sao: ['Tang Môn'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tang Môn + Địa Không tại Tử Tức:** **SÁT CON**.`,
+  },
+
+  {
+    id: 'tang-mon-tai-tu-tuc-kiep',
+    title: '⚠️ Tang Môn + Địa Kiếp tại Tử Tức - Sát con',
+    sao: ['Tang Môn'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tang Môn + Địa Kiếp tại Tử Tức:** **SÁT CON**.`,
+  },
+
+  {
+    id: 'tang-mon-tai-tu-tuc-thai',
+    title: '⚠️ Tang Môn + Thai tại Tử Tức - Sảy thai',
+    sao: ['Tang Môn'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thai'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tang Môn + Thai tại Tử Tức:** **SẢY THAI, CON CHẾT NON**.`,
+  },
+
+  {
+    id: 'tang-mon-tai-tu-tuc-khong-kiep-thai',
+    title: '⚠️ Tang Môn + Địa Không + Địa Kiếp + Thai tại Tử Tức - Phá thai',
+    sao: ['Tang Môn'],
+    cung: ['Tử Tức'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Thai'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Tang Môn + Địa Không + Địa Kiếp + Thai tại Tử Tức:** có thể
+**PHÁ THAI**.`,
+  },
+
+  {
+    id: 'tang-mon-tai-tu-tuc-thien-hinh',
+    title: '⚠️ Tang Môn + Thiên Hình tại Tử Tức - Mổ xẻ khó đẻ',
+    sao: ['Tang Môn'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Tang Môn + Thiên Hình tại Tử Tức:**
 - **MỔ XẺ** lúc sinh nở
 - **CON CHẾT TRONG BỤNG MẸ**
 - **KHÓ ĐẺ, PHÁ THAI**`,
@@ -418,11 +704,29 @@ HÌNH KHẮC, CHIA LY**.
     cung: ['Huynh Đệ'],
     doUuTien: 70,
     tomTat: `⚠️ **Tang Môn tại Huynh Đệ:**
-- Thường **MẤT ANH CHỊ EM**
+- Thường **MẤT ANH CHỊ EM**`,
+  },
 
-⚠️ **+ Trực Phù** (Tang Môn Trực Tuế): anh chị em **BẤT HÒA**.
+  {
+    id: 'tang-mon-tai-huynh-de-truc-phu',
+    title: '⚠️ Tang Môn + Trực Phù tại Huynh Đệ - Bất hòa',
+    sao: ['Tang Môn'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Trực Phù'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tang Môn + Trực Phù tại Huynh Đệ (Tang Môn Trực Tuế):** anh chị
+em **BẤT HÒA**.`,
+  },
 
-⚠️ **+ Thiên Mã** (Tang Mã): anh chị em **LY TÁN** — mỗi người một phương.`,
+  {
+    id: 'tang-mon-tai-huynh-de-thien-ma',
+    title: '⚠️ Tang Môn + Thiên Mã tại Huynh Đệ - Ly tán',
+    sao: ['Tang Môn'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Mã'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tang Môn + Thiên Mã tại Huynh Đệ (Tang Mã):** anh chị em **LY
+TÁN** — mỗi người một phương.`,
   },
 
   {
@@ -436,9 +740,6 @@ HÌNH KHẮC, CHIA LY**.
 
 ⚠️ **Tang Môn + Bệnh Phù + Điếu Khách**.
 
-⚠️ **+ Lưu Tang + Lưu Hổ + Lưu Khốc + Lưu Hư:** **NHIỀU TANG LIÊN TIẾP**, có
-**ĐẠI TANG**.
-
 ⚠️ **Tang + Thiên Hình + Điếu Khách**.
 
 ⚠️ **Tang Môn + Thiên Khốc + Thiên Mã** (Tang Khốc Mã): **SÚC VẬT CHẾT VÌ BỆNH
@@ -450,6 +751,7 @@ TẬT**.
 ⚠️ Đại - Tiểu Hạn cần lưu ý xem **KỸ Tang Môn và Lưu Tang, Lưu Hổ**. Nếu **đồng
 cung** thì sự **HUNG HIỂM CÀNG NHIỀU**.`,
   },
+
 
   {
     id: 'tang-mon-loi-khuyen',

@@ -111,9 +111,9 @@ Vì "**Ở HIỀN GẶP LÀNH**" nên chủ mệnh thường:
     id: 'long-duc-co-nguyet-dong-luong-quang-quy',
     title: 'Long Đức + Cơ Nguyệt Đồng Lương + Quang Quý + Quan Phúc - căn tu',
     sao: ['Long Đức'],
-    ketHop: ['Thiên Cơ', 'Thái Âm', 'Thiên Đồng', 'Thiên Lương'],
+    ketHop: ['Thiên Cơ', 'Thái Âm', 'Thiên Đồng', 'Thiên Lương', 'Ân Quang', 'Thiên Quý', 'Thiên Quan', 'Thiên Phúc'],
     doUuTien: 75,
-    tomTat: `🌟 **Long Đức + Cơ Nguyệt Đồng Lương** (cách cục) **+ Quang Quý / Quan Phúc:**
+    tomTat: `🌟 **Long Đức + Cơ Nguyệt Đồng Lương + Ân Quang + Thiên Quý + Thiên Quan + Thiên Phúc:**
 
 → Người có **THIỆN TÂM**, **CĂN TU**:
 - Dù không phải **TU SỸ** thì cũng là **CƯ SỸ, TỲ KHEO**
@@ -146,14 +146,27 @@ cục Cơ Nguyệt Đồng Lương + quý tinh tâm linh.`,
 Long Đức thủ Phụ Mẫu → đối cung luôn có **TUẾ PHÁ** chiếu về.
 - Người có cha mẹ **HIỀN LÀNH, NHẸ NHÀNG** nhưng bản thân thường **BỐC ĐỒNG,
   HAY CHỐNG ĐỐI**, đi ngược lại
-- Đây là cách rất hay gặp: con của người hiền hậu lại **ngỗ nghịch**
+- Đây là cách rất hay gặp: con của người hiền hậu lại **ngỗ nghịch**`,
+  },
 
-🌟 **+ Văn Xương / Văn Khúc:** cha mẹ và con cái dễ **ĐỒNG CẢM, YÊU THƯƠNG, THẤU
-HIỂU** nhau.
+  {
+    id: 'long-duc-phu-mau-xuong-khuc',
+    title: 'Long Đức Phụ Mẫu + Văn Xương / Văn Khúc - đồng cảm thấu hiểu',
+    sao: ['Long Đức'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Xương', 'Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Đức Phụ Mẫu + Văn Xương / Văn Khúc:** cha mẹ và con cái dễ **ĐỒNG CẢM, YÊU THƯƠNG, THẤU HIỂU** nhau.`,
+  },
 
-⚠️ **+ Thất Sát + Thiên Hình + Hóa Kỵ:** ban đầu có khả năng **MÂU THUẪN**,
-nhưng chính mâu thuẫn ấy lại là **CHẤT XÚC TÁC** giúp hai bên **THAY ĐỔI NHẬN
-THỨC**, từ đó **HÓA GIẢI BẤT ĐỒNG**.`,
+  {
+    id: 'long-duc-phu-mau-sat-hinh-ky',
+    title: 'Long Đức Phụ Mẫu + Thất Sát + Thiên Hình + Hóa Kỵ - mâu thuẫn rồi hóa giải',
+    sao: ['Long Đức'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thất Sát', 'Thiên Hình', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Long Đức Phụ Mẫu + Thất Sát + Thiên Hình + Hóa Kỵ:** ban đầu có khả năng **MÂU THUẪN**, nhưng chính mâu thuẫn ấy lại là **CHẤT XÚC TÁC** giúp hai bên **THAY ĐỔI NHẬN THỨC**, từ đó **HÓA GIẢI BẤT ĐỒNG**.`,
   },
 
   {
@@ -172,12 +185,27 @@ THỨC**, từ đó **HÓA GIẢI BẤT ĐỒNG**.`,
 - **MỒ MẢ THUẬN VỊ** — phù hộ con cháu **TỐT LÀNH**
 - Có **CON SÔNG, DÒNG SUỐI NHỎ** ở gần
 - Đương số được **THỪA HƯỞNG PHÚC ẤM tổ tiên**
-- Có **TINH THẦN KIÊN ĐỊNH**, được **NHIỀU NGƯỜI TÍN NHIỆM**
+- Có **TINH THẦN KIÊN ĐỊNH**, được **NHIỀU NGƯỜI TÍN NHIỆM**`,
+  },
 
-⚠️ **+ Địa Không / Địa Kiếp:**
-- Sinh tâm lý **BUÔNG BỎ**, muốn **"LÁNH ĐỜI ĐI TU"**
+  {
+    id: 'long-duc-phuc-duc-khong-kiep',
+    title: 'Long Đức Phúc Đức + Địa Không / Địa Kiếp - lánh đời đi tu',
+    sao: ['Long Đức'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Long Đức Phúc Đức + Địa Không / Địa Kiếp:** sinh tâm lý **BUÔNG BỎ**, muốn **"LÁNH ĐỜI ĐI TU"**.`,
+  },
 
-⚠️ **+ Hung Tinh:**
+  {
+    id: 'long-duc-phuc-duc-hung-tinh',
+    title: 'Long Đức Phúc Đức + Hung Tinh - niềm tin lung lay',
+    sao: ['Long Đức'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Long Đức Phúc Đức + Hung Tinh:**
 - Niềm tin **DỄ LUNG LAY**
 - Ảnh hưởng **sự VỮNG BỀN của GIA NGHIỆP**`,
   },
@@ -195,19 +223,47 @@ THỨC**, từ đó **HÓA GIẢI BẤT ĐỒNG**.`,
 
 🌟 **Đặc điểm nhà cửa:**
 - Nhà ở **SẠCH SẼ, GỌN GÀNG, GIẢN DỊ**
-- **THỜ CÚNG TỐT**
+- **THỜ CÚNG TỐT**`,
+  },
 
-🌟 **+ Tử Phủ Đồng Lương + Quang Quý:** nhà dễ **RƯỚC PHẬT VỀ THỜ** — gia đình
-trở thành **đạo tràng** nhỏ.
+  {
+    id: 'long-duc-dien-trach-tu-phu-dong-luong-quang-quy',
+    title: 'Long Đức Điền + Tử Phủ Đồng Lương + Quang Quý - rước Phật về thờ',
+    sao: ['Long Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tử Vi', 'Thiên Phủ', 'Thiên Đồng', 'Thiên Lương', 'Ân Quang', 'Thiên Quý'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Đức Điền Trạch + Tử Phủ Đồng Lương + Ân Quang + Thiên Quý:** nhà dễ **RƯỚC PHẬT VỀ THỜ** — gia đình trở thành **đạo tràng** nhỏ.`,
+  },
 
-🌟 **+ Tứ Đức / Tứ Linh:** điềm **ĐẤT THIÊNG** — gia chủ nên **GIỮ GÌN VIỆC THỜ
-PHỤNG** vì "**có thờ có thiêng, có kiêng có lành**".
+  {
+    id: 'long-duc-dien-trach-tu-duc-tu-linh',
+    title: 'Long Đức Điền + Tứ Đức / Tứ Linh - đất thiêng',
+    sao: ['Long Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức', 'Long Trì', 'Phượng Các', 'Bạch Hổ', 'Hoa Cái'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Đức Điền Trạch + Tứ Đức / Tứ Linh:** điềm **ĐẤT THIÊNG** — gia chủ nên **GIỮ GÌN VIỆC THỜ PHỤNG** vì "**có thờ có thiêng, có kiêng có lành**".`,
+  },
 
-⚠️ **+ Thiên Riêu / Đà La / Hóa Kỵ / Linh Tinh:** phong thủy nơi ở dễ có **CHỖ
-KHÔNG SẠCH SẼ** — cần kiểm tra kỹ.
+  {
+    id: 'long-duc-dien-trach-rieu-da-ky-linh',
+    title: 'Long Đức Điền + Riêu / Đà / Kỵ / Linh - phong thủy không sạch',
+    sao: ['Long Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Riêu', 'Đà La', 'Hóa Kỵ', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Long Đức Điền Trạch + Thiên Riêu / Đà La / Hóa Kỵ / Linh Tinh:** phong thủy nơi ở dễ có **CHỖ KHÔNG SẠCH SẼ** — cần kiểm tra kỹ.`,
+  },
 
-⚠️ **+ Địa Kiếp / Kình Dương / Hóa Kỵ:** dễ sinh chuyện **"LỜI RA TIẾNG VÀO"**,
-**BẤT ĐỒNG về niềm tin** hay chuyện **THỜ CÚNG**.`,
+  {
+    id: 'long-duc-dien-trach-kiep-kinh-ky',
+    title: 'Long Đức Điền + Địa Kiếp / Kình Dương / Hóa Kỵ - lời ra tiếng vào',
+    sao: ['Long Đức'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Địa Kiếp', 'Kình Dương', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Long Đức Điền Trạch + Địa Kiếp / Kình Dương / Hóa Kỵ:** dễ sinh chuyện **"LỜI RA TIẾNG VÀO"**, **BẤT ĐỒNG về niềm tin** hay chuyện **THỜ CÚNG**.`,
   },
 
   {
@@ -221,18 +277,41 @@ KHÔNG SẠCH SẼ** — cần kiểm tra kỹ.
 - **HAY GẶP MAY**, có **LƯƠNG TÂM nghề nghiệp**
 - **TRÊN BIẾT KÍNH, DƯỚI BIẾT NHƯỜNG**, vô cùng điềm đạm
 - **NHIỀU NGƯỜI QUÝ MẾN**
-- Làm việc bằng **CÁI TÂM**, **TẬN TỤY CỐNG HIẾN**
+- Làm việc bằng **CÁI TÂM**, **TẬN TỤY CỐNG HIẾN**`,
+  },
 
-🌟 **+ Cơ Nguyệt Đồng Lương + Quang Quý:** người hay làm nghề **CỨU GIÚP NGƯỜI**:
+  {
+    id: 'long-duc-quan-loc-co-nguyet-dong-luong-quang-quy',
+    title: 'Long Đức Quan + Cơ Nguyệt Đồng Lương + Quang Quý - nghề cứu giúp người',
+    sao: ['Long Đức'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Cơ', 'Thái Âm', 'Thiên Đồng', 'Thiên Lương', 'Ân Quang', 'Thiên Quý'],
+    doUuTien: 73,
+    tomTat: `🌟 **Long Đức Quan Lộc + Cơ Nguyệt Đồng Lương + Ân Quang + Thiên Quý:** người hay làm nghề **CỨU GIÚP NGƯỜI**:
 - **THẦY THUỐC, BÁC SỸ**
 - **GIÁO VIÊN**
 - Tổ chức **XÃ HỘI, TỪ THIỆN**
-- **BẢO VỆ ĐỘNG VẬT**
+- **BẢO VỆ ĐỘNG VẬT**`,
+  },
 
-🌟 **+ Thiên Lương:** như "**HỔ MỌC THÊM CÁNH**" — càng dễ gặp **QUÝ NHÂN PHÙ
-TRỢ** trong công việc.
+  {
+    id: 'long-duc-quan-loc-thien-luong',
+    title: 'Long Đức Quan + Thiên Lương - hổ mọc thêm cánh',
+    sao: ['Long Đức'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Lương'],
+    doUuTien: 73,
+    tomTat: `🌟 **Long Đức Quan Lộc + Thiên Lương:** như "**HỔ MỌC THÊM CÁNH**" — càng dễ gặp **QUÝ NHÂN PHÙ TRỢ** trong công việc.`,
+  },
 
-⚠️ **+ Hóa Kỵ:**
+  {
+    id: 'long-duc-quan-loc-hoa-ky',
+    title: 'Long Đức Quan + Hóa Kỵ - công danh chậm chạp',
+    sao: ['Long Đức'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Long Đức Quan Lộc + Hóa Kỵ:**
 - Con đường công danh **CHẬM CHẠP**, dễ **CHỊU THIỆT THÒI**
 - Dù bản thân **không than phiền**, vẫn **hết lòng làm việc**
 - Phải **CHỜ THỜI GIAN DÀI** mới có được thành quả`,
@@ -249,9 +328,17 @@ TRỢ** trong công việc.
 - Bạn bè đa số **TÂM TÍNH THIỆN LÀNH**
 - Biết **LẮNG NGHE**, luôn cố gắng truyền **NĂNG LƯỢNG TÍCH CỰC**
 - Khi gặp vấn đề, hay được bạn bè **GIÚP ĐỠ**, ngồi **NGHE TÂM SỰ**
-- **KHÔNG BAO GIỜ BỎ MẶC**
+- **KHÔNG BAO GIỜ BỎ MẶC**`,
+  },
 
-⚠️ **+ Thiên Riêu / Thiên Y / Đà La / Linh Tinh / Địa Kiếp (ám tinh):**
+  {
+    id: 'long-duc-no-boc-am-tinh',
+    title: 'Long Đức Nô + ám tinh - bạn bè niềm tin lệch lạc',
+    sao: ['Long Đức'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Riêu', 'Thiên Y', 'Đà La', 'Linh Tinh', 'Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Long Đức Nô Bộc + Thiên Riêu / Thiên Y / Đà La / Linh Tinh / Địa Kiếp** (ám tinh):
 - Bạn bè dễ có **NIỀM TIN LỆCH LẠC**
 - Có thể **KÉO chủ mệnh vào tổ chức tôn giáo KHÔNG PHÙ HỢP**
 - Cần **CẢNH GIÁC** trước những lời mời gọi tâm linh khả nghi`,
@@ -270,12 +357,20 @@ TRỢ** trong công việc.
 - Thường hay **NHƯỜNG NHỊN, NHẸ NHÀNG**, hay **GIÚP ĐỠ MỌI NGƯỜI**
 
 🌟 **Khả năng cứu giải:** đôi khi vì **LẠC QUAN QUÁ MỨC** mà **VA PHẢI NGHỊCH
-CẢNH** — lúc đó lại may mắn **GẶP QUÝ NHÂN CỨU GIÚP**.
+CẢNH** — lúc đó lại may mắn **GẶP QUÝ NHÂN CỨU GIÚP**.`,
+  },
 
-⚠️ **+ Phá Quân / Thất Sát / Kình Dương / Hỏa Tinh** (sao "ĐỘNG" mạnh, quyết liệt):
+  {
+    id: 'long-duc-thien-di-pha-sat-kinh-hoa',
+    title: 'Long Đức Thiên Di + Phá / Sát / Kình / Hỏa - giảm vận may',
+    sao: ['Long Đức'],
+    cung: ['Thiên Di'],
+    ketHop: ['Phá Quân', 'Thất Sát', 'Kình Dương', 'Hỏa Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Long Đức Thiên Di + Phá Quân / Thất Sát / Kình Dương / Hỏa Tinh** (sao "ĐỘNG" mạnh, quyết liệt):
 - **GIẢM BỚT VẬN MAY**
 - **KHÓ NHẬN ĐƯỢC sự trợ giúp KỊP THỜI**
-- Vì các sao động phá vỡ tính tĩnh tại của Long Đức`,
+- Vì các sao động phá vỡ tính tĩnh tại của Long Đức.`,
   },
 
   {
@@ -292,12 +387,19 @@ CẢNH** — lúc đó lại may mắn **GẶP QUÝ NHÂN CỨU GIÚP**.
 ⚠️ **Bệnh có thể gặp** (do Long Đức thuộc **HÀNH THỦY**):
 - **MÁU HUYẾT**
 - **ĐƯỜNG RUỘT**
-- **ĐƯỜNG TIÊU HÓA**
+- **ĐƯỜNG TIÊU HÓA**`,
+  },
 
-⚠️ **+ Sát - Hình - Kỵ:** bệnh đến như một **THỬ THÁCH**:
+  {
+    id: 'long-duc-tat-ach-sat-hinh-ky',
+    title: 'Long Đức Tật + Sát - Hình - Kỵ - bệnh tật thử thách',
+    sao: ['Long Đức'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Thiên Hình', 'Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Long Đức Tật Ách + Sát - Hình - Kỵ:** bệnh đến như một **THỬ THÁCH**:
 - Buộc đương số phải **VỮNG LÒNG TIN**
-- Phải **CHỊU THIỆT THÒI**, bị bệnh tật **HÀNH HẠ** mới thúc đẩy **QUÝ NHÂN**
-  đến hóa giải`,
+- Phải **CHỊU THIỆT THÒI**, bị bệnh tật **HÀNH HẠ** mới thúc đẩy **QUÝ NHÂN** đến hóa giải.`,
   },
 
   {
@@ -338,9 +440,17 @@ Dù **GIẢM BỚT** sự **bùng nổ** trong tài chính, nhưng đổi lại 
 - Dù cha mẹ đôi lúc **NÓNG NẢY, KHẮT KHE** thì con vẫn giữ thái độ **HÒA THUẬN**
 - "**Một điều nhịn, chín điều lành**" — không phản kháng hay chống đối
 - Mối quan hệ trong gia đình **HÀI HÒA**, **ÍT XẢY RA XUNG ĐỘT**
-- Tình cảm **không bộc lộ rõ** bằng lời nói nhưng vẫn có sự **GẮN BÓ ÂM THẦM**
+- Tình cảm **không bộc lộ rõ** bằng lời nói nhưng vẫn có sự **GẮN BÓ ÂM THẦM**`,
+  },
 
-⚠️ **+ Hóa Kỵ / Cự Môn / Đà La (ám tinh):**
+  {
+    id: 'long-duc-tu-tuc-ky-cu-mon-da',
+    title: 'Long Đức Tử Tức + Kỵ / Cự Môn / Đà La - bằng mặt không bằng lòng',
+    sao: ['Long Đức'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hóa Kỵ', 'Cự Môn', 'Đà La'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Long Đức Tử Tức + Hóa Kỵ / Cự Môn / Đà La** (ám tinh):
 - Sự hiền hòa của con cái chuyển thành **THÁI ĐỘ CAM CHỊU**
 - "**BẰNG MẶT MÀ KHÔNG BẰNG LÒNG**"
 - Sự **TIN TƯỞNG GIẢM**, mối quan hệ **XA CÁCH**`,
@@ -362,9 +472,17 @@ Dù **GIẢM BỚT** sự **bùng nổ** trong tài chính, nhưng đổi lại 
 - Hai vợ chồng **TƯỚNG ĐỐI XỨNG ĐÔI VỪA LỨA**
 - Hay thích **LÀM PHƯỚC THIỆN, TU TẬP** cùng nhau
 - Ở giai đoạn mới yêu, dù chỉ ở cạnh nhau **THỜI GIAN NGẮN** cũng đã xuất hiện
-  **TƯỚNG PHU THÊ**
+  **TƯỚNG PHU THÊ**`,
+  },
 
-⚠️ **+ Địa Không:**
+  {
+    id: 'long-duc-phu-the-dia-khong',
+    title: 'Long Đức Phu Thê + Địa Không - chịu đựng tổn thương',
+    sao: ['Long Đức'],
+    cung: ['Phu Thê'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Long Đức Phu Thê + Địa Không:**
 - Long Đức **KHÔNG hóa giải hết** sát khí
 - Bên ngoài **CHỊU ĐỰNG, NHẪN NHỊN** xuất hiện
 - Trong lòng **chất chứa TỔN THƯƠNG khó nguôi ngoai**`,
@@ -381,9 +499,17 @@ Dù **GIẢM BỚT** sự **bùng nổ** trong tài chính, nhưng đổi lại 
 - Coi trọng **TÌNH THÂN**
 - Sống **HÒA THUẬN, HIỀN HẬU**, có **TÌNH NGHĨA**
 - Sẵn sàng **GIÚP ĐỠ** nhau khi cần
-- Dù xa cách nhưng vẫn **NHỚ VỀ NHAU**
+- Dù xa cách nhưng vẫn **NHỚ VỀ NHAU**`,
+  },
 
-⚠️ **+ Phá Quân / Đại Hao / Tiểu Hao / Không Kiếp:**
+  {
+    id: 'long-duc-huynh-de-pha-hao-khong-kiep',
+    title: 'Long Đức Huynh Đệ + Phá / Hao / Không / Kiếp - giúp đỡ thành gánh nặng',
+    sao: ['Long Đức'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Phá Quân', 'Đại Hao', 'Tiểu Hao', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Long Đức Huynh Đệ + Phá Quân / Đại Hao / Tiểu Hao / Không Kiếp:**
 - Việc giúp đỡ **KHÔNG TẠO ĐƯỢC kết quả tốt**
 - **TÂM MUỐN GIÚP nhưng VÔ TÌNH GÂY RẮC RỐI, CẢN TRỞ**
 - Lòng tốt thành **gánh nặng** cho người được giúp`,

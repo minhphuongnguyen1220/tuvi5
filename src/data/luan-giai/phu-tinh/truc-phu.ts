@@ -120,14 +120,108 @@ VẢ**.`,
 ⚠️ **Mặt trái:**
 - **DỄ TIN NGƯỜI**, hay **LO XA**
 - Nhiều khi **bỏ lỡ cơ hội** phát triển
-- Dễ **bị KẺ XẤU LỢI DỤNG, LỪA GẠT**
+- Dễ **bị KẺ XẤU LỢI DỤNG, LỪA GẠT**`,
+  },
 
-🌟 **+ Tả Hữu / Thiên Đức / Văn Xương / Văn Khúc:**
+  {
+    id: 'truc-phu-tai-phu-mau-ta-phu',
+    title: 'Trực Phù + Tả Phù tại Phụ Mẫu - đức độ quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Tả Phù tại Phụ Mẫu:**
 - Cha mẹ càng thêm **ĐỨC ĐỘ**
 - Được **QUÝ NHÂN nâng đỡ**
-- Gia đạo **YÊN ỔN**, con cháu **HƯỞNG PHÚC**
+- Gia đạo **YÊN ỔN**, con cháu **HƯỞNG PHÚC**`,
+  },
 
-⚠️ **+ Kình Dương / Đà La / Hóa Kỵ:**
+  {
+    id: 'truc-phu-tai-phu-mau-huu-bat',
+    title: 'Trực Phù + Hữu Bật tại Phụ Mẫu - đức độ quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Hữu Bật tại Phụ Mẫu:**
+- Cha mẹ càng thêm **ĐỨC ĐỘ**
+- Được **QUÝ NHÂN nâng đỡ**
+- Gia đạo **YÊN ỔN**, con cháu **HƯỞNG PHÚC**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phu-mau-thien-duc',
+    title: 'Trực Phù + Thiên Đức tại Phụ Mẫu - đức độ quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Đức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Thiên Đức tại Phụ Mẫu:**
+- Cha mẹ càng thêm **ĐỨC ĐỘ**
+- Được **QUÝ NHÂN nâng đỡ**
+- Gia đạo **YÊN ỔN**, con cháu **HƯỞNG PHÚC**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phu-mau-van-xuong',
+    title: 'Trực Phù + Văn Xương tại Phụ Mẫu - đức độ quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Văn Xương tại Phụ Mẫu:**
+- Cha mẹ càng thêm **ĐỨC ĐỘ**
+- Được **QUÝ NHÂN nâng đỡ**
+- Gia đạo **YÊN ỔN**, con cháu **HƯỞNG PHÚC**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phu-mau-van-khuc',
+    title: 'Trực Phù + Văn Khúc tại Phụ Mẫu - đức độ quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Văn Khúc tại Phụ Mẫu:**
+- Cha mẹ càng thêm **ĐỨC ĐỘ**
+- Được **QUÝ NHÂN nâng đỡ**
+- Gia đạo **YÊN ỔN**, con cháu **HƯỞNG PHÚC**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phu-mau-kinh-duong',
+    title: 'Trực Phù + Kình Dương tại Phụ Mẫu - thị phi chia ly',
+    sao: ['Trực Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Trực Phù + Kình Dương tại Phụ Mẫu:**
+- Cha mẹ vướng vào **THỊ PHI**
+- **SỨC KHỎE SUY GIẢM**, **lực bất tòng tâm**
+- Khó tránh cảnh **CHIA LY**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phu-mau-da-la',
+    title: 'Trực Phù + Đà La tại Phụ Mẫu - thị phi chia ly',
+    sao: ['Trực Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Trực Phù + Đà La tại Phụ Mẫu:**
+- Cha mẹ vướng vào **THỊ PHI**
+- **SỨC KHỎE SUY GIẢM**, **lực bất tòng tâm**
+- Khó tránh cảnh **CHIA LY**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phu-mau-hoa-ky',
+    title: 'Trực Phù + Hóa Kỵ tại Phụ Mẫu - thị phi chia ly',
+    sao: ['Trực Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Trực Phù + Hóa Kỵ tại Phụ Mẫu:**
 - Cha mẹ vướng vào **THỊ PHI**
 - **SỨC KHỎE SUY GIẢM**, **lực bất tòng tâm**
 - Khó tránh cảnh **CHIA LY**`,
@@ -148,14 +242,95 @@ VẢ**.`,
 
 ⚠️ **Mặt trái:**
 - Đôi khi dễ **BỊ KẺ KHÁC CHIẾM PHẦN LỢI**
-- Bản thân đương số dễ rơi vào cảnh **BẤT AN**, lòng hay **THẤP THỎM**
+- Bản thân đương số dễ rơi vào cảnh **BẤT AN**, lòng hay **THẤP THỎM**`,
+  },
 
-🌟 **+ Thiên Đức / Nguyệt Đức / Long Trì / Phượng Các:**
+  {
+    id: 'truc-phu-tai-phuc-duc-thien-duc',
+    title: 'Trực Phù + Thiên Đức tại Phúc Đức - phúc khí vững',
+    sao: ['Trực Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Đức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Thiên Đức tại Phúc Đức:**
 - Phúc khí càng **VỮNG**
 - Con cháu **CÔNG THÀNH DANH TOẠI**
-- Gia đạo **THUẬN HÒA**
+- Gia đạo **THUẬN HÒA**`,
+  },
 
-⚠️ **+ Kình Dương / Đà La / Hóa Kỵ:**
+  {
+    id: 'truc-phu-tai-phuc-duc-nguyet-duc',
+    title: 'Trực Phù + Nguyệt Đức tại Phúc Đức - phúc khí vững',
+    sao: ['Trực Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Nguyệt Đức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Nguyệt Đức tại Phúc Đức:**
+- Phúc khí càng **VỮNG**
+- Con cháu **CÔNG THÀNH DANH TOẠI**
+- Gia đạo **THUẬN HÒA**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phuc-duc-long-tri',
+    title: 'Trực Phù + Long Trì tại Phúc Đức - phúc khí vững',
+    sao: ['Trực Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Long Trì'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Long Trì tại Phúc Đức:**
+- Phúc khí càng **VỮNG**
+- Con cháu **CÔNG THÀNH DANH TOẠI**
+- Gia đạo **THUẬN HÒA**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phuc-duc-phuong-cac',
+    title: 'Trực Phù + Phượng Các tại Phúc Đức - phúc khí vững',
+    sao: ['Trực Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Phượng Các'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Phượng Các tại Phúc Đức:**
+- Phúc khí càng **VỮNG**
+- Con cháu **CÔNG THÀNH DANH TOẠI**
+- Gia đạo **THUẬN HÒA**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phuc-duc-kinh-duong',
+    title: 'Trực Phù + Kình Dương tại Phúc Đức - hao phúc bất hòa',
+    sao: ['Trực Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Trực Phù + Kình Dương tại Phúc Đức:**
+- Phúc phần **HAO HỤT**
+- Dễ phát sinh **BẤT HÒA NỘI TỘC**
+- Đời sau phải **TỰ GỒNG GÁNH**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phuc-duc-da-la',
+    title: 'Trực Phù + Đà La tại Phúc Đức - hao phúc bất hòa',
+    sao: ['Trực Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Trực Phù + Đà La tại Phúc Đức:**
+- Phúc phần **HAO HỤT**
+- Dễ phát sinh **BẤT HÒA NỘI TỘC**
+- Đời sau phải **TỰ GỒNG GÁNH**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phuc-duc-hoa-ky',
+    title: 'Trực Phù + Hóa Kỵ tại Phúc Đức - hao phúc bất hòa',
+    sao: ['Trực Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Trực Phù + Hóa Kỵ tại Phúc Đức:**
 - Phúc phần **HAO HỤT**
 - Dễ phát sinh **BẤT HÒA NỘI TỘC**
 - Đời sau phải **TỰ GỒNG GÁNH**`,
@@ -179,14 +354,122 @@ VẢ**.`,
 🌟 **Mặt tích cực:**
 - Người sống **CHAN HÒA** với hàng xóm
 - Hàng xóm cũng **HIỀN LÀNH, NHẸ NHÀNG**
-- Môi trường sinh hoạt **YÊN ỔN**
+- Môi trường sinh hoạt **YÊN ỔN**`,
+  },
 
-🌟 **+ Tả Hữu / Thiên Việt / Văn Xương / Lộc Tồn:** lúc đầu khó khăn nhưng về
-sau **ĐI VÀO ỔN ĐỊNH**.
+  {
+    id: 'truc-phu-tai-dien-trach-ta-phu',
+    title: 'Trực Phù + Tả Phù tại Điền Trạch - về sau ổn định',
+    sao: ['Trực Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 67,
+    tomTat: `🌟 **Trực Phù + Tả Phù tại Điền Trạch:** lúc đầu khó khăn nhưng về
+sau **ĐI VÀO ỔN ĐỊNH**.`,
+  },
 
-⚠️ **+ Kình Dương / Đà La / Hóa Kỵ / Không Kiếp:** nguy cơ **TRANH CHẤP, KIỆN
+  {
+    id: 'truc-phu-tai-dien-trach-huu-bat',
+    title: 'Trực Phù + Hữu Bật tại Điền Trạch - về sau ổn định',
+    sao: ['Trực Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 67,
+    tomTat: `🌟 **Trực Phù + Hữu Bật tại Điền Trạch:** lúc đầu khó khăn nhưng
+về sau **ĐI VÀO ỔN ĐỊNH**.`,
+  },
+
+  {
+    id: 'truc-phu-tai-dien-trach-thien-viet',
+    title: 'Trực Phù + Thiên Việt tại Điền Trạch - về sau ổn định',
+    sao: ['Trực Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 67,
+    tomTat: `🌟 **Trực Phù + Thiên Việt tại Điền Trạch:** lúc đầu khó khăn nhưng
+về sau **ĐI VÀO ỔN ĐỊNH**.`,
+  },
+
+  {
+    id: 'truc-phu-tai-dien-trach-van-xuong',
+    title: 'Trực Phù + Văn Xương tại Điền Trạch - về sau ổn định',
+    sao: ['Trực Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 67,
+    tomTat: `🌟 **Trực Phù + Văn Xương tại Điền Trạch:** lúc đầu khó khăn nhưng
+về sau **ĐI VÀO ỔN ĐỊNH**.`,
+  },
+
+  {
+    id: 'truc-phu-tai-dien-trach-loc-ton',
+    title: 'Trực Phù + Lộc Tồn tại Điền Trạch - về sau ổn định',
+    sao: ['Trực Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Lộc Tồn'],
+    doUuTien: 67,
+    tomTat: `🌟 **Trực Phù + Lộc Tồn tại Điền Trạch:** lúc đầu khó khăn nhưng
+về sau **ĐI VÀO ỔN ĐỊNH**.`,
+  },
+
+  {
+    id: 'truc-phu-tai-dien-trach-kinh-duong',
+    title: 'Trực Phù + Kình Dương tại Điền Trạch - tranh chấp kiện tụng',
+    sao: ['Trực Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Trực Phù + Kình Dương tại Điền Trạch:** nguy cơ **TRANH CHẤP,
+KIỆN TỤNG, HAO TỔN TÀI SẢN** tăng cao. "**Cẩn tắc vô ưu**" trước mọi quyết
+định lớn về nhà đất.`,
+  },
+
+  {
+    id: 'truc-phu-tai-dien-trach-da-la',
+    title: 'Trực Phù + Đà La tại Điền Trạch - tranh chấp kiện tụng',
+    sao: ['Trực Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Đà La'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Trực Phù + Đà La tại Điền Trạch:** nguy cơ **TRANH CHẤP, KIỆN
 TỤNG, HAO TỔN TÀI SẢN** tăng cao. "**Cẩn tắc vô ưu**" trước mọi quyết định lớn
 về nhà đất.`,
+  },
+
+  {
+    id: 'truc-phu-tai-dien-trach-hoa-ky',
+    title: 'Trực Phù + Hóa Kỵ tại Điền Trạch - tranh chấp kiện tụng',
+    sao: ['Trực Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Trực Phù + Hóa Kỵ tại Điền Trạch:** nguy cơ **TRANH CHẤP,
+KIỆN TỤNG, HAO TỔN TÀI SẢN** tăng cao. "**Cẩn tắc vô ưu**" trước mọi quyết
+định lớn về nhà đất.`,
+  },
+
+  {
+    id: 'truc-phu-tai-dien-trach-dia-khong',
+    title: 'Trực Phù + Địa Không tại Điền Trạch - tranh chấp kiện tụng',
+    sao: ['Trực Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Địa Không'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Trực Phù + Địa Không tại Điền Trạch:** nguy cơ **TRANH CHẤP,
+KIỆN TỤNG, HAO TỔN TÀI SẢN** tăng cao. "**Cẩn tắc vô ưu**" trước mọi quyết
+định lớn về nhà đất.`,
+  },
+
+  {
+    id: 'truc-phu-tai-dien-trach-dia-kiep',
+    title: 'Trực Phù + Địa Kiếp tại Điền Trạch - tranh chấp kiện tụng',
+    sao: ['Trực Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Trực Phù + Địa Kiếp tại Điền Trạch:** nguy cơ **TRANH CHẤP,
+KIỆN TỤNG, HAO TỔN TÀI SẢN** tăng cao. "**Cẩn tắc vô ưu**" trước mọi quyết
+định lớn về nhà đất.`,
   },
 
   {
@@ -207,13 +490,108 @@ về nhà đất.`,
 - "**LÀM NHIỀU HƯỞNG ÍT**"
 - Đôi khi **người khác hưởng lợi** thay
 - **Tính quyết đoán KHÔNG CAO**, hay **lo lắng**
-- Cần có **NGƯỜI DẪN ĐƯỜNG, CHỈ BẢO** để **TỰ TIN HƠN**
+- Cần có **NGƯỜI DẪN ĐƯỜNG, CHỈ BẢO** để **TỰ TIN HƠN**`,
+  },
 
-🌟 **+ Tả Hữu / Văn Xương / Văn Khúc / Thiên Khôi / Thiên Việt:**
+  {
+    id: 'truc-phu-tai-quan-loc-luc-cat',
+    title: 'Trực Phù + Lục Cát tại Quan Lộc - thăng tiến ổn định',
+    sao: ['Trực Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Trực Phù + Tả Phù / Hữu Bật / Văn Xương / Văn Khúc / Thiên Khôi
+/ Thiên Việt tại Quan Lộc:**
 - Sự nghiệp **THĂNG TIẾN CHẬM nhưng ỔN ĐỊNH**
-- Được **CẤP TRÊN TRỌNG DỤNG**
+- Được **CẤP TRÊN TRỌNG DỤNG**`,
+  },
 
-⚠️ **+ Kình Dương / Đà La / Hóa Kỵ / Không Kiếp / Hỏa Linh:**
+  {
+    id: 'truc-phu-tai-quan-loc-kinh-duong',
+    title: 'Trực Phù + Kình Dương tại Quan Lộc - công danh trắc trở',
+    sao: ['Trực Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Trực Phù + Kình Dương tại Quan Lộc:**
+- Công danh **TRẮC TRỞ**
+- Nhiều lần **BỊ CẢN PHÁ**
+- **TIỂU NHÂN CHÈN ÉP**`,
+  },
+
+  {
+    id: 'truc-phu-tai-quan-loc-da-la',
+    title: 'Trực Phù + Đà La tại Quan Lộc - công danh trắc trở',
+    sao: ['Trực Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Đà La'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Trực Phù + Đà La tại Quan Lộc:**
+- Công danh **TRẮC TRỞ**
+- Nhiều lần **BỊ CẢN PHÁ**
+- **TIỂU NHÂN CHÈN ÉP**`,
+  },
+
+  {
+    id: 'truc-phu-tai-quan-loc-hoa-ky',
+    title: 'Trực Phù + Hóa Kỵ tại Quan Lộc - công danh trắc trở',
+    sao: ['Trực Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Trực Phù + Hóa Kỵ tại Quan Lộc:**
+- Công danh **TRẮC TRỞ**
+- Nhiều lần **BỊ CẢN PHÁ**
+- **TIỂU NHÂN CHÈN ÉP**`,
+  },
+
+  {
+    id: 'truc-phu-tai-quan-loc-dia-khong',
+    title: 'Trực Phù + Địa Không tại Quan Lộc - công danh trắc trở',
+    sao: ['Trực Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Địa Không'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Trực Phù + Địa Không tại Quan Lộc:**
+- Công danh **TRẮC TRỞ**
+- Nhiều lần **BỊ CẢN PHÁ**
+- **TIỂU NHÂN CHÈN ÉP**`,
+  },
+
+  {
+    id: 'truc-phu-tai-quan-loc-dia-kiep',
+    title: 'Trực Phù + Địa Kiếp tại Quan Lộc - công danh trắc trở',
+    sao: ['Trực Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Trực Phù + Địa Kiếp tại Quan Lộc:**
+- Công danh **TRẮC TRỞ**
+- Nhiều lần **BỊ CẢN PHÁ**
+- **TIỂU NHÂN CHÈN ÉP**`,
+  },
+
+  {
+    id: 'truc-phu-tai-quan-loc-hoa-tinh',
+    title: 'Trực Phù + Hỏa Tinh tại Quan Lộc - công danh trắc trở',
+    sao: ['Trực Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Trực Phù + Hỏa Tinh tại Quan Lộc:**
+- Công danh **TRẮC TRỞ**
+- Nhiều lần **BỊ CẢN PHÁ**
+- **TIỂU NHÂN CHÈN ÉP**`,
+  },
+
+  {
+    id: 'truc-phu-tai-quan-loc-linh-tinh',
+    title: 'Trực Phù + Linh Tinh tại Quan Lộc - công danh trắc trở',
+    sao: ['Trực Phù'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Trực Phù + Linh Tinh tại Quan Lộc:**
 - Công danh **TRẮC TRỞ**
 - Nhiều lần **BỊ CẢN PHÁ**
 - **TIỂU NHÂN CHÈN ÉP**`,
@@ -230,14 +608,156 @@ về nhà đất.`,
 - **KHÔNG GANH ĐUA, CHÈN ÉP** lẫn nhau
 - Vòng tròn xã giao duy trì sự **YÊN ỔN**
 - Bản mệnh **ÍT VƯỚNG THỊ PHI**
-- Dễ nhận được **CẢM THÔNG, SAN SẺ** khi gặp khó khăn
+- Dễ nhận được **CẢM THÔNG, SAN SẺ** khi gặp khó khăn`,
+  },
 
-🌟 **+ Thiên Quan / Thiên Phúc / Long Đức / Tả Hữu / Văn Xương / Văn Khúc:**
+  {
+    id: 'truc-phu-tai-no-boc-thien-quan',
+    title: 'Trực Phù + Thiên Quan tại Nô Bộc - bạn quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Quan'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Thiên Quan tại Nô Bộc:**
 - Bằng hữu càng **TRUNG THÀNH**
 - Biết **NÂNG ĐỠ**
-- Trở thành **QUÝ NHÂN** mở lối công danh
+- Trở thành **QUÝ NHÂN** mở lối công danh`,
+  },
 
-⚠️ **+ Kình Dương / Đà La / Hóa Kỵ / Địa Không / Địa Kiếp:**
+  {
+    id: 'truc-phu-tai-no-boc-thien-phuc',
+    title: 'Trực Phù + Thiên Phúc tại Nô Bộc - bạn quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Phúc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Thiên Phúc tại Nô Bộc:**
+- Bằng hữu càng **TRUNG THÀNH**
+- Biết **NÂNG ĐỠ**
+- Trở thành **QUÝ NHÂN** mở lối công danh`,
+  },
+
+  {
+    id: 'truc-phu-tai-no-boc-long-duc',
+    title: 'Trực Phù + Long Đức tại Nô Bộc - bạn quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Long Đức'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Long Đức tại Nô Bộc:**
+- Bằng hữu càng **TRUNG THÀNH**
+- Biết **NÂNG ĐỠ**
+- Trở thành **QUÝ NHÂN** mở lối công danh`,
+  },
+
+  {
+    id: 'truc-phu-tai-no-boc-ta-phu',
+    title: 'Trực Phù + Tả Phù tại Nô Bộc - bạn quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Tả Phù tại Nô Bộc:**
+- Bằng hữu càng **TRUNG THÀNH**
+- Biết **NÂNG ĐỠ**
+- Trở thành **QUÝ NHÂN** mở lối công danh`,
+  },
+
+  {
+    id: 'truc-phu-tai-no-boc-huu-bat',
+    title: 'Trực Phù + Hữu Bật tại Nô Bộc - bạn quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Hữu Bật tại Nô Bộc:**
+- Bằng hữu càng **TRUNG THÀNH**
+- Biết **NÂNG ĐỠ**
+- Trở thành **QUÝ NHÂN** mở lối công danh`,
+  },
+
+  {
+    id: 'truc-phu-tai-no-boc-van-xuong',
+    title: 'Trực Phù + Văn Xương tại Nô Bộc - bạn quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Văn Xương tại Nô Bộc:**
+- Bằng hữu càng **TRUNG THÀNH**
+- Biết **NÂNG ĐỠ**
+- Trở thành **QUÝ NHÂN** mở lối công danh`,
+  },
+
+  {
+    id: 'truc-phu-tai-no-boc-van-khuc',
+    title: 'Trực Phù + Văn Khúc tại Nô Bộc - bạn quý nhân',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Văn Khúc tại Nô Bộc:**
+- Bằng hữu càng **TRUNG THÀNH**
+- Biết **NÂNG ĐỠ**
+- Trở thành **QUÝ NHÂN** mở lối công danh`,
+  },
+
+  {
+    id: 'truc-phu-tai-no-boc-kinh-duong',
+    title: 'Trực Phù + Kình Dương tại Nô Bộc - bạn lợi dụng',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Trực Phù + Kình Dương tại Nô Bộc:**
+- Bạn bè dễ "**BẰNG MẶT KHÔNG BẰNG LÒNG**"
+- **LỢI DỤNG LÒNG TIN** hoặc **THỜ Ơ** khi cần cậy nhờ`,
+  },
+
+  {
+    id: 'truc-phu-tai-no-boc-da-la',
+    title: 'Trực Phù + Đà La tại Nô Bộc - bạn lợi dụng',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Đà La'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Trực Phù + Đà La tại Nô Bộc:**
+- Bạn bè dễ "**BẰNG MẶT KHÔNG BẰNG LÒNG**"
+- **LỢI DỤNG LÒNG TIN** hoặc **THỜ Ơ** khi cần cậy nhờ`,
+  },
+
+  {
+    id: 'truc-phu-tai-no-boc-hoa-ky',
+    title: 'Trực Phù + Hóa Kỵ tại Nô Bộc - bạn lợi dụng',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Trực Phù + Hóa Kỵ tại Nô Bộc:**
+- Bạn bè dễ "**BẰNG MẶT KHÔNG BẰNG LÒNG**"
+- **LỢI DỤNG LÒNG TIN** hoặc **THỜ Ơ** khi cần cậy nhờ`,
+  },
+
+  {
+    id: 'truc-phu-tai-no-boc-dia-khong',
+    title: 'Trực Phù + Địa Không tại Nô Bộc - bạn lợi dụng',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Địa Không'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Trực Phù + Địa Không tại Nô Bộc:**
+- Bạn bè dễ "**BẰNG MẶT KHÔNG BẰNG LÒNG**"
+- **LỢI DỤNG LÒNG TIN** hoặc **THỜ Ơ** khi cần cậy nhờ`,
+  },
+
+  {
+    id: 'truc-phu-tai-no-boc-dia-kiep',
+    title: 'Trực Phù + Địa Kiếp tại Nô Bộc - bạn lợi dụng',
+    sao: ['Trực Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Trực Phù + Địa Kiếp tại Nô Bộc:**
 - Bạn bè dễ "**BẰNG MẶT KHÔNG BẰNG LÒNG**"
 - **LỢI DỤNG LÒNG TIN** hoặc **THỜ Ơ** khi cần cậy nhờ`,
   },
@@ -260,11 +780,31 @@ về nhà đất.`,
 - Đi xa hay bị **LÚNG TÚNG, dễ bị NGƯỜI KHÁC LỪA GẠT**
 - Phải qua **vài lần VẤP NGÃ** mới rèn được **sự THẬN TRỌNG**
 
-🌟 **+ Cát tinh:** dễ **GẶP QUÝ NHÂN nâng đỡ** — biến sự **NHU HÒA** thành
-**ƯU THẾ**.
+(Xem entry chuyên biệt cho Cát tinh / Sát tinh.)`,
+  },
 
-⚠️ **+ Sát tinh:** dễ vướng **HỌA THỊ PHI**, **THA PHƯƠNG LẮM GIAN NAN** — buộc
-phải lấy **CẨN TRỌNG** làm đầu.`,
+  {
+    id: 'truc-phu-tai-thien-di-luc-cat',
+    title: 'Trực Phù + Lục Cát tại Thiên Di - quý nhân nâng đỡ',
+    sao: ['Trực Phù'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Cát tinh tại Thiên Di** (Tả Phù / Hữu Bật / Văn Xương
+/ Văn Khúc / Thiên Khôi / Thiên Việt): dễ **GẶP QUÝ NHÂN nâng đỡ** — biến sự
+**NHU HÒA** thành **ƯU THẾ**.`,
+  },
+
+  {
+    id: 'truc-phu-tai-thien-di-tu-sat',
+    title: 'Trực Phù + Tứ Sát tại Thiên Di - thị phi gian nan',
+    sao: ['Trực Phù'],
+    cung: ['Thiên Di'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Trực Phù + Sát tinh tại Thiên Di** (Kình Dương / Đà La / Hỏa
+Tinh / Linh Tinh): dễ vướng **HỌA THỊ PHI**, **THA PHƯƠNG LẮM GIAN NAN** —
+buộc phải lấy **CẨN TRỌNG** làm đầu.`,
   },
 
   {
@@ -282,13 +822,90 @@ phải lấy **CẨN TRỌNG** làm đầu.`,
 
 ⚠️ **Mặt khác:**
 - Là người **DỄ BỊ LỪA**
-- Hay phải **CHỊU THIỆT, CHỊU TAI HỌA** do **NGƯỜI KHÁC ĐỔ CHO**
+- Hay phải **CHỊU THIỆT, CHỊU TAI HỌA** do **NGƯỜI KHÁC ĐỔ CHO**`,
+  },
 
-🌟 **+ Thiên Lương / Thiên Đồng / Tả Hữu / Văn Xương / Văn Khúc:**
+  {
+    id: 'truc-phu-tai-tat-ach-thien-luong',
+    title: 'Trực Phù + Thiên Lương tại Tật Ách - duyên thầy thuốc giỏi',
+    sao: ['Trực Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Lương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Thiên Lương tại Tật Ách:**
 - Có **DUYÊN GẶP THẦY THUỐC GIỎI** cứu giúp
-- Nhiều lần "**TAI QUA NẠN KHỎI**"
+- Nhiều lần "**TAI QUA NẠN KHỎI**"`,
+  },
 
-⚠️ **+ Sát Tinh:**
+  {
+    id: 'truc-phu-tai-tat-ach-thien-dong',
+    title: 'Trực Phù + Thiên Đồng tại Tật Ách - duyên thầy thuốc giỏi',
+    sao: ['Trực Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Đồng'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Thiên Đồng tại Tật Ách:**
+- Có **DUYÊN GẶP THẦY THUỐC GIỎI** cứu giúp
+- Nhiều lần "**TAI QUA NẠN KHỎI**"`,
+  },
+
+  {
+    id: 'truc-phu-tai-tat-ach-ta-phu',
+    title: 'Trực Phù + Tả Phù tại Tật Ách - duyên thầy thuốc giỏi',
+    sao: ['Trực Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Tả Phù tại Tật Ách:**
+- Có **DUYÊN GẶP THẦY THUỐC GIỎI** cứu giúp
+- Nhiều lần "**TAI QUA NẠN KHỎI**"`,
+  },
+
+  {
+    id: 'truc-phu-tai-tat-ach-huu-bat',
+    title: 'Trực Phù + Hữu Bật tại Tật Ách - duyên thầy thuốc giỏi',
+    sao: ['Trực Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Hữu Bật tại Tật Ách:**
+- Có **DUYÊN GẶP THẦY THUỐC GIỎI** cứu giúp
+- Nhiều lần "**TAI QUA NẠN KHỎI**"`,
+  },
+
+  {
+    id: 'truc-phu-tai-tat-ach-van-xuong',
+    title: 'Trực Phù + Văn Xương tại Tật Ách - duyên thầy thuốc giỏi',
+    sao: ['Trực Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Văn Xương tại Tật Ách:**
+- Có **DUYÊN GẶP THẦY THUỐC GIỎI** cứu giúp
+- Nhiều lần "**TAI QUA NẠN KHỎI**"`,
+  },
+
+  {
+    id: 'truc-phu-tai-tat-ach-van-khuc',
+    title: 'Trực Phù + Văn Khúc tại Tật Ách - duyên thầy thuốc giỏi',
+    sao: ['Trực Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Văn Khúc tại Tật Ách:**
+- Có **DUYÊN GẶP THẦY THUỐC GIỎI** cứu giúp
+- Nhiều lần "**TAI QUA NẠN KHỎI**"`,
+  },
+
+  {
+    id: 'truc-phu-tai-tat-ach-tu-sat',
+    title: 'Trực Phù + Tứ Sát tại Tật Ách - bệnh dai dẳng',
+    sao: ['Trực Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Trực Phù + Sát Tinh tại Tật Ách** (Kình Dương / Đà La / Hỏa
+Tinh / Linh Tinh):
 - Bệnh tình **DAI DẲNG**
 - Dễ gặp **HỌA BẤT NGỜ**
 - Tốn kém mà **KHÓ DỨT ĐIỂM**`,
@@ -317,14 +934,96 @@ phải lấy **CẨN TRỌNG** làm đầu.`,
 ⚠️ **Mặt trái:**
 - **THẬT THÀ DỄ HÓA RA DẠI**
 - Lòng thương người có thể bị **LỢI DỤNG** → **HAO TÀI TỐN CỦA**
-- Người dễ bị **THẬT THÀ MÀ HAY BỊ LỪA TIỀN**
+- Người dễ bị **THẬT THÀ MÀ HAY BỊ LỪA TIỀN**`,
+  },
 
-🌟 **+ Lộc Tồn / Hóa Lộc / Tả Hữu / Văn Xương / Văn Khúc:**
+  {
+    id: 'truc-phu-tai-tai-bach-loc-ton',
+    title: 'Trực Phù + Lộc Tồn tại Tài Bạch - tài chính vững',
+    sao: ['Trực Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Lộc Tồn'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Lộc Tồn tại Tài Bạch:**
 - Tài chính thêm phần **VỮNG VÀNG**
 - Có **lộc QUÝ NHÂN**
-- Cuộc sống **ĐỦ ĐẦY**
+- Cuộc sống **ĐỦ ĐẦY**`,
+  },
 
-⚠️ **+ Sát Tinh:**
+  {
+    id: 'truc-phu-tai-tai-bach-hoa-loc',
+    title: 'Trực Phù + Hóa Lộc tại Tài Bạch - tài chính vững',
+    sao: ['Trực Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Hóa Lộc tại Tài Bạch:**
+- Tài chính thêm phần **VỮNG VÀNG**
+- Có **lộc QUÝ NHÂN**
+- Cuộc sống **ĐỦ ĐẦY**`,
+  },
+
+  {
+    id: 'truc-phu-tai-tai-bach-ta-phu',
+    title: 'Trực Phù + Tả Phù tại Tài Bạch - tài chính vững',
+    sao: ['Trực Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Tả Phù tại Tài Bạch:**
+- Tài chính thêm phần **VỮNG VÀNG**
+- Có **lộc QUÝ NHÂN**
+- Cuộc sống **ĐỦ ĐẦY**`,
+  },
+
+  {
+    id: 'truc-phu-tai-tai-bach-huu-bat',
+    title: 'Trực Phù + Hữu Bật tại Tài Bạch - tài chính vững',
+    sao: ['Trực Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Hữu Bật tại Tài Bạch:**
+- Tài chính thêm phần **VỮNG VÀNG**
+- Có **lộc QUÝ NHÂN**
+- Cuộc sống **ĐỦ ĐẦY**`,
+  },
+
+  {
+    id: 'truc-phu-tai-tai-bach-van-xuong',
+    title: 'Trực Phù + Văn Xương tại Tài Bạch - tài chính vững',
+    sao: ['Trực Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Văn Xương tại Tài Bạch:**
+- Tài chính thêm phần **VỮNG VÀNG**
+- Có **lộc QUÝ NHÂN**
+- Cuộc sống **ĐỦ ĐẦY**`,
+  },
+
+  {
+    id: 'truc-phu-tai-tai-bach-van-khuc',
+    title: 'Trực Phù + Văn Khúc tại Tài Bạch - tài chính vững',
+    sao: ['Trực Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Văn Khúc tại Tài Bạch:**
+- Tài chính thêm phần **VỮNG VÀNG**
+- Có **lộc QUÝ NHÂN**
+- Cuộc sống **ĐỦ ĐẦY**`,
+  },
+
+  {
+    id: 'truc-phu-tai-tai-bach-tu-sat',
+    title: 'Trực Phù + Tứ Sát tại Tài Bạch - hao hụt tiền bạc',
+    sao: ['Trực Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Trực Phù + Sát Tinh tại Tài Bạch** (Kình Dương / Đà La / Hỏa
+Tinh / Linh Tinh):
 - Tiền bạc **HAO HỤT**
 - Làm nhiều hưởng ít
 - Dễ gặp cảnh "**CÔNG DÃ TRÀNG**"`,
@@ -345,13 +1044,66 @@ phải lấy **CẨN TRỌNG** làm đầu.`,
 - Bản tính **THẬT THÀ** nên hay **DẠI DỘT TIN NGƯỜI**
 - **CHỊU THIỆT** trong **học hành và công việc**
 - Cha mẹ không ít lần "**ĂN KHÔNG NGON, NGỦ KHÔNG YÊN**" vì **lo lắng không
-  đâu**
+  đâu**`,
+  },
 
-🌟 **+ Tả Hữu / Văn Xương / Thiên Khôi:**
+  {
+    id: 'truc-phu-tai-tu-tuc-ta-phu',
+    title: 'Trực Phù + Tả Phù tại Tử Tức - con sáng dạ',
+    sao: ['Trực Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Tả Phù tại Tử Tức:**
 - Con sinh ra **SÁNG DẠ, THÀNH ĐẠT**
-- Cha mẹ được **NHỜ CẬY**
+- Cha mẹ được **NHỜ CẬY**`,
+  },
 
-⚠️ **+ Sát Tinh:**
+  {
+    id: 'truc-phu-tai-tu-tuc-huu-bat',
+    title: 'Trực Phù + Hữu Bật tại Tử Tức - con sáng dạ',
+    sao: ['Trực Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Hữu Bật tại Tử Tức:**
+- Con sinh ra **SÁNG DẠ, THÀNH ĐẠT**
+- Cha mẹ được **NHỜ CẬY**`,
+  },
+
+  {
+    id: 'truc-phu-tai-tu-tuc-van-xuong',
+    title: 'Trực Phù + Văn Xương tại Tử Tức - con sáng dạ',
+    sao: ['Trực Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Văn Xương tại Tử Tức:**
+- Con sinh ra **SÁNG DẠ, THÀNH ĐẠT**
+- Cha mẹ được **NHỜ CẬY**`,
+  },
+
+  {
+    id: 'truc-phu-tai-tu-tuc-thien-khoi',
+    title: 'Trực Phù + Thiên Khôi tại Tử Tức - con sáng dạ',
+    sao: ['Trực Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Thiên Khôi tại Tử Tức:**
+- Con sinh ra **SÁNG DẠ, THÀNH ĐẠT**
+- Cha mẹ được **NHỜ CẬY**`,
+  },
+
+  {
+    id: 'truc-phu-tai-tu-tuc-tu-sat',
+    title: 'Trực Phù + Tứ Sát tại Tử Tức - nuôi dạy vất vả',
+    sao: ['Trực Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Trực Phù + Sát Tinh tại Tử Tức** (Kình Dương / Đà La / Hỏa
+Tinh / Linh Tinh):
 - Việc nuôi dạy **VẤT VẢ**
 - Hoặc tình cảm có sự **XA CÁCH**`,
   },
@@ -372,13 +1124,66 @@ phải lấy **CẨN TRỌNG** làm đầu.`,
 🌟 **Tướng phu thê:**
 - Hai vợ chồng **TƯỚNG ĐỐI XỨNG ĐÔI VỪA LỨA**
 - Hay thích **LÀM PHƯỚC, HƯỚNG THIỆN**
-- Hôn nhân tuy **GIẢN DỊ** nhưng **BỀN LÂU**
+- Hôn nhân tuy **GIẢN DỊ** nhưng **BỀN LÂU**`,
+  },
 
-🌟 **+ Tả Phù / Hữu Bật / Văn Xương / Thiên Khôi:**
+  {
+    id: 'truc-phu-tai-phu-the-ta-phu',
+    title: 'Trực Phù + Tả Phù tại Phu Thê - gia đạo êm ấm',
+    sao: ['Trực Phù'],
+    cung: ['Phu Thê'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Tả Phù tại Phu Thê:**
 - Gia đạo càng **ÊM ẤM**
-- Vợ chồng **ĐỒNG LÒNG GÂY DỰNG CƠ NGHIỆP**
+- Vợ chồng **ĐỒNG LÒNG GÂY DỰNG CƠ NGHIỆP**`,
+  },
 
-⚠️ **+ Sát Tinh:**
+  {
+    id: 'truc-phu-tai-phu-the-huu-bat',
+    title: 'Trực Phù + Hữu Bật tại Phu Thê - gia đạo êm ấm',
+    sao: ['Trực Phù'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Hữu Bật tại Phu Thê:**
+- Gia đạo càng **ÊM ẤM**
+- Vợ chồng **ĐỒNG LÒNG GÂY DỰNG CƠ NGHIỆP**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phu-the-van-xuong',
+    title: 'Trực Phù + Văn Xương tại Phu Thê - gia đạo êm ấm',
+    sao: ['Trực Phù'],
+    cung: ['Phu Thê'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Văn Xương tại Phu Thê:**
+- Gia đạo càng **ÊM ẤM**
+- Vợ chồng **ĐỒNG LÒNG GÂY DỰNG CƠ NGHIỆP**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phu-the-thien-khoi',
+    title: 'Trực Phù + Thiên Khôi tại Phu Thê - gia đạo êm ấm',
+    sao: ['Trực Phù'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Trực Phù + Thiên Khôi tại Phu Thê:**
+- Gia đạo càng **ÊM ẤM**
+- Vợ chồng **ĐỒNG LÒNG GÂY DỰNG CƠ NGHIỆP**`,
+  },
+
+  {
+    id: 'truc-phu-tai-phu-the-tu-sat',
+    title: 'Trực Phù + Tứ Sát tại Phu Thê - hôn nhân thử thách',
+    sao: ['Trực Phù'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Trực Phù + Sát Tinh tại Phu Thê** (Kình Dương / Đà La / Hỏa
+Tinh / Linh Tinh):
 - Hôn nhân mang màu **THỬ THÁCH**
 - Dễ bị **NGƯỜI NGOÀI XEN VÀO**
 - Hoặc gặp cảnh **XA CÁCH**
@@ -399,13 +1204,66 @@ phải lấy **CẨN TRỌNG** làm đầu.`,
 - Tình cảm "**MÁU CHẢY RUỘT MỀM**" là **ĐIỂM TỰA TINH THẦN** vững chắc
 
 ⚠️ **Mặt trái:**
-- Anh em dễ **CHỊU THIỆT** vì **TIN LẦM NGƯỜI** mà lâm vào khốn khó
+- Anh em dễ **CHỊU THIỆT** vì **TIN LẦM NGƯỜI** mà lâm vào khốn khó`,
+  },
 
-🌟 **+ Tả Phù / Hữu Bật / Văn Xương / Thiên Khôi:**
+  {
+    id: 'truc-phu-tai-huynh-de-ta-phu',
+    title: 'Trực Phù + Tả Phù tại Huynh Đệ - hòa thuận thành đạt',
+    sao: ['Trực Phù'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Tả Phù tại Huynh Đệ:**
 - Anh em không chỉ **HÒA THUẬN** mà còn **THÀNH ĐẠT**
-- Hỗ trợ nhau trên đường **CÔNG DANH**
+- Hỗ trợ nhau trên đường **CÔNG DANH**`,
+  },
 
-⚠️ **+ Sát Tinh:**
+  {
+    id: 'truc-phu-tai-huynh-de-huu-bat',
+    title: 'Trực Phù + Hữu Bật tại Huynh Đệ - hòa thuận thành đạt',
+    sao: ['Trực Phù'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Hữu Bật tại Huynh Đệ:**
+- Anh em không chỉ **HÒA THUẬN** mà còn **THÀNH ĐẠT**
+- Hỗ trợ nhau trên đường **CÔNG DANH**`,
+  },
+
+  {
+    id: 'truc-phu-tai-huynh-de-van-xuong',
+    title: 'Trực Phù + Văn Xương tại Huynh Đệ - hòa thuận thành đạt',
+    sao: ['Trực Phù'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Văn Xương tại Huynh Đệ:**
+- Anh em không chỉ **HÒA THUẬN** mà còn **THÀNH ĐẠT**
+- Hỗ trợ nhau trên đường **CÔNG DANH**`,
+  },
+
+  {
+    id: 'truc-phu-tai-huynh-de-thien-khoi',
+    title: 'Trực Phù + Thiên Khôi tại Huynh Đệ - hòa thuận thành đạt',
+    sao: ['Trực Phù'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 65,
+    tomTat: `🌟 **Trực Phù + Thiên Khôi tại Huynh Đệ:**
+- Anh em không chỉ **HÒA THUẬN** mà còn **THÀNH ĐẠT**
+- Hỗ trợ nhau trên đường **CÔNG DANH**`,
+  },
+
+  {
+    id: 'truc-phu-tai-huynh-de-tu-sat',
+    title: 'Trực Phù + Tứ Sát tại Huynh Đệ - lận đận thị phi',
+    sao: ['Trực Phù'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Trực Phù + Sát Tinh tại Huynh Đệ** (Kình Dương / Đà La / Hỏa
+Tinh / Linh Tinh):
 - Người thân **LẬN ĐẬN**
 - Hay vướng **THỊ PHI**
 - Tình nghĩa vẫn là **SỢI DÂY GẮN KẾT** để giữ gia đạo yên ổn`,

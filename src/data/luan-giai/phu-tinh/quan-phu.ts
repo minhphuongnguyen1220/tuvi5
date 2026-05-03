@@ -40,23 +40,38 @@ export const luanGiai_QuanPhu: DoanLuanGiai[] = [
     tomTat: `🌟 **Quan Phủ thủ Mệnh:** người có **KHẢ NĂNG XÉT ĐOÁN, LÝ LUẬN TỐT**,
 đôi khi **hơi KHẮT KHE**, tính toán nhiều.
 
-🌟 **+ Văn Xương / Văn Khúc / Thái Tuế:** lợi cho **PHÁP LUẬT** — kiện cáo, thị
-phi, **biện hộ, bút chiến**. Cần thiết cho:
-- **Thẩm phán, luật sư**
-- **Thanh tra, kiểm toán**
-- **Điều tra, giám sát**
-
-→ Mẫu người làm việc theo **NGUYÊN TẮC và LOGIC**, "**người cầm cân nảy mực**".
-
-⚠️ **+ Sát bại tinh:** người **HÈN HẠ, gian nịnh, phản bội**:
-- **Cố oán, ưa trả thù**, thích kiện tụng, **câu chấp, đố kỵ**
-- HOẶC bị **oán, báo thù, kiện, phản bội**
-
 ⚠️ **Tinh thần CẠNH TRANH, ĐỐ KỴ, NẶNG BÁO PHỤC** — sẵn sàng dùng thủ đoạn
 tranh thắng → khơi mào **trả đũa**.
 
 ⚡ **Quan Phủ thủ Mệnh:** báo hiệu **NGHIỆP CHƯỚNG** của việc **báo
 oán, thù dai, thị phi**.`,
+  },
+  {
+    id: 'quan-phu-tai-menh-xuong-khuc-thai-tue',
+    title: 'Quan Phủ tại Mệnh + Văn Xương/Văn Khúc/Thái Tuế - Lợi pháp luật',
+    sao: ['Quan Phủ'],
+    cung: ['Mệnh'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Thái Tuế'],
+    doUuTien: 73,
+    tomTat: `🌟 **Quan Phủ + Văn Xương / Văn Khúc / Thái Tuế tại Mệnh:** lợi cho
+**PHÁP LUẬT** — kiện cáo, thị phi, **biện hộ, bút chiến**. Cần thiết cho:
+- **Thẩm phán, luật sư**
+- **Thanh tra, kiểm toán**
+- **Điều tra, giám sát**
+
+→ Mẫu người làm việc theo **NGUYÊN TẮC và LOGIC**, "**người cầm cân nảy mực**".`,
+  },
+  {
+    id: 'quan-phu-tai-menh-sat-bai',
+    title: 'Quan Phủ tại Mệnh + Sát bại tinh - Hèn hạ trả thù',
+    sao: ['Quan Phủ'],
+    cung: ['Mệnh'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Đại Hao', 'Tiểu Hao'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Quan Phủ + Sát bại tinh (Kình / Đà / Hỏa / Linh / Không / Kiếp /
+Hóa Kỵ / Đại Hao / Tiểu Hao) tại Mệnh:** người **HÈN HẠ, gian nịnh, phản bội**:
+- **Cố oán, ưa trả thù**, thích kiện tụng, **câu chấp, đố kỵ**
+- HOẶC bị **oán, báo thù, kiện, phản bội**`,
   },
 
   {
@@ -69,9 +84,18 @@ oán, thù dai, thị phi**.`,
 **hành pháp, pháp luật**, hành chính, các nghề đòi hỏi **công tâm, minh
 bạch**.
 
-⚠️ Cha mẹ dễ **BẤT HÒA, cãi nhau** vì trái ngược quan điểm.
-
-⚠️ **+ Sát bại tinh:** không chỉ mâu thuẫn thông thường mà dễ dẫn đến:
+⚠️ Cha mẹ dễ **BẤT HÒA, cãi nhau** vì trái ngược quan điểm.`,
+  },
+  {
+    id: 'quan-phu-tai-phu-mau-sat-bai',
+    title: 'Quan Phủ tại Phụ Mẫu + Sát bại tinh - Cha mẹ ly dị kiện cáo',
+    sao: ['Quan Phủ'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Đại Hao', 'Tiểu Hao'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Quan Phủ + Sát bại tinh (Kình / Đà / Hỏa / Linh / Không / Kiếp /
+Hóa Kỵ / Đại Hao / Tiểu Hao) tại Phụ Mẫu:** không chỉ mâu thuẫn thông thường
+mà dễ dẫn đến:
 - **Chia tay, ly dị**
 - **Kiện tụng nhau**
 - Xa cách vì **bất hòa tư tưởng**`,
@@ -88,13 +112,21 @@ dễ sa vào **TRANH CÃI, KIỆN TỤNG** lẫn nhau vì bất đồng quan đi
 
 ⚡ Mâu thuẫn thường về **quyền lợi, đất đai, hương hỏa, mồ mả tổ tiên**.
 
-🌟 **+ Cát tinh + Quyền tinh:** ông bà tổ tiên có người **LÀM QUAN LỚN**, khắt
-khe và **quyền biến**.
-
 ⚠️ Dễ có **bất đồng, cãi nhau** trong việc **THỜ CÚNG, mồ mả tổ tiên**.
 
 ⚡ **Đặc trưng hôn phối:** gia đình người hôn phối **KHÓ TÍNH, khắt khe**, hay
 soi xét hoặc có người làm về **NGÀNH LUẬT**.`,
+  },
+  {
+    id: 'quan-phu-tai-phuc-duc-luc-cat-quyen',
+    title: 'Quan Phủ tại Phúc Đức + Lục Cát/Quyền tinh - Tổ tiên làm quan',
+    sao: ['Quan Phủ'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt', 'Hóa Quyền'],
+    doUuTien: 65,
+    tomTat: `🌟 **Quan Phủ + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) / Hóa Quyền tại Phúc Đức:** ông bà tổ tiên có người
+**LÀM QUAN LỚN**, khắt khe và **quyền biến**.`,
   },
 
   {
@@ -145,10 +177,19 @@ thận**, dễ bị **"đâm sau lưng"**, cạnh tranh không lành mạnh.`,
 
 ⚠️ Quan hệ đi kèm **đề phòng, xét nét, thiếu hài hòa**:
 - Dễ bị **hiểu lầm, nói xấu**
-- Bị người thân tín **trở mặt, chơi xấu sau lưng**
-
-🌟 **+ Cát tinh:** quen nhiều người làm về **HÌNH PHÁP, PHÁP LUẬT** — gặp
-được bạn tốt, có **năng lực phán xử**, có thể **giúp đỡ vấn đề pháp luật**.`,
+- Bị người thân tín **trở mặt, chơi xấu sau lưng**`,
+  },
+  {
+    id: 'quan-phu-tai-no-boc-luc-cat',
+    title: 'Quan Phủ tại Nô Bộc + Lục Cát - Bạn pháp luật',
+    sao: ['Quan Phủ'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `🌟 **Quan Phủ + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người làm về **HÌNH PHÁP,
+PHÁP LUẬT** — gặp được bạn tốt, có **năng lực phán xử**, có thể **giúp đỡ vấn
+đề pháp luật**.`,
   },
 
   {
@@ -158,10 +199,18 @@ thận**, dễ bị **"đâm sau lưng"**, cạnh tranh không lành mạnh.`,
     cung: ['Thiên Di'],
     doUuTien: 72,
     tomTat: `⚠️ **Quan Phủ cư Di:** ra ngoài dễ **dính THỊ PHI, KIỆN TỤNG** —
-**"làm ơn mắc oán"**, bị **soi mói, dèm pha**.
-
-🌟 **+ Cát tinh:** có thể **CỨU GIẢI** hoặc được giao **TRỌNG TRÁCH** yêu cầu
-tính minh bạch cao:
+**"làm ơn mắc oán"**, bị **soi mói, dèm pha**.`,
+  },
+  {
+    id: 'quan-phu-tai-thien-di-luc-cat',
+    title: 'Quan Phủ tại Thiên Di + Lục Cát - Trọng trách minh bạch',
+    sao: ['Quan Phủ'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 67,
+    tomTat: `🌟 **Quan Phủ + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Thiên Di:** có thể **CỨU GIẢI** hoặc được giao
+**TRỌNG TRÁCH** yêu cầu tính minh bạch cao:
 - **Kiểm tra, thanh tra, giám sát**
 
 → Có **TÍN NHIỆM cao**, được tin tưởng giao việc quan trọng bên ngoài.`,
@@ -176,14 +225,28 @@ tính minh bạch cao:
     tomTat: `⚠️ **Quan Phủ cư Tật:** mối nguy tiềm ẩn từ **PHÁP LÝ, KIỆN TỤNG,
 THỊ PHI** → ảnh hưởng cả **sức khỏe tinh thần và thể chất**.
 
-⚠️ **+ Thái Tuế / Hóa Kỵ / Liêm Trinh / Bạch Hổ / Thiên Hình:** nguy cơ rơi
-vào **VÒNG LAO LÝ, TÙ TỘI** càng tăng.
-
-⚠️ **+ Thái Tuế** đặc biệt: "**SUỐT ĐỜI MÒN MÒN NGỒI CỬA CÔNG MÔN**" — cuộc
-đời gắn liền với tòa án.
-
 🌟 **Hóa giải:** nếu làm nghề **LUẬT PHÁP** thì ảnh hưởng tiêu cực được giảm
 nhẹ — nhờ **HIỂU BIẾT để thoát hiểm**, **chuyển bại thành thắng**.`,
+  },
+  {
+    id: 'quan-phu-tai-tat-ach-tue-ky-liem-ho-hinh',
+    title: 'Quan Phủ tại Tật Ách + Tuế/Kỵ/Liêm/Hổ/Hình - Vòng lao lý',
+    sao: ['Quan Phủ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thái Tuế', 'Hóa Kỵ', 'Liêm Trinh', 'Bạch Hổ', 'Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quan Phủ + Thái Tuế / Hóa Kỵ / Liêm Trinh / Bạch Hổ / Thiên Hình
+tại Tật Ách:** nguy cơ rơi vào **VÒNG LAO LÝ, TÙ TỘI** càng tăng.`,
+  },
+  {
+    id: 'quan-phu-tai-tat-ach-thai-tue',
+    title: 'Quan Phủ tại Tật Ách + Thái Tuế - Suốt đời cửa công môn',
+    sao: ['Quan Phủ'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thái Tuế'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quan Phủ + Thái Tuế tại Tật Ách:** "**SUỐT ĐỜI MÒN MÒN NGỒI CỬA
+CÔNG MÔN**" — cuộc đời gắn liền với tòa án.`,
   },
 
   {
@@ -201,10 +264,18 @@ nong — chi tiêu **có kiểm soát**, đòi hỏi **MINH BẠCH, RÕ RÀNG**.
 - **Luật sư chuyên về hợp đồng, tài sản**
 
 ⚠️ Người **kiếm tiền nghề KIỆN** (luật sư, hộ giá viên) hoặc đi cạnh tranh,
-kiện tụng người khác để mình có tiền.
-
-⚠️ **+ Hung sát:** dễ bị **KIỆN TỤNG, THỊ PHI vì TIỀN BẠC**, **bị phản bội vì
-tiền** (lường gạt).`,
+kiện tụng người khác để mình có tiền.`,
+  },
+  {
+    id: 'quan-phu-tai-tai-bach-hung-sat',
+    title: 'Quan Phủ tại Tài Bạch + Hung sát - Kiện tụng vì tiền',
+    sao: ['Quan Phủ'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quan Phủ + Hung sát (Kình / Đà / Hỏa / Linh / Không / Kiếp) tại
+Tài Bạch:** dễ bị **KIỆN TỤNG, THỊ PHI vì TIỀN BẠC**, **bị phản bội vì tiền**
+(lường gạt).`,
   },
 
   {
@@ -217,11 +288,19 @@ tiền** (lường gạt).`,
 SẮC BÉN, suy xét tốt** — dễ làm **NGHỀ THẨM PHÁN, ngành luật**, các lĩnh vực
 đòi hỏi óc phân tích.
 
-⚠️ **+ Sát bại tinh:** **KHẮC KHẨU với con cái**, xấu nữa có thể **TRANH TỤNG
-với con**.
-
 ⚠️ Nếu **cung Phối cũng xấu:** có thể **TRANH GIÀNH QUYỀN NUÔI CON** giữa hai
 vợ chồng (khi ly hôn).`,
+  },
+  {
+    id: 'quan-phu-tai-tu-tuc-sat-bai',
+    title: 'Quan Phủ tại Tử Tức + Sát bại - Khắc khẩu tranh tụng con',
+    sao: ['Quan Phủ'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Đại Hao', 'Tiểu Hao'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Quan Phủ + Sát bại tinh (Kình / Đà / Hỏa / Linh / Không / Kiếp /
+Hóa Kỵ / Đại Hao / Tiểu Hao) tại Tử Tức:** **KHẮC KHẨU với con cái**, xấu nữa
+có thể **TRANH TỤNG với con**.`,
   },
 
   {
@@ -239,10 +318,18 @@ Người hôn phối:
 
 ⚠️ Vì tính cách **quá rạch ròi và xét nét** → vợ chồng:
 - Dễ **BẤT HÒA, soi xét nhau**
-- **Tranh luận gay gắt** không ai nhường ai
-
-⚠️ **+ Sát bại tinh:** Quan Phủ chính là **"QUAN TÒA"** — nơi hai người **ĐỆ
-ĐƠN LY DỊ**.`,
+- **Tranh luận gay gắt** không ai nhường ai`,
+  },
+  {
+    id: 'quan-phu-tai-phu-the-sat-bai',
+    title: 'Quan Phủ tại Phu Thê + Sát bại - Đệ đơn ly dị',
+    sao: ['Quan Phủ'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Đại Hao', 'Tiểu Hao'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quan Phủ + Sát bại tinh (Kình / Đà / Hỏa / Linh / Không / Kiếp /
+Hóa Kỵ / Đại Hao / Tiểu Hao) tại Phu Thê:** Quan Phủ chính là **"QUAN TÒA"** —
+nơi hai người **ĐỆ ĐƠN LY DỊ**.`,
   },
 
   {

@@ -157,10 +157,10 @@ tàn"**. Hôn nhân bắt đầu từ cảm xúc bốc đồng thường kết t
 
 ⚠️ **Nhiều tai họa phát sinh từ TÂM BỆNH**:
 - **Cú sốc tình cảm, thất tình** → thể trạng suy sụp nhanh
-- **+ Thai / Mộc Dục:** bệnh **lây nhiễm qua đường tình cảm**
+- **Khi có Thai / Mộc Dục:** bệnh **lây nhiễm qua đường tình cảm**
 
-⚠️ **+ Hóa Kỵ / Địa Kiếp:** đề phòng **TAI NẠN SÔNG NƯỚC** — chuyến đi xa, du
-lịch, tắm biển, đi thuyền cần thận trọng.
+⚠️ **Khi có Hóa Kỵ / Địa Kiếp:** đề phòng **TAI NẠN SÔNG NƯỚC** — chuyến đi xa,
+du lịch, tắm biển, đi thuyền cần thận trọng.
 
 ## Tài lộc
 
@@ -231,15 +231,58 @@ giới, **ra ngoài nổi tiếng**.
 🌟 Cha mẹ **lãng mạn**, thích **văn thơ, âm nhạc**, có thiên hướng **yêu nghệ
 thuật và sống tình cảm**, dễ là người **lấy nhau sớm**.
 
-🌟 **+ Cát tinh:** cha mẹ hiền hòa, có uy tín, sống tình cảm, đương số được
-sinh trưởng trong môi trường văn minh, tình cảm → có nền tảng để phát triển
-học vấn và sự nghiệp.
-
-⚠️ **+ Không Kiếp / Kình Đà:** duyên tình của bố mẹ **dang dở** hoặc gặp **trắc
-trở về hôn nhân**, có thể **ly hôn hoặc góa bụa**.
-
 ⚡ **Hồng + Thiên Không + Cô + Quả:** giảm nhân duyên cha mẹ — về sau **người
 còn lại thường thích tu tập**, tìm hiểu tâm linh.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-mau-luc-cat',
+    title: 'Hồng Loan + Lục Cát tại Phụ Mẫu - Cha mẹ hiền hòa',
+    sao: ['Hồng Loan'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hồng Loan + Lục Cát tại Phụ Mẫu:** cha mẹ hiền hòa, có uy tín, sống tình cảm, đương số được sinh trưởng trong môi trường văn minh, tình cảm → có nền tảng để phát triển học vấn và sự nghiệp.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-mau-dia-khong',
+    title: '⚠️ Hồng Loan + Địa Không tại Phụ Mẫu - Cha mẹ dang dở',
+    sao: ['Hồng Loan'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Địa Không tại Phụ Mẫu:** duyên tình của bố mẹ **dang dở** hoặc gặp **trắc trở về hôn nhân**, có thể **ly hôn hoặc góa bụa**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-mau-dia-kiep',
+    title: '⚠️ Hồng Loan + Địa Kiếp tại Phụ Mẫu - Cha mẹ dang dở',
+    sao: ['Hồng Loan'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Địa Kiếp tại Phụ Mẫu:** duyên tình của bố mẹ **dang dở** hoặc gặp **trắc trở về hôn nhân**, có thể **ly hôn hoặc góa bụa**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-mau-kinh-duong',
+    title: '⚠️ Hồng Loan + Kình Dương tại Phụ Mẫu - Cha mẹ dang dở',
+    sao: ['Hồng Loan'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Kình Dương tại Phụ Mẫu:** duyên tình của bố mẹ **dang dở** hoặc gặp **trắc trở về hôn nhân**, có thể **ly hôn hoặc góa bụa**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-mau-da-la',
+    title: '⚠️ Hồng Loan + Đà La tại Phụ Mẫu - Cha mẹ dang dở',
+    sao: ['Hồng Loan'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Đà La tại Phụ Mẫu:** duyên tình của bố mẹ **dang dở** hoặc gặp **trắc trở về hôn nhân**, có thể **ly hôn hoặc góa bụa**.`,
   },
 
   // ============================================================
@@ -262,10 +305,17 @@ nhiều người **thành danh, thành đạt, may mắn**.
 
 ⚡ **Mồ mả tổ tiên** thường gần nơi **ẩm ướt, sông hồ** (hành Thủy).
 
-⚠️ **+ Hung sát:** họ hàng vướng duyên tình trắc trở, góa bụa, tang tóc, tranh
-chấp đất đai/mồ mả. Đương số khó tránh nghiệp duyên ràng buộc.
-
 (Xem entry chuyên biệt cho cách Hồng Loan cư Phúc Đức tại Tứ Mộ.)`,
+  },
+
+  {
+    id: 'hong-loan-tai-phuc-duc-hung-sat',
+    title: '⚠️ Hồng Loan + Lục Sát tại Phúc Đức - Họ hàng trắc trở',
+    sao: ['Hồng Loan'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Hung sát tại Phúc Đức:** họ hàng vướng duyên tình trắc trở, góa bụa, tang tóc, tranh chấp đất đai/mồ mả. Đương số khó tránh nghiệp duyên ràng buộc.`,
   },
 
   {
@@ -303,10 +353,17 @@ do tính chất Thổ khắc Thủy của Hồng Loan tại các cung Thổ.`,
 
 ⚠️ **Quan hệ hàng xóm:** dễ **nảy sinh tình cảm, nhân duyên** với hàng xóm
 xung quanh — thường thân mật với hàng xóm **khác giới**. Hàng xóm dễ có người
-**góa chồng**.
+**góa chồng**.`,
+  },
 
-⚠️ **+ Sao xấu:** nhà cửa dễ **cháy nổ, hư hỏng**, vướng tranh chấp hoặc ở
-gần chốn ồn ào, thị phi → bản mệnh dễ vướng nghiệp duyên với người xung quanh.`,
+  {
+    id: 'hong-loan-tai-dien-trach-luc-sat',
+    title: '⚠️ Hồng Loan + Lục Sát tại Điền Trạch - Nhà cửa cháy nổ',
+    sao: ['Hồng Loan'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Sao xấu tại Điền Trạch:** nhà cửa dễ **cháy nổ, hư hỏng**, vướng tranh chấp hoặc ở gần chốn ồn ào, thị phi → bản mệnh dễ vướng nghiệp duyên với người xung quanh.`,
   },
 
   // ============================================================
@@ -323,16 +380,29 @@ gần chốn ồn ào, thị phi → bản mệnh dễ vướng nghiệp duyên 
 - Có **may mắn về công danh** do **người khác giới mang đến**, được giúp đỡ
   hỗ trợ
 
-🌟 **+ Đào Hoa + Thiên Hỷ** (Tam Minh): công danh **lớn lao, dễ dàng**, **thi
-cử đỗ đầu**, đậu danh.
-
 🌟 **Phù hợp công việc liên quan tới CẢM XÚC, NGHỆ THUẬT, VĂN THƠ**:
 - **Đào Hồng:** làm đẹp, nghệ thuật, **kiến trúc, tổ chức sự kiện**...
-- ⚡ **Cơ + Hồng + Hình + Phi Liêm:** **may dệt, cắt tóc**
+- ⚡ **Cơ + Hồng + Hình + Phi Liêm:** **may dệt, cắt tóc**`,
+  },
 
-⚠️ **+ Sát tinh vây hãm:** sự nghiệp **"sớm nở tối tàn"**, có tài nhưng vướng
-**thị phi**, tình cảm xen vào công việc. Phải lao động tay chân, ít được
-trọng dụng.`,
+  {
+    id: 'hong-loan-tai-quan-loc-tam-minh',
+    title: 'Hồng Loan + Đào Hoa + Thiên Hỷ tại Quan Lộc - Tam Minh thi cử đỗ đầu',
+    sao: ['Hồng Loan'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Đào Hoa', 'Thiên Hỷ'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hồng Loan + Đào Hoa + Thiên Hỷ tại Quan Lộc (Tam Minh):** công danh **lớn lao, dễ dàng**, **thi cử đỗ đầu**, đậu danh.`,
+  },
+
+  {
+    id: 'hong-loan-tai-quan-loc-sat-tinh',
+    title: '⚠️ Hồng Loan + Sát tinh tại Quan Lộc - Sự nghiệp sớm nở tối tàn',
+    sao: ['Hồng Loan'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Sát tinh vây hãm tại Quan Lộc:** sự nghiệp **"sớm nở tối tàn"**, có tài nhưng vướng **thị phi**, tình cảm xen vào công việc. Phải lao động tay chân, ít được trọng dụng.`,
   },
 
   // ============================================================
@@ -347,17 +417,71 @@ trọng dụng.`,
     tomTat: `**Hồng Loan cư Nô:** người có **sức thu hút quyến rũ khác phái**,
 được bè bạn, đồng nghiệp **thương mến**, **nhiều bạn bè nữ giới**.
 
-🌟 **+ Tử Vi / Thiên Phủ / Thái Dương:** bè bạn **nể phục, kính trọng** vì sự
-**đoan chính, ngay thẳng, nết hạnh** của mình.
-
 ⚠️ **Đặc trưng:** Hồng Loan = duyên → đương số rất **lắm duyên**, dễ có **nhân
 tình bên ngoài**.
 
 ⚠️ **Cung Phu/Thê có sao xấu** (Hình / Kỵ / Tả Hữu / Tham Lang): rất dễ **hai
-đời vợ chồng**.
+đời vợ chồng**.`,
+  },
 
-⚠️ **+ Tham Lang / Thiên Hình / Hóa Kỵ:** nguy cơ tình cảm rối ren, **nhân
-tình ngoài luồng** càng cao. Bạn bè lợi dụng, đồng nghiệp ganh ghét.`,
+  {
+    id: 'hong-loan-tai-no-boc-tu-vi',
+    title: 'Hồng Loan + Tử Vi tại Nô Bộc - Bạn bè nể phục',
+    sao: ['Hồng Loan'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hồng Loan + Tử Vi tại Nô Bộc:** bè bạn **nể phục, kính trọng** vì sự **đoan chính, ngay thẳng, nết hạnh** của mình.`,
+  },
+
+  {
+    id: 'hong-loan-tai-no-boc-thien-phu',
+    title: 'Hồng Loan + Thiên Phủ tại Nô Bộc - Bạn bè nể phục',
+    sao: ['Hồng Loan'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hồng Loan + Thiên Phủ tại Nô Bộc:** bè bạn **nể phục, kính trọng** vì sự **đoan chính, ngay thẳng, nết hạnh** của mình.`,
+  },
+
+  {
+    id: 'hong-loan-tai-no-boc-thai-duong',
+    title: 'Hồng Loan + Thái Dương tại Nô Bộc - Bạn bè nể phục',
+    sao: ['Hồng Loan'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thái Dương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hồng Loan + Thái Dương tại Nô Bộc:** bè bạn **nể phục, kính trọng** vì sự **đoan chính, ngay thẳng, nết hạnh** của mình.`,
+  },
+
+  {
+    id: 'hong-loan-tai-no-boc-tham-lang',
+    title: '⚠️ Hồng Loan + Tham Lang tại Nô Bộc - Tình cảm rối ren',
+    sao: ['Hồng Loan'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tham Lang'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Tham Lang tại Nô Bộc:** nguy cơ tình cảm rối ren, **nhân tình ngoài luồng** càng cao. Bạn bè lợi dụng, đồng nghiệp ganh ghét.`,
+  },
+
+  {
+    id: 'hong-loan-tai-no-boc-thien-hinh',
+    title: '⚠️ Hồng Loan + Thiên Hình tại Nô Bộc - Tình cảm rối ren',
+    sao: ['Hồng Loan'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Thiên Hình tại Nô Bộc:** nguy cơ tình cảm rối ren, **nhân tình ngoài luồng** càng cao. Bạn bè lợi dụng, đồng nghiệp ganh ghét.`,
+  },
+
+  {
+    id: 'hong-loan-tai-no-boc-hoa-ky',
+    title: '⚠️ Hồng Loan + Hóa Kỵ tại Nô Bộc - Tình cảm rối ren',
+    sao: ['Hồng Loan'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Hóa Kỵ tại Nô Bộc:** nguy cơ tình cảm rối ren, **nhân tình ngoài luồng** càng cao. Bạn bè lợi dụng, đồng nghiệp ganh ghét.`,
   },
 
   // ============================================================
@@ -372,16 +496,27 @@ tình ngoài luồng** càng cao. Bạn bè lợi dụng, đồng nghiệp ganh 
     tomTat: `🌟 **Hồng Loan cư Thiên Di:** ra ngoài **giao thiệp dễ thuyết phục**
 được người khác, có **nhiều lợi lộc do người khác phái mang lại**.
 
-🌟 Ra ngoài dễ **thu hút khác giới**, được nhiều người **hâm mộ, nổi tiếng**.
+🌟 Ra ngoài dễ **thu hút khác giới**, được nhiều người **hâm mộ, nổi tiếng**.`,
+  },
 
-🌟 **+ Cát tinh:** chủ mệnh được nhiều người quý mến, **kết giao bạn tốt**, hay
-**gặp quý nhân khác giới** nâng đỡ. Đường đời suôn sẻ hơn khi **xa quê lập
-nghiệp** — sự nghiệp nở rộ nhờ xã giao, công chúng. Đặc biệt thuận lợi:
-**nghệ thuật, ngoại giao, truyền thông**.
+  {
+    id: 'hong-loan-tai-thien-di-luc-cat',
+    title: 'Hồng Loan + Lục Cát tại Thiên Di - Quý nhân khác giới',
+    sao: ['Hồng Loan'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hồng Loan + Cát tinh tại Thiên Di:** chủ mệnh được nhiều người quý mến, **kết giao bạn tốt**, hay **gặp quý nhân khác giới** nâng đỡ. Đường đời suôn sẻ hơn khi **xa quê lập nghiệp** — sự nghiệp nở rộ nhờ xã giao, công chúng. Đặc biệt thuận lợi: **nghệ thuật, ngoại giao, truyền thông**.`,
+  },
 
-⚠️ **+ Sao xấu:** vẫn có sức hút khác giới nhưng kéo theo **nhiều thị phi, rắc
-rối tình cảm**. Đời sống xã hội biến động — khi rực rỡ, khi lại **sa vào tai
-tiếng** gây hệ lụy lớn cho sự nghiệp.`,
+  {
+    id: 'hong-loan-tai-thien-di-luc-sat',
+    title: '⚠️ Hồng Loan + Lục Sát tại Thiên Di - Tai tiếng tình cảm',
+    sao: ['Hồng Loan'],
+    cung: ['Thiên Di'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hồng Loan + Sao xấu tại Thiên Di:** vẫn có sức hút khác giới nhưng kéo theo **nhiều thị phi, rắc rối tình cảm**. Đời sống xã hội biến động — khi rực rỡ, khi lại **sa vào tai tiếng** gây hệ lụy lớn cho sự nghiệp.`,
   },
 
   // ============================================================
@@ -401,17 +536,47 @@ THẤT TÌNH** mà ra → **TÂM BỆNH**, trầm uất.
 
 ⚠️ **Bệnh thường gặp** (do hành Thủy):
 - **Đường tiêu hóa**
-- **Máu huyết**
+- **Máu huyết**`,
+  },
 
-⚠️ **+ Thai / Mộc Dục:** rất dễ mắc bệnh liên quan **đường tình dục**.
+  {
+    id: 'hong-loan-tai-tat-ach-thai',
+    title: '⚠️ Hồng Loan + Thai tại Tật Ách - Bệnh đường tình dục',
+    sao: ['Hồng Loan'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thai'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hồng Loan + Thai tại Tật Ách:** rất dễ mắc bệnh liên quan **đường tình dục**.`,
+  },
 
-🌟 **+ Cát tinh:** ít gặp bệnh nặng, đa phần bệnh nhẹ dễ chữa, **gặp được
-thầy thuốc giỏi**. Tổn thương tình cảm cũng chóng lành — biết tìm đến **nghệ
-thuật, tôn giáo** để cân bằng.
+  {
+    id: 'hong-loan-tai-tat-ach-moc-duc',
+    title: '⚠️ Hồng Loan + Mộc Dục tại Tật Ách - Bệnh đường tình dục',
+    sao: ['Hồng Loan'],
+    cung: ['Tật Ách'],
+    ketHop: ['Mộc Dục'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hồng Loan + Mộc Dục tại Tật Ách:** rất dễ mắc bệnh liên quan **đường tình dục**.`,
+  },
 
-⚠️ **+ Sát tinh vây hãm:** ốm đau không dứt, **bệnh mãn tính** về máu huyết,
-tiêu hóa, sinh dục. Cú sốc tình cảm để lại **vết thương lâu dài**, dễ **trầm
-uất**.`,
+  {
+    id: 'hong-loan-tai-tat-ach-luc-cat',
+    title: 'Hồng Loan + Lục Cát tại Tật Ách - Bệnh nhẹ dễ chữa',
+    sao: ['Hồng Loan'],
+    cung: ['Tật Ách'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hồng Loan + Cát tinh tại Tật Ách:** ít gặp bệnh nặng, đa phần bệnh nhẹ dễ chữa, **gặp được thầy thuốc giỏi**. Tổn thương tình cảm cũng chóng lành — biết tìm đến **nghệ thuật, tôn giáo** để cân bằng.`,
+  },
+
+  {
+    id: 'hong-loan-tai-tat-ach-tu-sat',
+    title: '⚠️ Hồng Loan + Tứ Sát tại Tật Ách - Bệnh mãn tính',
+    sao: ['Hồng Loan'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hồng Loan + Sát tinh vây hãm tại Tật Ách:** ốm đau không dứt, **bệnh mãn tính** về máu huyết, tiêu hóa, sinh dục. Cú sốc tình cảm để lại **vết thương lâu dài**, dễ **trầm uất**.`,
   },
 
   // ============================================================
@@ -431,16 +596,29 @@ tiền **dễ dàng thuận lợi**, **gặp nhiều may mắn**.
 - Mua vui cho **tâm hồn**
 - **Nhân tình**
 
-(Xem entry chuyên biệt cho nữ mệnh khi đi với sao xấu.)
+(Xem entry chuyên biệt cho nữ mệnh khi đi với sao xấu.)`,
+  },
 
-🌟 **+ Cát tinh:** cuộc sống **an nhàn**, cả đời **may mắn**.
+  {
+    id: 'hong-loan-tai-tai-bach-luc-cat-an-nhan',
+    title: 'Hồng Loan + Lục Cát tại Tài Bạch - Cuộc sống an nhàn',
+    sao: ['Hồng Loan'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hồng Loan + Cát tinh tại Tài Bạch:** cuộc sống **an nhàn**, cả đời **may mắn**.
 
-🌟 **+ Cát tinh + nghề nghệ thuật/thời trang/làm đẹp/giải trí/dịch vụ:** rất
-**phát đạt**, hay **gặp quý nhân khác giới** giúp đỡ tiền bạc.
+🌟 **+ nghề nghệ thuật / thời trang / làm đẹp / giải trí / dịch vụ:** rất **phát đạt**, hay **gặp quý nhân khác giới** giúp đỡ tiền bạc.`,
+  },
 
-⚠️ **+ Sát tinh:** tiền đến nhanh nhưng đi cũng nhanh — **hao tổn** từ tình
-cảm, ăn chơi, làm đẹp, nhân tình. Dễ vướng **nợ nần, tranh chấp, bị bạn lợi
-dụng**.`,
+  {
+    id: 'hong-loan-tai-tai-bach-tu-sat',
+    title: '⚠️ Hồng Loan + Tứ Sát tại Tài Bạch - Hao tổn tình cảm',
+    sao: ['Hồng Loan'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hồng Loan + Sát tinh tại Tài Bạch:** tiền đến nhanh nhưng đi cũng nhanh — **hao tổn** từ tình cảm, ăn chơi, làm đẹp, nhân tình. Dễ vướng **nợ nần, tranh chấp, bị bạn lợi dụng**.`,
   },
 
   {
@@ -472,16 +650,45 @@ Con cái:
 - Khả năng về **âm nhạc, nghệ thuật, hình khối**
 - **Tình cảm, thướt tha, tâm hồn nghệ sĩ**
 
-🌟 **Đào Hồng cư Tử:** con cái dễ **thành danh thành đạt**.
+🌟 **Đào Hồng cư Tử:** con cái dễ **thành danh thành đạt**.`,
+  },
 
-🌟 **+ Khôi Việt:** con cái **ngoan ngoãn, học giỏi, may mắn thi cử** — phú nói:
+  {
+    id: 'hong-loan-tai-tu-tuc-thien-khoi',
+    title: 'Hồng Loan + Thiên Khôi tại Tử Tức - Sinh con Khôi Việt Cái Hồng',
+    sao: ['Hồng Loan'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hồng Loan + Thiên Khôi tại Tử Tức:** con cái **ngoan ngoãn, học giỏi, may mắn thi cử** — phú nói:
 
 > **"Sinh con Khôi Việt - Cái - Hồng**
 > **Trai tận cửu trùng, Nữ tác cung phi"**
-> (Trai làm tới chức cao trong triều đình, Nữ làm hoàng phi)
+> (Trai làm tới chức cao trong triều đình, Nữ làm hoàng phi)`,
+  },
 
-⚠️ **+ Sát tinh vây hãm:** trắc trở chuyện sinh nở, con khó nuôi, sức khỏe
-yếu. Duyên tình con cái phức tạp. **Phá cách nặng:** hiếm muộn, con khó cầu.`,
+  {
+    id: 'hong-loan-tai-tu-tuc-thien-viet',
+    title: 'Hồng Loan + Thiên Việt tại Tử Tức - Sinh con Khôi Việt Cái Hồng',
+    sao: ['Hồng Loan'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hồng Loan + Thiên Việt tại Tử Tức:** con cái **ngoan ngoãn, học giỏi, may mắn thi cử** — phú nói:
+
+> **"Sinh con Khôi Việt - Cái - Hồng**
+> **Trai tận cửu trùng, Nữ tác cung phi"**
+> (Trai làm tới chức cao trong triều đình, Nữ làm hoàng phi)`,
+  },
+
+  {
+    id: 'hong-loan-tai-tu-tuc-tu-sat',
+    title: '⚠️ Hồng Loan + Tứ Sát tại Tử Tức - Trắc trở sinh nở',
+    sao: ['Hồng Loan'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Hồng Loan + Sát tinh vây hãm tại Tử Tức:** trắc trở chuyện sinh nở, con khó nuôi, sức khỏe yếu. Duyên tình con cái phức tạp. **Phá cách nặng:** hiếm muộn, con khó cầu.`,
   },
 
   // ============================================================
@@ -498,20 +705,167 @@ tháo vát**, hoàn cảnh gia đình **khá giả**, vợ chồng **xứng lứ
 nhau ở **phương xa**.
 
 ⚡ Người hôn phối **đa tình, lãng mạn**, hoặc làm các nghề liên quan đến **nghệ
-thuật, thời trang**.
+thuật, thời trang**.`,
+  },
 
-⚠️ **+ Sát bại tinh:** người hôn phối có **ngoại tình** hoặc **chấp nối**,
-**nhiều lần lập gia đình**.
+  {
+    id: 'hong-loan-tai-phu-the-tu-sat',
+    title: '⚠️ Hồng Loan + Tứ Sát tại Phu Thê - Hôn phối ngoại tình',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Sát bại tinh tại Phu Thê:** người hôn phối có **ngoại tình** hoặc **chấp nối**, **nhiều lần lập gia đình**.`,
+  },
 
-🌟 **+ Quang Quý / Khôi Việt:** **GIẢM tính đào hoa** của người hôn phối →
-vợ chồng **chiều chuộng nhau, hợp nhau**.
+  {
+    id: 'hong-loan-tai-phu-the-an-quang',
+    title: 'Hồng Loan + Ân Quang tại Phu Thê - Giảm đào hoa',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Ân Quang'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hồng Loan + Ân Quang tại Phu Thê:** **GIẢM tính đào hoa** của người hôn phối → vợ chồng **chiều chuộng nhau, hợp nhau**.`,
+  },
 
-⚠️ **+ Không Kiếp / Hóa Kỵ / Kình Đà / Cô Quả / Tuần Triệt:** **nhanh cưới
-nhanh bỏ** — vợ chồng hay ghen, lúc yêu thì đòi cưới, **cưới về thì đòi bỏ
-nhau ngay được**.
+  {
+    id: 'hong-loan-tai-phu-the-thien-quy',
+    title: 'Hồng Loan + Thiên Quý tại Phu Thê - Giảm đào hoa',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Quý'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hồng Loan + Thiên Quý tại Phu Thê:** **GIẢM tính đào hoa** của người hôn phối → vợ chồng **chiều chuộng nhau, hợp nhau**.`,
+  },
 
-⚠️ **+ Hỏa / Linh:** nguy cơ đổ vỡ vì ghen tuông, thiếu tin tưởng. Vợ/chồng
-**phóng túng**, dễ có **quan hệ ngoài luồng**.`,
+  {
+    id: 'hong-loan-tai-phu-the-thien-khoi',
+    title: 'Hồng Loan + Thiên Khôi tại Phu Thê - Giảm đào hoa',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hồng Loan + Thiên Khôi tại Phu Thê:** **GIẢM tính đào hoa** của người hôn phối → vợ chồng **chiều chuộng nhau, hợp nhau**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-thien-viet',
+    title: 'Hồng Loan + Thiên Việt tại Phu Thê - Giảm đào hoa',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 75,
+    tomTat: `🌟 **Hồng Loan + Thiên Việt tại Phu Thê:** **GIẢM tính đào hoa** của người hôn phối → vợ chồng **chiều chuộng nhau, hợp nhau**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-dia-khong',
+    title: '⚠️ Hồng Loan + Địa Không tại Phu Thê - Nhanh cưới nhanh bỏ',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Địa Không'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Địa Không tại Phu Thê:** **nhanh cưới nhanh bỏ** — vợ chồng hay ghen, lúc yêu thì đòi cưới, **cưới về thì đòi bỏ nhau ngay được**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-dia-kiep',
+    title: '⚠️ Hồng Loan + Địa Kiếp tại Phu Thê - Nhanh cưới nhanh bỏ',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Địa Kiếp tại Phu Thê:** **nhanh cưới nhanh bỏ** — vợ chồng hay ghen, lúc yêu thì đòi cưới, **cưới về thì đòi bỏ nhau ngay được**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-hoa-ky',
+    title: '⚠️ Hồng Loan + Hóa Kỵ tại Phu Thê - Nhanh cưới nhanh bỏ',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Hóa Kỵ tại Phu Thê:** **nhanh cưới nhanh bỏ** — vợ chồng hay ghen, lúc yêu thì đòi cưới, **cưới về thì đòi bỏ nhau ngay được**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-kinh-duong',
+    title: '⚠️ Hồng Loan + Kình Dương tại Phu Thê - Nhanh cưới nhanh bỏ',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Kình Dương tại Phu Thê:** **nhanh cưới nhanh bỏ** — vợ chồng hay ghen, lúc yêu thì đòi cưới, **cưới về thì đòi bỏ nhau ngay được**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-da-la',
+    title: '⚠️ Hồng Loan + Đà La tại Phu Thê - Nhanh cưới nhanh bỏ',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Đà La'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Đà La tại Phu Thê:** **nhanh cưới nhanh bỏ** — vợ chồng hay ghen, lúc yêu thì đòi cưới, **cưới về thì đòi bỏ nhau ngay được**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-co-than',
+    title: '⚠️ Hồng Loan + Cô Thần tại Phu Thê - Nhanh cưới nhanh bỏ',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Cô Thần'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Cô Thần tại Phu Thê:** **nhanh cưới nhanh bỏ** — vợ chồng hay ghen, lúc yêu thì đòi cưới, **cưới về thì đòi bỏ nhau ngay được**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-qua-tu',
+    title: '⚠️ Hồng Loan + Quả Tú tại Phu Thê - Nhanh cưới nhanh bỏ',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Quả Tú'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Quả Tú tại Phu Thê:** **nhanh cưới nhanh bỏ** — vợ chồng hay ghen, lúc yêu thì đòi cưới, **cưới về thì đòi bỏ nhau ngay được**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-tuan',
+    title: '⚠️ Hồng Loan + Tuần tại Phu Thê - Nhanh cưới nhanh bỏ',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Tuần'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Tuần tại Phu Thê:** **nhanh cưới nhanh bỏ** — vợ chồng hay ghen, lúc yêu thì đòi cưới, **cưới về thì đòi bỏ nhau ngay được**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-triet',
+    title: '⚠️ Hồng Loan + Triệt tại Phu Thê - Nhanh cưới nhanh bỏ',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Triệt'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Triệt tại Phu Thê:** **nhanh cưới nhanh bỏ** — vợ chồng hay ghen, lúc yêu thì đòi cưới, **cưới về thì đòi bỏ nhau ngay được**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-hoa-tinh',
+    title: '⚠️ Hồng Loan + Hỏa Tinh tại Phu Thê - Đổ vỡ vì ghen tuông',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Hỏa Tinh tại Phu Thê:** nguy cơ đổ vỡ vì ghen tuông, thiếu tin tưởng. Vợ/chồng **phóng túng**, dễ có **quan hệ ngoài luồng**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-phu-the-linh-tinh',
+    title: '⚠️ Hồng Loan + Linh Tinh tại Phu Thê - Đổ vỡ vì ghen tuông',
+    sao: ['Hồng Loan'],
+    cung: ['Phu Thê'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hồng Loan + Linh Tinh tại Phu Thê:** nguy cơ đổ vỡ vì ghen tuông, thiếu tin tưởng. Vợ/chồng **phóng túng**, dễ có **quan hệ ngoài luồng**.`,
   },
 
   // ============================================================
@@ -524,17 +878,77 @@ nhau ngay được**.
     cung: ['Huynh Đệ'],
     doUuTien: 75,
     tomTat: `**Hồng Loan cư Huynh Đệ:** **nhiều chị em gái**, anh chị em làm ăn
-**xa nhà**.
+**xa nhà**.`,
+  },
 
-🌟 **+ Cát tinh:** anh chị em **giỏi giang**, có năng khiếu **văn chương, nghệ
-thuật**. Quan hệ **"máu chảy ruột mềm"**, gắn bó, nâng đỡ nhau khi cần.
+  {
+    id: 'hong-loan-tai-huynh-de-luc-cat',
+    title: 'Hồng Loan + Lục Cát tại Huynh Đệ - Anh chị em giỏi giang',
+    sao: ['Hồng Loan'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hồng Loan + Cát tinh tại Huynh Đệ:** anh chị em **giỏi giang**, có năng khiếu **văn chương, nghệ thuật**. Quan hệ **"máu chảy ruột mềm"**, gắn bó, nâng đỡ nhau khi cần.`,
+  },
 
-⚠️ **+ Hồng + Riêu + Không Kiếp:** có **chị em gái BỎ NHÀ THEO TRAI**.
+  {
+    id: 'hong-loan-tai-huynh-de-rieu-dia-khong',
+    title: '⚠️ Hồng Loan + Thiên Riêu + Địa Không tại Huynh Đệ - Chị em bỏ nhà theo trai',
+    sao: ['Hồng Loan'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Riêu', 'Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Thiên Riêu + Địa Không tại Huynh Đệ:** có **chị em gái BỎ NHÀ THEO TRAI**.`,
+  },
 
-⚠️ **+ Sát tinh nhiều:** tình cảm gia đình **bất hòa**, ít gắn bó. Có người
-**lận đận tình duyên**, thậm chí bỏ nhà đi theo tiếng gọi tình cảm.
+  {
+    id: 'hong-loan-tai-huynh-de-rieu-dia-kiep',
+    title: '⚠️ Hồng Loan + Thiên Riêu + Địa Kiếp tại Huynh Đệ - Chị em bỏ nhà theo trai',
+    sao: ['Hồng Loan'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Riêu', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Thiên Riêu + Địa Kiếp tại Huynh Đệ:** có **chị em gái BỎ NHÀ THEO TRAI**.`,
+  },
 
-⚠️ **+ Không Kiếp / Đà La:** anh em có nguy cơ **ly tán** hoặc **yểu mệnh**.`,
+  {
+    id: 'hong-loan-tai-huynh-de-tu-sat',
+    title: '⚠️ Hồng Loan + Tứ Sát tại Huynh Đệ - Tình cảm bất hòa',
+    sao: ['Hồng Loan'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Sát tinh nhiều tại Huynh Đệ:** tình cảm gia đình **bất hòa**, ít gắn bó. Có người **lận đận tình duyên**, thậm chí bỏ nhà đi theo tiếng gọi tình cảm.`,
+  },
+
+  {
+    id: 'hong-loan-tai-huynh-de-dia-khong',
+    title: '⚠️ Hồng Loan + Địa Không tại Huynh Đệ - Anh em ly tán',
+    sao: ['Hồng Loan'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Địa Không tại Huynh Đệ:** anh em có nguy cơ **ly tán** hoặc **yểu mệnh**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-huynh-de-dia-kiep',
+    title: '⚠️ Hồng Loan + Địa Kiếp tại Huynh Đệ - Anh em ly tán',
+    sao: ['Hồng Loan'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Địa Kiếp tại Huynh Đệ:** anh em có nguy cơ **ly tán** hoặc **yểu mệnh**.`,
+  },
+
+  {
+    id: 'hong-loan-tai-huynh-de-da-la',
+    title: '⚠️ Hồng Loan + Đà La tại Huynh Đệ - Anh em ly tán',
+    sao: ['Hồng Loan'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hồng Loan + Đà La tại Huynh Đệ:** anh em có nguy cơ **ly tán** hoặc **yểu mệnh**.`,
   },
 
   // ============================================================
@@ -544,6 +958,7 @@ thuật**. Quan hệ **"máu chảy ruột mềm"**, gắn bó, nâng đỡ nhau
     id: 'hong-loan-sao-che-giam',
     title: 'Bộ sao chế giảm tính đa tình của Hồng Loan',
     sao: ['Hồng Loan'],
+    cung: ['Mệnh'],
     doUuTien: 45,
     tomTat: `🌟 **Bộ sao GIẢM tính đa tình, lãng mạn** của Hồng Loan:
 
@@ -555,34 +970,83 @@ thuật**. Quan hệ **"máu chảy ruột mềm"**, gắn bó, nâng đỡ nhau
 - **Thiên Khôi** hoặc **Thiên Việt**
 
 **Vị trí (vòng Tràng Sinh):**
-- Hồng Loan nằm trên đất **Suy / Tử / Tuyệt** → giảm tính đa tình
+- Hồng Loan nằm trên đất **Suy / Tử / Tuyệt** → giảm tính đa tình`,
+  },
 
-🌟 **+ Khôi Việt / Thái Dương sáng** còn hướng đương số vào sự **chính chuyên**,
-giúp tài năng nghệ thuật **phát tiết rực rỡ** và có **danh tiếng bền vững**.`,
+  {
+    id: 'hong-loan-che-giam-thien-khoi',
+    title: 'Hồng Loan + Thiên Khôi - Hướng vào chính chuyên',
+    sao: ['Hồng Loan'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 40,
+    tomTat: `🌟 **Hồng Loan + Thiên Khôi:** hướng đương số vào sự **chính chuyên**, giúp tài năng nghệ thuật **phát tiết rực rỡ** và có **danh tiếng bền vững**.`,
+  },
+
+  {
+    id: 'hong-loan-che-giam-thien-viet',
+    title: 'Hồng Loan + Thiên Việt - Hướng vào chính chuyên',
+    sao: ['Hồng Loan'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 40,
+    tomTat: `🌟 **Hồng Loan + Thiên Việt:** hướng đương số vào sự **chính chuyên**, giúp tài năng nghệ thuật **phát tiết rực rỡ** và có **danh tiếng bền vững**.`,
+  },
+
+  {
+    id: 'hong-loan-che-giam-thai-duong-sang',
+    title: 'Hồng Loan + Thái Dương sáng - Hướng vào chính chuyên',
+    sao: ['Hồng Loan'],
+    ketHop: ['Thái Dương'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 40,
+    tomTat: `🌟 **Hồng Loan + Thái Dương sáng:** hướng đương số vào sự **chính chuyên**, giúp tài năng nghệ thuật **phát tiết rực rỡ** và có **danh tiếng bền vững**.`,
   },
 
   // ============================================================
   // 17. Hồng Loan + sát tinh - thị phi tình ái
   // ============================================================
   {
-    id: 'hong-loan-sat-tinh-thi-phi-tinh-ai',
-    title: 'Hồng Loan + Sát tinh - Thị phi tình ái, hôn nhân sóng gió',
+    id: 'hong-loan-thien-rieu',
+    title: '⚠️ Hồng Loan + Thiên Riêu - Vợ chồng lục đục',
     sao: ['Hồng Loan'],
-    doUuTien: 55,
-    tomTat: `⚠️ **Hồng Loan + Sát tinh** — các tình huống xấu:
+    ketHop: ['Thiên Riêu'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hồng Loan + Thiên Riêu:** quan hệ vợ chồng **lục đục** do **ghen tuông và đa nghi**, tình huống **không minh bạch** trong tình cảm.`,
+  },
 
-**1. Vướng thị phi tình ái:**
-- ⚠️ **+ Thiên Riêu / Thiên Y:** quan hệ vợ chồng **lục đục** do **ghen tuông
-  và đa nghi**, tình huống **không minh bạch** trong tình cảm
+  {
+    id: 'hong-loan-thien-y',
+    title: '⚠️ Hồng Loan + Thiên Y - Vợ chồng lục đục',
+    sao: ['Hồng Loan'],
+    ketHop: ['Thiên Y'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hồng Loan + Thiên Y:** quan hệ vợ chồng **lục đục** do **ghen tuông và đa nghi**, tình huống **không minh bạch** trong tình cảm.`,
+  },
 
-**2. Hôn nhân sóng gió:**
-- ⚠️ **+ Kình Dương / Đà La:** vợ chồng **chung sống không thuận**, **tranh
-  cãi triền miên** do tính tình **nóng nảy thiếu kiên nhẫn**
+  {
+    id: 'hong-loan-kinh-duong-hon-nhan',
+    title: '⚠️ Hồng Loan + Kình Dương - Hôn nhân sóng gió',
+    sao: ['Hồng Loan'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hồng Loan + Kình Dương:** vợ chồng **chung sống không thuận**, **tranh cãi triền miên** do tính tình **nóng nảy thiếu kiên nhẫn**.`,
+  },
 
-**3. Sa đọa vào tệ nạn:**
-- ⚠️ **+ Đào Hoa + Hỏa Tinh + Linh Tinh:** **kích thích dục vọng tăng cao** →
-  sa ngã vào **thú vui nhất thời**, đánh mất tỉnh táo. Hệ quả: **danh tiếng và
-  quan hệ xã hội bị ảnh hưởng nghiêm trọng**, nhiều rắc rối tai tiếng khó gột rửa`,
+  {
+    id: 'hong-loan-da-la-hon-nhan',
+    title: '⚠️ Hồng Loan + Đà La - Hôn nhân sóng gió',
+    sao: ['Hồng Loan'],
+    ketHop: ['Đà La'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hồng Loan + Đà La:** vợ chồng **chung sống không thuận**, **tranh cãi triền miên** do tính tình **nóng nảy thiếu kiên nhẫn**.`,
+  },
+
+  {
+    id: 'hong-loan-dao-hoa-hoa-linh',
+    title: '⚠️ Hồng Loan + Đào Hoa + Hỏa Tinh + Linh Tinh - Sa đọa tệ nạn',
+    sao: ['Hồng Loan'],
+    ketHop: ['Đào Hoa', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hồng Loan + Đào Hoa + Hỏa Tinh + Linh Tinh:** **kích thích dục vọng tăng cao** → sa ngã vào **thú vui nhất thời**, đánh mất tỉnh táo. Hệ quả: **danh tiếng và quan hệ xã hội bị ảnh hưởng nghiêm trọng**, nhiều rắc rối tai tiếng khó gột rửa.`,
   },
 
   // ============================================================
@@ -630,19 +1094,80 @@ NƯỚC**.
     id: 'hong-loan-vao-han',
     title: 'Hồng Loan vào hạn',
     sao: ['Hồng Loan'],
+    ketHop: ['Đào Hoa', 'Thiên Hỷ', 'Hỷ Thần', 'Thái Dương', 'Thái Âm', 'Thiên Đồng', 'Tham Lang'],
     doUuTien: 50,
-    tomTat: `🌟 **Hạn có Hồng Loan + Đào Hoa + Thiên Hỷ + Hỷ Thần + Thái Dương +
-Thái Âm + Thiên Đồng + Tham Lang:** hạn có **HỶ SỰ**, **THÀNH GIA THẤT**.
+    tomTat: `🌟 **Hạn có Hồng Loan + Đào Hoa + Thiên Hỷ + Hỷ Thần + Thái Dương + Thái Âm + Thiên Đồng + Tham Lang:** hạn có **HỶ SỰ**, **THÀNH GIA THẤT**.`,
+  },
 
-🌟 **+ Đào Hoa + Thiên Hỷ + Hỷ Thần** đồng cung: dễ **cưới hỏi, lập gia thất**
-hoặc gặp **ý chung nhân**.
+  {
+    id: 'hong-loan-han-dao-hoa-thien-hy-hy-than',
+    title: 'Hồng Loan + Đào Hoa + Thiên Hỷ + Hỷ Thần đồng cung - Cưới hỏi',
+    sao: ['Hồng Loan'],
+    ketHop: ['Đào Hoa', 'Thiên Hỷ', 'Hỷ Thần'],
+    doUuTien: 45,
+    tomTat: `🌟 **Hồng Loan + Đào Hoa + Thiên Hỷ + Hỷ Thần đồng cung:** dễ **cưới hỏi, lập gia thất** hoặc gặp **ý chung nhân**.`,
+  },
 
-⚠️ **+ Địa Kiếp:** hạn **duyên nghiệp** — **long đong, trắc trở** trong tình cảm.
+  {
+    id: 'hong-loan-han-dia-kiep',
+    title: '⚠️ Hồng Loan + Địa Kiếp vào hạn - Duyên nghiệp long đong',
+    sao: ['Hồng Loan'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Hồng Loan + Địa Kiếp:** hạn **duyên nghiệp** — **long đong, trắc trở** trong tình cảm.`,
+  },
 
-⚠️ **+ Cự Môn / Hóa Kỵ:** hạn **tơ duyên rắc rối**, **đến rồi lại đi liên tục**.
+  {
+    id: 'hong-loan-han-cu-mon',
+    title: '⚠️ Hồng Loan + Cự Môn vào hạn - Tơ duyên rắc rối',
+    sao: ['Hồng Loan'],
+    ketHop: ['Cự Môn'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Hồng Loan + Cự Môn:** hạn **tơ duyên rắc rối**, **đến rồi lại đi liên tục**.`,
+  },
 
-⚠️ **+ Hóa Kỵ / Không Kiếp:** đề phòng **HẠN ĐUỐI NƯỚC**.
+  {
+    id: 'hong-loan-han-hoa-ky-tinh-cam',
+    title: '⚠️ Hồng Loan + Hóa Kỵ vào hạn - Tơ duyên rắc rối',
+    sao: ['Hồng Loan'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Hồng Loan + Hóa Kỵ:** hạn **tơ duyên rắc rối**, **đến rồi lại đi liên tục**.`,
+  },
 
-⚠️ **+ Thiên Hỷ với người TUỔI GIÀ:** dễ **về với tổ tiên**.`,
+  {
+    id: 'hong-loan-han-hoa-ky-duoi-nuoc',
+    title: '⚠️ Hồng Loan + Hóa Kỵ vào hạn - Hạn đuối nước',
+    sao: ['Hồng Loan'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 44,
+    tomTat: `⚠️ **Hồng Loan + Hóa Kỵ vào hạn:** đề phòng **HẠN ĐUỐI NƯỚC**.`,
+  },
+
+  {
+    id: 'hong-loan-han-dia-khong-duoi-nuoc',
+    title: '⚠️ Hồng Loan + Địa Không vào hạn - Hạn đuối nước',
+    sao: ['Hồng Loan'],
+    ketHop: ['Địa Không'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Hồng Loan + Địa Không vào hạn:** đề phòng **HẠN ĐUỐI NƯỚC**.`,
+  },
+
+  {
+    id: 'hong-loan-han-dia-kiep-duoi-nuoc',
+    title: '⚠️ Hồng Loan + Địa Kiếp vào hạn - Hạn đuối nước',
+    sao: ['Hồng Loan'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 44,
+    tomTat: `⚠️ **Hồng Loan + Địa Kiếp vào hạn:** đề phòng **HẠN ĐUỐI NƯỚC**.`,
+  },
+
+  {
+    id: 'hong-loan-han-thien-hy-tuoi-gia',
+    title: '⚠️ Hồng Loan + Thiên Hỷ vào hạn (tuổi già) - Về với tổ tiên',
+    sao: ['Hồng Loan'],
+    ketHop: ['Thiên Hỷ'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Hồng Loan + Thiên Hỷ vào hạn với người TUỔI GIÀ:** dễ **về với tổ tiên**.`,
   },
 ];

@@ -302,14 +302,103 @@ hạn này.`,
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
     tomTat: `⚠️ **Thái Tuế tại Phụ Mẫu:** trong nhà **THIẾU HÒA KHÍ**, hay có **TRANH CHẤP**.
-Cha mẹ và con **KHÔNG HỢP TÁNH**.
+Cha mẹ và con **KHÔNG HỢP TÁNH**.`,
+  },
 
-⚠️ **+ Sát Tinh (đặc biệt Đà La, Hóa Kỵ):** cha mẹ **XA CÁCH**, gia đình **LY
-TÁN**. Cha mẹ thường gặp **TAI HỌA**, đáng lo ngại nhất là **MẮC KIỆN CÁO**.
+  {
+    id: 'thai-tue-tai-phu-mau-da',
+    title: '⚠️ Thái Tuế + Đà La tại Phụ Mẫu - Cha mẹ xa cách',
+    sao: ['Thái Tuế'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Đà La tại Phụ Mẫu:** cha mẹ **XA CÁCH**, gia đình
+**LY TÁN**. Cha mẹ thường gặp **TAI HỌA**, đáng lo ngại nhất là **MẮC KIỆN
+CÁO**.`,
+  },
 
-🌟 **+ Cát Tinh (đặc biệt Xương Khúc, Khôi Việt, Tả Hữu):** cha mẹ **GIỎI GIANG,
+  {
+    id: 'thai-tue-tai-phu-mau-hoa-ky',
+    title: '⚠️ Thái Tuế + Hóa Kỵ tại Phụ Mẫu - Cha mẹ xa cách',
+    sao: ['Thái Tuế'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Hóa Kỵ tại Phụ Mẫu:** cha mẹ **XA CÁCH**, gia đình
+**LY TÁN**. Cha mẹ thường gặp **TAI HỌA**, đáng lo ngại nhất là **MẮC KIỆN
+CÁO**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-mau-xuong',
+    title: '🌟 Thái Tuế + Văn Xương tại Phụ Mẫu - Cha mẹ giỏi giang',
+    sao: ['Thái Tuế'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Văn Xương tại Phụ Mẫu:** cha mẹ **GIỎI GIANG, QUYỀN
+QUÝ** — có người làm nghề liên quan đến **ăn nói, kiện tụng** (luật sư, giáo
+viên, nhà báo, chính trị gia). Hôn nhân êm ấm, con cái được **nền tảng tốt**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-mau-khuc',
+    title: '🌟 Thái Tuế + Văn Khúc tại Phụ Mẫu - Cha mẹ giỏi giang',
+    sao: ['Thái Tuế'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Văn Khúc tại Phụ Mẫu:** cha mẹ **GIỎI GIANG, QUYỀN
+QUÝ** — có người làm nghề liên quan đến **ăn nói, kiện tụng** (luật sư, giáo
+viên, nhà báo, chính trị gia). Hôn nhân êm ấm, con cái được **nền tảng tốt**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-mau-khoi',
+    title: '🌟 Thái Tuế + Thiên Khôi tại Phụ Mẫu - Cha mẹ giỏi giang',
+    sao: ['Thái Tuế'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Thiên Khôi tại Phụ Mẫu:** cha mẹ **GIỎI GIANG,
 QUYỀN QUÝ** — có người làm nghề liên quan đến **ăn nói, kiện tụng** (luật sư,
 giáo viên, nhà báo, chính trị gia). Hôn nhân êm ấm, con cái được **nền tảng tốt**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-mau-viet',
+    title: '🌟 Thái Tuế + Thiên Việt tại Phụ Mẫu - Cha mẹ giỏi giang',
+    sao: ['Thái Tuế'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Thiên Việt tại Phụ Mẫu:** cha mẹ **GIỎI GIANG, QUYỀN
+QUÝ** — có người làm nghề liên quan đến **ăn nói, kiện tụng**. Hôn nhân êm ấm,
+con cái được **nền tảng tốt**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-mau-ta',
+    title: '🌟 Thái Tuế + Tả Phù tại Phụ Mẫu - Cha mẹ giỏi giang',
+    sao: ['Thái Tuế'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Tả Phù'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Tả Phù tại Phụ Mẫu:** cha mẹ **GIỎI GIANG, QUYỀN
+QUÝ** — có người làm nghề liên quan đến **ăn nói, kiện tụng**. Hôn nhân êm ấm,
+con cái được **nền tảng tốt**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-mau-huu',
+    title: '🌟 Thái Tuế + Hữu Bật tại Phụ Mẫu - Cha mẹ giỏi giang',
+    sao: ['Thái Tuế'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Hữu Bật tại Phụ Mẫu:** cha mẹ **GIỎI GIANG, QUYỀN
+QUÝ** — có người làm nghề liên quan đến **ăn nói, kiện tụng**. Hôn nhân êm ấm,
+con cái được **nền tảng tốt**.`,
   },
 
   {
@@ -318,15 +407,70 @@ giáo viên, nhà báo, chính trị gia). Hôn nhân êm ấm, con cái đượ
     sao: ['Thái Tuế'],
     cung: ['Phúc Đức'],
     doUuTien: 85,
-    tomTat: `🌟 **Thái Tuế tại Phúc Đức là ĐẠI THƯỢNG CÁCH** trong khoa Tử Vi.
+    tomTat: `🌟 **Thái Tuế tại Phúc Đức là ĐẠI THƯỢNG CÁCH** trong khoa Tử Vi.`,
+  },
 
-🌟 **+ Cát Tinh:** trong dòng họ có **NHIỀU NGƯỜI THÀNH ĐẠT**, làm **QUAN TO**.
-Gia tộc **thuận hòa**, thờ cúng chu toàn → con cháu được hưởng phúc, gặp may
-mắn trong sự nghiệp.
+  {
+    id: 'thai-tue-tai-phuc-duc-luc-cat',
+    title: '🌟 Thái Tuế + Lục Cát tại Phúc Đức - Dòng họ thành đạt',
+    sao: ['Thái Tuế'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 75,
+    tomTat: `🌟 **Thái Tuế + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Phúc Đức:** trong dòng họ có **NHIỀU NGƯỜI THÀNH
+ĐẠT**, làm **QUAN TO**. Gia tộc **thuận hòa**, thờ cúng chu toàn → con cháu
+được hưởng phúc, gặp may mắn trong sự nghiệp.`,
+  },
 
-⚠️ **+ Sao Xấu (Đà Kỵ, Không Kiếp):** **KHÔNG được hưởng phúc**, trong họ
-**THIẾU HÒA KHÍ**, thường có **tranh chấp** lẫn nhau, **khắc khẩu** giữa bề trên
-và con cháu. Phúc phần tổ tiên **suy giảm**, con cháu phải **tự lực** vươn lên.`,
+  {
+    id: 'thai-tue-tai-phuc-duc-da',
+    title: '⚠️ Thái Tuế + Đà La tại Phúc Đức - Dòng họ thiếu hòa khí',
+    sao: ['Thái Tuế'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Đà La'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Đà La tại Phúc Đức:** **KHÔNG được hưởng phúc**,
+trong họ **THIẾU HÒA KHÍ**, thường có **tranh chấp** lẫn nhau, **khắc khẩu**
+giữa bề trên và con cháu. Phúc phần tổ tiên **suy giảm**, con cháu phải **tự
+lực** vươn lên.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phuc-duc-hoa-ky',
+    title: '⚠️ Thái Tuế + Hóa Kỵ tại Phúc Đức - Dòng họ thiếu hòa khí',
+    sao: ['Thái Tuế'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Hóa Kỵ tại Phúc Đức:** **KHÔNG được hưởng phúc**,
+trong họ **THIẾU HÒA KHÍ**, thường có **tranh chấp** lẫn nhau, **khắc khẩu**
+giữa bề trên và con cháu. Phúc phần tổ tiên **suy giảm**, con cháu phải **tự
+lực** vươn lên.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phuc-duc-khong',
+    title: '⚠️ Thái Tuế + Địa Không tại Phúc Đức - Dòng họ thiếu hòa khí',
+    sao: ['Thái Tuế'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Không'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Địa Không tại Phúc Đức:** **KHÔNG được hưởng phúc**,
+trong họ **THIẾU HÒA KHÍ**, thường có **tranh chấp** lẫn nhau. Phúc phần tổ
+tiên **suy giảm**, con cháu phải **tự lực** vươn lên.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phuc-duc-kiep',
+    title: '⚠️ Thái Tuế + Địa Kiếp tại Phúc Đức - Dòng họ thiếu hòa khí',
+    sao: ['Thái Tuế'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Địa Kiếp tại Phúc Đức:** **KHÔNG được hưởng phúc**,
+trong họ **THIẾU HÒA KHÍ**, thường có **tranh chấp** lẫn nhau. Phúc phần tổ
+tiên **suy giảm**, con cháu phải **tự lực** vươn lên.`,
   },
 
   {
@@ -365,9 +509,32 @@ LÝ LUẬN**, hoặc nghề liên quan đến **PHÁP LUẬT**:
 nhân sự**, **lập kế hoạch giỏi**.
 
 ⚠️ **Nếu làm chính trị:** thiên về phe **ĐỐI LẬP**, hay **CHỈ TRÍCH** và
-**BỊ CHỈ TRÍCH** trong nghề.
+**BỊ CHỈ TRÍCH** trong nghề.`,
+  },
 
-⚠️ **+ Sát Tinh (đặc biệt Đà La, Hóa Kỵ, Hỏa Tinh, Linh Tinh):**
+  {
+    id: 'thai-tue-tai-quan-loc-sat-tinh',
+    title: '⚠️ Thái Tuế + Tứ Sát tại Quan Lộc - Tai nạn nghề nghiệp',
+    sao: ['Thái Tuế'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 72,
+    tomTat: `⚠️ **Thái Tuế + sát tinh (Tứ Sát: Kình Dương / Đà La / Hỏa Tinh /
+Linh Tinh) tại Quan Lộc:**
+- Hay làm **NGHỀ TAY CHÂN** hoặc mảng **TRÁI XÃ HỘI**
+- Dễ bị **TAI NẠN nghề nghiệp**, **kiện tụng**
+- **Tiểu nhân phá hoại**, sự nghiệp khó bền
+- **Uy tín sứt mẻ**, công danh lỡ dở`,
+  },
+
+  {
+    id: 'thai-tue-tai-quan-loc-hoa-ky',
+    title: '⚠️ Thái Tuế + Hóa Kỵ tại Quan Lộc - Tai nạn nghề nghiệp',
+    sao: ['Thái Tuế'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 72,
+    tomTat: `⚠️ **Thái Tuế + Hóa Kỵ tại Quan Lộc:**
 - Hay làm **NGHỀ TAY CHÂN** hoặc mảng **TRÁI XÃ HỘI**
 - Dễ bị **TAI NẠN nghề nghiệp**, **kiện tụng**
 - **Tiểu nhân phá hoại**, sự nghiệp khó bền
@@ -386,13 +553,52 @@ người **CHỨC CAO QUYỀN RỘNG**, **HAY KÉN CHỌN bạn bè**.
 🌟 **Người làm nghề NHÀ GIÁO** có cách này — nếu nhiều cát tinh, **HỌC TRÒ**
 sau này **công danh rực rỡ**, làm **nổi tiếng cho thầy**.
 
-⚠️ Cách nói chuyện **bảo thủ** dễ làm **MẤT LÒNG** bạn bè, đồng nghiệp.
+⚠️ Cách nói chuyện **bảo thủ** dễ làm **MẤT LÒNG** bạn bè, đồng nghiệp.`,
+  },
 
-⚠️ **+ Địa Không, Địa Kiếp, Hóa Kỵ:** dễ bị **BẠN BÈ LỪA GẠT**, **tai bay vạ gió**
-dẫn tới thị phi.
+  {
+    id: 'thai-tue-tai-no-boc-khong',
+    title: '⚠️ Thái Tuế + Địa Không tại Nô Bộc - Bị lừa gạt',
+    sao: ['Thái Tuế'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Địa Không tại Nô Bộc:** dễ bị **BẠN BÈ LỪA GẠT**,
+**tai bay vạ gió** dẫn tới thị phi.`,
+  },
 
-🌟 **+ Xương Khúc, Khôi Việt, Tả Hữu:** bạn bè/đồng nghiệp đều là người
-**HỌC THỨC**, sẵn lòng **NÂNG ĐỠ** đương số trước khó khăn.`,
+  {
+    id: 'thai-tue-tai-no-boc-kiep',
+    title: '⚠️ Thái Tuế + Địa Kiếp tại Nô Bộc - Bị lừa gạt',
+    sao: ['Thái Tuế'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Địa Kiếp tại Nô Bộc:** dễ bị **BẠN BÈ LỪA GẠT**,
+**tai bay vạ gió** dẫn tới thị phi.`,
+  },
+
+  {
+    id: 'thai-tue-tai-no-boc-hoa-ky',
+    title: '⚠️ Thái Tuế + Hóa Kỵ tại Nô Bộc - Bị lừa gạt',
+    sao: ['Thái Tuế'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Hóa Kỵ tại Nô Bộc:** dễ bị **BẠN BÈ LỪA GẠT**, **tai
+bay vạ gió** dẫn tới thị phi.`,
+  },
+
+  {
+    id: 'thai-tue-tai-no-boc-luc-cat',
+    title: '🌟 Thái Tuế + Lục Cát tại Nô Bộc - Bạn bè học thức nâng đỡ',
+    sao: ['Thái Tuế'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Nô Bộc:** bạn bè/đồng nghiệp đều là người **HỌC
+THỨC**, sẵn lòng **NÂNG ĐỠ** đương số trước khó khăn.`,
   },
 
   {
@@ -402,14 +608,107 @@ dẫn tới thị phi.
     cung: ['Thiên Di'],
     doUuTien: 78,
     tomTat: `⚠️ **Thái Tuế tại Thiên Di:** ra ngoài hay bị **MIỆNG TIẾNG, KHẨU THIỆT** trong
-giao thiệp, hay **KIỆN CÁO, CÃI VÃ** với người ngoài.
+giao thiệp, hay **KIỆN CÁO, CÃI VÃ** với người ngoài.`,
+  },
 
-⚠️ **+ Hóa Kỵ, Đà La, Kình Dương:** dễ xảy ra **CÃI VÃ LỚN**, thậm chí dây dưa
-tới **PHÁP LUẬT**.
+  {
+    id: 'thai-tue-tai-thien-di-hoa-ky',
+    title: '⚠️ Thái Tuế + Hóa Kỵ tại Thiên Di - Cãi vã lớn',
+    sao: ['Thái Tuế'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Hóa Kỵ tại Thiên Di:** dễ xảy ra **CÃI VÃ LỚN**,
+thậm chí dây dưa tới **PHÁP LUẬT**.`,
+  },
 
-🌟 **+ Tam Linh, Tứ Linh, Xương Khúc, Khôi Việt:** được **NHIỀU QUÝ NHÂN nâng đỡ**.
-Càng đi xa càng **THUẬN LỢI**, danh tiếng **lan rộng**, sự nghiệp "**thuận buồm
-xuôi gió**".`,
+  {
+    id: 'thai-tue-tai-thien-di-da',
+    title: '⚠️ Thái Tuế + Đà La tại Thiên Di - Cãi vã lớn',
+    sao: ['Thái Tuế'],
+    cung: ['Thiên Di'],
+    ketHop: ['Đà La'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Đà La tại Thiên Di:** dễ xảy ra **CÃI VÃ LỚN**, thậm
+chí dây dưa tới **PHÁP LUẬT**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-thien-di-kinh',
+    title: '⚠️ Thái Tuế + Kình Dương tại Thiên Di - Cãi vã lớn',
+    sao: ['Thái Tuế'],
+    cung: ['Thiên Di'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Kình Dương tại Thiên Di:** dễ xảy ra **CÃI VÃ LỚN**,
+thậm chí dây dưa tới **PHÁP LUẬT**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-thien-di-tam-minh',
+    title: '🌟 Thái Tuế + Tam Minh tại Thiên Di - Quý nhân nâng đỡ',
+    sao: ['Thái Tuế'],
+    cung: ['Thiên Di'],
+    ketHop: ['Đào Hoa', 'Hồng Loan', 'Thiên Hỷ'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Tam Minh (Đào Hoa / Hồng Loan / Thiên Hỷ) tại Thiên
+Di:** được **NHIỀU QUÝ NHÂN nâng đỡ**. Càng đi xa càng **THUẬN LỢI**, danh
+tiếng **lan rộng**, sự nghiệp "**thuận buồm xuôi gió**".`,
+  },
+
+  {
+    id: 'thai-tue-tai-thien-di-tu-linh',
+    title: '🌟 Thái Tuế + Tứ Linh tại Thiên Di - Quý nhân nâng đỡ',
+    sao: ['Thái Tuế'],
+    cung: ['Thiên Di'],
+    ketHop: ['Long Trì', 'Phượng Các', 'Bạch Hổ', 'Hoa Cái'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Tứ Linh (Long Trì / Phượng Các / Bạch Hổ / Hoa Cái)
+tại Thiên Di:** được **NHIỀU QUÝ NHÂN nâng đỡ**. Càng đi xa càng **THUẬN LỢI**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-thien-di-xuong',
+    title: '🌟 Thái Tuế + Văn Xương tại Thiên Di - Quý nhân nâng đỡ',
+    sao: ['Thái Tuế'],
+    cung: ['Thiên Di'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Văn Xương tại Thiên Di:** được **NHIỀU QUÝ NHÂN
+nâng đỡ**. Càng đi xa càng **THUẬN LỢI**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-thien-di-khuc',
+    title: '🌟 Thái Tuế + Văn Khúc tại Thiên Di - Quý nhân nâng đỡ',
+    sao: ['Thái Tuế'],
+    cung: ['Thiên Di'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Văn Khúc tại Thiên Di:** được **NHIỀU QUÝ NHÂN nâng
+đỡ**. Càng đi xa càng **THUẬN LỢI**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-thien-di-khoi',
+    title: '🌟 Thái Tuế + Thiên Khôi tại Thiên Di - Quý nhân nâng đỡ',
+    sao: ['Thái Tuế'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Thiên Khôi tại Thiên Di:** được **NHIỀU QUÝ NHÂN
+nâng đỡ**. Càng đi xa càng **THUẬN LỢI**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-thien-di-viet',
+    title: '🌟 Thái Tuế + Thiên Việt tại Thiên Di - Quý nhân nâng đỡ',
+    sao: ['Thái Tuế'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Thiên Việt tại Thiên Di:** được **NHIỀU QUÝ NHÂN
+nâng đỡ**. Càng đi xa càng **THUẬN LỢI**.`,
   },
 
   {
@@ -419,13 +718,86 @@ xuôi gió**".`,
     cung: ['Tật Ách'],
     doUuTien: 78,
     tomTat: `⚠️ **Thái Tuế tại Tật Ách:** hay bị chuyện **THỊ PHI, KIỆN CÁO, TÙ TỘI, ĐÁNH
-ĐẬP, MỔ XẺ, TAI NẠN DỌC ĐƯỜNG**.
+ĐẬP, MỔ XẺ, TAI NẠN DỌC ĐƯỜNG**.`,
+  },
 
-⚠️ **+ Kình Dương, Đà La, Hóa Kỵ, Không Kiếp, Thiên Hình:** dễ mắc **BỆNH NẶNG**,
-phải **MỔ XẺ NHIỀU LẦN** hoặc dính líu **KIỆN CÁO**.
+  {
+    id: 'thai-tue-tai-tat-ach-kinh',
+    title: '⚠️ Thái Tuế + Kình Dương tại Tật Ách - Bệnh nặng mổ xẻ',
+    sao: ['Thái Tuế'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Kình Dương tại Tật Ách:** dễ mắc **BỆNH NẶNG**,
+phải **MỔ XẺ NHIỀU LẦN** hoặc dính líu **KIỆN CÁO**.`,
+  },
 
-🌟 **+ Cát Tinh:** tác hại được **GIẢM NHẸ** — bệnh **PHÁT HIỆN SỚM**, gặp
-**THẦY GIỎI THUỐC HAY** mà qua cơn hung hiểm, **biến nguy thành an**.`,
+  {
+    id: 'thai-tue-tai-tat-ach-da',
+    title: '⚠️ Thái Tuế + Đà La tại Tật Ách - Bệnh nặng mổ xẻ',
+    sao: ['Thái Tuế'],
+    cung: ['Tật Ách'],
+    ketHop: ['Đà La'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Đà La tại Tật Ách:** dễ mắc **BỆNH NẶNG**, phải
+**MỔ XẺ NHIỀU LẦN** hoặc dính líu **KIỆN CÁO**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tat-ach-hoa-ky',
+    title: '⚠️ Thái Tuế + Hóa Kỵ tại Tật Ách - Bệnh nặng mổ xẻ',
+    sao: ['Thái Tuế'],
+    cung: ['Tật Ách'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Hóa Kỵ tại Tật Ách:** dễ mắc **BỆNH NẶNG**, phải
+**MỔ XẺ NHIỀU LẦN** hoặc dính líu **KIỆN CÁO**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tat-ach-khong',
+    title: '⚠️ Thái Tuế + Địa Không tại Tật Ách - Bệnh nặng mổ xẻ',
+    sao: ['Thái Tuế'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Không'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Địa Không tại Tật Ách:** dễ mắc **BỆNH NẶNG**, phải
+**MỔ XẺ NHIỀU LẦN** hoặc dính líu **KIỆN CÁO**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tat-ach-kiep',
+    title: '⚠️ Thái Tuế + Địa Kiếp tại Tật Ách - Bệnh nặng mổ xẻ',
+    sao: ['Thái Tuế'],
+    cung: ['Tật Ách'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Địa Kiếp tại Tật Ách:** dễ mắc **BỆNH NẶNG**, phải
+**MỔ XẺ NHIỀU LẦN** hoặc dính líu **KIỆN CÁO**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tat-ach-thien-hinh',
+    title: '⚠️ Thái Tuế + Thiên Hình tại Tật Ách - Bệnh nặng mổ xẻ',
+    sao: ['Thái Tuế'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Thiên Hình tại Tật Ách:** dễ mắc **BỆNH NẶNG**,
+phải **MỔ XẺ NHIỀU LẦN** hoặc dính líu **KIỆN CÁO**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tat-ach-luc-cat',
+    title: '🌟 Thái Tuế + Lục Cát tại Tật Ách - Bệnh phát hiện sớm',
+    sao: ['Thái Tuế'],
+    cung: ['Tật Ách'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Tật Ách:** tác hại được **GIẢM NHẸ** — bệnh **PHÁT
+HIỆN SỚM**, gặp **THẦY GIỎI THUỐC HAY** mà qua cơn hung hiểm, **biến nguy thành
+an**.`,
   },
 
   {
@@ -437,12 +809,60 @@ phải **MỔ XẺ NHIỀU LẦN** hoặc dính líu **KIỆN CÁO**.
     tomTat: `🌟 **Thái Tuế + sao tốt tại Tài Bạch:** **DỄ KIẾM TIỀN**, "**NÓI RA TIỀN**" —
 hợp nghề **buôn bán, pháp luật** nhờ **tài ăn nói khôn khéo, lý luận sắc bén**.
 
-⚠️ Đương số **KEO KIỆT** với tiền — giữ tiền chặt nhưng cũng khó hào phóng.
+⚠️ Đương số **KEO KIỆT** với tiền — giữ tiền chặt nhưng cũng khó hào phóng.`,
+  },
 
-⚠️ **+ Đà La, Hóa Kỵ, Địa Không, Địa Kiếp:** hay gặp **TRANH CHẤP** về tiền tài.
+  {
+    id: 'thai-tue-tai-tai-bach-da',
+    title: '⚠️ Thái Tuế + Đà La tại Tài Bạch - Tranh chấp tiền tài',
+    sao: ['Thái Tuế'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Đà La tại Tài Bạch:** hay gặp **TRANH CHẤP** về
+tiền tài.
 - Dù có kiếm tiền **NHANH**, **lợi bất ngờ**, vẫn hay sinh **TAI HỌA, RỦI RO**
 - Tiền bạc dễ "**của thiên trả địa**", **HAO TÁN** vì kiện tụng
-- Có thể bị **kẻ xấu LỢI DỤNG**, dây vào kiện tụng, **mất trắng**.`,
+- Có thể bị **kẻ xấu LỢI DỤNG**, dây vào kiện tụng, **mất trắng**`,
+  },
+
+  {
+    id: 'thai-tue-tai-tai-bach-hoa-ky',
+    title: '⚠️ Thái Tuế + Hóa Kỵ tại Tài Bạch - Tranh chấp tiền tài',
+    sao: ['Thái Tuế'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Hóa Kỵ tại Tài Bạch:** hay gặp **TRANH CHẤP** về
+tiền tài.
+- Tiền bạc dễ "**của thiên trả địa**", **HAO TÁN** vì kiện tụng
+- Có thể bị **kẻ xấu LỢI DỤNG**, dây vào kiện tụng, **mất trắng**`,
+  },
+
+  {
+    id: 'thai-tue-tai-tai-bach-khong',
+    title: '⚠️ Thái Tuế + Địa Không tại Tài Bạch - Tranh chấp tiền tài',
+    sao: ['Thái Tuế'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Địa Không'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Địa Không tại Tài Bạch:** hay gặp **TRANH CHẤP** về
+tiền tài.
+- Tiền bạc dễ "**của thiên trả địa**", **HAO TÁN** vì kiện tụng
+- Có thể bị **kẻ xấu LỢI DỤNG**, dây vào kiện tụng, **mất trắng**`,
+  },
+
+  {
+    id: 'thai-tue-tai-tai-bach-kiep',
+    title: '⚠️ Thái Tuế + Địa Kiếp tại Tài Bạch - Tranh chấp tiền tài',
+    sao: ['Thái Tuế'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Địa Kiếp tại Tài Bạch:** hay gặp **TRANH CHẤP** về
+tiền tài.
+- Tiền bạc dễ "**của thiên trả địa**", **HAO TÁN** vì kiện tụng
+- Có thể bị **kẻ xấu LỢI DỤNG**, dây vào kiện tụng, **mất trắng**`,
   },
 
   {
