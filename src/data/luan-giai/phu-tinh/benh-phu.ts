@@ -174,13 +174,32 @@ khỏe do **không hợp thời tiết, nhịp sống đô thị**.`,
 - **Cảm lạnh, nhức đầu, sổ mũi**
 - Triệu chứng **lặt vặt KÉO DÀI**
 
-⚠️ **+ Thiên Hình hoặc Hóa Kỵ:** bệnh tình có thể **TRỞ NẶNG**, có nguy cơ
-phải **MỔ XẺ, phẫu thuật** hoặc **điều trị chuyên sâu**.
-
 ⚠️ Mỗi sự **biến động thời tiết** trở thành **đợt thử thách thể lực**.
 
 → Cần **chăm sóc bản thân thật kỹ lưỡng**, tránh rơi vào **vòng xoáy bệnh tật
 triền miên**.`,
+  },
+
+  {
+    id: 'benh-phu-tai-tat-ach-thien-hinh',
+    title: '⚠️ Bệnh Phù + Thiên Hình tại Tật Ách - bệnh trở nặng phải mổ',
+    sao: ['Bệnh Phù'],
+    ketHop: ['Thiên Hình'],
+    cung: ['Tật Ách'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Bệnh Phù + Thiên Hình tại Tật Ách:** bệnh tình có thể **TRỞ
+NẶNG**, có nguy cơ phải **MỔ XẺ, phẫu thuật** hoặc **điều trị chuyên sâu**.`,
+  },
+
+  {
+    id: 'benh-phu-tai-tat-ach-hoa-ky',
+    title: '⚠️ Bệnh Phù + Hóa Kỵ tại Tật Ách - bệnh trở nặng phải mổ',
+    sao: ['Bệnh Phù'],
+    ketHop: ['Hóa Kỵ'],
+    cung: ['Tật Ách'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Bệnh Phù + Hóa Kỵ tại Tật Ách:** bệnh tình có thể **TRỞ NẶNG**,
+có nguy cơ phải **MỔ XẺ, phẫu thuật** hoặc **điều trị chuyên sâu**.`,
   },
 
   {

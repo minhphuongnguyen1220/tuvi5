@@ -546,8 +546,18 @@ có vai trò **dẫn dắt**.`,
    bất lợi** do quyết định **nóng vội thiếu khôn ngoan** → cần thận trọng từng
    quyết định, **khéo léo bảo toàn uy tín**
 3. **VẬN HẠN BỆNH TẬT:** đặc biệt **Phá Quân + Địa Không + Địa Kiếp + Đại Hao
-   + Tiểu Hao** → cảnh báo **bệnh nặng đường hô hấp**. **+ Kình Dương + Thiên
-   Hình:** phải **mổ xẻ**. Cần dưỡng sinh, ăn uống điều độ, khám sức khỏe định kỳ`,
+   + Tiểu Hao** → cảnh báo **bệnh nặng đường hô hấp**. Cần dưỡng sinh, ăn uống
+   điều độ, khám sức khỏe định kỳ`,
+  },
+
+  {
+    id: 'dia-kiep-han-mo-xe',
+    title: '⚠️ Địa Kiếp + Phá Quân + Đại Hao + Tiểu Hao + Kình Dương + Thiên Hình vào hạn - mổ xẻ',
+    sao: ['Địa Kiếp'],
+    ketHop: ['Phá Quân', 'Đại Hao', 'Tiểu Hao', 'Kình Dương', 'Thiên Hình'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Địa Kiếp + Phá Quân + Đại Hao + Tiểu Hao + Kình Dương + Thiên
+Hình vào hạn:** phải **mổ xẻ** — bệnh nặng đường hô hấp cần phẫu thuật.`,
   },
 
   // ============================================================

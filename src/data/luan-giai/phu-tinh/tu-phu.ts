@@ -1257,12 +1257,64 @@ Tinh / Linh Tinh):
 - Người hôn phối hay gặp **TAI NẠN, BỆNH TẬT NHỎ**
 - Khiến gia đạo phải **BẬN LÒNG LO TOAN**
 
-🌟 **+ Thiên Đức / Nguyệt Đức / Tả Hữu / Văn Xương:**
-- Hôn nhân **BỀN VỮNG**, vợ chồng "**như đũa có đôi**"
-
-⚠️ **+ Sát Tinh:**
+⚠️ Khi có thêm **Sát Tinh**:
 - Dễ **BẤT ỔN**
 - **Sự nhẫn nhịn** vẫn là chìa khóa giữ ấm cửa nhà`,
+  },
+
+  {
+    id: 'tu-phu-tai-phu-the-thien-duc',
+    title: 'Tử Phù + Thiên Đức tại Phu Thê - hôn nhân bền vững',
+    sao: ['Tử Phù'],
+    ketHop: ['Thiên Đức'],
+    cung: ['Phu Thê'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Thiên Đức tại Phu Thê:** hôn nhân **BỀN VỮNG**, vợ
+chồng "**như đũa có đôi**".`,
+  },
+
+  {
+    id: 'tu-phu-tai-phu-the-nguyet-duc',
+    title: 'Tử Phù + Nguyệt Đức tại Phu Thê - hôn nhân bền vững',
+    sao: ['Tử Phù'],
+    ketHop: ['Nguyệt Đức'],
+    cung: ['Phu Thê'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Nguyệt Đức tại Phu Thê:** hôn nhân **BỀN VỮNG**, vợ
+chồng "**như đũa có đôi**".`,
+  },
+
+  {
+    id: 'tu-phu-tai-phu-the-ta-phu',
+    title: 'Tử Phù + Tả Phù tại Phu Thê - hôn nhân bền vững',
+    sao: ['Tử Phù'],
+    ketHop: ['Tả Phù'],
+    cung: ['Phu Thê'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Tả Phù tại Phu Thê:** hôn nhân **BỀN VỮNG**, vợ chồng
+"**như đũa có đôi**".`,
+  },
+
+  {
+    id: 'tu-phu-tai-phu-the-huu-bat',
+    title: 'Tử Phù + Hữu Bật tại Phu Thê - hôn nhân bền vững',
+    sao: ['Tử Phù'],
+    ketHop: ['Hữu Bật'],
+    cung: ['Phu Thê'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Hữu Bật tại Phu Thê:** hôn nhân **BỀN VỮNG**, vợ chồng
+"**như đũa có đôi**".`,
+  },
+
+  {
+    id: 'tu-phu-tai-phu-the-van-xuong',
+    title: 'Tử Phù + Văn Xương tại Phu Thê - hôn nhân bền vững',
+    sao: ['Tử Phù'],
+    ketHop: ['Văn Xương'],
+    cung: ['Phu Thê'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tử Phù + Văn Xương tại Phu Thê:** hôn nhân **BỀN VỮNG**, vợ
+chồng "**như đũa có đôi**".`,
   },
 
   {
@@ -1283,11 +1335,11 @@ Tinh / Linh Tinh):
 - Anh em dễ gặp **TRẮC TRỞ**
 - Mỗi người một nỗi niềm khiến tình cảm **XA CÁCH**
 
-🌟 **+ Cát Tinh:** anh em **GẮN BÓ**, có người **HỌC HÀNH GIỎI GIANG**, làm
-**RẠNG DANH dòng họ**.
+🌟 Khi có thêm **Cát Tinh**: anh em **GẮN BÓ**, có người **HỌC HÀNH GIỎI
+GIANG**, làm **RẠNG DANH dòng họ**.
 
-⚠️ **+ Sát Tinh:** dễ sinh **RẮC RỐI** — đương số nhiều phen phải **GÁNH VÁC THAY
-ANH EM**.`,
+⚠️ Khi có thêm **Sát Tinh**: dễ sinh **RẮC RỐI** — đương số nhiều phen phải
+**GÁNH VÁC THAY ANH EM**.`,
   },
 
   {
@@ -1307,9 +1359,40 @@ ANH EM**.`,
 💡 **Lời khuyên hạn:**
 - Giữ **AN TOÀN ĐI LẠI**
 - **CHĂM SÓC THÂN THỂ KỸ LƯỠNG**
-- Tránh **CHỦ QUAN** mà gặp họa bất ngờ
+- Tránh **CHỦ QUAN** mà gặp họa bất ngờ`,
+  },
 
-🌟 **+ Thiên Đức / Nguyệt Đức / Giải Thần:**
+  {
+    id: 'tu-phu-han-thien-duc',
+    title: 'Tử Phù vào hạn + Thiên Đức - bệnh tình hung hóa cát',
+    sao: ['Tử Phù'],
+    ketHop: ['Thiên Đức'],
+    doUuTien: 60,
+    tomTat: `🌟 **Tử Phù + Thiên Đức vào hạn:**
+- Bệnh thường **SỚM ĐƯỢC CHỮA KHỎI**
+- Dễ gặp được **THẦY THUỐC GIỎI**
+- Bệnh tình **TỪ HUNG HÓA CÁT**`,
+  },
+
+  {
+    id: 'tu-phu-han-nguyet-duc',
+    title: 'Tử Phù vào hạn + Nguyệt Đức - bệnh tình hung hóa cát',
+    sao: ['Tử Phù'],
+    ketHop: ['Nguyệt Đức'],
+    doUuTien: 60,
+    tomTat: `🌟 **Tử Phù + Nguyệt Đức vào hạn:**
+- Bệnh thường **SỚM ĐƯỢC CHỮA KHỎI**
+- Dễ gặp được **THẦY THUỐC GIỎI**
+- Bệnh tình **TỪ HUNG HÓA CÁT**`,
+  },
+
+  {
+    id: 'tu-phu-han-giai-than',
+    title: 'Tử Phù vào hạn + Giải Thần - bệnh tình hung hóa cát',
+    sao: ['Tử Phù'],
+    ketHop: ['Giải Thần'],
+    doUuTien: 60,
+    tomTat: `🌟 **Tử Phù + Giải Thần vào hạn:**
 - Bệnh thường **SỚM ĐƯỢC CHỮA KHỎI**
 - Dễ gặp được **THẦY THUỐC GIỎI**
 - Bệnh tình **TỪ HUNG HÓA CÁT**`,
@@ -1329,9 +1412,55 @@ ANH EM**.`,
   - **CHỮA BỆNH**
   - Mất mát do **BỊ LỪA GẠT**
 - Đi với sát tinh, tiền dễ mất **vô ích**, gặp cảnh "**TIỀN MẤT TẬT MANG**"
-- Bị **KẺ XẤU LỢI DỤNG** hoặc vướng **KIỆN TỤNG**
+- Bị **KẺ XẤU LỢI DỤNG** hoặc vướng **KIỆN TỤNG**`,
+  },
 
-🌟 **+ Hóa Lộc / Văn Xương / Văn Khúc / Thiên Việt:**
+  {
+    id: 'tu-phu-han-hoa-loc-tich-phuc',
+    title: 'Tử Phù vào hạn + Hóa Lộc - hao tài tích phúc',
+    sao: ['Tử Phù'],
+    ketHop: ['Hóa Lộc'],
+    doUuTien: 60,
+    tomTat: `🌟 **Tử Phù + Hóa Lộc vào hạn:**
+- Hao tài thường mang ý nghĩa **TÍCH PHÚC**:
+  - **Quyên góp**
+  - Chi tiêu cho **HỌC HÀNH, TU DƯỠNG**
+- Tuy **MẤT TIỀN** nhưng **SINH PHÚC về sau**`,
+  },
+
+  {
+    id: 'tu-phu-han-van-xuong-tich-phuc',
+    title: 'Tử Phù vào hạn + Văn Xương - hao tài tích phúc',
+    sao: ['Tử Phù'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 60,
+    tomTat: `🌟 **Tử Phù + Văn Xương vào hạn:**
+- Hao tài thường mang ý nghĩa **TÍCH PHÚC**:
+  - **Quyên góp**
+  - Chi tiêu cho **HỌC HÀNH, TU DƯỠNG**
+- Tuy **MẤT TIỀN** nhưng **SINH PHÚC về sau**`,
+  },
+
+  {
+    id: 'tu-phu-han-van-khuc-tich-phuc',
+    title: 'Tử Phù vào hạn + Văn Khúc - hao tài tích phúc',
+    sao: ['Tử Phù'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 60,
+    tomTat: `🌟 **Tử Phù + Văn Khúc vào hạn:**
+- Hao tài thường mang ý nghĩa **TÍCH PHÚC**:
+  - **Quyên góp**
+  - Chi tiêu cho **HỌC HÀNH, TU DƯỠNG**
+- Tuy **MẤT TIỀN** nhưng **SINH PHÚC về sau**`,
+  },
+
+  {
+    id: 'tu-phu-han-thien-viet-tich-phuc',
+    title: 'Tử Phù vào hạn + Thiên Việt - hao tài tích phúc',
+    sao: ['Tử Phù'],
+    ketHop: ['Thiên Việt'],
+    doUuTien: 60,
+    tomTat: `🌟 **Tử Phù + Thiên Việt vào hạn:**
 - Hao tài thường mang ý nghĩa **TÍCH PHÚC**:
   - **Quyên góp**
   - Chi tiêu cho **HỌC HÀNH, TU DƯỠNG**

@@ -832,10 +832,18 @@ người **QUÝ MẾN, HÂM MỘ**.`,
 
 ⚠️ **Bản chất tự nỗ lực:**
 - Bản mệnh phải **TỰ MÌNH CHÚ TÂM** vào sức khỏe
-- **CHỦ ĐỘNG THAY ĐỔI** thói quen sinh hoạt
+- **CHỦ ĐỘNG THAY ĐỔI** thói quen sinh hoạt`,
+  },
 
-⚠️ **+ Không Kiếp:** sự cố gắng như **CÔNG DÃ TRÀNG** — nỗ lực nhiều mà hiệu quả
-**chẳng bao nhiêu**.`,
+  {
+    id: 'thieu-duong-tai-tat-ach-khong-kiep',
+    title: '⚠️ Thiếu Dương + Địa Không + Địa Kiếp tại Tật Ách - công dã tràng',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    cung: ['Tật Ách'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiếu Dương + Địa Không + Địa Kiếp tại Tật Ách:** sự cố gắng
+như **CÔNG DÃ TRÀNG** — nỗ lực nhiều mà hiệu quả **chẳng bao nhiêu**.`,
   },
 
   {
@@ -885,12 +893,31 @@ TẬT, TAI HỌA**.
 - Khi nhiều người **CHẬT VẬT MƯU SINH**, bản thân lại có thể **XOAY SỞ** và
   tìm được **NGUỒN LỢI**, biến **NGHỊCH CẢNH thành CƠ HỘI**
 
-🌟 **+ Hóa Lộc / Thiên Mã (Lộc Mã):** **CÀNG TỐT**.
-
-🌟 **+ Nhiều Tài Tinh:**
+🌟 Khi có thêm nhiều **Tài Tinh**:
 - Người có **CHUYÊN MÔN TÀI CHÍNH**
 - Kiếm tiền có yếu tố **NƯỚC NGOÀI**
 - **ĐẦU TƯ vào THỊ TRƯỜNG TÀI CHÍNH QUỐC TẾ**`,
+  },
+
+  {
+    id: 'thieu-duong-tai-tai-bach-hoa-loc',
+    title: 'Thiếu Dương + Hóa Lộc tại Tài Bạch - Lộc Mã giao trì',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Hóa Lộc'],
+    cung: ['Tài Bạch'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Hóa Lộc tại Tài Bạch:** **CÀNG TỐT**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-tai-bach-thien-ma',
+    title: 'Thiếu Dương + Thiên Mã tại Tài Bạch - Lộc Mã giao trì',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Thiên Mã'],
+    cung: ['Tài Bạch'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Mã tại Tài Bạch** (Lộc Mã giao trì):
+**CÀNG TỐT**.`,
   },
 
   {
@@ -904,17 +931,83 @@ TẬT, TAI HỌA**.
 - Con cái **HÒA THUẬN, HIẾU THẢO**
 - **DỄ SINH CON TRAI**
 - Con cái **THÔNG MINH, NHANH NHẸN, HOẠT NÁO**, **DỄ NỔI TIẾNG**
-- Tự giác, **KỶ LUẬT CAO**, ít để cha mẹ phải nhắc nhở nhiều
+- Tự giác, **KỶ LUẬT CAO**, ít để cha mẹ phải nhắc nhở nhiều`,
+  },
 
-⚠️ **+ Đà La** (sao cứng đầu):
-- Tính khí con trở nên **ƯƠNG BƯỚNG**
+  {
+    id: 'thieu-duong-tai-tu-tuc-da-la',
+    title: '⚠️ Thiếu Dương + Đà La tại Tử Tức - con ương bướng',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Đà La'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Dương + Đà La tại Tử Tức** (sao cứng đầu): tính khí con
+trở nên **ƯƠNG BƯỚNG**.`,
+  },
 
-⚠️ **+ Linh Tinh:**
+  {
+    id: 'thieu-duong-tai-tu-tuc-linh-tinh',
+    title: '⚠️ Thiếu Dương + Linh Tinh tại Tử Tức - bằng mặt không bằng lòng',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Linh Tinh'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiếu Dương + Linh Tinh tại Tử Tức:**
 - Mối quan hệ dễ rơi vào "**BẰNG MẶT KHÔNG BẰNG LÒNG**"
 - Mâu thuẫn **TÍCH TỤ** → khi bùng phát, con cái có thể **BỎ NHÀ ĐI**
-- Để lại nhiều **PHIỀN MUỘN** cho cha mẹ
+- Để lại nhiều **PHIỀN MUỘN** cho cha mẹ`,
+  },
 
-🌟 **+ Tả Phù / Hữu Bật / Khôi Việt:**
+  {
+    id: 'thieu-duong-tai-tu-tuc-ta-phu',
+    title: 'Thiếu Dương + Tả Phù tại Tử Tức - con quân tử',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Tả Phù'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Tả Phù tại Tử Tức:**
+- Con cái giữ được **KHÍ CHẤT CHÍNH TRỰC** của bậc **QUÂN TỬ**
+- **SÁNG TRÍ HIỀN TÂM**
+- Biết **CƯ XỬ PHẢI PHÉP**
+- Trở thành **ĐIỂM TỰA cho gia đình**`,
+  },
+
+  {
+    id: 'thieu-duong-tai-tu-tuc-huu-bat',
+    title: 'Thiếu Dương + Hữu Bật tại Tử Tức - con quân tử',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Hữu Bật'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Hữu Bật tại Tử Tức:**
+- Con cái giữ được **KHÍ CHẤT CHÍNH TRỰC** của bậc **QUÂN TỬ**
+- **SÁNG TRÍ HIỀN TÂM**
+- Biết **CƯ XỬ PHẢI PHÉP**
+- Trở thành **ĐIỂM TỰA cho gia đình**`,
+  },
+
+  {
+    id: 'thieu-duong-tai-tu-tuc-thien-khoi',
+    title: 'Thiếu Dương + Thiên Khôi tại Tử Tức - con quân tử',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Thiên Khôi'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Khôi tại Tử Tức:**
+- Con cái giữ được **KHÍ CHẤT CHÍNH TRỰC** của bậc **QUÂN TỬ**
+- **SÁNG TRÍ HIỀN TÂM**
+- Biết **CƯ XỬ PHẢI PHÉP**
+- Trở thành **ĐIỂM TỰA cho gia đình**`,
+  },
+
+  {
+    id: 'thieu-duong-tai-tu-tuc-thien-viet',
+    title: 'Thiếu Dương + Thiên Việt tại Tử Tức - con quân tử',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Thiên Việt'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Việt tại Tử Tức:**
 - Con cái giữ được **KHÍ CHẤT CHÍNH TRỰC** của bậc **QUÂN TỬ**
 - **SÁNG TRÍ HIỀN TÂM**
 - Biết **CƯ XỬ PHẢI PHÉP**
@@ -937,19 +1030,107 @@ TẬT, TAI HỌA**.
 - Vợ chồng dễ **XA QUÊ, CÁCH QUÁN**
 - **Lấy nhau xong CÔNG DANH** của đương số **PHÁT TRIỂN HƠN**
 
-⚠️ **+ Hỏa Tinh / Linh Tinh / Thái Dương / Cự Môn:**
-- Dễ **LẤY CHỒNG XA**
-- Thậm chí **LẤY NGƯỜI NƯỚC NGOÀI**
-- Kết hôn phải cố gắng "**NHẬP GIA TÙY TỤC**" nơi quê chồng với nhiều **TẬP QUÁN
-  LẠ LẪM**
-
-🌟 **+ Văn Xương / Văn Khúc / Thiên Khôi / Thiên Việt:** vẫn thành **CÁCH ĐẸP**.
-
 🌟 **Thuận lợi với NỮ MỆNH:** người bạn đời thường **CHÍNH TRỰC**, sống có
 **NGHĨA CÓ TÌNH**:
 - Sự **CỨNG RẮN** của đối phương đôi khi tạo **CẢM GIÁC GÒ BÓ**
 - Nếu biết **KHÉO LÉO DỰA VÀO CHỒNG**, **NƯƠNG NHỜ ĐÚNG LÚC** → cuộc sống gia
   đình **trong ấm ngoài êm**`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-the-hoa-tinh',
+    title: '⚠️ Thiếu Dương + Hỏa Tinh tại Phu Thê - lấy chồng xa',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Hỏa Tinh'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiếu Dương + Hỏa Tinh tại Phu Thê:**
+- Dễ **LẤY CHỒNG XA**
+- Thậm chí **LẤY NGƯỜI NƯỚC NGOÀI**
+- Kết hôn phải cố gắng "**NHẬP GIA TÙY TỤC**" nơi quê chồng với nhiều **TẬP
+  QUÁN LẠ LẪM**`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-the-linh-tinh',
+    title: '⚠️ Thiếu Dương + Linh Tinh tại Phu Thê - lấy chồng xa',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Linh Tinh'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiếu Dương + Linh Tinh tại Phu Thê:**
+- Dễ **LẤY CHỒNG XA**
+- Thậm chí **LẤY NGƯỜI NƯỚC NGOÀI**
+- Kết hôn phải cố gắng "**NHẬP GIA TÙY TỤC**" nơi quê chồng với nhiều **TẬP
+  QUÁN LẠ LẪM**`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-the-thai-duong',
+    title: '⚠️ Thiếu Dương + Thái Dương tại Phu Thê - lấy chồng xa',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Thái Dương'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiếu Dương + Thái Dương tại Phu Thê:**
+- Dễ **LẤY CHỒNG XA**
+- Thậm chí **LẤY NGƯỜI NƯỚC NGOÀI**
+- Kết hôn phải cố gắng "**NHẬP GIA TÙY TỤC**" nơi quê chồng với nhiều **TẬP
+  QUÁN LẠ LẪM**`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-the-cu-mon',
+    title: '⚠️ Thiếu Dương + Cự Môn tại Phu Thê - lấy chồng xa',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Cự Môn'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thiếu Dương + Cự Môn tại Phu Thê:**
+- Dễ **LẤY CHỒNG XA**
+- Thậm chí **LẤY NGƯỜI NƯỚC NGOÀI**
+- Kết hôn phải cố gắng "**NHẬP GIA TÙY TỤC**" nơi quê chồng với nhiều **TẬP
+  QUÁN LẠ LẪM**`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-the-van-xuong',
+    title: 'Thiếu Dương + Văn Xương tại Phu Thê - cách đẹp',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Văn Xương'],
+    cung: ['Phu Thê'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Văn Xương tại Phu Thê:** vẫn thành **CÁCH ĐẸP**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-the-van-khuc',
+    title: 'Thiếu Dương + Văn Khúc tại Phu Thê - cách đẹp',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Văn Khúc'],
+    cung: ['Phu Thê'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Văn Khúc tại Phu Thê:** vẫn thành **CÁCH ĐẸP**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-the-thien-khoi',
+    title: 'Thiếu Dương + Thiên Khôi tại Phu Thê - cách đẹp',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Thiên Khôi'],
+    cung: ['Phu Thê'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Khôi tại Phu Thê:** vẫn thành **CÁCH ĐẸP**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-phu-the-thien-viet',
+    title: 'Thiếu Dương + Thiên Việt tại Phu Thê - cách đẹp',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Thiên Việt'],
+    cung: ['Phu Thê'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thiếu Dương + Thiên Việt tại Phu Thê:** vẫn thành **CÁCH ĐẸP**.`,
   },
 
   {
@@ -967,11 +1148,29 @@ TẬT, TAI HỌA**.
 - **SÒNG PHẲNG**, "**có vay có trả, có ơn tất báo**"
 - Nếu biết **HẾT LÒNG GIÚP ĐỠ** thì sau này cũng dễ **NHẬN LẠI** sự tương trợ
 - Trong hành xử làm việc gì cũng **MINH BẠCH**, "**QUANG MINH CHÍNH ĐẠI**"
-- **KHÔNG ƯA VÒNG VO** hay **giấu giếm sau lưng**
+- **KHÔNG ƯA VÒNG VO** hay **giấu giếm sau lưng**`,
+  },
 
-⚠️ **+ Kình Dương / Hỏa Tinh:**
-- Anh chị em hay **Ỷ vào MÌNH TÀI GIỎI** hơn người mà trở nên **KIÊU CĂNG, NGẠO
-  MẠN**`,
+  {
+    id: 'thieu-duong-tai-huynh-de-kinh-duong',
+    title: '⚠️ Thiếu Dương + Kình Dương tại Huynh Đệ - anh em kiêu căng',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Kình Dương'],
+    cung: ['Huynh Đệ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Thiếu Dương + Kình Dương tại Huynh Đệ:** anh chị em hay **Ỷ
+vào MÌNH TÀI GIỎI** hơn người mà trở nên **KIÊU CĂNG, NGẠO MẠN**.`,
+  },
+
+  {
+    id: 'thieu-duong-tai-huynh-de-hoa-tinh',
+    title: '⚠️ Thiếu Dương + Hỏa Tinh tại Huynh Đệ - anh em kiêu căng',
+    sao: ['Thiếu Dương'],
+    ketHop: ['Hỏa Tinh'],
+    cung: ['Huynh Đệ'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Thiếu Dương + Hỏa Tinh tại Huynh Đệ:** anh chị em hay **Ỷ vào
+MÌNH TÀI GIỎI** hơn người mà trở nên **KIÊU CĂNG, NGẠO MẠN**.`,
   },
 
   {

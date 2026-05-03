@@ -269,8 +269,8 @@ Thiên Việt trong tam phương.`,
   phát huy, công danh khó thành
 - **Địa Không + Địa Kiếp:** phá vỡ thực tế → ảo tưởng, hành động khác thường,
   công danh **"lâu đài trên cát"**, dễ **bạo phát bạo tàn**
-- **+ Tham Lang/Phá Quân + sát tinh:** tài lộc khó bền, dễ tiêu tan, hôn nhân
-  bất hòa, **2 lần đò**`,
+- Khi có thêm **Tham Lang / Phá Quân + sát tinh**: tài lộc khó bền, dễ tiêu
+  tan, hôn nhân bất hòa, **2 lần đò**`,
   },
 
   // ============================================================

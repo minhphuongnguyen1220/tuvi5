@@ -131,7 +131,18 @@ tảng tốt.
 uống**, sống điều độ.
 
 **Tài lộc:** không chỉ may mắn — đến từ **xoay sở và óc kinh doanh nhạy bén**.
-"Tiền đẻ ra tiền". **+ Thiên Mã:** cách **"Lộc Mã giao trì"**.`,
+"Tiền đẻ ra tiền".`,
+  },
+
+  {
+    id: 'hoa-loc-tai-menh-thien-ma',
+    title: 'Hóa Lộc + Thiên Mã tại Mệnh - Lộc Mã giao trì',
+    sao: ['Hóa Lộc'],
+    ketHop: ['Thiên Mã'],
+    cung: ['Mệnh'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Lộc + Thiên Mã tại Mệnh:** cách **"Lộc Mã giao trì"** — tài
+lộc đến nhanh, kinh doanh phát đạt.`,
   },
 
   // ============================================================

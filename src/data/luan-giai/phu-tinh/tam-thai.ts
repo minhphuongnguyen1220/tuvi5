@@ -399,9 +399,18 @@ lương.
 - **GIA TĂNG SỐ LƯỢNG CON CÁI**
 - Việc nuôi dạy con **NHÀN NHÃ, DỄ DÀNG**
 - Con cái **NGOAN NGOÃN, HIỀN LƯƠNG**
-- **KHÔNG PHẢI GÁNH NẶNG** cho cha mẹ
+- **KHÔNG PHẢI GÁNH NẶNG** cho cha mẹ`,
+  },
 
-⚡ **+ Khôi Việt + Xương Khúc:**
+  {
+    id: 'tam-thai-tai-tu-tuc-khoi-viet-xuong-khuc',
+    title: 'Tam Thai + Khôi Việt + Xương Khúc tại Tử Tức - con thành đạt',
+    sao: ['Tam Thai'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt', 'Văn Xương', 'Văn Khúc'],
+    cung: ['Tử Tức'],
+    doUuTien: 73,
+    tomTat: `⚡ **Tam Thai + Thiên Khôi + Thiên Việt + Văn Xương + Văn Khúc tại
+Tử Tức:**
 - Con cái càng **THÀNH ĐẠT, TÀI GIỎI**
 - Bộ tổ hợp cực đẹp cho cung Tử Tức`,
   },

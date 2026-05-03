@@ -872,13 +872,118 @@ tiền tài.
     cung: ['Tử Tức'],
     doUuTien: 75,
     tomTat: `⚠️ **Thái Tuế tại Tử Tức:** con cái **KHÔNG HỢP TÍNH** cha mẹ — mỗi lần mở
-miệng lại **BẤT HÒA** do **khắc khẩu**.
+miệng lại **BẤT HÒA** do **khắc khẩu**.`,
+  },
 
-🌟 **+ Cát Tinh (Xương Khúc, Khôi Việt):** con cái **THÔNG MINH, TƯ DUY TỐT**,
-**THÀNH ĐẠT, TRƯỞNG THÀNH** — dễ thành danh.
+  {
+    id: 'thai-tue-tai-tu-tuc-van-xuong',
+    title: 'Thái Tuế + Văn Xương tại Tử Tức - con thông minh',
+    sao: ['Thái Tuế'],
+    ketHop: ['Văn Xương'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Văn Xương tại Tử Tức:** con cái **THÔNG MINH, TƯ
+DUY TỐT**, **THÀNH ĐẠT, TRƯỞNG THÀNH** — dễ thành danh.`,
+  },
 
-⚠️ **+ Sát Tinh (Đà La, Kình Dương, Hóa Kỵ, Địa Không, Địa Kiếp):** quan hệ
-cha mẹ - con cái **NHƯ NƯỚC VỚI LỬA**:
+  {
+    id: 'thai-tue-tai-tu-tuc-van-khuc',
+    title: 'Thái Tuế + Văn Khúc tại Tử Tức - con thông minh',
+    sao: ['Thái Tuế'],
+    ketHop: ['Văn Khúc'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Văn Khúc tại Tử Tức:** con cái **THÔNG MINH, TƯ
+DUY TỐT**, **THÀNH ĐẠT, TRƯỞNG THÀNH** — dễ thành danh.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tu-tuc-thien-khoi',
+    title: 'Thái Tuế + Thiên Khôi tại Tử Tức - con thông minh',
+    sao: ['Thái Tuế'],
+    ketHop: ['Thiên Khôi'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Thiên Khôi tại Tử Tức:** con cái **THÔNG MINH, TƯ
+DUY TỐT**, **THÀNH ĐẠT, TRƯỞNG THÀNH** — dễ thành danh.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tu-tuc-thien-viet',
+    title: 'Thái Tuế + Thiên Việt tại Tử Tức - con thông minh',
+    sao: ['Thái Tuế'],
+    ketHop: ['Thiên Việt'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thái Tuế + Thiên Việt tại Tử Tức:** con cái **THÔNG MINH, TƯ
+DUY TỐT**, **THÀNH ĐẠT, TRƯỞNG THÀNH** — dễ thành danh.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tu-tuc-da-la',
+    title: '⚠️ Thái Tuế + Đà La tại Tử Tức',
+    sao: ['Thái Tuế'],
+    ketHop: ['Đà La'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Đà La tại Tử Tức:** quan hệ cha mẹ - con cái **NHƯ
+NƯỚC VỚI LỬA**:
+- Con cái **ĂN CHƠI ĐUA ĐÒI**
+- Dễ vướng **TỆ NẠN, vi phạm pháp luật**
+- Cha mẹ phải **lao tâm khổ tứ** vì con.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tu-tuc-kinh-duong',
+    title: '⚠️ Thái Tuế + Kình Dương tại Tử Tức',
+    sao: ['Thái Tuế'],
+    ketHop: ['Kình Dương'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Kình Dương tại Tử Tức:** quan hệ cha mẹ - con cái
+**NHƯ NƯỚC VỚI LỬA**:
+- Con cái **ĂN CHƠI ĐUA ĐÒI**
+- Dễ vướng **TỆ NẠN, vi phạm pháp luật**
+- Cha mẹ phải **lao tâm khổ tứ** vì con.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tu-tuc-hoa-ky',
+    title: '⚠️ Thái Tuế + Hóa Kỵ tại Tử Tức',
+    sao: ['Thái Tuế'],
+    ketHop: ['Hóa Kỵ'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Hóa Kỵ tại Tử Tức:** quan hệ cha mẹ - con cái **NHƯ
+NƯỚC VỚI LỬA**:
+- Con cái **ĂN CHƠI ĐUA ĐÒI**
+- Dễ vướng **TỆ NẠN, vi phạm pháp luật**
+- Cha mẹ phải **lao tâm khổ tứ** vì con.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tu-tuc-dia-khong',
+    title: '⚠️ Thái Tuế + Địa Không tại Tử Tức',
+    sao: ['Thái Tuế'],
+    ketHop: ['Địa Không'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Địa Không tại Tử Tức:** quan hệ cha mẹ - con cái
+**NHƯ NƯỚC VỚI LỬA**:
+- Con cái **ĂN CHƠI ĐUA ĐÒI**
+- Dễ vướng **TỆ NẠN, vi phạm pháp luật**
+- Cha mẹ phải **lao tâm khổ tứ** vì con.`,
+  },
+
+  {
+    id: 'thai-tue-tai-tu-tuc-dia-kiep',
+    title: '⚠️ Thái Tuế + Địa Kiếp tại Tử Tức',
+    sao: ['Thái Tuế'],
+    ketHop: ['Địa Kiếp'],
+    cung: ['Tử Tức'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thái Tuế + Địa Kiếp tại Tử Tức:** quan hệ cha mẹ - con cái
+**NHƯ NƯỚC VỚI LỬA**:
 - Con cái **ĂN CHƠI ĐUA ĐÒI**
 - Dễ vướng **TỆ NẠN, vi phạm pháp luật**
 - Cha mẹ phải **lao tâm khổ tứ** vì con.`,
@@ -894,16 +999,131 @@ cha mẹ - con cái **NHƯ NƯỚC VỚI LỬA**:
 thể **LY DỊ, LY HÔN** — trừ phi vợ/chồng **HÀNH NGHỀ LUẬT SƯ, THẨM PHÁN** thì
 chuyển hóa được khẩu nghiệp.
 
-⚠️ **+ Hóa Kỵ, Đà La, Kình Dương, Không Kiếp:** "**TRỐNG ĐÁNH XUÔI, KÈN THỔI
-NGƯỢC**" — hôn nhân khó tránh **CHIA LY**. Mối quan hệ ràng buộc bởi **TRÁCH
-NHIỆM hoặc LỢI ÍCH** hơn là tình cảm — con cái cũng chịu ảnh hưởng.
-
 🌟 **Đặc trưng:** vợ chồng **NƯƠNG TỰA** nhau, dính dấp nhau **NHIỀU vì QUYỀN
 LỢI, danh tiếng, địa vị, dư luận** — ảnh hưởng bên ngoài rất nặng vào đời sống
-riêng tư.
+riêng tư.`,
+  },
 
-🌟 **+ Khôi Việt, Xương Khúc, Tả Hữu:** vợ chồng **NÂNG ĐỠ** nhau trong sự
-nghiệp, **hôn nhân BỀN CHẶT**, gia đình có **tiếng thơm** trong xã hội.`,
+  {
+    id: 'thai-tue-tai-phu-the-hoa-ky',
+    title: '⚠️ Thái Tuế + Hóa Kỵ tại Phu Thê',
+    sao: ['Thái Tuế'],
+    ketHop: ['Hóa Kỵ'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Hóa Kỵ tại Phu Thê:** "**TRỐNG ĐÁNH XUÔI, KÈN THỔI
+NGƯỢC**" — hôn nhân khó tránh **CHIA LY**. Mối quan hệ ràng buộc bởi **TRÁCH
+NHIỆM hoặc LỢI ÍCH** hơn là tình cảm — con cái cũng chịu ảnh hưởng.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-the-da-la',
+    title: '⚠️ Thái Tuế + Đà La tại Phu Thê',
+    sao: ['Thái Tuế'],
+    ketHop: ['Đà La'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Đà La tại Phu Thê:** "**TRỐNG ĐÁNH XUÔI, KÈN THỔI
+NGƯỢC**" — hôn nhân khó tránh **CHIA LY**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-the-kinh-duong',
+    title: '⚠️ Thái Tuế + Kình Dương tại Phu Thê',
+    sao: ['Thái Tuế'],
+    ketHop: ['Kình Dương'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Kình Dương tại Phu Thê:** "**TRỐNG ĐÁNH XUÔI, KÈN
+THỔI NGƯỢC**" — hôn nhân khó tránh **CHIA LY**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-the-dia-khong',
+    title: '⚠️ Thái Tuế + Địa Không tại Phu Thê',
+    sao: ['Thái Tuế'],
+    ketHop: ['Địa Không'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Địa Không tại Phu Thê:** "**TRỐNG ĐÁNH XUÔI, KÈN
+THỔI NGƯỢC**" — hôn nhân khó tránh **CHIA LY**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-the-dia-kiep',
+    title: '⚠️ Thái Tuế + Địa Kiếp tại Phu Thê',
+    sao: ['Thái Tuế'],
+    ketHop: ['Địa Kiếp'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thái Tuế + Địa Kiếp tại Phu Thê:** "**TRỐNG ĐÁNH XUÔI, KÈN
+THỔI NGƯỢC**" — hôn nhân khó tránh **CHIA LY**.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-the-thien-khoi',
+    title: 'Thái Tuế + Thiên Khôi tại Phu Thê - vợ chồng nâng đỡ',
+    sao: ['Thái Tuế'],
+    ketHop: ['Thiên Khôi'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Thiên Khôi tại Phu Thê:** vợ chồng **NÂNG ĐỠ** nhau
+trong sự nghiệp, **hôn nhân BỀN CHẶT**, gia đình có **tiếng thơm** trong xã hội.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-the-thien-viet',
+    title: 'Thái Tuế + Thiên Việt tại Phu Thê - vợ chồng nâng đỡ',
+    sao: ['Thái Tuế'],
+    ketHop: ['Thiên Việt'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Thiên Việt tại Phu Thê:** vợ chồng **NÂNG ĐỠ** nhau
+trong sự nghiệp, **hôn nhân BỀN CHẶT**, gia đình có **tiếng thơm** trong xã hội.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-the-van-xuong',
+    title: 'Thái Tuế + Văn Xương tại Phu Thê - vợ chồng nâng đỡ',
+    sao: ['Thái Tuế'],
+    ketHop: ['Văn Xương'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Văn Xương tại Phu Thê:** vợ chồng **NÂNG ĐỠ** nhau
+trong sự nghiệp, **hôn nhân BỀN CHẶT**, gia đình có **tiếng thơm** trong xã hội.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-the-van-khuc',
+    title: 'Thái Tuế + Văn Khúc tại Phu Thê - vợ chồng nâng đỡ',
+    sao: ['Thái Tuế'],
+    ketHop: ['Văn Khúc'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Văn Khúc tại Phu Thê:** vợ chồng **NÂNG ĐỠ** nhau
+trong sự nghiệp, **hôn nhân BỀN CHẶT**, gia đình có **tiếng thơm** trong xã hội.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-the-ta-phu',
+    title: 'Thái Tuế + Tả Phù tại Phu Thê - vợ chồng nâng đỡ',
+    sao: ['Thái Tuế'],
+    ketHop: ['Tả Phù'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Tả Phù tại Phu Thê:** vợ chồng **NÂNG ĐỠ** nhau
+trong sự nghiệp, **hôn nhân BỀN CHẶT**, gia đình có **tiếng thơm** trong xã hội.`,
+  },
+
+  {
+    id: 'thai-tue-tai-phu-the-huu-bat',
+    title: 'Thái Tuế + Hữu Bật tại Phu Thê - vợ chồng nâng đỡ',
+    sao: ['Thái Tuế'],
+    ketHop: ['Hữu Bật'],
+    cung: ['Phu Thê'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thái Tuế + Hữu Bật tại Phu Thê:** vợ chồng **NÂNG ĐỠ** nhau
+trong sự nghiệp, **hôn nhân BỀN CHẶT**, gia đình có **tiếng thơm** trong xã hội.`,
   },
 
   {
@@ -932,8 +1152,8 @@ MẮN**, **dễ thành công**.
 - Có cơ hội **CỦNG CỐ DANH TIẾNG**
 - Nói lời nào ra **trọng lượng** lời ấy
 
-🌟 **+ Cát Tinh trong đại vận:** khó khăn trước mắt cũng chính là **CƠ HỘI**
-giúp đương số **trưởng thành**, mở ra hướng phát triển tích cực.`,
+🌟 Khi có thêm **Cát Tinh** trong đại vận: khó khăn trước mắt cũng chính là
+**CƠ HỘI** giúp đương số **trưởng thành**, mở ra hướng phát triển tích cực.`,
   },
 
   {
@@ -952,9 +1172,11 @@ hoàn toàn với đại vận.
 - Hay sinh **QUAN TỤNG, KHẨU THIỆT**
 - Thời vận **GIAN TRUÂN, VẤT VẢ**
 
-⚠️ **+ Đà La, Kiếp Sát:** ra ngoài lắm **TAI NẠN**, **NGUY HẠI ĐẾN TÍNH MẠNG**.
+⚠️ Khi có thêm **Đà La / Kiếp Sát**: ra ngoài lắm **TAI NẠN**, **NGUY HẠI ĐẾN
+TÍNH MẠNG**.
 
-⚠️ **+ Sát Tinh nặng (Đà La, Kiếp Sát, Thiên Hình, Hóa Kỵ):** dễ vướng:
+⚠️ Khi có nhiều **Sát Tinh nặng** (Đà La, Kiếp Sát, Thiên Hình, Hóa Kỵ): dễ
+vướng:
 - **Kiện tụng, thị phi**
 - **Tai nạn ảnh hưởng tính mạng**
 - Công việc và tài chính **LAO ĐAO**

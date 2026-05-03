@@ -504,7 +504,7 @@ Thiên Hình + Hóa Kỵ được tách thành luận giải riêng.
 
 **Tử Vi - Phá Quân tại Mệnh:**
 - Là người **thẳng thắn**
-- **+ Hoa Cái** → thích hợp nghiên cứu **tôn giáo hoặc triết học**
+- Khi có thêm **Hoa Cái** → thích hợp nghiên cứu **tôn giáo hoặc triết học**
 
 ## ⚠️ Cảnh báo cổ nhân
 
@@ -913,7 +913,7 @@ cấu **NHIỀU TÍNH MÂU THUẪN**:
 1. **Chí lớn mà tài sơ**
 2. **Lý tưởng cao mà không hành động thực tế**
 3. **Thích đầu cơ mạo hiểm mà tính toán không đủ**
-4. **+ Xương Khúc:** ưa văn nghệ trong khi nghề không liên quan
+4. Khi có thêm **Văn Xương / Văn Khúc**: ưa văn nghệ trong khi nghề không liên quan
 5. **Có nghề sở trường nhưng lại không biểu hiện**, lúc cần lại không chịu
 
 ✅ **Cứu giải:** **Hóa Lộc** điều hòa.
@@ -1142,7 +1142,7 @@ có thể phải **phẫu thuật**.`,
 mới** ("khứ cựu canh tân").
 
 ✅ **Phá Quân Hóa Lộc:** gặp cơ hội mới **TỪ NGHỀ NGHIỆP CŨ**.
-⚠️ **+ Vũ Khúc Hóa Kỵ + Sát:** **phá tán thất bại**, sự nghiệp **đình đốn**.
+⚠️ Khi có thêm **Vũ Khúc Hóa Kỵ + Sát**: **phá tán thất bại**, sự nghiệp **đình đốn**.
 
 ⚠️ **Phá Quân độc tọa Mệnh tại Thìn / Tuất của Lưu niên + Kình Dương:**
 - Năm đó chủ về **sinh con**

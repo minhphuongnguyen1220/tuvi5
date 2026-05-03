@@ -183,16 +183,53 @@ HÀNG**.
     tomTat: `**Thiên La tại Điền Trạch** — đương số gặp nhiều **SÓNG GIÓ liên quan ĐẤT
 ĐAI, NHÀ CỬA**.
 
-⚡ **Đặc trưng theo bộ sao:**
-- **+ Hỏa Tinh, Linh Tinh:** dễ xảy ra **CHÁY NỔ**
-- **+ Địa Không, Địa Kiếp:** đề phòng **BÃO LŨ, THIÊN TAI** hoặc cảnh **MẮC
-  KẸT NGAY TRONG NHÀ**
-
 ⚡ **Hội cùng cát tinh - hóa giải:**
 - Có khả năng **HÓA GIẢI NGHIỆP**
 - Biết **CHĂM LO DỌN DẸP** nhà cửa
 - Tạo môi trường sống **TỐT LÀNH**
 - Vận nhà **YÊN ỔN**, đời sống **HƯNG THỊNH**`,
+  },
+
+  {
+    id: 'thien-la-dien-trach-hoa-tinh',
+    title: '⚠️ Thiên La + Hỏa Tinh tại Điền Trạch - cháy nổ',
+    sao: ['Thiên La'],
+    ketHop: ['Hỏa Tinh'],
+    cung: ['Điền Trạch'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên La + Hỏa Tinh tại Điền Trạch:** dễ xảy ra **CHÁY NỔ**.`,
+  },
+
+  {
+    id: 'thien-la-dien-trach-linh-tinh',
+    title: '⚠️ Thiên La + Linh Tinh tại Điền Trạch - cháy nổ',
+    sao: ['Thiên La'],
+    ketHop: ['Linh Tinh'],
+    cung: ['Điền Trạch'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên La + Linh Tinh tại Điền Trạch:** dễ xảy ra **CHÁY NỔ**.`,
+  },
+
+  {
+    id: 'thien-la-dien-trach-dia-khong',
+    title: '⚠️ Thiên La + Địa Không tại Điền Trạch - bão lũ thiên tai',
+    sao: ['Thiên La'],
+    ketHop: ['Địa Không'],
+    cung: ['Điền Trạch'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên La + Địa Không tại Điền Trạch:** đề phòng **BÃO LŨ,
+THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
+  },
+
+  {
+    id: 'thien-la-dien-trach-dia-kiep',
+    title: '⚠️ Thiên La + Địa Kiếp tại Điền Trạch - bão lũ thiên tai',
+    sao: ['Thiên La'],
+    ketHop: ['Địa Kiếp'],
+    cung: ['Điền Trạch'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên La + Địa Kiếp tại Điền Trạch:** đề phòng **BÃO LŨ,
+THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
   },
 
   {

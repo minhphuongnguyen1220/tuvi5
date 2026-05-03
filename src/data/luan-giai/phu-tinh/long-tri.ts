@@ -87,11 +87,50 @@ export const luanGiai_LongTri: DoanLuanGiai[] = [
 ⚡ **Hình tượng cơ thể:** Long Trì = **CÁI MŨI** → người có Long Trì thủ Mệnh
 thường có:
 - **MŨI ĐẸP, CAO, THẲNG**
-- **QUÝ TƯỚNG**
+- **QUÝ TƯỚNG**`,
+  },
 
-⚠️ **+ Kình Dương:** mũi **SỐNG TRÂU** (thô, dáng cứng cáp).
-⚠️ **+ Thiên Khốc + Thiên Hư + Thiên Hình:** **HAY ĐAU MŨI PHẢI MỔ**.
-⚠️ **+ Địa Kiếp** hoặc **+ Thiên Hình:** **MŨI XẤU**, có thể bị **SẸO**.`,
+  {
+    id: 'long-tri-tuong-mao-kinh-duong',
+    title: 'Long Trì + Kình Dương tại Mệnh - mũi sống trâu',
+    sao: ['Long Trì'],
+    cung: ['Mệnh'],
+    ketHop: ['Kình Dương'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Long Trì + Kình Dương tại Mệnh:** mũi **SỐNG TRÂU** (thô, dáng
+cứng cáp).`,
+  },
+
+  {
+    id: 'long-tri-tuong-mao-khoc-hu-hinh',
+    title: 'Long Trì + Thiên Khốc + Thiên Hư + Thiên Hình tại Mệnh - đau mũi phải mổ',
+    sao: ['Long Trì'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Khốc', 'Thiên Hư', 'Thiên Hình'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Long Trì + Thiên Khốc + Thiên Hư + Thiên Hình tại Mệnh:** **HAY
+ĐAU MŨI PHẢI MỔ**.`,
+  },
+
+  {
+    id: 'long-tri-tuong-mao-dia-kiep',
+    title: 'Long Trì + Địa Kiếp tại Mệnh - mũi xấu sẹo',
+    sao: ['Long Trì'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Kiếp'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Long Trì + Địa Kiếp tại Mệnh:** **MŨI XẤU**, có thể bị **SẸO**.`,
+  },
+
+  {
+    id: 'long-tri-tuong-mao-thien-hinh',
+    title: 'Long Trì + Thiên Hình tại Mệnh - mũi xấu sẹo',
+    sao: ['Long Trì'],
+    cung: ['Mệnh'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Long Trì + Thiên Hình tại Mệnh:** **MŨI XẤU**, có thể bị
+**SẸO**.`,
   },
 
   {
@@ -224,17 +263,88 @@ BẬC**.`,
     doUuTien: 75,
     tomTat: `🌟 **Long Trì tại Phụ Mẫu:**
 - Giúp **TĂNG THỌ** cho cha mẹ, đem lại **MAY MẮN**
-- Cha mẹ là người **ĐẸP ĐẼ, THANH CAO, ÔN HÒA**
+- Cha mẹ là người **ĐẸP ĐẼ, THANH CAO, ÔN HÒA**`,
+  },
 
-🌟 **+ Cát Tinh + Văn Tinh** (Tả Hữu / Khôi Việt / Xương Khúc / Phượng Các /
-Quang Quý):
+  {
+    id: 'long-tri-tai-phu-mau-ta-huu',
+    title: 'Long Trì + Tả Phù / Hữu Bật tại Phụ Mẫu - cha mẹ thành đạt',
+    sao: ['Long Trì'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Tả Phù / Hữu Bật tại Phụ Mẫu:**
 - Cha mẹ **THÀNH ĐẠT, CÓ HỌC THỨC**
 - Có **VỊ TRÍ trong xã hội**
 - Dễ làm về **HÀNH PHÁP, PHÁP LUẬT, NƠI CÔNG QUYỀN**
-- Khoa bảng hiển đạt
+- Khoa bảng hiển đạt`,
+  },
 
-⚠️ **+ Sát Tinh** (Kình Dương / Đà La / Hóa Kỵ / Linh Tinh / Hỏa Tinh / Không
-Kiếp):
+  {
+    id: 'long-tri-tai-phu-mau-khoi-viet',
+    title: 'Long Trì + Thiên Khôi / Thiên Việt tại Phụ Mẫu - cha mẹ thành đạt',
+    sao: ['Long Trì'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Thiên Khôi / Thiên Việt tại Phụ Mẫu:**
+- Cha mẹ **THÀNH ĐẠT, CÓ HỌC THỨC**
+- Có **VỊ TRÍ trong xã hội**
+- Dễ làm về **HÀNH PHÁP, PHÁP LUẬT, NƠI CÔNG QUYỀN**
+- Khoa bảng hiển đạt`,
+  },
+
+  {
+    id: 'long-tri-tai-phu-mau-xuong-khuc',
+    title: 'Long Trì + Văn Xương / Văn Khúc tại Phụ Mẫu - cha mẹ thành đạt',
+    sao: ['Long Trì'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Xương', 'Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Văn Xương / Văn Khúc tại Phụ Mẫu:**
+- Cha mẹ **THÀNH ĐẠT, CÓ HỌC THỨC**
+- Có **VỊ TRÍ trong xã hội**
+- Dễ làm về **HÀNH PHÁP, PHÁP LUẬT, NƠI CÔNG QUYỀN**
+- Khoa bảng hiển đạt`,
+  },
+
+  {
+    id: 'long-tri-tai-phu-mau-phuong-cac',
+    title: 'Long Trì + Phượng Các tại Phụ Mẫu - cha mẹ thành đạt',
+    sao: ['Long Trì'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Phượng Các'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Phượng Các tại Phụ Mẫu:**
+- Cha mẹ **THÀNH ĐẠT, CÓ HỌC THỨC**
+- Có **VỊ TRÍ trong xã hội**
+- Dễ làm về **HÀNH PHÁP, PHÁP LUẬT, NƠI CÔNG QUYỀN**
+- Khoa bảng hiển đạt`,
+  },
+
+  {
+    id: 'long-tri-tai-phu-mau-quang-quy',
+    title: 'Long Trì + Ân Quang / Thiên Quý tại Phụ Mẫu - cha mẹ thành đạt',
+    sao: ['Long Trì'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Ân Quang', 'Thiên Quý'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Ân Quang / Thiên Quý tại Phụ Mẫu:**
+- Cha mẹ **THÀNH ĐẠT, CÓ HỌC THỨC**
+- Có **VỊ TRÍ trong xã hội**
+- Dễ làm về **HÀNH PHÁP, PHÁP LUẬT, NƠI CÔNG QUYỀN**
+- Khoa bảng hiển đạt`,
+  },
+
+  {
+    id: 'long-tri-tai-phu-mau-sat',
+    title: 'Long Trì + Sát Tinh tại Phụ Mẫu - cha mẹ trắc trở',
+    sao: ['Long Trì'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Linh Tinh', 'Hỏa Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Long Trì + Sát Tinh (Kình Dương / Đà La / Hóa Kỵ / Linh Tinh /
+Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
 - Cha mẹ trắc trở về **SỨC KHỎE liên quan MŨI, HÔ HẤP**
 - Dễ vướng **KIỆN TỤNG, THỊ PHI**
 - Cuộc đời chịu **NHIỀU PHIỀN MUỘN**`,
@@ -253,14 +363,82 @@ Kiếp):
 
 ⚡ **Đặc điểm tâm linh:**
 - Ông bà tổ tiên **MỒ YÊN MẢ ĐẸP**, **PHÁT PHƯỚC**
-- Mộ hay gần **CÁI AO** hay **GIẾNG NƯỚC**
+- Mộ hay gần **CÁI AO** hay **GIẾNG NƯỚC**`,
+  },
 
-🌟 **+ Cát Tinh + Quyền Tinh** (Tử Vi / Thiên Phủ / Thái Tuế / Quốc Ấn):
+  {
+    id: 'long-tri-tai-phuc-duc-tu-vi',
+    title: 'Long Trì + Tử Vi tại Phúc Đức - tổ tiên làm quan',
+    sao: ['Long Trì'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tử Vi'],
+    doUuTien: 73,
+    tomTat: `🌟 **Long Trì + Tử Vi tại Phúc Đức:**
 - Tổ tiên xưa kia có người **LÀM QUAN LỚN, NỔI DANH**
 - **KHẮT KHE và QUYỀN BIẾN**
-- Dòng họ hưởng **PHÚC LÂU DÀI**, con cháu **ĐỖ ĐẠT, THĂNG TIẾN**
+- Dòng họ hưởng **PHÚC LÂU DÀI**, con cháu **ĐỖ ĐẠT, THĂNG TIẾN**`,
+  },
 
-⚠️ **+ Địa Không / Địa Kiếp / Thiên Hình:**
+  {
+    id: 'long-tri-tai-phuc-duc-thien-phu',
+    title: 'Long Trì + Thiên Phủ tại Phúc Đức - tổ tiên làm quan',
+    sao: ['Long Trì'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Phủ'],
+    doUuTien: 73,
+    tomTat: `🌟 **Long Trì + Thiên Phủ tại Phúc Đức:**
+- Tổ tiên xưa kia có người **LÀM QUAN LỚN, NỔI DANH**
+- **KHẮT KHE và QUYỀN BIẾN**
+- Dòng họ hưởng **PHÚC LÂU DÀI**, con cháu **ĐỖ ĐẠT, THĂNG TIẾN**`,
+  },
+
+  {
+    id: 'long-tri-tai-phuc-duc-thai-tue',
+    title: 'Long Trì + Thái Tuế tại Phúc Đức - tổ tiên làm quan',
+    sao: ['Long Trì'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thái Tuế'],
+    doUuTien: 73,
+    tomTat: `🌟 **Long Trì + Thái Tuế tại Phúc Đức:**
+- Tổ tiên xưa kia có người **LÀM QUAN LỚN, NỔI DANH**
+- **KHẮT KHE và QUYỀN BIẾN**
+- Dòng họ hưởng **PHÚC LÂU DÀI**, con cháu **ĐỖ ĐẠT, THĂNG TIẾN**`,
+  },
+
+  {
+    id: 'long-tri-tai-phuc-duc-quoc-an',
+    title: 'Long Trì + Quốc Ấn tại Phúc Đức - tổ tiên làm quan',
+    sao: ['Long Trì'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Quốc Ấn'],
+    doUuTien: 73,
+    tomTat: `🌟 **Long Trì + Quốc Ấn tại Phúc Đức:**
+- Tổ tiên xưa kia có người **LÀM QUAN LỚN, NỔI DANH**
+- **KHẮT KHE và QUYỀN BIẾN**
+- Dòng họ hưởng **PHÚC LÂU DÀI**, con cháu **ĐỖ ĐẠT, THĂNG TIẾN**`,
+  },
+
+  {
+    id: 'long-tri-tai-phuc-duc-khong-kiep',
+    title: 'Long Trì + Địa Không / Địa Kiếp tại Phúc Đức - phúc phận suy giảm',
+    sao: ['Long Trì'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Long Trì + Địa Không / Địa Kiếp tại Phúc Đức:**
+- **PHÚC PHẬN suy giảm**
+- Dễ gặp cảnh **MỘ PHẦN HƯ HỎNG, phong thủy KÉM**
+- Hậu duệ thông minh nhưng **ĐOẢN THỌ**`,
+  },
+
+  {
+    id: 'long-tri-tai-phuc-duc-thien-hinh',
+    title: 'Long Trì + Thiên Hình tại Phúc Đức - phúc phận suy giảm',
+    sao: ['Long Trì'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Hình'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Long Trì + Thiên Hình tại Phúc Đức:**
 - **PHÚC PHẬN suy giảm**
 - Dễ gặp cảnh **MỘ PHẦN HƯ HỎNG, phong thủy KÉM**
 - Hậu duệ thông minh nhưng **ĐOẢN THỌ**`,
@@ -276,13 +454,39 @@ Kiếp):
 - Nhà **LẤP AO LẤP GIẾNG để ở**
 - Nhà cửa **ĐẸP**
 - Gần **NƠI CÔNG MÔN, CÔNG QUYỀN, TÒA ÁN, VIỆN KIỂM SÁT**
-- Hàng xóm xung quanh nhiều người có **ĐỊA VỊ, CHỨC SẮC**
+- Hàng xóm xung quanh nhiều người có **ĐỊA VỊ, CHỨC SẮC**`,
+  },
 
-🌟 **+ Mộ:** có **NHÀ ĐẤT RỘNG RÃI**, **DI SẢN**.
+  {
+    id: 'long-tri-tai-dien-trach-mo',
+    title: 'Long Trì + Mộ tại Điền Trạch - nhà đất rộng rãi',
+    sao: ['Long Trì'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Mộ'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Mộ tại Điền Trạch:** có **NHÀ ĐẤT RỘNG RÃI**, **DI
+SẢN**.`,
+  },
 
-🌟 **+ Thai + Bát Tọa:** **NHÀ LẦU CAO SANG**, có **AO HỒ**.
+  {
+    id: 'long-tri-tai-dien-trach-thai-bat-toa',
+    title: 'Long Trì + Thai + Bát Tọa tại Điền Trạch - nhà lầu cao sang',
+    sao: ['Long Trì'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Thai', 'Bát Tọa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Thai + Bát Tọa tại Điền Trạch:** **NHÀ LẦU CAO
+SANG**, có **AO HỒ**.`,
+  },
 
-⚠️ **+ Sát Tinh:**
+  {
+    id: 'long-tri-tai-dien-trach-sat',
+    title: 'Long Trì + Sát Tinh tại Điền Trạch - kiện tụng đất đai',
+    sao: ['Long Trì'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Long Trì + Sát Tinh (Lục Sát) tại Điền Trạch:**
 - Đất ao hồ **KHÓ CẢI TẠO**
 - Nhà cửa phải **HAY SỬA CHỮA TỐN KÉM**
 - Hoặc phải **BÁN ĐỔI nhiều lần**
@@ -304,14 +508,82 @@ Kiếp):
 - **HỌC LUẬT, HÀNH NGHỀ LUẬT**
   - **THẨM PHÁN, TRẠNG SƯ**
 - Công việc tính chất **SOI XÉT, PHÁN ĐOÁN, SUY LUẬN**, **KHẮT KHE CAO**
-- **BÁC SỸ TAI MŨI HỌNG** (do Long Trì là cái mũi)
+- **BÁC SỸ TAI MŨI HỌNG** (do Long Trì là cái mũi)`,
+  },
 
-🌟 **+ Khôi Việt / Thai / Bát Tọa / Phượng Các / Long Phượng:**
+  {
+    id: 'long-tri-tai-quan-loc-khoi-viet',
+    title: 'Long Trì + Thiên Khôi / Thiên Việt tại Quan Lộc - công danh hiển đạt',
+    sao: ['Long Trì'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Long Trì + Thiên Khôi / Thiên Việt tại Quan Lộc:**
 - Công danh **HIỂN ĐẠT**
 - Dễ **THĂNG TIẾN**
-- Được **QUÝ NHÂN nâng đỡ**
+- Được **QUÝ NHÂN nâng đỡ**`,
+  },
 
-⚠️ **+ Kình Dương / Đà La / Hóa Kỵ:**
+  {
+    id: 'long-tri-tai-quan-loc-thai',
+    title: 'Long Trì + Thai tại Quan Lộc - công danh hiển đạt',
+    sao: ['Long Trì'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thai'],
+    doUuTien: 73,
+    tomTat: `🌟 **Long Trì + Thai tại Quan Lộc:**
+- Công danh **HIỂN ĐẠT**
+- Dễ **THĂNG TIẾN**
+- Được **QUÝ NHÂN nâng đỡ**`,
+  },
+
+  {
+    id: 'long-tri-tai-quan-loc-bat-toa',
+    title: 'Long Trì + Bát Tọa tại Quan Lộc - công danh hiển đạt',
+    sao: ['Long Trì'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Bát Tọa'],
+    doUuTien: 73,
+    tomTat: `🌟 **Long Trì + Bát Tọa tại Quan Lộc:**
+- Công danh **HIỂN ĐẠT**
+- Dễ **THĂNG TIẾN**
+- Được **QUÝ NHÂN nâng đỡ**`,
+  },
+
+  {
+    id: 'long-tri-tai-quan-loc-phuong-cac',
+    title: 'Long Trì + Phượng Các tại Quan Lộc - cách Long Phượng',
+    sao: ['Long Trì'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Phượng Các'],
+    doUuTien: 73,
+    tomTat: `🌟 **Long Trì + Phượng Các tại Quan Lộc** (cách Long Phượng):
+- Công danh **HIỂN ĐẠT**
+- Dễ **THĂNG TIẾN**
+- Được **QUÝ NHÂN nâng đỡ**`,
+  },
+
+  {
+    id: 'long-tri-tai-quan-loc-kinh-da',
+    title: 'Long Trì + Kình Dương / Đà La tại Quan Lộc - sự nghiệp thăng trầm',
+    sao: ['Long Trì'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Long Trì + Kình Dương / Đà La tại Quan Lộc:**
+- Học hành **DANG DỞ**
+- Thi cử **KHÓ KHĂN**
+- Sự nghiệp **THĂNG TRẦM**, vướng **TRANH CÃI, THỊ PHI**`,
+  },
+
+  {
+    id: 'long-tri-tai-quan-loc-hoa-ky',
+    title: 'Long Trì + Hóa Kỵ tại Quan Lộc - sự nghiệp thăng trầm',
+    sao: ['Long Trì'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Long Trì + Hóa Kỵ tại Quan Lộc:**
 - Học hành **DANG DỞ**
 - Thi cử **KHÓ KHĂN**
 - Sự nghiệp **THĂNG TRẦM**, vướng **TRANH CÃI, THỊ PHI**`,
@@ -326,12 +598,29 @@ Kiếp):
     tomTat: `🌟 **Long Trì tại Nô Bộc:**
 - Bạn bè đồng nghiệp **NHIỀU NGƯỜI QUYỀN QUÝ, GIÀU CÓ, ĐẮC LỰC**
 - Hay được bạn bè **GIÚP ĐỠ**
-- Đem đến **MAY MẮN và TIỀN BẠC**
+- Đem đến **MAY MẮN và TIỀN BẠC**`,
+  },
 
-🌟 **+ Cát Tinh:** quen nhiều người **THÀNH ĐẠT**, làm về **HÌNH PHÁP, PHÁP
-LUẬT**.
+  {
+    id: 'long-tri-tai-no-boc-luc-cat',
+    title: 'Long Trì + Lục Cát tại Nô Bộc - bạn bè thành đạt',
+    sao: ['Long Trì'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 67,
+    tomTat: `🌟 **Long Trì + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH ĐẠT**, làm về
+**HÌNH PHÁP, PHÁP LUẬT**.`,
+  },
 
-⚠️ **+ Sát Tinh:**
+  {
+    id: 'long-tri-tai-no-boc-sat',
+    title: 'Long Trì + Sát Tinh tại Nô Bộc - bạn bè lợi dụng',
+    sao: ['Long Trì'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Long Trì + Sát Tinh (Lục Sát) tại Nô Bộc:**
 - Quan hệ bạn bè dễ sinh **ĐIỀU TIẾNG, TRANH CHẤP**
 - Có người **LỢI DỤNG**
 - Vướng **KIỆN TỤNG do bạn bè gây ra**`,
@@ -346,9 +635,43 @@ LUẬT**.
     tomTat: `🌟 **Long Trì tại Thiên Di:**
 - Người **THIỆN LƯƠNG, ÔN HÒA**
 - Ra ngoài, đi xa hay được **MAY MẮN**, **NGƯỜI KHÁC GIÚP ĐỠ**
-- Ra ngoài hay ở trong môi trường **NHIỀU NGƯỜI QUYỀN QUÝ, CHỨC TƯỚC**
+- Ra ngoài hay ở trong môi trường **NHIỀU NGƯỜI QUYỀN QUÝ, CHỨC TƯỚC**`,
+  },
 
-⚠️ **+ Hỏa Linh / Không Kiếp / Hóa Kỵ:**
+  {
+    id: 'long-tri-tai-thien-di-hoa-linh',
+    title: 'Long Trì + Hỏa Tinh / Linh Tinh tại Thiên Di - rắc rối thị phi',
+    sao: ['Long Trì'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Long Trì + Hỏa Tinh / Linh Tinh tại Thiên Di:**
+- Ra ngoài hay gặp **RẮC RỐI**
+- Bị người khác **LỢI DỤNG, HAO TÀI**
+- Dễ vướng **KIỆN CÁO, THỊ PHI**`,
+  },
+
+  {
+    id: 'long-tri-tai-thien-di-khong-kiep',
+    title: 'Long Trì + Địa Không / Địa Kiếp tại Thiên Di - rắc rối thị phi',
+    sao: ['Long Trì'],
+    cung: ['Thiên Di'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Long Trì + Địa Không / Địa Kiếp tại Thiên Di:**
+- Ra ngoài hay gặp **RẮC RỐI**
+- Bị người khác **LỢI DỤNG, HAO TÀI**
+- Dễ vướng **KIỆN CÁO, THỊ PHI**`,
+  },
+
+  {
+    id: 'long-tri-tai-thien-di-hoa-ky',
+    title: 'Long Trì + Hóa Kỵ tại Thiên Di - rắc rối thị phi',
+    sao: ['Long Trì'],
+    cung: ['Thiên Di'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Long Trì + Hóa Kỵ tại Thiên Di:**
 - Ra ngoài hay gặp **RẮC RỐI**
 - Bị người khác **LỢI DỤNG, HAO TÀI**
 - Dễ vướng **KIỆN CÁO, THỊ PHI**`,
@@ -368,12 +691,19 @@ LUẬT**.
 - Liên quan tới **BỘ PHẬN MŨI** (do hình tượng Long Trì)
 - **MÁU HUYẾT**
 
-⚠️ **+ Thiên Khốc + Thiên Hư + Thiên Hình:** hay **ĐAU MŨI phải MỔ**.
-
 ⚠️ **Quan Phù + Long Trì** (cặp đôi luôn đồng cung) **tại cung Tật:**
-- Dễ mắc **TAI HỌA về THỊ PHI, KIỆN CÁO**
-- + Thái Tuế / Thiên Hình / Bạch Hổ / Liêm Trinh / Hóa Kỵ → liên quan **PHÁP
-  LUẬT, HÌNH TÙ**`,
+- Dễ mắc **TAI HỌA về THỊ PHI, KIỆN CÁO**`,
+  },
+
+  {
+    id: 'long-tri-tai-tat-ach-khoc-hu-hinh',
+    title: 'Long Trì + Thiên Khốc + Thiên Hư + Thiên Hình tại Tật Ách - đau mũi mổ',
+    sao: ['Long Trì'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thiên Khốc', 'Thiên Hư', 'Thiên Hình'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Long Trì + Thiên Khốc + Thiên Hư + Thiên Hình tại Tật Ách:** hay
+**ĐAU MŨI phải MỔ**.`,
   },
 
   {
@@ -389,13 +719,65 @@ LUẬT**.
 🌟 **Long Trì + Quan Phù** (luôn đồng cung) **cư Tài:**
 - Người **CÔNG TÂM về tiền của**
 - **TIỀN BẠC PHÂN MINH**
-- Luôn kiếm đồng tiền **SẠCH SẼ, THANH CAO**
+- Luôn kiếm đồng tiền **SẠCH SẼ, THANH CAO**`,
+  },
 
-🌟 **+ Quyền Tinh** (Thái Tuế / Quốc Ấn / Phong Cáo / Bát Tọa):
+  {
+    id: 'long-tri-tai-tai-bach-thai-tue',
+    title: 'Long Trì + Thái Tuế tại Tài Bạch - tiền bạc dư dả',
+    sao: ['Long Trì'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Thái Tuế'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Thái Tuế tại Tài Bạch:**
 - Tiền bạc **DƯ DẢ**
-- Gắn liền với **UY TÍN, DANH VỊ**
+- Gắn liền với **UY TÍN, DANH VỊ**`,
+  },
 
-⚠️ **+ Hung Tinh:**
+  {
+    id: 'long-tri-tai-tai-bach-quoc-an',
+    title: 'Long Trì + Quốc Ấn tại Tài Bạch - tiền bạc dư dả',
+    sao: ['Long Trì'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Quốc Ấn'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Quốc Ấn tại Tài Bạch:**
+- Tiền bạc **DƯ DẢ**
+- Gắn liền với **UY TÍN, DANH VỊ**`,
+  },
+
+  {
+    id: 'long-tri-tai-tai-bach-phong-cao',
+    title: 'Long Trì + Phong Cáo tại Tài Bạch - tiền bạc dư dả',
+    sao: ['Long Trì'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Phong Cáo'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Phong Cáo tại Tài Bạch:**
+- Tiền bạc **DƯ DẢ**
+- Gắn liền với **UY TÍN, DANH VỊ**`,
+  },
+
+  {
+    id: 'long-tri-tai-tai-bach-bat-toa',
+    title: 'Long Trì + Bát Tọa tại Tài Bạch - tiền bạc dư dả',
+    sao: ['Long Trì'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Bát Tọa'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Bát Tọa tại Tài Bạch:**
+- Tiền bạc **DƯ DẢ**
+- Gắn liền với **UY TÍN, DANH VỊ**`,
+  },
+
+  {
+    id: 'long-tri-tai-tai-bach-hung',
+    title: 'Long Trì + Hung Tinh tại Tài Bạch - hao tài kiện tụng',
+    sao: ['Long Trì'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Long Trì + Hung Tinh (Lục Sát) tại Tài Bạch:**
 - Tiền bạc **KHÓ GIỮ**
 - Dễ vướng **KIỆN TỤNG**
 - **HAO TÀI tán của**`,
@@ -414,9 +796,18 @@ LUẬT**.
 
 🌟 **Đặc trưng:**
 - Người **DỄ SINH QUÝ TỬ**
-- Con cái **THÔNG MINH, TUẤN KIỆT**
+- Con cái **THÔNG MINH, TUẤN KIỆT**`,
+  },
 
-🌟 **+ Cát Tinh:**
+  {
+    id: 'long-tri-tai-tu-tuc-luc-cat',
+    title: 'Long Trì + Lục Cát tại Tử Tức - con cái thông minh',
+    sao: ['Long Trì'],
+    cung: ['Tử Tức'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Long Trì + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Tử Tức:**
 - Con cái **THÔNG MINH, SUY XÉT TỐT**
 - Dễ làm nghề **THẨM PHÁN, QUAN TÒA**`,
   },
@@ -436,9 +827,30 @@ LUẬT**.
 ⚡ **Tuổi Mão / Dậu + Tả Hữu:**
 - Lấy **NGƯỜI PHƯƠNG XA**
 - **KHÉO LÉO**
-- Hội thêm **SÁT BẠI TINH** thì là người **HAI VỢ hoặc HAI CHỒNG**
+- Hội thêm **SÁT BẠI TINH** thì là người **HAI VỢ hoặc HAI CHỒNG**`,
+  },
 
-⚠️ **+ Kình Dương / Đà La / Hóa Kỵ:**
+  {
+    id: 'long-tri-tai-phu-the-kinh-da',
+    title: 'Long Trì + Kình Dương / Đà La tại Phu Thê - hôn nhân trắc trở',
+    sao: ['Long Trì'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Long Trì + Kình Dương / Đà La tại Phu Thê:**
+- Hôn nhân dễ gặp **TRẮC TRỞ**
+- Vợ chồng hay **BẤT HÒA hoặc XA CÁCH**
+- Có thể **HAI LẦN ĐÒ**`,
+  },
+
+  {
+    id: 'long-tri-tai-phu-the-hoa-ky',
+    title: 'Long Trì + Hóa Kỵ tại Phu Thê - hôn nhân trắc trở',
+    sao: ['Long Trì'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Long Trì + Hóa Kỵ tại Phu Thê:**
 - Hôn nhân dễ gặp **TRẮC TRỞ**
 - Vợ chồng hay **BẤT HÒA hoặc XA CÁCH**
 - Có thể **HAI LẦN ĐÒ**`,

@@ -90,15 +90,15 @@ Vốn nằm trong tam hợp **CHÍNH NGHĨA**, Quan Phù thủ Mệnh có tinh t
 - Các nghề cần **logic + nguyên tắc**`,
     chiTiet: `**Sâu hơn về Quan Phù tại Mệnh:**
 
-🌟 **+ Văn Tinh + Cát Tinh:** làm **TỐT THÊM** tinh thần xây dựng:
-- **+ Văn Xương + Văn Khúc + Thái Tuế** → **rất lợi** cho việc liên quan **PHÁP
-  LUẬT** (kiện cáo, thị phi, **biện hộ, bút chiến**)
+🌟 Khi có **Văn Tinh + Cát Tinh:** làm **TỐT THÊM** tinh thần xây dựng:
+- Khi có **Văn Xương + Văn Khúc + Thái Tuế** → **rất lợi** cho việc liên quan
+  **PHÁP LUẬT** (kiện cáo, thị phi, **biện hộ, bút chiến**)
 - Đây là bộ sao **CẦN THIẾT** cho nghề:
   - **Thẩm phán**
   - **Luật sư**
   - **Thanh tra, kiểm toán**
 
-⚠️ **+ Sát Bại Tinh (Không Kiếp, Kình Dương, Đà La):**
+⚠️ Khi có **Sát Bại Tinh (Không Kiếp, Kình Dương, Đà La):**
 **Tinh thần XÂY DỰNG sẵn có BỊ PHÁ VỠ** — chủ mệnh trở thành:
 - **GIAN NỊNH, PHẢN BỘI**
 - **CỐ CHẤP**, ưa **trả thù**, **hay đố kỵ**
@@ -113,17 +113,55 @@ có nguy cơ báo hiệu **NGHIỆP CHƯỚNG của BÁO OÁN, THÙ DAI, THỊ P
   },
 
   {
+    id: 'quan-phu-tt-tai-menh-xuong-khuc-thai-tue',
+    title: 'Quan Phù + Văn Xương + Văn Khúc + Thái Tuế tại Mệnh - lợi pháp luật',
+    sao: ['Quan Phù'],
+    cung: ['Mệnh'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Thái Tuế'],
+    doUuTien: 75,
+    tomTat: `🌟 **Quan Phù + Văn Xương + Văn Khúc + Thái Tuế tại Mệnh:** **rất
+lợi** cho việc liên quan **PHÁP LUẬT** — kiện cáo, thị phi, **biện hộ, bút
+chiến**.
+
+→ Bộ sao **CẦN THIẾT** cho nghề **Thẩm phán, Luật sư, Thanh tra, kiểm toán**.`,
+  },
+
+  {
+    id: 'quan-phu-tt-tai-menh-sat-bai',
+    title: 'Quan Phù + Sát Bại tinh tại Mệnh - gian nịnh phản bội',
+    sao: ['Quan Phù'],
+    cung: ['Mệnh'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Quan Phù + Sát Bại Tinh (Không Kiếp / Kình Dương / Đà La) tại
+Mệnh:** **Tinh thần XÂY DỰNG sẵn có BỊ PHÁ VỠ** — chủ mệnh trở thành:
+- **GIAN NỊNH, PHẢN BỘI**
+- **CỐ CHẤP**, ưa **trả thù**, **hay đố kỵ**
+- Thích **KIỆN TỤNG, CÂU CHẤP**
+- Sẵn sàng **DÙNG THỦ ĐOẠN** để tranh thắng
+- Hoặc trở thành **NẠN NHÂN** — bị oán, bị báo thù, bị kiện, bị phản bội`,
+  },
+
+  {
     id: 'quan-phu-tt-tai-phu-mau',
     title: 'Quan Phù tại Phụ Mẫu',
     sao: ['Quan Phù'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `🌟 **Quan Phù + Cát Tinh + Văn Tinh tại Phụ Mẫu:**
+    tomTat: `🌟 **Quan Phù tại Phụ Mẫu** (đi với Cát Tinh + Văn Tinh):
 - Cha mẹ là người **THÀNH ĐẠT, có HỌC THỨC, có VỊ TRÍ trong xã hội**
 - Cha mẹ thường làm trong các ngành **PHÁP LUẬT, CÔNG QUYỀN**
-- Trong việc giáo dục con cái, cha mẹ **NGHIÊM KHẮC**, có phần **KHÓ TÍNH**
+- Trong việc giáo dục con cái, cha mẹ **NGHIÊM KHẮC**, có phần **KHÓ TÍNH**`,
+  },
 
-⚠️ **+ Sát Bại Tinh:**
+  {
+    id: 'quan-phu-tt-tai-phu-mau-sat-bai',
+    title: 'Quan Phù + Sát Bại tinh tại Phụ Mẫu - cha mẹ ly dị kiện cáo',
+    sao: ['Quan Phù'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quan Phù + Sát Bại Tinh (Lục Sát) tại Phụ Mẫu:**
 - Cha mẹ dễ **BẤT HÒA, CÃI NHAU**
 - Có thể dẫn tới **CHIA TAY, LY DỊ**
 - Thậm chí **KIỆN TỤNG NHAU**`,
@@ -135,18 +173,26 @@ có nguy cơ báo hiệu **NGHIỆP CHƯỚNG của BÁO OÁN, THÙ DAI, THỊ P
     sao: ['Quan Phù'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `🌟 **Quan Phù + Cát Tinh + Quyền Tinh tại Phúc Đức:**
+    tomTat: `🌟 **Quan Phù tại Phúc Đức** (đi với Cát Tinh + Quyền Tinh):
 - Trong dòng họ có **NHIỀU NGƯỜI THÀNH ĐẠT**
 - Ông bà tổ tiên có người **LÀM QUAN LỚN**, **KHẮT KHE và QUYỀN BIẾN**
 - Gia đình **THÔNG GIA** làm trong ngành **LUẬT** hoặc có **chức quyền** —
   tính cách **khó tính, hay soi xét**
 
-⚠️ **+ Sát Bại Tinh:**
+⚠️ Quan Phù thủ Phúc Đức cũng dễ có **BẤT ĐỒNG, CÃI NHAU** trong việc thờ cúng.`,
+  },
+
+  {
+    id: 'quan-phu-tt-tai-phuc-duc-sat-bai',
+    title: 'Quan Phù + Sát Bại tinh tại Phúc Đức - họ hàng bất hòa',
+    sao: ['Quan Phù'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quan Phù + Sát Bại Tinh (Lục Sát) tại Phúc Đức:**
 - Anh em họ hàng **DỄ BẤT HÒA**, **kiện tụng lẫn nhau**
 - Đặc biệt trong các vấn đề liên quan **THỜ CÚNG, MỒ MẢ TỔ TIÊN**
-- Mọi người **XÉT NÉT** lẫn nhau
-
-⚠️ Quan Phù thủ Phúc Đức cũng dễ có **BẤT ĐỒNG, CÃI NHAU** trong việc thờ cúng.`,
+- Mọi người **XÉT NÉT** lẫn nhau`,
   },
 
   {
@@ -163,10 +209,29 @@ có nguy cơ báo hiệu **NGHIỆP CHƯỚNG của BÁO OÁN, THÙ DAI, THỊ P
 ⚠️ **Đặc trưng:**
 - Dễ vướng **KIỆN CÁO, TRANH CHẤP** liên quan **NHÀ CỬA, ĐẤT ĐAI**
 - Người **KHÓ TÍNH** hoặc **HÀNG XÓM khó tính** → dễ **BẤT ĐỒNG**
-- Dễ bị **THƯA KIỆN**
+- Dễ bị **THƯA KIỆN**`,
+  },
 
-⚠️ **+ Kình Dương, Đà La, Hóa Kỵ:** dễ vướng kiện tụng, **MÂU THUẪN, CÃI VÃ**
-liên miên với hàng xóm, người trong họ.`,
+  {
+    id: 'quan-phu-tt-tai-dien-trach-kinh-da',
+    title: 'Quan Phù + Kình Dương / Đà La tại Điền Trạch - mâu thuẫn hàng xóm',
+    sao: ['Quan Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quan Phù + Kình Dương / Đà La tại Điền Trạch:** dễ vướng kiện
+tụng, **MÂU THUẪN, CÃI VÃ** liên miên với hàng xóm, người trong họ.`,
+  },
+
+  {
+    id: 'quan-phu-tt-tai-dien-trach-hoa-ky',
+    title: 'Quan Phù + Hóa Kỵ tại Điền Trạch - mâu thuẫn hàng xóm',
+    sao: ['Quan Phù'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quan Phù + Hóa Kỵ tại Điền Trạch:** dễ vướng kiện tụng, **MÂU
+THUẪN, CÃI VÃ** liên miên với hàng xóm, người trong họ.`,
   },
 
   {
@@ -201,12 +266,30 @@ LUẬN, KHẮT KHE** cao:
     sao: ['Quan Phù'],
     cung: ['Nô Bộc'],
     doUuTien: 72,
-    tomTat: `**Quan Phù thủ Nô:** đương số là người hay bị bạn bè **ÁP ĐẶT, XÉT NÉT**.
+    tomTat: `**Quan Phù thủ Nô:** đương số là người hay bị bạn bè **ÁP ĐẶT, XÉT NÉT**.`,
+  },
 
-🌟 **+ Cát Tinh:** quen nhiều người **THÀNH ĐẠT**, làm về **HÌNH PHÁP, PHÁP LUẬT**
-— bạn bè, đồng nghiệp đều có học thức, địa vị.
+  {
+    id: 'quan-phu-tt-tai-no-boc-luc-cat',
+    title: 'Quan Phù + Lục Cát tại Nô Bộc - bạn bè thành đạt',
+    sao: ['Quan Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 67,
+    tomTat: `🌟 **Quan Phù + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH ĐẠT**, làm về
+**HÌNH PHÁP, PHÁP LUẬT** — bạn bè, đồng nghiệp đều có học thức, địa vị.`,
+  },
 
-⚠️ **+ Sát Tinh (không có cát tinh):**
+  {
+    id: 'quan-phu-tt-tai-no-boc-sat',
+    title: 'Quan Phù + Sát tinh tại Nô Bộc - bạn bè ghen ghét',
+    sao: ['Quan Phù'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Quan Phù + Sát Tinh (Lục Sát) tại Nô Bộc** (không có cát tinh
+đi kèm):
 - Dễ bị bạn bè, đồng nghiệp **GHEN GHÉT**
 - Bị **CHƠI XẤU**, **NÓI XẤU SAU LƯNG**
 - Có thể bị **THƯA KIỆN** từ chính bạn bè/đồng nghiệp`,
@@ -223,10 +306,19 @@ TOÁN CẨN THẬN**.
 
 ⚠️ **Mặt trái:**
 - Khi đi xa hoặc hoạt động bên ngoài xã hội dễ **DÍNH VÀO THỊ PHI, KIỆN CÁO,
-  CÃI VÃ KHÔNG ĐÁNG CÓ**
+  CÃI VÃ KHÔNG ĐÁNG CÓ**`,
+  },
 
-🌟 **+ Cát Tinh hội chiếu:** có thể **CỨU GIẢI**, hoặc đương số là người được
-giao **TRỌNG TRÁCH**:
+  {
+    id: 'quan-phu-tt-tai-thien-di-luc-cat',
+    title: 'Quan Phù + Lục Cát tại Thiên Di - giám sát quản lý',
+    sao: ['Quan Phù'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Quan Phù + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+Thiên Khôi / Thiên Việt) tại Thiên Di:** có thể **CỨU GIẢI**, hoặc đương số là
+người được giao **TRỌNG TRÁCH**:
 - **GIÁM SÁT, QUẢN LÝ, KIỂM TRA** công việc bên ngoài
 - Đại diện cơ quan đi công tác, thanh tra
 - Vai trò **người CẦM CÂN NẢY MỰC** ngoài xã hội`,
@@ -240,15 +332,24 @@ giao **TRỌNG TRÁCH**:
     doUuTien: 78,
     tomTat: `⚠️ **Quan Phù thủ cung Tật:** dễ mắc **TAI HỌA về THỊ PHI, KIỆN CÁO**.
 
-⚠️ **+ Thái Tuế + Thiên Hình + Bạch Hổ + Liêm Trinh + Hóa Kỵ:**
-- **Càng dễ liên quan tới PHÁP LUẬT, HÌNH TÙ**
-- Dễ vướng **VÒNG LAO LÝ**
-
 ⚠️ **Quan Phù + Thái Tuế nhập Tật:** **SUỐT ĐỜI MÒN MÒN NGỒI CỬA CÔNG MÔN**
 (luôn dính líu pháp luật).
 
 🌟 **Cách hóa giải:** nếu làm nghề **LIÊN QUAN TỚI LUẬT PHÁP** thì có thể **HÓA
 GIẢI tương đối** — biến **kiếp nạn** thành **nghề nghiệp**.`,
+  },
+
+  {
+    id: 'quan-phu-tt-tai-tat-ach-hinh-tu',
+    title: 'Quan Phù + Thái Tuế + Thiên Hình + Bạch Hổ + Liêm Trinh + Hóa Kỵ tại Tật Ách - hình tù',
+    sao: ['Quan Phù'],
+    cung: ['Tật Ách'],
+    ketHop: ['Thái Tuế', 'Thiên Hình', 'Bạch Hổ', 'Liêm Trinh', 'Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Quan Phù + Thái Tuế + Thiên Hình + Bạch Hổ + Liêm Trinh + Hóa
+Kỵ tại Tật Ách:**
+- **Càng dễ liên quan tới PHÁP LUẬT, HÌNH TÙ**
+- Dễ vướng **VÒNG LAO LÝ**`,
   },
 
   {
@@ -264,9 +365,17 @@ năng **TÍNH TOÁN VỀ TIỀN CỦA**.
 - **Quan tòa, thẩm phán, luật sư**
 - **Kế toán, kiểm toán**
 - **Thủ quỹ, thủ kho**
-- **Quan chức** trong cơ quan công quyền
+- **Quan chức** trong cơ quan công quyền`,
+  },
 
-⚠️ **+ Sát Bại Tinh:**
+  {
+    id: 'quan-phu-tt-tai-tai-bach-sat-bai',
+    title: 'Quan Phù + Sát Bại tinh tại Tài Bạch - sai sót lừa gạt',
+    sao: ['Quan Phù'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quan Phù + Sát Bại Tinh (Lục Sát) tại Tài Bạch:**
 - Dễ xảy ra **SAI SÓT** hoặc **TRANH CHẤP**
 - Bị **KIỆN CÁO, THỊ PHI** liên quan tài chính
 - Người dễ **LÀM SAI** mà bị kiện
@@ -279,17 +388,25 @@ năng **TÍNH TOÁN VỀ TIỀN CỦA**.
     sao: ['Quan Phù'],
     cung: ['Tử Tức'],
     doUuTien: 72,
-    tomTat: `🌟 **Quan Phù + Cát Tinh tại Tử Tức:**
+    tomTat: `🌟 **Quan Phù tại Tử Tức** (đi với Cát Tinh):
 - Con cái **THÔNG MINH**, có khả năng **SUY XÉT TỐT**
 - Có duyên với các ngành nghề **THẨM PHÁN, LUẬT SƯ, QUAN TÒA**
 
-⚠️ **+ Sát Bại Tinh:**
+⚠️ **Khi cung Phối xấu:** có thể là **TRANH GIÀNH QUYỀN NUÔI CON** giữa hai vợ
+chồng khi ly hôn.`,
+  },
+
+  {
+    id: 'quan-phu-tt-tai-tu-tuc-sat-bai',
+    title: 'Quan Phù + Sát Bại tinh tại Tử Tức - khắc khẩu cãi vã',
+    sao: ['Quan Phù'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Quan Phù + Sát Bại Tinh (Lục Sát) tại Tử Tức:**
 - Cha mẹ và con cái dễ **KHẮC KHẨU, CÃI VÃ**
 - Xuất phát điểm thường từ sự **KHẮT KHE trong việc dạy con**
-- Trường hợp xấu: xảy ra **TRANH TỤNG VỚI CON CÁI**
-
-⚠️ **+ cung Phối xấu:** có thể là **TRANH GIÀNH QUYỀN NUÔI CON** giữa hai vợ chồng
-khi ly hôn.`,
+- Trường hợp xấu: xảy ra **TRANH TỤNG VỚI CON CÁI**`,
   },
 
   {
@@ -304,10 +421,19 @@ pháp.
 ⚠️ **Đời sống hôn nhân:**
 - Vợ chồng dễ **BẤT HÒA, CÃI NHAU**
 - Cả hai đều có tính **KHẮT KHE, HAY SOI XÉT** lẫn nhau
-- Cần **TIẾT CHẾ** để tránh các tình huống không mong muốn
+- Cần **TIẾT CHẾ** để tránh các tình huống không mong muốn`,
+  },
 
-⚠️ **+ Nhiều Sát Bại Tinh:** Quan Phù mang ý nghĩa như một **"QUAN TÒA"** —
-nơi hai người **ĐỆ ĐƠN LY DỊ**, đưa nhau **RA TÒA giải quyết**.`,
+  {
+    id: 'quan-phu-tt-tai-phu-the-sat-bai',
+    title: 'Quan Phù + Sát Bại tinh tại Phu Thê - ly dị ra tòa',
+    sao: ['Quan Phù'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quan Phù + Sát Bại Tinh (Lục Sát) tại Phu Thê:** Quan Phù mang
+ý nghĩa như một **"QUAN TÒA"** — nơi hai người **ĐỆ ĐƠN LY DỊ**, đưa nhau **RA
+TÒA giải quyết**.`,
   },
 
   {
@@ -451,12 +577,8 @@ cả Quan Phù VÀ Quan Phủ + bộ sao này → **CỰC KỲ NGUY HIỂM**.`,
     tomTat: `⚠️ **Tiểu hạn 1 năm có Quan Phù + Sát Bại Tinh:** dễ gặp **KIỆN TỤNG, CẠNH
 TRANH, CÃI VÃ**.
 
-⚡ **Kết quả thắng - bại phụ thuộc sao đi cùng:**
-
-🌟 **+ Khôi Việt:** **THẮNG KIỆN** — quý nhân hỗ trợ, công lý đứng về phía mình.
-
-⚠️ **+ Cung TUYỆT (vị trí 12 vòng Tràng Sinh):** **THẤT BẠI** — vận trình suy
-kiệt, không còn sức chống đỡ.
+⚡ **Kết quả thắng - bại phụ thuộc sao đi cùng** — xem entry chuyên biệt theo
+sao đi kèm.
 
 🌟 **Mặt khác:** đây cũng là một năm bản thân chủ mệnh có **NHIỀU SUY TÍNH CẨN
 TRỌNG**, dễ **đạt được THÀNH TỰU** nếu:
@@ -466,6 +588,16 @@ TRỌNG**, dễ **đạt được THÀNH TỰU** nếu:
 
 💡 **Lời khuyên hạn:** dù thắng hay thua trong kiện tụng đều **MỆT MỎI** —
 **TRÁNH** kiện cáo nếu có thể.`,
+  },
+
+  {
+    id: 'quan-phu-tt-tieu-han-khoi-viet',
+    title: 'Quan Phù tiểu hạn + Khôi Việt - thắng kiện',
+    sao: ['Quan Phù'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 50,
+    tomTat: `🌟 **Quan Phù tiểu hạn + Thiên Khôi / Thiên Việt:** **THẮNG KIỆN**
+— quý nhân hỗ trợ, công lý đứng về phía mình.`,
   },
 
   {

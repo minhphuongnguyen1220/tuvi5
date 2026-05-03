@@ -114,11 +114,37 @@ chồng, kỵ cha.
 ⚡ **Sát tinh hội:**
 - Cha mẹ tình cảm **LẠNH NHẠT**, dễ **BẤT HÒA, CHIA LY**
 - Cha mẹ cô độc, hay buồn phiền
-- Con cái sớm phải **TỰ LỰC CÁNH SINH**
+- Con cái sớm phải **TỰ LỰC CÁNH SINH**`,
+  },
 
-⚠️ **+ Tuần Triệt:** một bên cha hoặc mẹ **YỂU MỆNH**.
+  {
+    id: 'qua-tu-tai-phu-mau-tuan',
+    title: '⚠️ Quả Tú + Tuần tại Phụ Mẫu - cha hoặc mẹ yểu mệnh',
+    sao: ['Quả Tú'],
+    ketHop: ['Tuần'],
+    cung: ['Phụ Mẫu'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quả Tú + Tuần tại Phụ Mẫu:** một bên cha hoặc mẹ **YỂU MỆNH**.`,
+  },
 
-⚠️ **+ Không Kiếp + Đại Hao:**
+  {
+    id: 'qua-tu-tai-phu-mau-triet',
+    title: '⚠️ Quả Tú + Triệt tại Phụ Mẫu - cha hoặc mẹ yểu mệnh',
+    sao: ['Quả Tú'],
+    ketHop: ['Triệt'],
+    cung: ['Phụ Mẫu'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quả Tú + Triệt tại Phụ Mẫu:** một bên cha hoặc mẹ **YỂU MỆNH**.`,
+  },
+
+  {
+    id: 'qua-tu-tai-phu-mau-khong-kiep-dai-hao',
+    title: '⚠️ Quả Tú + Không Kiếp + Đại Hao tại Phụ Mẫu - phúc ấm suy giảm',
+    sao: ['Quả Tú'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Đại Hao'],
+    cung: ['Phụ Mẫu'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Quả Tú + Địa Không + Địa Kiếp + Đại Hao tại Phụ Mẫu:**
 - Phúc ấm **SUY GIẢM**
 - "Đời cha ăn mặn, con khát nước"
 - Con cái phải chịu hệ lụy`,
@@ -141,9 +167,29 @@ chồng, kỵ cha.
 
 ⚠️ **Sát tinh hội:**
 - Gia tộc **PHÂN TÁN**, mồ mả không tụ
-- Con cháu **THA HƯƠNG**
+- Con cháu **THA HƯƠNG**`,
+  },
 
-⚠️ **+ Không Kiếp + Tuần Triệt:**
+  {
+    id: 'qua-tu-tai-phuc-duc-khong-kiep-tuan',
+    title: '⚠️ Quả Tú + Không Kiếp + Tuần tại Phúc Đức - tuyệt tự',
+    sao: ['Quả Tú'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Tuần'],
+    cung: ['Phúc Đức'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Quả Tú + Địa Không + Địa Kiếp + Tuần tại Phúc Đức:**
+- Phúc mỏng, thọ yếu
+- Có nguy cơ **TUYỆT TỰ**`,
+  },
+
+  {
+    id: 'qua-tu-tai-phuc-duc-khong-kiep-triet',
+    title: '⚠️ Quả Tú + Không Kiếp + Triệt tại Phúc Đức - tuyệt tự',
+    sao: ['Quả Tú'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Triệt'],
+    cung: ['Phúc Đức'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Quả Tú + Địa Không + Địa Kiếp + Triệt tại Phúc Đức:**
 - Phúc mỏng, thọ yếu
 - Có nguy cơ **TUYỆT TỰ**`,
   },

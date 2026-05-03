@@ -83,8 +83,8 @@ mỹ thuật, âm nhạc và nhiều lĩnh vực khác.
 ## Công danh tài lộc
 
 **Văn Khúc đắc địa:** bộ sao **phú quý, hiển đạt, phúc thọ rất có giá trị**.
-- **+ Lộc Tồn:** tài năng **xuất chúng**
-- **+ Vũ Khúc:** tài năng kiêm nhiếp **văn võ**, có **uy danh lừng lẫy** và giàu sang
+- Khi có **Lộc Tồn:** tài năng **xuất chúng**
+- Khi có **Vũ Khúc:** tài năng kiêm nhiếp **văn võ**, có **uy danh lừng lẫy** và giàu sang
 
 **Giáp Mệnh** cũng tốt — nhưng đắc thời nhờ **hoàn cảnh bên ngoài** nhiều hơn
 là tài năng của chính mình.
@@ -130,16 +130,88 @@ là tài năng của chính mình.
     title: 'Văn Khúc - Bộ sao TỐT',
     sao: ['Văn Khúc'],
     doUuTien: 50,
-    tomTat: `**Bộ sao tốt của Văn Khúc:**
+    tomTat: `**Bộ sao tốt của Văn Khúc** — xem chi tiết các entry chuyên biệt
+cho từng cách kết hợp.`,
+  },
 
-- **+ Hóa Khoa:** **thi đỗ dễ và cao**, có **văn bằng cao**
-- **+ Hóa Khoa + Khôi Việt:** **khoa giáp tột đỉnh**, thông minh xuất chúng,
-  được trọng dụng đắc thời. **+ Nhật Nguyệt sáng:** tài năng đạt **mức quốc tế**
-- **+ Thái Dương sáng:** **lịch duyệt, học rộng, biết nhiều**
-- **+ Thiên Lương:** **quý hiển, có uy danh lớn**
-- **+ Thiên Cơ:** **khéo léo, tinh xảo về thủ công và ngôn ngữ**
-- **+ Vũ Khúc** (cách "Lưỡng Khúc"): tài năng **văn võ**, lừng lẫy. **+ Tả Hữu:**
-  **phú quý song toàn**, hiển vinh về võ`,
+  {
+    id: 'van-khuc-hoa-khoa',
+    title: 'Văn Khúc + Hóa Khoa - thi đỗ cao',
+    sao: ['Văn Khúc'],
+    ketHop: ['Hóa Khoa'],
+    doUuTien: 45,
+    tomTat: `🌟 **Văn Khúc + Hóa Khoa:** **thi đỗ dễ và cao**, có **văn bằng cao**.`,
+  },
+
+  {
+    id: 'van-khuc-hoa-khoa-khoi-viet',
+    title: 'Văn Khúc + Hóa Khoa + Khôi Việt - khoa giáp tột đỉnh',
+    sao: ['Văn Khúc'],
+    ketHop: ['Hóa Khoa', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 45,
+    tomTat: `🌟 **Văn Khúc + Hóa Khoa + Thiên Khôi + Thiên Việt:** **khoa giáp
+tột đỉnh**, thông minh xuất chúng, được trọng dụng đắc thời.`,
+  },
+
+  {
+    id: 'van-khuc-hoa-khoa-khoi-viet-nhat-nguyet',
+    title: 'Văn Khúc + Hóa Khoa + Khôi Việt + Nhật Nguyệt sáng - tầm quốc tế',
+    sao: ['Văn Khúc'],
+    ketHop: ['Hóa Khoa', 'Thiên Khôi', 'Thiên Việt', 'Thái Dương', 'Thái Âm'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 45,
+    tomTat: `🌟 **Văn Khúc + Hóa Khoa + Khôi Việt + Nhật Nguyệt sáng:** tài năng
+đạt **mức quốc tế**.`,
+  },
+
+  {
+    id: 'van-khuc-thai-duong-sang',
+    title: 'Văn Khúc + Thái Dương sáng - lịch duyệt học rộng',
+    sao: ['Văn Khúc'],
+    ketHop: ['Thái Dương'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 45,
+    tomTat: `🌟 **Văn Khúc + Thái Dương sáng:** **lịch duyệt, học rộng, biết
+nhiều**.`,
+  },
+
+  {
+    id: 'van-khuc-thien-luong',
+    title: 'Văn Khúc + Thiên Lương - quý hiển uy danh',
+    sao: ['Văn Khúc'],
+    ketHop: ['Thiên Lương'],
+    doUuTien: 45,
+    tomTat: `🌟 **Văn Khúc + Thiên Lương:** **quý hiển, có uy danh lớn**.`,
+  },
+
+  {
+    id: 'van-khuc-thien-co',
+    title: 'Văn Khúc + Thiên Cơ - khéo léo thủ công',
+    sao: ['Văn Khúc'],
+    ketHop: ['Thiên Cơ'],
+    doUuTien: 45,
+    tomTat: `🌟 **Văn Khúc + Thiên Cơ:** **khéo léo, tinh xảo về thủ công và
+ngôn ngữ**.`,
+  },
+
+  {
+    id: 'van-khuc-vu-khuc-luong-khuc',
+    title: 'Văn Khúc + Vũ Khúc - cách "Lưỡng Khúc" văn võ',
+    sao: ['Văn Khúc'],
+    ketHop: ['Vũ Khúc'],
+    doUuTien: 45,
+    tomTat: `🌟 **Văn Khúc + Vũ Khúc** (cách **"Lưỡng Khúc"**): tài năng **văn
+võ**, lừng lẫy.`,
+  },
+
+  {
+    id: 'van-khuc-vu-khuc-ta-huu',
+    title: 'Văn Khúc + Vũ Khúc + Tả Phù / Hữu Bật - phú quý song toàn',
+    sao: ['Văn Khúc'],
+    ketHop: ['Vũ Khúc', 'Tả Phù', 'Hữu Bật'],
+    doUuTien: 45,
+    tomTat: `🌟 **Văn Khúc + Vũ Khúc + Tả Phù / Hữu Bật:** **phú quý song toàn**,
+hiển vinh về võ.`,
   },
 
   // ============================================================
@@ -150,13 +222,59 @@ là tài năng của chính mình.
     title: 'Văn Khúc - Bộ sao XẤU',
     sao: ['Văn Khúc'],
     doUuTien: 50,
-    tomTat: `⚠️ **Bộ sao xấu của Văn Khúc:**
+    tomTat: `⚠️ **Bộ sao xấu của Văn Khúc** — xem chi tiết các entry chuyên
+biệt cho từng cách kết hợp.`,
+  },
 
-- **+ Liêm Trinh ở Sửu/Mùi/Tỵ/Hợi/Mão/Dậu:** **giảm thọ**. Đặc biệt **Tỵ Hợi** —
-  hay **tai họa, tù tội, yểu tử**
-- **+ Tuần Triệt / Hóa Kỵ / Phá Quân đồng cung:** thi cử **lận đận, dang dở,
-  gián đoạn**, công danh chật vật, phải tha phương, bị tù tội, **yểu tử**
-- **+ Thiên Riêu:** **lãng mạn, rất xinh đẹp** (đào hoa quá mức, lụy tình)`,
+  {
+    id: 'van-khuc-liem-trinh-suu-mui-mao-dau',
+    title: 'Văn Khúc + Liêm Trinh tại Sửu/Mùi/Mão/Dậu - giảm thọ',
+    sao: ['Văn Khúc'],
+    ketHop: ['Liêm Trinh'],
+    chi: ['Sửu', 'Mùi', 'Mão', 'Dậu'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Văn Khúc + Liêm Trinh tại Sửu / Mùi / Mão / Dậu:** **giảm
+thọ**.`,
+  },
+
+  {
+    id: 'van-khuc-tuan-triet',
+    title: 'Văn Khúc + Tuần / Triệt - thi cử lận đận',
+    sao: ['Văn Khúc'],
+    ketHop: ['Tuần', 'Triệt'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Văn Khúc + Tuần / Triệt:** thi cử **lận đận, dang dở, gián
+đoạn**, công danh chật vật, phải tha phương, bị tù tội, **yểu tử**.`,
+  },
+
+  {
+    id: 'van-khuc-hoa-ky',
+    title: 'Văn Khúc + Hóa Kỵ - thi cử lận đận',
+    sao: ['Văn Khúc'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Văn Khúc + Hóa Kỵ:** thi cử **lận đận, dang dở, gián đoạn**,
+công danh chật vật, phải tha phương, bị tù tội, **yểu tử**.`,
+  },
+
+  {
+    id: 'van-khuc-pha-quan',
+    title: 'Văn Khúc + Phá Quân đồng cung - thi cử lận đận',
+    sao: ['Văn Khúc'],
+    ketHop: ['Phá Quân'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Văn Khúc + Phá Quân đồng cung:** thi cử **lận đận, dang dở,
+gián đoạn**, công danh chật vật, phải tha phương, bị tù tội, **yểu tử**.`,
+  },
+
+  {
+    id: 'van-khuc-thien-rieu',
+    title: 'Văn Khúc + Thiên Riêu - đào hoa lụy tình',
+    sao: ['Văn Khúc'],
+    ketHop: ['Thiên Riêu'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Văn Khúc + Thiên Riêu:** **lãng mạn, rất xinh đẹp** (đào hoa
+quá mức, lụy tình).`,
   },
 
   // ============================================================
@@ -173,7 +291,6 @@ giáp Mệnh, hoặc hội chiếu).
 **Khoa giáp tột đỉnh** khi đi với:
 - **Hóa Khoa + Thiên Khôi + Thiên Việt:** thông minh xuất chúng, có **tài thao
   lược**, được trọng dụng đắc thời
-- **+ Nhật Nguyệt sáng:** tài năng đạt **mức QUỐC TẾ**, dễ **nổi danh**
 
 **Đi cùng Vũ Khúc** = cách **"Lưỡng Khúc"** — văn võ song toàn:
 - Có **quyền uy, quyết đoán**
@@ -181,6 +298,17 @@ giáp Mệnh, hoặc hội chiếu).
 
 ⚠️ Dù Nhật Nguyệt hãm địa, **Xương Khúc vẫn giúp thành công sớm** nhờ thông minh
 và chăm chỉ.`,
+  },
+
+  {
+    id: 'xuong-khuc-nhat-nguyet-sang',
+    title: 'Xương Khúc + Nhật Nguyệt sáng - tài năng quốc tế',
+    sao: ['Văn Khúc', 'Văn Xương'],
+    ketHop: ['Thái Dương', 'Thái Âm'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    doUuTien: 55,
+    tomTat: `🌟 **Xương Khúc + Nhật Nguyệt sáng:** tài năng đạt **mức QUỐC TẾ**,
+dễ **nổi danh**.`,
   },
 
   // ============================================================
@@ -211,10 +339,55 @@ cha mẹ, có **điều kiện thuận lợi để học tập và rèn luyện*
     tomTat: `🌟 **Văn Khúc tại Phúc Đức:** gia tộc có **truyền thống hiếu học**,
 nhiều người **đỗ đạt cao, có bằng cấp**.
 
-Đương số thừa hưởng **khả năng nghiên cứu, tinh thần ham học** của dòng họ.
+Đương số thừa hưởng **khả năng nghiên cứu, tinh thần ham học** của dòng họ.`,
+  },
 
-🌟 **+ Văn Xương / Hóa Khoa / Khôi Việt / Quốc Ấn:** nền tảng và phúc phần càng
-**dồi dào**. Tổ tiên có **"mồ yên mả đẹp"**, trên mộ thường có **câu đối, câu thơ**.`,
+  {
+    id: 'van-khuc-tai-phuc-duc-van-xuong',
+    title: 'Văn Khúc + Văn Xương tại Phúc Đức - phúc phần dồi dào',
+    sao: ['Văn Khúc'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 73,
+    tomTat: `🌟 **Văn Khúc + Văn Xương tại Phúc Đức:** nền tảng và phúc phần
+càng **dồi dào**. Tổ tiên có **"mồ yên mả đẹp"**, trên mộ thường có **câu đối,
+câu thơ**.`,
+  },
+
+  {
+    id: 'van-khuc-tai-phuc-duc-hoa-khoa',
+    title: 'Văn Khúc + Hóa Khoa tại Phúc Đức - phúc phần dồi dào',
+    sao: ['Văn Khúc'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hóa Khoa'],
+    doUuTien: 73,
+    tomTat: `🌟 **Văn Khúc + Hóa Khoa tại Phúc Đức:** nền tảng và phúc phần càng
+**dồi dào**. Tổ tiên có **"mồ yên mả đẹp"**, trên mộ thường có **câu đối, câu
+thơ**.`,
+  },
+
+  {
+    id: 'van-khuc-tai-phuc-duc-khoi-viet',
+    title: 'Văn Khúc + Thiên Khôi / Thiên Việt tại Phúc Đức - phúc phần dồi dào',
+    sao: ['Văn Khúc'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Văn Khúc + Thiên Khôi / Thiên Việt tại Phúc Đức:** nền tảng và
+phúc phần càng **dồi dào**. Tổ tiên có **"mồ yên mả đẹp"**, trên mộ thường có
+**câu đối, câu thơ**.`,
+  },
+
+  {
+    id: 'van-khuc-tai-phuc-duc-quoc-an',
+    title: 'Văn Khúc + Quốc Ấn tại Phúc Đức - phúc phần dồi dào',
+    sao: ['Văn Khúc'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Quốc Ấn'],
+    doUuTien: 73,
+    tomTat: `🌟 **Văn Khúc + Quốc Ấn tại Phúc Đức:** nền tảng và phúc phần càng
+**dồi dào**. Tổ tiên có **"mồ yên mả đẹp"**, trên mộ thường có **câu đối, câu
+thơ**.`,
   },
 
   // ============================================================
@@ -326,10 +499,29 @@ Biết **nghiên cứu sâu về tài chính**, có **kiến thức kinh tế á
     sao: ['Văn Khúc'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Văn Khúc tại Tử Tức:** đương số **có đông con**.
+    tomTat: `**Văn Khúc tại Tử Tức:** đương số **có đông con**.`,
+  },
 
-🌟 **+ Văn Xương / Khôi Việt:** con cái **thông minh, chăm chỉ**, có năng khiếu
-về **học tập và nghệ thuật**.`,
+  {
+    id: 'van-khuc-tai-tu-tuc-van-xuong',
+    title: 'Văn Khúc + Văn Xương tại Tử Tức - con cái thông minh',
+    sao: ['Văn Khúc'],
+    cung: ['Tử Tức'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Văn Khúc + Văn Xương tại Tử Tức:** con cái **thông minh, chăm
+chỉ**, có năng khiếu về **học tập và nghệ thuật**.`,
+  },
+
+  {
+    id: 'van-khuc-tai-tu-tuc-khoi-viet',
+    title: 'Văn Khúc + Thiên Khôi / Thiên Việt tại Tử Tức - con cái thông minh',
+    sao: ['Văn Khúc'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Văn Khúc + Thiên Khôi / Thiên Việt tại Tử Tức:** con cái
+**thông minh, chăm chỉ**, có năng khiếu về **học tập và nghệ thuật**.`,
   },
 
   // ============================================================

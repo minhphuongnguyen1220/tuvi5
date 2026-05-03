@@ -898,9 +898,6 @@ Tất cả các sao đều sợ Hóa Kỵ, nhưng đặc biệt **3 sao kỵ Hó
 **Đôi bàn tay khéo léo, đa tài đa nghệ.** Thiên Cơ tượng trưng cho **máy móc**
 → rất có duyên với **kỹ thuật, IT, công nghệ cao**.
 
-✅ **+ Đào Hoa, Hồng Loan:** nét khéo tay phát huy theo hướng **kiến trúc,
-thiết kế, thủ công mỹ nghệ**.
-
 ✅ **Trọng đạo khiêm cung + tư duy logic:** giỏi vai trò **nghiên cứu, luật
 pháp** hoặc các lĩnh vực cần **sự cẩn trọng**.
 
@@ -943,6 +940,28 @@ Với bản tính **trọng đạo khiêm cung + tư duy logic**, đương số 
 
 Các vận hạn đi qua Thiên Cơ thường báo hiệu **sự đổi thay mạnh** — buộc bản
 mệnh phải **xoay chuyển kịp thời** để nắm lấy thời vận.`,
+  },
+
+  {
+    id: 'thien-co-tai-menh-dao-hoa-cong-nghe',
+    title: 'Thiên Cơ + Đào Hoa tại Mệnh - kiến trúc thiết kế',
+    sao: ['Thiên Cơ'],
+    ketHop: ['Đào Hoa'],
+    cung: ['Mệnh'],
+    doUuTien: 73,
+    tomTat: `✅ **Thiên Cơ + Đào Hoa tại Mệnh:** nét khéo tay phát huy theo hướng
+**kiến trúc, thiết kế, thủ công mỹ nghệ**.`,
+  },
+
+  {
+    id: 'thien-co-tai-menh-hong-loan-cong-nghe',
+    title: 'Thiên Cơ + Hồng Loan tại Mệnh - kiến trúc thiết kế',
+    sao: ['Thiên Cơ'],
+    ketHop: ['Hồng Loan'],
+    cung: ['Mệnh'],
+    doUuTien: 73,
+    tomTat: `✅ **Thiên Cơ + Hồng Loan tại Mệnh:** nét khéo tay phát huy theo
+hướng **kiến trúc, thiết kế, thủ công mỹ nghệ**.`,
   },
 
   // ============================================================
@@ -1791,7 +1810,6 @@ hưởng tinh thần.
 ⚠️ **Hãm địa:** càng dễ rơi vào **tiến thoái lưỡng nan** do suy nghĩ, lo lắng
 **thái quá**.
 
-⚠️ **+ Kình Dương + Đà La đồng hợp:** càng dễ **tự rước chuyện buồn phiền**.
 ⚠️ **Bị Hỏa Tinh + Linh Tinh giáp cung:** **thân tâm vất vả**, không yên ổn.`,
 
     chiTiet: `## Đặc điểm chung
@@ -1814,6 +1832,17 @@ Khi có **Kình Dương + Đà La đồng hợp**:
 **Bị Hỏa Tinh + Linh Tinh giáp cung:**
 - Chủ về **thân tâm vất vả**
 - **Không được yên ổn**`,
+  },
+
+  {
+    id: 'thien-co-tai-phuc-duc-kinh-da',
+    title: '⚠️ Thiên Cơ + Kình Dương + Đà La tại Phúc Đức - tự rước buồn phiền',
+    sao: ['Thiên Cơ'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    cung: ['Phúc Đức'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Thiên Cơ + Kình Dương + Đà La đồng hợp tại Phúc Đức:** càng
+dễ **tự rước chuyện buồn phiền**.`,
   },
 
   // ============================================================

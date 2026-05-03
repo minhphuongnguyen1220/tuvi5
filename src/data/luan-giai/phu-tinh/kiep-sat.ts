@@ -134,12 +134,12 @@ thành **dao kéo cứu người, làm đẹp**.
 ⚡ **Nghề nghiệp cha mẹ:**
 - Cha mẹ dễ làm nghề liên quan **DAO KÉO, MỔ XẺ, SĂN BẮN**
 
-🌟 **+ Cát Tinh + Phúc Thiện Tinh:**
+🌟 Khi có thêm **Cát Tinh / Phúc Thiện Tinh**:
 - Cha mẹ dễ có người làm nghề:
   - **Y SỸ, THẦY THUỐC, CHÂM CỨU**
 - Tính tình **NGHIÊM KHẮC nhưng NHÂN HẬU**
 
-⚠️ **+ Sát Bại Tinh:**
+⚠️ Khi có thêm **Sát Bại Tinh**:
 - **GIẢM THỌ** cha mẹ
 - Cha mẹ hay **ỐM ĐAU, MỔ XẺ NHIỀU**
 - Có người làm nghề **ĐỒ TỂ**, hay phải **GIẾT MỔ**`,
@@ -159,9 +159,17 @@ thành **dao kéo cứu người, làm đẹp**.
 - Vẫn còn **NGHIỆP SÁT SINH lớn từ tổ tiên** để lại
 - Tới đời mình **PHẢI GÁNH**
 - Hay dính **MỔ XẺ, HÌNH THƯƠNG**
-- Ông bà cụ kị ngày xưa có người **làm GIẾT MỔ NHIỀU QUÁ**, để lại **NGHIỆP**
+- Ông bà cụ kị ngày xưa có người **làm GIẾT MỔ NHIỀU QUÁ**, để lại **NGHIỆP**`,
+  },
 
-🌟 **+ Tử Phủ Đồng Lương + Quang Quý + Bác Sỹ + Riêu Y:**
+  {
+    id: 'kiep-sat-tai-phuc-duc-y-truyen-thua',
+    title: 'Kiếp Sát + Tử Phủ Đồng Lương + Quang Quý + Bác Sỹ + Riêu Y tại Phúc Đức - dòng họ thầy thuốc',
+    sao: ['Kiếp Sát'],
+    ketHop: ['Tử Vi', 'Thiên Phủ', 'Thiên Đồng', 'Thiên Lương', 'Ân Quang', 'Thiên Quý', 'Bác Sĩ', 'Thiên Riêu', 'Thiên Y'],
+    cung: ['Phúc Đức'],
+    doUuTien: 73,
+    tomTat: `🌟 **Kiếp Sát + Tử Phủ Đồng Lương + Quang Quý + Bác Sỹ + Riêu Y tại Phúc Đức:**
 - Ông bà cụ kị ngày xưa có người **làm THẦY THUỐC CHÂM CỨU GIỎI**
 - **Truyền thừa** tới con cháu ngày nay
 - Trong họ có người **làm nghề Y, CHỮA BỆNH cứu người**
@@ -210,14 +218,14 @@ gia chủ**.
 
 ⚡ **Nghề liên quan dao kéo, súng đạn:**
 
-🌟 **+ Cát Tinh:** dễ làm nghề:
+🌟 Khi có thêm **Cát Tinh**: dễ làm nghề:
 - **BÁC SỸ**
 - **QUÂN ĐỘI, CÔNG AN**
 - Phẫu thuật, châm cứu
 - Khí chất **CƯƠNG NGHỊ, CHÍNH TRỰC** → được cấp trên tin tưởng giao **trọng
   trách lớn**
 
-⚠️ **+ Nhiều Sát Bại Tinh:**
+⚠️ Khi có thêm nhiều **Sát Bại Tinh**:
 - **CẢN TRỞ công danh**
 - Dễ làm **NGHỀ TAY CHÂN**:
   - **CẮT TÓC**
@@ -235,16 +243,24 @@ gia chủ**.
 - Bạn bè **NÓNG TÍNH, HUNG TỢN**
 - Dễ dính **BẤT ĐỒNG, ĐÁNH NHAU**
 
-⚠️ **+ Tả Hữu + Phục Binh + Không Kiếp:**
-- Bạn bè **XẤU**
-- Dễ bị **ÁM HẠI THEO NHÓM, SỐ ĐÔNG**
-- Bị bạn bè **GANH GHÉT, ĐÂM SAU LƯNG**
-- Thậm chí **LÔI KÉO vào VÒNG LAO LÝ**
-
-🌟 **+ Cát Tinh:**
+🌟 Khi có thêm **Cát Tinh**:
 - Bạn bè, đồng nghiệp **CÁ TÍNH MẠNH, NÓNG NẢY** nhưng **CƯƠNG TRỰC**
 - Mang đến **CƠ HỘI NGHỀ NGHIỆP**
 - Sẵn sàng **HỖ TRỢ** khi đương số gặp khó khăn`,
+  },
+
+  {
+    id: 'kiep-sat-tai-no-boc-ta-huu-phuc-binh-khong-kiep',
+    title: 'Kiếp Sát + Tả Hữu + Phục Binh + Không Kiếp tại Nô Bộc - bạn bè xấu ám hại',
+    sao: ['Kiếp Sát'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Phục Binh', 'Địa Không', 'Địa Kiếp'],
+    cung: ['Nô Bộc'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Kiếp Sát + Tả Hữu + Phục Binh + Không Kiếp tại Nô Bộc:**
+- Bạn bè **XẤU**
+- Dễ bị **ÁM HẠI THEO NHÓM, SỐ ĐÔNG**
+- Bị bạn bè **GANH GHÉT, ĐÂM SAU LƯNG**
+- Thậm chí **LÔI KÉO vào VÒNG LAO LÝ**`,
   },
 
   {
@@ -263,7 +279,7 @@ gia chủ**.
 - Dễ **CHẾT ĐƯỜNG CHẾT CHỢ**
 - Đặc biệt khi đi xa, phiêu bạt
 
-🌟 **+ Nhiều Cát Tinh hội chiếu:** có thể **CỨU GIẢI BỚT**:
+🌟 Khi có thêm nhiều **Cát Tinh** hội chiếu: có thể **CỨU GIẢI BỚT**:
 - Có **QUÝ NHÂN trợ giúp**
 - **Hóa giải hiểm nguy**
 - Sự **QUYẾT LIỆT** trong tính cách giúp dễ **lập công danh** trong môi trường
@@ -284,7 +300,7 @@ gia chủ**.
 ⚠️ **Tuổi thọ:** có thể bị **rút ngắn** do nghiệp sát nặng — cuộc đời nhiều lần
 "**THẬP TỬ NHẤT SINH**".
 
-🌟 **+ Cát Tinh hóa giải:**
+🌟 Khi có thêm **Cát Tinh** hóa giải:
 - "**BIẾN NGUY THÀNH AN**"
 - Tuy hay dính dao kéo, mổ xẻ nhưng được **gặp thầy giỏi, thuốc hay**
 - Tai qua nạn khỏi
@@ -320,12 +336,12 @@ gia chủ**.
 
 ⚡ **Nghề kiếm tiền liên quan dao kéo, giết mổ:**
 
-🌟 **+ Phúc Thiện Tinh:** hành nghề:
+🌟 Khi có thêm **Phúc Thiện Tinh**: hành nghề:
 - **BÁC SỸ**
 - **BỘ ĐỘI, CÔNG AN**
 - Kiếm ra tiền chính đáng
 
-⚠️ **+ Sát Bại Tinh:**
+⚠️ Khi có thêm **Sát Bại Tinh**:
 - Có thể là người chuyên **ĐÒI NỢ THUÊ**
 - **ĐÂM THUÊ CHÉM MƯỚN** để có tiền
 - Làm điều **BẤT NHÂN** để kiếm tiền`,
@@ -341,8 +357,6 @@ gia chủ**.
 - **HAO HỤT, GIẢM SỐ LƯỢNG con cái**
 - Lúc sinh dễ **ĐẺ MỔ**
 
-⚠️ **+ Không Kiếp:** dễ **NẠO PHÁ THAI, SẢY THAI**.
-
 ⚠️ **Tính cách con cái:**
 - **NGỖ NGƯỢC, KHÓ BẢO**
 - Hay **NGHỊCH NGỢM, LEO TRÈO, ĐÁNH NHAU**
@@ -351,10 +365,20 @@ gia chủ**.
 ⚠️ **Tuyệt tự:** trường hợp xấu có thể **TUYỆT TỰ** hoặc phải **NHẬN CON NUÔI**
 mới có người nối dõi.
 
-🌟 **+ Cát Tinh:**
+🌟 Khi có thêm **Cát Tinh**:
 - Tuy sinh nở khó khăn nhưng con cái lớn lên **KHỎE MẠNH, CỨNG CỎI**
 - Có **CHÍ TIẾN THỦ**
 - **CÁ TÍNH MẠNH**, **HIẾU KÍNH** cha mẹ`,
+  },
+
+  {
+    id: 'kiep-sat-tai-tu-tuc-khong-kiep',
+    title: 'Kiếp Sát + Địa Không + Địa Kiếp tại Tử Tức - nạo phá thai sảy thai',
+    sao: ['Kiếp Sát'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    cung: ['Tử Tức'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Kiếp Sát + Địa Không + Địa Kiếp tại Tử Tức:** dễ **NẠO PHÁ THAI, SẢY THAI**.`,
   },
 
   {
@@ -376,7 +400,7 @@ mới có người nối dõi.
 - **CẮT TÓC**
 → **HỢP CÁCH**, **GIẢM CHẾ được nạn HÌNH THƯƠNG**
 
-🌟 **+ Cát Tinh:**
+🌟 Khi có thêm **Cát Tinh**:
 - Người hôn phối **CÁ TÍNH MẠNH**, đôi lúc nóng nảy nhưng biết lo toan cho gia
   đình
 - Hôn nhân dù căng thẳng nhưng **vẫn duy trì gắn bó**
@@ -395,7 +419,7 @@ mới có người nối dõi.
 - Hay bị **HÌNH THƯƠNG, TAI NẠN MỔ XẺ**
 - Có thể có người **ĐOẢN MỆNH**, sống xa cách
 
-🌟 **+ Cát Tinh:**
+🌟 Khi có thêm **Cát Tinh**:
 - Dù có va chạm nhỏ vẫn giữ được **SỰ GẮN BÓ, NƯƠNG TỰA** lẫn nhau
 - Tính tình **CỨNG RẮN, NHIỀU LÚC NÓNG NẢY** nhưng **TRUNG THỰC, THẲNG THẮN**
 - Có **CHÍ TIẾN THỦ**`,

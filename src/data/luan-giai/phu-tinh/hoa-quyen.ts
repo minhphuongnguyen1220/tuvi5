@@ -151,16 +151,34 @@ hoặc **tai nạn do liều lĩnh**. Cần **tu dưỡng tinh thần lạc quan
     doUuTien: 55,
     tomTat: `**Bộ sao tốt của Hóa Quyền** (ngoài bộ Tam Hóa đã có ở Hóa Lộc):
 
-🌟 **+ Tử Vi + Thiên Phủ:** uy quyền **quan chức lớn**, có **uy tín, hậu thuẫn**
-lớn → đứng đầu tập thể, lãnh đạo một vùng / tổ chức / lĩnh vực.
+(Xem entry chuyên biệt theo từng bộ kết hợp.)`,
+  },
 
-🌟 **+ Cự Môn + Vũ Khúc:** **quyền hành thực tế** — làm đến đâu chắc đến đó,
-**có thực quyền** chứ không hư danh, công danh **hiển đạt**.
+  {
+    id: 'hoa-quyen-tu-vi-thien-phu',
+    title: 'Hóa Quyền + Tử Vi + Thiên Phủ - quan chức lớn',
+    sao: ['Hóa Quyền'],
+    ketHop: ['Tử Vi', 'Thiên Phủ'],
+    doUuTien: 50,
+    tomTat: `🌟 **Hóa Quyền + Tử Vi + Thiên Phủ:** uy quyền **quan chức lớn**, có **uy tín, hậu thuẫn** lớn → đứng đầu tập thể, lãnh đạo một vùng / tổ chức / lĩnh vực.`,
+  },
 
-🌟 **+ Thiên Khốc tại Tý / Ngọ:** **UY DANH LỪNG LẪY** — phú quý lâu dài, **danh
-lưu hậu thế**.
+  {
+    id: 'hoa-quyen-cu-mon-vu-khuc',
+    title: 'Hóa Quyền + Cự Môn + Vũ Khúc - thực quyền hiển đạt',
+    sao: ['Hóa Quyền'],
+    ketHop: ['Cự Môn', 'Vũ Khúc'],
+    doUuTien: 50,
+    tomTat: `🌟 **Hóa Quyền + Cự Môn + Vũ Khúc:** **quyền hành thực tế** — làm đến đâu chắc đến đó, **có thực quyền** chứ không hư danh, công danh **hiển đạt**.`,
+  },
 
-🌟 **+ Thất Sát:** uy quyền, nhiều người **nể sợ**.`,
+  {
+    id: 'hoa-quyen-that-sat',
+    title: 'Hóa Quyền + Thất Sát - uy quyền nể sợ',
+    sao: ['Hóa Quyền'],
+    ketHop: ['Thất Sát'],
+    doUuTien: 50,
+    tomTat: `🌟 **Hóa Quyền + Thất Sát:** uy quyền, nhiều người **nể sợ**.`,
   },
 
   // ============================================================
@@ -171,15 +189,45 @@ lưu hậu thế**.
     title: '⚠️ Hóa Quyền - Bộ sao XẤU',
     sao: ['Hóa Quyền'],
     doUuTien: 55,
-    tomTat: `⚠️ **Hóa Quyền RẤT KỴ sát tinh hãm địa:**
+    tomTat: `⚠️ **Hóa Quyền RẤT KỴ sát tinh hãm địa.**
 
-- **+ Không Kiếp:** uy quyền **KHÔNG BỀN**, **bị lụy bị hại vì quyền hành**,
-  dùng quyền làm việc ác, **lạm dụng bạo quyền**, "**cậy quyền cậy thế**"
-- **+ Tuần / Triệt:** công danh **trắc trở, thành ít bại nhiều** — chỉ có **HƯ
-  DANH, HƯ QUYỀN**, bị **cách chức, giáng chức**
-- **+ Hỏa Tinh / Thất Sát / Thiên Khốc / Thiên Hư:** **bắt nạt người khác**,
-  bị người dưới **khinh ghét, oán hận chống đối**
-- **+ Đại Hao + Thất Sát:** dễ **người dưới khinh ghét**`,
+(Xem entry chuyên biệt theo từng bộ kết hợp.)`,
+  },
+
+  {
+    id: 'hoa-quyen-khong-kiep',
+    title: 'Hóa Quyền + Không Kiếp - cậy quyền cậy thế',
+    sao: ['Hóa Quyền'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Quyền + Địa Không / Địa Kiếp:** uy quyền **KHÔNG BỀN**, **bị lụy bị hại vì quyền hành**, dùng quyền làm việc ác, **lạm dụng bạo quyền**, "**cậy quyền cậy thế**".`,
+  },
+
+  {
+    id: 'hoa-quyen-tuan-triet',
+    title: 'Hóa Quyền + Tuần / Triệt - hư danh hư quyền',
+    sao: ['Hóa Quyền'],
+    ketHop: ['Tuần', 'Triệt'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Quyền + Tuần / Triệt:** công danh **trắc trở, thành ít bại nhiều** — chỉ có **HƯ DANH, HƯ QUYỀN**, bị **cách chức, giáng chức**.`,
+  },
+
+  {
+    id: 'hoa-quyen-hoa-sat-khoc-hu',
+    title: 'Hóa Quyền + Hỏa / Sát / Khốc / Hư - bị khinh ghét',
+    sao: ['Hóa Quyền'],
+    ketHop: ['Hỏa Tinh', 'Thất Sát', 'Thiên Khốc', 'Thiên Hư'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Quyền + Hỏa Tinh / Thất Sát / Thiên Khốc / Thiên Hư:** **bắt nạt người khác**, bị người dưới **khinh ghét, oán hận chống đối**.`,
+  },
+
+  {
+    id: 'hoa-quyen-dai-hao-that-sat',
+    title: 'Hóa Quyền + Đại Hao + Thất Sát - người dưới khinh ghét',
+    sao: ['Hóa Quyền'],
+    ketHop: ['Đại Hao', 'Thất Sát'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Hóa Quyền + Đại Hao + Thất Sát:** dễ **người dưới khinh ghét**.`,
   },
 
   // ============================================================
@@ -212,9 +260,17 @@ lưu hậu thế**.
     doUuTien: 75,
     tomTat: `**Hóa Quyền tại Phụ Mẫu** — cha mẹ có ảnh hưởng / quyền uy lên con.
 
-🌟 **+ Thiên Khôi:** cha mẹ có **quyền hành lớn**.
-
 (Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-phu-mau-thien-khoi',
+    title: 'Hóa Quyền tại Phụ Mẫu + Thiên Khôi - quyền hành lớn',
+    sao: ['Hóa Quyền'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Khôi'],
+    doUuTien: 70,
+    tomTat: `🌟 **Hóa Quyền tại Phụ Mẫu + Thiên Khôi:** cha mẹ có **quyền hành lớn**.`,
   },
 
   {
@@ -261,12 +317,38 @@ người **có quyền chức, địa vị xã hội**.
 
 Mồ mả tổ tiên đặt tại **khu vực dành cho nhà quyền chức, khu VIP, uy nghiêm**.
 
-🌟 **+ Tham Lang:** dòng họ **tuổi thọ cao**, bản thân **tăng thọ trường**.
-🌟 **+ Hóa Khoa + Văn Xương + Văn Khúc:** **phát văn tài**, dòng dõi văn gia.
-🌟 **+ Ân Quang + Thiên Quý:** dòng họ **phú quý, công danh đại phát**.
-
 ⚠️ **Hãm địa:** dòng họ **tranh chấp nội bộ, mất tài sản, kiện tụng pháp lý**.
 Sức khỏe các thành viên kém. Mồ mả tổ tiên **bị xâm phạm**.`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-phuc-duc-tham-lang',
+    title: 'Hóa Quyền tại Phúc Đức + Tham Lang - tuổi thọ cao',
+    sao: ['Hóa Quyền'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Tham Lang'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Quyền tại Phúc Đức + Tham Lang:** dòng họ **tuổi thọ cao**, bản thân **tăng thọ trường**.`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-phuc-duc-khoa-xuong-khuc',
+    title: 'Hóa Quyền tại Phúc Đức + Khoa + Xương Khúc - phát văn tài',
+    sao: ['Hóa Quyền'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hóa Khoa', 'Văn Xương', 'Văn Khúc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Quyền tại Phúc Đức + Hóa Khoa + Văn Xương + Văn Khúc:** **phát văn tài**, dòng dõi văn gia.`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-phuc-duc-an-quang-thien-quy',
+    title: 'Hóa Quyền tại Phúc Đức + Ân Quang + Thiên Quý - đại phát',
+    sao: ['Hóa Quyền'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Ân Quang', 'Thiên Quý'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Quyền tại Phúc Đức + Ân Quang + Thiên Quý:** dòng họ **phú quý, công danh đại phát**.`,
   },
 
   // ============================================================
@@ -308,13 +390,47 @@ Hợp ngành: **công quyền, chính trị, quân đội, công an**.
 
 Ra ngoài **quyền uy**, về nhà **sợ vợ/chồng một phép**.
 
-🌟 **+ Hóa Lộc + Thiên Phủ + Vũ Khúc:** **ĐẠI QUÝ**.
-🌟 **+ Thất Sát:** uy quyền, nhiều người **nể sợ**.
-🌟 **+ Thiên Tướng / Thất Sát / Tham Lang:** gia tăng **quyền lực, sức mạnh
-lãnh đạo**, được cấp trên tín nhiệm.
-
-⚠️ **+ Đại Hao / Thất Sát / Thiên Khốc / Thiên Hư:** dễ bị **người dưới khinh ghét**.
 ⚠️ **Hãm địa + Kình Đà / Không Kiếp:** **mất chức**, **bị tiểu nhân hãm hại**.`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-quan-loc-loc-phu-vu',
+    title: 'Hóa Quyền tại Quan Lộc + Hóa Lộc + Thiên Phủ + Vũ Khúc - đại quý',
+    sao: ['Hóa Quyền'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hóa Lộc', 'Thiên Phủ', 'Vũ Khúc'],
+    doUuTien: 80,
+    tomTat: `🌟 **Hóa Quyền tại Quan Lộc + Hóa Lộc + Thiên Phủ + Vũ Khúc:** **ĐẠI QUÝ**.`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-quan-loc-that-sat',
+    title: 'Hóa Quyền tại Quan Lộc + Thất Sát - uy quyền nể sợ',
+    sao: ['Hóa Quyền'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thất Sát'],
+    doUuTien: 80,
+    tomTat: `🌟 **Hóa Quyền tại Quan Lộc + Thất Sát:** uy quyền, nhiều người **nể sợ**.`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-quan-loc-tuong-sat-tham',
+    title: 'Hóa Quyền tại Quan Lộc + Thiên Tướng / Thất Sát / Tham Lang - lãnh đạo',
+    sao: ['Hóa Quyền'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Tướng', 'Thất Sát', 'Tham Lang'],
+    doUuTien: 80,
+    tomTat: `🌟 **Hóa Quyền tại Quan Lộc + Thiên Tướng / Thất Sát / Tham Lang:** gia tăng **quyền lực, sức mạnh lãnh đạo**, được cấp trên tín nhiệm.`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-quan-loc-hao-sat-khoc-hu',
+    title: 'Hóa Quyền tại Quan Lộc + Hao / Sát / Khốc / Hư - người dưới khinh ghét',
+    sao: ['Hóa Quyền'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Đại Hao', 'Thất Sát', 'Thiên Khốc', 'Thiên Hư'],
+    doUuTien: 80,
+    tomTat: `⚠️ **Hóa Quyền tại Quan Lộc + Đại Hao / Thất Sát / Thiên Khốc / Thiên Hư:** dễ bị **người dưới khinh ghét**.`,
   },
 
   // ============================================================
@@ -378,12 +494,20 @@ lãnh đạo**, được cấp trên tín nhiệm.
 kính nể. Có **kỹ năng giao tiếp tốt**, dễ tạo dựng quan hệ → **bứt phá thành
 công nhanh chóng**.
 
-🌟 **+ Thiên Tướng / Thất Sát:** tăng **sức mạnh lãnh đạo, giải quyết khủng hoảng**.
-
 ⚠️ **Mặt trái:** hay **bị xã hội bên ngoài ảnh hưởng, chi phối, chỉ đạo**.
 
 ⚠️ **Hãm địa + Kình Đà / Không / Địa Kiếp:** **tranh chấp, kiện tụng, mâu thuẫn,
 hiểu lầm**, gặp **kẻ thù ngầm**.`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-thien-di-tuong-sat',
+    title: 'Hóa Quyền tại Thiên Di + Thiên Tướng / Thất Sát - sức mạnh lãnh đạo',
+    sao: ['Hóa Quyền'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thiên Tướng', 'Thất Sát'],
+    doUuTien: 73,
+    tomTat: `🌟 **Hóa Quyền tại Thiên Di + Thiên Tướng / Thất Sát:** tăng **sức mạnh lãnh đạo, giải quyết khủng hoảng**.`,
   },
 
   // ============================================================
@@ -460,7 +584,17 @@ người**.
 nghiệp**.
 
 ⚠️ **Hãm địa:** thất thoát tiền do **nóng nảy, độc đoán** → **kiện tụng tranh
-chấp**. **+ Kình Đà / Không Kiếp:** càng nguy hiểm.`,
+chấp**.`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-tai-bach-kinh-da-khong-kiep',
+    title: 'Hóa Quyền tại Tài Bạch + Kình Đà / Không Kiếp - càng nguy hiểm',
+    sao: ['Hóa Quyền'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 75,
+    tomTat: `⚠️ **Hóa Quyền tại Tài Bạch + Kình Dương / Đà La / Địa Không / Địa Kiếp:** thất thoát tiền do nóng nảy độc đoán → kiện tụng tranh chấp **càng nguy hiểm**.`,
   },
 
   // ============================================================
@@ -505,9 +639,18 @@ mẹ phải **nghe theo ý mình**.
 
 - Dễ **sinh con muộn / ít con / khó nuôi**
 - Quan hệ cha mẹ - con **xung đột do cái tôi mạnh** — mỗi bên muốn áp đặt
-  quan điểm
-- **+ Sát tinh:** con áp lực nặng, **tâm lý bất ổn**, bị **bóp nghẹt tự do
-  cá nhân** → cần "**mềm nắn rắn buông**"`,
+  quan điểm`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-tu-tuc-ham-sat-tinh',
+    title: 'Hóa Quyền Hãm tại Tử Tức + Sát tinh - con áp lực bất ổn',
+    sao: ['Hóa Quyền'],
+    cung: ['Tử Tức'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Hóa Quyền Hãm địa tại Tử Tức + Sát tinh:** con áp lực nặng, **tâm lý bất ổn**, bị **bóp nghẹt tự do cá nhân** → cần "**mềm nắn rắn buông**".`,
   },
 
   // ============================================================
@@ -551,8 +694,18 @@ Bạn đời tính **ham quyền lực, háo danh, thích chi phối điều khi
 
 - Kỳ vọng cao, **bất mãn**
 - Hôn nhân mâu thuẫn vì cả hai **đều muốn làm "thuyền trưởng"** → **tranh
-  quyền / ly thân / ly hôn**
-- **+ Không Kiếp / Kình Đà / Linh Hỏa:** càng dễ xảy ra`,
+  quyền / ly thân / ly hôn**`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-phu-the-ham-khong-kiep-kinh-da-linh-hoa',
+    title: 'Hóa Quyền Hãm tại Phu Thê + Không Kiếp / Kình Đà / Linh Hỏa - tranh quyền ly hôn',
+    sao: ['Hóa Quyền'],
+    cung: ['Phu Thê'],
+    trangThai: ['Hãm'],
+    ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La', 'Linh Tinh', 'Hỏa Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Hóa Quyền Hãm địa tại Phu Thê + Địa Không / Địa Kiếp / Kình Dương / Đà La / Linh Tinh / Hỏa Tinh:** càng dễ xảy ra **tranh quyền / ly thân / ly hôn**.`,
   },
 
   // ============================================================
@@ -587,8 +740,18 @@ mọi thứ.
 
 - Đương số **trụ cột giải quyết mâu thuẫn**
 - Anh chị em **chí tiến thủ, mạnh mẽ**, đạt thành tựu riêng
-- Quan hệ "**cạnh tranh lành mạnh**" thúc đẩy nhau tiến bộ
-- **+ Thiên Phủ / Thiên Lương:** giữ **tôn trọng và gắn kết**`,
+- Quan hệ "**cạnh tranh lành mạnh**" thúc đẩy nhau tiến bộ`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-huynh-de-dac-dia-thien-phu-thien-luong',
+    title: 'Hóa Quyền Đắc tại Huynh Đệ + Thiên Phủ / Thiên Lương - tôn trọng gắn kết',
+    sao: ['Hóa Quyền'],
+    cung: ['Huynh Đệ'],
+    trangThai: ['Miếu', 'Vượng', 'Đắc'],
+    ketHop: ['Thiên Phủ', 'Thiên Lương'],
+    doUuTien: 65,
+    tomTat: `🌟 **Hóa Quyền Đắc địa tại Huynh Đệ + Thiên Phủ / Thiên Lương:** giữ **tôn trọng và gắn kết**.`,
   },
 
   {
@@ -600,8 +763,18 @@ mọi thứ.
     doUuTien: 70,
     tomTat: `⚠️ **Hóa Quyền Hãm địa tại Huynh Đệ:**
 
-- Ai cũng có chính kiến cái tôi lớn → **bất hòa, tranh chấp tài sản quyền lực**
-- **+ Kình Đà / Linh Hỏa:** **đoạn tuyệt huynh đệ, sống xa cách**`,
+- Ai cũng có chính kiến cái tôi lớn → **bất hòa, tranh chấp tài sản quyền lực**`,
+  },
+
+  {
+    id: 'hoa-quyen-tai-huynh-de-ham-kinh-da-linh-hoa',
+    title: 'Hóa Quyền Hãm tại Huynh Đệ + Kình Đà / Linh Hỏa - đoạn tuyệt huynh đệ',
+    sao: ['Hóa Quyền'],
+    cung: ['Huynh Đệ'],
+    trangThai: ['Hãm'],
+    ketHop: ['Kình Dương', 'Đà La', 'Linh Tinh', 'Hỏa Tinh'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Hóa Quyền Hãm địa tại Huynh Đệ + Kình Dương / Đà La / Linh Tinh / Hỏa Tinh:** **đoạn tuyệt huynh đệ, sống xa cách**.`,
   },
 
   // ============================================================
@@ -615,10 +788,15 @@ mọi thứ.
     tomTat: `**Hạn đến Hóa Quyền:**
 
 🌟 **Đắc địa:** được **trọng dụng, giao phó trách nhiệm quan trọng**. Được
-**thăng chức / thăng cấp**.
+**thăng chức / thăng cấp**.`,
+  },
 
-⚠️ **+ Hung sát tinh hãm địa:** Hóa Quyền phối hợp **tác họa mạnh mẽ**. Hóa
-Quyền chỉ là **MỒI NHỬ** cho những kẻ tham lam quyền lực mà không đủ khả năng
-→ dễ **mắc bẫy**.`,
+  {
+    id: 'hoa-quyen-han-hung-sat-tinh',
+    title: 'Hạn Hóa Quyền + Hung sát tinh - mồi nhử mắc bẫy',
+    sao: ['Hóa Quyền'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Hạn Hóa Quyền + Hung sát tinh hãm địa (Lục Sát):** Hóa Quyền phối hợp **tác họa mạnh mẽ**. Hóa Quyền chỉ là **MỒI NHỬ** cho những kẻ tham lam quyền lực mà không đủ khả năng → dễ **mắc bẫy**.`,
   },
 ];

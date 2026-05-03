@@ -41,8 +41,8 @@ lĩnh vực đòi hỏi **quyết đoán và mạo hiểm**.
   hoặc nhiều sát tinh → hôn nhân **đổ vỡ**, nặng hơn là **sát phu / sát thê**
 - **Tài lộc:** có năng lực kiếm tiền nhưng **không giỏi giữ của**. Đi cùng
   **Tham Lang** sẽ có cơ may cải thiện
-- **+ Linh Tinh / Địa Kiếp / Đại Hao:** tài chính thất thường, hao hụt do đầu
-  tư sai hoặc biến cố bất ngờ`,
+- Khi có thêm **Linh Tinh / Địa Kiếp / Đại Hao**: tài chính thất thường, hao
+  hụt do đầu tư sai hoặc biến cố bất ngờ`,
   },
 
   // ============================================================

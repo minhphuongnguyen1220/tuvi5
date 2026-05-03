@@ -1245,10 +1245,7 @@ phải **2 lần đò**, hoặc vợ chồng **"hữu danh vô thực"**.`,
 cửa** — dễ **mất mát, phá sản**.
 
 ⚠️ Cũng **không thích hợp làm nghề bất động sản** — trừ khi Thất Sát **sáng
-(Miếu địa)**.
-
-✅ **+ Lộc Tồn / Hóa Lộc:** dù **không có điền sản tổ tiên**, có thể **tự mình
-gây dựng**.`,
+(Miếu địa)**.`,
 
     chiTiet: `## ⚠️ Bất lợi BĐS
 
@@ -1262,9 +1259,31 @@ Sát **sáng (Miếu địa)**.
 
 ## ✅ Cát kết hợp - tự gây dựng
 
-**Cung Điền Trạch Thất Sát + Lộc Tồn / Hóa Lộc:**
+Khi Cung Điền Trạch có Thất Sát + **Lộc Tồn / Hóa Lộc**:
 - Dù **không có điền sản của ông cha để lại**
 - Cũng có thể **tự mình gây dựng**`,
+  },
+
+  {
+    id: 'that-sat-tai-dien-trach-loc-ton',
+    title: 'Thất Sát + Lộc Tồn tại Điền Trạch - tự gây dựng',
+    sao: ['Thất Sát'],
+    ketHop: ['Lộc Tồn'],
+    cung: ['Điền Trạch'],
+    doUuTien: 75,
+    tomTat: `✅ **Thất Sát + Lộc Tồn tại Điền Trạch:** dù **không có điền sản tổ
+tiên**, có thể **tự mình gây dựng**.`,
+  },
+
+  {
+    id: 'that-sat-tai-dien-trach-hoa-loc',
+    title: 'Thất Sát + Hóa Lộc tại Điền Trạch - tự gây dựng',
+    sao: ['Thất Sát'],
+    ketHop: ['Hóa Lộc'],
+    cung: ['Điền Trạch'],
+    doUuTien: 75,
+    tomTat: `✅ **Thất Sát + Hóa Lộc tại Điền Trạch:** dù **không có điền sản tổ
+tiên**, có thể **tự mình gây dựng**.`,
   },
 
   // ============================================================
@@ -1338,8 +1357,8 @@ thể dẫn đến **tai nạn bất ngờ**.`,
     doUuTien: 78,
     tomTat: `**Thất Sát tại Nô Bộc:** giao du **không rộng**, **ít bạn bè, cấp dưới**.
 
-✅ **+ Cát tinh hội hợp:** tăng thêm bạn — nhưng vẫn khó nhờ cậy → cần thêm
-**Hóa Lộc / Lộc Tồn**.
+✅ Khi có thêm **Cát tinh** hội hợp: tăng thêm bạn — nhưng vẫn khó nhờ cậy →
+cần thêm **Hóa Lộc / Lộc Tồn**.
 
 ⚠️ Tuy nhiên vẫn có khả năng **vì bạn bè mà sự nghiệp tụt dốc**.`,
 
@@ -1423,9 +1442,7 @@ anh em, bạn bè **tốt** → chủ mệnh được **nhờ cậy**, phát tri
 → Nên sinh **CON GÁI TRƯỚC, CON TRAI SAU** → giảm bớt họa nạn có thể xảy ra.
 
 ⚠️ Người có Thất Sát tại Tử Tức ắt sẽ **KHẮT KHE với con cái**, **NUÔI CON
-VẤT VẢ**.
-
-✅ **+ Quang Quý + Giải Thần:** con cái **hiền lành, ngoan ngoãn** hơn.`,
+VẤT VẢ**.`,
 
     chiTiet: `## Đặc điểm chung
 
@@ -1448,6 +1465,17 @@ Thất Sát thủ cung Tử Tức chủ về:
 Khi hội **Quang Quý + Giải Thần**:
 - Con cái **hiền lành**
 - **Ngoan ngoãn** hơn`,
+  },
+
+  {
+    id: 'that-sat-tai-tu-tuc-quang-quy-giai-than',
+    title: 'Thất Sát + Ân Quang + Thiên Quý + Giải Thần tại Tử Tức - con hiền lành',
+    sao: ['Thất Sát'],
+    ketHop: ['Ân Quang', 'Thiên Quý', 'Giải Thần'],
+    cung: ['Tử Tức'],
+    doUuTien: 75,
+    tomTat: `✅ **Thất Sát + Ân Quang + Thiên Quý + Giải Thần tại Tử Tức:** con
+cái **hiền lành, ngoan ngoãn** hơn.`,
   },
 
   // ============================================================

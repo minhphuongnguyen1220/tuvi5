@@ -74,8 +74,8 @@ lên như diều gặp gió**.
 - **Cự Cơ Mão Dậu** + Song Hao đắc → cách rất quý
 - **Mệnh - Tài - Quan** đều có Song Hao đắc địa (Mão / Dậu) + thời vận tốt →
   cuộc đời lên như diều
-- **+ Cự Môn + Thiên Cơ** = "rất thông minh, GIÀU CÓ, tiền bạc thừa thãi vô
-  cùng"
+- Khi có thêm **Cự Môn + Thiên Cơ** = "rất thông minh, GIÀU CÓ, tiền bạc thừa
+  thãi vô cùng"
 
 ⚠️ **Lưu ý:** Song Hao tuy là bại tinh nhưng khi đắc địa **CẦN có chính tinh
 tốt đi cùng** — đây là ngoại lệ quan trọng phải nhớ khi luận lá số.`,
@@ -783,10 +783,37 @@ nguy cơ **PHÁ SẢN** rất cao.`,
     tomTat: `⚠️ **Song Hao + Quan Phù hoặc Quan Phủ:** bị **KIỆN CÁO, TRANH TỤNG**
 làm **hao tán**.
 
-⚠️ **+ Sát Phá Tham + Thiên Hình:** **bị CƯỚP**.
+→ Vướng vào kiện tụng tài chính, mất tiền vì pháp lý.`,
+  },
 
-→ Vướng vào kiện tụng tài chính, mất tiền vì pháp lý, hoặc thậm chí bị cướp
-tài sản.`,
+  {
+    id: 'song-hao-that-sat-thien-hinh',
+    title: '⚠️ Song Hao + Thất Sát + Thiên Hình - bị cướp',
+    sao: ['Tiểu Hao', 'Đại Hao'],
+    ketHop: ['Thất Sát', 'Thiên Hình'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Song Hao + Thất Sát + Thiên Hình:** **bị CƯỚP** — thậm chí bị
+cướp tài sản.`,
+  },
+
+  {
+    id: 'song-hao-pha-quan-thien-hinh',
+    title: '⚠️ Song Hao + Phá Quân + Thiên Hình - bị cướp',
+    sao: ['Tiểu Hao', 'Đại Hao'],
+    ketHop: ['Phá Quân', 'Thiên Hình'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Song Hao + Phá Quân + Thiên Hình:** **bị CƯỚP** — thậm chí bị
+cướp tài sản.`,
+  },
+
+  {
+    id: 'song-hao-tham-lang-thien-hinh',
+    title: '⚠️ Song Hao + Tham Lang + Thiên Hình - bị cướp',
+    sao: ['Tiểu Hao', 'Đại Hao'],
+    ketHop: ['Tham Lang', 'Thiên Hình'],
+    doUuTien: 55,
+    tomTat: `⚠️ **Song Hao + Tham Lang + Thiên Hình:** **bị CƯỚP** — thậm chí bị
+cướp tài sản.`,
   },
 
   // ============================================================

@@ -117,13 +117,95 @@ thì rất **mạnh mẽ và quyết đoán**.
 thức, hiền lành, đức độ**.
 
 Cha mẹ là **trụ cột tinh thần** trong gia đình, để lại **phúc đức** cho con
-cháu.
+cháu.`,
+  },
 
-🌟 **+ Tả Hữu / Khôi Việt / Xương Khúc / Long Trì / Phượng Các:** cha mẹ càng
-**hiển đạt**, thường làm trong ngành **giáo dục, văn hóa, luật pháp**.
+  {
+    id: 'thanh-long-tai-phu-mau-ta-huu',
+    title: 'Thanh Long + Tả Phù / Hữu Bật tại Phụ Mẫu - cha mẹ hiển đạt',
+    sao: ['Thanh Long'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 67,
+    tomTat: `🌟 **Thanh Long + Tả Phù / Hữu Bật tại Phụ Mẫu:** cha mẹ càng **hiển
+đạt**, thường làm trong ngành **giáo dục, văn hóa, luật pháp**.`,
+  },
 
-⚠️ **+ Kình Đà / Không Kiếp / Linh Hỏa:** cha mẹ dễ **bệnh tật**, hay gặp
-**thị phi**, phải **vất vả lao tâm**.`,
+  {
+    id: 'thanh-long-tai-phu-mau-khoi-viet',
+    title: 'Thanh Long + Thiên Khôi / Thiên Việt tại Phụ Mẫu - cha mẹ hiển đạt',
+    sao: ['Thanh Long'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 67,
+    tomTat: `🌟 **Thanh Long + Thiên Khôi / Thiên Việt tại Phụ Mẫu:** cha mẹ
+càng **hiển đạt**, thường làm trong ngành **giáo dục, văn hóa, luật pháp**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phu-mau-xuong-khuc',
+    title: 'Thanh Long + Văn Xương / Văn Khúc tại Phụ Mẫu - cha mẹ hiển đạt',
+    sao: ['Thanh Long'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Văn Xương', 'Văn Khúc'],
+    doUuTien: 67,
+    tomTat: `🌟 **Thanh Long + Văn Xương / Văn Khúc tại Phụ Mẫu:** cha mẹ càng
+**hiển đạt**, thường làm trong ngành **giáo dục, văn hóa, luật pháp**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phu-mau-long-tri',
+    title: 'Thanh Long + Long Trì tại Phụ Mẫu - cha mẹ hiển đạt',
+    sao: ['Thanh Long'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Long Trì'],
+    doUuTien: 67,
+    tomTat: `🌟 **Thanh Long + Long Trì tại Phụ Mẫu:** cha mẹ càng **hiển đạt**,
+thường làm trong ngành **giáo dục, văn hóa, luật pháp**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phu-mau-phuong-cac',
+    title: 'Thanh Long + Phượng Các tại Phụ Mẫu - cha mẹ hiển đạt',
+    sao: ['Thanh Long'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Phượng Các'],
+    doUuTien: 67,
+    tomTat: `🌟 **Thanh Long + Phượng Các tại Phụ Mẫu:** cha mẹ càng **hiển
+đạt**, thường làm trong ngành **giáo dục, văn hóa, luật pháp**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phu-mau-kinh-da',
+    title: 'Thanh Long + Kình Dương / Đà La tại Phụ Mẫu - cha mẹ bệnh tật',
+    sao: ['Thanh Long'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thanh Long + Kình Dương / Đà La tại Phụ Mẫu:** cha mẹ dễ
+**bệnh tật**, hay gặp **thị phi**, phải **vất vả lao tâm**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phu-mau-khong-kiep',
+    title: 'Thanh Long + Địa Không / Địa Kiếp tại Phụ Mẫu - cha mẹ bệnh tật',
+    sao: ['Thanh Long'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thanh Long + Địa Không / Địa Kiếp tại Phụ Mẫu:** cha mẹ dễ
+**bệnh tật**, hay gặp **thị phi**, phải **vất vả lao tâm**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phu-mau-linh-hoa',
+    title: 'Thanh Long + Linh Tinh / Hỏa Tinh tại Phụ Mẫu - cha mẹ bệnh tật',
+    sao: ['Thanh Long'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Linh Tinh', 'Hỏa Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thanh Long + Linh Tinh / Hỏa Tinh tại Phụ Mẫu:** cha mẹ dễ
+**bệnh tật**, hay gặp **thị phi**, phải **vất vả lao tâm**.`,
   },
 
   // ============================================================
@@ -142,16 +224,85 @@ nhiều người **đỗ đạt, thành công**.
 mộ phát mả tổ tiên.
 
 🌟 Bản thân khi sinh ra được tiếp xúc với **môi trường tốt**, nhiều người có
-học → dễ thành người, **phát triển tốt hơn**.
+học → dễ thành người, **phát triển tốt hơn**.`,
+  },
 
-⚡ **+ Hoa Cái** (tại Phúc): **PHÚC KHÍ rất lớn** — trong họ **ắt có người làm
-QUAN TO**, đời trước cũng là người **phục vụ Vua, triều đình**.
+  {
+    id: 'thanh-long-tai-phuc-duc-hoa-cai',
+    title: 'Thanh Long + Hoa Cái tại Phúc Đức - phúc khí lớn',
+    sao: ['Thanh Long'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hoa Cái'],
+    doUuTien: 73,
+    tomTat: `⚡ **Thanh Long + Hoa Cái tại Phúc Đức:** **PHÚC KHÍ rất lớn** —
+trong họ **ắt có người làm QUAN TO**, đời trước cũng là người **phục vụ Vua,
+triều đình**.`,
+  },
 
-🌟 **+ Hoa Cái / Phượng Các / Long Trì / Văn Xương / Văn Khúc:** phúc khí gia
-tộc **mạnh mẽ**.
+  {
+    id: 'thanh-long-tai-phuc-duc-phuong-cac',
+    title: 'Thanh Long + Phượng Các tại Phúc Đức - phúc khí gia tộc',
+    sao: ['Thanh Long'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Phượng Các'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thanh Long + Phượng Các tại Phúc Đức:** phúc khí gia tộc **mạnh
+mẽ**.`,
+  },
 
-⚠️ **+ Hỏa Tinh / Địa Không / Địa Kiếp:** vướng **tai họa, pháp luật**, có
-người **yểu mệnh**, đời sau khó hưởng trọn phúc phần.`,
+  {
+    id: 'thanh-long-tai-phuc-duc-long-tri',
+    title: 'Thanh Long + Long Trì tại Phúc Đức - phúc khí gia tộc',
+    sao: ['Thanh Long'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Long Trì'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thanh Long + Long Trì tại Phúc Đức:** phúc khí gia tộc **mạnh
+mẽ**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phuc-duc-van-xuong',
+    title: 'Thanh Long + Văn Xương tại Phúc Đức - phúc khí gia tộc',
+    sao: ['Thanh Long'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thanh Long + Văn Xương tại Phúc Đức:** phúc khí gia tộc **mạnh
+mẽ**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phuc-duc-van-khuc',
+    title: 'Thanh Long + Văn Khúc tại Phúc Đức - phúc khí gia tộc',
+    sao: ['Thanh Long'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thanh Long + Văn Khúc tại Phúc Đức:** phúc khí gia tộc **mạnh
+mẽ**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phuc-duc-hoa-tinh',
+    title: 'Thanh Long + Hỏa Tinh tại Phúc Đức - tai họa pháp luật',
+    sao: ['Thanh Long'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thanh Long + Hỏa Tinh tại Phúc Đức:** vướng **tai họa, pháp
+luật**, có người **yểu mệnh**, đời sau khó hưởng trọn phúc phần.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phuc-duc-khong-kiep',
+    title: 'Thanh Long + Địa Không / Địa Kiếp tại Phúc Đức - tai họa pháp luật',
+    sao: ['Thanh Long'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thanh Long + Địa Không / Địa Kiếp tại Phúc Đức:** vướng **tai
+họa, pháp luật**, có người **yểu mệnh**, đời sau khó hưởng trọn phúc phần.`,
   },
 
   // ============================================================
@@ -172,13 +323,76 @@ người THÀNH CÔNG** trong nhà.
 → Đặc biệt **vượng phát cho người ĐÀN ÔNG** trong nhà.
 
 🌟 **Đặc trưng nhà:** **đẹp, rộng, mới**, gần **mặt đường lớn, đường quốc lộ**.
-Quanh nhà có **dòng nước, dòng sông** hoặc **mạch nước ngầm** chạy qua.
+Quanh nhà có **dòng nước, dòng sông** hoặc **mạch nước ngầm** chạy qua.`,
+  },
 
-🌟 **+ Long Trì / Phượng Các / Tả Hữu:** nhà cửa càng **cao sang, rộng rãi**,
-khu dân cư **văn minh**.
+  {
+    id: 'thanh-long-tai-dien-trach-long-tri',
+    title: 'Thanh Long + Long Trì tại Điền Trạch - nhà cao sang',
+    sao: ['Thanh Long'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Long Trì'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thanh Long + Long Trì tại Điền Trạch:** nhà cửa càng **cao
+sang, rộng rãi**, khu dân cư **văn minh**.`,
+  },
 
-⚠️ **+ Kình Đà / Hóa Kỵ / Linh Tinh:** trắc trở mua bán/xây dựng/giữ gìn nhà
-đất. Nhà xuống cấp nhanh, **tranh chấp pháp lý** hoặc phong thủy không thuận.`,
+  {
+    id: 'thanh-long-tai-dien-trach-phuong-cac',
+    title: 'Thanh Long + Phượng Các tại Điền Trạch - nhà cao sang',
+    sao: ['Thanh Long'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Phượng Các'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thanh Long + Phượng Các tại Điền Trạch:** nhà cửa càng **cao
+sang, rộng rãi**, khu dân cư **văn minh**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-dien-trach-ta-huu',
+    title: 'Thanh Long + Tả Phù / Hữu Bật tại Điền Trạch - nhà cao sang',
+    sao: ['Thanh Long'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thanh Long + Tả Phù / Hữu Bật tại Điền Trạch:** nhà cửa càng
+**cao sang, rộng rãi**, khu dân cư **văn minh**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-dien-trach-kinh-da',
+    title: 'Thanh Long + Kình Dương / Đà La tại Điền Trạch - tranh chấp nhà',
+    sao: ['Thanh Long'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thanh Long + Kình Dương / Đà La tại Điền Trạch:** trắc trở mua
+bán/xây dựng/giữ gìn nhà đất. Nhà xuống cấp nhanh, **tranh chấp pháp lý** hoặc
+phong thủy không thuận.`,
+  },
+
+  {
+    id: 'thanh-long-tai-dien-trach-hoa-ky',
+    title: 'Thanh Long + Hóa Kỵ tại Điền Trạch - tranh chấp nhà',
+    sao: ['Thanh Long'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Hóa Kỵ'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thanh Long + Hóa Kỵ tại Điền Trạch:** trắc trở mua bán/xây
+dựng/giữ gìn nhà đất. Nhà xuống cấp nhanh, **tranh chấp pháp lý** hoặc phong
+thủy không thuận.`,
+  },
+
+  {
+    id: 'thanh-long-tai-dien-trach-linh-tinh',
+    title: 'Thanh Long + Linh Tinh tại Điền Trạch - tranh chấp nhà',
+    sao: ['Thanh Long'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thanh Long + Linh Tinh tại Điền Trạch:** trắc trở mua bán/xây
+dựng/giữ gìn nhà đất. Nhà xuống cấp nhanh, **tranh chấp pháp lý** hoặc phong
+thủy không thuận.`,
   },
 
   // ============================================================
@@ -197,14 +411,44 @@ Trong học tập và công việc:
 - **Hết sức chỉnh chu, cẩn thận**
 - **Cầu tiến, chuyên nghiệp**
 
-🌟 **+ Văn Xương / Văn Khúc / Tả Hữu / Khôi Việt** = cách **"VĂN TINH CỦNG
-MỆNH QUAN"** — công danh **rực rỡ**, thi cử **đỗ cao**, sự nghiệp vững chắc.
-
 🌟 Được **quý nhân nâng đỡ**, làm việc ở môi trường **học thuật, công quyền**
-hoặc có **chức tước, địa vị**.
+hoặc có **chức tước, địa vị**.`,
+  },
 
-⚠️ **+ Hỏa Tinh / Địa Không / Địa Kiếp:** sự nghiệp **trắc trở**, công danh
-**lận đận**, dễ bị **ganh ghét**, vướng **thị phi**, thi cử không thành.`,
+  {
+    id: 'thanh-long-tai-quan-loc-luc-cat',
+    title: 'Thanh Long + Lục Cát tại Quan Lộc - văn tinh củng mệnh quan',
+    sao: ['Thanh Long'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thanh Long + Văn Xương / Văn Khúc / Tả Phù / Hữu Bật / Thiên
+Khôi / Thiên Việt tại Quan Lộc** = cách **"VĂN TINH CỦNG MỆNH QUAN"** — công
+danh **rực rỡ**, thi cử **đỗ cao**, sự nghiệp vững chắc.`,
+  },
+
+  {
+    id: 'thanh-long-tai-quan-loc-hoa-tinh',
+    title: 'Thanh Long + Hỏa Tinh tại Quan Lộc - sự nghiệp trắc trở',
+    sao: ['Thanh Long'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thanh Long + Hỏa Tinh tại Quan Lộc:** sự nghiệp **trắc trở**,
+công danh **lận đận**, dễ bị **ganh ghét**, vướng **thị phi**, thi cử không
+thành.`,
+  },
+
+  {
+    id: 'thanh-long-tai-quan-loc-khong-kiep',
+    title: 'Thanh Long + Địa Không / Địa Kiếp tại Quan Lộc - sự nghiệp trắc trở',
+    sao: ['Thanh Long'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Thanh Long + Địa Không / Địa Kiếp tại Quan Lộc:** sự nghiệp
+**trắc trở**, công danh **lận đận**, dễ bị **ganh ghét**, vướng **thị phi**,
+thi cử không thành.`,
   },
 
   // ============================================================
@@ -222,11 +466,41 @@ thức**, cư xử **nhã nhặn**, giữ vị trí cao trong xã hội.
 🌟 Đương số được mọi người **hỗ trợ đắc lực** trong học hành, công việc, đời
 sống.
 
-⚠️ **+ Kình Đà / Linh Tinh / Hỏa Tinh:** mối quan hệ phức tạp — bạn bè/đồng
-nghiệp gây **thị phi, ganh ghét, lợi dụng**.
-
 ⚠️ Đặc trưng: kết giao với người **hào nhoáng bên ngoài** nhưng **thiếu chân
 thành** → bản thân gặp trở ngại trong công việc, mất uy tín.`,
+  },
+
+  {
+    id: 'thanh-long-tai-no-boc-kinh-da',
+    title: 'Thanh Long + Kình Dương / Đà La tại Nô Bộc - bạn bè thị phi',
+    sao: ['Thanh Long'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thanh Long + Kình Dương / Đà La tại Nô Bộc:** mối quan hệ phức
+tạp — bạn bè/đồng nghiệp gây **thị phi, ganh ghét, lợi dụng**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-no-boc-linh-tinh',
+    title: 'Thanh Long + Linh Tinh tại Nô Bộc - bạn bè thị phi',
+    sao: ['Thanh Long'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thanh Long + Linh Tinh tại Nô Bộc:** mối quan hệ phức tạp —
+bạn bè/đồng nghiệp gây **thị phi, ganh ghét, lợi dụng**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-no-boc-hoa-tinh',
+    title: 'Thanh Long + Hỏa Tinh tại Nô Bộc - bạn bè thị phi',
+    sao: ['Thanh Long'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thanh Long + Hỏa Tinh tại Nô Bộc:** mối quan hệ phức tạp —
+bạn bè/đồng nghiệp gây **thị phi, ganh ghét, lợi dụng**.`,
   },
 
   // ============================================================
@@ -245,10 +519,29 @@ Ra ngoài **thanh lịch, hanh thông** → gây **thiện cảm** với ngườ
 phong thái **gọn gàng, chỉn chu** và cách ứng xử **hòa nhã**.
 
 ⚡ **Đặc trưng đối lập:** ở nhà thì **lười nhác, ốm đau** nhưng ra ngoài đi xa
-lại **rất gọn gàng chuẩn chỉ**.
+lại **rất gọn gàng chuẩn chỉ**.`,
+  },
 
-⚠️ **+ Linh Tinh / Hỏa Tinh / Không Kiếp:** vướng **thị phi, tranh cãi**, nguy
-cơ **tai họa bất ngờ**.`,
+  {
+    id: 'thanh-long-tai-thien-di-linh-hoa',
+    title: 'Thanh Long + Linh Tinh / Hỏa Tinh tại Thiên Di - tai họa bất ngờ',
+    sao: ['Thanh Long'],
+    cung: ['Thiên Di'],
+    ketHop: ['Linh Tinh', 'Hỏa Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thanh Long + Linh Tinh / Hỏa Tinh tại Thiên Di:** vướng **thị
+phi, tranh cãi**, nguy cơ **tai họa bất ngờ**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-thien-di-khong-kiep',
+    title: 'Thanh Long + Địa Không / Địa Kiếp tại Thiên Di - tai họa bất ngờ',
+    sao: ['Thanh Long'],
+    cung: ['Thiên Di'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thanh Long + Địa Không / Địa Kiếp tại Thiên Di:** vướng **thị
+phi, tranh cãi**, nguy cơ **tai họa bất ngờ**.`,
   },
 
   // ============================================================
@@ -267,10 +560,29 @@ nhỏ.
 **dễ hồi phục**.
 
 ⚡ **Bệnh thường gặp:** liên quan **đường ruột, đường tiêu hóa**, bệnh có liên
-quan tới **ăn uống** (do hành Thủy).
+quan tới **ăn uống** (do hành Thủy).`,
+  },
 
-⚠️ **+ Kình Đà / Linh Tinh:** dễ mắc **đầy hơi, khó tiêu**, hoặc bệnh xuất phát
-từ **ăn uống không điều độ**.`,
+  {
+    id: 'thanh-long-tai-tat-ach-kinh-da',
+    title: 'Thanh Long + Kình Dương / Đà La tại Tật Ách - đầy hơi khó tiêu',
+    sao: ['Thanh Long'],
+    cung: ['Tật Ách'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thanh Long + Kình Dương / Đà La tại Tật Ách:** dễ mắc **đầy
+hơi, khó tiêu**, hoặc bệnh xuất phát từ **ăn uống không điều độ**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-tat-ach-linh-tinh',
+    title: 'Thanh Long + Linh Tinh tại Tật Ách - đầy hơi khó tiêu',
+    sao: ['Thanh Long'],
+    cung: ['Tật Ách'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thanh Long + Linh Tinh tại Tật Ách:** dễ mắc **đầy hơi, khó
+tiêu**, hoặc bệnh xuất phát từ **ăn uống không điều độ**.`,
   },
 
   // ============================================================
@@ -288,13 +600,76 @@ từ **ăn uống không điều độ**.`,
 **chính đáng, trong sạch**, bằng **mồ hôi công sức**.
 
 🌟 Chủ mệnh sống **thanh bạch**, ít khi dính **gian dối, tà đạo**, biết cách
-cân đối chi tiêu.
+cân đối chi tiêu.`,
+  },
 
-🌟 **+ Văn Xương / Văn Khúc / Khôi Việt:** **"càng học càng giàu"** — thường
-làm việc trong môi trường **TRÍ THỨC, QUAN TRƯỜNG**.
+  {
+    id: 'thanh-long-tai-tai-bach-van-xuong',
+    title: 'Thanh Long + Văn Xương tại Tài Bạch - càng học càng giàu',
+    sao: ['Thanh Long'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Văn Xương'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thanh Long + Văn Xương tại Tài Bạch:** **"càng học càng giàu"**
+— thường làm việc trong môi trường **TRÍ THỨC, QUAN TRƯỜNG**.`,
+  },
 
-⚠️ **+ Đà La / Không Kiếp / Linh Hỏa:** việc cầu tài **trở ngại**, tiền kiếm
-được **khó giữ**, dễ vướng **kiện tụng tài chính**, bị tiểu nhân lợi dụng.`,
+  {
+    id: 'thanh-long-tai-tai-bach-van-khuc',
+    title: 'Thanh Long + Văn Khúc tại Tài Bạch - càng học càng giàu',
+    sao: ['Thanh Long'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Văn Khúc'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thanh Long + Văn Khúc tại Tài Bạch:** **"càng học càng giàu"**
+— thường làm việc trong môi trường **TRÍ THỨC, QUAN TRƯỜNG**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-tai-bach-khoi-viet',
+    title: 'Thanh Long + Thiên Khôi / Thiên Việt tại Tài Bạch - càng học càng giàu',
+    sao: ['Thanh Long'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Thanh Long + Thiên Khôi / Thiên Việt tại Tài Bạch:** **"càng
+học càng giàu"** — thường làm việc trong môi trường **TRÍ THỨC, QUAN TRƯỜNG**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-tai-bach-da-la',
+    title: 'Thanh Long + Đà La tại Tài Bạch - hao tài khó giữ',
+    sao: ['Thanh Long'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thanh Long + Đà La tại Tài Bạch:** việc cầu tài **trở ngại**,
+tiền kiếm được **khó giữ**, dễ vướng **kiện tụng tài chính**, bị tiểu nhân lợi
+dụng.`,
+  },
+
+  {
+    id: 'thanh-long-tai-tai-bach-khong-kiep',
+    title: 'Thanh Long + Địa Không / Địa Kiếp tại Tài Bạch - hao tài khó giữ',
+    sao: ['Thanh Long'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thanh Long + Địa Không / Địa Kiếp tại Tài Bạch:** việc cầu tài
+**trở ngại**, tiền kiếm được **khó giữ**, dễ vướng **kiện tụng tài chính**, bị
+tiểu nhân lợi dụng.`,
+  },
+
+  {
+    id: 'thanh-long-tai-tai-bach-linh-hoa',
+    title: 'Thanh Long + Linh Tinh / Hỏa Tinh tại Tài Bạch - hao tài khó giữ',
+    sao: ['Thanh Long'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Linh Tinh', 'Hỏa Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thanh Long + Linh Tinh / Hỏa Tinh tại Tài Bạch:** việc cầu tài
+**trở ngại**, tiền kiếm được **khó giữ**, dễ vướng **kiện tụng tài chính**, bị
+tiểu nhân lợi dụng.`,
   },
 
   // ============================================================
@@ -307,10 +682,31 @@ làm việc trong môi trường **TRÍ THỨC, QUAN TRƯỜNG**.
     cung: ['Tử Tức'],
     doUuTien: 75,
     tomTat: `🌟 **Thanh Long cư Tử Tức:** dấu hiệu **CÁT LỢI** — con cái **thông
-minh, giỏi giang, thành đạt, hiếu thảo**.
+minh, giỏi giang, thành đạt, hiếu thảo**.`,
+  },
 
-⚠️ **+ Kình Đà / Hỏa Linh:** con cái **khó nuôi**, **tính tình ngang ngạnh**.
-Một số trường hợp: **sinh ít con** hoặc **có con nhưng xa cách**, không sum vầy.`,
+  {
+    id: 'thanh-long-tai-tu-tuc-kinh-da',
+    title: 'Thanh Long + Kình Dương / Đà La tại Tử Tức - con cái khó nuôi',
+    sao: ['Thanh Long'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thanh Long + Kình Dương / Đà La tại Tử Tức:** con cái **khó
+nuôi**, **tính tình ngang ngạnh**. Một số trường hợp: **sinh ít con** hoặc **có
+con nhưng xa cách**, không sum vầy.`,
+  },
+
+  {
+    id: 'thanh-long-tai-tu-tuc-hoa-linh',
+    title: 'Thanh Long + Hỏa Tinh / Linh Tinh tại Tử Tức - con cái khó nuôi',
+    sao: ['Thanh Long'],
+    cung: ['Tử Tức'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thanh Long + Hỏa Tinh / Linh Tinh tại Tử Tức:** con cái **khó
+nuôi**, **tính tình ngang ngạnh**. Một số trường hợp: **sinh ít con** hoặc **có
+con nhưng xa cách**, không sum vầy.`,
   },
 
   {
@@ -340,10 +736,40 @@ Một số trường hợp: **sinh ít con** hoặc **có con nhưng xa cách**,
 
 Phú nói: **"Trai lấy vợ đẹp, gái lấy chồng hiền"**.
 
-**Người hôn phối:** hiền hậu, **có học**, **quý hiển**, sống có tình nghĩa.
+**Người hôn phối:** hiền hậu, **có học**, **quý hiển**, sống có tình nghĩa.`,
+  },
 
-⚠️ **+ Đà La / Hỏa Tinh / Linh Tinh:** duyên phận **trắc trở**, vợ chồng **bất
-hòa**, dễ **xa cách** vì công việc hoặc có sự **chia lìa**.`,
+  {
+    id: 'thanh-long-tai-phu-the-da-la',
+    title: 'Thanh Long + Đà La tại Phu Thê - duyên trắc trở',
+    sao: ['Thanh Long'],
+    cung: ['Phu Thê'],
+    ketHop: ['Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thanh Long + Đà La tại Phu Thê:** duyên phận **trắc trở**, vợ
+chồng **bất hòa**, dễ **xa cách** vì công việc hoặc có sự **chia lìa**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phu-the-hoa-tinh',
+    title: 'Thanh Long + Hỏa Tinh tại Phu Thê - duyên trắc trở',
+    sao: ['Thanh Long'],
+    cung: ['Phu Thê'],
+    ketHop: ['Hỏa Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thanh Long + Hỏa Tinh tại Phu Thê:** duyên phận **trắc trở**,
+vợ chồng **bất hòa**, dễ **xa cách** vì công việc hoặc có sự **chia lìa**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-phu-the-linh-tinh',
+    title: 'Thanh Long + Linh Tinh tại Phu Thê - duyên trắc trở',
+    sao: ['Thanh Long'],
+    cung: ['Phu Thê'],
+    ketHop: ['Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thanh Long + Linh Tinh tại Phu Thê:** duyên phận **trắc trở**,
+vợ chồng **bất hòa**, dễ **xa cách** vì công việc hoặc có sự **chia lìa**.`,
   },
 
   {
@@ -385,13 +811,87 @@ hòa**, dễ **xa cách** vì công việc hoặc có sự **chia lìa**.`,
 sống có tình nghĩa**, mọi người **đoàn kết, yêu thương giúp đỡ** lẫn nhau.
 
 🌟 Đương số hưởng **phúc khí** từ sự gắn bó của anh chị em — dễ có **quý nhân
-trong chính anh em ruột thịt**.
+trong chính anh em ruột thịt**.`,
+  },
 
-🌟 **+ Tả Hữu / Khôi Việt / Xương Khúc / Long Trì / Phượng Các:** gia đình dễ
-có người làm **quan, làm thầy, luật sư** hoặc giữ vị trí **trí thức, uy tín**.
+  {
+    id: 'thanh-long-tai-huynh-de-ta-huu',
+    title: 'Thanh Long + Tả Phù / Hữu Bật tại Huynh Đệ - anh em uy tín',
+    sao: ['Thanh Long'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 67,
+    tomTat: `🌟 **Thanh Long + Tả Phù / Hữu Bật tại Huynh Đệ:** gia đình dễ có
+người làm **quan, làm thầy, luật sư** hoặc giữ vị trí **trí thức, uy tín**.`,
+  },
 
-⚠️ **+ Kình Đà / Không Kiếp:** anh em **bất hòa, hiểu lầm, xa cách**. Trường
-hợp nặng: anh em **hình khắc**, trong nhà có người **yểu mệnh**.`,
+  {
+    id: 'thanh-long-tai-huynh-de-khoi-viet',
+    title: 'Thanh Long + Thiên Khôi / Thiên Việt tại Huynh Đệ - anh em uy tín',
+    sao: ['Thanh Long'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 67,
+    tomTat: `🌟 **Thanh Long + Thiên Khôi / Thiên Việt tại Huynh Đệ:** gia đình
+dễ có người làm **quan, làm thầy, luật sư** hoặc giữ vị trí **trí thức, uy
+tín**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-huynh-de-xuong-khuc',
+    title: 'Thanh Long + Văn Xương / Văn Khúc tại Huynh Đệ - anh em uy tín',
+    sao: ['Thanh Long'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Văn Xương', 'Văn Khúc'],
+    doUuTien: 67,
+    tomTat: `🌟 **Thanh Long + Văn Xương / Văn Khúc tại Huynh Đệ:** gia đình dễ
+có người làm **quan, làm thầy, luật sư** hoặc giữ vị trí **trí thức, uy tín**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-huynh-de-long-tri',
+    title: 'Thanh Long + Long Trì tại Huynh Đệ - anh em uy tín',
+    sao: ['Thanh Long'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Long Trì'],
+    doUuTien: 67,
+    tomTat: `🌟 **Thanh Long + Long Trì tại Huynh Đệ:** gia đình dễ có người làm
+**quan, làm thầy, luật sư** hoặc giữ vị trí **trí thức, uy tín**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-huynh-de-phuong-cac',
+    title: 'Thanh Long + Phượng Các tại Huynh Đệ - anh em uy tín',
+    sao: ['Thanh Long'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Phượng Các'],
+    doUuTien: 67,
+    tomTat: `🌟 **Thanh Long + Phượng Các tại Huynh Đệ:** gia đình dễ có người
+làm **quan, làm thầy, luật sư** hoặc giữ vị trí **trí thức, uy tín**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-huynh-de-kinh-da',
+    title: 'Thanh Long + Kình Dương / Đà La tại Huynh Đệ - anh em bất hòa',
+    sao: ['Thanh Long'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Kình Dương', 'Đà La'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thanh Long + Kình Dương / Đà La tại Huynh Đệ:** anh em **bất
+hòa, hiểu lầm, xa cách**. Trường hợp nặng: anh em **hình khắc**, trong nhà có
+người **yểu mệnh**.`,
+  },
+
+  {
+    id: 'thanh-long-tai-huynh-de-khong-kiep',
+    title: 'Thanh Long + Địa Không / Địa Kiếp tại Huynh Đệ - anh em bất hòa',
+    sao: ['Thanh Long'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Địa Không', 'Địa Kiếp'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Thanh Long + Địa Không / Địa Kiếp tại Huynh Đệ:** anh em **bất
+hòa, hiểu lầm, xa cách**. Trường hợp nặng: anh em **hình khắc**, trong nhà có
+người **yểu mệnh**.`,
   },
 
   // ============================================================
@@ -517,8 +1017,16 @@ còn uy nghiêm, dũng mãnh nữa.`,
 - **Bệnh tật/tai họa nhỏ** được giải trừ
 
 🌟 Nếu hội thêm **Hóa Kỵ tại Tứ Mộ** hoặc **Lưu Hà** → cách "Rồng gặp thời" →
-**đại phát**.
+**đại phát**.`,
+  },
 
-⚠️ **+ Sát bại tinh:** mất uy lực — cẩn thận lui về giữ mình.`,
+  {
+    id: 'thanh-long-vao-han-sat-bai',
+    title: 'Thanh Long + Sát bại tinh vào hạn - mất uy lực',
+    sao: ['Thanh Long'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 45,
+    tomTat: `⚠️ **Thanh Long + Sát bại tinh (Lục Sát) vào hạn:** mất uy lực —
+cẩn thận lui về giữ mình.`,
   },
 ];

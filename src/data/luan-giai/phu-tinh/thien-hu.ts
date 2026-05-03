@@ -536,10 +536,17 @@ DỰA ĐẮC LỰC**.`,
 ⚠️ **Hãm địa:**
 - Là giai đoạn gặp nhiều **BẤT MÃN, NGHỊCH CẢNH**
 - Phải **KÊU THAN, U SẦU**
-- Cuộc sống **buồn rầu, mất phương hướng**
+- Cuộc sống **buồn rầu, mất phương hướng**`,
+  },
 
-⚠️ **+ Tang Môn vào hạn:** dễ gặp **CHUYỆN TANG TÓC** hoặc **biến cố lớn, chuyện
-buồn thấm thía** trong năm đó.`,
+  {
+    id: 'khoc-hu-han-tang-mon',
+    title: '⚠️ Khốc Hư + Tang Môn vào hạn - chuyện tang tóc',
+    sao: ['Thiên Khốc', 'Thiên Hư'],
+    ketHop: ['Tang Môn'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Khốc Hư + Tang Môn vào hạn:** dễ gặp **CHUYỆN TANG TÓC** hoặc
+**biến cố lớn, chuyện buồn thấm thía** trong năm đó.`,
   },
 
   {

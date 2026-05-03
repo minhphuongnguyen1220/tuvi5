@@ -428,12 +428,20 @@ trí thức.`,
 - Có người **BẢO BAN HỖ TRỢ, GIÚP ĐỠ**
 - Khiến cho **KIẾN THỨC, TRÍ TUỆ** được **MỞ MANG, PHÁT TRIỂN HƠN**
 
-🌟 **+ Văn Xương + Văn Khúc + Khôi Việt + Long Phượng:**
+→ Đặc biệt tốt cho **học sinh, sinh viên, người nghiên cứu** vào năm hạn này.`,
+  },
+
+  {
+    id: 'luu-nien-han-bang-vang',
+    title: 'Lưu Niên Văn Tinh + Văn Xương + Văn Khúc + Khôi Việt + Long Phượng vào hạn - đỗ thủ khoa',
+    sao: ['Lưu Niên Văn Tinh'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt', 'Long Trì', 'Phượng Các'],
+    doUuTien: 55,
+    tomTat: `🌟 **Lưu Niên Văn Tinh + Văn Xương + Văn Khúc + Khôi Việt + Long
+Phượng vào hạn:**
 - Dễ **ĐỖ THỦ KHOA, GHI DANH BẢNG VÀNG**
 - **HỌC LÊN GIÁO SƯ, TIẾN SỸ**
-- Đạt **NHIỀU GIẢI THƯỞNG CAO** về học tập, nghiên cứu
-
-→ Đặc biệt tốt cho **học sinh, sinh viên, người nghiên cứu** vào năm hạn này.`,
+- Đạt **NHIỀU GIẢI THƯỞNG CAO** về học tập, nghiên cứu`,
   },
 
   {

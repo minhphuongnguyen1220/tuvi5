@@ -203,11 +203,19 @@ nay nhiều yếu tố nguy hiểm đã được kiểm soát.`,
 - Dễ gặp **XUNG ĐỘT** với người xung quanh
 - Đặc biệt **ĐỒNG NGHIỆP, BẠN BÈ, CỘNG SỰ**
 
-⚠️ **Càng nghiêm trọng + Phá Quân + Vũ Khúc + Thất Sát:**
-- Hành động bạo lực mạnh hơn
+⚠️ **Càng nghiêm trọng** khi có thêm **Phá Quân + Vũ Khúc + Thất Sát**:
+- Hành động bạo lực mạnh hơn`,
+  },
 
-⚠️ **+ Kiếp Sát + Phục Binh + Hóa Kỵ:**
-- Vết thương **TÂM LÝ ÂM Ỉ**, khó hồi phục`,
+  {
+    id: 'thien-thuong-han-thien-hinh-no-boc-kiep-sat-phuc-binh-hoa-ky',
+    title: '⚠️ Hạn: Thương + Thiên Hình + Kiếp Sát + Phục Binh + Hóa Kỵ tại Nô Bộc',
+    sao: ['Thiên Thương'],
+    ketHop: ['Thiên Hình', 'Kiếp Sát', 'Phục Binh', 'Hóa Kỵ'],
+    cung: ['Nô Bộc'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Thiên Thương + Thiên Hình + Kiếp Sát + Phục Binh + Hóa Kỵ tại
+Nô Bộc:** vết thương **TÂM LÝ ÂM Ỉ**, khó hồi phục.`,
   },
 
   {
@@ -221,9 +229,17 @@ nay nhiều yếu tố nguy hiểm đã được kiểm soát.`,
 ⚡ **Đặc trưng:**
 - Tổ hợp mang tính **U BUỒN**
 - Báo hiệu **TANG SỰ**, nhất là khi nhập hạn xấu
-- Có thể **BIẾN ĐỔI PHI THƯỜNG**
+- Có thể **BIẾN ĐỔI PHI THƯỜNG**`,
+  },
 
-⚠️ **+ Đào Hoa + Thiên Việt + cung tình cảm bất ổn:**
+  {
+    id: 'thien-thuong-han-tang-mon-dao-viet',
+    title: '⚠️ Hạn: Thương + Tang Môn + Đào Hoa + Thiên Việt - cách biệt âm dương',
+    sao: ['Thiên Thương'],
+    ketHop: ['Tang Môn', 'Đào Hoa', 'Thiên Việt'],
+    doUuTien: 50,
+    tomTat: `⚠️ **Thiên Thương + Tang Môn + Đào Hoa + Thiên Việt vào hạn** (cung
+tình cảm bất ổn):
 - Tín hiệu **KẾT THÚC, ĐỔ VỠ** mối quan hệ kỳ vọng nhiều
 - Trường hợp nặng → **CÁCH BIỆT ÂM DƯƠNG** với người thân cận`,
   },

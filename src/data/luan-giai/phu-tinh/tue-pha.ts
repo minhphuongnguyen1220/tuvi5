@@ -156,9 +156,17 @@ cho người khác.`,
 - Là những người hay **BẤT BÌNH**
 - **ĐỨNG LÊN ĐẤU TRANH** trong công việc lẫn đời sống
 - Ra ngoài dễ dính **THỊ PHI, KIỆN CÁO PHÁP LUẬT**
-- Có người hay **ĐAU RĂNG, SÂU RĂNG**, hay phải đi **KHÁM CHỮA RĂNG**
+- Có người hay **ĐAU RĂNG, SÂU RĂNG**, hay phải đi **KHÁM CHỮA RĂNG**`,
+  },
 
-⚠️ **+ Sát Hình Kỵ:**
+  {
+    id: 'tue-pha-tai-phu-mau-sat-hinh-ky',
+    title: 'Tuế Phá tại Phụ Mẫu + Sát Hình Kỵ - hình khắc',
+    sao: ['Tuế Phá'],
+    cung: ['Phụ Mẫu'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Thiên Hình', 'Hóa Kỵ'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tuế Phá tại Phụ Mẫu + Sát tinh + Thiên Hình + Hóa Kỵ:**
 - Càng dễ tạo ra **TÍNH HÌNH KHẮC** cho mối quan hệ
 - Chủ mệnh nên tìm cách **SỚM XA GIA ĐÌNH** để **TRÁNH ẢNH HƯỞNG XẤU**`,
   },
@@ -181,8 +189,17 @@ cho người khác.`,
 - Hoặc phải **DI DỜI CHUYỂN MỘ** đi nơi khác
 
 ⚠️ Đời sống tinh thần có **NHIỀU BIẾN ĐỘNG**:
-- Bên trong **ẨN GIẤU** những suy nghĩ **bất mãn** nhưng không bộc lộ
-- **+ Kình Dương / Hỏa Linh:** năng lượng tinh thần đó **BỘC PHÁT MẠNH MẼ**`,
+- Bên trong **ẨN GIẤU** những suy nghĩ **bất mãn** nhưng không bộc lộ`,
+  },
+
+  {
+    id: 'tue-pha-tai-phuc-duc-kinh-hoa-linh',
+    title: 'Tuế Phá tại Phúc Đức + Kình Dương / Hỏa Linh - bộc phát',
+    sao: ['Tuế Phá'],
+    cung: ['Phúc Đức'],
+    ketHop: ['Kình Dương', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tuế Phá tại Phúc Đức + Kình Dương / Hỏa Tinh / Linh Tinh:** năng lượng tinh thần ẩn giấu **BỘC PHÁT MẠNH MẼ**.`,
   },
 
   {
@@ -196,13 +213,29 @@ cho người khác.`,
 - Người ở trong nhà thường hay **ĐAU RĂNG**
 - Nhà thường hay **HỎNG CỬA CỔNG**
 - **CÔNG NĂNG và THIẾT KẾ KHÔNG HỢP LÝ**, gây khó chịu cho người ở
-- **ĐẤT Ở XẤU**, dễ phải có lần **BÁN NHÀ, BÁN ĐẤT**
+- **ĐẤT Ở XẤU**, dễ phải có lần **BÁN NHÀ, BÁN ĐẤT**`,
+  },
 
-⚠️ **+ Sát Kỵ Hình:**
+  {
+    id: 'tue-pha-tai-dien-trach-sat-ky-hinh',
+    title: 'Tuế Phá tại Điền Trạch + Sát Kỵ Hình - tranh chấp đất đai',
+    sao: ['Tuế Phá'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Hóa Kỵ', 'Thiên Hình'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tuế Phá tại Điền Trạch + Sát tinh + Hóa Kỵ + Thiên Hình:**
 - Càng **BẤT LỢI**
-- Tình trạng **TRANH CHẤP đất đai, tài sản** rất dễ xảy ra
+- Tình trạng **TRANH CHẤP đất đai, tài sản** rất dễ xảy ra`,
+  },
 
-🌟 **+ Tả Phù / Hữu Bật / Khôi Việt + Lộc:**
+  {
+    id: 'tue-pha-tai-dien-trach-ta-huu-khoi-viet-loc',
+    title: 'Tuế Phá tại Điền Trạch + Tả Hữu / Khôi Việt + Lộc - bán nhà thuận lợi',
+    sao: ['Tuế Phá'],
+    cung: ['Điền Trạch'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt', 'Lộc Tồn', 'Hóa Lộc'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tuế Phá tại Điền Trạch + Tả Phù / Hữu Bật / Thiên Khôi / Thiên Việt + Lộc Tồn / Hóa Lộc:**
 - Việc **GIAO DỊCH bán nhà** diễn ra **NHANH CHÓNG, THUẬN LỢI**`,
   },
 
@@ -226,10 +259,17 @@ cho người khác.`,
 🌟 **Nghề phù hợp** (kiểm tra, rà soát, bắt bẻ lỗi sai):
 - **CÔNG AN, CẢNH SÁT HÌNH SỰ**
 - **KIỂM SÁT VIÊN, KIỂM TOÁN**
-- **THẨM PHÁN, LUẬT SƯ**
+- **THẨM PHÁN, LUẬT SƯ**`,
+  },
 
-🌟 **+ Cơ Nguyệt Đồng Lương + Thiên Hình + Quang Quý:** là **BÁC SỸ NHA KHOA
-GIỎI**.`,
+  {
+    id: 'tue-pha-tai-quan-loc-co-nguyet-dong-luong-hinh-quang-quy',
+    title: 'Tuế Phá tại Quan Lộc + Cơ Nguyệt Đồng Lương + Hình + Quang Quý - bác sỹ nha khoa',
+    sao: ['Tuế Phá'],
+    cung: ['Quan Lộc'],
+    ketHop: ['Thiên Cơ', 'Thái Âm', 'Thiên Đồng', 'Thiên Lương', 'Thiên Hình', 'Ân Quang', 'Thiên Quý'],
+    doUuTien: 73,
+    tomTat: `🌟 **Tuế Phá tại Quan Lộc + Thiên Cơ + Thái Âm + Thiên Đồng + Thiên Lương + Thiên Hình + Ân Quang + Thiên Quý:** là **BÁC SỸ NHA KHOA GIỎI**.`,
   },
 
   {
@@ -243,16 +283,30 @@ GIỎI**.`,
 - **KHÔNG THÀNH THẬT**
 - **Không được bạn em ưa**
 - Hay có **BẤT ĐỒNG, KHÓ CHỊU** với nhau
-- Hay phải **KÊU THAN vì bạn bè**
+- Hay phải **KÊU THAN vì bạn bè**`,
+  },
 
-⚠️ **+ Hỏa Linh / Kình Đà / Không Kiếp:**
+  {
+    id: 'tue-pha-tai-no-boc-hoa-linh-kinh-da-khong-kiep',
+    title: 'Tuế Phá tại Nô Bộc + Hỏa Linh / Kình Đà / Không Kiếp - ít bạn bè xa cách',
+    sao: ['Tuế Phá'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Hỏa Tinh', 'Linh Tinh', 'Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp'],
+    doUuTien: 65,
+    tomTat: `⚠️ **Tuế Phá tại Nô Bộc + Hỏa Tinh / Linh Tinh / Kình Dương / Đà La / Địa Không / Địa Kiếp:**
 - Càng **ÍT BẠN BÈ**
-- Hầu hết những người chơi với chủ mệnh đều tỏ thái độ **BẤT MÃN, không thể HÒA
-  HỢP** khi ở gần
-- Dần dà sẽ có sự **XA CÁCH**
+- Hầu hết những người chơi với chủ mệnh đều tỏ thái độ **BẤT MÃN, không thể HÒA HỢP** khi ở gần
+- Dần dà sẽ có sự **XA CÁCH**`,
+  },
 
-🌟 **+ Tả Phù / Hữu Bật:** bạn bè tuy hay **GÓP Ý THẲNG THẮN, KHÓ NGHE** nhưng
-vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
+  {
+    id: 'tue-pha-tai-no-boc-ta-huu',
+    title: 'Tuế Phá tại Nô Bộc + Tả Phù / Hữu Bật - bạn thẳng thắn giúp đỡ',
+    sao: ['Tuế Phá'],
+    cung: ['Nô Bộc'],
+    ketHop: ['Tả Phù', 'Hữu Bật'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tuế Phá tại Nô Bộc + Tả Phù / Hữu Bật:** bạn bè tuy hay **GÓP Ý THẲNG THẮN, KHÓ NGHE** nhưng vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
   },
 
   {
@@ -270,9 +324,17 @@ vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
 ⚠️ **Mặt khó:**
 - Gặp nhiều sự **BẤT ĐỒNG, KHÓ CHỊU**
 - **Nhiều người chống đối lại**
-- Đôi khi khiến họ **MẤT LÒNG** với người chung quanh
+- Đôi khi khiến họ **MẤT LÒNG** với người chung quanh`,
+  },
 
-🌟 **+ Tả Hữu / Quang Quý / Tứ Linh (Long Trì + Phượng Các + Bạch Hổ + Hoa Cái):**
+  {
+    id: 'tue-pha-tai-thien-di-ta-huu-quang-quy-tu-linh',
+    title: 'Tuế Phá tại Thiên Di + Tả Hữu / Quang Quý / Tứ Linh - được ghi nhận',
+    sao: ['Tuế Phá'],
+    cung: ['Thiên Di'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Ân Quang', 'Thiên Quý', 'Long Trì', 'Phượng Các', 'Bạch Hổ', 'Hoa Cái'],
+    doUuTien: 73,
+    tomTat: `🌟 **Tuế Phá tại Thiên Di + Tả Phù / Hữu Bật / Ân Quang / Thiên Quý / Tứ Linh (Long Trì + Phượng Các + Bạch Hổ + Hoa Cái):**
 - Sự **ĐÓNG GÓP** của chủ mệnh được **GHI NHẬN**
 - Tạo nên **ẢNH HƯỞNG TÍCH CỰC** cho tập thể`,
   },
@@ -294,9 +356,17 @@ vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
 - Đem đến **TAI HỌA, BỆNH TẬT** cho mình
 - Hay phải chịu những **TAI HỌA, TAI NẠN KHÔNG PHẢI DO MÌNH** mà do **bên ngoài
   mang tới**
-- Gây **UẤT ỨC, CĂM HẬN**
+- Gây **UẤT ỨC, CĂM HẬN**`,
+  },
 
-⚠️ **+ Phá Quân / Đại Hao / Tiểu Hao / Kình Đà:**
+  {
+    id: 'tue-pha-tai-tat-ach-pha-hao-kinh-da',
+    title: 'Tuế Phá tại Tật Ách + Phá Quân / Hao / Kình Đà - bệnh tật tai họa',
+    sao: ['Tuế Phá'],
+    cung: ['Tật Ách'],
+    ketHop: ['Phá Quân', 'Đại Hao', 'Tiểu Hao', 'Kình Dương', 'Đà La'],
+    doUuTien: 73,
+    tomTat: `⚠️ **Tuế Phá tại Tật Ách + Phá Quân / Đại Hao / Tiểu Hao / Kình Dương / Đà La:**
 - Càng dễ gặp **XUNG ĐỘT, TRANH CHẤP**
 - Dẫn đến **BỆNH TẬT, TAI HỌA**`,
   },
@@ -314,13 +384,29 @@ vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
 - **TỐN TIỀN** cho việc **KHÁM CHỮA RĂNG, LỢI**
 
 🌟 **Nghề kiếm tiền của người Tuế Phá Tài:**
-- **NHỜ tranh cãi, đấu tranh, đòi quyền lợi** → kiếm được tiền
+- **NHỜ tranh cãi, đấu tranh, đòi quyền lợi** → kiếm được tiền`,
+  },
 
-🌟 **+ Hóa Khoa / Hóa Quyền / Thiên Khôi / Thiên Việt:**
+  {
+    id: 'tue-pha-tai-tai-bach-khoa-quyen-khoi-viet',
+    title: 'Tuế Phá tại Tài Bạch + Khoa / Quyền / Khôi Việt - phát tài chính đạo',
+    sao: ['Tuế Phá'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Hóa Khoa', 'Hóa Quyền', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tuế Phá tại Tài Bạch + Hóa Khoa / Hóa Quyền / Thiên Khôi / Thiên Việt:**
 - Con đường tài lộc **SÁNG**
-- Nhờ làm việc **CHÍNH ĐẠO** mà phát tài
+- Nhờ làm việc **CHÍNH ĐẠO** mà phát tài`,
+  },
 
-⚠️ **+ Sát Tinh:**
+  {
+    id: 'tue-pha-tai-tai-bach-sat-tinh',
+    title: 'Tuế Phá tại Tài Bạch + Sát tinh - nghề rủi ro cao',
+    sao: ['Tuế Phá'],
+    cung: ['Tài Bạch'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tuế Phá tại Tài Bạch + Sát tinh:**
 - Phải kiếm tiền từ những nghề **RỦI RO CAO**:
   - **Đòi nợ thuê**
   - **Bảo kê**
@@ -339,18 +425,39 @@ vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
 - **Không đạt được những thành tích** như mình mong muốn
 - Hay **GÂY KHÓ CHỊU** cho đương số
 - Từ nhỏ đã **CHỐNG ĐỐI**, làm những điều **TRÁI NGƯỢC**, hay **KHÓC ĂN VẠ**
-- **Răng thường KHÔNG ĐẸP**
+- **Răng thường KHÔNG ĐẸP**`,
+  },
 
-⚠️ **+ Cơ / Cự / Nhật / Lương** (sao chủ về lý luận):
-- Càng **MUỘN PHIỀN** vì đường con cái
+  {
+    id: 'tue-pha-tai-tu-tuc-co-cu-nhat-luong',
+    title: 'Tuế Phá tại Tử Tức + Cơ / Cự / Nhật / Lương - muộn phiền con cái',
+    sao: ['Tuế Phá'],
+    cung: ['Tử Tức'],
+    ketHop: ['Thiên Cơ', 'Cự Môn', 'Thái Dương', 'Thiên Lương'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tuế Phá tại Tử Tức + Thiên Cơ / Cự Môn / Thái Dương / Thiên Lương** (sao chủ về lý luận): càng **MUỘN PHIỀN** vì đường con cái.`,
+  },
 
-🌟 **+ Xương Khúc / Khôi Việt:**
+  {
+    id: 'tue-pha-tai-tu-tuc-xuong-khuc-khoi-viet',
+    title: 'Tuế Phá tại Tử Tức + Xương Khúc / Khôi Việt - con thông minh',
+    sao: ['Tuế Phá'],
+    cung: ['Tử Tức'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 67,
+    tomTat: `🌟 **Tuế Phá tại Tử Tức + Văn Xương / Văn Khúc / Thiên Khôi / Thiên Việt:**
 - Dù con cái **BƯỚNG BỈNH** nhưng **THÔNG MINH**
-- Có khả năng **TỰ HỌC**
+- Có khả năng **TỰ HỌC**`,
+  },
 
-⚠️ **+ Kình Hỏa Kỵ:**
-- Phải đề phòng con cái gặp **TAI NẠN ở thuở nhỏ** vì tâm tính **TÒ MÒ, HIẾU
-  ĐỘNG**`,
+  {
+    id: 'tue-pha-tai-tu-tuc-kinh-hoa-ky',
+    title: 'Tuế Phá tại Tử Tức + Kình Hỏa Kỵ - tai nạn thuở nhỏ',
+    sao: ['Tuế Phá'],
+    cung: ['Tử Tức'],
+    ketHop: ['Kình Dương', 'Hỏa Tinh', 'Hóa Kỵ'],
+    doUuTien: 67,
+    tomTat: `⚠️ **Tuế Phá tại Tử Tức + Kình Dương / Hỏa Tinh / Hóa Kỵ:** phải đề phòng con cái gặp **TAI NẠN ở thuở nhỏ** vì tâm tính **TÒ MÒ, HIẾU ĐỘNG**.`,
   },
 
   {
@@ -367,16 +474,47 @@ vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
   CHỘP**
 - Luôn **LÀM THEO Ý MÌNH**, **không quan tâm cảm xúc đối phương**
 
-⚠️ **Người hôn phối:** răng **HƠI XẤU, KHẤP KHIỂNG**.
+⚠️ **Người hôn phối:** răng **HƠI XẤU, KHẤP KHIỂNG**.`,
+  },
 
-🌟 **+ Thiên Mã:** vợ chồng dễ **XA QUÊ, CÁCH QUÁN** — cưới nhau về cùng nhau
-**ĐI XA LẬP NGHIỆP**.
+  {
+    id: 'tue-pha-tai-phu-the-thien-ma',
+    title: 'Tuế Phá tại Phu Thê + Thiên Mã - xa quê lập nghiệp',
+    sao: ['Tuế Phá'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thiên Mã'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tuế Phá tại Phu Thê + Thiên Mã:** vợ chồng dễ **XA QUÊ, CÁCH QUÁN** — cưới nhau về cùng nhau **ĐI XA LẬP NGHIỆP**.`,
+  },
 
-⚠️ **+ Sát Bại Tinh + Tuần Triệt:** vợ chồng dễ **ÔM CON BỎ ĐI, CHIA TAY NHAU**.
+  {
+    id: 'tue-pha-tai-phu-the-sat-bai-tuan-triet',
+    title: 'Tuế Phá tại Phu Thê + Sát Bại + Tuần Triệt - chia tay',
+    sao: ['Tuế Phá'],
+    cung: ['Phu Thê'],
+    ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Tuần', 'Triệt'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tuế Phá tại Phu Thê + Sát bại tinh + Tuần / Triệt:** vợ chồng dễ **ÔM CON BỎ ĐI, CHIA TAY NHAU**.`,
+  },
 
-⚠️ **+ Thất Sát / Vũ Khúc / Hóa Kỵ / Kình Đà:** tác động **XẤU NẶNG NHẤT**.
+  {
+    id: 'tue-pha-tai-phu-the-sat-vu-ky-kinh-da',
+    title: 'Tuế Phá tại Phu Thê + Thất Sát / Vũ Khúc / Hóa Kỵ / Kình Đà - xấu nặng nhất',
+    sao: ['Tuế Phá'],
+    cung: ['Phu Thê'],
+    ketHop: ['Thất Sát', 'Vũ Khúc', 'Hóa Kỵ', 'Kình Dương', 'Đà La'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Tuế Phá tại Phu Thê + Thất Sát / Vũ Khúc / Hóa Kỵ / Kình Dương / Đà La:** tác động **XẤU NẶNG NHẤT**.`,
+  },
 
-🌟 **+ Lộc / Hóa Khoa / Văn Xương / Văn Khúc / Khôi Việt / Tứ Đức:**
+  {
+    id: 'tue-pha-tai-phu-the-loc-khoa-xuong-khuc-khoi-viet-tu-duc',
+    title: 'Tuế Phá tại Phu Thê + Lộc / Khoa / Xương Khúc / Khôi Việt / Tứ Đức - ít sóng gió',
+    sao: ['Tuế Phá'],
+    cung: ['Phu Thê'],
+    ketHop: ['Lộc Tồn', 'Hóa Lộc', 'Hóa Khoa', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
+    doUuTien: 70,
+    tomTat: `🌟 **Tuế Phá tại Phu Thê + Lộc Tồn / Hóa Lộc / Hóa Khoa / Văn Xương / Văn Khúc / Thiên Khôi / Thiên Việt / Tứ Đức (Long Đức + Phúc Đức + Thiên Đức + Nguyệt Đức):**
 - Mối quan hệ **ÍT SÓNG GIÓ**
 - Duy trì được sự **TỐT ĐẸP**`,
   },
@@ -389,14 +527,29 @@ vẫn **THẬT LÒNG GIÚP ĐỠ, HỖ TRỢ**.`,
     doUuTien: 70,
     tomTat: `⚠️ **Tuế Phá tại Huynh Đệ:**
 - Anh chị em **KHÔNG HỢP TÍNH** nhau
-- Hay có **BẤT ĐỒNG, CHỐNG ĐỐI**
+- Hay có **BẤT ĐỒNG, CHỐNG ĐỐI**`,
+  },
 
-🌟 **+ Thiên Mã:** anh chị em **XA CÁCH**, **mỗi người một phương**:
+  {
+    id: 'tue-pha-tai-huynh-de-thien-ma',
+    title: 'Tuế Phá tại Huynh Đệ + Thiên Mã - mỗi người một phương',
+    sao: ['Tuế Phá'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Thiên Mã'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tuế Phá tại Huynh Đệ + Thiên Mã:** anh chị em **XA CÁCH**, **mỗi người một phương**:
 - **NGHỊ LỰC CAO**
-- Gặp nhau là vẫn hay **TRANH LUẬN, CÃI NHAU**
+- Gặp nhau là vẫn hay **TRANH LUẬN, CÃI NHAU**`,
+  },
 
-🌟 **+ Cát Tinh:** bên ngoài có thể **PHẢN ĐỐI** nhưng trong lòng vẫn **ÂM THẦM
-TRỢ GIÚP** nhau:
+  {
+    id: 'tue-pha-tai-huynh-de-cat-tinh',
+    title: 'Tuế Phá tại Huynh Đệ + Cát tinh - âm thầm trợ giúp',
+    sao: ['Tuế Phá'],
+    cung: ['Huynh Đệ'],
+    ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tuế Phá tại Huynh Đệ + Cát tinh (Lục Cát):** bên ngoài có thể **PHẢN ĐỐI** nhưng trong lòng vẫn **ÂM THẦM TRỢ GIÚP** nhau:
 - Chỉ cần chủ mệnh **không khước từ** hoặc gây tổn hại mối quan hệ
 - Vẫn có được **TRỢ LỰC từ anh chị em**`,
   },
@@ -430,11 +583,18 @@ trong tình cảm, hành xử **buông tuồng**.`,
 - Nhiều **NHÀ KHOA HỌC, HỌC GIẢ** thành danh nhờ tính "**chưa bao giờ thấy đủ**"
   ấy để **BỨT PHÁ**
 
-🌟 **+ Hóa Khoa:** danh tiếng càng dễ **VANG XA**.
-
 ⚠️ **Cảnh báo:** để danh tiếng đi đôi với **NỘI LỰC bản thân** thì phải có
 **CÁT TINH TRỢ LỰC** — nếu không sẽ rơi vào cảnh "**THÙNG RỖNG KÊU TO**", có
 **TIẾNG nhưng không có MIẾNG**.`,
+  },
+
+  {
+    id: 'tue-pha-xuong-khuc-hoa-khoa',
+    title: 'Tuế Phá + Văn Xương + Văn Khúc + Hóa Khoa - danh tiếng vang xa',
+    sao: ['Tuế Phá'],
+    ketHop: ['Văn Xương', 'Văn Khúc', 'Hóa Khoa'],
+    doUuTien: 65,
+    tomTat: `🌟 **Tuế Phá + Văn Xương + Văn Khúc + Hóa Khoa:** danh tiếng càng dễ **VANG XA**.`,
   },
 
   {

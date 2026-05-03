@@ -2037,8 +2037,6 @@ Khi có **các sát tinh đồng hợp**:
     doUuTien: 80,
     tomTat: `**Liêm Trinh tại Huynh Đệ:** trong nhà **nhiều anh em**.
 
-✅ **+ Lộc Tồn:** thường được **giúp đỡ về mặt vật chất**.
-
 ⚠️ Hễ Liêm Trinh thủ Huynh Đệ thì giữa anh em / bạn bè **không nên quá thân
 mật** — cần **ứng xử khéo léo** trong mối quan hệ.`,
 
@@ -2056,6 +2054,17 @@ Khi có **Lộc Tồn**:
 Hễ Liêm Trinh thủ cung Huynh Đệ thì giữa anh em, bạn bè:
 - **Không nên quá thân mật**
 - Cần phải **ứng xử khéo léo** trong mối quan hệ`,
+  },
+
+  {
+    id: 'liem-trinh-tai-huynh-de-loc-ton',
+    title: 'Liêm Trinh + Lộc Tồn tại Huynh Đệ - được giúp đỡ vật chất',
+    sao: ['Liêm Trinh'],
+    ketHop: ['Lộc Tồn'],
+    cung: ['Huynh Đệ'],
+    doUuTien: 75,
+    tomTat: `✅ **Liêm Trinh + Lộc Tồn tại Huynh Đệ:** thường được **giúp đỡ về
+mặt vật chất**.`,
   },
 
   // ============================================================
@@ -2095,14 +2104,25 @@ lợi làm ăn**.`,
   },
 
   {
-    id: 'liem-trinh-tai-thien-di-hoa-ky-that-sat',
-    title: 'Liêm Trinh tại Thiên Di + Hóa Kỵ hoặc + Thất Sát đồng cung',
+    id: 'liem-trinh-tai-thien-di-hoa-ky',
+    title: '⚠️ Liêm Trinh + Hóa Kỵ tại Thiên Di',
     sao: ['Liêm Trinh'],
     cung: ['Thiên Di'],
-    ketHop: ['Hóa Kỵ', 'Thất Sát'],
+    ketHop: ['Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `⚠️ **Liêm Trinh tại Thiên Di + Hóa Kỵ** hoặc **+ Thất Sát đồng cung:**
-nên cẩn trọng về **sự cố, tai nạn**, có thể **đổ máu**.`,
+    tomTat: `⚠️ **Liêm Trinh + Hóa Kỵ tại Thiên Di:** nên cẩn trọng về **sự cố,
+tai nạn**, có thể **đổ máu**.`,
+  },
+
+  {
+    id: 'liem-trinh-tai-thien-di-that-sat',
+    title: '⚠️ Liêm Trinh + Thất Sát tại Thiên Di',
+    sao: ['Liêm Trinh'],
+    cung: ['Thiên Di'],
+    ketHop: ['Thất Sát'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Liêm Trinh + Thất Sát đồng cung tại Thiên Di:** nên cẩn trọng
+về **sự cố, tai nạn**, có thể **đổ máu**.`,
   },
 
   // ============================================================

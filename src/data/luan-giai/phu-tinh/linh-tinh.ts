@@ -67,14 +67,14 @@ Khi đóng bất cứ đâu, Hỏa Linh đều mang theo:
 - Hay **lo toan, lo lắng**
 - Về lâu dài → **căng thẳng thần kinh, trầm cảm, phẫn uất**
 
-⚠️ **+ Thiên Cơ / Thiên Lương** (sao Mộc): có thể dẫn tới **điên dại, bệnh thần kinh**.
+⚠️ Khi có thêm **Thiên Cơ / Thiên Lương** (sao Mộc): có thể dẫn tới **điên dại, bệnh thần kinh**.
 
 ## Tác họa vật chất
 
 Hỏa Linh đóng vai như **tia lửa điện, vật nóng** → gây **cháy nổ, điện giật,
 súng đạn**.
 
-⚠️ **+ Hình / Việt / Kỵ:** càng rõ rệt — tai họa đến **NHANH**.
+⚠️ Khi có thêm **Thiên Hình / Thiên Việt / Hóa Kỵ**: càng rõ rệt — tai họa đến **NHANH**.
 
 ## Đặc điểm "nội tâm"
 
@@ -99,8 +99,8 @@ ra bệnh**.
 
 Người tìm hiểu tâm linh thường cho rằng đó là **"bị ma làm, bị cơ hành"**.
 
-⚠️ **+ Thiên Cơ / Cự Môn / Thiên Riêu / Đà La / Hóa Kỵ:** hiệu ứng này càng **rõ
-rệt**.
+⚠️ Khi có thêm **Thiên Cơ / Cự Môn / Thiên Riêu / Đà La / Hóa Kỵ**: hiệu ứng
+này càng **rõ rệt**.
 
 → Cách hóa giải: cần **Tuần Triệt / Tuyệt / Tử** + **phúc thiện tinh** đi cùng
 để **hướng thiện, giác ngộ, thoát tham sân si** → "không còn âu lo sầu tư".`,

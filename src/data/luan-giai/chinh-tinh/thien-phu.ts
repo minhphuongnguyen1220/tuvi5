@@ -542,11 +542,41 @@ Lộc:** cảnh báo **nguy cơ pháp lý, tranh chấp, kiện tụng**.`,
 nhận, quý trọng**. Trong công việc được **giúp sức từ cấp dưới, đồng nghiệp tài
 năng**.
 
-⚠️ **+ Thiên Tướng hội chiếu + Đại Hao / Địa Không / Địa Kiếp:** nguy cơ **bị
-phản bội, hãm hại, đâm sau lưng**.
-
 ⚠️ Theo nguyên tắc cổ: **Nô Bộc là vị trí gặp hãm, vô dụng** đối với Thiên Phủ
 — cần cát tinh để phát huy.`,
+  },
+
+  {
+    id: 'thien-phu-tai-no-boc-tuong-dai-hao',
+    title: '⚠️ Thiên Phủ + Thiên Tướng + Đại Hao tại Nô Bộc - bị phản bội',
+    sao: ['Thiên Phủ'],
+    ketHop: ['Thiên Tướng', 'Đại Hao'],
+    cung: ['Nô Bộc'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Phủ + Thiên Tướng hội chiếu + Đại Hao tại Nô Bộc:** nguy
+cơ **bị phản bội, hãm hại, đâm sau lưng**.`,
+  },
+
+  {
+    id: 'thien-phu-tai-no-boc-tuong-dia-khong',
+    title: '⚠️ Thiên Phủ + Thiên Tướng + Địa Không tại Nô Bộc - bị phản bội',
+    sao: ['Thiên Phủ'],
+    ketHop: ['Thiên Tướng', 'Địa Không'],
+    cung: ['Nô Bộc'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Phủ + Thiên Tướng hội chiếu + Địa Không tại Nô Bộc:**
+nguy cơ **bị phản bội, hãm hại, đâm sau lưng**.`,
+  },
+
+  {
+    id: 'thien-phu-tai-no-boc-tuong-dia-kiep',
+    title: '⚠️ Thiên Phủ + Thiên Tướng + Địa Kiếp tại Nô Bộc - bị phản bội',
+    sao: ['Thiên Phủ'],
+    ketHop: ['Thiên Tướng', 'Địa Kiếp'],
+    cung: ['Nô Bộc'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Thiên Phủ + Thiên Tướng hội chiếu + Địa Kiếp tại Nô Bộc:** nguy
+cơ **bị phản bội, hãm hại, đâm sau lưng**.`,
   },
 
   // ============================================================
@@ -559,10 +589,29 @@ phản bội, hãm hại, đâm sau lưng**.
     cung: ['Thiên Di'],
     doUuTien: 78,
     tomTat: `**Thiên Phủ tại Thiên Di:** quan hệ xã hội **ổn định**, nhiều bạn bè
-người quen — nhưng cần **xây dựng từng bước**.
+người quen — nhưng cần **xây dựng từng bước**.`,
+  },
 
-- **+ Vũ Khúc, Tử Vi đồng cung:** tiềm năng **làm ăn, kinh doanh**, trở nên giàu
-  có (cần cát tinh bổ trợ)`,
+  {
+    id: 'thien-phu-tai-thien-di-vu-khuc',
+    title: 'Thiên Phủ + Vũ Khúc tại Thiên Di - làm ăn giàu có',
+    sao: ['Thiên Phủ'],
+    ketHop: ['Vũ Khúc'],
+    cung: ['Thiên Di'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thiên Phủ + Vũ Khúc đồng cung tại Thiên Di:** tiềm năng **làm
+ăn, kinh doanh**, trở nên giàu có (cần cát tinh bổ trợ).`,
+  },
+
+  {
+    id: 'thien-phu-tai-thien-di-tu-vi',
+    title: 'Thiên Phủ + Tử Vi tại Thiên Di - làm ăn giàu có',
+    sao: ['Thiên Phủ'],
+    ketHop: ['Tử Vi'],
+    cung: ['Thiên Di'],
+    doUuTien: 73,
+    tomTat: `🌟 **Thiên Phủ + Tử Vi đồng cung tại Thiên Di:** tiềm năng **làm
+ăn, kinh doanh**, trở nên giàu có (cần cát tinh bổ trợ).`,
   },
 
   // ============================================================
@@ -630,10 +679,29 @@ bán, kinh doanh**, **giàu nhanh, phát tài sau một đêm**.`,
     cung: ['Tử Tức'],
     doUuTien: 80,
     tomTat: `**Thiên Phủ tại Tử Tức:** có **lộc về đường con cái** — dễ có con
-hoặc **con cái thành đạt**, được **nhờ cậy con cái khi về già**.
+hoặc **con cái thành đạt**, được **nhờ cậy con cái khi về già**.`,
+  },
 
-- **+ Văn Xương, Vũ Khúc:** con cái **trí tuệ xuất chúng**, ngoan ngoãn, nghe lời
-  → cha mẹ không phải lo lắng nhiều`,
+  {
+    id: 'thien-phu-tai-tu-tuc-van-xuong',
+    title: 'Thiên Phủ + Văn Xương tại Tử Tức - con trí tuệ xuất chúng',
+    sao: ['Thiên Phủ'],
+    ketHop: ['Văn Xương'],
+    cung: ['Tử Tức'],
+    doUuTien: 75,
+    tomTat: `🌟 **Thiên Phủ + Văn Xương tại Tử Tức:** con cái **trí tuệ xuất
+chúng**, ngoan ngoãn, nghe lời → cha mẹ không phải lo lắng nhiều.`,
+  },
+
+  {
+    id: 'thien-phu-tai-tu-tuc-vu-khuc',
+    title: 'Thiên Phủ + Vũ Khúc tại Tử Tức - con trí tuệ xuất chúng',
+    sao: ['Thiên Phủ'],
+    ketHop: ['Vũ Khúc'],
+    cung: ['Tử Tức'],
+    doUuTien: 75,
+    tomTat: `🌟 **Thiên Phủ + Vũ Khúc tại Tử Tức:** con cái **trí tuệ xuất
+chúng**, ngoan ngoãn, nghe lời → cha mẹ không phải lo lắng nhiều.`,
   },
 
   // ============================================================

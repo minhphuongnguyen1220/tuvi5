@@ -609,8 +609,8 @@ buồn thật", khó giữ an nhiên lâu dài.
     tomTat: `🌟 **Hạn có Thiên Hỷ + Hồng Loan + Đào Hoa:** có **tình duyên**, có
 **bồ bịch**, hạn **cưới xin**, **sinh con**, có **tin vui**.
 
-🌟 **+ Hồng + Tả Hữu + Long Phượng + Thiên Riêu:** có **hỷ sự**, **thành gia
-thất**, **thăng quan tiến chức**.
+🌟 Khi có thêm **Hồng Loan + Tả Hữu + Long Trì / Phượng Các + Thiên Riêu**:
+có **hỷ sự**, **thành gia thất**, **thăng quan tiến chức**.
 
 🌟 **Song Hỷ + Đào + Hồng + Khôi + Việt:** **cưới vợ cưới chồng, sinh đẻ quý tử**.
 

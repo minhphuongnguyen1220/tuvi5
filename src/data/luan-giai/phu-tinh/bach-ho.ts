@@ -537,9 +537,17 @@ lúc nào cũng **VẤT VẢ chăm chăm vào việc kiếm tiền**.
 bạc**, dễ làm các nghề liên quan **TÀI CHÍNH**:
 - **Kế toán, kiểm toán**
 - **Thủ quỹ, thủ kho**
-- **Quản lý tài sản**, kinh doanh quy mô lớn
+- **Quản lý tài sản**, kinh doanh quy mô lớn`,
+  },
 
-⚠️ **+ Thiên Hình + Liêm Trinh + Hóa Kỵ:**
+  {
+    id: 'bach-ho-tai-tai-bach-hinh-liem-ky',
+    title: '⚠️ Bạch Hổ + Thiên Hình + Liêm Trinh + Hóa Kỵ tại Tài Bạch - tù tội vì tiền',
+    sao: ['Bạch Hổ'],
+    ketHop: ['Thiên Hình', 'Liêm Trinh', 'Hóa Kỵ'],
+    cung: ['Tài Bạch'],
+    doUuTien: 70,
+    tomTat: `⚠️ **Bạch Hổ + Thiên Hình + Liêm Trinh + Hóa Kỵ tại Tài Bạch:**
 - **TAI HỌA liên quan TIỀN BẠC**
 - Có thể **NGỒI TÙ** vì tiền
 - Hoặc bị **lừa gạt, mất trắng**`,
@@ -645,9 +653,9 @@ thì **KHÔNG CÓ CON CÁI**.`,
 
 🌟 **Bạch Hổ ĐẮC địa:** người hôn phối là người **UY QUYỀN**.
 
-🌟 **+ Cát Tinh (đặc biệt Hóa Quyền, Khôi Việt):** thường làm **QUAN TO**, giảm
-thiểu các tác nhân xấu về bệnh tật. Trợ giúp tốt cho sự nghiệp đương số — tuy
-nhiên cũng dẫn tới xu hướng **GIA TRƯỞNG** trong gia đình.`,
+🌟 Khi có thêm **Cát Tinh** (đặc biệt **Hóa Quyền, Khôi Việt**): thường làm
+**QUAN TO**, giảm thiểu các tác nhân xấu về bệnh tật. Trợ giúp tốt cho sự
+nghiệp đương số — tuy nhiên cũng dẫn tới xu hướng **GIA TRƯỞNG** trong gia đình.`,
   },
 
   {
@@ -691,8 +699,9 @@ tới rạn nứt — cần vun đắp khéo léo mới giữ được hòa khí
 - **Quan tòa, luật sư**
 - **Nhà diễn thuyết, MC**
 
-🌟 **+ Lưu Hà / Lưu Thiên Khốc / Lưu Thiên Hư / Văn Xương / Văn Khúc:** tài
-hùng biện diễn thuyết có thể **VƯƠN ĐẾN TẦM QUỐC TẾ** — thành danh sớm.`,
+🌟 Khi có thêm **Lưu Hà / Lưu Thiên Khốc / Lưu Thiên Hư / Văn Xương / Văn
+Khúc**: tài hùng biện diễn thuyết có thể **VƯƠN ĐẾN TẦM QUỐC TẾ** — thành danh
+sớm.`,
   },
 
   {
