@@ -20,27 +20,27 @@ TẮC**.
 
 **Ngũ hành:** **Hỏa**.
 
-⚡ **Hình tượng:** người "**CẦM CÂN NẢY MỰC**" sau lưng Thái Tuế.
+**Hình tượng:** người "**CẦM CÂN NẢY MỰC**" sau lưng Thái Tuế.
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - **CÔ ĐỘC, KHẮT KHE, NGUYÊN TẮC**
 - **NGĂN NẮP, CẨN THẬN**
 - **GIỮ CỦA BỀN LÂU**
 
-⚡ **Tác động chính - hai mặt:**
+**Tác động chính - hai mặt:**
 - **TỐT:** mang lại sự **CHUẨN MỰC, BỀN BỈ**, khả năng **DUY TRÌ THÀNH QUẢ**
 - **XẤU:** **CÔ ĐỘC, KHẮT KHE, BẢO THỦ**, khó dung hòa với người khác
 
-⚡ **Duyên vận:**
+**Duyên vận:**
 - Thường **KẾT HÔN MUỘN** do **KỸ TÍNH** trong việc lựa chọn hôn phối
 - Tình cảm dễ có **KHOẢNG CÁCH**, thiếu **THẤU HIỂU**
 
-⚡ **Sự nghiệp:**
+**Sự nghiệp:**
 - Hợp công việc **TỈ MỈ, KỶ LUẬT, TÍNH TOÁN**
 - **KẾ TOÁN, THỦ QUỸ, THỦ KHO**
 - Có thể **BỎ LỠ CƠ HỘI MỚI** nếu quá **BẢO THỦ**
 
-⚡ **Tài lộc:**
+**Tài lộc:**
 - **GIỎI TÍCH LŨY** tài sản
 - **DUY TRÌ ỔN ĐỊNH** dòng tiền
 - **ÍT TIÊU XÀI HOANG PHÍ**
@@ -59,24 +59,24 @@ TẮC**.
     doUuTien: 80,
     tomTat: `**Đẩu Quân tại Mệnh** — chủ tính tình **CỐ CHẤP, ĐƠN ĐỘC**.
 
-⚡ **Trách nhiệm:**
+**Trách nhiệm:**
 - Người "**CẦM CÂN NẢY MỰC**" sau lưng Thái Tuế
 - Có **TRÁCH NHIỆM NẶNG NỀ**
 - Giỏi **QUẢN LÝ TÀI SẢN, NGÂN SÁCH, TÀI CHÍNH**
 
-⚡ **Tính cách:**
+**Tính cách:**
 - Khá giống **CÔ THẦN** — xu hướng **CÔ ĐỘC, ÍT BẠN BÈ**
 - Bị hiểu lầm là **KHẮT KHE, KHÓ GẦN**
 - Sống **CẨN THẬN, KỸ TÍNH, NGUYÊN TẮC**
 
-⚡ **Tướng mạo:**
+**Tướng mạo:**
 - **SẮC DIỆN NGHIÊM NGHỊ**
 - **ÍT KHI CƯỜI NÓI**
 - **ÁNH MẮT SẮC SẢO, TRẦM TĨNH**
 - **PHONG THÁI ĐĨNH ĐẠC**
 - Ít biểu lộ **CẢM XÚC** ra bên ngoài
 
-⚡ **Công danh - tài lộc:**
+**Công danh - tài lộc:**
 - Chủ về **GIỮ CỦA**
 - Thường được **GIAO QUYỀN QUẢN LÝ TÀI CHÍNH, NGÂN SÁCH**
 - Hợp **THỦ KHO, THỦ QUỸ, KẾ TOÁN**`,
@@ -91,8 +91,8 @@ TẮC**.
     doUuTien: 60,
     tomTat: `**Đẩu Quân + sát bại tinh tại Mệnh** — dễ thành **GIAN XẢO, QUỶ QUYỆT**.
 
-⚡ **Đặc trưng:**
-- Tính tỉ mỉ kỹ lưỡng → dùng vào **MƯU MÔ XẤU**
+**Đặc trưng:**
+- Tính tỉ mỉ kỹ lưỡng: dùng vào **MƯU MÔ XẤU**
 - **GIAN XẢO, QUỶ QUYỆT**
 - Dễ vướng **CHUYỆN BẤT CHÍNH**`,
   },
@@ -107,7 +107,7 @@ TẮC**.
     tomTat: `**Đẩu Quân + Lộc Tồn + Vũ Khúc + Cô Thần - Quả Tú tại Mệnh** — tính cách
 **KEO KIỆT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Tính cách thêm **KEO KIỆT, BẦN TIỆN**
 - Kiểu người "**VẮT CỔ CHÀY RA NƯỚC**"
 - Chỉ biết **TÍNH TOÁN CHO BẢN THÂN**`,
@@ -125,13 +125,13 @@ TẮC**.
     doUuTien: 75,
     tomTat: `**Đẩu Quân tại Phụ Mẫu** — cha mẹ **KHÓ TÍNH, NGHIÊM KHẮC**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cha mẹ **KHÓ TÍNH, NGHIÊM KHẮC**
 - Đặt nặng **KỶ CƯƠNG NỀ NẾP** trong nuôi dạy
 - Tính cách **ÁP ĐẶT** dễ khiến gia đình **NẶNG NỀ**
 - Dễ **HIỂU LẦM, BẤT HÒA**
 
-⚡ **Nghề nghiệp cha mẹ:**
+**Nghề nghiệp cha mẹ:**
 - Một hoặc cả hai làm nghề liên quan **TÀI CHÍNH**
 - **KẾ TOÁN, THỦ QUỸ, HẬU CẦN**
 - Trong nhà hiếm **TIÊU XÀI PHUNG PHÍ**
@@ -146,14 +146,14 @@ TẮC**.
     doUuTien: 75,
     tomTat: `**Đẩu Quân tại Phúc Đức** — dòng họ **ÍT SUM HỌP**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Thiếu **GẮN KẾT** dòng tộc
 - Mỗi người mỗi tính, **KHÔNG AI NHƯỜNG AI**
 
-⚡ **Hội cát tinh:**
+**Hội cát tinh:**
 - Tổ tiên có thể từng **LÀM QUAN** hoặc **TRÔNG GIỮ KHO LƯƠNG, HẬU CẦN**
 
-⚡ **Phúc khí dòng tộc:**
+**Phúc khí dòng tộc:**
 - Có phần **KHẮT KHE, NGHIÊM NGẶT**
 - Đòi hỏi con cháu **ĂN NGAY Ở THẲNG, PHẢI ĐẠO**
 - Nhiều gia đình giữ **NỀ NẾP THỜ CÚNG CHUẨN CHỈNH**
@@ -169,12 +169,12 @@ TẮC**.
     tomTat: `**Đẩu Quân tại Điền Trạch** — chẳng khác nào **THỔ ĐỊA KHÓ TÍNH** ngồi
 canh cổng nhà.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Khắt khe và **TỈ MỈ trong CHUYỆN NHÀ CỬA**
 - Mọi ngóc ngách phải **NGĂN NẮP, TƯƠM TẤT**
 - Dễ thấy **TRÁI TAI GAI MẮT** khi nhà cửa lộn xộn
 
-⚡ **Giữ nhà rất kỹ:**
+**Giữ nhà rất kỹ:**
 - Coi nhà như **GỐC RỄ CUỘC ĐỜI**
 - Không dễ **THAY ĐỔI NƠI Ở**
 - Cách sống **QUY CỦ, NGHIÊM KHẮC**
@@ -189,20 +189,20 @@ canh cổng nhà.
     doUuTien: 78,
     tomTat: `**Đẩu Quân tại Quan Lộc** — gánh vác **VIỆC LỚN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Trong công việc **CHU TOÀN, NGUYÊN TẮC**
 - Cân đo đong đếm **TỪNG LY**
 - Dễ **MẤT LÒNG NGƯỜI KHÁC**
 
-⚡ **Trách nhiệm cao:**
+**Trách nhiệm cao:**
 - Hiếm khi **THAY ĐỔI MÔI TRƯỜNG LÀM VIỆC**
-- Thâm niên càng lâu → **VỊ TRÍ CÀNG VỮNG**
+- Thâm niên càng lâu: **VỊ TRÍ CÀNG VỮNG**
 - Công danh **THUẬN BUỒM XUÔI GIÓ**
 
-⚡ **Hội cát tinh:**
+**Hội cát tinh:**
 - Dễ được **THĂNG CHỨC, NẮM QUYỀN LÃNH ĐẠO**
 
-⚡ **Đi cùng sát bại tinh:**
+**Đi cùng sát bại tinh:**
 - Sinh **TÂM BẤT MÃN**
 - **KHÓ HÒA HỢP** với tập thể`,
   },
@@ -215,12 +215,12 @@ canh cổng nhà.
     doUuTien: 75,
     tomTat: `**Đẩu Quân tại Nô Bộc** — **ÍT BẠN BÈ, ÍT GIAO THIỆP**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **TÍNH TOÁN THIỆT HƠN**
 - Chơi với ai cũng **DÈ CHỪNG, GIỮ KHOẢNG CÁCH**
 - Khó **DUY TRÌ TÌNH BẠN THÂN THIẾT** lâu dài
 
-⚡ **Chốn công sở:**
+**Chốn công sở:**
 - Đặt yêu cầu cao về **CHỈN CHU, NGUYÊN TẮC, MINH BẠCH**
 - Sự khắt khe có thể dẫn đến **BẤT ĐỒNG** với đồng nghiệp / cấp dưới`,
   },
@@ -233,14 +233,14 @@ canh cổng nhà.
     doUuTien: 75,
     tomTat: `**Đẩu Quân tại Thiên Di** — khí chất **TRẦM LẶNG, TÍNH TOÁN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bị thiên hạ hiểu lầm là **LẠNH LÙNG**
 - "Sống chỉ biết mình"
 - Ra ngoài **ÍT NÓI, ÍT CƯỜI**
 - Mất nhiều thời gian để tạo **THIỆN CẢM**
 - Dễ vướng **THỊ PHI** không đáng có
 
-⚡ **Bất lợi:**
+**Bất lợi:**
 - Khó xây dựng hình ảnh **QUẢNG GIAO**
 - Dù **NĂNG LỰC + PHẨM CHẤT** vốn không tệ`,
   },
@@ -253,7 +253,7 @@ canh cổng nhà.
     doUuTien: 75,
     tomTat: `**Đẩu Quân tại Tật Ách** — **NGHĨ NHIỀU, LO XA, THẦN KINH CĂNG THẲNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Tâm trí lúc nào cũng **CÂN ĐO THIỆT HƠN**
 - Dễ **MẤT NGỦ, LO ÂU KÉO DÀI**
 - Một số đối mặt với:
@@ -271,7 +271,7 @@ canh cổng nhà.
     doUuTien: 65,
     tomTat: `**Đẩu Quân + Thiên Hình + Kình Dương tại Tật Ách** — nguy cơ **MỔ XẺ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bệnh nghiêng về hướng **MỔ XẺ, CHÂM CHÍCH**
 - **CAN THIỆP DAO KÉO**
 - Cần đề phòng **PHẪU THUẬT**`,
@@ -285,17 +285,17 @@ canh cổng nhà.
     doUuTien: 78,
     tomTat: `**Đẩu Quân tại Tài Bạch** — tiền vào tay **KHÔNG DỄ THẤT THOÁT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **BIẾT KIẾM TIỀN, BIẾT GIỮ TIỀN**
 - Đặc biệt giỏi **TÍNH TOÁN**
 - Tiêu xài **CHỪNG MỰC, RẠCH RÒI** từng khoản
 - Tính kỹ đến mức **KHÔNG LỆCH MỘT XU**
 
-⚡ **Phù hợp:**
+**Phù hợp:**
 - Công việc đòi hỏi **ĐỘ CHÍNH XÁC CAO**
 - **KẾ TOÁN, KIỂM TOÁN, TÀI CHÍNH, QUẢN LÝ TÀI SẢN**
 
-⚡ **Hội cát tinh:**
+**Hội cát tinh:**
 - Giữ vai trò "**TAY HÒM CHÌA KHÓA**"
 - Trong **NỘI BỘ GIA ĐÌNH, TẬP ĐOÀN, CƠ QUAN NHÀ NƯỚC**`,
   },
@@ -308,16 +308,16 @@ canh cổng nhà.
     doUuTien: 75,
     tomTat: `**Đẩu Quân tại Tử Tức** — dấu hiệu **HIẾM MUỘN, ÍT CON**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **HIẾM MUỘN, SINH NỞ CHẬM TRỄ**
 - **ÍT CON**
 - Tương tự các sao **CÔ THẦN, QUẢ TÚ, LỘC TỒN**
 
-⚡ **Quan hệ cha mẹ - con cái:**
+**Quan hệ cha mẹ - con cái:**
 - Có **NHIỀU KHOẢNG CÁCH**
 - Con cái **CẨN TRỌNG, KHÓ CHIỀU**, có phần **KHẮT KHE, KHÓ GẦN**
 - Thương vẫn thương, sống chung như **NƯỚC VỚI LỬA**
-- Mỗi người một ý → "**MẠNH AI NẤY SỐNG**" trong gia đình`,
+- Mỗi người một ý: "**MẠNH AI NẤY SỐNG**" trong gia đình`,
   },
 
   {
@@ -328,20 +328,20 @@ canh cổng nhà.
     doUuTien: 75,
     tomTat: `**Đẩu Quân tại Phu Thê** — **CON DAO HAI LƯỠI** trong tình duyên.
 
-⚡ **Mặt xấu:**
+**Mặt xấu:**
 - Khó **MỞ LÒNG**
 - Bạn đời **ÍT THẤU HIỂU TRỌN VẸN**
 - Tính khí **CẨN TRỌNG, KHẮT KHE** đôi khi thành **CỐ CHẤP**
 - Hôn nhân dễ "**CƠM KHÔNG LÀNH, CANH CHẲNG NGỌT**"
 - Đặc biệt nặng khi đi cùng **HUNG SÁT**
 
-⚡ **Mặt tốt - lá chắn:**
+**Mặt tốt - lá chắn:**
 - Sự **NGHIÊM TÚC, SỐNG CÓ CHỪNG MỰC** là "**LÁ CHẮN**"
 - Ngăn chặn thói **ĐÀO HOA, PHONG LƯU, DỄ DÃI**
 - Tiết chế **DỤC TÍNH**
 - Giữ gìn **CHUNG THỦY**, tránh **TÌNH CẢM NGOÀI LUỒNG**
 
-⚡ **Kén chọn bạn đời:**
+**Kén chọn bạn đời:**
 - Một khi tìm được **NGƯỜI XỨNG ĐÔI VỪA Ý**
 - **TRÂN TRỌNG và GIỮ GÌN**`,
   },
@@ -354,11 +354,11 @@ canh cổng nhà.
     doUuTien: 75,
     tomTat: `**Đẩu Quân tại Huynh Đệ** — anh chị em ruột **KHÓ HÒA HỢP**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Báo hiệu gia đình **ÍT ANH CHỊ EM**
 - Đông đúc cũng khó tìm **TIẾNG NÓI CHUNG**
 
-⚡ **Gặp Cô Thần, Quả Tú, Lộc Tồn, Vũ Khúc, Thất Sát:**
+**Gặp Cô Thần, Quả Tú, Lộc Tồn, Vũ Khúc, Thất Sát:**
 - Cảnh "**CÓ ANH EM MÀ CHẲNG ĐƯỢC NHỜ**"
 - Cùng dòng máu, cùng mái nhà, nhưng **TRONG LÒNG CÓ KHOẢNG CÁCH**`,
   },
@@ -376,7 +376,7 @@ canh cổng nhà.
     tomTat: `**Hạn Đẩu Quân + Kình Dương + Thiên Hình + Địa Kiếp + Phá Toái** — hạn
 **CƯA CẮT, MỔ XẺ**.
 
-⚡ **Lưu ý quan trọng:**
+**Lưu ý quan trọng:**
 - Cách luận theo **SAO ĐƠN LẺ KHÔNG CÒN CHÍNH XÁC**
 - Đẩu Quân chỉ là **MỘT MẢNH GHÉP NHỎ**
 - Phải đi kèm **NHÓM SÁT TINH MẠNH** (Kình - Hình - Kiếp - Phá Toái)
@@ -384,7 +384,7 @@ canh cổng nhà.
   THƯƠNG, HỌA HẠI**
 - Mới đủ tạo **CỤC DIỆN ĐÁNG LO**
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Nguy cơ **MỔ XẺ, PHẪU THUẬT**
 - **CƯA CẮT, CHÂM CHÍCH**`,
   },
@@ -398,13 +398,13 @@ canh cổng nhà.
     tomTat: `**Hạn Đẩu Quân + Thiên Khôi - Thiên Việt + Hóa Quyền** — **ĐẢM NHIỆM NHIỆM
 VỤ MỚI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Thời điểm được **GIAO PHÓ TRÁCH NHIỆM MỚI**
 - Đặc biệt công việc **QUẢN LÝ, SẮP XẾP TÀI CHÍNH, NGÂN SÁCH**
 - Tính **CẨN TRỌNG, NGĂN NẮP** giúp ghi điểm với cấp trên
 - Dễ được **TIN TƯỞNG GIAO PHÓ** vị trí cần **TỈ MỈ, CHÍNH XÁC**
 
-⚡ **Cát tinh + Khôi Việt + Hóa Quyền:**
+**Cát tinh + Khôi Việt + Hóa Quyền:**
 - **CẤT NHẮC VƯỢT BẬC**
 - **THĂNG TIẾN NHANH** hơn lộ trình bình thường`,
   },

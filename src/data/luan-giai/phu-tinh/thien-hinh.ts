@@ -6,16 +6,16 @@ import type { DoanLuanGiai } from '../types';
  * An theo THÁNG SINH (engine: khởi từ Dậu thuận theo tháng sinh).
  *
  * Đặc trưng:
- *   - Chủ quản SINH SÁT, lưỡng thiện lưỡng họa
- *   - LUÔN trong TAM HỢP với Thiên Riêu (cùng Tứ Mộ, cách 4 cung)
- *   - Ý tượng: SẤM SÉT, SÁT PHẠT, TÙ NGỤC, cai quản nạn ách con người
- *   - ĐẮC ĐỊA tại Dần / Thân / Mão / Dậu — phúc thọ song toàn
- *   - HÃM ĐỊA tại các cung còn lại
+ * - Chủ quản SINH SÁT, lưỡng thiện lưỡng họa
+ * - LUÔN trong TAM HỢP với Thiên Riêu (cùng Tứ Mộ, cách 4 cung)
+ * - Ý tượng: SẤM SÉT, SÁT PHẠT, TÙ NGỤC, cai quản nạn ách con người
+ * - ĐẮC ĐỊA tại Dần / Thân / Mão / Dậu — phúc thọ song toàn
+ * - HÃM ĐỊA tại các cung còn lại
  *
  * Bộ kết hợp đặc biệt:
- *   - BINH HÌNH TƯỚNG ẤN (Phục Binh + Thiên Hình + Tướng Quân + Quốc Ấn)
- *     = uy nghi lẫm liệt cầm quân
- *   - HÌNH RIÊU (Thiên Hình + Thiên Riêu) = dao kéo + đào hoa
+ * - BINH HÌNH TƯỚNG ẤN (Phục Binh + Thiên Hình + Tướng Quân + Quốc Ấn)
+ * = uy nghi lẫm liệt cầm quân
+ * - HÌNH RIÊU (Thiên Hình + Thiên Riêu) = dao kéo + đào hoa
  */
 export const luanGiai_ThienHinh: DoanLuanGiai[] = [
   {
@@ -27,24 +27,24 @@ export const luanGiai_ThienHinh: DoanLuanGiai[] = [
 
 **Ngũ hành:** **Dương Hỏa**.
 
-⚡ **Chủ quản:**
+**Chủ quản:**
 - **SINH SÁT, LƯỠNG THIỆN LƯỠNG HỌA**
 - Cai quản **NẠN ÁCH** của con người
 
-⚡ **Ý tượng:**
+**Ý tượng:**
 - **SẤM SÉT, SÁT PHẠT, TÙ NGỤC**
 - Bính quyền vạn lý
 - "Như con dao 2 lưỡi" — vừa mang ý chí kiên cường + sự quyết đoán + dám
   đương đầu khó khăn, vừa ẩn chứa **THƯƠNG TẬT, KIỆN CÁO, THỊ PHI**
 
-⚡ **Quy luật quan trọng:**
-- **LUÔN trong TAM HỢP với Thiên Riêu** → bộ **HÌNH RIÊU** (dao kéo + đào hoa)
-- Đắc địa **DẦN, THÂN, MÃO, DẬU** → tiếng tăm lừng lẫy, phúc thọ song toàn,
+**Quy luật quan trọng:**
+- **LUÔN trong TAM HỢP với Thiên Riêu**: bộ **HÌNH RIÊU** (dao kéo + đào hoa)
+- Đắc địa **DẦN, THÂN, MÃO, DẬU**: tiếng tăm lừng lẫy, phúc thọ song toàn,
   cẩn trọng, nghiêm nghị, công tâm, công danh bền vững
-- Hãm địa các cung còn lại → tai họa nặng
+- Hãm địa các cung còn lại: tai họa nặng
 
-⚡ **Vai trò trong bộ Binh Hình Tướng Ấn:** Cùng Phục Binh + Tướng Quân +
-Quốc Ấn → **UY NGHI LẪM LIỆT** cầm quân (đã nhắc tại tuong-quan.ts).`,
+**Vai trò trong bộ Binh Hình Tướng Ấn:** Cùng Phục Binh + Tướng Quân +
+Quốc Ấn: **UY NGHI LẪM LIỆT** cầm quân (đã nhắc tại tuong-quan.ts).`,
   },
 
   {
@@ -55,19 +55,19 @@ Quốc Ấn → **UY NGHI LẪM LIỆT** cầm quân (đã nhắc tại tuong-qu
     doUuTien: 80,
     tomTat: `**Thiên Hình ĐẮC ĐỊA tại Dần / Thân / Mão / Dậu** — vị trí đẹp nhất.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **TIẾNG TĂM LỪNG LẪY**
 - **PHÚC THỌ SONG TOÀN**
 - **CẨN TRỌNG, NGHIÊM NGHỊ, CÔNG TÂM, RÕ RÀNG**
 - **CÔNG DANH BỀN VỮNG**
 
-⚡ **Hợp nghề:**
+**Hợp nghề:**
 - **QUÂN ĐỘI, AN NINH, QUỐC PHÒNG**
 - **CÔNG AN, PHÁP LUẬT**
 - **THANH TRA, GIÁM SÁT**
 - **VÕ NGHIỆP** — đặc biệt với bộ Binh Hình Tướng Ấn
 
-⚡ **Cát tinh hội:**
+**Cát tinh hội:**
 - Tài thao lược, nhạy bén
 - Khát khao chứng tỏ bản thân
 - Trở thành **TƯỚNG LĨNH, LÃNH ĐẠO QUÂN SỰ**`,
@@ -82,19 +82,19 @@ Quốc Ấn → **UY NGHI LẪM LIỆT** cầm quân (đã nhắc tại tuong-qu
     tomTat: `**Bộ Hình Riêu** (Thiên Hình + Thiên Riêu) — luôn **TAM HỢP** do quy luật
 an sao.
 
-⚡ **Tính chất kép:**
+**Tính chất kép:**
 - **THIÊN HÌNH** — Dương Hỏa — sát phạt, dao kéo, sấm sét
 - **THIÊN RIÊU** — đào hoa, dâm tinh
-- Hợp lại → **BỘ DAO KÉO + ĐÀO HOA**
+- Hợp lại: **BỘ DAO KÉO + ĐÀO HOA**
 
-⚡ **Hợp nghề:**
+**Hợp nghề:**
 - **BÁC SỸ, Y SĨ** (tay nghề mổ xẻ + tinh tế)
 - Bộ **Tướng + Y + Quang Quý + Bác Sỹ + Hình Riêu** = bác sỹ giải phẫu giỏi
 - **PHẪU THUẬT THẨM MỸ**
 
-⚡ **Mặt tối:**
+**Mặt tối:**
 - Bị **SẸO MẶT, TAY CHÂN** (đặc tính Hình)
-- Đào hoa Riêu kết hợp Hình → bệnh hoa liễu, vạ tình`,
+- Đào hoa Riêu kết hợp Hình: bệnh hoa liễu, vạ tình`,
   },
 
   {
@@ -104,7 +104,7 @@ an sao.
     gioiTinh: 'Nữ',
     ketHop: ['Thiên Riêu'],
     doUuTien: 50,
-    tomTat: `⚡ **Nữ mệnh có bộ Hình Riêu:** tính nóng nảy, dễ chọn **PHẪU THUẬT
+    tomTat: `**Nữ mệnh có bộ Hình Riêu:** tính nóng nảy, dễ chọn **PHẪU THUẬT
 THẨM MỸ** (đặc biệt khi có thêm **Đào Hoa / Hồng Loan**).`,
   },
 
@@ -117,7 +117,7 @@ THẨM MỸ** (đặc biệt khi có thêm **Đào Hoa / Hồng Loan**).`,
     doUuTien: 60,
     tomTat: `**Thiên Hình thủ Mệnh nữ** — đặc trưng quý: **CHẾ ĐÀO HOA**.
 
-⚡ **Tác dụng đặc biệt với phụ nữ:**
+**Tác dụng đặc biệt với phụ nữ:**
 - **Triết giảm tính chất ĐA TÌNH, ĐÀO HOA**
 - Là người **NGAY THẲNG, KHÔNG LẲNG LƠ**
 - Cho dù mệnh có nhiều bộ sao đa tình:
@@ -125,9 +125,9 @@ THẨM MỸ** (đặc biệt khi có thêm **Đào Hoa / Hồng Loan**).`,
   - Hồng Loan
   - Thiên Riêu
 
-⚡ **Tương tự Vũ Khúc đối với Đào Hoa:**
-- Vũ Khúc + Đào → tính dâm chuyển thành quý
-- Thiên Hình + Đào Hồng → tính dâm chuyển thành ngay thẳng đoan chính
+**Tương tự Vũ Khúc đối với Đào Hoa:**
+- Vũ Khúc + Đào: tính dâm chuyển thành quý
+- Thiên Hình + Đào Hồng: tính dâm chuyển thành ngay thẳng đoan chính
 - Đặc biệt hữu ích trong xã hội xưa với nữ mệnh`,
   },
 
@@ -140,19 +140,19 @@ THẨM MỸ** (đặc biệt khi có thêm **Đào Hoa / Hồng Loan**).`,
     tomTat: `**Bộ BINH HÌNH TƯỚNG ẤN** (Phục Binh + Thiên Hình + Tướng Quân + Quốc Ấn)
 — **UY NGHI LẪM LIỆT, PHÚC THỌ SONG TOÀN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Đương số có **CÔNG DANH** lớn
 - Cầm quân tác chiến
 - Thành công trong **QUÂN SỰ, AN NINH, QUỐC PHÒNG**
 - Trở thành **TƯỚNG LĨNH** hoặc lãnh đạo quân sự
 
-⚡ **Phân tích bộ sao:**
+**Phân tích bộ sao:**
 - **Phục Binh**: lực lượng dưới quyền
 - **Thiên Hình**: quyền sát phạt
 - **Tướng Quân**: vị trí thống soái
 - **Quốc Ấn**: ấn tín quyền lực
 
-⚡ Đây là cách cục **CAO CẤP NHẤT** của võ tướng.`,
+Đây là cách cục **CAO CẤP NHẤT** của võ tướng.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -167,7 +167,7 @@ THẨM MỸ** (đặc biệt khi có thêm **Đào Hoa / Hồng Loan**).`,
     doUuTien: 78,
     tomTat: `**Thiên Hình thủ Mệnh** — vẻ ngoài **LẠNH LÙNG, UY NGHIÊM**.
 
-⚡ **Tướng mạo:**
+**Tướng mạo:**
 - **HAY CAU MÀY, QUẮC MẮT**
 - Nét mặt **THIẾU SỰ TƯƠI TỈNH**, hay lo âu
 - **LÔNG MÀY DỰNG, TRÁN SẠM ĐEN, RĂNG XẤU**
@@ -177,25 +177,25 @@ THẨM MỸ** (đặc biệt khi có thêm **Đào Hoa / Hồng Loan**).`,
 - Nói **KHÓ HÉ RĂNG**, thể hiện sự khó tính ngay từ cái nhìn đầu
 - Chụp ảnh thường **XẤU, KHÔNG ĂN ẢNH**
 
-⚡ **Tính cách:**
+**Tính cách:**
 - **NÓNG NẢY, BẤT NHẪN, TRỰC TÍNH, HUNG BẠO, CẦU KỲ** (do Hỏa)
 - **KHẮT KHE, YÊU CẦU CAO** về sự hoàn hảo
 - Hay để ý **TIỂU TIẾT**, suy xét cẩn trọng thái quá
 - Khả năng **PHÁN XÉT TINH VI, TỈ MỈ, CÔNG MINH**
-- **HÀ KHẮC VỚI BẢN THÂN** → vừa mang tính sát của Không Kiếp + cô độc
+- **HÀ KHẮC VỚI BẢN THÂN**: vừa mang tính sát của Không Kiếp + cô độc
   của Cô Quả
 - Ít gần gũi người khác, kể cả thân nhân
 
-⚡ **Tâm tưởng:**
+**Tâm tưởng:**
 - Từ bé thường bị **GIÁO DỤC HÀ KHẮC** của cha mẹ
 - Mang tâm tưởng **ĐƠN ĐỘC, CÁU GẮT**
-- Hành động theo cảm tính → không lường hậu họa
+- Hành động theo cảm tính: không lường hậu họa
 
-⚠️ **Cảnh báo:** Thiên Hình tại Mệnh không có sao hóa giải → tù ngục, đại
+**Cảnh báo:** Thiên Hình tại Mệnh không có sao hóa giải: tù ngục, đại
 phẫu, đại nạn đau đớn, nguy hiểm luôn cận kề.
 
-⚡ **Đam mê & cái tôi:** Hình cũng chủ về **ĐAM MÊ CHÁY BỎNG**, cái tôi lớn,
-nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi dễ hòa đồng.`,
+**Đam mê & cái tôi:** Hình cũng chủ về **ĐAM MÊ CHÁY BỎNG**, cái tôi lớn,
+nhạy bén với môi trường khác lạ: tại Mệnh là cách hay khi dễ hòa đồng.`,
   },
 
   {
@@ -206,7 +206,7 @@ nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi d
     doUuTien: 75,
     tomTat: `**Thiên Hình tại Phụ Mẫu** — sao Hung làm **GIẢM THỌ CHA MẸ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cha mẹ **NÓNG NẢY, KHẮT KHE**
 - Dễ **BẠO HÀNH** và gây **ÁP LỰC** cho đương số`,
   },
@@ -242,7 +242,7 @@ nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi d
     trangThai: ['Hãm'],
     ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 75,
-    tomTat: `⚠️ **Thiên Hình HÃM tại Phụ Mẫu + sát tinh (Kình Đà, Hóa Kỵ, Không Kiếp):**
+    tomTat: `**Thiên Hình HÃM tại Phụ Mẫu + sát tinh (Kình Đà, Hóa Kỵ, Không Kiếp):**
 - Cha mẹ **NÓNG NẢY QUÁ MỨC**, áp đặt
 - Dễ **YỂU MỆNH**
 - Gia đạo **NHIỀU SÓNG GIÓ**
@@ -257,11 +257,11 @@ nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi d
     doUuTien: 75,
     tomTat: `**Thiên Hình tại Phúc Đức** — **GIẢM THỌ, GIẢM PHƯỚC, TĂNG HỌA**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **SÁT PHẠT, ĐẤU ĐÁ** trong họ hàng
 - **THẤT THOÁT MỒ MẢ**
 - Trong họ hàng có người **CỨNG RẮN, THẲNG THẮN, UY NGHIÊM**
-- Vì tính khắt khe → họ hàng **DỄ XA CÁCH**, ít hòa thuận`,
+- Vì tính khắt khe: họ hàng **DỄ XA CÁCH**, ít hòa thuận`,
   },
 
   {
@@ -285,7 +285,7 @@ nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi d
     cung: ['Phúc Đức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Hình HÃM tại Phúc Đức:**
+    tomTat: `**Thiên Hình HÃM tại Phúc Đức:**
 - Họ hàng **ÍT NGƯỜI SỐNG THỌ**
 - Tranh chấp **ĐẤT CÁT, MỒ MẢ THẤT TÁN**
 - Dòng tộc **BẤT HÒA**`,
@@ -299,7 +299,7 @@ nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi d
     doUuTien: 75,
     tomTat: `**Thiên Hình tại Điền Trạch** — chậm tích lũy điền sản.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Ít **GIAO TIẾP** với hàng xóm
 - **DÍNH KIỆN TỤNG, TRANH CHẤP** đất đai
 - Sinh tâm lý **CHÁN Ở NHÀ, CHÁN VIỆC NHÀ**
@@ -338,7 +338,7 @@ nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi d
     cung: ['Điền Trạch'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Hình HÃM tại Điền Trạch:**
+    tomTat: `**Thiên Hình HÃM tại Điền Trạch:**
 - Điền sản **KHÓ TÍCH LŨY**
 - Tranh chấp **KIỆN TỤNG ĐẤT ĐAI**
 - Gia đình **THIẾU HÒA KHÍ, XUNG ĐỘT**
@@ -354,7 +354,7 @@ nhạy bén với môi trường khác lạ → tại Mệnh là cách hay khi d
     tomTat: `**Thiên Hình tại Quan Lộc** — giỏi **CHUYÊN MÔN, KỸ THUẬT, KẺ VẼ, IN ẤN,
 MỔ XẺ**, tư duy độc lập, phán đoán nhanh.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **CHẬM PHÁT TRIỂN**, bị hãm đường công danh
 - **TAI NẠN NGHỀ NGHIỆP** khó tránh
 - Hình biểu tượng của **CHẬM TRỄ DỤNG TÀI**
@@ -381,7 +381,7 @@ MỔ XẺ**, tư duy độc lập, phán đoán nhanh.
     cung: ['Quan Lộc'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Hình HÃM tại Quan Lộc:**
+    tomTat: `**Thiên Hình HÃM tại Quan Lộc:**
 - Đường công danh **TRẮC TRỞ**
 - Hay vướng **THỊ PHI** nơi làm việc
 - Dễ bị **CÁCH CHỨC, KỶ LUẬT**
@@ -397,7 +397,7 @@ MỔ XẺ**, tư duy độc lập, phán đoán nhanh.
     tomTat: `**Thiên Hình tại Nô Bộc** — **ÍT BẠN, KHÔNG CÓ BẠN CHUNG THÀNH**, khó kiếm
 **TRI KỶ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Luôn vì bạn bè mà **RƯỚC HỌA VÀO THÂN**
 - Bé bị **BẠN BẮT NẠT**
 - Lớn bị người đời **LÁNH XA**
@@ -425,7 +425,7 @@ MỔ XẺ**, tư duy độc lập, phán đoán nhanh.
     trangThai: ['Hãm'],
     ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Thiên Riêu', 'Đào Hoa', 'Hồng Loan'],
     doUuTien: 75,
-    tomTat: `⚠️ **Thiên Hình HÃM Nô Bộc + Kình Đà / Kỵ / Riêu / Đào / Hồng:**
+    tomTat: `**Thiên Hình HÃM Nô Bộc + Kình Đà / Kỵ / Riêu / Đào / Hồng:**
 - Số lượng bạn bè **CÀNG ÍT**, dễ phản bội
 - **GÂY THỊ PHI**
 - Thuở nhỏ **BỊ BẠN BẮT NẠT**
@@ -441,7 +441,7 @@ MỔ XẺ**, tư duy độc lập, phán đoán nhanh.
     tomTat: `**Thiên Hình tại Thiên Di** — ra ngoài **NGẠI GIAO TIẾP**, luôn gặp **NGHỊCH
 CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **KHÔNG ƯA ĐI XA**, không thích xuất ngoại
 - Hay gặp **CHUYỆN XUI XẺO**, thiếu may mắn
 - **KỸ NĂNG MỀM** giao tiếp & xử lý tình huống **KÉM**
@@ -479,7 +479,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     cung: ['Thiên Di'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Hình HÃM tại Thiên Di:**
+    tomTat: `**Thiên Hình HÃM tại Thiên Di:**
 - Vướng **KIỆN TỤNG, VA CHẠM**
 - Dùng đến **BẠO LỰC** giải quyết mâu thuẫn
 - Không hợp **XUẤT NGOẠI**`,
@@ -493,7 +493,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     doUuTien: 78,
     tomTat: `**Thiên Hình tại Tật Ách** — dễ dính **HÌNH THƯƠNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **CHÂN TAY LẮM SẸO**
 - Hay bị **ĐIỆN GIẬT, BỎNG NƯỚC, BỎNG DẦU, CHÁY NỔ**
 - Thường dính nhiều đến **PHÁP LUẬT**`,
@@ -529,7 +529,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     cung: ['Tật Ách'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Hình HÃM tại Tật Ách:**
+    tomTat: `**Thiên Hình HÃM tại Tật Ách:**
 - Họa **HÌNH THƯƠNG NẶNG**
 - **TAI NẠN NGHỀ NGHIỆP, BỎNG LỬA, ĐIỆN GIẬT, CHÁY NỔ**
 - Trên người nhiều **SẸO, VẾT MỔ** hoặc bệnh nan giải`,
@@ -542,7 +542,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     cung: ['Tật Ách'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thiên Hình Tật Ách + Không Kiếp + Kình Đà:** **NGHIỆN NGẬP, TÙ TỘI, KIỆN TỤNG**.`,
+    tomTat: `**Thiên Hình Tật Ách + Không Kiếp + Kình Đà:** **NGHIỆN NGẬP, TÙ TỘI, KIỆN TỤNG**.`,
   },
 
   {
@@ -552,7 +552,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     cung: ['Tật Ách'],
     ketHop: ['Thiên Đồng', 'Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thiên Hình Tật Ách + Thiên Đồng + Hóa Kỵ:** **ĂN CHƠI, SA VÀO TỬU SẮC**.`,
+    tomTat: `**Thiên Hình Tật Ách + Thiên Đồng + Hóa Kỵ:** **ĂN CHƠI, SA VÀO TỬU SẮC**.`,
   },
 
   {
@@ -562,9 +562,9 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     cung: ['Tật Ách'],
     gioiTinh: 'Nữ',
     doUuTien: 75,
-    tomTat: `⚠️ **Thiên Hình tại Tật Ách (nữ mệnh):**
+    tomTat: `**Thiên Hình tại Tật Ách (nữ mệnh):**
 - **KHÓ SINH NỞ**, dễ sảy thai
-- Tính nóng, liều lĩnh, hành động bốc đồng → họa thân`,
+- Tính nóng, liều lĩnh, hành động bốc đồng: họa thân`,
   },
 
   {
@@ -575,7 +575,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     doUuTien: 75,
     tomTat: `**Thiên Hình tại Tài Bạch** — đương số **KHÓ TÍCH TRỮ TIỀN CỦA**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Làm ăn **THẤT THOÁT KHÔNG KIỂM SOÁT**
 - Giảm sự **GIÀU CÓ, THỊNH VƯỢNG**
 - **HAM CỦA TIỀN** nhưng **LƯỜI TÍCH LŨY** và **SỢ KINH DOANH**, sợ thất bại
@@ -605,7 +605,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     trangThai: ['Hãm'],
     ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Hình HÃM Tài Bạch + Kình Đà Kỵ Không Kiếp:**
+    tomTat: `**Thiên Hình HÃM Tài Bạch + Kình Đà Kỵ Không Kiếp:**
 - Vì tiền mà **MANG HỌA**
 - Sa vào **NỢ NẦN, KIỆN TỤNG, TRANH CHẤP TÀI SẢN**
 - Phải bán nhà trả nợ`,
@@ -619,7 +619,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     doUuTien: 75,
     tomTat: `**Thiên Hình tại Tử Tức** — **HIẾM CON, ÍT CON, MUỘN CON**, hoặc con khó nuôi.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cha mẹ **NGHIÊM KHẮC** với con cái
 - Con lớn ắt **CHỐNG ĐỐI, NGANG NGƯỢC**
 - Con cái **THIẾU HÒA THUẬN, TRANH GIÀNH** của cải
@@ -658,7 +658,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     trangThai: ['Hãm'],
     ketHop: ['Kình Dương', 'Đà La', 'Thiên Riêu'],
     doUuTien: 75,
-    tomTat: `⚠️ **Thiên Hình HÃM Tử Tức + Kình Đà Riêu:**
+    tomTat: `**Thiên Hình HÃM Tử Tức + Kình Đà Riêu:**
 - Con cái **GÂY HỌA**
 - Dính **VÒNG LAO LÝ**
 - Làm cha mẹ phiền muộn`,
@@ -672,14 +672,14 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     doUuTien: 78,
     tomTat: `**Thiên Hình tại Phu Thê** — vợ chồng **NGƯỢC TÍNH**, khó cưng, khó chiều.
 
-⚡ **TAM HÌNH KHẮC** (cảnh báo quan trọng):
+**TAM HÌNH KHẮC** (cảnh báo quan trọng):
 - **KHẮC THÂN**: không ưa ngủ cùng
 - **KHẮC Ý**: không tâm đầu ý hợp, không bàn bạc, không đồng thuận
 - **KHẮC KHẨU**: xung đột, cãi nhau
 
-⚡ **Đặc trưng nhẹ:**
+**Đặc trưng nhẹ:**
 - Vợ chồng **CÁ TÍNH MẠNH**, khó chiều
-- Khắt khe trong cư xử → đời sống thiếu **LÃNG MẠN**
+- Khắt khe trong cư xử: đời sống thiếu **LÃNG MẠN**
 - Hôn nhân khắc khẩu nhưng vẫn giữ **RÀNG BUỘC TRÁCH NHIỆM**
 - Người hôn phối **CẨN TRỌNG, GIỎI CHUYÊN MÔN, THÀNH ĐẠT, UY QUYỀN**`,
   },
@@ -692,7 +692,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     trangThai: ['Hãm'],
     ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Thiên Riêu', 'Đào Hoa', 'Hồng Loan'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Hình HÃM Phu Thê + Kình Đà / Hóa Kỵ / Riêu / Đào / Hồng:**
+    tomTat: `**Thiên Hình HÃM Phu Thê + Kình Đà / Hóa Kỵ / Riêu / Đào / Hồng:**
 - **BẠO LỰC, NỢ NẦN, NGHIỆN NGẬP**
 - Một người làm một người phá
 - Kẻ yểu người thọ
@@ -707,7 +707,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     doUuTien: 75,
     tomTat: `**Thiên Hình tại Huynh Đệ** — **ÍT ANH EM**, anh em **KHÓ HÒA THUẬN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Không **NHỜ ĐƯỢC** anh em
 - **GÂY CHIA RẼ TÌNH CẢM**`,
   },
@@ -743,11 +743,11 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     trangThai: ['Hãm'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Phục Binh', 'Tướng Quân'],
     doUuTien: 75,
-    tomTat: `⚠️ **Thiên Hình HÃM Huynh Đệ + Lục Sát / Phục Tướng:**
+    tomTat: `**Thiên Hình HÃM Huynh Đệ + Lục Sát / Phục Tướng:**
 - Anh em **KHÓ HÒA THUẬN**, ít trợ giúp
 - Vì tiền bạc, lợi ích mà **TRỞ MẶT**
 - Bị anh em **LỪA GẠT**
-- Tranh chấp tài sản → tình cảm **SỨT MẺ**`,
+- Tranh chấp tài sản: tình cảm **SỨT MẺ**`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -762,12 +762,12 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     doUuTien: 50,
     tomTat: `**Thiên Hình + Đẩu Quân / Kình Dương vào hạn** — **CHÂM CHÍCH, CẮT, MỔ XẺ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Phải **PHẪU THUẬT Y KHOA**
 - Tai nạn **CHẢY MÁU, TRẦY XƯỚC**
 - "Thân xác chịu khổ, tinh thần chẳng yên"
 
-⚡ **Hóa giải:**
+**Hóa giải:**
 - **GIỮ GÌN SỨC KHỎE**
 - Tránh tham gia công việc **NGUY HIỂM**
 - Hạn chế va chạm với **DAO KÉO, MÁY MÓC**`,
@@ -781,7 +781,7 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     doUuTien: 50,
     tomTat: `**Thiên Hình + Hóa Kỵ + Địa Kiếp vào hạn** — **PHÒNG NẠN ĐAO THƯƠNG**.
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Nguy cơ tai nạn **DAO KÉO, ĐÂM CHÉM**
 - Cần đặc biệt cẩn trọng khi sử dụng dụng cụ sắc nhọn
 - Tránh nơi **VẮNG VẺ, NGUY HIỂM**`,
@@ -795,12 +795,12 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     doUuTien: 50,
     tomTat: `**Thiên Hình + Hao + Kiếp + Sát vào hạn** — **HAO TÁN ỐM ĐAU**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Tiền của trong nhà **KHÓ GIỮ**
 - Tiêu tán không chỉ vì đầu tư sai mà còn **CHI PHÍ BỆNH TẬT**
 - Việc bất ngờ ngoài ý muốn
 
-⚡ **Hóa giải:**
+**Hóa giải:**
 - Sống **TIẾT KIỆM**
 - Tránh đầu tư **MẠO HIỂM**
 - Đề phòng lời mời gọi hấp dẫn ẩn rủi ro`,
@@ -815,12 +815,12 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     tomTat: `**Thiên Hình + Linh Tinh / Hỏa Tinh ngộ Thiên Việt vào hạn** — **PHÒNG SÉT,
 ĐIỆN, SÚNG ĐẠN**.
 
-⚡ **Cảnh báo - "trời giáng họa":**
+**Cảnh báo - "trời giáng họa":**
 - Tiềm ẩn nguy cơ tai nạn do **ĐIỆN GIẬT, CHÁY NỔ**
 - Đặc biệt dễ bị **SÉT ĐÁNH**
 - Khó lường trước
 
-⚡ **Hóa giải:**
+**Hóa giải:**
 - Đặc biệt chú ý **AN TOÀN ĐIỆN**
 - **TRÁNH TRÚ DƯỚI GỐC CÂY TO** khi mưa dông
 - Hạn chế tiếp xúc thiết bị điện khi giông sét
@@ -835,15 +835,15 @@ CẢNH TRỚ TRÊU**, thích dùng **VŨ LỰC** giải quyết tranh chấp.
     doUuTien: 50,
     tomTat: `**Thiên Hình + Quan Phù vào hạn** — **PHÒNG KIỆN TỤNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Vướng vào **KIỆN CÁO, TÒA ÁN**
 - Có thể là nguyên đơn hoặc bị đơn
 
-⚡ **Trầm trọng hơn khi ngộ Không Kiếp:**
+**Trầm trọng hơn khi ngộ Không Kiếp:**
 - Bị người **THÙ GHÉT, HÃM HẠI**
 - Bị **KIỆN THƯA** vô lý
 
-⚡ **Hóa giải:** Cẩn trọng trong giao dịch, ký kết hợp đồng. Tránh va chạm
+**Hóa giải:** Cẩn trọng trong giao dịch, ký kết hợp đồng. Tránh va chạm
 pháp lý.`,
   },
 
@@ -855,12 +855,12 @@ pháp lý.`,
     doUuTien: 50,
     tomTat: `**Thiên Hình + Hóa Kỵ + Phá Quân vào hạn** — **ĐÁNH NHAU BỊ BẠI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Sinh **VA CHẠM, XUNG ĐỘT**
 - Dẫn đến **KIỆN CÁO, ĐÁNH NHAU**
 - Khả năng **THUA TRẬN** cao
 
-⚡ **Hóa giải:**
+**Hóa giải:**
 - **KIỀM CHẾ NÓNG NẢY**
 - "**MỘT ĐIỀU NHỊN, CHÍN ĐIỀU LÀNH**"
 - Tránh châm ngòi tranh cãi
@@ -875,12 +875,12 @@ pháp lý.`,
     doUuTien: 50,
     tomTat: `**Thiên Hình + Thái Tuế vào hạn** — **KHẨU THIỆT, THỊ PHI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Thị phi do **LỜI NÓI**
 - Vướng tai bay vạ gió, tranh cãi
 - Hiểu lầm trong giao tiếp
 
-⚡ **Hóa giải:**
+**Hóa giải:**
 - **GIỮ MIỆNG** trong giai đoạn này
 - Tránh **PHÁT NGÔN BỪA BÃI**
 - Không tham gia tranh luận vô bổ`,

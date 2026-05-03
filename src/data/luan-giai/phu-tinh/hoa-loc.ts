@@ -17,7 +17,7 @@ ngũ hành **Mộc**.
 
 **Hóa khí:** **Phúc Tinh + Tài Tinh** — chủ về **tài lộc, may mắn, sung túc**.
 
-**"Hóa"** = biến chuyển, **"Lộc"** = kho thóc, kho tiền → tượng trưng cho **của
+**"Hóa"** = biến chuyển, **"Lộc"** = kho thóc, kho tiền: tượng trưng cho **của
 cải và quyền hành**.
 
 **Vị trí miếu hãm:**
@@ -30,16 +30,16 @@ Lộc** trong lá số.`,
     chiTiet: `## Đặc điểm
 
 - **Sao TÀI** chủ sự **phong phú về tiền bạc**
-- Có khả năng **"kích tài"** mạnh mẽ → giúp các sao đi cùng phát huy mặt cát lợi
-- Hóa Lộc là **sự HÀNH ĐỘNG - CHỦ ĐỘNG** → người Mệnh Hóa Lộc phải **hành động
+- Có khả năng **"kích tài"** mạnh mẽ: giúp các sao đi cùng phát huy mặt cát lợi
+- Hóa Lộc là **sự HÀNH ĐỘNG - CHỦ ĐỘNG**: người Mệnh Hóa Lộc phải **hành động
   thực tế** mới khai phá được "kho lộc"
 - Khác Lộc Tồn (chờ may mắn đến) — Hóa Lộc **thôi thúc cải tiến, biến hóa**
 
 ## Đắc địa vs Hãm địa
 
-🌟 **Đắc địa:** mở cơ hội **giàu sang, thăng tiến**, "tiền vào như nước".
+**Đắc địa:** mở cơ hội **giàu sang, thăng tiến**, "tiền vào như nước".
 
-⚠️ **Hãm địa:** lộc đến dễ tan, kéo theo nhiều hệ lụy về tài chính, sự nghiệp.`,
+**Hãm địa:** lộc đến dễ tan, kéo theo nhiều hệ lụy về tài chính, sự nghiệp.`,
   },
 
   // ============================================================
@@ -53,13 +53,13 @@ Lộc** trong lá số.`,
     doUuTien: 85,
     tomTat: `**Hóa Lộc cư Mệnh** mang **phong thái phú quý**, gương mặt sáng sủa, duyên dáng, **dễ tạo thiện cảm**. Lông tóc tốt, **nam giới râu rậm**. Ít bệnh tật, lạc quan, giàu sức sống.
 
-⚠️ **Đặc điểm chung:** thiên về hưởng thụ → dễ **lười biếng, thực dụng, tham lam, chú trọng vẻ ngoài** nếu không tu tập.`,
+**Đặc điểm chung:** thiên về hưởng thụ: dễ **lười biếng, thực dụng, tham lam, chú trọng vẻ ngoài** nếu không tu tập.`,
 
     chiTiet: `## Năng khiếu ẩm thực đặc trưng
 
 Người Hóa Lộc thủ Mệnh **rất tinh tế trong ẩm thực** — biết nhiều **món ăn lạ, rượu ngon**, có thể biết cả **nấu nướng, biến chế sành điệu**.
 
-→ Đây là kiểu người **chuyên gia về vị giác**, biết **thưởng thức cái ngon, cái đẹp**, có xu hướng **chăm sóc người khác qua bữa ăn**.
+- Đây là kiểu người **chuyên gia về vị giác**, biết **thưởng thức cái ngon, cái đẹp**, có xu hướng **chăm sóc người khác qua bữa ăn**.
 
 ## Sự nghiệp & tài lộc
 
@@ -75,7 +75,7 @@ Có **đầu óc kinh doanh nhạy bén**, **năng lực chuyển hóa ý tưở
     cung: ['Mệnh'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 85,
-    tomTat: `🌟 **Hóa Lộc ĐẮC địa Mệnh:** **dịu dàng, tinh anh, khéo léo giao tiếp**, **mềm mỏng như nhành liễu** (hành Mộc), **lạc quan, sức hút tự nhiên**. Cởi mở, nhanh nhẹn, **nắm bắt thời cơ nhạy bén**.`,
+    tomTat: `**Hóa Lộc ĐẮC địa Mệnh:** **dịu dàng, tinh anh, khéo léo giao tiếp**, **mềm mỏng như nhành liễu** (hành Mộc), **lạc quan, sức hút tự nhiên**. Cởi mở, nhanh nhẹn, **nắm bắt thời cơ nhạy bén**.`,
   },
 
   {
@@ -85,7 +85,7 @@ Có **đầu óc kinh doanh nhạy bén**, **năng lực chuyển hóa ý tưở
     cung: ['Mệnh'],
     trangThai: ['Hãm'],
     doUuTien: 85,
-    tomTat: `⚠️ **Hóa Lộc HÃM Mệnh:** **hấp tấp, nóng vội** — đặc biệt với quyết định tài chính. "Nôn nóng hái quả non, hỏng cả vụ mùa".`,
+    tomTat: `**Hóa Lộc HÃM Mệnh:** **hấp tấp, nóng vội** — đặc biệt với quyết định tài chính. "Nôn nóng hái quả non, hỏng cả vụ mùa".`,
   },
 
   {
@@ -95,7 +95,7 @@ Có **đầu óc kinh doanh nhạy bén**, **năng lực chuyển hóa ý tưở
     cung: ['Mệnh'],
     ketHop: ['Tấu Thư'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Mệnh + Tấu Thư:** vị giác càng **vi diệu** — chuyên gia ẩm thực.`,
+    tomTat: `**Hóa Lộc Mệnh + Tấu Thư:** vị giác càng **vi diệu** — chuyên gia ẩm thực.`,
   },
 
   {
@@ -105,7 +105,7 @@ Có **đầu óc kinh doanh nhạy bén**, **năng lực chuyển hóa ý tưở
     cung: ['Mệnh'],
     ketHop: ['Văn Xương', 'Văn Khúc', 'Hóa Khoa'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Mệnh + Xương Khúc / Hóa Khoa:** có thể **sáng tác sách gia chánh, dạy nấu ăn, chế rượu**.`,
+    tomTat: `**Hóa Lộc Mệnh + Xương Khúc / Hóa Khoa:** có thể **sáng tác sách gia chánh, dạy nấu ăn, chế rượu**.`,
   },
 
   // ============================================================
@@ -117,17 +117,17 @@ Có **đầu óc kinh doanh nhạy bén**, **năng lực chuyển hóa ý tưở
     sao: ['Hóa Lộc'],
     cung: ['Mệnh'],
     doUuTien: 75,
-    tomTat: `**Hôn nhân:** **ấm áp và sung túc** — tính hiền dịu, dễ chịu → quan
-hệ hôn nhân **cân bằng**. Biết kiếm tiền → **trụ cột gia đình**, hôn nhân nền
+    tomTat: `**Hôn nhân:** **ấm áp và sung túc** — tính hiền dịu, dễ chịu: quan
+hệ hôn nhân **cân bằng**. Biết kiếm tiền: **trụ cột gia đình**, hôn nhân nền
 tảng tốt.
 
-⚠️ Dễ **lười biếng, ỷ lại** → khi việc chung bị đùn đẩy thì xích mích. Cần giữ
+Dễ **lười biếng, ỷ lại**: khi việc chung bị đùn đẩy thì xích mích. Cần giữ
 **ranh giới giao tiếp xã giao** để tránh hiểu lầm.
 
-**Sức khỏe:** Hóa Lộc là phúc tinh có khả năng **GIẢI TRỪ bệnh tật** → khi đau
+**Sức khỏe:** Hóa Lộc là phúc tinh có khả năng **GIẢI TRỪ bệnh tật**: khi đau
 ốm gặp **thầy giỏi thuốc hay**.
 
-⚠️ Lưu ý bệnh **tiêu hóa, gan mật, dư thừa dưỡng chất** → cần **tiết chế ăn
+Lưu ý bệnh **tiêu hóa, gan mật, dư thừa dưỡng chất**: cần **tiết chế ăn
 uống**, sống điều độ.
 
 **Tài lộc:** không chỉ may mắn — đến từ **xoay sở và óc kinh doanh nhạy bén**.
@@ -141,7 +141,7 @@ uống**, sống điều độ.
     ketHop: ['Thiên Mã'],
     cung: ['Mệnh'],
     doUuTien: 70,
-    tomTat: `🌟 **Hóa Lộc + Thiên Mã tại Mệnh:** cách **"Lộc Mã giao trì"** — tài
+    tomTat: `**Hóa Lộc + Thiên Mã tại Mệnh:** cách **"Lộc Mã giao trì"** — tài
 lộc đến nhanh, kinh doanh phát đạt.`,
   },
 
@@ -150,18 +150,18 @@ lộc đến nhanh, kinh doanh phát đạt.`,
   // ============================================================
   {
     id: 'hoa-loc-loc-ma-giao-tri',
-    title: '🌟 Lộc Mã giao trì - Hóa Lộc + Thiên Mã',
+    title: 'Lộc Mã giao trì - Hóa Lộc + Thiên Mã',
     sao: ['Hóa Lộc', 'Thiên Mã'],
     ketHop: ['Lộc Mã giao trì', 'Lộc Mã'],
     doUuTien: 65,
-    tomTat: `🌟 **Hóa Lộc + Thiên Mã** = cách **"LỘC MÃ GIAO TRÌ"** — **giàu có và
+    tomTat: `**Hóa Lộc + Thiên Mã** = cách **"LỘC MÃ GIAO TRÌ"** — **giàu có và
 có tài năng**, thịnh đạt công danh.
 
 - Giữ **chức vụ cao cấp**, có **bổng lộc cao**, có **nhà công, xe nhà nước**
 - Được người **trọng nể** vì cả **tiền bạc và quyền tước**
 - Càng làm càng lớn, **càng vất vả càng có thành quả**
 
-📌 **Lưu ý:** thường cần **đi xa làm ăn**.
+**Lưu ý:** thường cần **đi xa làm ăn**.
 
 **Lộc Mã đồng cung:** "đích thị **phú thương** chi nghiệp" — số **buôn bán
 giàu**.`,
@@ -174,7 +174,7 @@ giàu**.`,
     cung: ['Thiên Di'],
     ketHop: ['Lộc Mã'],
     doUuTien: 70,
-    tomTat: `🌟 **Lộc Mã giao trì tại Thiên Di:** đặc biệt ứng nghiệm — đi xa làm ăn
+    tomTat: `**Lộc Mã giao trì tại Thiên Di:** đặc biệt ứng nghiệm — đi xa làm ăn
 **RẤT THUẬN LỢI**, công danh sự nghiệp **thăng tiến nhanh**.`,
   },
 
@@ -183,16 +183,16 @@ giàu**.`,
   // ============================================================
   {
     id: 'hoa-loc-tam-hoa',
-    title: '🌟 Bộ Tam Hóa - Lộc Quyền Khoa',
+    title: 'Bộ Tam Hóa - Lộc Quyền Khoa',
     sao: ['Hóa Lộc', 'Hóa Quyền', 'Hóa Khoa'],
     ketHop: ['Tam Hóa', 'Lộc Quyền Khoa'],
     doUuTien: 70,
-    tomTat: `🌟 **Hóa Lộc + Hóa Quyền + Hóa Khoa** = bộ **"TAM HÓA"** — vừa **văn
+    tomTat: `**Hóa Lộc + Hóa Quyền + Hóa Khoa** = bộ **"TAM HÓA"** — vừa **văn
 hóa, quyền hành, tiền bạc**.
 
-→ **Phúc thọ tăng tiến mau lẹ**, tai họa **giảm thiểu tối đa**.
+- **Phúc thọ tăng tiến mau lẹ**, tai họa **giảm thiểu tối đa**.
 
-→ **Hiệu lực CẢI XẤU THÀNH TỐT** trên **3 phương diện**: học vấn, quyền uy, tài lộc.
+- **Hiệu lực CẢI XẤU THÀNH TỐT** trên **3 phương diện**: học vấn, quyền uy, tài lộc.
 
 **Cái tốt liên tục** — phúc đến liên tiếp, áp dụng cho cả nam và nữ.`,
   },
@@ -204,7 +204,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Mệnh'],
     ketHop: ['Tả Phù', 'Hữu Bật'],
     doUuTien: 75,
-    tomTat: `🌟 **Tam Hóa củng Mệnh + Tả Hữu:** làm tới **CÔNG KHANH**.`,
+    tomTat: `**Tam Hóa củng Mệnh + Tả Hữu:** làm tới **CÔNG KHANH**.`,
   },
 
   // ============================================================
@@ -224,7 +224,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     ketHop: ['Tử Vi', 'Thiên Phủ'],
     doUuTien: 60,
-    tomTat: `🌟 **Hóa Lộc + Tử Vi / Thiên Phủ:** hưởng **phú và quý cao độ**.`,
+    tomTat: `**Hóa Lộc + Tử Vi / Thiên Phủ:** hưởng **phú và quý cao độ**.`,
   },
 
   {
@@ -233,7 +233,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     ketHop: ['Hóa Quyền', 'Thất Sát'],
     doUuTien: 60,
-    tomTat: `🌟 **Hóa Lộc + Hóa Quyền + Thất Sát:** **VÕ TƯỚNG quyền hành lớn**, hiển đạt.`,
+    tomTat: `**Hóa Lộc + Hóa Quyền + Thất Sát:** **VÕ TƯỚNG quyền hành lớn**, hiển đạt.`,
   },
 
   {
@@ -242,7 +242,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     ketHop: ['Thiên Cơ', 'Thiên Lương'],
     doUuTien: 60,
-    tomTat: `🌟 **Hóa Lộc + Cơ Lương đồng cung:** **TRIỆU/TỶ PHÚ, đại tư bản** — bố thí, làm việc xã hội văn hóa.`,
+    tomTat: `**Hóa Lộc + Cơ Lương đồng cung:** **TRIỆU/TỶ PHÚ, đại tư bản** — bố thí, làm việc xã hội văn hóa.`,
   },
 
   {
@@ -252,7 +252,7 @@ hóa, quyền hành, tiền bạc**.
     chi: ['Tý', 'Ngọ'],
     ketHop: ['Thiên Lương'],
     doUuTien: 62,
-    tomTat: `🌟 **Hóa Lộc + Thiên Lương ở Tý / Ngọ:** **VĨ NHÂN** kinh bang tế thế, năng tài xuất chúng, sự nghiệp lớn lao.`,
+    tomTat: `**Hóa Lộc + Thiên Lương ở Tý / Ngọ:** **VĨ NHÂN** kinh bang tế thế, năng tài xuất chúng, sự nghiệp lớn lao.`,
   },
 
   {
@@ -261,7 +261,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     ketHop: ['Thiên Mã', 'Tướng Quân'],
     doUuTien: 60,
-    tomTat: `🌟 **Hóa Lộc + Thiên Mã + Tướng Quân:** **anh hùng, quyền quý, giàu sang**.`,
+    tomTat: `**Hóa Lộc + Thiên Mã + Tướng Quân:** **anh hùng, quyền quý, giàu sang**.`,
   },
 
   {
@@ -270,7 +270,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     ketHop: ['Thiên Tướng'],
     doUuTien: 58,
-    tomTat: `🌟 **Hóa Lộc + Thiên Tướng:** **đẹp trai, nhiều nam tính**, có sức **thu hút phụ nữ**.`,
+    tomTat: `**Hóa Lộc + Thiên Tướng:** **đẹp trai, nhiều nam tính**, có sức **thu hút phụ nữ**.`,
   },
 
   {
@@ -280,7 +280,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phu Thê'],
     ketHop: ['Long Trì', 'Phượng Các'],
     doUuTien: 70,
-    tomTat: `🌟 **Hóa Lộc Phu Thê + Long Phượng:** sánh duyên người **giàu sang đẹp đẽ**.`,
+    tomTat: `**Hóa Lộc Phu Thê + Long Phượng:** sánh duyên người **giàu sang đẹp đẽ**.`,
   },
 
   {
@@ -290,7 +290,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phu Thê', 'Tài Bạch', 'Nô Bộc'],
     ketHop: ['Hồng Loan'],
     doUuTien: 70,
-    tomTat: `🌟 **Hóa Lộc + Hồng Loan tại Phu Thê / Tài Bạch / Nô Bộc:** **nhờ của vợ làm giàu**.`,
+    tomTat: `**Hóa Lộc + Hồng Loan tại Phu Thê / Tài Bạch / Nô Bộc:** **nhờ của vợ làm giàu**.`,
   },
 
   {
@@ -301,7 +301,7 @@ hóa, quyền hành, tiền bạc**.
     gioiTinh: 'Nữ',
     ketHop: ['Lộc Tồn'],
     doUuTien: 70,
-    tomTat: `🌟 **Hóa Lộc nữ Mệnh + Lộc Tồn:** **vượng phu ích tử**, đại cát.`,
+    tomTat: `**Hóa Lộc nữ Mệnh + Lộc Tồn:** **vượng phu ích tử**, đại cát.`,
   },
 
   // ============================================================
@@ -312,7 +312,7 @@ hóa, quyền hành, tiền bạc**.
     title: 'Hóa Lộc - Bộ sao XẤU',
     sao: ['Hóa Lộc'],
     doUuTien: 55,
-    tomTat: `⚠️ **Bất luận sát tinh nào đi với Hóa Lộc cũng PHÁ HẦU HẾT lợi điểm** — đặc biệt **Tuần Triệt, Không Kiếp**.`,
+    tomTat: `**Bất luận sát tinh nào đi với Hóa Lộc cũng PHÁ HẦU HẾT lợi điểm** — đặc biệt **Tuần Triệt, Không Kiếp**.`,
   },
 
   {
@@ -321,7 +321,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 60,
-    tomTat: `⚠️ **Hóa Lộc + Không Kiếp:** **phá sản** hoặc lúc có lúc phá. Không Kiếp đắc địa → **thủ đắc tài lộc bất ngờ và mau chóng**. Hãm địa → **làm tiền bằng phương pháp ám muội** (buôn lậu, tham nhũng, sang đoạt) hoặc **bị cướp**.`,
+    tomTat: `**Hóa Lộc + Không Kiếp:** **phá sản** hoặc lúc có lúc phá. Không Kiếp đắc địa: **thủ đắc tài lộc bất ngờ và mau chóng**. Hãm địa: **làm tiền bằng phương pháp ám muội** (buôn lậu, tham nhũng, sang đoạt) hoặc **bị cướp**.`,
   },
 
   {
@@ -331,7 +331,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Mệnh'],
     ketHop: ['Tuần', 'Triệt', 'Thiên Không'],
     doUuTien: 58,
-    tomTat: `⚠️ **Hóa Lộc + Tam Không (Mệnh vô chính diệu):** **giàu sang nhưng KHÔNG BỀN** — phải có lúc **bại sản 1 lần** trong đời.`,
+    tomTat: `**Hóa Lộc + Tam Không (Mệnh vô chính diệu):** **giàu sang nhưng KHÔNG BỀN** — phải có lúc **bại sản 1 lần** trong đời.`,
   },
 
   {
@@ -340,7 +340,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     ketHop: ['Lộc Tồn'],
     doUuTien: 58,
-    tomTat: `⚠️ **Hóa Lộc + Lộc Tồn đồng cung (Song Lộc):** có tiền nhưng thường **bị tai họa vì tiền**.`,
+    tomTat: `**Hóa Lộc + Lộc Tồn đồng cung (Song Lộc):** có tiền nhưng thường **bị tai họa vì tiền**.`,
   },
 
   {
@@ -349,7 +349,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     ketHop: ['Thiên Hỷ', 'Cự Môn', 'Vũ Khúc'],
     doUuTien: 55,
-    tomTat: `⚠️ **Hóa Lộc + Thiên Hỷ / Cự Vũ:** chuyên chính.`,
+    tomTat: `**Hóa Lộc + Thiên Hỷ / Cự Vũ:** chuyên chính.`,
   },
 
   {
@@ -358,7 +358,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     ketHop: ['Lộc Tồn', 'Tuần', 'Thiên Không', 'Địa Kiếp', 'Kình Dương'],
     doUuTien: 58,
-    tomTat: `⚠️ **Song Lộc gặp Tuần Không / Kiếp Kình:** tài KHÔNG BỀN, mà BẦN TIỆN.`,
+    tomTat: `**Song Lộc gặp Tuần Không / Kiếp Kình:** tài KHÔNG BỀN, mà BẦN TIỆN.`,
   },
 
   // ============================================================
@@ -380,7 +380,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phụ Mẫu'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc ĐẮC Phụ Mẫu:** cha mẹ có **địa vị xã hội** hoặc vị trí **trách nhiệm và uy tín cao**.`,
+    tomTat: `**Hóa Lộc ĐẮC Phụ Mẫu:** cha mẹ có **địa vị xã hội** hoặc vị trí **trách nhiệm và uy tín cao**.`,
   },
 
   {
@@ -390,7 +390,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Văn Xương', 'Văn Khúc', 'Lưu Niên Văn Tinh', 'Hóa Khoa'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Phụ Mẫu + Văn Tinh / Hóa Khoa:** cha mẹ **rộng lượng, thông thái**, hỗ trợ con vượt chông gai.`,
+    tomTat: `**Hóa Lộc Phụ Mẫu + Văn Tinh / Hóa Khoa:** cha mẹ **rộng lượng, thông thái**, hỗ trợ con vượt chông gai.`,
   },
 
   {
@@ -400,7 +400,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Thiên Mã'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Phụ Mẫu + Thiên Mã:** cha mẹ **giàu có**.`,
+    tomTat: `**Hóa Lộc Phụ Mẫu + Thiên Mã:** cha mẹ **giàu có**.`,
   },
 
   {
@@ -410,7 +410,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phụ Mẫu'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Hóa Lộc HÃM Phụ Mẫu:** mái ấm **áp lực tài chính**, **xung đột thiếu quan tâm**.`,
+    tomTat: `**Hóa Lộc HÃM Phụ Mẫu:** mái ấm **áp lực tài chính**, **xung đột thiếu quan tâm**.`,
   },
 
   {
@@ -420,7 +420,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp', 'Linh Tinh', 'Hỏa Tinh'],
     doUuTien: 73,
-    tomTat: `⚠️ **Hóa Lộc Phụ Mẫu + Kình Đà / Không Kiếp / Linh Hỏa:** mâu thuẫn bùng phát mạnh, biến cố **sức khỏe và tài sản**.`,
+    tomTat: `**Hóa Lộc Phụ Mẫu + Kình Đà / Không Kiếp / Linh Hỏa:** mâu thuẫn bùng phát mạnh, biến cố **sức khỏe và tài sản**.`,
   },
 
   // ============================================================
@@ -432,10 +432,10 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc tại Phúc Đức** ví như **"của để dành"** cho cả dòng họ.
+    tomTat: `**Hóa Lộc tại Phúc Đức** ví như **"của để dành"** cho cả dòng họ.
 
 - Trong họ nhiều người **thành đạt**, anh em chan hòa hỗ trợ
-- **Mồ mả tổ tiên** đẹp → vận khí đời sau **hưng thịnh**
+- **Mồ mả tổ tiên** đẹp: vận khí đời sau **hưng thịnh**
 - Đương số hưởng phúc, **tránh tai ương lớn**, gặp **may bất ngờ**`,
   },
 
@@ -446,7 +446,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phúc Đức'],
     ketHop: ['Hóa Quyền'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Phúc Đức + Hóa Quyền:** **vinh hiển**.`,
+    tomTat: `**Hóa Lộc Phúc Đức + Hóa Quyền:** **vinh hiển**.`,
   },
 
   {
@@ -456,7 +456,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phúc Đức'],
     ketHop: ['Lộc Tồn'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Phúc Đức + Lộc Tồn (Song Lộc):** **đại phú**. Mồ mả có **ngôi mả phát hình cờ** → giàu.`,
+    tomTat: `**Hóa Lộc Phúc Đức + Lộc Tồn (Song Lộc):** **đại phú**. Mồ mả có **ngôi mả phát hình cờ**: giàu.`,
   },
 
   {
@@ -466,7 +466,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phúc Đức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Hóa Lộc HÃM Phúc Đức:** dòng họ **tranh chấp tài sản, đất đai** → vận khí giảm. → Cần **hành thiện tích đức** để nuôi gốc phúc.`,
+    tomTat: `**Hóa Lộc HÃM Phúc Đức:** dòng họ **tranh chấp tài sản, đất đai**: vận khí giảm.: Cần **hành thiện tích đức** để nuôi gốc phúc.`,
   },
 
   {
@@ -476,7 +476,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Phúc Đức'],
     ketHop: ['Kình Dương', 'Đà La', 'Thiên Riêu'],
     doUuTien: 73,
-    tomTat: `⚠️ **Hóa Lộc Phúc Đức + Kình Đà / Thiên Riêu:** đề phòng **bệnh tật, sự cố**.`,
+    tomTat: `**Hóa Lộc Phúc Đức + Kình Đà / Thiên Riêu:** đề phòng **bệnh tật, sự cố**.`,
   },
 
   // ============================================================
@@ -488,7 +488,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc tại Điền Trạch:** "đất lành chim đậu" — nhà cửa **khang trang, vị trí đẹp, hợp phong thủy**.`,
+    tomTat: `**Hóa Lộc tại Điền Trạch:** "đất lành chim đậu" — nhà cửa **khang trang, vị trí đẹp, hợp phong thủy**.`,
   },
 
   {
@@ -498,7 +498,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Điền Trạch'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc ĐẮC Điền Trạch:** dễ **mua bán, tích lũy bất động sản**, thuận lợi ngành **đất đai, xây dựng, nội thất**.`,
+    tomTat: `**Hóa Lộc ĐẮC Điền Trạch:** dễ **mua bán, tích lũy bất động sản**, thuận lợi ngành **đất đai, xây dựng, nội thất**.`,
   },
 
   {
@@ -508,7 +508,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Điền Trạch'],
     ketHop: ['Thiên Tướng'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Điền Trạch + Thiên Tướng:** có **nhiều ruộng đất**.`,
+    tomTat: `**Hóa Lộc Điền Trạch + Thiên Tướng:** có **nhiều ruộng đất**.`,
   },
 
   {
@@ -518,7 +518,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Điền Trạch'],
     ketHop: ['Hóa Quyền', 'Hóa Khoa', 'Thiên Cơ', 'Thái Âm'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Điền Trạch + Tam Hóa + Cơ + Thái Âm:** có **đất nhiều**.`,
+    tomTat: `**Hóa Lộc Điền Trạch + Tam Hóa + Cơ + Thái Âm:** có **đất nhiều**.`,
   },
 
   {
@@ -528,7 +528,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Điền Trạch'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Hóa Lộc HÃM Điền Trạch:** dễ **tranh chấp đất đai**, nhà xuống cấp / vị trí xấu.`,
+    tomTat: `**Hóa Lộc HÃM Điền Trạch:** dễ **tranh chấp đất đai**, nhà xuống cấp / vị trí xấu.`,
   },
 
   {
@@ -538,7 +538,7 @@ hóa, quyền hành, tiền bạc**.
     cung: ['Điền Trạch'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 73,
-    tomTat: `⚠️ **Hóa Lộc Điền Trạch + Kình Đà:** mất tài sản, **kiện tụng đất đai**.`,
+    tomTat: `**Hóa Lộc Điền Trạch + Kình Đà:** mất tài sản, **kiện tụng đất đai**.`,
   },
 
   // ============================================================
@@ -550,7 +550,7 @@ hóa, quyền hành, tiền bạc**.
     sao: ['Hóa Lộc'],
     cung: ['Quan Lộc'],
     doUuTien: 82,
-    tomTat: `🌟 **Hóa Lộc tại Quan Lộc:** đường sự nghiệp **hanh thông như cá gặp nước** — lĩnh vực **kinh doanh, tài chính, quản lý, lãnh đạo**.
+    tomTat: `**Hóa Lộc tại Quan Lộc:** đường sự nghiệp **hanh thông như cá gặp nước** — lĩnh vực **kinh doanh, tài chính, quản lý, lãnh đạo**.
 
 Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng nghiệp và cấp trên tín nhiệm**.
 
@@ -564,7 +564,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Quan Lộc'],
     ketHop: ['Hóa Quyền', 'Hóa Khoa'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc Quan Lộc + Hóa Quyền + Hóa Khoa:** trí tuệ nổi bật, thành công **danh vọng và tiền tài** song hành.`,
+    tomTat: `**Hóa Lộc Quan Lộc + Hóa Quyền + Hóa Khoa:** trí tuệ nổi bật, thành công **danh vọng và tiền tài** song hành.`,
   },
 
   {
@@ -574,7 +574,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Quan Lộc'],
     ketHop: ['Hóa Quyền', 'Tử Vi', 'Thiên Phủ', 'Tràng Sinh'],
     doUuTien: 80,
-    tomTat: `🌟 **Hóa Lộc Quan Lộc + Hóa Quyền + Tử Vi / Thiên Phủ + Tràng Sinh:** **ĐẠI QUÝ**.`,
+    tomTat: `**Hóa Lộc Quan Lộc + Hóa Quyền + Tử Vi / Thiên Phủ + Tràng Sinh:** **ĐẠI QUÝ**.`,
   },
 
   {
@@ -584,7 +584,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Quan Lộc'],
     ketHop: ['Hóa Quyền', 'Thiên Mã', 'Thái Dương', 'Thái Âm'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc Quan Lộc + Hóa Quyền + Thiên Mã + Nhật Nguyệt đắc:** **giàu sang rực rỡ**.`,
+    tomTat: `**Hóa Lộc Quan Lộc + Hóa Quyền + Thiên Mã + Nhật Nguyệt đắc:** **giàu sang rực rỡ**.`,
   },
 
   {
@@ -594,7 +594,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Mã'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Quan Lộc + Thiên Mã:** **thương nghiệp** phát đạt.`,
+    tomTat: `**Hóa Lộc Quan Lộc + Thiên Mã:** **thương nghiệp** phát đạt.`,
   },
 
   {
@@ -604,7 +604,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Quan Lộc'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Hóa Lộc HÃM Quan Lộc:** công danh **cản trở, thị phi nơi công sở**, "đứng núi này trông núi nọ" → tuột mất cơ hội thăng tiến.`,
+    tomTat: `**Hóa Lộc HÃM Quan Lộc:** công danh **cản trở, thị phi nơi công sở**, "đứng núi này trông núi nọ": tuột mất cơ hội thăng tiến.`,
   },
 
   // ============================================================
@@ -626,7 +626,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Nô Bộc'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc ĐẮC Nô Bộc:** quan hệ xã hội **rộng mở**, dễ kết giao, bạn bè đồng nghiệp **nhiệt tình**. **Quý nhân vây quanh**, cộng sự cấp dưới **hậu thuẫn cả tài chính lẫn cơ hội làm ăn**.`,
+    tomTat: `**Hóa Lộc ĐẮC Nô Bộc:** quan hệ xã hội **rộng mở**, dễ kết giao, bạn bè đồng nghiệp **nhiệt tình**. **Quý nhân vây quanh**, cộng sự cấp dưới **hậu thuẫn cả tài chính lẫn cơ hội làm ăn**.`,
   },
 
   {
@@ -636,7 +636,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Nô Bộc'],
     ketHop: ['Tử Vi'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Nô Bộc + Tử Vi chiếu:** được **người chân tay trung thành**.`,
+    tomTat: `**Hóa Lộc Nô Bộc + Tử Vi chiếu:** được **người chân tay trung thành**.`,
   },
 
   {
@@ -646,7 +646,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Nô Bộc'],
     ketHop: ['Hóa Quyền'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Nô Bộc + Hóa Quyền:** **nhờ bạn thân làm nên**.`,
+    tomTat: `**Hóa Lộc Nô Bộc + Hóa Quyền:** **nhờ bạn thân làm nên**.`,
   },
 
   {
@@ -656,7 +656,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Nô Bộc'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Hóa Lộc HÃM Nô Bộc:** "**bạn ít bè nhiều**", ngoài thân thiết mà trong **ngấm ngầm tính toán**.`,
+    tomTat: `**Hóa Lộc HÃM Nô Bộc:** "**bạn ít bè nhiều**", ngoài thân thiết mà trong **ngấm ngầm tính toán**.`,
   },
 
   {
@@ -666,7 +666,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Nô Bộc'],
     ketHop: ['Văn Xương', 'Văn Khúc'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Nô Bộc + Văn Xương / Văn Khúc:** gặp **bạn hiền hợp tác thành công**.`,
+    tomTat: `**Hóa Lộc Nô Bộc + Văn Xương / Văn Khúc:** gặp **bạn hiền hợp tác thành công**.`,
   },
 
   {
@@ -676,7 +676,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Nô Bộc'],
     ketHop: ['Địa Kiếp', 'Thiên Hình'],
     doUuTien: 73,
-    tomTat: `⚠️ **Hóa Lộc Nô Bộc + Địa Kiếp / Thiên Hình:** "mật ngọt chết ruồi" — cần tỉnh táo chọn bạn.`,
+    tomTat: `**Hóa Lộc Nô Bộc + Địa Kiếp / Thiên Hình:** "mật ngọt chết ruồi" — cần tỉnh táo chọn bạn.`,
   },
 
   // ============================================================
@@ -688,7 +688,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     sao: ['Hóa Lộc'],
     cung: ['Thiên Di'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc tại Thiên Di:** "**ra ngõ gặp quý nhân**".`,
+    tomTat: `**Hóa Lộc tại Thiên Di:** "**ra ngõ gặp quý nhân**".`,
   },
 
   {
@@ -698,7 +698,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Thiên Di'],
     ketHop: ['Tham Lang'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Thiên Di + Tham Lang:** càng **giàu sang**, có tài **quảng giao**, biết nắm bắt thời cơ làm giàu. Lợi thế lớn cho ngành **ngoại giao, kinh doanh, dịch vụ**.`,
+    tomTat: `**Hóa Lộc Thiên Di + Tham Lang:** càng **giàu sang**, có tài **quảng giao**, biết nắm bắt thời cơ làm giàu. Lợi thế lớn cho ngành **ngoại giao, kinh doanh, dịch vụ**.`,
   },
 
   {
@@ -708,7 +708,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Thiên Di'],
     ketHop: ['Thiên Mã'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Thiên Di + Thiên Mã:** **sinh tài hữu lực** — đi xa thì phát đạt.`,
+    tomTat: `**Hóa Lộc Thiên Di + Thiên Mã:** **sinh tài hữu lực** — đi xa thì phát đạt.`,
   },
 
   {
@@ -718,7 +718,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Thiên Di'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Hóa Lộc HÃM Thiên Di:** "đi đêm lắm có ngày gặp ma" — cần **tỉnh táo** khi giao dịch / hợp tác với người mới quen.`,
+    tomTat: `**Hóa Lộc HÃM Thiên Di:** "đi đêm lắm có ngày gặp ma" — cần **tỉnh táo** khi giao dịch / hợp tác với người mới quen.`,
   },
 
   {
@@ -728,7 +728,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Thiên Di'],
     ketHop: ['Kình Dương', 'Đà La', 'Địa Kiếp', 'Thiên Hình'],
     doUuTien: 73,
-    tomTat: `⚠️ **Hóa Lộc Thiên Di + Kình Đà / Địa Kiếp / Thiên Hình:** vướng **rắc rối, bị kẻ khác phá hoại**.`,
+    tomTat: `**Hóa Lộc Thiên Di + Kình Đà / Địa Kiếp / Thiên Hình:** vướng **rắc rối, bị kẻ khác phá hoại**.`,
   },
 
   // ============================================================
@@ -740,7 +740,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     sao: ['Hóa Lộc'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc tại Tật Ách:** sức khỏe **ổn định**, hồi phục nhanh khi đau ốm.`,
+    tomTat: `**Hóa Lộc tại Tật Ách:** sức khỏe **ổn định**, hồi phục nhanh khi đau ốm.`,
   },
 
   {
@@ -750,7 +750,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Tật Ách'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `🌟 **Hóa Lộc ĐẮC Tật Ách:** **mau hết bệnh**, gặp **thầy gặp thuốc**, có cơ duyên gặp **thầy thuốc giỏi** hoặc phương pháp chữa phù hợp.`,
+    tomTat: `**Hóa Lộc ĐẮC Tật Ách:** **mau hết bệnh**, gặp **thầy gặp thuốc**, có cơ duyên gặp **thầy thuốc giỏi** hoặc phương pháp chữa phù hợp.`,
   },
 
   {
@@ -760,7 +760,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Tật Ách'],
     ketHop: ['Thiên Đồng', 'Thiên Lương', 'Tử Vi', 'Thiên Phủ'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Tật Ách + Thiên Đồng + Thiên Lương + Tử Vi + Thiên Phủ:** ốm gặp thuốc, **nạn gặp người cứu**.`,
+    tomTat: `**Hóa Lộc Tật Ách + Thiên Đồng + Thiên Lương + Tử Vi + Thiên Phủ:** ốm gặp thuốc, **nạn gặp người cứu**.`,
   },
 
   {
@@ -770,7 +770,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Tật Ách'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Hóa Lộc HÃM Tật Ách:** sức khỏe **hao tổn** bởi **bệnh mãn tính** — đặc biệt **tiêu hóa, gan mật**, "dai như đỉa bám".`,
+    tomTat: `**Hóa Lộc HÃM Tật Ách:** sức khỏe **hao tổn** bởi **bệnh mãn tính** — đặc biệt **tiêu hóa, gan mật**, "dai như đỉa bám".`,
   },
 
   {
@@ -780,7 +780,7 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
     cung: ['Tật Ách'],
     ketHop: ['Kình Dương', 'Đà La', 'Địa Kiếp', 'Thiên Hình'],
     doUuTien: 73,
-    tomTat: `⚠️ **Hóa Lộc Tật Ách + Kình Đà / Địa Kiếp / Thiên Hình:** cảnh giác **bệnh nặng, tai nạn bất ngờ**.`,
+    tomTat: `**Hóa Lộc Tật Ách + Kình Đà / Địa Kiếp / Thiên Hình:** cảnh giác **bệnh nặng, tai nạn bất ngờ**.`,
   },
 
   // ============================================================
@@ -788,11 +788,11 @@ Có **tài tổ chức**, biết tận dụng thời cơ, được **đồng ngh
   // ============================================================
   {
     id: 'hoa-loc-tai-tai-bach',
-    title: '🌟 Hóa Lộc tại Tài Bạch - Vị trí HỢP VỊ',
+    title: 'Hóa Lộc tại Tài Bạch - Vị trí HỢP VỊ',
     sao: ['Hóa Lộc'],
     cung: ['Tài Bạch'],
     doUuTien: 88,
-    tomTat: `🌟 **Hóa Lộc tại Tài Bạch là VỊ TRÍ HỢP VỊ** — tượng trưng **lợi lộc tiền bạc**, giàu có dưới mọi hình thức (có tiền, có điền sản, có lộc ăn).
+    tomTat: `**Hóa Lộc tại Tài Bạch là VỊ TRÍ HỢP VỊ** — tượng trưng **lợi lộc tiền bạc**, giàu có dưới mọi hình thức (có tiền, có điền sản, có lộc ăn).
 
 Dòng tiền **ổn định, sinh lời dài lâu**.`,
   },
@@ -804,7 +804,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tài Bạch'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 88,
-    tomTat: `🌟 **Hóa Lộc ĐẮC Tài Bạch:** tài chính **bền vững**, làm ăn thuận lợi, có duyên **kinh doanh, ngân hàng, bất động sản**.`,
+    tomTat: `**Hóa Lộc ĐẮC Tài Bạch:** tài chính **bền vững**, làm ăn thuận lợi, có duyên **kinh doanh, ngân hàng, bất động sản**.`,
   },
 
   {
@@ -814,7 +814,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tài Bạch'],
     ketHop: ['Lộc Tồn', 'Thiên Mã', 'Thiên Phủ'],
     doUuTien: 80,
-    tomTat: `🌟 **Hóa Lộc Tài Bạch + Lộc Tồn / Thiên Mã / Thiên Phủ:** vận tiền tài **càng vượng**, "của vào như nước", **đại phú**.`,
+    tomTat: `**Hóa Lộc Tài Bạch + Lộc Tồn / Thiên Mã / Thiên Phủ:** vận tiền tài **càng vượng**, "của vào như nước", **đại phú**.`,
   },
 
   {
@@ -824,7 +824,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tài Bạch'],
     ketHop: ['Thiên Cơ', 'Thiên Lương', 'Lộc Tồn'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc Tài Bạch + Cơ Lương / Song Lộc (Hóa Lộc + Lộc Tồn):** **đại phú**.`,
+    tomTat: `**Hóa Lộc Tài Bạch + Cơ Lương / Song Lộc (Hóa Lộc + Lộc Tồn):** **đại phú**.`,
   },
 
   {
@@ -834,7 +834,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tài Bạch'],
     ketHop: ['Hồng Loan', 'Đà La'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Tài Bạch + Hồng Loan + Đà La:** hưởng **của thừa tự** người trong họ.`,
+    tomTat: `**Hóa Lộc Tài Bạch + Hồng Loan + Đà La:** hưởng **của thừa tự** người trong họ.`,
   },
 
   {
@@ -844,7 +844,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tài Bạch'],
     ketHop: ['Ân Quang'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Tài Bạch + Ân Quang:** **hiển đạt**.`,
+    tomTat: `**Hóa Lộc Tài Bạch + Ân Quang:** **hiển đạt**.`,
   },
 
   {
@@ -854,7 +854,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tài Bạch'],
     ketHop: ['Mộ'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Tài Bạch + Mộ:** **của đến tận tay**.`,
+    tomTat: `**Hóa Lộc Tài Bạch + Mộ:** **của đến tận tay**.`,
   },
 
   {
@@ -864,7 +864,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tài Bạch'],
     ketHop: ['Đại Hao', 'Tiểu Hao'],
     doUuTien: 75,
-    tomTat: `⚠️ **Hóa Lộc Tài Bạch + Đại Hao / Tiểu Hao:** **kiếm nhiều hết sạch**.`,
+    tomTat: `**Hóa Lộc Tài Bạch + Đại Hao / Tiểu Hao:** **kiếm nhiều hết sạch**.`,
   },
 
   {
@@ -875,7 +875,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     trangThai: ['Hãm'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
     doUuTien: 80,
-    tomTat: `⚠️ **Hóa Lộc HÃM Tài Bạch + Không Kiếp / Hóa Kỵ:** "thấy đỏ tưởng chín" → **mất trắng**, mỗi giao dịch phải cân nhắc kỹ — sơ suất → **thất thoát hoặc kiện tụng**.`,
+    tomTat: `**Hóa Lộc HÃM Tài Bạch + Không Kiếp / Hóa Kỵ:** "thấy đỏ tưởng chín": **mất trắng**, mỗi giao dịch phải cân nhắc kỹ — sơ suất: **thất thoát hoặc kiện tụng**.`,
   },
 
   // ============================================================
@@ -897,7 +897,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tử Tức'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc ĐẮC Tử Tức:** con cái **khôi ngô, sáng dạ, sớm bộc lộ tố chất và chí tiến thủ**.`,
+    tomTat: `**Hóa Lộc ĐẮC Tử Tức:** con cái **khôi ngô, sáng dạ, sớm bộc lộ tố chất và chí tiến thủ**.`,
   },
 
   {
@@ -907,7 +907,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tử Tức'],
     ketHop: ['Hóa Khoa', 'Văn Xương'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Tử Tức + Hóa Khoa / Văn Xương:** "**vinh quy bái tổ**", làm rạng danh gia tộc.`,
+    tomTat: `**Hóa Lộc Tử Tức + Hóa Khoa / Văn Xương:** "**vinh quy bái tổ**", làm rạng danh gia tộc.`,
   },
 
   {
@@ -917,7 +917,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tử Tức'],
     ketHop: ['Hóa Quyền', 'Hóa Khoa'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Tử Tức + Tam Hóa (Hóa Quyền + Hóa Khoa):** con **quý nhân làm nên sang giàu**.`,
+    tomTat: `**Hóa Lộc Tử Tức + Tam Hóa (Hóa Quyền + Hóa Khoa):** con **quý nhân làm nên sang giàu**.`,
   },
 
   {
@@ -927,7 +927,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tử Tức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Hóa Lộc HÃM Tử Tức:** **hiếm muộn** hoặc con **sức khỏe yếu, tính bướng bỉnh**.`,
+    tomTat: `**Hóa Lộc HÃM Tử Tức:** **hiếm muộn** hoặc con **sức khỏe yếu, tính bướng bỉnh**.`,
   },
 
   {
@@ -937,7 +937,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Tử Tức'],
     ketHop: ['Kình Dương', 'Địa Kiếp'],
     doUuTien: 73,
-    tomTat: `⚠️ **Hóa Lộc Tử Tức + Kình Dương / Địa Kiếp:** chuyện buồn — **bệnh tật, xa cách, ly tán** → cần kiên nhẫn bao dung.`,
+    tomTat: `**Hóa Lộc Tử Tức + Kình Dương / Địa Kiếp:** chuyện buồn — **bệnh tật, xa cách, ly tán**: cần kiên nhẫn bao dung.`,
   },
 
   // ============================================================
@@ -949,7 +949,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     sao: ['Hóa Lộc'],
     cung: ['Phu Thê'],
     doUuTien: 80,
-    tomTat: `🌟 **Hóa Lộc tại Phu Thê:** vợ chồng **đồng lòng**, tình cảm **sắt son, gắn bó**, biết **đồng cam cộng khổ**, cùng vun đắp mái ấm và kinh tế.`,
+    tomTat: `**Hóa Lộc tại Phu Thê:** vợ chồng **đồng lòng**, tình cảm **sắt son, gắn bó**, biết **đồng cam cộng khổ**, cùng vun đắp mái ấm và kinh tế.`,
   },
 
   {
@@ -959,7 +959,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Phu Thê'],
     ketHop: ['Hóa Quyền', 'Hóa Khoa', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Phu Thê + Tam Hóa + Khôi Việt:** **quý nhân phối hợp**.`,
+    tomTat: `**Hóa Lộc Phu Thê + Tam Hóa + Khôi Việt:** **quý nhân phối hợp**.`,
   },
 
   {
@@ -969,7 +969,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Phu Thê'],
     ketHop: ['Hồng Loan'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Phu Thê + Hồng Loan:** **nhờ của vợ làm giàu**.`,
+    tomTat: `**Hóa Lộc Phu Thê + Hồng Loan:** **nhờ của vợ làm giàu**.`,
   },
 
   {
@@ -979,7 +979,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Phu Thê'],
     ketHop: ['Thiên Phủ', 'Hóa Quyền'],
     doUuTien: 75,
-    tomTat: `🌟 **Hóa Lộc Phu Thê + Thiên Phủ + Hóa Quyền:** hôn nhân **bền chặt, ấm êm**.`,
+    tomTat: `**Hóa Lộc Phu Thê + Thiên Phủ + Hóa Quyền:** hôn nhân **bền chặt, ấm êm**.`,
   },
 
   {
@@ -989,7 +989,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Phu Thê'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Hóa Lộc HÃM Phu Thê:** "cơm chẳng lành canh chẳng ngọt" do **tiền bạc, công việc, ngoại cảnh**.`,
+    tomTat: `**Hóa Lộc HÃM Phu Thê:** "cơm chẳng lành canh chẳng ngọt" do **tiền bạc, công việc, ngoại cảnh**.`,
   },
 
   {
@@ -999,7 +999,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Phu Thê'],
     ketHop: ['Hóa Kỵ', 'Kình Dương', 'Đà La', 'Địa Kiếp'],
     doUuTien: 75,
-    tomTat: `⚠️ **Hóa Lộc Phu Thê + Hóa Kỵ / Kình Đà / Địa Kiếp:** **rạn nứt, chia ly, người thứ ba**.`,
+    tomTat: `**Hóa Lộc Phu Thê + Hóa Kỵ / Kình Đà / Địa Kiếp:** **rạn nứt, chia ly, người thứ ba**.`,
   },
 
   // ============================================================
@@ -1021,7 +1021,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Huynh Đệ'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `🌟 **Hóa Lộc ĐẮC Huynh Đệ:** anh em **hòa thuận, gắn bó, hỗ trợ tinh thần lẫn vật chất**. "Máu chảy ruột mềm" — có thể **hợp tác làm ăn** thành công.`,
+    tomTat: `**Hóa Lộc ĐẮC Huynh Đệ:** anh em **hòa thuận, gắn bó, hỗ trợ tinh thần lẫn vật chất**. "Máu chảy ruột mềm" — có thể **hợp tác làm ăn** thành công.`,
   },
 
   {
@@ -1031,7 +1031,7 @@ Dòng tiền **ổn định, sinh lời dài lâu**.`,
     cung: ['Huynh Đệ'],
     ketHop: ['Thiên Tướng', 'Lộc Tồn'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc tại Huynh Đệ + Thiên Tướng + Song Lộc (Hóa Lộc + Lộc Tồn):**
+    tomTat: `**Hóa Lộc tại Huynh Đệ + Thiên Tướng + Song Lộc (Hóa Lộc + Lộc Tồn):**
 anh em có **người quyền quý**, làm quan có chức vị.`,
   },
 
@@ -1042,7 +1042,7 @@ anh em có **người quyền quý**, làm quan có chức vị.`,
     cung: ['Huynh Đệ'],
     ketHop: ['Thiên Mã'],
     doUuTien: 73,
-    tomTat: `🌟 **Hóa Lộc Huynh Đệ + Thiên Mã:** có người **buôn bán giàu**.`,
+    tomTat: `**Hóa Lộc Huynh Đệ + Thiên Mã:** có người **buôn bán giàu**.`,
   },
 
   {
@@ -1052,7 +1052,7 @@ anh em có **người quyền quý**, làm quan có chức vị.`,
     cung: ['Huynh Đệ'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Hóa Lộc HÃM Huynh Đệ:** tình cảm **phai nhạt**, mâu thuẫn / **tranh chấp tài sản**.`,
+    tomTat: `**Hóa Lộc HÃM Huynh Đệ:** tình cảm **phai nhạt**, mâu thuẫn / **tranh chấp tài sản**.`,
   },
 
   {
@@ -1062,7 +1062,7 @@ anh em có **người quyền quý**, làm quan có chức vị.`,
     cung: ['Huynh Đệ'],
     ketHop: ['Kình Dương', 'Đà La', 'Địa Kiếp', 'Thiên Không', 'Hóa Kỵ'],
     doUuTien: 73,
-    tomTat: `⚠️ **Hóa Lộc Huynh Đệ + Kình Đà / Địa Kiếp / Thiên Không / Hóa Kỵ:** sứt mẻ khó hàn gắn, nặng → **tuyệt giao**.`,
+    tomTat: `**Hóa Lộc Huynh Đệ + Kình Đà / Địa Kiếp / Thiên Không / Hóa Kỵ:** sứt mẻ khó hàn gắn, nặng: **tuyệt giao**.`,
   },
 
   // ============================================================
@@ -1070,12 +1070,12 @@ anh em có **người quyền quý**, làm quan có chức vị.`,
   // ============================================================
   {
     id: 'hoa-loc-cat-xu-tang-hung',
-    title: '⚠️ Hóa Lộc + sao xấu - "Cát xứ tàng hung"',
+    title: 'Hóa Lộc + sao xấu - "Cát xứ tàng hung"',
     sao: ['Hóa Lộc'],
     doUuTien: 55,
-    tomTat: `⚠️ **Hóa Lộc + sao xấu** dễ thành cách **"cát xứ tàng hung"** — bề ngoài tốt, ẩn họa lớn.
+    tomTat: `**Hóa Lộc + sao xấu** dễ thành cách **"cát xứ tàng hung"** — bề ngoài tốt, ẩn họa lớn.
 
-→ Người Hóa Lộc cần **hành động thực tế** và **tỉnh táo** mới khai phá được kho lộc.`,
+- Người Hóa Lộc cần **hành động thực tế** và **tỉnh táo** mới khai phá được kho lộc.`,
   },
 
   {
@@ -1084,7 +1084,7 @@ anh em có **người quyền quý**, làm quan có chức vị.`,
     sao: ['Hóa Lộc'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 56,
-    tomTat: `⚠️ **Hóa Lộc + Không Kiếp:** **bạo phát bạo tàn** — cơ hội tưởng tốt nhưng nhiều rắc rối, mất nhiều hơn được.`,
+    tomTat: `**Hóa Lộc + Không Kiếp:** **bạo phát bạo tàn** — cơ hội tưởng tốt nhưng nhiều rắc rối, mất nhiều hơn được.`,
   },
 
   {
@@ -1093,7 +1093,7 @@ anh em có **người quyền quý**, làm quan có chức vị.`,
     sao: ['Hóa Lộc'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 56,
-    tomTat: `⚠️ **Hóa Lộc + Kình Đà:** dễ gặp **cạnh tranh** — không sợ cạnh tranh, chỉ sợ bản thân **không chịu phát triển**.`,
+    tomTat: `**Hóa Lộc + Kình Đà:** dễ gặp **cạnh tranh** — không sợ cạnh tranh, chỉ sợ bản thân **không chịu phát triển**.`,
   },
 
   {
@@ -1102,6 +1102,6 @@ anh em có **người quyền quý**, làm quan có chức vị.`,
     sao: ['Hóa Lộc'],
     ketHop: ['Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 56,
-    tomTat: `⚠️ **Hóa Lộc + Hỏa Linh:** cuộc đời nhiều **cơ hội bất ngờ** — đòi hỏi **nắm bắt nhanh nhạy**.`,
+    tomTat: `**Hóa Lộc + Hỏa Linh:** cuộc đời nhiều **cơ hội bất ngờ** — đòi hỏi **nắm bắt nhanh nhạy**.`,
   },
 ];

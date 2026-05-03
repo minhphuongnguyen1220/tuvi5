@@ -32,10 +32,10 @@ phá hoại tiềm ẩn**, hành động liều lĩnh không theo quy luật.`,
   // ============================================================
   {
     id: 'khong-kiep-sat-tinh-nang-nhat',
-    title: '⚡ Bộ Không Kiếp - Sát tinh NẶNG NHẤT trong tử vi',
+    title: 'Bộ Không Kiếp - Sát tinh NẶNG NHẤT trong tử vi',
     sao: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 35,
-    tomTat: `⚡ **Địa Không + Địa Kiếp = 2 SÁT TINH NẶNG NHẤT, MẠNH NHẤT** trong
+    tomTat: `**Địa Không + Địa Kiếp = 2 SÁT TINH NẶNG NHẤT, MẠNH NHẤT** trong
 các sao xấu.
 
 Tuy chỉ là phụ tinh nhưng **ảnh hưởng mạnh ngang ngửa với chính tinh đắc địa**.
@@ -43,9 +43,9 @@ Tuy chỉ là phụ tinh nhưng **ảnh hưởng mạnh ngang ngửa với chín
 **Chỉ riêng MỘT trong hai sao** cũng đủ **hóa giải hầu hết hiệu lực của sao tốt
 nhất là Tử Vi**.
 
-⚠️ **MỆNH có Địa Không + Địa Kiếp:** mọi việc đều **HOÀN TOÀN THẤT BẠI**.
+**MỆNH có Địa Không + Địa Kiếp:** mọi việc đều **HOÀN TOÀN THẤT BẠI**.
 
-⚠️ Càng về **già**, Không Kiếp càng tác họa **mãnh liệt hơn** — ảnh hưởng tăng
+Càng về **già**, Không Kiếp càng tác họa **mãnh liệt hơn** — ảnh hưởng tăng
 theo thời gian.`,
 
     chiTiet: `## Vị trí đắc địa - hoạnh phát hoạnh phá
@@ -54,22 +54,22 @@ Tại 4 vị trí đắc địa **Tỵ, Hợi, Dần, Thân**, hai sao này cũn
 phá hoại**, tuy có gia tăng tài danh nhanh chóng. **Hoạnh phát đi liền hoạnh phá**
 — may đi liền rủi (đau ốm, mất của, tang khó…).
 
-**Vị trí TỐT NHẤT: cung Tỵ** — hành Hỏa của sao tương hòa cung Hỏa → hoạch
+**Vị trí TỐT NHẤT: cung Tỵ** — hành Hỏa của sao tương hòa cung Hỏa: hoạch
 phát mau chóng và bất ngờ về quan, tài, vận hội (trúng số lớn, thăng chức nhanh,
 uy quyền bộc phát).
 
 **Cung Hợi:** ý nghĩa tương tự nhưng cường độ kém hơn (Hợi Thủy khắc Hỏa) —
 nhờ đó tai họa suy trầm cũng không nhanh như ở Tỵ.
 
-**Tỵ và Hợi:** Kiếp Không **không bao giờ đồng cung** → hệ số tăng gấp bội cả
+**Tỵ và Hợi:** Kiếp Không **không bao giờ đồng cung**: hệ số tăng gấp bội cả
 về lợi và bất lợi.
 
-**Dần Thân:** Kiếp Không độc thủ và xung chiếu → phát đạt không mạnh bằng Tỵ
+**Dần Thân:** Kiếp Không độc thủ và xung chiếu: phát đạt không mạnh bằng Tỵ
 Hợi. **Dần tốt hơn Thân** (Dần Mộc hợp Hỏa, Thân Kim khắc Hỏa).
 
 ## Phạm vi ảnh hưởng
 
-**8 vị trí hãm địa** → sức phá hoại **sâu rộng**, đặc biệt khi **cả hai phối
+**8 vị trí hãm địa**: sức phá hoại **sâu rộng**, đặc biệt khi **cả hai phối
 chiếu lẫn nhau**:
 - Tai họa **gia tăng cả số lượng lẫn cường độ**
 - Liên lụy đến **người thân thuộc**
@@ -82,18 +82,18 @@ chiếu lẫn nhau**:
   // ============================================================
   {
     id: 'khong-kiep-tuan-triet',
-    title: '⚡ Không Kiếp gặp Tuần Triệt - Tác động ĐẢO NGƯỢC',
+    title: 'Không Kiếp gặp Tuần Triệt - Tác động ĐẢO NGƯỢC',
     sao: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 35,
-    tomTat: `⚡ **Nguyên tắc Tuần Triệt với Không Kiếp:**
+    tomTat: `**Nguyên tắc Tuần Triệt với Không Kiếp:**
 
-⚠️ **Kiếp Không ĐẮC ĐỊA gặp Tuần Triệt:** có nghĩa **NHƯ HÃM ĐỊA** — luận đoán
+**Kiếp Không ĐẮC ĐỊA gặp Tuần Triệt:** có nghĩa **NHƯ HÃM ĐỊA** — luận đoán
 phải **đảo ngược**.
 
-🌟 **Kiếp Không HÃM ĐỊA gặp Tuần Triệt:** **chế giảm hoặc triệt tiêu sức phá
+**Kiếp Không HÃM ĐỊA gặp Tuần Triệt:** **chế giảm hoặc triệt tiêu sức phá
 hoại** của sát tinh — nhưng KHÔNG hẳn biến thành tốt đẹp.
 
-→ Quy tắc tương tự cặp Khôi Việt nhưng **ngược chiều ảnh hưởng**.`,
+- Quy tắc tương tự cặp Khôi Việt nhưng **ngược chiều ảnh hưởng**.`,
   },
 
   // ============================================================
@@ -109,8 +109,8 @@ thì **phù trợ cũng nhanh và bất ngờ** như vậy.
 
 Tượng trưng cho **trường hợp BẤT KHẢ KHÁNG** mà sức người khó chế ngự.
 
-→ Con người hầu như **bị tràn ngập** bởi yếu tố bất khả cưỡng, không chủ động
-được. Thiếu **sao cứu giải mạnh** → báo hiệu **CÁI CHẾT nhanh chóng, bất ngờ,
+- Con người hầu như **bị tràn ngập** bởi yếu tố bất khả cưỡng, không chủ động
+được. Thiếu **sao cứu giải mạnh**: báo hiệu **CÁI CHẾT nhanh chóng, bất ngờ,
 tàn bạo**.`,
   },
 
@@ -132,7 +132,7 @@ tàn bạo**.`,
 - **Thủ đoạn cao**, hay dùng **thủ đoạn gian quyệt**
 - **Ích kỷ**
 
-→ Đặc tính này đúng cho **cả nam và nữ**.`,
+- Đặc tính này đúng cho **cả nam và nữ**.`,
   },
 
   // ============================================================
@@ -140,11 +140,11 @@ tàn bạo**.`,
   // ============================================================
   {
     id: 'khong-kiep-ham-tinh-tinh',
-    title: '⚠️ Không Kiếp HÃM - Tính tình côn đồ',
+    title: 'Không Kiếp HÃM - Tính tình côn đồ',
     sao: ['Địa Không', 'Địa Kiếp'],
     cung: ['Mệnh'],
     doUuTien: 75,
-    tomTat: `⚠️ **Không Kiếp HÃM** tại Mệnh — tính nết của **PHƯỜNG CÔN ĐỒ**:
+    tomTat: `**Không Kiếp HÃM** tại Mệnh — tính nết của **PHƯỜNG CÔN ĐỒ**:
 
 - **Ích kỷ TỘT ĐỘ trắng trợn**, hại công nghĩa cũng không lùi bước
 - **Tự kỷ ám thị**, suy tật xấu của người từ tật xấu của mình
@@ -152,9 +152,9 @@ tàn bạo**.`,
 - Lưu manh hạng nặng: **tham nhũng, hối lộ, lường gạt, gian lận, trộm cướp, bất
   lương, hiếp dâm**
 
-→ KHÔNG chỉ tiểu nhân mà là **CÔN ĐỒ**.
+- KHÔNG chỉ tiểu nhân mà là **CÔN ĐỒ**.
 
-⚠️ Có thêm sao xấu khác → càng chắc chắn.`,
+Có thêm sao xấu khác: càng chắc chắn.`,
   },
 
   // ============================================================
@@ -166,12 +166,12 @@ tàn bạo**.`,
     sao: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
     tomTat: `**Đắc địa:** KHÔNG bảo đảm trọn vẹn lâu dài. Sự nghiệp **hoạnh phát
-hoạnh phá** — uy quyền tiền bạc thăng trầm. Nếu phú quý lớn → hoặc không hưởng
+hoạnh phá** — uy quyền tiền bạc thăng trầm. Nếu phú quý lớn: hoặc không hưởng
 được lâu, hoặc phải có lần **phá sản, lụn bại**.
 
-⚠️ **Hãm địa:** **CỰC KỲ NGHÈO KHỔ, vất vả**, không có sự nghiệp và sinh kế.
+**Hãm địa:** **CỰC KỲ NGHÈO KHỔ, vất vả**, không có sự nghiệp và sinh kế.
 
-⚠️ **Không Kiếp giáp Mệnh:** liên lụy ít nhiều — **vất vả, tha phương lập nghiệp,
+**Không Kiếp giáp Mệnh:** liên lụy ít nhiều — **vất vả, tha phương lập nghiệp,
 bị mưu hại, trộm cắp**.`,
   },
 
@@ -180,12 +180,12 @@ bị mưu hại, trộm cắp**.`,
   // ============================================================
   {
     id: 'khong-kiep-phu-nu',
-    title: '⚠️ Không Kiếp - ĐẶC BIỆT BẤT LỢI CHO NỮ MỆNH',
+    title: 'Không Kiếp - ĐẶC BIỆT BẤT LỢI CHO NỮ MỆNH',
     sao: ['Địa Không', 'Địa Kiếp'],
     trangThai: ['Hãm'],
     gioiTinh: 'Nữ',
     doUuTien: 78,
-    tomTat: `⚠️ **Không Kiếp HÃM với phụ nữ:**
+    tomTat: `**Không Kiếp HÃM với phụ nữ:**
 - **SÁT PHU, SÁT CON**
 - **Tai nạn trinh tiết** (mất trinh, hãm hiếp) — ảnh hưởng SUỐT ĐỜI
 - **Hồng nhan bạc mệnh** và **đa truân**, hay **lụy vì tình**`,
@@ -208,10 +208,10 @@ bị mưu hại, trộm cắp**.`,
     sao: ['Địa Không', 'Địa Kiếp'],
     trangThai: ['Hãm'],
     doUuTien: 75,
-    tomTat: `⚠️ **Không Kiếp HÃM:** như **NGHIỆP CHƯỚNG bám vào vận mệnh**:
+    tomTat: `**Không Kiếp HÃM:** như **NGHIỆP CHƯỚNG bám vào vận mệnh**:
 - **Tật nguyền vĩnh viễn, bệnh nặng**
 - **Hung họa nhiều và nặng nề**
-- **Nghèo khổ, cô độc, vô sản** → phải đi xa làm ăn
+- **Nghèo khổ, cô độc, vô sản**: phải đi xa làm ăn
 - **Yểu mạng**`,
   },
 
@@ -221,7 +221,7 @@ bị mưu hại, trộm cắp**.`,
     sao: ['Địa Không', 'Địa Kiếp'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 65,
-    tomTat: `⚠️ **Không Kiếp + Sát tinh** (dù đắc địa): **gián đoạn phu thê** (vợ/chồng chết sớm).`,
+    tomTat: `**Không Kiếp + Sát tinh** (dù đắc địa): **gián đoạn phu thê** (vợ/chồng chết sớm).`,
   },
 
   {
@@ -230,7 +230,7 @@ bị mưu hại, trộm cắp**.`,
     sao: ['Địa Không', 'Địa Kiếp'],
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 70,
-    tomTat: `⚠️ **Không Kiếp + Đào Hồng (cả nam và nữ):** nghiệp chướng ái tình, **đau khổ điêu đứng tình duyên**, **cưới xin nhiều lần**, **bệnh phong tình**, yểu mạng.`,
+    tomTat: `**Không Kiếp + Đào Hồng (cả nam và nữ):** nghiệp chướng ái tình, **đau khổ điêu đứng tình duyên**, **cưới xin nhiều lần**, **bệnh phong tình**, yểu mạng.`,
   },
 
   {
@@ -240,7 +240,7 @@ bị mưu hại, trộm cắp**.`,
     gioiTinh: 'Nữ',
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 72,
-    tomTat: `⚠️ **Phụ nữ Đào Hồng + Không Kiếp:** đa phu, hồng nhan bạc mệnh, có thể **gái giang hồ**; chưa chồng thì rất **lang chạ**. Phụ nữ bị **hãm hiếp, mất trinh, thất tiết**, gia đạo nhiều lần tan vỡ, **bị ruồng bỏ** hoặc có thể **bị giết vì tình**.`,
+    tomTat: `**Phụ nữ Đào Hồng + Không Kiếp:** đa phu, hồng nhan bạc mệnh, có thể **gái giang hồ**; chưa chồng thì rất **lang chạ**. Phụ nữ bị **hãm hiếp, mất trinh, thất tiết**, gia đạo nhiều lần tan vỡ, **bị ruồng bỏ** hoặc có thể **bị giết vì tình**.`,
   },
 
   // ============================================================
@@ -262,9 +262,9 @@ bị mưu hại, trộm cắp**.`,
 - **Thiên Giải**
 - **Hóa Khoa**
 
-→ Các sao giải khác **KHÔNG đủ sức** chế ngự Không Kiếp hãm địa.
+- Các sao giải khác **KHÔNG đủ sức** chế ngự Không Kiếp hãm địa.
 
-⚠️ Lưu ý: **Không Kiếp hãm làm GIẢM sự tốt đẹp của cát tinh** nhiều hơn là cát
+Lưu ý: **Không Kiếp hãm làm GIẢM sự tốt đẹp của cát tinh** nhiều hơn là cát
 tinh làm mất sự hung họa của Không Kiếp.`,
   },
 
@@ -273,13 +273,13 @@ tinh làm mất sự hung họa của Không Kiếp.`,
   // ============================================================
   {
     id: 'khong-kiep-sao-tang-ac',
-    title: '⚠️ Không Kiếp - Sao TĂNG ÁC',
+    title: 'Không Kiếp - Sao TĂNG ÁC',
     sao: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 50,
-    tomTat: `⚠️ **Sao tăng ác cho Không Kiếp hãm địa:**
+    tomTat: `**Sao tăng ác cho Không Kiếp hãm địa:**
 
-- **Võ tinh hãm:** Sát, Phá, Liêm, Tham hãm địa → tác họa **gấp BỘI**
-- **Sát tinh hãm:** Kình, Đà, Linh, Hỏa hãm địa → góp phần thêm hiểm họa
+- **Võ tinh hãm:** Sát, Phá, Liêm, Tham hãm địa: tác họa **gấp BỘI**
+- **Sát tinh hãm:** Kình, Đà, Linh, Hỏa hãm địa: góp phần thêm hiểm họa
 - **Tả Hữu** cũng góp phần`,
   },
 
@@ -293,9 +293,9 @@ tinh làm mất sự hung họa của Không Kiếp.`,
     doUuTien: 55,
     tomTat: `**Không Kiếp - các cách đáng chú ý:**
 
-🌟 **Cách "Phi Thường" - Đế Vương:** Không Kiếp đắc + Tử Phủ Vũ Tướng đắc + Sát
+**Cách "Phi Thường" - Đế Vương:** Không Kiếp đắc + Tử Phủ Vũ Tướng đắc + Sát
 Phá Liêm Tham đắc + Tả Hữu Khôi Việt Xương Khúc Long Phượng Đào Hồng Khoa
-Quyền Lộc + Kình Đà Hình Hổ → **NGUYÊN THỦ, ĐẾ VƯƠNG**, danh tiếng lừng lẫy.`,
+Quyền Lộc + Kình Đà Hình Hổ: **NGUYÊN THỦ, ĐẾ VƯƠNG**, danh tiếng lừng lẫy.`,
   },
   {
     id: 'khong-kiep-tuong-ma-khoa-dac-menh',
@@ -304,7 +304,7 @@ Quyền Lộc + Kình Đà Hình Hổ → **NGUYÊN THỦ, ĐẾ VƯƠNG**, danh
     cung: ['Mệnh'],
     ketHop: ['Thiên Tướng', 'Thiên Mã', 'Hóa Khoa'],
     doUuTien: 50,
-    tomTat: `🌟 **Không Kiếp + Thiên Tướng / Thiên Mã / Hóa Khoa đắc địa cư Mệnh:**
+    tomTat: `**Không Kiếp + Thiên Tướng / Thiên Mã / Hóa Khoa đắc địa cư Mệnh:**
 tài giỏi, lập **sự nghiệp lừng lẫy trong CẢNH LOẠN LY**.`,
   },
   {
@@ -313,8 +313,8 @@ tài giỏi, lập **sự nghiệp lừng lẫy trong CẢNH LOẠN LY**.`,
     sao: ['Địa Không', 'Địa Kiếp'],
     ketHop: ['Tử Vi', 'Thiên Phủ'],
     doUuTien: 50,
-    tomTat: `⚠️ **Không Kiếp + Tử Vi / Thiên Phủ cùng đắc:** thăng trầm công
-danh; Tử Phủ bị Tuần Triệt → hung họa hiểm nghèo khó tránh.`,
+    tomTat: `**Không Kiếp + Tử Vi / Thiên Phủ cùng đắc:** thăng trầm công
+danh; Tử Phủ bị Tuần Triệt: hung họa hiểm nghèo khó tránh.`,
   },
   {
     id: 'khong-kiep-kinh-da-hoa-linh-ham',
@@ -322,7 +322,7 @@ danh; Tử Phủ bị Tuần Triệt → hung họa hiểm nghèo khó tránh.`,
     sao: ['Địa Không', 'Địa Kiếp'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 50,
-    tomTat: `⚠️ **Không Kiếp + Kình Dương / Đà La / Hỏa Tinh / Linh Tinh cùng
+    tomTat: `**Không Kiếp + Kình Dương / Đà La / Hỏa Tinh / Linh Tinh cùng
 hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát phu**.`,
 
     chiTiet: `## Các bộ đặc biệt khác
@@ -357,7 +357,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Mệnh'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `🌟 **Địa Không ĐẮC địa Mệnh:** khả năng **làm mới bản thân, vực dậy sau thất bại**, giữ tỉnh táo trong "nước sôi lửa bỏng".`,
+    tomTat: `**Địa Không ĐẮC địa Mệnh:** khả năng **làm mới bản thân, vực dậy sau thất bại**, giữ tỉnh táo trong "nước sôi lửa bỏng".`,
   },
 
   {
@@ -367,7 +367,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Mệnh'],
     ketHop: ['Thiên Phủ', 'Tả Phù', 'Hữu Bật', 'Văn Xương'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Không Mệnh + Thiên Phủ / Tả Hữu / Văn Xương:** tăng nội lực, phát huy **trí tuệ và sáng tạo âm thầm**.`,
+    tomTat: `**Địa Không Mệnh + Thiên Phủ / Tả Hữu / Văn Xương:** tăng nội lực, phát huy **trí tuệ và sáng tạo âm thầm**.`,
   },
 
   {
@@ -377,7 +377,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Mệnh'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Địa Không HÃM Mệnh:** **cô đơn, lạc lõng** "như cá lạc sông". Cuộc sống biến động, **mất niềm tin vào bản thân**, khó mở lòng.`,
+    tomTat: `**Địa Không HÃM Mệnh:** **cô đơn, lạc lõng** "như cá lạc sông". Cuộc sống biến động, **mất niềm tin vào bản thân**, khó mở lòng.`,
   },
 
   {
@@ -387,7 +387,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Mệnh'],
     ketHop: ['Địa Kiếp', 'Kình Dương', 'Thiên Hình'],
     doUuTien: 75,
-    tomTat: `⚠️ **Địa Không Mệnh + Địa Kiếp / Kình / Hình:** hao tổn sức khỏe, tài lực, **tai họa bất ngờ**.`,
+    tomTat: `**Địa Không Mệnh + Địa Kiếp / Kình / Hình:** hao tổn sức khỏe, tài lực, **tai họa bất ngờ**.`,
   },
 
   // ============================================================
@@ -409,7 +409,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Phụ Mẫu'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `🌟 **Địa Không ĐẮC Phụ Mẫu:** quan hệ với cha mẹ **kín đáo nhưng sâu sắc**, có sự tôn trọng. Sức khỏe cha mẹ thiếu ổn định nhưng không nghiêm trọng. ⚠️ Đương số phải **vất vả chăm lo cha mẹ**, hoặc **gánh hậu quả** cha mẹ để lại.`,
+    tomTat: `**Địa Không ĐẮC Phụ Mẫu:** quan hệ với cha mẹ **kín đáo nhưng sâu sắc**, có sự tôn trọng. Sức khỏe cha mẹ thiếu ổn định nhưng không nghiêm trọng. Đương số phải **vất vả chăm lo cha mẹ**, hoặc **gánh hậu quả** cha mẹ để lại.`,
   },
 
   {
@@ -419,7 +419,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Phụ Mẫu'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Địa Không HÃM Phụ Mẫu:** gia đạo **bất hòa**, "cơm chẳng lành canh chẳng ngọt". Cha mẹ **sức khỏe kém, biến cố**, hoặc vướng **cờ bạc rượu chè**.`,
+    tomTat: `**Địa Không HÃM Phụ Mẫu:** gia đạo **bất hòa**, "cơm chẳng lành canh chẳng ngọt". Cha mẹ **sức khỏe kém, biến cố**, hoặc vướng **cờ bạc rượu chè**.`,
   },
 
   {
@@ -429,7 +429,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Phụ Mẫu'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Kiếp', 'Hóa Kỵ'],
     doUuTien: 73,
-    tomTat: `⚠️ **Địa Không Phụ Mẫu + hung tinh:** quan hệ càng **rạn nứt**.`,
+    tomTat: `**Địa Không Phụ Mẫu + hung tinh:** quan hệ càng **rạn nứt**.`,
   },
 
   // ============================================================
@@ -451,7 +451,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Phúc Đức'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `🌟 **Địa Không ĐẮC Phúc Đức:** ý thức **làm việc thiện, giữ đạo đức**, tin "gieo nhân lành gặt quả ngọt". Đời sống tinh thần đè nén, dễ cô đơn, nhưng **trung niên hậu vận chuyển biến tốt hơn**.`,
+    tomTat: `**Địa Không ĐẮC Phúc Đức:** ý thức **làm việc thiện, giữ đạo đức**, tin "gieo nhân lành gặt quả ngọt". Đời sống tinh thần đè nén, dễ cô đơn, nhưng **trung niên hậu vận chuyển biến tốt hơn**.`,
   },
 
   {
@@ -461,7 +461,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Phúc Đức'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Địa Không HÃM Phúc Đức:** **trắc trở tinh thần**, thiếu an lành, áp lực. Bị ảnh hưởng **nghiệp chướng**, phúc phần **mỏng manh**.`,
+    tomTat: `**Địa Không HÃM Phúc Đức:** **trắc trở tinh thần**, thiếu an lành, áp lực. Bị ảnh hưởng **nghiệp chướng**, phúc phần **mỏng manh**.`,
   },
 
   {
@@ -471,7 +471,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Phúc Đức'],
     ketHop: ['Địa Kiếp', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 73,
-    tomTat: `⚠️ **Địa Không Phúc Đức + Địa Kiếp / Kình / sát tinh:** cẩn trọng **sức khỏe tinh thần, hao phúc**.`,
+    tomTat: `**Địa Không Phúc Đức + Địa Kiếp / Kình / sát tinh:** cẩn trọng **sức khỏe tinh thần, hao phúc**.`,
   },
 
   // ============================================================
@@ -493,7 +493,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Điền Trạch'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `🌟 **Địa Không ĐẮC Điền Trạch:** **kín đáo, ít phô trương** chuyện nhà cửa. **Gắn bó quê cha đất tổ**, muốn giữ gìn gia sản. ⚠️ Tính phá hoại tiềm ẩn → **tai họa khó lường**, lúc khó khăn phải **tìm đường thoát thân trước**, khó giữ gia sản trọn vẹn.`,
+    tomTat: `**Địa Không ĐẮC Điền Trạch:** **kín đáo, ít phô trương** chuyện nhà cửa. **Gắn bó quê cha đất tổ**, muốn giữ gìn gia sản. Tính phá hoại tiềm ẩn: **tai họa khó lường**, lúc khó khăn phải **tìm đường thoát thân trước**, khó giữ gia sản trọn vẹn.`,
   },
 
   {
@@ -503,7 +503,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Điền Trạch'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Địa Không HÃM Điền Trạch:** **thất thoát tài sản, mất nhà**, tai họa môi trường sống. Quan hệ trong nhà thiếu hòa khí, phải **di chuyển nhiều lần**.`,
+    tomTat: `**Địa Không HÃM Điền Trạch:** **thất thoát tài sản, mất nhà**, tai họa môi trường sống. Quan hệ trong nhà thiếu hòa khí, phải **di chuyển nhiều lần**.`,
   },
 
   // ============================================================
@@ -525,7 +525,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Quan Lộc'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `🌟 **Địa Không ĐẮC Quan Lộc:** giai đoạn phát triển hưng thịnh, nhưng **càng phát đạt càng dễ sụp đổ nhanh**. Lúc thành công là lúc "ngủ quên trên chiến thắng" → khó tránh tai họa. ⚠️ Có thể dùng **tiểu xảo, thủ đoạn bất chính** → để lại rủi ro lâu dài.`,
+    tomTat: `**Địa Không ĐẮC Quan Lộc:** giai đoạn phát triển hưng thịnh, nhưng **càng phát đạt càng dễ sụp đổ nhanh**. Lúc thành công là lúc "ngủ quên trên chiến thắng": khó tránh tai họa. Có thể dùng **tiểu xảo, thủ đoạn bất chính**: để lại rủi ro lâu dài.`,
   },
 
   {
@@ -535,7 +535,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Quan Lộc'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Địa Không HÃM Quan Lộc:** công danh **không ổn định**, "đầu voi đuôi chuột". Làm việc đơn độc.`,
+    tomTat: `**Địa Không HÃM Quan Lộc:** công danh **không ổn định**, "đầu voi đuôi chuột". Làm việc đơn độc.`,
   },
 
   {
@@ -545,7 +545,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Không', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Kiếp'],
     doUuTien: 75,
-    tomTat: `⚠️ **Địa Không Quan Lộc + Thiên Không / sát tinh:** sự nghiệp **gián đoạn**, **tâm lý bỏ dở giữa chừng**.`,
+    tomTat: `**Địa Không Quan Lộc + Thiên Không / sát tinh:** sự nghiệp **gián đoạn**, **tâm lý bỏ dở giữa chừng**.`,
   },
 
   // ============================================================
@@ -567,7 +567,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Nô Bộc'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `🌟 **Địa Không ĐẮC Nô Bộc:** mối quan hệ với **người tài giỏi**, nhưng "lắm tài nhiều tật" → bạn bè đủ tốt xấu. ⚠️ Việc bạn bè làm sai có thể khiến đương số **chịu liên lụy**.`,
+    tomTat: `**Địa Không ĐẮC Nô Bộc:** mối quan hệ với **người tài giỏi**, nhưng "lắm tài nhiều tật": bạn bè đủ tốt xấu. Việc bạn bè làm sai có thể khiến đương số **chịu liên lụy**.`,
   },
 
   {
@@ -577,7 +577,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Nô Bộc'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Địa Không HÃM Nô Bộc:** dễ gặp kẻ "bằng mặt không bằng lòng", **ngấm ngầm tính toán**.`,
+    tomTat: `**Địa Không HÃM Nô Bộc:** dễ gặp kẻ "bằng mặt không bằng lòng", **ngấm ngầm tính toán**.`,
   },
 
   {
@@ -587,7 +587,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Nô Bộc'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Kiếp'],
     doUuTien: 73,
-    tomTat: `⚠️ **Địa Không Nô Bộc + sát tinh:** bạn bè / cấp dưới **gây rắc rối, phản bội, lợi dụng**.`,
+    tomTat: `**Địa Không Nô Bộc + sát tinh:** bạn bè / cấp dưới **gây rắc rối, phản bội, lợi dụng**.`,
   },
 
   // ============================================================
@@ -609,7 +609,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Thiên Di'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `🌟 **Địa Không ĐẮC Thiên Di:** giảm thiểu tác họa nhưng nguy cơ vẫn có. Cần tránh **tham vọng hoặc hành động bất chính**.`,
+    tomTat: `**Địa Không ĐẮC Thiên Di:** giảm thiểu tác họa nhưng nguy cơ vẫn có. Cần tránh **tham vọng hoặc hành động bất chính**.`,
   },
 
   {
@@ -619,7 +619,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Thiên Di'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Địa Không HÃM Thiên Di:** **lạc lõng, cô đơn** xa quê. **Giao tiếp kém linh hoạt**, khó tạo quan hệ sâu sắc, dễ bị **hiểu lầm xa cách**. Đi xa dễ **tai tiếng, thị phi**.`,
+    tomTat: `**Địa Không HÃM Thiên Di:** **lạc lõng, cô đơn** xa quê. **Giao tiếp kém linh hoạt**, khó tạo quan hệ sâu sắc, dễ bị **hiểu lầm xa cách**. Đi xa dễ **tai tiếng, thị phi**.`,
   },
 
   // ============================================================
@@ -641,7 +641,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Tật Ách'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `🌟 **Địa Không ĐẮC Tật Ách:** dễ mắc bệnh / tai họa nhưng có thể **vượt qua hoặc chữa trị kịp thời**.`,
+    tomTat: `**Địa Không ĐẮC Tật Ách:** dễ mắc bệnh / tai họa nhưng có thể **vượt qua hoặc chữa trị kịp thời**.`,
   },
 
   {
@@ -651,7 +651,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Tật Ách'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Địa Không HÃM Tật Ách:** **khó tìm nguyên nhân, khó chẩn đoán bệnh**.`,
+    tomTat: `**Địa Không HÃM Tật Ách:** **khó tìm nguyên nhân, khó chẩn đoán bệnh**.`,
   },
 
   {
@@ -661,7 +661,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Tật Ách'],
     ketHop: ['Địa Kiếp', 'Kình Dương'],
     doUuTien: 75,
-    tomTat: `⚠️ **Địa Không Tật Ách + Địa Kiếp / Kình:** tai nạn bất ngờ hoặc **bệnh hiểm nghèo** → cần **phòng tránh từ sớm**.`,
+    tomTat: `**Địa Không Tật Ách + Địa Kiếp / Kình:** tai nạn bất ngờ hoặc **bệnh hiểm nghèo**: cần **phòng tránh từ sớm**.`,
   },
 
   // ============================================================
@@ -683,7 +683,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Tài Bạch'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `🌟 **Địa Không ĐẮC Tài Bạch:** **quản lý tài chính khôn ngoan**, kiếm tiền bằng đường **táo bạo** (đầu cơ, tích trữ), thậm chí **bất chính**.`,
+    tomTat: `**Địa Không ĐẮC Tài Bạch:** **quản lý tài chính khôn ngoan**, kiếm tiền bằng đường **táo bạo** (đầu cơ, tích trữ), thậm chí **bất chính**.`,
   },
 
   {
@@ -693,7 +693,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Tài Bạch'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Hóa Khoa'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Không Tài Bạch + Tả Hữu / Hóa Khoa:** giảm liều lĩnh, đưa về **chính giới**.`,
+    tomTat: `**Địa Không Tài Bạch + Tả Hữu / Hóa Khoa:** giảm liều lĩnh, đưa về **chính giới**.`,
   },
 
   {
@@ -703,7 +703,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Tài Bạch'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Địa Không HÃM Tài Bạch:** **hao tài tốn của, mất mát tiền bạc**. Thu nhập thất thường, khó giữ ổn định lâu dài. Tâm lý **lười biếng, muốn làm giàu nhanh** → dễ sa ngã việc **kiếm tiền không chính đáng**.`,
+    tomTat: `**Địa Không HÃM Tài Bạch:** **hao tài tốn của, mất mát tiền bạc**. Thu nhập thất thường, khó giữ ổn định lâu dài. Tâm lý **lười biếng, muốn làm giàu nhanh**: dễ sa ngã việc **kiếm tiền không chính đáng**.`,
   },
 
   // ============================================================
@@ -725,7 +725,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Tử Tức'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `🌟 **Địa Không ĐẮC Tử Tức:** quan hệ với con **kín đáo nhưng đầy yêu thương**. Tổn thương / **vết sẹo khó lành**.`,
+    tomTat: `**Địa Không ĐẮC Tử Tức:** quan hệ với con **kín đáo nhưng đầy yêu thương**. Tổn thương / **vết sẹo khó lành**.`,
   },
 
   {
@@ -735,7 +735,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Tử Tức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Địa Không HÃM Tử Tức:** quan hệ con cái **không thuận lợi**, thiếu đồng điệu, **khoảng cách thế hệ**. Sự không thấu hiểu dễ đẩy con **"lầm đường lạc lối"**.`,
+    tomTat: `**Địa Không HÃM Tử Tức:** quan hệ con cái **không thuận lợi**, thiếu đồng điệu, **khoảng cách thế hệ**. Sự không thấu hiểu dễ đẩy con **"lầm đường lạc lối"**.`,
   },
 
   {
@@ -745,7 +745,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Tử Tức'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Thiên Hình', 'Hóa Kỵ'],
     doUuTien: 73,
-    tomTat: `⚠️ **Địa Không Tử Tức + Kình / Đà / Hỏa / Linh / Hình / Hóa Kỵ:** con cái **làm liên lụy** đến bố mẹ.`,
+    tomTat: `**Địa Không Tử Tức + Kình / Đà / Hỏa / Linh / Hình / Hóa Kỵ:** con cái **làm liên lụy** đến bố mẹ.`,
   },
 
   // ============================================================
@@ -767,7 +767,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Phu Thê'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `🌟 **Địa Không ĐẮC Phu Thê:** mối quan hệ **sâu sắc** nhưng vẫn có lúc **không có tiếng nói chung** → xung đột lớn hơn vì **không cảm thấy được thấu hiểu**.`,
+    tomTat: `**Địa Không ĐẮC Phu Thê:** mối quan hệ **sâu sắc** nhưng vẫn có lúc **không có tiếng nói chung**: xung đột lớn hơn vì **không cảm thấy được thấu hiểu**.`,
   },
 
   {
@@ -777,7 +777,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Phu Thê'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Địa Không HÃM Phu Thê:** hôn nhân **trục trặc**, thiếu gắn kết. Quan hệ **lạnh nhạt**, bạn đời có **tư tưởng / quan điểm đạo đức sai lệch** hoặc **hiểu lầm nghiêm trọng** gây **rạn nứt lớn**.`,
+    tomTat: `**Địa Không HÃM Phu Thê:** hôn nhân **trục trặc**, thiếu gắn kết. Quan hệ **lạnh nhạt**, bạn đời có **tư tưởng / quan điểm đạo đức sai lệch** hoặc **hiểu lầm nghiêm trọng** gây **rạn nứt lớn**.`,
   },
 
   // ============================================================
@@ -799,7 +799,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Huynh Đệ'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `🌟 **Địa Không ĐẮC Huynh Đệ:** quan hệ anh chị em **hình khắc nhưng không gay gắt**. Có thể phải **sống xa nhau** hoặc làm nghề mạo hiểm. Anh chị em thành công nhưng **giúp đỡ không bền lâu** → đương số phải **giải quyết rắc rối** do họ gây ra.`,
+    tomTat: `**Địa Không ĐẮC Huynh Đệ:** quan hệ anh chị em **hình khắc nhưng không gay gắt**. Có thể phải **sống xa nhau** hoặc làm nghề mạo hiểm. Anh chị em thành công nhưng **giúp đỡ không bền lâu**: đương số phải **giải quyết rắc rối** do họ gây ra.`,
   },
 
   {
@@ -809,7 +809,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     cung: ['Huynh Đệ'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Địa Không HÃM Huynh Đệ:** quan hệ **căng thẳng, thiếu gắn kết**. **Mâu thuẫn, hiểu lầm sâu sắc** → đương số dễ **tổn thương tình cảm** và **bị liên lụy** từ anh chị em.`,
+    tomTat: `**Địa Không HÃM Huynh Đệ:** quan hệ **căng thẳng, thiếu gắn kết**. **Mâu thuẫn, hiểu lầm sâu sắc**: đương số dễ **tổn thương tình cảm** và **bị liên lụy** từ anh chị em.`,
   },
 
   // ============================================================
@@ -817,10 +817,10 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
   // ============================================================
   {
     id: 'dia-khong-tai-uong-3-cach',
-    title: '⚠️ Địa Không gặp hung tinh - 3 cách tai ương',
+    title: 'Địa Không gặp hung tinh - 3 cách tai ương',
     sao: ['Địa Không'],
     doUuTien: 55,
-    tomTat: `⚠️ **3 cách tai ương khi Địa Không gặp hung tinh** — xem các tổ
+    tomTat: `**3 cách tai ương khi Địa Không gặp hung tinh** — xem các tổ
 hợp cụ thể trong các entry chuyên biệt bên dưới.`,
   },
   {
@@ -829,8 +829,8 @@ hợp cụ thể trong các entry chuyên biệt bên dưới.`,
     sao: ['Địa Không'],
     ketHop: ['Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 50,
-    tomTat: `⚠️ **Địa Không + Hỏa Tinh / Linh Tinh:** **HỎA TAI** — cháy nổ do
-bất cẩn, điện chập, cháy nhà → cần kiểm tra điện, bếp, không để vật dễ cháy
+    tomTat: `**Địa Không + Hỏa Tinh / Linh Tinh:** **HỎA TAI** — cháy nổ do
+bất cẩn, điện chập, cháy nhà: cần kiểm tra điện, bếp, không để vật dễ cháy
 gần nguồn nhiệt.`,
   },
   {
@@ -839,8 +839,8 @@ gần nguồn nhiệt.`,
     sao: ['Địa Không'],
     ketHop: ['Tham Lang'],
     doUuTien: 50,
-    tomTat: `⚠️ **Địa Không + Tham Lang:** **TAI ƯƠNG SÔNG NƯỚC** — sông hồ,
-biển cả → hạn chế đi đường thủy, chuẩn bị kỹ và tuân thủ an toàn.`,
+    tomTat: `**Địa Không + Tham Lang:** **TAI ƯƠNG SÔNG NƯỚC** — sông hồ,
+biển cả: hạn chế đi đường thủy, chuẩn bị kỹ và tuân thủ an toàn.`,
   },
   {
     id: 'dia-khong-hung-tinh-khac-khac-vo',
@@ -848,9 +848,9 @@ biển cả → hạn chế đi đường thủy, chuẩn bị kỹ và tuân th
     sao: ['Địa Không'],
     ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Thiên Hình', 'Bạch Hổ'],
     doUuTien: 50,
-    tomTat: `⚠️ **Địa Không + hung tinh (Kình / Đà / Hóa Kỵ / Thiên Hình / Bạch
+    tomTat: `**Địa Không + hung tinh (Kình / Đà / Hóa Kỵ / Thiên Hình / Bạch
 Hổ):** vợ chồng **lục đục, xa cách, đoạn tuyệt** — nam **khắc vợ**, nữ **sát
-phu** → chọn bạn đời hợp mệnh, rèn kiên nhẫn bao dung.`,
+phu**: chọn bạn đời hợp mệnh, rèn kiên nhẫn bao dung.`,
   },
 
   // ============================================================
@@ -872,7 +872,7 @@ phu** → chọn bạn đời hợp mệnh, rèn kiên nhẫn bao dung.`,
 
 **Địa Không tại các cung quan hệ:**
 - **Tìm hiểu bản chất** mối quan hệ, học cách **hòa giải**
-- Vì Địa Không có **tính xáo trộn lớn** → cần **chủ động thiết lập nguyên tắc
+- Vì Địa Không có **tính xáo trộn lớn**: cần **chủ động thiết lập nguyên tắc
   ngay từ đầu**, nếu không sẽ vất vả khi sao tác họa`,
   },
 ];

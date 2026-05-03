@@ -22,7 +22,7 @@ thuật**, đào hoa quyến rũ.
 
 **Vị trí an sao:** chỉ ở 4 cung **Tý - Ngọ - Mão - Dậu** (Tứ Chính / Đào Hoa địa).
 
-⚡ **Vai trò trong tử vi:**
+**Vai trò trong tử vi:**
 - Tăng **sức hấp dẫn cá nhân**, khả năng giao tiếp, **thẩm mỹ với người khác giới**
 - Có thể mang **may mắn** lẫn **thị phi**
 - Ảnh hưởng đến **cưới xin, đời sống chăn gối, thi cử, công danh**`,
@@ -45,7 +45,7 @@ thành bộ **Đào - Không - Sát** nổi bật trong lá số.
 ## Khía cạnh tài lộc
 
 - Khả năng **kiếm tiền từ tài năng, ngoại hình, sự duyên dáng**
-- Nếu đi cùng sao xấu → **sa đà vào lối sống hưởng thụ hoặc tệ nạn**`,
+- Nếu đi cùng sao xấu: **sa đà vào lối sống hưởng thụ hoặc tệ nạn**`,
   },
 
   // ============================================================
@@ -57,9 +57,9 @@ thành bộ **Đào - Không - Sát** nổi bật trong lá số.
     sao: ['Đào Hoa'],
     chi: ['Tý', 'Ngọ', 'Mão', 'Dậu'],
     doUuTien: 40,
-    tomTat: `⚡ **Đào Hoa chỉ an tại 4 cung Tý / Ngọ / Mão / Dậu** (Đào Hoa địa):
+    tomTat: `**Đào Hoa chỉ an tại 4 cung Tý / Ngọ / Mão / Dậu** (Đào Hoa địa):
 
-🌟 **ĐẮC ĐỊA NHẤT tại cung Mão:**
+**ĐẮC ĐỊA NHẤT tại cung Mão:**
 - Người **đắc thời về ái tình**
 - Có **hấp lực quyến rũ** mạnh
 - Được nhiều người biết đến và **tôn thờ**
@@ -69,7 +69,7 @@ thành bộ **Đào - Không - Sát** nổi bật trong lá số.
 - Có những **mối tình kín đáo** (yêu trộm, được yêu trộm, biết bảo mật trong
   tình yêu)
 
-⚠️ **Đào Hoa tại Ngọ và Dậu:**
+**Đào Hoa tại Ngọ và Dậu:**
 - **Kém thi vị**, **bớt nhiều sức hấp dẫn**
 - Nếu **Tuần / Triệt đồng cung** thì mới sáng lên và có triển vọng`,
   },
@@ -82,7 +82,7 @@ thành bộ **Đào - Không - Sát** nổi bật trong lá số.
     title: 'Đào Hồng - Cặp song tinh đào hoa',
     sao: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 50,
-    tomTat: `🌟 **Đào Hoa + Hồng Loan** = cặp **"Đào Hồng"** — bộ song tinh chủ về:
+    tomTat: `**Đào Hoa + Hồng Loan** = cặp **"Đào Hồng"** — bộ song tinh chủ về:
 - **Cưới xin** và **đời sống chăn gối**
 - **Thi cử, công danh** — đem đến nhiều **sự vui mừng**
 
@@ -96,7 +96,7 @@ thành bộ **Đào - Không - Sát** nổi bật trong lá số.
 | **Hoa tay** | - | **Có hoa tay**, nói ngọt, đi đứng khả ái |
 | **Mức sa đọa** | Dễ sa đọa hơn | **Ít sa đọa hơn** Đào |
 
-→ Người có **Hồng tại Mệnh:** có hoa tay, **nói ngọt, có duyên**, đi đứng khả ái.`,
+- Người có **Hồng tại Mệnh:** có hoa tay, **nói ngọt, có duyên**, đi đứng khả ái.`,
   },
 
   // ============================================================
@@ -107,16 +107,16 @@ thành bộ **Đào - Không - Sát** nổi bật trong lá số.
     title: 'Tam Minh = Đào Hoa + Hồng Loan + Thiên Hỷ',
     sao: ['Đào Hoa', 'Hồng Loan', 'Thiên Hỷ'],
     doUuTien: 55,
-    tomTat: `🌟 **Đào Hoa + Hồng Loan + Thiên Hỷ** = bộ **"Tam Minh"**.
+    tomTat: `**Đào Hoa + Hồng Loan + Thiên Hỷ** = bộ **"Tam Minh"**.
 
-🌟 **Vai trò Tam Minh:** **GIẢM được tính dâm tà** của Đào Hồng đơn lẻ.
+**Vai trò Tam Minh:** **GIẢM được tính dâm tà** của Đào Hồng đơn lẻ.
 
-→ Tam Minh hiện diện tại Mệnh / Thân biểu thị:
+- Tam Minh hiện diện tại Mệnh / Thân biểu thị:
 - Sự **may mắn về tình duyên + cưới xin**
 - **Vui mừng, hỉ sự**
 - **Đỡ tính lả lơi** so với Đào Hồng đứng riêng
 
-⚡ **Lưu ý:** dù có Tam Minh, nếu thêm **Nhật Nguyệt** thì **vẫn là khách đa
+**Lưu ý:** dù có Tam Minh, nếu thêm **Nhật Nguyệt** thì **vẫn là khách đa
 tình** — Tam Minh chỉ giảm dâm tà chứ không triệt tiêu hoàn toàn.`,
   },
 
@@ -129,11 +129,11 @@ tình** — Tam Minh chỉ giảm dâm tà chứ không triệt tiêu hoàn toà
     sao: ['Đào Hoa', 'Hồng Loan'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `⚠️ **Đào Hồng đóng tại Mệnh KHÔNG ĐẸP** — vì:
+    tomTat: `**Đào Hồng đóng tại Mệnh KHÔNG ĐẸP** — vì:
 - May mắn nào cũng **chóng gặp lại chóng qua**
 - Thường là **hai đời chồng/vợ** — nếu không cũng **dở dang lắm bận ái ân**
 
-🌟 **Tốt nhất: Đào Hồng XUNG CHIẾU** (không đồng cung) — mới đẹp.`,
+**Tốt nhất: Đào Hồng XUNG CHIẾU** (không đồng cung) — mới đẹp.`,
 
     chiTiet: `## Tính chất "vừa duyên vừa nghiệp"
 
@@ -145,11 +145,11 @@ sắc lẫn hương:
 
 ## Đào Hồng + Sát Phá Liêm Tham
 
-⚠️ **Cực xấu:** đường tình duyên **vô cùng gian nan**, dễ:
+**Cực xấu:** đường tình duyên **vô cùng gian nan**, dễ:
 - **Khắc chồng con**
 - Gặp cảnh **chia ly hoặc góa bụa**
 
-→ Cần **Tuần / Triệt** hoặc **Tử Phủ / Nguyệt Đức** để hóa giải mới mong giảm
+- Cần **Tuần / Triệt** hoặc **Tử Phủ / Nguyệt Đức** để hóa giải mới mong giảm
 bớt tai họa.
 
 (Xem entry chuyên biệt cho nữ mệnh.)`,
@@ -165,7 +165,7 @@ bớt tai họa.
     cung: ['Mệnh'],
     ketHop: ['Tử Vi', 'Thiên Phủ', 'Thái Dương', 'Thái Âm'],
     doUuTien: 70,
-    tomTat: `🌟 **Đào Hồng + Tử Vi / Thiên Phủ / Thái Dương / Thái Âm tại Mệnh:** làm
+    tomTat: `**Đào Hồng + Tử Vi / Thiên Phủ / Thái Dương / Thái Âm tại Mệnh:** làm
 **TĂNG cái rực rỡ** của bản mệnh.`,
   },
   {
@@ -175,7 +175,7 @@ bớt tai họa.
     cung: ['Mệnh'],
     ketHop: ['Văn Xương', 'Văn Khúc', 'Lưu Niên Văn Tinh', 'Hóa Khoa'],
     doUuTien: 70,
-    tomTat: `🌟 **Đào Hồng + văn tinh** (Văn Xương / Văn Khúc / Lưu Niên Văn Tinh / Hóa
+    tomTat: `**Đào Hồng + văn tinh** (Văn Xương / Văn Khúc / Lưu Niên Văn Tinh / Hóa
 Khoa) **tại Mệnh:** **đỗ sớm** — khoa cử suôn sẻ, học hành thành đạt.`,
   },
   {
@@ -185,7 +185,7 @@ Khoa) **tại Mệnh:** **đỗ sớm** — khoa cử suôn sẻ, học hành th
     cung: ['Mệnh'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Đà La', 'Kình Dương'],
     doUuTien: 65,
-    tomTat: `⚠️ **Đào Hồng + sát tinh hội** (Địa Không / Địa Kiếp / Đà La / Kình Dương)
+    tomTat: `**Đào Hồng + sát tinh hội** (Địa Không / Địa Kiếp / Đà La / Kình Dương)
 **tại Mệnh:** **không thọ** — mệnh **dở dang** lại còn **yểu**.`,
   },
   {
@@ -195,7 +195,7 @@ Khoa) **tại Mệnh:** **đỗ sớm** — khoa cử suôn sẻ, học hành th
     cung: ['Mệnh'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 65,
-    tomTat: `⚠️ **Đào Hồng + Địa Kiếp tại Mệnh:** dễ bị **đắm thuyền** — tai nạn liên
+    tomTat: `**Đào Hồng + Địa Kiếp tại Mệnh:** dễ bị **đắm thuyền** — tai nạn liên
 quan **sông nước**.`,
   },
   {
@@ -205,7 +205,7 @@ quan **sông nước**.`,
     cung: ['Mệnh'],
     ketHop: ['Thiên Cơ', 'Cự Môn', 'Tả Phù', 'Hữu Bật', 'Thái Tuế'],
     doUuTien: 65,
-    tomTat: `⚠️ **Đào Hồng + Thiên Cơ / Cự Môn / Tả Phù / Hữu Bật / Thái Tuế tại Mệnh:**
+    tomTat: `**Đào Hồng + Thiên Cơ / Cự Môn / Tả Phù / Hữu Bật / Thái Tuế tại Mệnh:**
 sức khỏe **kém**, mệnh như **ngọn đèn trước gió**.`,
   },
   {
@@ -215,7 +215,7 @@ sức khỏe **kém**, mệnh như **ngọn đèn trước gió**.`,
     cung: ['Mệnh'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Bệnh Phù'],
     doUuTien: 65,
-    tomTat: `⚠️ **Đào Hồng + Địa Không / Địa Kiếp / Bệnh Phù tại Mệnh:** mắc **bệnh
+    tomTat: `**Đào Hồng + Địa Không / Địa Kiếp / Bệnh Phù tại Mệnh:** mắc **bệnh
 phong tình**.`,
   },
 
@@ -228,10 +228,10 @@ phong tình**.`,
     sao: ['Đào Hoa', 'Hồng Loan'],
     cung: ['Quan Lộc'],
     doUuTien: 85,
-    tomTat: `🌟 **Đào Hồng cư Quan Lộc** = **số giàu sang** — một trong những vị
+    tomTat: `**Đào Hồng cư Quan Lộc** = **số giàu sang** — một trong những vị
 trí ĐẸP NHẤT của Đào Hồng.
 
-→ Sự nghiệp đẹp, công danh hiển đạt, môi trường làm việc nhiều người khác giới
+- Sự nghiệp đẹp, công danh hiển đạt, môi trường làm việc nhiều người khác giới
 giúp đương số phát huy được sức hút và sự khéo léo.`,
   },
   {
@@ -241,7 +241,7 @@ giúp đương số phát huy được sức hút và sự khéo léo.`,
     cung: ['Quan Lộc'],
     ketHop: ['Tử Vi', 'Thiên Phủ', 'Thái Dương', 'Thái Âm'],
     doUuTien: 80,
-    tomTat: `🌟 **Đào Hồng + Tử Vi / Thiên Phủ / Thái Dương / Thái Âm tại Quan Lộc:**
+    tomTat: `**Đào Hồng + Tử Vi / Thiên Phủ / Thái Dương / Thái Âm tại Quan Lộc:**
 làm **TĂNG rực rỡ** cho công danh sự nghiệp.`,
   },
   {
@@ -251,7 +251,7 @@ làm **TĂNG rực rỡ** cho công danh sự nghiệp.`,
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Khôi', 'Thiên Việt', 'Tả Phù', 'Hữu Bật'],
     doUuTien: 80,
-    tomTat: `🌟 **Đào Hồng + Thiên Khôi / Thiên Việt / Tả Phù / Hữu Bật tại Quan
+    tomTat: `**Đào Hồng + Thiên Khôi / Thiên Việt / Tả Phù / Hữu Bật tại Quan
 Lộc:** **thượng cách** — mở ra con đường công danh sáng lạn.`,
   },
   {
@@ -261,7 +261,7 @@ Lộc:** **thượng cách** — mở ra con đường công danh sáng lạn.`,
     cung: ['Quan Lộc'],
     ketHop: ['Văn Xương', 'Văn Khúc', 'Lưu Niên Văn Tinh', 'Hóa Khoa'],
     doUuTien: 80,
-    tomTat: `🌟 **Đào Hồng + Văn Xương / Văn Khúc / Lưu Niên Văn Tinh / Hóa Khoa
+    tomTat: `**Đào Hồng + Văn Xương / Văn Khúc / Lưu Niên Văn Tinh / Hóa Khoa
 tại Quan Lộc:** công danh càng phát đạt từ **tài lẻ**.`,
   },
 
@@ -274,7 +274,7 @@ tại Quan Lộc:** công danh càng phát đạt từ **tài lẻ**.`,
     sao: ['Đào Hoa', 'Hồng Loan'],
     cung: ['Thiên Di', 'Quan Lộc', 'Tài Bạch', 'Nô Bộc'],
     doUuTien: 70,
-    tomTat: `⚡ **Đào Hồng tại 4 cung Di / Quan / Tài / Nô** — vị trí đặc biệt
+    tomTat: `**Đào Hồng tại 4 cung Di / Quan / Tài / Nô** — vị trí đặc biệt
 liên quan đến công danh tài lộc.`,
   },
   {
@@ -284,7 +284,7 @@ liên quan đến công danh tài lộc.`,
     cung: ['Thiên Di', 'Quan Lộc', 'Tài Bạch', 'Nô Bộc'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 65,
-    tomTat: `🌟 **Đào Hồng + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+    tomTat: `**Đào Hồng + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
 Thiên Khôi / Thiên Việt) tại Thiên Di / Quan Lộc / Tài Bạch / Nô Bộc:** có
 **may mắn về công danh, tài lộc** do **người khác phái mang đến**.`,
   },
@@ -295,9 +295,9 @@ Thiên Khôi / Thiên Việt) tại Thiên Di / Quan Lộc / Tài Bạch / Nô B
     cung: ['Thiên Di', 'Quan Lộc', 'Tài Bạch', 'Nô Bộc'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 65,
-    tomTat: `⚠️ **Đào Hồng + Tứ Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh)
+    tomTat: `**Đào Hồng + Tứ Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh)
 tại Thiên Di / Quan Lộc / Tài Bạch / Nô Bộc:** **bất lợi về công danh tài lộc**
-vì đặc tính đào hoa → bị tình ái làm hỏng việc, vướng thị phi nam nữ.`,
+vì đặc tính đào hoa: bị tình ái làm hỏng việc, vướng thị phi nam nữ.`,
   },
 
   // ============================================================
@@ -308,7 +308,7 @@ vì đặc tính đào hoa → bị tình ái làm hỏng việc, vướng thị
     title: 'Sao chế giảm tính lả lơi của Đào Hồng',
     sao: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 45,
-    tomTat: `🌟 **Sao CHẾ GIẢM tính lả lơi** của Đào Hồng:
+    tomTat: `**Sao CHẾ GIẢM tính lả lơi** của Đào Hồng:
 
 **Chính tinh** (chỉ sự đoan chính, ngay thẳng, nết hạnh):
 - **Tử Vi**
@@ -324,7 +324,7 @@ vì đặc tính đào hoa → bị tình ái làm hỏng việc, vướng thị
 **Phụ tinh chế khắc VỪA (Tứ Đức):**
 - **Thiên Đức, Phúc Đức, Long Đức, Nguyệt Đức**
 
-⚠️ **Thái Tuế:** làm Đào Hồng **MẤT NHIỀU SỨC THU HÚT** — Đào Hồng + Thái Tuế
+**Thái Tuế:** làm Đào Hồng **MẤT NHIỀU SỨC THU HÚT** — Đào Hồng + Thái Tuế
 trở thành **vô duyên, mất duyên, thất tình, bị phụ rẫy**.`,
   },
 
@@ -336,7 +336,7 @@ trở thành **vô duyên, mất duyên, thất tình, bị phụ rẫy**.`,
     title: 'Sao TĂNG tính đào hoa - dâm tà của Đào Hồng',
     sao: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 45,
-    tomTat: `⚠️ **Sao TĂNG tính dâm** của Đào Hồng:
+    tomTat: `**Sao TĂNG tính dâm** của Đào Hồng:
 
 **Chính tinh:**
 - **Liêm Trinh** (đa tình)
@@ -369,7 +369,7 @@ trở thành **vô duyên, mất duyên, thất tình, bị phụ rẫy**.`,
     sao: ['Đào Hoa'],
     ketHop: ['Thai'],
     doUuTien: 60,
-    tomTat: `⚠️ **Đào (Hoa hoặc Hồng) + Thai:**
+    tomTat: `**Đào (Hoa hoặc Hồng) + Thai:**
 - **Lả lơi, dâm đãng, sắc dục**
 - **"Tiền dâm hậu thú"** — quan hệ trước, cưới sau
 - Có thai trước khi cưới
@@ -386,7 +386,7 @@ trở thành **vô duyên, mất duyên, thất tình, bị phụ rẫy**.`,
     sao: ['Đào Hoa'],
     ketHop: ['Thiên Riêu'],
     doUuTien: 60,
-    tomTat: `⚠️ **Đào + Thiên Riêu:**
+    tomTat: `**Đào + Thiên Riêu:**
 - **Dâm dục**, có **nhiều nhân tình**
 - **Ngoại tình, sa đọa**
 - Đời sống tình cảm nhiều thị phi
@@ -403,12 +403,12 @@ trở thành **vô duyên, mất duyên, thất tình, bị phụ rẫy**.`,
     sao: ['Đào Hoa'],
     ketHop: ['Văn Xương', 'Văn Khúc', 'Thiên Riêu'],
     doUuTien: 62,
-    tomTat: `⚠️ **Đào + Văn Xương / Văn Khúc + Thiên Riêu:**
+    tomTat: `**Đào + Văn Xương / Văn Khúc + Thiên Riêu:**
 - Có **đĩ tính**
 - Bị **dày vò bởi nhu cầu sinh lý**
 - **Sáng tác dâm thơ lãng mạn**
 
-→ Tài hoa nhưng phẩm hạnh suy giảm, đời sống tình cảm phức tạp.`,
+- Tài hoa nhưng phẩm hạnh suy giảm, đời sống tình cảm phức tạp.`,
   },
 
   // ============================================================
@@ -421,11 +421,11 @@ trở thành **vô duyên, mất duyên, thất tình, bị phụ rẫy**.`,
     ketHop: ['Liêm Trinh', 'Tham Lang'],
     gioiTinh: 'Nữ',
     doUuTien: 65,
-    tomTat: `⚠️ **Đào + Liêm Trinh + Tham Lang (nữ mệnh):**
+    tomTat: `**Đào + Liêm Trinh + Tham Lang (nữ mệnh):**
 - **HẾT SỨC dâm đãng**
 - Có thể là **gái giang hồ**
 
-→ Cách cục cực xấu cho nữ mệnh — tình ái phức tạp, có thể sa vào ngành nhạy cảm.`,
+- Cách cục cực xấu cho nữ mệnh — tình ái phức tạp, có thể sa vào ngành nhạy cảm.`,
   },
 
   // ============================================================
@@ -437,16 +437,16 @@ trở thành **vô duyên, mất duyên, thất tình, bị phụ rẫy**.`,
     sao: ['Đào Hoa'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Kiếp Sát'],
     doUuTien: 65,
-    tomTat: `⚠️ **Đào + Địa Không / Địa Kiếp / Kiếp Sát:** **CỰC XẤU**:
+    tomTat: `**Đào + Địa Không / Địa Kiếp / Kiếp Sát:** **CỰC XẤU**:
 - Bị **HIẾP DÂM**
 - **Làm điếm** hoặc ít ra **bị dang dở**
 - Bị **lừa gạt dụ dỗ, mất trinh**
 - **YỂU TỬ**
 
-⚠️ Thiên Không tạo cách **"tài hoa bạc mệnh"** — sắc đẹp và tình yêu đều mang
+Thiên Không tạo cách **"tài hoa bạc mệnh"** — sắc đẹp và tình yêu đều mang
 tính **hư ảo**, dễ chuốc khổ đau.
 
-⚠️ Địa Không + Địa Kiếp chủ về **tai họa do tình ái gây ra**.`,
+Địa Không + Địa Kiếp chủ về **tai họa do tình ái gây ra**.`,
   },
 
   // ============================================================
@@ -458,11 +458,11 @@ tính **hư ảo**, dễ chuốc khổ đau.
     sao: ['Đào Hoa'],
     ketHop: ['Thiên Mã'],
     doUuTien: 58,
-    tomTat: `⚠️ **Đào + Thiên Mã:**
+    tomTat: `**Đào + Thiên Mã:**
 - **Ong bướm lả lơi**
 - **Thay đổi nhân tình** hay **vợ/chồng luôn**
 
-→ Người không chung thủy, dễ thay đổi đối tượng tình cảm liên tục.`,
+- Người không chung thủy, dễ thay đổi đối tượng tình cảm liên tục.`,
   },
 
   // ============================================================
@@ -475,7 +475,7 @@ tính **hư ảo**, dễ chuốc khổ đau.
     cung: ['Mệnh'],
     gioiTinh: 'Nữ',
     doUuTien: 78,
-    tomTat: `⚠️ **NỮ MỆNH có Đào Hồng tọa Mệnh:**
+    tomTat: `**NỮ MỆNH có Đào Hồng tọa Mệnh:**
 - **Đa oan trái**
 - **Nhiều người mê**
 - **Tình ái dở dang**
@@ -490,7 +490,7 @@ tính **hư ảo**, dễ chuốc khổ đau.
     ketHop: ['Đà La', 'Hóa Kỵ'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `⚠️ **Nữ mệnh có Đào Hồng + Đà La + Hóa Kỵ tại Mệnh:** **gái dâm loàn**,
+    tomTat: `**Nữ mệnh có Đào Hồng + Đà La + Hóa Kỵ tại Mệnh:** **gái dâm loàn**,
 **không sao toàn danh tiết**.`,
   },
   {
@@ -501,10 +501,10 @@ tính **hư ảo**, dễ chuốc khổ đau.
     ketHop: ['Phục Binh', 'Tướng Quân', 'Thiên Riêu', 'Thai'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `⚠️ **Nữ mệnh có Đào Hồng + Phục Binh + Tướng Quân + Thiên Riêu + Thai
+    tomTat: `**Nữ mệnh có Đào Hồng + Phục Binh + Tướng Quân + Thiên Riêu + Thai
 hội tại Mệnh:** tất bị **HÃM HIẾP và CHỬA HOANG**.
 
-→ Nếu thêm **Ân Quang + Thiên Quý** thì có thể **chế ngự được phần lớn**.`,
+- Nếu thêm **Ân Quang + Thiên Quý** thì có thể **chế ngự được phần lớn**.`,
   },
   {
     id: 'dao-hong-nu-menh-tu-vi',
@@ -514,7 +514,7 @@ hội tại Mệnh:** tất bị **HÃM HIẾP và CHỬA HOANG**.
     ketHop: ['Tử Vi'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `🌟 **Nữ mệnh có Đào Hồng + Tử Vi tại Mệnh:** trở nên **đoan thục** —
+    tomTat: `**Nữ mệnh có Đào Hồng + Tử Vi tại Mệnh:** trở nên **đoan thục** —
 nét đẹp đoan chính, giữ mình.`,
   },
   {
@@ -525,7 +525,7 @@ nét đẹp đoan chính, giữ mình.`,
     ketHop: ['Thiên Phủ'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `🌟 **Nữ mệnh có Đào Hồng + Thiên Phủ tại Mệnh:** trở nên **đoan thục**
+    tomTat: `**Nữ mệnh có Đào Hồng + Thiên Phủ tại Mệnh:** trở nên **đoan thục**
 — nét đẹp đoan chính, giữ mình.`,
   },
   {
@@ -536,7 +536,7 @@ nét đẹp đoan chính, giữ mình.`,
     ketHop: ['Thiên Hình'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `🌟 **Nữ mệnh có Đào Hồng + Thiên Hình tại Mệnh:** trở nên **đoan thục**
+    tomTat: `**Nữ mệnh có Đào Hồng + Thiên Hình tại Mệnh:** trở nên **đoan thục**
 — nét đẹp đoan chính, giữ mình.`,
   },
   {
@@ -547,7 +547,7 @@ nét đẹp đoan chính, giữ mình.`,
     ketHop: ['Tấu Vũ'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `🌟 **Nữ mệnh có Đào Hồng + Tấu Vũ tại Mệnh:** làm **thợ may KHÉO**.`,
+    tomTat: `**Nữ mệnh có Đào Hồng + Tấu Vũ tại Mệnh:** làm **thợ may KHÉO**.`,
   },
 
   {
@@ -556,19 +556,19 @@ nét đẹp đoan chính, giữ mình.`,
     sao: ['Hồng Loan'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `🌟 **Hồng Loan tại cung Phúc Đức** = cách **"Nga Mi Tác Án"** — đem lại
+    tomTat: `**Hồng Loan tại cung Phúc Đức** = cách **"Nga Mi Tác Án"** — đem lại
 sự **rực rỡ** cho dòng họ.`,
   },
 
   {
     id: 'dao-hong-nu-menh-tang-mon-phu-mau',
-    title: '⚠️ Nữ mệnh Đào Hồng kèm Tang Môn cạnh - Góa chồng',
+    title: 'Nữ mệnh Đào Hồng kèm Tang Môn cạnh - Góa chồng',
     sao: ['Đào Hoa', 'Hồng Loan'],
     cung: ['Mệnh'],
     ketHop: ['Tang Môn'],
     gioiTinh: 'Nữ',
     doUuTien: 70,
-    tomTat: `⚠️ **Nữ mệnh có Đào Hồng cộng hưởng với Tang Môn ở cung kề bên:**
+    tomTat: `**Nữ mệnh có Đào Hồng cộng hưởng với Tang Môn ở cung kề bên:**
 
 Hạn khi đến đại vận có cách này, đương số chắc phải **góa chồng hoặc bỏ chồng**.`,
   },
@@ -582,7 +582,7 @@ Hạn khi đến đại vận có cách này, đương số chắc phải **góa
     sao: ['Đào Hoa'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `🌟 **Đào Hoa thủ Mệnh:** người **tinh tế, khéo léo**, có **gu thẩm
+    tomTat: `**Đào Hoa thủ Mệnh:** người **tinh tế, khéo léo**, có **gu thẩm
 mỹ cao**, biết cách ăn mặc, phối màu, trang trí.
 
 **Tính cách:** nhẹ nhàng, **kín đáo** nhưng có **sức hút đặc biệt** — càng tiếp
@@ -605,29 +605,29 @@ sáng tạo, tư duy hình khối**.
 Mẫu người **thiên hướng nghệ thuật rất rõ rệt** — năng khiếu bẩm sinh về **cầm,
 kỳ, thi, họa**.
 
-🌟 **Phù hợp:** kiến trúc, hội họa, âm nhạc, biểu diễn, thời trang, làm đẹp,
+**Phù hợp:** kiến trúc, hội họa, âm nhạc, biểu diễn, thời trang, làm đẹp,
 sáng tạo nội dung, PR / truyền thông, ngoại giao.
 
-→ Công danh thường **đến sớm**, **dễ nổi tiếng**, dễ được chú ý và **người
+- Công danh thường **đến sớm**, **dễ nổi tiếng**, dễ được chú ý và **người
 khác giúp đỡ, nâng đỡ**.
 
 ## Hôn nhân - phức tạp nhất
 
-⚠️ Vì có **quá nhiều người theo đuổi** → **kén chọn, đặt tiêu chuẩn cao** cho
-bạn đời → tình duyên trắc trở, dễ rơi vào cảnh **"lắm mối tối nằm không"**.
+Vì có **quá nhiều người theo đuổi**: **kén chọn, đặt tiêu chuẩn cao** cho
+bạn đời: tình duyên trắc trở, dễ rơi vào cảnh **"lắm mối tối nằm không"**.
 
 ## Sức khỏe - tim mạch
 
-⚠️ Dễ gặp:
+Dễ gặp:
 - **Tim mạch**: huyết áp thất thường, hở van tim, co thắt động mạch vành
 - **Tóc**: rụng tóc, suy nhược
 - **Khí huyết**: kém
 - **Tửu lượng kém**
-- ⚠️ **Khi có Thai / Mộc Dục / Hóa Kỵ:** dễ mắc **bệnh lây qua đường tình dục**
+- **Khi có Thai / Mộc Dục / Hóa Kỵ:** dễ mắc **bệnh lây qua đường tình dục**
 
 ## Tài lộc - từ khiếu nghệ thuật
 
-🌟 Kiếm tiền chủ yếu bằng **tài năng và sự khéo léo** — tận dụng năng khiếu,
+Kiếm tiền chủ yếu bằng **tài năng và sự khéo léo** — tận dụng năng khiếu,
 ngoại hình, tài lẻ. Tự kiếm tiền từ sớm, dễ **khởi nghiệp sớm**, độc lập tài
 chính. Trong giao dịch tài chính thường **gặp may mắn**.
 
@@ -649,7 +649,7 @@ manh
     cung: ['Mệnh'],
     gioiTinh: 'Nam',
     doUuTien: 73,
-    tomTat: `🌟 **Đào Hoa tại Mệnh - Nam mệnh:**
+    tomTat: `**Đào Hoa tại Mệnh - Nam mệnh:**
 
 - Tướng mạo cân đối, phương phi
 - **Phong lưu, lãng mạn**, có sức hút với khác giới
@@ -663,7 +663,7 @@ manh
     cung: ['Mệnh'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `🌟 **Đào Hoa tại Mệnh - Nữ mệnh:**
+    tomTat: `**Đào Hoa tại Mệnh - Nữ mệnh:**
 
 - **Da dẻ mịn màng, trẻ trung**, đôi mắt đẹp, môi mỏng, răng đều
 - Dễ vướng **thị phi tình cảm**, **yêu sớm, yêu sâu**, dễ chịu tổn thương
@@ -686,7 +686,7 @@ hoặc năng khiếu thẩm mỹ, nghệ thuật**.
 - **Cha:** dáng dấp **phong lưu, lãng tử**
 - **Mẹ:** **duyên dáng, khéo ăn nói**, được nhiều người mến mộ và theo đuổi
 
-🌟 Phụ huynh có **lối sống tinh tế**, yêu cái đẹp, cách giáo dục con cái theo
+Phụ huynh có **lối sống tinh tế**, yêu cái đẹp, cách giáo dục con cái theo
 khuynh hướng **mềm dẻo, cảm xúc**.`,
   },
 
@@ -699,14 +699,14 @@ khuynh hướng **mềm dẻo, cảm xúc**.`,
     sao: ['Đào Hoa'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `🌟 **Đào Hoa nhập cung Phúc Đức:** vị trí **đẹp** — Đào Hoa thuộc
+    tomTat: `**Đào Hoa nhập cung Phúc Đức:** vị trí **đẹp** — Đào Hoa thuộc
 Mộc đới Thủy nên rất hợp với:
 - **Môi trường nhiều cây cối**
 - **Mộ phần tổ tiên cỏ cây xanh tốt**
 
-→ Con cháu được **hưởng phúc khí dồi dào**.
+- Con cháu được **hưởng phúc khí dồi dào**.
 
-⚡ **Đào Hồng + Cô Thần / Quả Tú** (đồng cung hoặc giáp): trong dòng họ có
+**Đào Hồng + Cô Thần / Quả Tú** (đồng cung hoặc giáp): trong dòng họ có
 người mang **duyên tu hành**, thích **dâng hoa cúng Phật** hay **hành thiện
 tích đức**.
 
@@ -723,16 +723,16 @@ duy trì vận phúc lâu dài.`,
     sao: ['Đào Hoa'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `🌟 **Đào Hoa cư Quan Lộc:** tuổi trẻ **đầy sức sống, giàu nhiệt
+    tomTat: `**Đào Hoa cư Quan Lộc:** tuổi trẻ **đầy sức sống, giàu nhiệt
 huyết, sáng tạo và ham học hỏi**.
 
-⚡ **Đặc trưng:** dễ được cấp trên **tín nhiệm, giao trọng trách**, được tạo
+**Đặc trưng:** dễ được cấp trên **tín nhiệm, giao trọng trách**, được tạo
 điều kiện **học tập nâng cao**.
 
-⚡ **Môi trường làm việc** có nhiều **người khác giới** → tạo sức hút và **nhiều
+**Môi trường làm việc** có nhiều **người khác giới**: tạo sức hút và **nhiều
 duyên gặp gỡ**.
 
-🌟 **Năng khiếu nghệ thuật bẩm sinh:** viết lách, hội họa, âm nhạc, thi ca.
+**Năng khiếu nghệ thuật bẩm sinh:** viết lách, hội họa, âm nhạc, thi ca.
 Nếu theo đuổi sở trường có thể **"tay ngang thành danh"**.`,
   },
   {
@@ -742,7 +742,7 @@ Nếu theo đuổi sở trường có thể **"tay ngang thành danh"**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Hồng Loan'],
     doUuTien: 73,
-    tomTat: `🌟 **Đào Hoa + Hồng Loan hội chiếu tại Quan Lộc:** đam mê cống hiến,
+    tomTat: `**Đào Hoa + Hồng Loan hội chiếu tại Quan Lộc:** đam mê cống hiến,
 **lăn xả** đạt thành tích cao.`,
   },
   {
@@ -752,7 +752,7 @@ Nếu theo đuổi sở trường có thể **"tay ngang thành danh"**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 73,
-    tomTat: `🌟 **Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+    tomTat: `**Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
 Thiên Khôi / Thiên Việt) tại Quan Lộc:** **thượng cách** — công danh **sáng lạn**.`,
   },
 
@@ -768,10 +768,10 @@ Thiên Khôi / Thiên Việt) tại Quan Lộc:** **thượng cách** — công 
     tomTat: `**Đào Hoa thủ Điền Trạch:** đương số **gu thẩm mỹ cao**, thích **tự
 tay bài trí nhà cửa**.
 
-🌟 Chuộng lối sống **tao nhã** — chọn kiểu **nhà cổ có thư phòng, bể cá, cây
+Chuộng lối sống **tao nhã** — chọn kiểu **nhà cổ có thư phòng, bể cá, cây
 cảnh, nơi thưởng trà**.
 
-⚡ Môi trường sống dễ gần **khu sầm uất** — quán xá, **tiệm hoa, salon làm đẹp**.`,
+Môi trường sống dễ gần **khu sầm uất** — quán xá, **tiệm hoa, salon làm đẹp**.`,
   },
   {
     id: 'dao-hoa-dien-trach-tu-sat',
@@ -780,7 +780,7 @@ cảnh, nơi thưởng trà**.
     cung: ['Điền Trạch'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 70,
-    tomTat: `⚠️ **Đào Hoa + Tứ Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh) tại
+    tomTat: `**Đào Hoa + Tứ Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh) tại
 Điền Trạch:** chuyển hóa thành **mặt tiêu cực**.`,
   },
   {
@@ -790,7 +790,7 @@ cảnh, nơi thưởng trà**.
     cung: ['Điền Trạch'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Đào Hoa + Địa Kiếp tại Điền Trạch:** nhà ở gần **khu ăn chơi sắc
+    tomTat: `**Đào Hoa + Địa Kiếp tại Điền Trạch:** nhà ở gần **khu ăn chơi sắc
 dục** hoặc **ổ cờ bạc, tệ nạn nhiều cám dỗ**.`,
   },
   {
@@ -800,7 +800,7 @@ dục** hoặc **ổ cờ bạc, tệ nạn nhiều cám dỗ**.`,
     cung: ['Điền Trạch'],
     ketHop: ['Điếu Khách'],
     doUuTien: 70,
-    tomTat: `⚠️ **Đào Hoa + Điếu Khách tại Điền Trạch:** nhà ở gần **khu ăn chơi
+    tomTat: `**Đào Hoa + Điếu Khách tại Điền Trạch:** nhà ở gần **khu ăn chơi
 sắc dục** hoặc **ổ cờ bạc, tệ nạn nhiều cám dỗ**.`,
   },
 
@@ -813,7 +813,7 @@ sắc dục** hoặc **ổ cờ bạc, tệ nạn nhiều cám dỗ**.`,
     sao: ['Đào Hoa'],
     cung: ['Thiên Di'],
     doUuTien: 80,
-    tomTat: `🌟 **Đào Hoa cung Thiên Di** = cách **"Tiền Cái Hậu Mã"** — vị trí
+    tomTat: `**Đào Hoa cung Thiên Di** = cách **"Tiền Cái Hậu Mã"** — vị trí
 ĐẮC CÁCH:
 - Ra ngoài lúc nào cũng được **che chở, nâng đỡ**
 - **Ngoại hình sáng sủa, thần thái dễ mến**
@@ -821,7 +821,7 @@ sắc dục** hoặc **ổ cờ bạc, tệ nạn nhiều cám dỗ**.`,
 - Đi xa hoặc ra ngoài đều **gặp may**, hay được **người thương kẻ giúp**, hỗ
   trợ đủ đường
 
-🌟 **Số xuất ngoại** — phải **lập nghiệp xa quê, kết duyên hoặc định cư nơi
+**Số xuất ngoại** — phải **lập nghiệp xa quê, kết duyên hoặc định cư nơi
 đất khách**.`,
   },
   {
@@ -831,7 +831,7 @@ sắc dục** hoặc **ổ cờ bạc, tệ nạn nhiều cám dỗ**.`,
     cung: ['Thiên Di'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 75,
-    tomTat: `🌟 **Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+    tomTat: `**Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
 Thiên Khôi / Thiên Việt) tại Thiên Di:** **tiếng tăm nổi như cồn**, chân bước
 đến đâu thành danh đến đó.`,
   },
@@ -845,14 +845,14 @@ Thiên Khôi / Thiên Việt) tại Thiên Di:** **tiếng tăm nổi như cồn
     sao: ['Đào Hoa'],
     cung: ['Nô Bộc'],
     doUuTien: 78,
-    tomTat: `⚡ **Đào Hoa cư Nô Bộc** (cấu trúc tạo phối với Hoa Cái) → đương số được
+    tomTat: `**Đào Hoa cư Nô Bộc** (cấu trúc tạo phối với Hoa Cái): đương số được
 nhiều người **thầm thương trộm nhớ**.
 
-⚠️ **Mặt trái:** khó tránh những **mối tình nhanh nở chóng tàn**:
+**Mặt trái:** khó tránh những **mối tình nhanh nở chóng tàn**:
 - Yêu đương nồng nhiệt rồi **chia xa**
 - Đương số **không dễ nhún nhường, nể phục ai**, kể cả người mình thương
 
-⚠️ Thường gây **rắc rối nhiều hơn thuận lợi**:
+Thường gây **rắc rối nhiều hơn thuận lợi**:
 - Cuộc đời gặp những người **"trồng cây si"** yêu sâu đậm
 - Có **duyên tình từ tiền kiếp** — đối phương vẫn dành tình cảm đặc biệt cho
   đương số dù cả hai đã có gia đình riêng
@@ -862,12 +862,12 @@ nhiều người **thầm thương trộm nhớ**.
 
   {
     id: 'dao-hoa-tai-no-boc-nu-menh',
-    title: '⚠️ Đào Hoa tại Nô Bộc - Nữ mệnh',
+    title: 'Đào Hoa tại Nô Bộc - Nữ mệnh',
     sao: ['Đào Hoa'],
     cung: ['Nô Bộc'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `⚠️ **Đào Hoa cư Nô Bộc - Nữ mệnh:**
+    tomTat: `**Đào Hoa cư Nô Bộc - Nữ mệnh:**
 
 Dễ dính **điều tiếng thị phi**:
 
@@ -884,10 +884,10 @@ Dễ dính **điều tiếng thị phi**:
     sao: ['Đào Hoa'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `🌟 **Đào Hoa cư Tài Bạch:** vị trí **đắc lợi** — tận dụng **năng
+    tomTat: `**Đào Hoa cư Tài Bạch:** vị trí **đắc lợi** — tận dụng **năng
 khiếu, bộ não nhạy bén, tài ăn nói khéo léo** để làm giàu.
 
-🌟 Tuổi còn trẻ đã **tự biết kiếm tiền**, **khởi nghiệp sớm**, độc lập tài chính.
+Tuổi còn trẻ đã **tự biết kiếm tiền**, **khởi nghiệp sớm**, độc lập tài chính.
 
 (Xem entry chuyên biệt cho nữ mệnh.)`,
   },
@@ -898,7 +898,7 @@ khiếu, bộ não nhạy bén, tài ăn nói khéo léo** để làm giàu.
     cung: ['Tài Bạch'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 73,
-    tomTat: `🌟 **Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+    tomTat: `**Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
 Thiên Khôi / Thiên Việt) tại Tài Bạch:** khả năng **làm chủ kinh tế rất mạnh**,
 "lấy ngón nghề nuôi thân".`,
   },
@@ -909,7 +909,7 @@ Thiên Khôi / Thiên Việt) tại Tài Bạch:** khả năng **làm chủ kinh
     cung: ['Tài Bạch'],
     ketHop: ['Lộc Tồn'],
     doUuTien: 73,
-    tomTat: `🌟 **Đào Hoa + Lộc Tồn tại Tài Bạch:** khả năng **làm chủ kinh tế rất
+    tomTat: `**Đào Hoa + Lộc Tồn tại Tài Bạch:** khả năng **làm chủ kinh tế rất
 mạnh**, "lấy ngón nghề nuôi thân".`,
   },
   {
@@ -919,7 +919,7 @@ mạnh**, "lấy ngón nghề nuôi thân".`,
     cung: ['Tài Bạch'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 73,
-    tomTat: `⚠️ **Đào Hoa + Tứ Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh)
+    tomTat: `**Đào Hoa + Tứ Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh)
 tại Tài Bạch:** vận đời dễ phải **dùng nhan sắc để kiếm tiền**.`,
   },
   {
@@ -929,19 +929,19 @@ tại Tài Bạch:** vận đời dễ phải **dùng nhan sắc để kiếm ti
     cung: ['Tài Bạch'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 73,
-    tomTat: `⚠️ **Đào Hoa + Hóa Kỵ tại Tài Bạch:** vận đời dễ phải **dùng nhan sắc
+    tomTat: `**Đào Hoa + Hóa Kỵ tại Tài Bạch:** vận đời dễ phải **dùng nhan sắc
 để kiếm tiền**.`,
   },
 
   {
     id: 'dao-hoa-tai-tai-bach-nu-menh-sat-ky',
-    title: '⚠️ Đào Hoa tại Tài Bạch + Sát/Kỵ - Nữ mệnh dùng nhan sắc kiếm tiền',
+    title: 'Đào Hoa tại Tài Bạch + Sát/Kỵ - Nữ mệnh dùng nhan sắc kiếm tiền',
     sao: ['Đào Hoa'],
     cung: ['Tài Bạch'],
     ketHop: ['Hóa Kỵ'],
     gioiTinh: 'Nữ',
     doUuTien: 70,
-    tomTat: `⚠️ **Đào Hoa tại Tài Bạch + Sát tinh / Hóa Kỵ - Nữ mệnh:**
+    tomTat: `**Đào Hoa tại Tài Bạch + Sát tinh / Hóa Kỵ - Nữ mệnh:**
 
 Vận đời dễ phải **dùng nhan sắc để kiếm tiền** — nhất là khi hội nhiều sát
 tinh hãm địa.`,
@@ -956,7 +956,7 @@ tinh hãm địa.`,
     sao: ['Đào Hoa'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `🌟 **Đào Hoa cư Tật Ách:** đương số có **khả năng hồi phục nhanh**,
+    tomTat: `**Đào Hoa cư Tật Ách:** đương số có **khả năng hồi phục nhanh**,
 **bệnh nhẹ chóng khỏi** — như cây cỏ gặp mưa lại tươi tốt.`,
   },
   {
@@ -966,7 +966,7 @@ tinh hãm địa.`,
     cung: ['Tật Ách'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Đào Hoa + Lục Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh /
+    tomTat: `**Đào Hoa + Lục Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh /
 Địa Không / Địa Kiếp) tại Tật Ách:** cần đặc biệt chú ý:
 - **Tim mạch**, **tóc tai**
 - **Máu huyết**
@@ -979,7 +979,7 @@ tinh hãm địa.`,
     cung: ['Tật Ách'],
     ketHop: ['Thai'],
     doUuTien: 70,
-    tomTat: `⚠️ **Đào Hoa + Thai tại Tật Ách:** nguy cơ mắc **bệnh đường sinh dục
+    tomTat: `**Đào Hoa + Thai tại Tật Ách:** nguy cơ mắc **bệnh đường sinh dục
 và nội tiết**.`,
   },
   {
@@ -989,7 +989,7 @@ và nội tiết**.`,
     cung: ['Tật Ách'],
     ketHop: ['Mộc Dục'],
     doUuTien: 70,
-    tomTat: `⚠️ **Đào Hoa + Mộc Dục tại Tật Ách:** nguy cơ mắc **bệnh đường sinh
+    tomTat: `**Đào Hoa + Mộc Dục tại Tật Ách:** nguy cơ mắc **bệnh đường sinh
 dục và nội tiết**.`,
   },
   {
@@ -999,7 +999,7 @@ dục và nội tiết**.`,
     cung: ['Tật Ách'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `⚠️ **Đào Hoa + Hóa Kỵ tại Tật Ách:** nguy cơ mắc **bệnh đường sinh
+    tomTat: `**Đào Hoa + Hóa Kỵ tại Tật Ách:** nguy cơ mắc **bệnh đường sinh
 dục và nội tiết**.`,
   },
   {
@@ -1009,7 +1009,7 @@ dục và nội tiết**.`,
     cung: ['Tật Ách'],
     ketHop: ['Thái Âm'],
     doUuTien: 70,
-    tomTat: `⚠️ **Đào Hoa + Thái Âm tại Tật Ách:** nguy cơ mắc **bệnh đường sinh
+    tomTat: `**Đào Hoa + Thái Âm tại Tật Ách:** nguy cơ mắc **bệnh đường sinh
 dục và nội tiết**.`,
   },
 
@@ -1022,14 +1022,14 @@ dục và nội tiết**.`,
     sao: ['Đào Hoa'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `🌟 **Đào Hoa cư Tử Tức:** dấu hiệu **tốt lành** trong đường con cái.
+    tomTat: `**Đào Hoa cư Tử Tức:** dấu hiệu **tốt lành** trong đường con cái.
 
 - Dễ **sinh con trai**, đôi khi là **con một bề** (cần xét thêm yếu tố khác)
 - Con cái **ngoại hình xinh đẹp, đầy đặn**
 - Sớm bộc lộ **tài năng văn học, nghệ thuật, thẩm mỹ**
 - Từ nhỏ **khéo léo, nhanh nhạy**, **dễ dạy dễ nuôi**
 
-🌟 Đương số **thuận đường sinh nở**, về già **hậu vận yên vui** nhờ con cháu
+Đương số **thuận đường sinh nở**, về già **hậu vận yên vui** nhờ con cháu
 hiếu thảo, đỡ đần.`,
   },
 
@@ -1042,12 +1042,12 @@ hiếu thảo, đỡ đần.`,
     sao: ['Đào Hoa'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `🌟 **Đào Hoa cư Phu Thê:** tín hiệu tốt cho đời sống vợ chồng.
+    tomTat: `**Đào Hoa cư Phu Thê:** tín hiệu tốt cho đời sống vợ chồng.
 
 Người hôn phối **có điều kiện, đảm đang, tháo vát**, tính cách **khéo léo, dễ
 mến dễ gần**.
 
-⚠️ **Bộ Hồng - Không - Cô - Quả tụ hội:** hôn nhân dễ vì **ghen tuông** mà nảy
+**Bộ Hồng - Không - Cô - Quả tụ hội:** hôn nhân dễ vì **ghen tuông** mà nảy
 sinh mâu thuẫn, tổn thương lẫn nhau.`,
   },
   {
@@ -1057,7 +1057,7 @@ sinh mâu thuẫn, tổn thương lẫn nhau.`,
     cung: ['Phu Thê'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 73,
-    tomTat: `🌟 **Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
+    tomTat: `**Đào Hoa + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
 Thiên Khôi / Thiên Việt) tại Phu Thê:** vợ chồng **xứng lứa vừa đôi**, chung
 sống hòa thuận như **chim liền cánh**.`,
   },
@@ -1068,7 +1068,7 @@ sống hòa thuận như **chim liền cánh**.`,
     cung: ['Phu Thê'],
     ketHop: ['Triệt', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Cô Thần', 'Quả Tú'],
     doUuTien: 73,
-    tomTat: `⚠️ **Đào Hoa + Triệt / Lục Sát / Cô Thần / Quả Tú tại Phu Thê:** hôn
+    tomTat: `**Đào Hoa + Triệt / Lục Sát / Cô Thần / Quả Tú tại Phu Thê:** hôn
 nhân **"sớm nở tối tàn"**, dễ cưới mà khó giữ.`,
   },
   {
@@ -1078,7 +1078,7 @@ nhân **"sớm nở tối tàn"**, dễ cưới mà khó giữ.`,
     cung: ['Phu Thê'],
     ketHop: ['Kình Dương', 'Đà La', 'Thiên Hình'],
     doUuTien: 73,
-    tomTat: `⚠️ **Đào Hoa + Kình Dương / Đà La / Thiên Hình tại Phu Thê:** xung
+    tomTat: `**Đào Hoa + Kình Dương / Đà La / Thiên Hình tại Phu Thê:** xung
 đột **nghiêm trọng** về cả **thể chất lẫn tinh thần**.`,
   },
 
@@ -1094,7 +1094,7 @@ nhân **"sớm nở tối tàn"**, dễ cưới mà khó giữ.`,
     tomTat: `**Đào Hoa cư Huynh Đệ:** anh chị em trong nhà **đông đúc**, có anh
 em **cùng giới tính** với mình.
 
-🌟 Đa phần là người **có tài, có duyên ăn nói**, dễ gặt hái thành tựu, có cuộc
+Đa phần là người **có tài, có duyên ăn nói**, dễ gặt hái thành tựu, có cuộc
 sống **khá giả**.`,
   },
   {
@@ -1104,7 +1104,7 @@ sống **khá giả**.`,
     cung: ['Huynh Đệ'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Đào Hoa + Lục Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh /
+    tomTat: `**Đào Hoa + Lục Sát (Kình Dương / Đà La / Hỏa Tinh / Linh Tinh /
 Địa Không / Địa Kiếp) tại Huynh Đệ:** anh em **"lắm tài nhiều tật"**:
 - Người thì **tính cách ngông nghênh**
 - Kẻ thì **đa sầu đa cảm**`,
@@ -1119,17 +1119,17 @@ sống **khá giả**.`,
     sao: ['Đào Hoa'],
     ketHop: ['Vũ Khúc', 'Thiên Hình'],
     doUuTien: 60,
-    tomTat: `🌟 **Đào Hoa + Vũ Khúc:** **giảm sự mơ mộng**, tăng **thực tế** và
+    tomTat: `**Đào Hoa + Vũ Khúc:** **giảm sự mơ mộng**, tăng **thực tế** và
 khả năng **quản lý tài chính**.
 
-🌟 **Đào Hoa + Thiên Hình:** mang lại sự **nghiêm túc, giữ mình** → tạo nên
+**Đào Hoa + Thiên Hình:** mang lại sự **nghiêm túc, giữ mình**: tạo nên
 nét đẹp **đoan chính**.
 
-🌟 **Đào Hoa + Giải Thần / Phượng Các / Ân Quang / Thiên Quý / Nguyệt Đức:**
+**Đào Hoa + Giải Thần / Phượng Các / Ân Quang / Thiên Quý / Nguyệt Đức:**
 Đào Hoa trở thành **nét duyên CAO QUÝ**, được người khác **kính trọng**, gặp
 nhiều **may mắn** trong tình duyên và cuộc sống.
 
-→ Đây là cách **chuyển hóa Đào Hoa từ dâm sang quý**.`,
+- Đây là cách **chuyển hóa Đào Hoa từ dâm sang quý**.`,
   },
 
   // ============================================================
@@ -1141,12 +1141,12 @@ nhiều **may mắn** trong tình duyên và cuộc sống.
     sao: ['Đào Hoa'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 58,
-    tomTat: `⚠️ **Đào Hoa + Hóa Kỵ:** tạo **nghịch duyên**:
+    tomTat: `**Đào Hoa + Hóa Kỵ:** tạo **nghịch duyên**:
 - Yêu nhau nhiều nhưng **oán hận cũng nhiều**
 - Dễ **chia tay đột ngột**
 
-⚡ Bản chất Đào Hoa **khao khát yêu thương, cưng chiều** → đôi khi **thiếu
-tỉnh táo** trong các mối quan hệ → dễ vào **mối duyên ngang trái**.`,
+Bản chất Đào Hoa **khao khát yêu thương, cưng chiều**: đôi khi **thiếu
+tỉnh táo** trong các mối quan hệ: dễ vào **mối duyên ngang trái**.`,
   },
   {
     id: 'dao-hoa-hoa-ky-khong-kiep-linh-da',
@@ -1154,7 +1154,7 @@ tỉnh táo** trong các mối quan hệ → dễ vào **mối duyên ngang trá
     sao: ['Đào Hoa'],
     ketHop: ['Hóa Kỵ', 'Địa Không', 'Địa Kiếp', 'Linh Tinh', 'Đà La'],
     doUuTien: 53,
-    tomTat: `⚠️ **Đào Hoa + Hóa Kỵ + Địa Không / Địa Kiếp / Linh Tinh / Đà La:**
+    tomTat: `**Đào Hoa + Hóa Kỵ + Địa Không / Địa Kiếp / Linh Tinh / Đà La:**
 dễ có **suy nghĩ ngoại tình** hoặc **rung động với người khác**, kể cả khi đã
 có vợ/chồng/người yêu.`,
   },
@@ -1167,10 +1167,10 @@ có vợ/chồng/người yêu.`,
     title: 'Hạn gặp Đào - Hồng - Hỷ - Riêu',
     sao: ['Đào Hoa'],
     doUuTien: 50,
-    tomTat: `⚡ **Hạn gặp Đào / Hồng / Hỷ / Riêu:** có **vương vấn tình** — mối
+    tomTat: `**Hạn gặp Đào / Hồng / Hỷ / Riêu:** có **vương vấn tình** — mối
 duyên xuất hiện hoặc bùng phát trong năm/đại vận đó.
 
-⚠️ **Đến hạn gặp Đào / Hồng / Hỷ:** **dễ mê trai** (nữ mệnh) hoặc **mê gái**
-(nam mệnh) → cần thận trọng giữ mình, đặc biệt nếu đã có gia đình.`,
+**Đến hạn gặp Đào / Hồng / Hỷ:** **dễ mê trai** (nữ mệnh) hoặc **mê gái**
+(nam mệnh): cần thận trọng giữ mình, đặc biệt nếu đã có gia đình.`,
   },
 ];

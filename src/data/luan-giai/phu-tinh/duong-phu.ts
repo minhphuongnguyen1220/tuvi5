@@ -24,27 +24,27 @@ cho công danh và tài lộc.
 
 **Hóa khí:** **Cát Tinh + Quý Tinh**.
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - **THANH TỊNH, CAO SANG**
 - Có **TRÍ TUỆ**
 - **CÔNG DANH và SỰ NGHIỆP TRIỂN VỌNG**
 - Có lợi cho **CÔNG DANH - ĐIỀN SẢN - TÀI LỘC**
 
-⚡ **Khả năng cứu giải:**
+**Khả năng cứu giải:**
 - Dù là **PHỤ TINH** nhưng có khả năng **CỨU GIẢI**
 - **XOAY CHUYỂN VẬN MỆNH**, **BIẾN NGUY THÀNH AN**
 - Gia tăng **MAY MẮN, TÀI LỘC**
 
-⚡ **Sự nghiệp:**
+**Sự nghiệp:**
 - Hợp công việc **TRÍ ÓC, QUẢN LÝ**
 - Đòi hỏi **HÌNH ẢNH CHỈN CHU**
 - Phù hợp **CÔNG QUYỀN, CHÍNH PHỦ**
 
-⚡ **Duyên vận:**
+**Duyên vận:**
 - Vợ chồng **GẮN KẾT CHẶT CHẼ**
 - Bạn đời **NĂNG LỰC + PHẨM CHẤT TỐT**, được nhiều người **NỂ TRỌNG**
 
-⚡ **Phúc thọ:**
+**Phúc thọ:**
 - **GIẢM TÍNH TÁC HỌA của BỆNH TẬT**
 - Tránh được **NHIỀU BỆNH CÙNG LÚC**
 - Ốm đau ắt **CÓ CÁCH CHỮA**`,
@@ -62,18 +62,18 @@ cho công danh và tài lộc.
     doUuTien: 80,
     tomTat: `**Đường Phù tại Mệnh** — chủ về **DANH VỊ, HỌC RỘNG, HIỂU BIẾT**.
 
-⚡ **Phong thái:**
+**Phong thái:**
 - **ĐẠO MẠO, ĐĨNH NGỘ**
 - **PHONG THÁI UY NGHI, ĐƯỜNG HOÀNG, BỆ VỆ**
 
-⚡ **Học hành - khoa cử:**
-- Quý tinh → có lợi cho **HỌC HÀNH, KHOA CỬ**
+**Học hành - khoa cử:**
+- Quý tinh: có lợi cho **HỌC HÀNH, KHOA CỬ**
 - **THÔNG MINH, HỌC RỘNG**
 - Có **KHOA BẢNG, BẰNG CẤP**
-- Làm trong **CƠ QUAN, ĐƠN VỊ, TỔ CHỨC** → cơ hội **THĂNG TIẾN, NẮM CHỨC
+- Làm trong **CƠ QUAN, ĐƠN VỊ, TỔ CHỨC**: cơ hội **THĂNG TIẾN, NẮM CHỨC
   VỤ CAO**
 
-⚡ **Tâm lý:**
+**Tâm lý:**
 - Thích công việc **NHẸ NHÀNG, NHÀN HẠ**
 - Không muốn **LAO ĐỘNG VẤT VẢ**
 - Muốn **KIẾM TIỀN NHANH, LÀM GIÀU MỘT SỚM MỘT CHIỀU**`,
@@ -88,7 +88,7 @@ cho công danh và tài lộc.
     doUuTien: 60,
     tomTat: `**Đường Phù + sát bại tinh tại Mệnh** — trở thành **LIỀU LĨNH, GIAN TRÁ**.
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Vì muốn **KIẾM TIỀN NHANH**
 - Trở thành người **LIỀU LĨNH, GIAN TRÁ**
 - Làm việc **BẤT NHÂN, PHI NGHĨA**
@@ -104,7 +104,7 @@ cho công danh và tài lộc.
     doUuTien: 65,
     tomTat: `**Đường Phù + Bạch Hổ đồng cung tại Mệnh** — nguy cơ **LAO LÝ**.
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Nguy cơ **DÍNH VÀO LAO LÝ**
 - Thậm chí bị **BẮT GIAM, XÉT XỬ, KẾT ÁN**`,
   },
@@ -121,16 +121,16 @@ cho công danh và tài lộc.
     doUuTien: 75,
     tomTat: `**Đường Phù tại Phụ Mẫu** — cha mẹ **CỐT CÁCH THANH CAO, QUÝ PHÁI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cha mẹ **CỐT CÁCH THANH CAO, QUÝ PHÁI**
 - **HIỀN LÀNH**, thích **THANH NHÀN**
 
-⚡ **Hội nhiều cát tinh:**
+**Hội nhiều cát tinh:**
 - Cha mẹ là **QUAN CHỨC**
 - Thuộc giới **QUÝ TỘC, GIÀU SANG**
 - **KINH TẾ VỮNG VÀNG**
 
-⚡ **Đáng lưu ý - đi cùng Địa Không, sao Bệnh, Bệnh Phù:**
+**Đáng lưu ý - đi cùng Địa Không, sao Bệnh, Bệnh Phù:**
 - Cha mẹ mắc bệnh **CHUYỂN HÓA, TIỂU ĐƯỜNG**`,
   },
 
@@ -142,12 +142,12 @@ cho công danh và tài lộc.
     doUuTien: 75,
     tomTat: `**Đường Phù tại Phúc Đức** — gia tộc **NỀN TẢNG VỮNG VÀNG**.
 
-⚡ **Hội Thiên Khôi, Thiên Việt, Phúc Đức, Thiếu Dương, Hóa Khoa, Hóa Lộc:**
+**Hội Thiên Khôi, Thiên Việt, Phúc Đức, Thiếu Dương, Hóa Khoa, Hóa Lộc:**
 - Được **TỔ TIÊN PHÙ HỘ**
 - Gặp nhiều **MAY MẮN**
 - Được nhiều người **GIÚP ĐỠ**
 
-⚡ **Cảnh báo - đi cùng Sát Kỵ Hình:**
+**Cảnh báo - đi cùng Sát Kỵ Hình:**
 - Hiện tượng **NHÀ THỜ TỔ BỊ PHÁ HOẠI, LỤN BẠI**
 - **HƯƠNG HỎA KHÔNG GIỮ ĐƯỢC LÂU**`,
   },
@@ -160,11 +160,11 @@ cho công danh và tài lộc.
     doUuTien: 75,
     tomTat: `**Đường Phù tại Điền Trạch** — có lợi cho **BUÔN BÁN ĐẤT ĐAI**.
 
-⚡ **Cần đi cùng Tả Phù, Hữu Bật + sao Lộc:**
+**Cần đi cùng Tả Phù, Hữu Bật + sao Lộc:**
 - Phải đi cùng **TẢ HỮU** mang tính trợ lực
 - Đặc biệt cần **SAO LỘC** để gia tăng cơ hội **CHUYỂN ĐỔI, GIAO DỊCH**
 
-⚡ **Hội Long Trì, Phượng Các:**
+**Hội Long Trì, Phượng Các:**
 - Nhà cửa **RỘNG LỚN, UY NGHIÊM**
 - Hoặc gần **NƠI CÔNG QUYỀN**`,
   },
@@ -178,15 +178,15 @@ cho công danh và tài lộc.
     tomTat: `**Đường Phù tại Quan Lộc** — gắn với "**VIỆC BÀN GIẤY**" / **TRÍ ÓC, QUẢN
 LÝ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bản chất **THANH CAO, NHÀN HẠ**
 - Công việc **TRÍ ÓC, QUẢN LÝ**
 - Đòi hỏi **HÌNH ẢNH CHỈN CHU**
 
-⚡ **Hội Thiên Hình + Hóa Quyền:**
+**Hội Thiên Hình + Hóa Quyền:**
 - Làm trong môi trường **CÔNG QUYỀN, CHÍNH PHỦ**
 
-⚡ **Lời khuyên:**
+**Lời khuyên:**
 - Làm việc **QUY CỦ, TUÂN THỦ NGUYÊN TẮC** đôi khi **BỎ LỠ CƠ HỘI**
 - "**BIẾT TIẾN BIẾT THOÁI, MỀM NẮN RẮN BUÔNG**"
 - Là **KIM CHỈ NAM** để giữ vị trí và phát triển`,
@@ -200,15 +200,15 @@ LÝ**.
     doUuTien: 75,
     tomTat: `**Đường Phù tại Nô Bộc** — gia tăng tính tốt đẹp của **MỐI QUAN HỆ BẠN BÈ**.
 
-⚡ **Đi cùng Tả Phù, Hữu Bật, Hóa Khoa:**
+**Đi cùng Tả Phù, Hữu Bật, Hóa Khoa:**
 - **NGĂN CHẶN MỜ ÁM**
 - Chơi với nhau **RÕ RÀNG** về lợi ích
 - **DUY TRÌ DÀI LÂU**
 
-⚡ **Cảnh báo - đi cùng Đà La, Linh Tinh, Địa Kiếp, Lưu Hà, Phục Binh:**
+**Cảnh báo - đi cùng Đà La, Linh Tinh, Địa Kiếp, Lưu Hà, Phục Binh:**
 - Đường Phù **VẼ RA LỐI ĐI** của kẻ xấu
 - Nhiều **KHUẤT TẤT GIAN DỐI** trong quan hệ
-- **KÉO ĐƯƠNG SỐ VÀO** → khó thoát ra`,
+- **KÉO ĐƯƠNG SỐ VÀO**: khó thoát ra`,
   },
 
   {
@@ -219,13 +219,13 @@ LÝ**.
     doUuTien: 75,
     tomTat: `**Đường Phù tại Thiên Di** — chủ mệnh thường lui tới **NƠI SANG TRỌNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Lui tới những **NƠI SANG TRỌNG**
 - Dễ tiếp cận **NGƯỜI TẦNG LỚP CAO** trong xã hội
 - Việc đi xa giúp **PHÁT TRIỂN TÍCH CỰC**, **ĐỔI ĐỜI**
 - Thoát khỏi "**AO LÀNG**"
 
-⚡ **Cảnh báo - hội Địa Kiếp, Lưu Hà, Phục Binh, Đà La, Linh Tinh, Thiên
+**Cảnh báo - hội Địa Kiếp, Lưu Hà, Phục Binh, Đà La, Linh Tinh, Thiên
 Riêu, Hóa Kỵ:**
 - **TAI HỌA** khi xuất xứ
 - Đi xa dễ vướng **KIỆN TỤNG, PHÁP LUẬT**
@@ -240,12 +240,12 @@ Riêu, Hóa Kỵ:**
     doUuTien: 75,
     tomTat: `**Đường Phù tại Tật Ách** — **GIẢM TÍNH TÁC HỌA của BỆNH TẬT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **GIẢM TÁC HỌA của BỆNH TẬT**
 - Tránh **NHIỀU BỆNH CÙNG LÚC**
 - Ốm đau ắt **CÓ CÁCH CHỮA**
 
-⚡ **Suy đoán nghiệp quả:**
+**Suy đoán nghiệp quả:**
 - Dùng để suy đoán **NGHIỆP QUẢ** của một người`,
   },
 
@@ -259,7 +259,7 @@ Riêu, Hóa Kỵ:**
     tomTat: `**Đường Phù + Cự Môn + Thiên Hình - Hóa Quyền + Kiếp Kỵ Không Hỏa Đà tại
 Tật Ách** — vướng **KIỆN TỤNG**.
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Vướng vào **KIỆN TỤNG**
 - Phải đứng trước **VÀNH MÓNG NGỰA**
 - Phải **BIỆN HỘ** cho chính bản thân`,
@@ -275,7 +275,7 @@ Tật Ách** — vướng **KIỆN TỤNG**.
     tomTat: `**Đường Phù + Hóa Hình + Hóa Quyền + cát tinh tốt** — công việc **TỐ TỤNG,
 TÒA ÁN, CÔNG QUYỀN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Phù hợp công việc liên quan **TỐ TỤNG**
 - Làm việc ở **TÒA ÁN**
 - Hoặc môi trường **CÔNG QUYỀN**`,
@@ -289,7 +289,7 @@ TÒA ÁN, CÔNG QUYỀN**.
     doUuTien: 70,
     tomTat: `**Đường Phù tại Tài Bạch** — **KHÔNG PHÁT HUY ĐƯỢC NHIỀU ĐIỂM TỐT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Kiếm tiền bằng việc **NHẸ NHÀNG, ÍT ÁP LỰC**
 - Chỉ có **MỘT NGUỒN THU DUY NHẤT**
 - **LUỒNG TIỀN BỊ HẠN CHẾ**
@@ -305,15 +305,15 @@ TÒA ÁN, CÔNG QUYỀN**.
     doUuTien: 75,
     tomTat: `**Đường Phù tại Tử Tức** — hỗ trợ quan hệ với con cái **TỐT ĐẸP**.
 
-⚡ **Điều kiện tiên quyết:**
+**Điều kiện tiên quyết:**
 - Phải có **GẮN KẾT CHẶT CHẼ** từ cát tinh
 - **TẢ HỮU + VĂN XƯƠNG VĂN KHÚC**
 
-⚡ **Đi cùng Xương Khúc:**
+**Đi cùng Xương Khúc:**
 - Tình cảm càng **ĐẬM SÂU**
 - Cha mẹ luôn **LO LẮNG, QUAN TÂM** đến con cái
 
-⚡ **Cảnh báo - hội sát tinh hình thương:**
+**Cảnh báo - hội sát tinh hình thương:**
 - Đề phòng con cái **TAI NẠN trên ĐƯỜNG LỚN**
 - **TAI NẠN GIAO THÔNG**
 - Do **SAI LỆCH TÍN HIỆU**`,
@@ -327,18 +327,18 @@ TÒA ÁN, CÔNG QUYỀN**.
     doUuTien: 75,
     tomTat: `**Đường Phù tại Phu Thê** — vợ chồng **GẮN KẾT CHẶT CHẼ**.
 
-⚡ **Đi cùng Xương Khúc, Quang Quý:**
+**Đi cùng Xương Khúc, Quang Quý:**
 - Vợ chồng **GẮN KẾT CHẶT CHẼ**
 - Sau thời gian dài, tình cảm vẫn "**MẬT NGỌT**" như đầu
 
-⚡ **Đi cùng sao bằng cấp, học thức, danh giá, quyền quý:**
+**Đi cùng sao bằng cấp, học thức, danh giá, quyền quý:**
 - Bạn đời có **NĂNG LỰC + PHẨM CHẤT TỐT**
 - Được nhiều người **NỂ TRỌNG**
 
-⚡ **Cảnh báo - đi cùng Địa Kiếp, Thiên Hình, Hóa Kỵ:**
+**Cảnh báo - đi cùng Địa Kiếp, Thiên Hình, Hóa Kỵ:**
 - Mối quan hệ vợ chồng **TRẮC TRỞ**
 - Đường Phù như **CƠ QUAN CÔNG QUYỀN**
-- Đến lần đầu để **KẾT HÔN** → lần thứ hai để **LY HÔN**`,
+- Đến lần đầu để **KẾT HÔN**: lần thứ hai để **LY HÔN**`,
   },
 
   {
@@ -349,11 +349,11 @@ TÒA ÁN, CÔNG QUYỀN**.
     doUuTien: 75,
     tomTat: `**Đường Phù tại Huynh Đệ** — không tạo ảnh hưởng quá mạnh.
 
-⚡ **Đi cùng Tả Phù + Hữu Bật:**
+**Đi cùng Tả Phù + Hữu Bật:**
 - Mối quan hệ anh chị em **BỀN CHẶT, THÂN THIẾT**
 - **HỢP TÁC ĂN Ý**
 
-⚡ **Cảnh báo - đi cùng Địa Không, Địa Kiếp, Hóa Kỵ, Hỏa Tinh:**
+**Cảnh báo - đi cùng Địa Không, Địa Kiếp, Hóa Kỵ, Hỏa Tinh:**
 - Anh em thân thiết dễ vướng **VÒNG LAO LÝ**
 - Gây **LIÊN LỤY** đến bản thân đương số`,
   },

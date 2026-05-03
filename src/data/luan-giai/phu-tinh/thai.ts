@@ -4,18 +4,18 @@ import type { DoanLuanGiai } from '../types';
  * LUẬN GIẢI SAO THAI - Thổ.
  *
  * Vị trí THỨ 11 trong Vòng Trường Sinh 12 sao:
- *   Trường Sinh → Mộc Dục → Quan Đới → Lâm Quan → Đế Vượng → Suy →
- *   Bệnh → Tử → Mộ → Tuyệt → THAI → Dưỡng
+ * Trường Sinh: Mộc Dục: Quan Đới: Lâm Quan: Đế Vượng: Suy
+ * Bệnh: Tử: Mộ: Tuyệt: THAI: Dưỡng
  *
  * An theo CỤC.
  *
  * Đặc trưng:
- *   - Sau "Tuyệt" tan biến hết → "Thai" là MẦM SỐNG MỚI BẮT ĐẦU XUẤT HIỆN
- *   - Chuẩn bị cho 1 chu kỳ mới, một cuộc sống mới
- *   - Giai đoạn SƠ SINH - bào thai trong bụng mẹ - YẾU ỚT cần được bảo vệ
- *   - Đại diện cho MẢNH ĐẤT YẾU ỚT chưa định hình
- *   - Nhiều lựa chọn nhưng CHƯA HOÀN TOÀN CỐ ĐỊNH
- *   - Phụ thuộc HOÀN TOÀN vào yếu tố bên ngoài
+ * - Sau "Tuyệt" tan biến hết: "Thai" là MẦM SỐNG MỚI BẮT ĐẦU XUẤT HIỆN
+ * - Chuẩn bị cho 1 chu kỳ mới, một cuộc sống mới
+ * - Giai đoạn SƠ SINH - bào thai trong bụng mẹ - YẾU ỚT cần được bảo vệ
+ * - Đại diện cho MẢNH ĐẤT YẾU ỚT chưa định hình
+ * - Nhiều lựa chọn nhưng CHƯA HOÀN TOÀN CỐ ĐỊNH
+ * - Phụ thuộc HOÀN TOÀN vào yếu tố bên ngoài
  *
  * 4 bộ phận cơ thể liên kết: RỐN, ÂM HỘ, CỔ TỬ CUNG, BÀO THAI.
  * Đặc biệt ảnh hưởng phụ nữ - sinh lý + sinh sản.
@@ -23,8 +23,8 @@ import type { DoanLuanGiai } from '../types';
  * Câu phú: "Thai lâm Mệnh vi đa học thiểu thành" - học nhiều mà ít thành.
  *
  * KHÁC Thiên Riêu:
- *   - Thiên Riêu = tình yêu mê muội về CẢM XÚC
- *   - Thai = ham muốn THỂ XÁC, sa đọa nặng hơn
+ * - Thiên Riêu = tình yêu mê muội về CẢM XÚC
+ * - Thai = ham muốn THỂ XÁC, sa đọa nặng hơn
  */
 export const luanGiai_Thai: DoanLuanGiai[] = [
   {
@@ -37,31 +37,31 @@ Sinh.
 
 **Ngũ hành:** **Thổ**.
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - **PHONG LƯU, KHOÁI LẠC**
 - **SẮC DỤC, U MÊ**
 - **SINH NỞ, TÁI SINH** thêm mới
 - **THIẾU TỰ TIN, DỄ BỊ LỪA GẠT**
 - Chủ sự **THỤ THAI, SINH NỞ**
 
-⚡ **Vai trò:**
-- Sau "**TUYỆT**" tan biến hết → "**THAI**" là MẦM SỐNG MỚI bắt đầu xuất hiện
+**Vai trò:**
+- Sau "**TUYỆT**" tan biến hết: "**THAI**" là MẦM SỐNG MỚI bắt đầu xuất hiện
 - Chuẩn bị cho **1 CHU KỲ MỚI**
 - Giai đoạn **SƠ SINH** - bào thai trong bụng mẹ - **YẾU ỚT** cần bảo vệ
 - Đại diện **MẢNH ĐẤT YẾU ỚT** chưa định hình
 - **PHỤ THUỘC HOÀN TOÀN** vào yếu tố bên ngoài
 
-⚡ **4 bộ phận cơ thể liên kết:**
+**4 bộ phận cơ thể liên kết:**
 - **RỐN, ÂM HỘ, CỔ TỬ CUNG, BÀO THAI**
 - Bộ phận **SINH SẢN** ở phụ nữ gắn kết nhiều nhất
 - Cũng có ý nghĩa với **SINH LÝ CỦA CẢ 2 GIỚI**
 
-⚡ **KHÁC Thiên Riêu:**
+**KHÁC Thiên Riêu:**
 - **Thiên Riêu** = tình yêu **MÊ MUỘI VỀ CẢM XÚC**
 - **Thai** = ham muốn **THỂ XÁC, SA ĐỌA NẶNG HƠN**
 
-⚠️ **Cảnh báo:** Khi sao Thai gặp **TUẦN TRIỆT** án ngữ hay nhiều sát bại tinh
-→ con sinh ra dễ **THIẾU THÁNG, SINH KHÓ, ỐM YẾU QUẶT QUẸO**.`,
+**Cảnh báo:** Khi sao Thai gặp **TUẦN TRIỆT** án ngữ hay nhiều sát bại tinh
+- con sinh ra dễ **THIẾU THÁNG, SINH KHÓ, ỐM YẾU QUẶT QUẸO**.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -77,12 +77,12 @@ Sinh.
     tomTat: `**Thai + Đào Hoa / Hồng Loan** — sự ham thích **ÁI TÌNH** cả về **VẬT CHẤT
 VÀ TINH THẦN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Sự ham thích ái tình về **VẬT CHẤT** và **TINH THẦN**
 - **COI THƯỜNG ĐẠO LÝ**
 - Lấy việc **YÊU, CHO VÀ HƯỞNG** làm lạc thú ở đời
 
-⚠️ **Hệ quả:**
+**Hệ quả:**
 - Đời sống tình cảm **PHÓNG TÚNG**
 - Ham mê **THÚ VUI XÁC THỊT**
 - Dễ rơi vào **MỐI QUAN HỆ NGOÀI LUỒNG**`,
@@ -97,7 +97,7 @@ VÀ TINH THẦN**.
     tomTat: `**Thai + Văn Xương + Văn Khúc** — người thích sự **LÃNG MẠN**, có tính **DÂM
 DẬT, DỤC TÍNH CAO**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Thích **LÃNG MẠN, BAY BỔNG**
 - Tính **DÂM DẬT** rõ
 - **DỤC TÍNH CAO**
@@ -110,18 +110,18 @@ DẬT, DỤC TÍNH CAO**.
     sao: ['Thai'],
     ketHop: ['Thiên Riêu'],
     doUuTien: 60,
-    tomTat: `⚠️ **Thai + Thiên Riêu** — tính **DÂM DẬT MẠNH**, sinh lý cao dễ dẫn đến **BỆNH
+    tomTat: `**Thai + Thiên Riêu** — tính **DÂM DẬT MẠNH**, sinh lý cao dễ dẫn đến **BỆNH
 HOẠN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Tính **DÂM DẬT MẠNH**
 - **SINH LÝ CAO**
 - Dễ dẫn đến **BỆNH HOẠN**
 - Bộ Thai-Riêu là 2 dâm tinh + bộ phận sinh dục cộng hưởng
 
-⚠️ **Hệ quả:**
+**Hệ quả:**
 - Phong tình bệnh hoa liễu
-- Quan hệ phóng túng → bệnh tình dục`,
+- Quan hệ phóng túng: bệnh tình dục`,
   },
 
   {
@@ -130,10 +130,10 @@ HOẠN**.
     sao: ['Thai'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 60,
-    tomTat: `⚠️ **Thai + Địa Không + Địa Kiếp** — bị **HIẾP DÂM** dẫn đến **HOANG THAI**, dễ
+    tomTat: `**Thai + Địa Không + Địa Kiếp** — bị **HIẾP DÂM** dẫn đến **HOANG THAI**, dễ
 **PHÁ THAI, SẨY THAI, HƯ THAI**.
 
-⚠️ **Đặc trưng:**
+**Đặc trưng:**
 - Bị **HIẾP DÂM** dẫn đến **CÓ HOANG THAI**
 - Dễ **PHÁ THAI, SẨY THAI, HƯ THAI**
 - Cũng là trường hợp **BẠO DÂM**
@@ -143,12 +143,12 @@ HOẠN**.
 
   {
     id: 'thai-khong-kiep-bi-cuong-buc-nu',
-    title: '⚠️ Thai + Không Kiếp - Nữ mệnh đặc biệt nguy hiểm',
+    title: 'Thai + Không Kiếp - Nữ mệnh đặc biệt nguy hiểm',
     sao: ['Thai'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     gioiTinh: 'Nữ',
     doUuTien: 55,
-    tomTat: `⚠️ **Thai + Địa Không + Địa Kiếp - Nữ mệnh:** đặc biệt nguy hiểm với
+    tomTat: `**Thai + Địa Không + Địa Kiếp - Nữ mệnh:** đặc biệt nguy hiểm với
 phụ nữ — nguy cơ bị hiếp dâm dẫn đến hoang thai, hoặc tự nguyện trong quan
 hệ rồi bị bỏ rơi.`,
   },
@@ -160,10 +160,10 @@ hệ rồi bị bỏ rơi.`,
     cung: ['Tử Tức'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thai + Địa Không + Địa Kiếp tại Tử Tức** — bất lợi mang thai, dễ trụy
+    tomTat: `**Thai + Địa Không + Địa Kiếp tại Tử Tức** — bất lợi mang thai, dễ trụy
 thai, sát con.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **BẤT LỢI** trong quá trình mang thai
 - **TRỤY THAI, SẨY THAI, SINH NỞ KHÓ KHĂN**
 - Con thường **CHẾT TRONG QUÁ TRÌNH SINH NỞ**, hoặc **SÁT CON**`,
@@ -175,10 +175,10 @@ thai, sát con.
     sao: ['Thai'],
     ketHop: ['Phục Binh', 'Đế Vượng', 'Thiên Tướng'],
     doUuTien: 60,
-    tomTat: `⚠️ **Thai + Phục Binh + Đế Vượng + Thiên Tướng** — vướng vào **LƯỚI TÌNH ĐAU
+    tomTat: `**Thai + Phục Binh + Đế Vượng + Thiên Tướng** — vướng vào **LƯỚI TÌNH ĐAU
 KHỔ**.
 
-⚠️ **Đặc trưng:**
+**Đặc trưng:**
 - Vướng vào **LƯỚI TÌNH ĐAU KHỔ**
 - Là người **THẤT TIẾT**
 - Bị **CƯỠNG BỨC**
@@ -194,7 +194,7 @@ KHỔ**.
     cung: ['Phu Thê'],
     ketHop: ['Phục Binh', 'Đế Vượng', 'Thiên Tướng'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thai + Phục Binh + Đế Vượng + Thiên Tướng tại Phu Thê:**
+    tomTat: `**Thai + Phục Binh + Đế Vượng + Thiên Tướng tại Phu Thê:**
 - Đương số dễ có con **TRƯỚC HÔN NHÂN**
 - Hoặc có **CON RIÊNG** rồi mới lấy nhau
 - Con cái có **TẬT BẨM SINH**`,
@@ -207,7 +207,7 @@ KHỔ**.
     cung: ['Huynh Đệ'],
     ketHop: ['Phục Binh', 'Đế Vượng', 'Thiên Tướng'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thai + Phục Binh + Đế Vượng + Thiên Tướng tại Huynh Đệ:**
+    tomTat: `**Thai + Phục Binh + Đế Vượng + Thiên Tướng tại Huynh Đệ:**
 - Có anh chị em **DỊ BÀO, HƯ HỎNG**
 - Gặp các vấn đề **TAI NẠN TRINH TIẾT**`,
   },
@@ -224,12 +224,12 @@ KHỔ**.
     doUuTien: 55,
     tomTat: `**Thai + Mộc Dục + Long Trì + Phượng Các** — là hạn **SINH ĐẺ, CÓ TIN VUI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Hạn **SINH ĐẺ, CÓ TIN VUI**
 - Thêm **THÀNH VIÊN MỚI** trong gia đình
 - Phúc khí **HƯNG VƯỢNG**
 
-⚠️ **Cảnh báo:** Sao Thai gặp **ĐỊA KIẾP** thì sinh con khó hoặc thai có **DỊ
+**Cảnh báo:** Sao Thai gặp **ĐỊA KIẾP** thì sinh con khó hoặc thai có **DỊ
 TẬT BẨM SINH**.`,
   },
 
@@ -241,7 +241,7 @@ TẬT BẨM SINH**.`,
     doUuTien: 60,
     tomTat: `**Thai + Thanh Long + Thiên Hỷ** — có thai **SINH RA CON ĐẸP, TỐT LÀNH**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Sinh ra **CON ĐẸP, TỐT LÀNH**
 - Quá trình sinh nở **THUẬN LỢI**
 - Mẹ tròn con vuông
@@ -258,7 +258,7 @@ TẬT BẨM SINH**.`,
     doUuTien: 55,
     tomTat: `**Thai + Nguyệt Đức tại Tử Tức** — **CON CẦU TỰ MỚI CÓ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bản mệnh phải **THÀNH TÂM CẦU TỰ** mới mong sinh được quý tử
 - Khó có con tự nhiên
 - Cần đến chùa khấn nguyện, làm phúc tích đức`,
@@ -272,7 +272,7 @@ TẬT BẨM SINH**.`,
     doUuTien: 55,
     tomTat: `**Thai + Thái Dương + Thái Âm** — có **CON SINH ĐÔI**, hoặc **CON DỊ BÀO**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Có **CON SINH ĐÔI**
 - Hoặc **CON DỊ BÀO** (cùng cha khác mẹ / cùng mẹ khác cha)
 - Bộ Nhật Nguyệt + Thai = mang thai đôi`,
@@ -286,7 +286,7 @@ TẬT BẨM SINH**.`,
     doUuTien: 55,
     tomTat: `**Thai + Cô Thần + Quả Tú** — **GIẢM SỐ LƯỢNG CON CÁI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **GIẢM SỐ LƯỢNG** con cái
 - Cô-Quả là cặp ám tinh chế giảm sinh nở
 - Thai + Cô-Quả = ít con muộn con
@@ -305,11 +305,11 @@ TẬT BẨM SINH**.`,
     doUuTien: 80,
     tomTat: `**Thai thủ Mệnh** — **NHU CẦU SINH LÝ + TÌNH DỤC CAO**, ham mê sắc dục.
 
-⚡ **Cơ thể:**
+**Cơ thể:**
 - Thai liên kết với **RỐN, ÂM HỘ, CỔ TỬ CUNG, BÀO THAI**
 - Có ý nghĩa về **VẤN ĐỀ SINH LÝ** của cả 2 giới (không chỉ nữ)
 
-⚡ **Tính tình:**
+**Tính tình:**
 - **HAM MÊ CÁC THÚ VUI**
 - **NHẸ DẠ DỄ TIN NGƯỜI**
 - **DỄ BỊ LÔI KÉO**
@@ -320,15 +320,15 @@ TẬT BẨM SINH**.`,
 - Chủ về **GIAO HỢP XÁC THỊT** giữa nam và nữ
 - **HAM MÊ SẮC DỤC, MÊ GÁI MÊ TRAI**
 
-⚠️ **Tình yêu:**
+**Tình yêu:**
 - KHÔNG tìm kiếm **TÌNH YÊU ĐÍCH THỰC** đúng nghĩa hòa hợp tâm hồn
 - Chỉ chú trọng **THỎA MÃN NHU CẦU SINH LÝ, DÂM DẬT, THẤP HÈN**
 - Phải thỏa mãn cả khía cạnh **VẬT CHẤT**
-- Khi nhu cầu sinh lý quá cao → ảnh hưởng **THỂ CHẤT VÀ TÂM HỒN**
+- Khi nhu cầu sinh lý quá cao: ảnh hưởng **THỂ CHẤT VÀ TÂM HỒN**
 
-⚠️ **So sánh với Thiên Riêu:** Thai NẶNG về sự **SA ĐỌA** nhiều hơn Riêu.
+**So sánh với Thiên Riêu:** Thai NẶNG về sự **SA ĐỌA** nhiều hơn Riêu.
 
-⚡ **Câu phú "Thai lâm Mệnh vi đa học thiểu thành":**
+**Câu phú "Thai lâm Mệnh vi đa học thiểu thành":**
 - Hay **LƯỠNG LỰ, CẢ THÈM CHÓNG CHÁN**
 - Cái gì cũng muốn học nhưng **KHÔNG KIÊN TRÌ**
 - **DỄ THAY ĐỔI** khi có cái mới hay hơn xuất hiện
@@ -345,14 +345,14 @@ TẬT BẨM SINH**.`,
     doUuTien: 75,
     tomTat: `**Thai tại Phụ Mẫu** — bố mẹ **KHÔNG KIÊN ĐỊNH**, có con trước hôn nhân.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bố mẹ là người **TÍNH CÁCH KHÔNG KIÊN ĐỊNH**
 - **DỄ TIN NGƯỜI**, dễ bị người khác **LỪA**
 - Số có **CON TRƯỚC HÔN NHÂN**
 - Sống thiên về **CẢM XÚC**, hay **MỀM LÒNG, CẢ TIN**
 - Quyết định theo **CẢM TÍNH**
 
-⚠️ **Hội thêm Đào Hoa, Hồng Loan, Hình Riêu, Không Kiếp, Hóa Kỵ:**
+**Hội thêm Đào Hoa, Hồng Loan, Hình Riêu, Không Kiếp, Hóa Kỵ:**
 - Bố mẹ có tính **ĐÀO HOA, LĂNG NHĂNG**
 - Dễ có **MỐI QUAN HỆ NGOÀI LUỒNG**
 - Bố mẹ dễ **LY TÁN**
@@ -367,18 +367,18 @@ TẬT BẨM SINH**.`,
     doUuTien: 75,
     tomTat: `**Thai tại Phúc Đức** — phúc phần **CHƯA PHÁT**, gốc rễ tổ tiên chưa vững.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **PHÚC PHẦN, MỒ MẢ TỔ TIÊN CHƯA ĐƯỢC PHÁT**
 - Cần **CHÚ TRỌNG CHĂM SÓC, QUAN TÂM** đến mồ mả
 - **LÀM VIỆC THIỆN NHIỀU** để tích nhiều phước đức
 - Trong gia tộc có người **CHỬA HOANG**, có **CON RƠI BÊN NGOÀI**
 
-⚡ **Lời khuyên:**
+**Lời khuyên:**
 - Con cháu trong tộc cần **CHUYÊN TÂM TÍCH ĐỨC**
 - **CHĂM LO HƯƠNG KHÓI, MỒ MẢ TỔ TIÊN** cẩn thận
 - Để giữ **VẬN KHÍ**, bồi đắp **PHÚC PHẦN**
 
-⚠️ **Hội Không Kiếp, Hóa Kỵ, Thiên Riêu:**
+**Hội Không Kiếp, Hóa Kỵ, Thiên Riêu:**
 - Dòng họ dễ vướng **THỊ PHI**
 - Gia đạo **LỤC ĐỤC**
 - **THIẾU SỰ HÒA THUẬN**`,
@@ -392,7 +392,7 @@ TẬT BẨM SINH**.`,
     doUuTien: 75,
     tomTat: `**Thai tại Điền Trạch** — nơi ở **TÁI ĐỊNH CƯ, HAY THAY ĐỔI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Nơi ở thường là các khu **TÁI ĐỊNH CƯ**
 - Đất ở là **ĐẤT NGHĨA TRANG, NGHĨA ĐỊA** xây dựng lên
 - Gần nhà thường có **TỤ ĐIỂM ĂN CHƠI**, gần **BỆNH VIỆN PHỤ SẢN**
@@ -400,10 +400,10 @@ TẬT BẨM SINH**.`,
 - Thường xuyên phải **THAY ĐỔI NHÀ Ở, CƠ QUAN LÀM VIỆC**
 - **BẤT ỔN** trong chuyện nhà cửa, đất đai
 
-⚡ **Cát tinh nâng đỡ:**
+**Cát tinh nâng đỡ:**
 - Vẫn có cơ hội tích lũy **ĐẤT ĐAI CÓ GIÁ TRỊ**
 
-⚠️ **Sát tinh hội:**
+**Sát tinh hội:**
 - Đề phòng **TRANH CHẤP**
 - Gặp **PHONG THỦY BẤT LỢI**
 - **KHÔNG THỂ YÊN ỔN** dài lâu`,
@@ -417,7 +417,7 @@ TẬT BẨM SINH**.`,
     doUuTien: 78,
     tomTat: `**Thai tại Quan Lộc** — công danh **GIẢM ĐÀ TIẾN THÂN**, hay lưỡng lự.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Con đường công danh **GIẢM ĐÀ TIẾN THÂN**
 - Hay có tính **LƯỠNG LỰ**
 - **KHÓ KHĂN** trong việc đưa ra **QUYẾT ĐỊNH** khi có nhiều cơ hội đến
@@ -425,11 +425,11 @@ TẬT BẨM SINH**.`,
 - Thấy gì cũng muốn thử nhưng **NHANH NẢN**
 - Làm nhiều cũng **KHÓ BỀN**, **DẬM CHÂN TẠI CHỖ**
 
-⚡ **Hội thêm sao phúc thiện** (Quang Quý, Thiên Phúc, Thiên Đức):
+**Hội thêm sao phúc thiện** (Quang Quý, Thiên Phúc, Thiên Đức):
 - Số làm việc liên quan đến **SINH NỞ**
 - **BÁC SĨ PHỤ SẢN, HỘ SINH, BÀ ĐỠ**
 
-⚠️ **Hội nhiều sát bại tinh:**
+**Hội nhiều sát bại tinh:**
 - Dễ liên quan đến **MẶT TRÁI XÃ HỘI**
 - Có **MỐI TÌNH CẢM NGOÀI LUỒNG**
 - Sự nghiệp dễ vướng **TAI TIẾNG**`,
@@ -443,7 +443,7 @@ TẬT BẨM SINH**.`,
     doUuTien: 75,
     tomTat: `**Thai tại Nô Bộc** — bạn bè **HAY THAY ĐỔI**, không bền lâu.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Đương số hay **THAY ĐỔI BẠN BÈ**
 - Tình bạn **KHÔNG THÂN THIẾT BỀN LÂU**
 - Đông anh chị em - những người **KHÁ GIẢ, CÓ ĐỊA VỊ TÀI CHÍNH TỐT**, là
@@ -451,7 +451,7 @@ TẬT BẨM SINH**.`,
 - Tính tình dễ kết giao nhưng khó **GẮN BÓ SÂU SẮC**
 - Dễ nảy sinh **HIỂU LẦM HOẶC RẠN NỨT**
 
-⚠️ **Hội Đào Hoa, Riêu, Kỵ, Không Kiếp:**
+**Hội Đào Hoa, Riêu, Kỵ, Không Kiếp:**
 - Dễ rơi vào tình trạng **NGOẠI TÌNH SAU KHI KẾT HÔN**
 - Mối quan hệ chuyển biến **TIÊU CỰC**`,
   },
@@ -464,18 +464,18 @@ TẬT BẨM SINH**.`,
     doUuTien: 75,
     tomTat: `**Thai tại Thiên Di** — dễ vướng **TÌNH MỘT ĐÊM**, quan hệ ngắn hạn.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ rơi vào, cuốn vào các **MỐI QUAN HỆ TÌNH DỤC NGẮN HẠN**
 - **TÌNH MỘT ĐÊM**
 
-⚡ **Bản thân có Đế Vượng tọa thủ:**
+**Bản thân có Đế Vượng tọa thủ:**
 - Đương số có **NGOẠI HÌNH XINH ĐẸP HẤP DẪN**
 - **THÂN HÌNH ĐẪY ĐÀ**
 - Ra ngoài có **NHIỀU NGƯỜI THÍCH**
 - Có **SỨC HÚT MẠNH**
 - Dễ **DÍNH VÀO TÌNH ÁI, SẮC DỤC**
 
-⚠️ **Cảnh báo:** Những chuyện ái tình thể xác hoặc các mối quan hệ không
+**Cảnh báo:** Những chuyện ái tình thể xác hoặc các mối quan hệ không
 trong sạch có thể nảy sinh bất cứ lúc nào.`,
   },
 
@@ -487,19 +487,19 @@ trong sạch có thể nảy sinh bất cứ lúc nào.`,
     doUuTien: 78,
     tomTat: `**Thai tại Tật Ách** — bệnh **ĐƯỜNG SINH DỤC**, sinh đẻ khó khăn.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ mắc các bệnh liên quan đến **ĐƯỜNG SINH DỤC**
 - **SINH ĐẺ KHÓ KHĂN**
 - Sinh con ra có **DỊ TẬT**
 - Vấn đề **SỨC KHỎE SINH SẢN**, đặc biệt phái nữ
 - **KHÓ THỤ THAI**, dễ **SẢY THAI** hoặc thai yếu
 
-⚠️ **Đồng cung Không Kiếp, Hóa Kỵ:**
+**Đồng cung Không Kiếp, Hóa Kỵ:**
 - Dễ bị bệnh **BUỒNG TRỨNG, TỬ CUNG**
 - **RỐI LOẠN NỘI TIẾT**
 - Ảnh hưởng **KHẢ NĂNG SINH SẢN** lâu dài
 
-⚡ **Mặt nhẹ:**
+**Mặt nhẹ:**
 - Hay bị **ỐM VẶT**
 - Nhưng **MAU KHỎI**`,
   },
@@ -512,19 +512,19 @@ trong sạch có thể nảy sinh bất cứ lúc nào.`,
     doUuTien: 75,
     tomTat: `**Thai tại Tài Bạch** — tài chính **KHÔNG ỔN ĐỊNH**, công việc thay đổi.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **KHÔNG ỔN ĐỊNH** về mặt tài chính
 - Công việc **THƯỜNG THAY ĐỔI**
 - Tiền **ĐẾN RỒI LẠI ĐI**
 - **KHÓ TÍCH LŨY** lâu dài
 
-⚠️ **Hội Đào Hoa, Riêu, Kỵ, Không Kiếp:**
+**Hội Đào Hoa, Riêu, Kỵ, Không Kiếp:**
 - Dễ mang tiền **TIÊU XÀI** cho:
   - **NHU CẦU GIẢI TRÍ**
   - **THỎA MÃN SẮC DỤC**
 - **DÙNG THÂN XÁC ĐỂ KIẾM TIỀN**
 
-⚡ **Lời khuyên:** Cần biết **GIỮ MÌNH** trước cám dỗ, tránh vì phút nông nổi
+**Lời khuyên:** Cần biết **GIỮ MÌNH** trước cám dỗ, tránh vì phút nông nổi
 mà đánh đổi sự ổn định lâu dài.`,
   },
 
@@ -536,7 +536,7 @@ mà đánh đổi sự ổn định lâu dài.`,
     doUuTien: 78,
     tomTat: `**Thai tại Tử Tức** — thử thách về **SINH SẢN VÀ NUÔI DƯỠNG CON CÁI**.
 
-⚡ **Bộ kết hợp tại Tử Tức:**
+**Bộ kết hợp tại Tử Tức:**
 - **Thai + Không Kiếp** = bất lợi mang thai, **TRỤY THAI, SẨY THAI, SINH NỞ
   KHÓ KHĂN**, con thường chết trong sinh nở hoặc **SÁT CON**
 - **Thai + Nguyệt Đức** = **CON CẦU TỰ MỚI CÓ**
@@ -554,21 +554,21 @@ mà đánh đổi sự ổn định lâu dài.`,
     doUuTien: 78,
     tomTat: `**Thai tại Phu Thê** — người hôn phối **PHONG LƯU TÀI TỬ**, thích vui chơi.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Người hôn phối **THÍCH VUI CHƠI, VĂN NGHỆ**
 - **THÍCH TỤ TẬP**
 - Người **PHONG LƯU TÀI TỬ**
 - Dễ bị cuốn theo **THÚ VUI TIỆC TÙNG**
 - Hoặc **MỐI QUAN HỆ NGOÀI XÃ HỘI**
 
-⚡ **Bộ kết hợp tại Phu Thê:**
+**Bộ kết hợp tại Phu Thê:**
 - **Thai + Đào Hoa + Thiên Riêu** = **TIỀN DÂM HẬU THÚ**, xu hướng **HƯỞNG
   THỤ TÌNH DỤC**, ăn nằm với nhau rồi mới cưới, vợ chồng lẳng lơ, **NGOẠI
   TÌNH**
 - **Thai + Phục Binh + Đế Vượng + Thiên Tướng** = mệnh dễ có **CON TRƯỚC
   HÔN NHÂN**, có **CON RIÊNG** rồi mới lấy nhau, con cái có **TẬT BẨM SINH**
 
-⚠️ **Mặt trái:**
+**Mặt trái:**
 - Nguy cơ **NGOẠI TÌNH**
 - Hôn nhân **ĐỔ VỠ** nếu thiếu bao dung và cam kết`,
   },
@@ -581,7 +581,7 @@ mà đánh đổi sự ổn định lâu dài.`,
     doUuTien: 75,
     tomTat: `**Thai tại Huynh Đệ** — có **ANH CHỊ EM DỊ BÀO, NUÔI, SINH ĐÔI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Có **ANH CHỊ EM SINH ĐÔI**
 - **ANH CHỊ EM NUÔI**
 - **ANH CHỊ EM DỊ BÀO**
@@ -589,7 +589,7 @@ mà đánh đổi sự ổn định lâu dài.`,
 - Dễ gặp tình huống có **CON RIÊNG** từ mối quan hệ trước
 - Hoặc **ANH EM NUÔI** không cùng huyết thống
 
-⚡ **Bộ kết hợp:**
+**Bộ kết hợp:**
 - **Thai + Phục Binh + Đế Vượng + Thiên Tướng** = anh chị em **DỊ BÀO, HƯ
   HỎNG**, vấn đề **TAI NẠN TRINH TIẾT**
 - **Thai + Đào Hoa** = anh chị em xu hướng **DÂM DẬT, LĂNG LOÀN, CHỬA HOANG**`,
@@ -607,11 +607,11 @@ mà đánh đổi sự ổn định lâu dài.`,
     tomTat: `**Hóa giải sao Thai** — Thai nằm giữa **TUYỆT** và **DƯỠNG** — là giai đoạn
 **ƯƠM MẦM** chuẩn bị cho bứt phá.
 
-⚡ **Bản chất:**
+**Bản chất:**
 - Thai **KHÔNG MANG TÍNH XẤU TUYỆT ĐỐI**
 - Là giai đoạn **ƯƠM MẦM** chuẩn bị cho **BỨT PHÁ VỀ SAU**
 
-⚡ **Cần lưu ý:**
+**Cần lưu ý:**
 - **KHÔNG VỘI VÀNG HÀNH ĐỘNG** khi tâm chưa ổn, dự định còn mơ hồ
 - **TẠM GÁC LẠI** những chuyện như đầu tư, cưới hỏi, ra quyết định trọng
   đại nếu chưa có cát tinh hỗ trợ
@@ -619,7 +619,7 @@ mà đánh đổi sự ổn định lâu dài.`,
 - Thai = thời điểm thích hợp để **PHỤC HỒI**, chuẩn bị cho chu kỳ phát
   triển kế tiếp
 
-⚡ **Ví dụ:** Người vừa nghỉ việc 5 năm văn phòng (hạn Tuyệt) → trong hạn
+**Ví dụ:** Người vừa nghỉ việc 5 năm văn phòng (hạn Tuyệt): trong hạn
 Thai nảy sinh ý định chuyển hướng viết lách, học nghề tay trái — âm thầm
 theo đuổi sẽ gặt hái thành quả tương lai.`,
   },

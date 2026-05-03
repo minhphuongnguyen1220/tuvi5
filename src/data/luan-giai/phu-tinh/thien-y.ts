@@ -5,12 +5,12 @@ import type { DoanLuanGiai } from '../types';
  *
  * An theo THÁNG SINH (engine: khởi từ Sửu thuận theo tháng sinh).
  *
- * ⚡ QUY LUẬT BẮT BUỘC: LUÔN ĐỒNG CUNG với Thiên Riêu (cùng khởi từ Sửu).
+ * QUY LUẬT BẮT BUỘC: LUÔN ĐỒNG CUNG với Thiên Riêu (cùng khởi từ Sửu).
  *
  * Ý nghĩa chiết tự:
- *   - "Y" = sức khỏe, chữa bệnh, thầy thuốc, thuốc men
- *   - "Thiên" = trời
- *   - "Thiên Y" = phúc đức, sự che chở, cứu chữa tốt nhất ông trời ban
+ * - "Y" = sức khỏe, chữa bệnh, thầy thuốc, thuốc men
+ * - "Thiên" = trời
+ * - "Thiên Y" = phúc đức, sự che chở, cứu chữa tốt nhất ông trời ban
  *
  * Đắc địa: Dần, Mão, Thân, Dậu (cùng vị trí Riêu)
  * Hãm địa: các cung còn lại
@@ -28,30 +28,30 @@ export const luanGiai_ThienY: DoanLuanGiai[] = [
 
 **Ngũ hành:** **Thủy**.
 
-⚡ **Tên gọi:**
+**Tên gọi:**
 - "**Y**" = sức khỏe, chữa bệnh, thầy thuốc, thuốc men
 - "**Thiên Y**" = phúc đức may mắn, sự **CHE CHỞ, CỨU CHỮA TỐT NHẤT** mà
   ông trời ban cho
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - **SẠCH SẼ, VỆ SINH**
 - **GIỎI VỀ NGHỀ THUỐC, Y DƯỢC**
 - **CỨU GIẢI BỆNH TẬT**
 
-⚡ **Vai trò trong cặp Riêu-Y:**
+**Vai trò trong cặp Riêu-Y:**
 - Là **THUỐC CỦA NHÀ TRỜI** (cân bằng với Thiên Riêu = bệnh nhà Trời)
-- Khi **ĐẮC ĐỊA** → bộc lộ y học, lấn át Riêu, dục tính được giấu kín
-- Khi **HÃM ĐỊA** → khả năng cứu giải yếu, Riêu lấn át
+- Khi **ĐẮC ĐỊA**: bộc lộ y học, lấn át Riêu, dục tính được giấu kín
+- Khi **HÃM ĐỊA**: khả năng cứu giải yếu, Riêu lấn át
 
-⚡ **Vai trò trong bộ Riêu-Y-Hình tam hợp:**
+**Vai trò trong bộ Riêu-Y-Hình tam hợp:**
 - Y = thuốc, Riêu = thảo dược, Hình = dao kéo châm cứu
 - Bộ y dược chuyên môn
 
-⚠️ **Rất kỵ sát tinh:**
-- Khi gặp sát tinh → tư chất thầy thuốc bị mờ tối, **LÀM LIỀU, LÀM ẨU**
+**Rất kỵ sát tinh:**
+- Khi gặp sát tinh: tư chất thầy thuốc bị mờ tối, **LÀM LIỀU, LÀM ẨU**
 - **DỐT về trình độ**, lương tâm và trách nhiệm nghề nghiệp không cao
 - Sát tinh làm giảm sự **MÁT TAY** và cơ duyên cứu độ
-- Trường hợp xấu → sức khỏe kém, dễ **MẤT SỚM** vì bệnh tật`,
+- Trường hợp xấu: sức khỏe kém, dễ **MẤT SỚM** vì bệnh tật`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -67,12 +67,12 @@ export const luanGiai_ThienY: DoanLuanGiai[] = [
     tomTat: `**Thiên Y + Thiên Tướng + Thiên Quan + Thiên Phúc** — **LƯƠNG Y, THẦY THUỐC
 GIỎI MÁT TAY** như **BIỂN THƯỚC**.
 
-⚡ **Phân tích bộ sao:**
+**Phân tích bộ sao:**
 - **Thiên Y**: chuyên môn y dược
 - **Thiên Tướng**: vị trí ấn (uy tín nghề)
 - **Quan Phúc**: tâm phúc thiện, được trời ban phúc
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Là thầy thuốc **CỨU NHIỀU NGƯỜI**
 - Danh tiếng **LƯU TRUYỀN HẬU THẾ** (như Biển Thước - thầy thuốc nổi tiếng
   Trung Hoa cổ)`,
@@ -87,12 +87,12 @@ GIỎI MÁT TAY** như **BIỂN THƯỚC**.
     tomTat: `**Thiên Y + Thiên Tướng + Thiên Hình (hay Kiếp Sát)** — **BÁC SỸ GIẢI PHẪU
 GIỎI** như **HOA ĐÀ**.
 
-⚡ **Phân tích:**
+**Phân tích:**
 - **Thiên Y**: y học
 - **Thiên Tướng**: ấn tín, uy nghi
 - **Thiên Hình** hoặc **Kiếp Sát**: dao kéo, mổ xẻ, sát phạt
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bác sỹ **PHẪU THUẬT** giỏi
 - Như Hoa Đà - thần y mổ xẻ thời Tam Quốc
 - Tay nghề mổ xẻ chuyên nghiệp, cứu sống nhiều người`,
@@ -107,13 +107,13 @@ GIỎI** như **HOA ĐÀ**.
     tomTat: `**Thiên Y + Thái Dương / Thái Âm + Thiên Quan + Thiên Phúc** — **BÁC SỸ
 CHIẾU ĐIỆN, NHÃN KHOA** hoặc **THẦN KINH**.
 
-⚡ **Phân tích:**
-- **Nhật / Nguyệt** = ánh sáng → **CHIẾU ĐIỆN** (X-quang, MRI, siêu âm)
-- Thái Dương cũng chủ về **MẮT** → nhãn khoa
+**Phân tích:**
+- **Nhật / Nguyệt** = ánh sáng: **CHIẾU ĐIỆN** (X-quang, MRI, siêu âm)
+- Thái Dương cũng chủ về **MẮT**: nhãn khoa
 - Cũng chủ về **THẦN KINH** (não bộ, hệ thần kinh)
 - **Quan Phúc** đảm bảo tâm phúc thiện cứu người
 
-⚡ **Hợp nghề:**
+**Hợp nghề:**
 - **Bác sỹ chẩn đoán hình ảnh** (X-quang, MRI, siêu âm)
 - **Bác sỹ nhãn khoa**
 - **Bác sỹ thần kinh**`,
@@ -127,12 +127,12 @@ CHIẾU ĐIỆN, NHÃN KHOA** hoặc **THẦN KINH**.
     doUuTien: 55,
     tomTat: `**Thiên Y + Thiên Tướng + Thai** — **BÁC SỸ PHỤ KHOA, ĐỠ ĐẺ**.
 
-⚡ **Phân tích:**
+**Phân tích:**
 - **Thiên Y**: y học
 - **Thiên Tướng**: ấn tín nghề
 - **Thai** (đất Thai trong Tràng Sinh): **BÀO THAI, MANG THAI**
 
-⚡ **Hợp nghề:**
+**Hợp nghề:**
 - **BÁC SỸ TRỊ BỆNH ĐÀN BÀ**
 - **CHỬA ĐẺ, ĐỠ ĐẺ**
 - **PHỤ KHOA, SẢN KHOA**`,
@@ -146,13 +146,13 @@ CHIẾU ĐIỆN, NHÃN KHOA** hoặc **THẦN KINH**.
     doUuTien: 55,
     tomTat: `**Thiên Y + bộ Cơ Nguyệt Đồng Lương** — **Y SỸ GIỎI**.
 
-⚡ **Phân tích:**
+**Phân tích:**
 - **Cơ Nguyệt Đồng Lương** = bộ chính tinh thiện đẹp (đặc biệt **Thiên Lương**
   là **THỌ TINH**)
 - Bộ này vốn hợp các nghề **Y DƯỢC, GIÁO DỤC, CỨU NGƯỜI**
-- Thêm Thiên Y → tăng cường chuyên môn y học
+- Thêm Thiên Y: tăng cường chuyên môn y học
 
-⚡ **Hợp nghề:**
+**Hợp nghề:**
 - Y sỹ chuyên môn cao
 - Lương y chữa bệnh
 - Đặc biệt **Đông y**, **YHCT** (Lương + Cơ là bộ trí tuệ thiện lương)`,
@@ -166,17 +166,17 @@ CHIẾU ĐIỆN, NHÃN KHOA** hoặc **THẦN KINH**.
     doUuTien: 55,
     tomTat: `**Thiên Y + Thiên Riêu (đồng cung luôn)** — chuyên khoa **BỘ PHẬN SINH DỤC**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Riêu chủ về **DỤC TÍNH, BỘ PHẬN SINH DỤC**
 - Y chủ về chuyên môn y học
-- Hợp lại → **BÁC SỸ NAM KHOA, PHỤ KHOA, SINH SẢN**
+- Hợp lại: **BÁC SỸ NAM KHOA, PHỤ KHOA, SINH SẢN**
 
-⚡ **Quy tắc chung:** Tùy theo bộ sao y khoa đi liền với **BỘ PHẬN CƠ THỂ
+**Quy tắc chung:** Tùy theo bộ sao y khoa đi liền với **BỘ PHẬN CƠ THỂ
 NÀO** thì y sỹ sẽ **CHUYÊN KHOA** về bộ phận đó:
-- Y + Nhật/Nguyệt → mắt, thần kinh
-- Y + Tướng + Thai → phụ khoa
-- Y + Riêu → sinh dục
-- Y + Hình → phẫu thuật`,
+- Y + Nhật/Nguyệt: mắt, thần kinh
+- Y + Tướng + Thai: phụ khoa
+- Y + Riêu: sinh dục
+- Y + Hình: phẫu thuật`,
   },
 
   {
@@ -185,16 +185,16 @@ NÀO** thì y sỹ sẽ **CHUYÊN KHOA** về bộ phận đó:
     sao: ['Thiên Y'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 55,
-    tomTat: `⚠️ **Thiên Y + Địa Không / Địa Kiếp** — trong đời y sỹ phải có lần **SƠ SUẤT
+    tomTat: `**Thiên Y + Địa Không / Địa Kiếp** — trong đời y sỹ phải có lần **SƠ SUẤT
 LÀM CHẾT NGƯỜI**.
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Là cách rất xấu cho người làm nghề y
 - Sát tinh phá đi sự mát tay
 - Có thể vướng **TAI TIẾNG NGHỀ NGHIỆP** lớn
 - Hoặc bị **KIỆN TỤNG, CHỊU TRÁCH NHIỆM** y đức
 
-⚡ **Hóa giải:**
+**Hóa giải:**
 - Cần **HỌC HÀNH KỸ LƯỠNG**, không làm liều
 - **THẬN TRỌNG** trong từng ca
 - Tránh nghề **PHẪU THUẬT** nếu có cách này
@@ -214,10 +214,10 @@ LÀM CHẾT NGƯỜI**.
     tomTat: `**Thiên Y thủ Mệnh** — người **CẨN THẬN, TỶ MỶ, ƯA SẠCH SẼ**, có năng khiếu
 **Y DƯỢC**.
 
-⚡ **Tướng mạo:**
+**Tướng mạo:**
 - **NHIỀU LÔNG TÓC** (đặc điểm Thiên Riêu đồng cung)
 
-⚡ **Tính cách:**
+**Tính cách:**
 - **CẨN THẬN, TỶ MỶ, GỌN GÀNG, NGĂN NẮP**
 - Năng khiếu **Y DƯỢC, THUỐC MEN**
 - Tiếp cận lĩnh vực **CHĂM SÓC SỨC KHỎE**`,
@@ -246,7 +246,7 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Mệnh'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Thiên Y HÃM tại Mệnh:**
+    tomTat: `**Thiên Y HÃM tại Mệnh:**
 - Tướng mạo **XANH XAO, THIẾU SỨC SỐNG**, gầy ốm
 - Bị **DỤC TÍNH RIÊU** lấn át, khó phát triển
 - Có ý thức **PHÒNG CHỮA BỆNH**
@@ -284,10 +284,10 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Phụ Mẫu'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Y HÃM tại Phụ Mẫu:**
+    tomTat: `**Thiên Y HÃM tại Phụ Mẫu:**
 - Cha mẹ hay **ỐM ĐAU, BỆNH TẬT**
 - Phải **DÙNG THUỐC MEN**, khám chữa nhiều
-- Sát bại tinh hội → **GIẢM THỌ** cha mẹ
+- Sát bại tinh hội: **GIẢM THỌ** cha mẹ
 - Hoặc cha mẹ có **NGƯỜI THỨ BA** bên ngoài (do Thiên Riêu đồng cung)`,
   },
 
@@ -298,7 +298,7 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Hỏa Tinh', 'Linh Tinh', 'Bệnh Phù'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thiên Y Phụ Mẫu + Không Kiếp + Hỏa Linh + Bệnh Phù:** tuổi thọ cha mẹ càng dễ giảm sút.`,
+    tomTat: `**Thiên Y Phụ Mẫu + Không Kiếp + Hỏa Linh + Bệnh Phù:** tuổi thọ cha mẹ càng dễ giảm sút.`,
   },
 
   {
@@ -332,7 +332,7 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Phúc Đức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Y HÃM tại Phúc Đức:**
+    tomTat: `**Thiên Y HÃM tại Phúc Đức:**
 - Dòng họ nhiều người hay **ỐM ĐAU BỆNH TẬT**
 - Có thể **DI TRUYỀN** tới đương số
 - Tâm thiện giảm sút (vì lo chuyện cá nhân)`,
@@ -367,7 +367,7 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Điền Trạch'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Y HÃM tại Điền Trạch:**
+    tomTat: `**Thiên Y HÃM tại Điền Trạch:**
 - Nơi ở hay xảy ra **ỐM ĐAU, BỆNH TẬT**
 - Dễ có **MA TÀ ÁM** (Thiên Riêu)
 - Đất phải thờ
@@ -383,7 +383,7 @@ LÀM CHẾT NGƯỜI**.
     doUuTien: 78,
     tomTat: `**Thiên Y tại Quan Lộc** — ngành nghề liên quan **THUỐC MEN, Y DƯỢC, Y HỌC**.
 
-⚡ **Hợp nghề:**
+**Hợp nghề:**
 - **THUỐC MEN, Y DƯỢC, Y HỌC**
 - **TỔ CHỨC THIỆN NGUYỆN, CHỮ THẬP ĐỎ**`,
   },
@@ -407,7 +407,7 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Quan Lộc'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thiên Y Quan Lộc + sát tinh (Kình Đà / Hỏa Linh / Không Kiếp):**
+    tomTat: `**Thiên Y Quan Lộc + sát tinh (Kình Đà / Hỏa Linh / Không Kiếp):**
 - Làm các công tác **GIÁN TIẾP, PHỤ TRỢ** trong ngành y
 - Quản lý hành chính, cấp cứu, kinh doanh
 - Hoặc **TRỒNG CÂY DƯỢC LIỆU, DƯỢC PHẨM**`,
@@ -420,7 +420,7 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Quan Lộc'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thiên Y Quan Lộc + Không Kiếp:** Trong đời y sỹ phải có lần **SƠ SUẤT LÀM CHẾT NGƯỜI**.`,
+    tomTat: `**Thiên Y Quan Lộc + Không Kiếp:** Trong đời y sỹ phải có lần **SƠ SUẤT LÀM CHẾT NGƯỜI**.`,
   },
 
   {
@@ -430,7 +430,7 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Quan Lộc'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Y HÃM tại Quan Lộc:**
+    tomTat: `**Thiên Y HÃM tại Quan Lộc:**
 - Công việc liên quan nhiều tới **BỆNH TẬT, BỆNH HOẠN**
 - Môi trường làm việc **ĐỘC HẠI**
 - Suy giảm sức khỏe của đương số`,
@@ -464,7 +464,7 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Nô Bộc'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Y HÃM tại Nô Bộc:**
+    tomTat: `**Thiên Y HÃM tại Nô Bộc:**
 - Bạn bè đồng nghiệp **SỨC KHỎE KÉM**, hay ốm đau
 - Đây có thể là người **THẦY THUỐC, BÁC SỸ** với cung Nô đóng vai
   **BỆNH NHÂN** cần cứu giúp`,
@@ -478,7 +478,7 @@ LÀM CHẾT NGƯỜI**.
     trangThai: ['Hãm'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 75,
-    tomTat: `⚠️ **Thiên Y HÃM Nô Bộc + sát bại tinh:**
+    tomTat: `**Thiên Y HÃM Nô Bộc + sát bại tinh:**
 - Bạn bè ăn chơi chác tán
 - Nhiều **BỆNH TẬT**`,
   },
@@ -514,7 +514,7 @@ HỖ TRỢ**.`,
     cung: ['Thiên Di'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Y HÃM tại Thiên Di:**
+    tomTat: `**Thiên Y HÃM tại Thiên Di:**
 - Ra ngoài hay bị **ỐM ĐAU, BỆNH TẬT**
 - Ăn chơi chác tán dễ bị **LÂY BỆNH TRUYỀN NHIỄM XÃ HỘI**
 - Đặc biệt rõ rệt khi hội thêm **SÁT BẠI TINH**`,
@@ -528,7 +528,7 @@ HỖ TRỢ**.`,
     doUuTien: 78,
     tomTat: `**Thiên Y tại Tật Ách** — đắc địa giải trừ bớt **BỆNH TẬT, TAI ÁCH**.
 
-⚡ **Đặc tính bệnh (Thủy):**
+**Đặc tính bệnh (Thủy):**
 - Liên quan **MÁU HUYẾT**
 - **HỆ THỐNG TIÊU HÓA, THẬN**`,
   },
@@ -553,7 +553,7 @@ HỖ TRỢ**.`,
     cung: ['Tật Ách'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `⚠️ **Thiên Y HÃM tại Tật Ách:**
+    tomTat: `**Thiên Y HÃM tại Tật Ách:**
 - Sức khỏe thường **KHÔNG TỐT**
 - Hay ốm đau, bệnh tật **KÉO DÀI**
 - Phải **DÙNG THUỐC MEN ĐIỀU TRỊ** đi cùng`,
@@ -588,7 +588,7 @@ HỖ TRỢ**.`,
     cung: ['Tài Bạch'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Y HÃM tại Tài Bạch:**
+    tomTat: `**Thiên Y HÃM tại Tài Bạch:**
 - Hay **TIÊU TỐN NHIỀU TIỀN** cho chuyện ốm đau và thuốc men
 - "Của đi vì bệnh"`,
   },
@@ -631,7 +631,7 @@ HỖ TRỢ**.`,
     cung: ['Tử Tức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Y HÃM tại Tử Tức:**
+    tomTat: `**Thiên Y HÃM tại Tử Tức:**
 - Con cái hay **ỐM ĐAU, BỆNH TẬT**
 - Phải **ĐIỀU TRỊ THUỐC MEN LIÊN TỤC**`,
   },
@@ -665,10 +665,10 @@ HỖ TRỢ**.`,
     cung: ['Phu Thê'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Y HÃM tại Phu Thê:**
+    tomTat: `**Thiên Y HÃM tại Phu Thê:**
 - Người hôn phối hay **ỐM ĐAU, BỆNH TẬT**
 - Phải **ĐIỀU TRỊ THUỐC MEN** nhiều
-- Hội nhiều sát bại tinh → **GIẢM THỌ** duyên vợ chồng`,
+- Hội nhiều sát bại tinh: **GIẢM THỌ** duyên vợ chồng`,
   },
 
   {
@@ -700,7 +700,7 @@ HỖ TRỢ**.`,
     cung: ['Huynh Đệ'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Thiên Y HÃM tại Huynh Đệ:**
+    tomTat: `**Thiên Y HÃM tại Huynh Đệ:**
 - Anh chị em hay bị **ỐM ĐAU, THƯƠNG TẬT**
 - Phải **ĐIỀU TRỊ, THUỐC MEN LIÊN TỤC**`,
   },
@@ -716,14 +716,14 @@ HỖ TRỢ**.`,
     doUuTien: 50,
     tomTat: `**Thiên Y vào hạn** — dễ **ỐM ĐAU**, phải chạy chữa thầy thuốc.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Vì Thiên Riêu **LUÔN ĐI ĐÔI** với Thiên Y
 - Có khi gặp **BỆNH VỀ BỘ PHẬN SINH DỤC** (tiểu tiện, phong tình, bệnh đàn bà)
 
-⚡ **Phải đề phòng:**
+**Phải đề phòng:**
 - **ĐAU YẾU, GIỮ GÌN SỨC KHỎE**
 - Có thể bản thân bị bệnh
-- Hoặc người thân bị bệnh → cần chăm sóc, điều trị, trông nom`,
+- Hoặc người thân bị bệnh: cần chăm sóc, điều trị, trông nom`,
   },
 
   {
@@ -732,7 +732,7 @@ HỖ TRỢ**.`,
     sao: ['Thiên Y'],
     ketHop: ['Tham Lang', 'Thiên Đồng'],
     doUuTien: 55,
-    tomTat: `⚠️ **Thiên Y hạn + Tham Lang + Thiên Đồng:** đề phòng **BỆNH XÃ HỘI** do **TỬU SẮC PHONG TÌNH**.`,
+    tomTat: `**Thiên Y hạn + Tham Lang + Thiên Đồng:** đề phòng **BỆNH XÃ HỘI** do **TỬU SẮC PHONG TÌNH**.`,
   },
 
   {
@@ -742,7 +742,7 @@ HỖ TRỢ**.`,
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 55,
-    tomTat: `🌟 **Thiên Y đắc địa hạn + cát tinh trợ lực:**
+    tomTat: `**Thiên Y đắc địa hạn + cát tinh trợ lực:**
 - Người trong ngành y dễ **LẬP CÔNG DANH**
 - Cứu nhiều người
 - Thăng tiến`,
@@ -754,7 +754,7 @@ HỖ TRỢ**.`,
     sao: ['Thiên Y'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 55,
-    tomTat: `⚠️ **Thiên Y hạn + sát tinh:**
+    tomTat: `**Thiên Y hạn + sát tinh:**
 - Vướng vào **TAI TIẾNG NGHỀ NGHIỆP**
 - Sức khỏe bị giảm sút`,
   },

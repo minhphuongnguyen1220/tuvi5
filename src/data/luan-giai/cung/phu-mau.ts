@@ -6,9 +6,9 @@ import type { DoanLuanGiai } from '../types';
 export const luanGiai_Cung_PhuMau: DoanLuanGiai[] = [
   // Ví dụ:
   // {
-  //   id: 'cung-phu-mau-mo-ta',
-  //   cung: ['Phụ Mẫu'],
-  //   doUuTien: 10,
-  //   tomTat: 'Cung Phụ Mẫu tượng trưng cho... [bạn viết về ý nghĩa cung này]',
+  // id: 'cung-phu-mau-mo-ta',
+  // cung: ['Phụ Mẫu'],
+  // doUuTien: 10,
+  // tomTat: 'Cung Phụ Mẫu tượng trưng cho... [bạn viết về ý nghĩa cung này]',
   // },
 ];

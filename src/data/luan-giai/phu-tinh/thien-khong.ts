@@ -24,23 +24,23 @@ export const luanGiai_ThienKhong: DoanLuanGiai[] = [
 
 **Hóa khí:** **HƯ ẢO, GIÁC NGỘ**.
 
-⚡ **Vị trí:** Luôn **XUNG CHIẾU với THIẾU DƯƠNG** trong vòng Thái Tuế.
+**Vị trí:** Luôn **XUNG CHIẾU với THIẾU DƯƠNG** trong vòng Thái Tuế.
 
-⚡ **Tác động chính - hai mặt:**
+**Tác động chính - hai mặt:**
 - **MẶT TỐT:** giúp con người **NHANH TRÍ, SÁNG TẠO, NÂNG CAO TRÍ TUỆ**
 - **MẶT XẤU:** dễ rơi vào **ẢO TƯỞNG, SAI LẦM, PHÁ HỦY, MẤT MÁT**
 - "**THÀNH CÔNG NHANH MÀ THẤT BẠI CŨNG NHANH**"
 - Cuộc đời **BIẾN ĐỘNG BẤT NGỜ**
 
-⚡ **Bản chất:**
+**Bản chất:**
 - "Thiên Không vừa là **CON SỐ KHÔNG**, vừa là **KHOẢNG KHÔNG VÔ TẬN**"
 - Gặp hạn này được hay mất, thành hay bại — **HOÀN TOÀN TÙY THUỘC TƯ TƯỞNG
   VÀ HÀNH ĐỘNG** của đương số trong giai đoạn đó
 
-⚡ **Bản chất hai mặt:**
+**Bản chất hai mặt:**
 - Vừa là **NGÔI SAO CỦA THỬ THÁCH**
 - Vừa như **NGỌN ĐÈN DẪN LỐI**
-- Khi **LÒNG TĨNH, TRÍ SÁNG** → cuộc đời an nhiên, **TỎA SÁNG RỰC RỠ**`,
+- Khi **LÒNG TĨNH, TRÍ SÁNG**: cuộc đời an nhiên, **TỎA SÁNG RỰC RỠ**`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -55,12 +55,12 @@ export const luanGiai_ThienKhong: DoanLuanGiai[] = [
     doUuTien: 78,
     tomTat: `**Thiên Không tại Mệnh - Dung mạo:**
 
-⚡ **Hình hài:**
+**Hình hài:**
 - **DUNG MẠO SÁNG SỦA, THÔNG MINH**
 - **ÁNH MẮT TINH ANH, CÓ THẦN**
 - **GÂY ẤN TƯỢNG MẠNH** với người đối diện
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Trên thân thể có **SẸO** hoặc **THƯƠNG TÍCH** khó tránh
 - Do **TAI NẠN** gây ra`,
   },
@@ -73,22 +73,22 @@ export const luanGiai_ThienKhong: DoanLuanGiai[] = [
     doUuTien: 80,
     tomTat: `**Thiên Không tại Mệnh - Tính cách:**
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **THÔNG MINH, NHANH TRÍ, ỨNG BIẾN LINH HOẠT**
 - Có tư tưởng **TRIẾT HỌC, TÂM LINH**
 
-⚡ **Sự nghiệp - lên voi xuống chó:**
-- Có **NĂNG LỰC, NHIỀU SÁNG KIẾN** → dễ "**MỘT BƯỚC LÊN CAO**" khi gặp thời
+**Sự nghiệp - lên voi xuống chó:**
+- Có **NĂNG LỰC, NHIỀU SÁNG KIẾN**: dễ "**MỘT BƯỚC LÊN CAO**" khi gặp thời
 - Như **NGỌN LỬA RỰC RỠ RỒI NHANH CHÓNG TÀN LỤI**
 - Sự nghiệp gặp **BIẾN ĐỘNG BẤT NGỜ**, "**LÊN VOI XUỐNG CHÓ**"
 
-⚡ **Phúc thọ:**
+**Phúc thọ:**
 - Dễ có **TIẾNG TĂM, TÊN TUỔI LAN XA** nếu biết **HÀNH THIỆN**
-- Không tu dưỡng tốt → **TAI HỌA BẤT NGỜ, TRẮNG TAY, MẤT MÁT LỚN**
+- Không tu dưỡng tốt: **TAI HỌA BẤT NGỜ, TRẮNG TAY, MẤT MÁT LỚN**
 - Đời người trải qua **NHIỀU LẦN THÀNH - BẠI**
 - Về sau mới hiểu **CHÂN LÝ** và tìm được **CON ĐƯỜNG ĐÚNG**
 
-⚡ **Triết lý đời người:**
+**Triết lý đời người:**
 - "**THẤT BẠI LÀ MẸ THÀNH CÔNG**" — nhờ vấp ngã lớn mới **GIÁC NGỘ, TRƯỞNG
   THÀNH**`,
   },
@@ -103,7 +103,7 @@ export const luanGiai_ThienKhong: DoanLuanGiai[] = [
     tomTat: `**Thiên Không + Văn Xương/Văn Khúc tại Mệnh** — chủ mệnh **HỌC GIỎI, SÁNG
 TẠO, GIÀU TRÍ TUỆ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **HỌC GIỎI, SÁNG TẠO**
 - **GIÀU TRÍ TUỆ**
 - Văn tài kết hợp tâm linh sâu sắc
@@ -119,7 +119,7 @@ TẠO, GIÀU TRÍ TUỆ**.
     doUuTien: 60,
     tomTat: `**Thiên Không + Hung tinh tại Mệnh** — trí tuệ ấy hóa thành **GIAN XẢO, LÁU CÁ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ **SA NGÃ**
 - Tài trí dùng vào việc **MƯU TÍNH XẤU**
 - "**ĐA MƯU TÚC TRÍ**" theo hướng **TIÊU CỰC**
@@ -136,7 +136,7 @@ TẠO, GIÀU TRÍ TUỆ**.
     tomTat: `**Thiên Không + Ân Quang - Thiên Quý + Hồng Loan + Thiên Quan - Thiên Phúc**
 — xu hướng **TÔN GIÁO, TRIẾT HỌC, ẨN CƯ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Đi theo **TÔN GIÁO, TRIẾT HỌC**
 - Chọn đời sống **ẨN CƯ, AN NHÀN**
 - Tâm hướng **GIẢI THOÁT**
@@ -156,7 +156,7 @@ TẠO, GIÀU TRÍ TUỆ**.
     tomTat: `**Thiên Không tại Phu Thê** — bạn đời **THÔNG MINH, SẮC SẢO, CÓ KHÍ CHẤT
 RIÊNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bạn đời **THÔNG MINH, SẮC SẢO**
 - Có **KHÍ CHẤT** riêng biệt`,
   },
@@ -171,7 +171,7 @@ RIÊNG**.
     tomTat: `**Thiên Không + Thiên Quan - Thiên Phúc + Văn Xương - Văn Khúc tại Phu Thê**
 — vợ chồng **ĐỒNG ĐIỆU TÂM HỒN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **ĐỒNG ĐIỆU TÂM HỒN**
 - Cùng thích **TU TẬP, LÀM VIỆC THIỆN**
 - Bạn đời không hỗ trợ nhiều cho công danh nhưng là **CHỖ DỰA TINH THẦN**
@@ -188,7 +188,7 @@ RIÊNG**.
     tomTat: `**Thiên Không + Hồng Loan + Đà La + Cô Thần - Quả Tú tại Phu Thê** — đường
 tình duyên **TRẮC TRỞ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Phối ngẫu **KÉM PHÚC THỌ, DỄ BỆNH TẬT**
 - Quan hệ vợ chồng **XA CÁCH, LẠNH NHẠT**
 - Khó **BỀN LÂU**
@@ -206,7 +206,7 @@ tình duyên **TRẮC TRỞ**.
     tomTat: `**Thiên Không + sát tinh tại Tử Tức** — sinh con **CHẬM TRỄ** hoặc phải
 **CẦU TỰ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Sinh con **CHẬM TRỄ**
 - Phải **CẦU TỰ** mới có con
 - Có con cũng **KHÓ NHỜ CẬY**
@@ -224,7 +224,7 @@ tình duyên **TRẮC TRỞ**.
     tomTat: `**Thiên Không + Tả Phù - Hữu Bật + Thiên Quan - Thiên Phúc tại Tử Tức** —
 con cái dù **MUỘN nhưng QUÝ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Con cái có **THIÊN HƯỚNG TÂM LINH**
 - Thích **TU TẬP**
 - Dễ **NGỘ ĐẠO** hoặc sống **HƯỚNG THIỆN**
@@ -241,23 +241,23 @@ con cái dù **MUỘN nhưng QUÝ**.
     tomTat: `**Thiên Không tại Tài Bạch** — tiền bạc **TỤ TÁN THẤT THƯỜNG**, lúc có
 nhiều, lúc lại hao hụt.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Tiền bạc **TỤ TÁN THẤT THƯỜNG**
 - Lúc có nhiều, lúc lại **HAO HỤT**
 - Khó **TÍCH LŨY ỔN ĐỊNH**
 
-⚡ **Gặp Địa Không, Địa Kiếp, Kình Dương, Đà La, Hóa Kỵ:**
+**Gặp Địa Không, Địa Kiếp, Kình Dương, Đà La, Hóa Kỵ:**
 - Con đường tài lộc **NHIỀU RỦI RO**
 - Kiếm tiền bằng **PHƯƠNG PHÁP MẠO HIỂM**
 - Làm ăn lớn nhưng **HAO TÁN**
 - Chi tiêu cho những lý do **NGOÀI Ý MUỐN**
 
-⚡ **Tứ Đức cứu giải:**
-- Thiên Không có **TỨ ĐỨC chiếu** → mang tính **KHUYÊN RĂN**
-- Kiếm tiền **CHÍNH ĐÁNG**, **SIÊNG LÀM PHÚC**, **CHĂM CHỈ QUYÊN GÓP** →
+**Tứ Đức cứu giải:**
+- Thiên Không có **TỨ ĐỨC chiếu**: mang tính **KHUYÊN RĂN**
+- Kiếm tiền **CHÍNH ĐÁNG**, **SIÊNG LÀM PHÚC**, **CHĂM CHỈ QUYÊN GÓP**
   giữ được một phần tài sản
 
-⚡ **Đi cùng Thiên Quan, Thiên Phúc, Quang Quý, Thiên Đức:**
+**Đi cùng Thiên Quan, Thiên Phúc, Quang Quý, Thiên Đức:**
 - Vẫn có cơ hội **TÍCH LŨY**
 - Có **QUÝ NHÂN TRỢ GIÚP**
 - Làm ăn **THUẬN LỢI**`,
@@ -271,7 +271,7 @@ nhiều, lúc lại hao hụt.
     doUuTien: 75,
     tomTat: `**Thiên Không tại Phúc Đức** — báo hiệu **PHÚC KHÍ KHÔNG TRỌN VẸN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Tổ tiên **CÓ PHÚC** nhưng con cháu **KHÓ HƯỞNG TRỌN**
 - Phải **TỰ TU BỒI PHƯỚC BÁU** bằng **VIỆC THIỆN, TU TẬP, HÀNH ĐẠO**`,
   },
@@ -286,7 +286,7 @@ nhiều, lúc lại hao hụt.
     tomTat: `**Thiên Không + Địa Không - Địa Kiếp + Kình Dương - Đà La tại Phúc Đức** —
 họ hàng **KÉM MAY MẮN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Họ hàng **KÉM MAY MẮN**
 - Gia đạo dễ **PHÂN TÁN**
 - Tổ tiên **THẤT LẠC MỘ PHẦN**
@@ -303,7 +303,7 @@ họ hàng **KÉM MAY MẮN**.
     tomTat: `**Thiên Không + Tử Phủ Vũ Tướng + Quang Quý + Quan Phúc tại Phúc Đức** —
 dòng họ **HIỀN LƯƠNG, NHÀ THỜ PHẬT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dòng họ có nhiều người **HIỀN LƯƠNG**
 - Trong nhà có **THỜ PHẬT**
 - Nhờ vậy mà **GIẢM TRỪ TAI ƯƠNG**
@@ -319,12 +319,12 @@ dòng họ **HIỀN LƯƠNG, NHÀ THỜ PHẬT**.
     doUuTien: 70,
     tomTat: `**Thiên Không tại Nô Bộc:**
 
-⚡ **Đi cùng sát tinh:**
+**Đi cùng sát tinh:**
 - Bạn bè đông nhưng **TOAN TÍNH, KHÔNG THẬT LÒNG**
 - **THIẾU CHIỀU SÂU**
 - Khó tin cậy
 
-⚡ **Đi cùng Quang Quý + Quan Phúc:**
+**Đi cùng Quang Quý + Quan Phúc:**
 - Bạn bè + cấp dưới **HIỀN LƯƠNG, THẬT LÒNG**
 - **CÓ TU TẬP**
 - Biết **GIÚP ĐỠ** + mang **LỢI ÍCH LÂU DÀI**`,
@@ -338,16 +338,16 @@ dòng họ **HIỀN LƯƠNG, NHÀ THỜ PHẬT**.
     doUuTien: 75,
     tomTat: `**Thiên Không tại Điền Trạch** — việc tích lũy điền sản **KHÓ TRỌN VẸN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Phải **LAO ĐỘNG BỀN BỈ, TÍCH ĐỨC LÂU DÀI** mới gây dựng được cơ ngơi
 - Trong nhà có **NHIỀU CỦA CẢI** nhưng **KHÔNG ĐỨNG TÊN SỞ HỮU**
 - Chỉ được **HƯỞNG GIÁN TIẾP**
 
-⚡ **Đồng cung Địa Không, Địa Kiếp, Kình Dương, Đà La:**
+**Đồng cung Địa Không, Địa Kiếp, Kình Dương, Đà La:**
 - Tài sản **DỄ TIÊU HAO**
 - Khó **DUY TRÌ CƠ NGHIỆP TỔ TIÊN**
 
-⚡ **Đi cùng Tử Phủ, Đồng Lương, Quang Quý, Quan Phúc:**
+**Đi cùng Tử Phủ, Đồng Lương, Quang Quý, Quan Phúc:**
 - Gia đình có xu hướng **THỜ PHẬT, TRỌNG TÂM LINH**
 - Cuộc sống **AN ỔN HƠN**`,
   },
@@ -360,18 +360,18 @@ dòng họ **HIỀN LƯƠNG, NHÀ THỜ PHẬT**.
     doUuTien: 75,
     tomTat: `**Thiên Không tại Phụ Mẫu** — cha mẹ **THÔNG MINH, KHÉO LÉO, CÓ TAY NGHỀ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cha mẹ **THÔNG MINH, KHÉO LÉO**
 - **CÓ TAY NGHỀ GIỎI**
 - Một số có **THIÊN HƯỚNG TÂM LINH, TU HÀNH**
-- Nhờ tu tập sớm → **GIẢM BỚT TAI ƯƠNG**, hưởng cuộc sống **AN YÊN**
+- Nhờ tu tập sớm: **GIẢM BỚT TAI ƯƠNG**, hưởng cuộc sống **AN YÊN**
 
-⚡ **Hội Địa Không, Địa Kiếp, Kình Dương, Đà La:**
+**Hội Địa Không, Địa Kiếp, Kình Dương, Đà La:**
 - Cha mẹ gặp **NHIỀU VẤT VẢ**
 - Sự nghiệp **KHÓ GIỮ**
 - Có thể **PHÁ SẢN**
 
-⚡ **Bộ Hồng - Không - Cô - Quả:**
+**Bộ Hồng - Không - Cô - Quả:**
 - **BẤT LỢI** cho **TUỔI THỌ** của cha hoặc mẹ
 - Quan hệ cha mẹ - con cái **XA CÁCH**
 - Con phải **SỚM TỰ LẬP** hoặc **GÁNH VÁC** làm chỗ dựa cho cha mẹ`,
@@ -385,7 +385,7 @@ dòng họ **HIỀN LƯƠNG, NHÀ THỜ PHẬT**.
     doUuTien: 75,
     tomTat: `**Thiên Không tại Quan Lộc** — công danh **KHÔNG BỀN LÂU**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ **BỎ DỞ GIỮA CHỪNG**
 - Chịu **NHIỀU BẤT CÔNG NƠI LÀM VIỆC**
 - Bị **CẤP TRÊN CHÈN ÉP**
@@ -404,7 +404,7 @@ dòng họ **HIỀN LƯƠNG, NHÀ THỜ PHẬT**.
     tomTat: `**Bộ Đào Hoa - Thiên Không - Kiếp Sát + Hồng Loan + Văn Xương Văn Khúc +
 Thiên Đồng Thiên Cơ Vũ Khúc** — năng khiếu **NGHỆ THUẬT, SÁNG TẠO**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **NĂNG KHIẾU NGHỆ THUẬT, THIẾT KẾ, KIẾN TRÚC, SÁNG TẠO**
 - Dù công việc chính **TRẮC TRỞ**, nhưng họ vẫn **NỔI BẬT**
 - Có **DANH TIẾNG TRONG NGÀNH NGHỀ RIÊNG**
@@ -420,7 +420,7 @@ Thiên Đồng Thiên Cơ Vũ Khúc** — năng khiếu **NGHỆ THUẬT, SÁNG 
     tomTat: `**Thiên Không tại Tật Ách** — mang ý nghĩa **TIÊU TRỪ BỆNH TẬT, HÓA GIẢI TAI
 ÁCH**.
 
-⚡ **Đặc trưng (đi cùng cát tinh):**
+**Đặc trưng (đi cùng cát tinh):**
 - Đi cùng **TẢ HỮU + THIÊN QUAN, THIÊN PHÚC + GIẢI THẦN**:
   - Bệnh tật **KHÔNG NGUY HIỂM**
   - **GẶP THẦY GIỎI, THUỐC HAY**
@@ -440,7 +440,7 @@ Thiên Đồng Thiên Cơ Vũ Khúc** — năng khiếu **NGHỆ THUẬT, SÁNG 
     tomTat: `**Thiên Không + Địa Không Địa Kiếp + Kình Đà + Hóa Kỵ + Hỏa Linh + Thiên
 Hình + Bạch Hổ tại Tật Ách** — bệnh tật **DAI DẲNG, KHÓ CHỮA**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bệnh **DAI DẲNG, KHÓ CHỮA, DỄ TÁI PHÁT**
 - Hội thêm **HỎA - LINH - HÌNH - HỔ**:
   - Nguy cơ **TAI NẠN, THƯƠNG TÍCH**
@@ -456,14 +456,14 @@ Hình + Bạch Hổ tại Tật Ách** — bệnh tật **DAI DẲNG, KHÓ CHỮ
     doUuTien: 75,
     tomTat: `**Thiên Không tại Thiên Di** — chủ mệnh **KHÔN NGOAN, ỨNG BIẾN LINH HOẠT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **KHÔN NGOAN, ỨNG BIẾN**
 - Dễ được **QUÝ MẾN, NỂ PHỤC**
-- Hội cùng **ĐÀO HOA, HỒNG LOAN** → ra ngoài càng **NỔI BẬT, CÓ DANH TIẾNG**
+- Hội cùng **ĐÀO HOA, HỒNG LOAN**: ra ngoài càng **NỔI BẬT, CÓ DANH TIẾNG**
 - Được **NHIỀU NGƯỜI HÂM MỘ**
 - Xu hướng **ĐI XA**, lập gia đình hoặc kết duyên với **NGƯỜI Ở XA QUÊ**
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Gặp **ĐỊA KHÔNG, ĐỊA KIẾP**:
   - Xuất ngoại, đi xa gặp **NHIỀU TRỞ NGẠI, VẤT VẢ**
   - Thậm chí **TAI HỌA BẤT NGỜ**
@@ -480,11 +480,11 @@ Hình + Bạch Hổ tại Tật Ách** — bệnh tật **DAI DẲNG, KHÓ CHỮ
     doUuTien: 75,
     tomTat: `**Thiên Không tại Huynh Đệ:**
 
-⚡ **Đi cùng Thiên Quan, Thiên Phúc, Quang Quý, Tả Hữu:**
+**Đi cùng Thiên Quan, Thiên Phúc, Quang Quý, Tả Hữu:**
 - Anh chị em **HIỀN LƯƠNG, KHÔN NGOAN, NHÂN HẬU**
 - Có **KHOẢNG CÁCH ĐỊA LÝ** nhưng vẫn **QUAN TÂM, GIÚP ĐỠ** lẫn nhau
 
-⚡ **Gặp Kình Dương, Đà La, Cô Thần, Quả Tú:**
+**Gặp Kình Dương, Đà La, Cô Thần, Quả Tú:**
 - Quan hệ anh chị em **XA CÁCH, KHÓ NƯƠNG TỰA**
 - **MỖI NGƯỜI MỘT NƠI**
 - Số lượng anh chị em **GIẢM** do **YỂU MỆNH** hoặc **SINH RA NHƯNG KHÔNG
@@ -504,15 +504,15 @@ Hình + Bạch Hổ tại Tật Ách** — bệnh tật **DAI DẲNG, KHÓ CHỮ
     doUuTien: 60,
     tomTat: `**Thiên Không + Đào Hoa** — chủ nhân **ĐA MƯU TÚC TRÍ**, có tài ăn nói.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **ĐA MƯU TÚC TRÍ**
 - **TÀI ĂN NÓI**, lôi cuốn **NGƯỜI KHÁC GIỚI**
 - Tính cách **PHONG LƯU, ĐA TÌNH**
 - Dễ sa vào **CHUYỆN TÌNH CẢM RẮC RỐI**
 - Có tài nhưng **NHIỀU TẬT XẤU**
 
-⚡ **Cảnh báo:**
-- Không biết tiết chế → **"CHỮ TÌNH GIEO HẠT, CHỮ KHỔ TRỔ BÔNG"**`,
+**Cảnh báo:**
+- Không biết tiết chế: **"CHỮ TÌNH GIEO HẠT, CHỮ KHỔ TRỔ BÔNG"**`,
   },
 
   {
@@ -524,7 +524,7 @@ Hình + Bạch Hổ tại Tật Ách** — bệnh tật **DAI DẲNG, KHÓ CHỮ
     tomTat: `**Thiên Không + Văn Xương + Thiên Tướng** — đương số **THÔNG MINH** nhưng
 **THÍCH PHÓNG ĐẠI, KHOA TRƯƠNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Có **NĂNG LỰC THẬT SỰ**
 - Nhưng **HAY NÓI QUÁ, KHOE MẼ**
 - Khiến người khác **NGHI NGỜ** thực lực`,
@@ -538,7 +538,7 @@ Hình + Bạch Hổ tại Tật Ách** — bệnh tật **DAI DẲNG, KHÓ CHỮ
     doUuTien: 55,
     tomTat: `**Thiên Không + Phục Binh + Kiếp Sát** — cách cục **NGUY HIỂM**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Tính **LƯU MANH, GIAN XẢO, TRỘM CƯỚP**
 - Dễ **KẾT ĐẢNG, BÈ PHÁI** làm chuyện **PHÁ HOẠI, BẤT LƯƠNG**
 - Dính líu đến **PHÁP LUẬT** hoặc **XÃ HỘI ĐEN**`,
@@ -555,17 +555,17 @@ Hình + Bạch Hổ tại Tật Ách** — bệnh tật **DAI DẲNG, KHÓ CHỮ
     doUuTien: 50,
     tomTat: `**Hóa giải Thiên Không** — sống **TÍCH PHÚC, CÓ LÝ TƯỞNG**.
 
-⚡ **Cách hóa giải:**
+**Cách hóa giải:**
 - Biết **TU TẬP, HỌC ĐẠO**
 - **PHÂN BIỆT ĐÚNG SAI**
 - Sống có **LÝ TƯỞNG, HÀNH THIỆN, TÍCH PHÚC**
 
-⚡ **Khi sống thiện:**
-- Hạn đến → ngôi sao này thành **CƠ HỘI HỌC HÀNH, PHÁT TRIỂN**
+**Khi sống thiện:**
+- Hạn đến: ngôi sao này thành **CƠ HỘI HỌC HÀNH, PHÁT TRIỂN**
 - Đạt **THÀNH CÔNG RỰC RỠ, DANH TIẾNG VANG XA**
 
-⚡ **Khi sống ác:**
-- **THAM VỌNG, BẤT CHẤP, LÀM ĐIỀU SAI** → dễ **MẤT TRẮNG**
+**Khi sống ác:**
+- **THAM VỌNG, BẤT CHẤP, LÀM ĐIỀU SAI**: dễ **MẤT TRẮNG**
 - Mọi công lao gầy dựng **HÓA THÀNH HƯ ẢO**`,
   },
 ];

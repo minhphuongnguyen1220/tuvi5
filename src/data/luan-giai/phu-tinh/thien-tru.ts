@@ -23,35 +23,35 @@ export const luanGiai_ThienTru: DoanLuanGiai[] = [
 
 **Hóa khí:** **PHÚC TINH + LỘC TINH**.
 
-⚡ **Vị thế:**
+**Vị thế:**
 - Thuộc **BỘ TỨ LỘC**:
   - **Thiên Trù** + **Lộc Tồn** + **Hóa Lộc** + **Lưu Niên Văn Tinh**
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - **PHÚC THỰC, NO ĐỦ, HƯỞNG THỤ**
 - **SUNG TÚC VẬT CHẤT**
 - Khả năng **QUẢN LÝ, TÍCH TRỮ LƯƠNG THỰC** của cải
 
-⚡ **Hình tượng:**
+**Hình tượng:**
 - "**CÓ THIÊN TRÙ, trong nhà lúc nào cũng có NỒI CƠM NGHI NGÚT KHÓI**"
 - Đương số "**ĂN TRẮNG MẶC TRƠN**"
 - Cuộc sống **ĐỦ ĐẦY**
 - Ít khi phải lo chuyện **CƠM ÁO GẠO TIỀN**
 
-⚡ **Tác động chính:**
+**Tác động chính:**
 - **GIỎI NẤU ĂN, SÀNH ĂN**
 - Biết **HƯỞNG THỤ**
 - Cuộc sống **SUNG TÚC**
 
-⚡ **Sự nghiệp:**
+**Sự nghiệp:**
 - Phù hợp **ẨM THỰC, NHÀ HÀNG, KHÁCH SẠN**
 - **KINH DOANH HÀNG TIÊU DÙNG**
 
-⚡ **Duyên vận:**
+**Duyên vận:**
 - Hôn nhân **HÒA THUẬN**
 - Vợ chồng dễ gắn kết qua **BỮA CƠM GIA ĐÌNH** hoặc **DU LỊCH**
 
-⚡ **Phúc thọ:**
+**Phúc thọ:**
 - Sức khỏe **ỔN ĐỊNH, ÍT BỆNH VẶT**
 - Ốm đau **NHANH HỒI PHỤC** nhờ chế độ ăn uống hợp lý`,
   },
@@ -68,21 +68,21 @@ export const luanGiai_ThienTru: DoanLuanGiai[] = [
     doUuTien: 80,
     tomTat: `**Thiên Trù tại Mệnh** — người **ĐẢM ĐANG, SÀNH ĂN, NẤU ĂN GIỎI**.
 
-⚡ **Cơ địa:**
+**Cơ địa:**
 - **CƠ ĐỊA KHỎE MẠNH**
 - **DUNG NHAN TƯƠI TẮN**
 
-⚡ **Khả năng:**
+**Khả năng:**
 - **NẤU ĂN NGON**
 - **SÀNH ĂN**, biết thưởng thức ẩm thực
 - Khéo léo **CHĂM SÓC GIA ĐÌNH** và người khác
 
-⚡ **Tính cách:**
+**Tính cách:**
 - **VUI VẺ, HÀO SẢNG**
 - Biết **TẬN HƯỞNG CUỘC SỐNG**
 - Có **NÉT DUYÊN NGẦM**, mọi người **THOẢI MÁI** khi tiếp xúc
 
-⚡ **Sự nghiệp:**
+**Sự nghiệp:**
 - Thích kết bạn qua **BÀN ĂN, CHÉN RƯỢU**
 - Phù hợp **ẨM THỰC, DỊCH VỤ, DU LỊCH**`,
   },
@@ -96,7 +96,7 @@ export const luanGiai_ThienTru: DoanLuanGiai[] = [
     doUuTien: 70,
     tomTat: `**Thiên Trù + Hóa Lộc - Lộc Tồn + Tả Hữu tại Mệnh** — **TRỜI BAN PHÚC LỘC**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Trời ban **PHÚC LỘC ĂN UỐNG ĐẦY ĐỦ**
 - **ÍT KHI THIẾU THỐN**
 - Sự nghiệp **RỘNG MỞ**
@@ -113,7 +113,7 @@ export const luanGiai_ThienTru: DoanLuanGiai[] = [
     tomTat: `**Thiên Trù + Hóa Kỵ + Địa Không Địa Kiếp tại Mệnh** — sa vào **HƯỞNG THỤ
 THÁI QUÁ**.
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - **HƯỞNG THỤ THÁI QUÁ**
 - Lâm cảnh **NỢ NẦN**
 - Sức khỏe **XUỐNG DỐC** vì **TIỆC TÙNG**`,
@@ -131,7 +131,7 @@ THÁI QUÁ**.
     doUuTien: 75,
     tomTat: `**Thiên Trù tại Phụ Mẫu** — cha mẹ **KHÁ GIẢ, GIỎI VUN VÉN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cha mẹ điều kiện kinh tế **KHÁ GIẢ**
 - "**TÍCH CỐC PHÒNG CƠ**"
 - Đương số từ nhỏ được **CƠM NO ÁO ẤM**, không chịu thiếu thốn
@@ -149,7 +149,7 @@ THÁI QUÁ**.
     tomTat: `**Thiên Trù + Thiên Lương + Tả Hữu tại Phụ Mẫu** — cha mẹ **SUNG TÚC + SỐNG
 THỌ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cha mẹ **SUNG TÚC**
 - **SỐNG THỌ, KHỎE MẠNH**
 - Giỏi **CHĂM SÓC GIA ĐÌNH**`,
@@ -165,7 +165,7 @@ THỌ**.
     tomTat: `**Thiên Trù + Hóa Kỵ + Địa Không Địa Kiếp tại Phụ Mẫu** — cha mẹ **BIẾN CỐ
 TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Gia đình gặp **BIẾN CỐ TÀI CHÍNH**
 - Hoặc cha mẹ **DỄ MẮC BỆNH** liên quan **TIÊU HÓA**`,
   },
@@ -178,18 +178,18 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
     doUuTien: 75,
     tomTat: `**Thiên Trù tại Phúc Đức** — dòng họ **PHÚC PHẦN ĂN UỐNG SUNG TÚC**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dòng họ **ÍT KHI THIẾU THỐN**
 - Hay **TỔ CHỨC TỤ HỌP**
 - Tổ tiên từng làm nghề **BUÔN BÁN, ẨM THỰC** hoặc **TRỒNG TRỌT CHĂN NUÔI**
 - Đời con cháu được **HƯỞNG LỘC**
 - Làm ăn **THUẬN LỢI**
 
-⚡ **Hội Long Trì + Phượng Các + Văn Xương + Văn Khúc:**
+**Hội Long Trì + Phượng Các + Văn Xương + Văn Khúc:**
 - Phúc phần **CÀNG DÀY**
 - Gia đình **ĐÔNG VUI HÒA THUẬN**
 
-⚡ **Gặp Địa Không, Địa Kiếp, Hóa Kỵ:**
+**Gặp Địa Không, Địa Kiếp, Hóa Kỵ:**
 - Trong họ dễ có người **ĂN CHƠI HOANG PHÍ**
 - **HAO TÁN TỔ NGHIỆP**`,
   },
@@ -202,14 +202,14 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
     doUuTien: 75,
     tomTat: `**Thiên Trù tại Thiên Di** — xuất ngoại / làm xa **GẶP MAY**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Khi xuất ngoại / làm ăn xa **GẶP MAY MẮN**
 - Dễ **KẾT GIAO BẠN BÈ** qua bữa tiệc
-- Mối quan hệ → **SINH TÀI LỘC**
+- Mối quan hệ: **SINH TÀI LỘC**
 - Quen biết **NHIỀU NGƯỜI CÓ VỊ THẾ**
 - Đi đâu cũng được **GIÚP ĐỠ, MỜI ĂN UỐNG**
 
-⚡ **Cảnh báo - đi cùng sát tinh:**
+**Cảnh báo - đi cùng sát tinh:**
 - **HAO TÀI** vì ăn chơi
 - Bị **LỪA** khi đi xa`,
   },
@@ -222,7 +222,7 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
     doUuTien: 78,
     tomTat: `**Thiên Trù tại Quan Lộc** — hợp **ẨM THỰC, NHÀ HÀNG, HÀNG TIÊU DÙNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Hợp ngành **ĂN UỐNG, NHÀ HÀNG**
 - **KINH DOANH HÀNG TIÊU DÙNG**
 - "**HỢP VÍA**" với nghề
@@ -231,7 +231,7 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
 - **KIÊN TRÌ, TỈ MỈ, LÀM ĐÂU CHẮC ĐÓ**
 - Công việc **HANH THÔNG**, "**TIỀN VÀO NHƯ NƯỚC**"
 
-⚡ **Cảnh báo - Hóa Kỵ + Địa Không Địa Kiếp:**
+**Cảnh báo - Hóa Kỵ + Địa Không Địa Kiếp:**
 - Dễ **THẤT BẠI** do **QUẢN LÝ KÉM**
 - **TIÊU HAO QUÁ NHIỀU VỐN**`,
   },
@@ -244,16 +244,16 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
     doUuTien: 75,
     tomTat: `**Thiên Trù tại Nô Bộc** — bạn bè **THÂN THIỆN, DỄ MẾN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bạn bè / đồng nghiệp / nhân viên **THÂN THIỆN, DỄ MẾN**
 - Giúp đỡ trong công việc + chia sẻ **NIỀM VUI ẨM THỰC**
 - Có **BUỔI TỤ HỌP ĐẦM ẤM**
 - Mở rộng quan hệ qua **TIỆC TÙNG**
 
-⚡ **Đi cùng Thiên Phúc, Tả Phù, Hữu Bật:**
+**Đi cùng Thiên Phúc, Tả Phù, Hữu Bật:**
 - Cơ hội **KINH DOANH** đến từ **BỮA ĂN, BUỔI TIỆC**
 
-⚡ **Kết hợp Địa Kiếp, Kình Dương, Hóa Kỵ:**
+**Kết hợp Địa Kiếp, Kình Dương, Hóa Kỵ:**
 - Bị bạn bè **LỢI DỤNG**
 - "**ĂN CHÁO ĐÁ BÁT**"`,
   },
@@ -267,17 +267,17 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
     tomTat: `**Thiên Trù tại Điền Trạch** — gia đình **ĐẤT ĐAI, VƯỜN TƯỢC, NHÀ CỬA KHANG
 TRANG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **ĐẤT ĐAI, VƯỜN TƯỢC**
 - **NHÀ CỬA KHANG TRANG**
 - **BẾP NÚC LUÔN ĐỎ LỬA**
 - Cuộc sống gia đình **ẤM CÚNG, SUNG TÚC**
 - "**CỦA ĂN CỦA ĐỂ**" dồi dào
 
-⚡ **Hội Tả Phù + Hữu Bật + Thiên Phúc:**
+**Hội Tả Phù + Hữu Bật + Thiên Phúc:**
 - Làm **NÔNG NGHIỆP** hay **KINH DOANH THỰC PHẨM** dễ phát đạt
 
-⚡ **Cảnh báo - Kình Dương + Đà La:**
+**Cảnh báo - Kình Dương + Đà La:**
 - Phải **TỐN TIỀN SỬA SANG NHÀ CỬA** liên tục
 - **MUA SẮM QUÁ TAY**`,
   },
@@ -290,21 +290,21 @@ TRANG**.
     doUuTien: 75,
     tomTat: `**Thiên Trù tại Tật Ách** — sức khỏe **ỔN ĐỊNH, ÍT BỆNH VẶT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Sức khỏe **ỔN ĐỊNH, ÍT BỆNH VẶT**
 - Ốm đau **NHANH HỒI PHỤC** nhờ ăn uống hợp lý
 
-⚡ **Cảnh báo - "BỆNH TỪ MIỆNG MÀ VÀO":**
+**Cảnh báo - "BỆNH TỪ MIỆNG MÀ VÀO":**
 - Đam mê ẩm thực dễ **ĂN UỐNG VÔ ĐỘ**
 - Mắc bệnh **TIÊU HÓA, GAN, DẠ DÀY**
 
-⚡ **Bệnh nhẹ dễ chữa:**
+**Bệnh nhẹ dễ chữa:**
 - Gặp **THIÊN LƯƠNG, THIÊN PHÚC**
 
-⚡ **Bệnh hóa nặng:**
+**Bệnh hóa nặng:**
 - Gặp **KÌNH DƯƠNG, ĐÀ LA, HÓA KỴ**
 
-⚡ **Lời khuyên:**
+**Lời khuyên:**
 - Ăn uống **KHOA HỌC**, sinh hoạt **ĐIỀU ĐỘ**`,
   },
 
@@ -316,14 +316,14 @@ TRANG**.
     doUuTien: 78,
     tomTat: `**Thiên Trù tại Tài Bạch** — nguồn tài chính **ỔN ĐỊNH, ÍT TÚNG THIẾU**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Tiền bạc đến từ:
   - **KINH DOANH THỰC PHẨM, NÔNG SẢN**
   - **DỊCH VỤ ĂN UỐNG**
-- Biết chi tiêu hợp lý → "**CỦA ĂN CỦA ĐỂ**"
+- Biết chi tiêu hợp lý: "**CỦA ĂN CỦA ĐỂ**"
 - Cuộc sống **THỊNH VƯỢNG, PHÁT ĐẠT**
 
-⚡ **Cảnh báo - Kình Dương + Hóa Kỵ:**
+**Cảnh báo - Kình Dương + Hóa Kỵ:**
 - Tài chính dễ **THẤT THOÁT**
 - Do **ĂN CHƠI, TIÊU XÀI QUÁ ĐÀ**`,
   },
@@ -336,16 +336,16 @@ TRANG**.
     doUuTien: 78,
     tomTat: `**Thiên Trù tại Phu Thê** — đời sống hôn nhân **HÒA THUẬN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Vợ chồng dễ gắn kết qua **BỮA CƠM GIA ĐÌNH**
 - Biết **CHĂM SÓC NHAU** từ điều nhỏ nhặt
 
-⚡ **Đi cùng Văn Xương, Văn Khúc, Lộc Tồn:**
+**Đi cùng Văn Xương, Văn Khúc, Lộc Tồn:**
 - Bạn đời có **TAY NGHỀ NẤU NƯỚNG**
 - **CHI TIÊU HỢP LÝ**
 - Cuộc sống thêm **VIÊN MÃN**
 
-⚡ **Cảnh báo - Đào Hoa + Hóa Kỵ + Hồng Loan:**
+**Cảnh báo - Đào Hoa + Hóa Kỵ + Hồng Loan:**
 - **TỐN TIỀN** vì ăn chơi, tiệc tùng
 - Hoặc vì **NGƯỜI THỨ BA**`,
   },
@@ -358,13 +358,13 @@ TRANG**.
     doUuTien: 75,
     tomTat: `**Thiên Trù tại Huynh Đệ** — anh chị em **HÒA THUẬN, THÍCH TIỆC TÙNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Anh chị em **HÒA THUẬN**
 - Gắn kết qua **BỮA CƠM ĐẦM ẤM**
 - Giúp đỡ nhau về **KINH TẾ**
 - Cùng làm ăn trong lĩnh vực **THỰC PHẨM, ĂN UỐNG**
 
-⚡ **Cảnh báo - Địa Kiếp + Kình Dương:**
+**Cảnh báo - Địa Kiếp + Kình Dương:**
 - Anh em **BẤT HÒA**
 - **TRANH CHẤP TIỀN BẠC**`,
   },
@@ -377,18 +377,18 @@ TRANG**.
     doUuTien: 75,
     tomTat: `**Thiên Trù tại Tử Tức** — mệnh danh "**BẾP NHÀ TRỜI**".
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Con cái có **NIỀM ĐAM MÊ ẨM THỰC**
 - **THÍCH ĂN NGON, GIỎI NẤU NƯỚNG**
 - **KHÉO ĂN KHÉO NÓI**
 - **NGOAN NGOÃN, HIẾU THẢO**
 - Biết **HƯỞNG THỤ CUỘC SỐNG**
 
-⚡ **Cha mẹ:**
+**Cha mẹ:**
 - **CHI TIÊU NHIỀU CHO CON**
 - Nhận lại **NIỀM VUI, PHÚC ĐỨC**
 
-⚡ **Cảnh báo - Hóa Kỵ + Địa Kiếp:**
+**Cảnh báo - Hóa Kỵ + Địa Kiếp:**
 - Con cái **ĂN CHƠI, TIÊU XÀI NHIỀU**
 - **KHÔNG BIẾT GIỮ CỦA**
 - Gây **HAO TÁN** cho cha mẹ`,

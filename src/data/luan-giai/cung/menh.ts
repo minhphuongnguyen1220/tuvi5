@@ -26,7 +26,7 @@ toàn bộ 11 cung còn lại.
 Thông qua việc phân tích các sao cát hung trong Cung Mệnh, có thể suy đoán được
 vận mệnh tiên thiên, dung mạo, cá tính, tài năng và thành tựu của một người.
 
-→ Quan hệ đối xứng với cung đối diện được tách thành luận giải riêng.
+- Quan hệ đối xứng với cung đối diện được tách thành luận giải riêng.
 
 ## Ứng dụng khi xem lá số
 

@@ -17,13 +17,13 @@ export const luanGiai_HyThan: DoanLuanGiai[] = [
 
 **Hóa khí:** **THIỆN TINH**.
 
-⚡ **Tên gọi:** **"THẦN VUI VẺ"** — đóng cung nào thường **làm TỐT cho cung
+**Tên gọi:** **"THẦN VUI VẺ"** — đóng cung nào thường **làm TỐT cho cung
 đó**, **vui vẻ ở cung đó**.
 
 **Đặc tính:** **may mắn, vui vẻ, tăng tài lộc, cưới gả, sinh con, thi cử đỗ
 đạt**.
 
-⚡ **Nguyên tắc luận đoán:** Hỷ Thần đóng ở đâu là **BAN SỰ LÀNH** và **lợi**
+**Nguyên tắc luận đoán:** Hỷ Thần đóng ở đâu là **BAN SỰ LÀNH** và **lợi**
 cho cung đó.`,
   },
 
@@ -33,15 +33,15 @@ cho cung đó.`,
     sao: ['Hỷ Thần'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `🌟 **Hỷ Thần thủ Mệnh:** người **VUI TÍNH**, có lòng **độ lượng,
+    tomTat: `**Hỷ Thần thủ Mệnh:** người **VUI TÍNH**, có lòng **độ lượng,
 bao dung**.
 
-🌟 Hay gặp **MAY MẮN** — thể hiện trong:
+Hay gặp **MAY MẮN** — thể hiện trong:
 - **Cưới hỏi**
 - **Đỗ đạt**
 - **Tài lộc**
 
-→ Ảnh hưởng đối cung (Lực Sĩ chiếu) được tách thành luận giải riêng.`,
+- Ảnh hưởng đối cung (Lực Sĩ chiếu) được tách thành luận giải riêng.`,
   },
 
   {
@@ -51,7 +51,7 @@ bao dung**.
     cung: ['Mệnh'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
     doUuTien: 73,
-    tomTat: `⚠️ **Hỷ Thần tại Mệnh + Địa Không / Địa Kiếp + Hóa Kỵ:** dễ bị **MỤN NHỌT, BÚI TRĨ**.`,
+    tomTat: `**Hỷ Thần tại Mệnh + Địa Không / Địa Kiếp + Hóa Kỵ:** dễ bị **MỤN NHỌT, BÚI TRĨ**.`,
   },
 
   {
@@ -61,7 +61,7 @@ bao dung**.
     cung: ['Mệnh'],
     ketHop: ['Lực Sĩ'],
     doUuTien: 65,
-    tomTat: `⚡ **Đặc trưng vị thế** — Hỷ Thần thủ Mệnh thì đối cung luôn
+    tomTat: `**Đặc trưng vị thế** — Hỷ Thần thủ Mệnh thì đối cung luôn
 có Lực Sĩ chiếu về:
 - Ra ngoài **TỐT BỤNG**
 - Hay **giúp đỡ người khác**
@@ -76,7 +76,7 @@ có Lực Sĩ chiếu về:
     cung: ['Mệnh'],
     gioiTinh: 'Nam',
     doUuTien: 70,
-    tomTat: `🌟 **Hỷ Thần thủ Mệnh - Nam mệnh - tướng mạo (theo phú):**
+    tomTat: `**Hỷ Thần thủ Mệnh - Nam mệnh - tướng mạo (theo phú):**
 - **Mắt sâu, lông mày rậm** — tướng quý
 - Phong thái **vui tươi, độ lượng**
 - May mắn trong cưới hỏi, đỗ đạt, tài lộc`,
@@ -89,7 +89,7 @@ có Lực Sĩ chiếu về:
     cung: ['Mệnh'],
     gioiTinh: 'Nữ',
     doUuTien: 70,
-    tomTat: `🌟 **Hỷ Thần thủ Mệnh - Nữ mệnh - tướng mạo (theo phú):**
+    tomTat: `**Hỷ Thần thủ Mệnh - Nữ mệnh - tướng mạo (theo phú):**
 - **Tươi tắn, thần thái sáng ngời**
 - Phong thái **vui tươi, độ lượng**
 - May mắn trong cưới hỏi, đỗ đạt, tài lộc`,
@@ -101,10 +101,10 @@ có Lực Sĩ chiếu về:
     sao: ['Hỷ Thần'],
     cung: ['Phụ Mẫu'],
     doUuTien: 72,
-    tomTat: `🌟 **Hỷ Thần cư Phụ Mẫu:** cha mẹ **vui vẻ, hòa đồng**, được nhiều
+    tomTat: `**Hỷ Thần cư Phụ Mẫu:** cha mẹ **vui vẻ, hòa đồng**, được nhiều
 người **quý mến**.
 
-🌟 Cha mẹ **hay chia sẻ, tâm sự** mọi điều với con cái — bầu không khí gia
+Cha mẹ **hay chia sẻ, tâm sự** mọi điều với con cái — bầu không khí gia
 đình **ấm áp, nhiều tiếng cười**.`,
   },
 
@@ -115,7 +115,7 @@ người **quý mến**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Văn Xương', 'Văn Khúc', 'Ân Quang', 'Thiên Quý', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 67,
-    tomTat: `🌟 **Hỷ Thần tại Phụ Mẫu + Văn Xương / Văn Khúc / Ân Quang / Thiên Quý / Thiên Khôi / Thiên Việt:** tuổi thơ đương số đủ đầy hạnh phúc, được dạy dỗ nâng đỡ từ cha mẹ.`,
+    tomTat: `**Hỷ Thần tại Phụ Mẫu + Văn Xương / Văn Khúc / Ân Quang / Thiên Quý / Thiên Khôi / Thiên Việt:** tuổi thơ đương số đủ đầy hạnh phúc, được dạy dỗ nâng đỡ từ cha mẹ.`,
   },
 
   {
@@ -124,12 +124,12 @@ người **quý mến**.
     sao: ['Hỷ Thần'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `🌟 **Hỷ Thần cư Phúc Đức:** mọi người trong dòng họ **vui vẻ, thân
+    tomTat: `**Hỷ Thần cư Phúc Đức:** mọi người trong dòng họ **vui vẻ, thân
 thiện**, **quan tâm, quý mến nhau**.
 
-⚡ **Đặc trưng mộ phần:** mồ mả ở **bãi đất cát, đất nóng**.
+**Đặc trưng mộ phần:** mồ mả ở **bãi đất cát, đất nóng**.
 
-🌟 Chủ mệnh được tiếp thêm **động lực từ suy nghĩ tích cực**, **lạc quan** giúp
+Chủ mệnh được tiếp thêm **động lực từ suy nghĩ tích cực**, **lạc quan** giúp
 vượt qua thử thách.`,
   },
 
@@ -140,7 +140,7 @@ vượt qua thử thách.`,
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Hỷ'],
     doUuTien: 70,
-    tomTat: `🌟 **Hỷ Thần tại Phúc Đức + Thiên Hỷ** (Song Hỷ): nhà dễ có **MỒ KẾT MẢ PHÁT**.`,
+    tomTat: `**Hỷ Thần tại Phúc Đức + Thiên Hỷ** (Song Hỷ): nhà dễ có **MỒ KẾT MẢ PHÁT**.`,
   },
 
   {
@@ -149,12 +149,12 @@ vượt qua thử thách.`,
     sao: ['Hỷ Thần'],
     cung: ['Điền Trạch'],
     doUuTien: 72,
-    tomTat: `🌟 **Hỷ Thần cư Điền:** xung quanh nhà nhiều nơi **vui chơi, giải
+    tomTat: `**Hỷ Thần cư Điền:** xung quanh nhà nhiều nơi **vui chơi, giải
 trí**.
 
-🌟 Hay được **may mắn về đất cát**, dễ được **CHO, TẶNG của tiền**.
+Hay được **may mắn về đất cát**, dễ được **CHO, TẶNG của tiền**.
 
-⚡ Đất ở thường là nơi **đất NÓNG hay lẫn nhiều CÁT**.`,
+Đất ở thường là nơi **đất NÓNG hay lẫn nhiều CÁT**.`,
   },
 
   {
@@ -164,7 +164,7 @@ trí**.
     cung: ['Điền Trạch'],
     ketHop: ['Vũ Khúc', 'Thiên Phủ', 'Lộc Tồn', 'Hóa Lộc'],
     doUuTien: 67,
-    tomTat: `🌟 **Hỷ Thần tại Điền Trạch + Tài tinh:** đương số có thể mở **kinh doanh tổ chức sự kiện, nhà hàng, quán hát**.`,
+    tomTat: `**Hỷ Thần tại Điền Trạch + Tài tinh:** đương số có thể mở **kinh doanh tổ chức sự kiện, nhà hàng, quán hát**.`,
   },
 
   {
@@ -174,7 +174,7 @@ trí**.
     cung: ['Điền Trạch'],
     ketHop: ['Hóa Kỵ', 'Đà La', 'Linh Tinh', 'Phục Binh', 'Địa Kiếp'],
     doUuTien: 67,
-    tomTat: `⚠️ **Hỷ Thần tại Điền Trạch + Hóa Kỵ / Đà La / Linh Tinh / Phục Binh / Địa Kiếp:** bề ngoài xôm tụ nhưng bên trong **bất an, mâu thuẫn ngầm**, "**bằng mặt không bằng lòng**".`,
+    tomTat: `**Hỷ Thần tại Điền Trạch + Hóa Kỵ / Đà La / Linh Tinh / Phục Binh / Địa Kiếp:** bề ngoài xôm tụ nhưng bên trong **bất an, mâu thuẫn ngầm**, "**bằng mặt không bằng lòng**".`,
   },
 
   {
@@ -183,13 +183,13 @@ trí**.
     sao: ['Hỷ Thần'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `🌟 **Hỷ Thần cư Quan:** hay được **MAY MẮN** trong công việc, công
+    tomTat: `**Hỷ Thần cư Quan:** hay được **MAY MẮN** trong công việc, công
 danh — dễ có **TIẾNG TĂM, NỔI TIẾNG**, nhiều người hâm mộ.
 
-🌟 **Phù hợp các nghề** liên quan **giải trí, tổ chức sự kiện, vui chơi, nghệ
+**Phù hợp các nghề** liên quan **giải trí, tổ chức sự kiện, vui chơi, nghệ
 thuật**.
 
-⚡ **Đặc biệt nếu làm BÁC SĨ:** chuyên về **HẬU MÔN TRỰC TRÀNG**.`,
+**Đặc biệt nếu làm BÁC SĨ:** chuyên về **HẬU MÔN TRỰC TRÀNG**.`,
   },
 
   {
@@ -199,7 +199,7 @@ thuật**.
     cung: ['Quan Lộc'],
     ketHop: ['Hóa Khoa', 'Thiên Việt', 'Thái Dương'],
     doUuTien: 73,
-    tomTat: `🌟 **Hỷ Thần tại Quan Lộc + Hóa Khoa / Thiên Việt / Thái Dương miếu vượng:** sự nghiệp "**thuận buồm xuôi gió**".`,
+    tomTat: `**Hỷ Thần tại Quan Lộc + Hóa Khoa / Thiên Việt / Thái Dương miếu vượng:** sự nghiệp "**thuận buồm xuôi gió**".`,
   },
 
   {
@@ -208,10 +208,10 @@ thuật**.
     sao: ['Hỷ Thần'],
     cung: ['Nô Bộc'],
     doUuTien: 70,
-    tomTat: `🌟 **Hỷ Thần cư Nô:** môi trường có **nhiều bạn bè**, nhiều người
+    tomTat: `**Hỷ Thần cư Nô:** môi trường có **nhiều bạn bè**, nhiều người
 **vui tính, tốt bụng**, hay **giúp đỡ nhau**.
 
-🌟 Bạn bè **PHÓNG KHOÁNG**, không toan tính, hay làm vui lòng nhau, **rủ đi
+Bạn bè **PHÓNG KHOÁNG**, không toan tính, hay làm vui lòng nhau, **rủ đi
 chơi, hội tiệc**.`,
   },
 
@@ -222,7 +222,7 @@ chơi, hội tiệc**.`,
     cung: ['Nô Bộc'],
     ketHop: ['Đẩu Quân', 'Hóa Kỵ', 'Đà La', 'Phục Binh'],
     doUuTien: 65,
-    tomTat: `⚠️ **Hỷ Thần tại Nô Bộc + Đẩu Quân / Hóa Kỵ / Đà La / Phục Binh:** dễ gặp bạn bè **GIẢ TẠO** — bên ngoài cười nói nhưng **đâm sau lưng**.`,
+    tomTat: `**Hỷ Thần tại Nô Bộc + Đẩu Quân / Hóa Kỵ / Đà La / Phục Binh:** dễ gặp bạn bè **GIẢ TẠO** — bên ngoài cười nói nhưng **đâm sau lưng**.`,
   },
 
   {
@@ -231,7 +231,7 @@ chơi, hội tiệc**.`,
     sao: ['Hỷ Thần'],
     cung: ['Thiên Di'],
     doUuTien: 72,
-    tomTat: `🌟 **Hỷ Thần cư Di:** ra ngoài **VUI VẺ, hiền lành**, được nhiều
+    tomTat: `**Hỷ Thần cư Di:** ra ngoài **VUI VẺ, hiền lành**, được nhiều
 người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ, quý mến**.`,
   },
 
@@ -242,7 +242,7 @@ người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ,
     cung: ['Thiên Di'],
     ketHop: ['Hồng Loan', 'Đào Hoa'],
     doUuTien: 67,
-    tomTat: `🌟 **Hỷ Thần tại Thiên Di + Hồng Loan + Đào Hoa:** ra ngoài **NỔI TIẾNG**, đi xa **làm nên việc lớn**.`,
+    tomTat: `**Hỷ Thần tại Thiên Di + Hồng Loan + Đào Hoa:** ra ngoài **NỔI TIẾNG**, đi xa **làm nên việc lớn**.`,
   },
 
   {
@@ -252,7 +252,7 @@ người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ,
     cung: ['Thiên Di'],
     ketHop: ['Linh Tinh', 'Phục Binh', 'Hóa Kỵ'],
     doUuTien: 67,
-    tomTat: `⚠️ **Hỷ Thần tại Thiên Di + Linh Tinh / Phục Binh / Hóa Kỵ:** dễ bị hiểu lầm là **sống GIẢ TẠO**.`,
+    tomTat: `**Hỷ Thần tại Thiên Di + Linh Tinh / Phục Binh / Hóa Kỵ:** dễ bị hiểu lầm là **sống GIẢ TẠO**.`,
   },
 
   {
@@ -262,7 +262,7 @@ người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ,
     cung: ['Thiên Di'],
     ketHop: ['Tham Lang', 'Đào Hoa'],
     doUuTien: 67,
-    tomTat: `⚠️ **Hỷ Thần tại Thiên Di + Tham Lang / Đào Hoa:** bị cuốn vào **chốn phong lưu**, sa đà mối quan hệ phức tạp.`,
+    tomTat: `**Hỷ Thần tại Thiên Di + Tham Lang / Đào Hoa:** bị cuốn vào **chốn phong lưu**, sa đà mối quan hệ phức tạp.`,
   },
 
   {
@@ -271,10 +271,10 @@ người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ,
     sao: ['Hỷ Thần'],
     cung: ['Tật Ách'],
     doUuTien: 72,
-    tomTat: `⚠️ **Hỷ Thần cư Tật:** vì **vui chơi, giải trí quá đà** mà dễ mắc
+    tomTat: `**Hỷ Thần cư Tật:** vì **vui chơi, giải trí quá đà** mà dễ mắc
 **tai họa**.
 
-🌟 Khi mắc bệnh / gặp tai họa thường được **may mắn có người cứu giúp**.`,
+Khi mắc bệnh / gặp tai họa thường được **may mắn có người cứu giúp**.`,
   },
 
   {
@@ -284,7 +284,7 @@ người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ,
     cung: ['Tật Ách'],
     ketHop: ['Địa Kiếp', 'Điếu Khách'],
     doUuTien: 67,
-    tomTat: `⚠️ **Hỷ Thần tại Tật Ách + Địa Kiếp / Điếu Khách:** dễ có **BỆNH TRĨ, ung nhọt**.`,
+    tomTat: `**Hỷ Thần tại Tật Ách + Địa Kiếp / Điếu Khách:** dễ có **BỆNH TRĨ, ung nhọt**.`,
   },
 
   {
@@ -294,7 +294,7 @@ người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ,
     cung: ['Tật Ách'],
     ketHop: ['Đào Hoa', 'Thiên Riêu'],
     doUuTien: 67,
-    tomTat: `⚠️ **Hỷ Thần tại Tật Ách + Đào Hoa / Thiên Riêu:** người bệnh **MỘNG TINH**.`,
+    tomTat: `**Hỷ Thần tại Tật Ách + Đào Hoa / Thiên Riêu:** người bệnh **MỘNG TINH**.`,
   },
 
   {
@@ -304,7 +304,7 @@ người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ,
     cung: ['Tật Ách'],
     ketHop: ['Tham Lang', 'Đào Hoa'],
     doUuTien: 67,
-    tomTat: `⚠️ **Hỷ Thần tại Tật Ách + Tham Lang / Đào Hoa:** vì **chăn gối** mà sinh bệnh.`,
+    tomTat: `**Hỷ Thần tại Tật Ách + Tham Lang / Đào Hoa:** vì **chăn gối** mà sinh bệnh.`,
   },
 
   {
@@ -313,12 +313,12 @@ người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ,
     sao: ['Hỷ Thần'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `🌟 **Hỷ Thần cư Tài:** hay được **MAY MẮN VỀ TIỀN BẠC** — hay được
+    tomTat: `**Hỷ Thần cư Tài:** hay được **MAY MẮN VỀ TIỀN BẠC** — hay được
 **KHEN THƯỞNG, TRÚNG GIẢI**, được **trao tặng tiền bạc**.
 
-⚠️ Hay **chi tiêu tiền cho hoạt động giải trí, vui chơi**.
+Hay **chi tiêu tiền cho hoạt động giải trí, vui chơi**.
 
-⚠️ Bản chất "thần vui vẻ" là **NGẪU HỨNG, không đoán trước được** → may mắn
+Bản chất "thần vui vẻ" là **NGẪU HỨNG, không đoán trước được**: may mắn
 **KHÓ GIỮ LÂU** nếu không biết "liệu cơm gắp mắm".`,
   },
 
@@ -329,7 +329,7 @@ người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ,
     cung: ['Tài Bạch'],
     ketHop: ['Thiên Khôi', 'Thiên Việt', 'Hóa Lộc'],
     doUuTien: 70,
-    tomTat: `🌟 **Hỷ Thần tại Tài Bạch + Thiên Khôi / Thiên Việt / Hóa Lộc:** dễ **TRÚNG SỐ**, được lộc bất ngờ.`,
+    tomTat: `**Hỷ Thần tại Tài Bạch + Thiên Khôi / Thiên Việt / Hóa Lộc:** dễ **TRÚNG SỐ**, được lộc bất ngờ.`,
   },
 
   {
@@ -338,7 +338,7 @@ người **tin tưởng** và gặp **may mắn**, **nhiều người HÂM MỘ,
     sao: ['Hỷ Thần'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `🌟 **Hỷ Thần cư Tử Tức:** **MAY MẮN về đường con cái**.
+    tomTat: `**Hỷ Thần cư Tử Tức:** **MAY MẮN về đường con cái**.
 
 Con cái **thông minh, hòa đồng, vui vẻ, hiếu thảo** với cha mẹ — là **niềm tự
 hào** của cha mẹ.`,
@@ -351,7 +351,7 @@ hào** của cha mẹ.`,
     cung: ['Tử Tức'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Thiên Hình', 'Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `⚠️ **Hỷ Thần tại Tử Tức + Sát tinh + Thiên Hình + Hóa Kỵ:** chuyện sinh nở dễ trải qua "**thập tử nhất sinh**".`,
+    tomTat: `**Hỷ Thần tại Tử Tức + Sát tinh + Thiên Hình + Hóa Kỵ:** chuyện sinh nở dễ trải qua "**thập tử nhất sinh**".`,
   },
 
   {
@@ -360,11 +360,11 @@ hào** của cha mẹ.`,
     sao: ['Hỷ Thần'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `🌟 **Hỷ Thần cư Phu Thê:** đóng cung nào ban sự lành cho cung đó →
+    tomTat: `**Hỷ Thần cư Phu Thê:** đóng cung nào ban sự lành cho cung đó
 ở Phu Thê là **MAY MẮN trong hôn nhân**, dễ gặp người **TƯƠNG ĐẦU Ý HỢP**,
 thuận lợi kết hôn và sinh sống.
 
-🌟 Bản thân khi kết hôn xong thường gặp **MAY MẮN** từ người hôn phối đem lại.`,
+Bản thân khi kết hôn xong thường gặp **MAY MẮN** từ người hôn phối đem lại.`,
   },
 
   {
@@ -374,7 +374,7 @@ thuận lợi kết hôn và sinh sống.
     cung: ['Phu Thê'],
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 73,
-    tomTat: `🌟 **Hỷ Thần tại Phu Thê + Đào Hoa / Hồng Loan:** vợ chồng **xứng đôi vừa lứa, vui vẻ hòa thuận**.`,
+    tomTat: `**Hỷ Thần tại Phu Thê + Đào Hoa / Hồng Loan:** vợ chồng **xứng đôi vừa lứa, vui vẻ hòa thuận**.`,
   },
 
   {
@@ -384,7 +384,7 @@ thuận lợi kết hôn và sinh sống.
     cung: ['Phu Thê'],
     ketHop: ['Văn Xương', 'Văn Khúc'],
     doUuTien: 73,
-    tomTat: `🌟 **Hỷ Thần tại Phu Thê + Văn Xương / Văn Khúc:** truyền **năng lượng tích cực** cho nhau.`,
+    tomTat: `**Hỷ Thần tại Phu Thê + Văn Xương / Văn Khúc:** truyền **năng lượng tích cực** cho nhau.`,
   },
 
   {
@@ -394,7 +394,7 @@ thuận lợi kết hôn và sinh sống.
     cung: ['Phu Thê'],
     ketHop: ['Vũ Khúc', 'Thất Sát', 'Thiên Đồng', 'Thiên Lương', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Thiên Hình', 'Hóa Kỵ'],
     doUuTien: 73,
-    tomTat: `⚠️ **Hỷ Thần tại Phu Thê + Vũ Khúc / Thất Sát / Thiên Đồng / Thiên Lương + Sát + Thiên Hình + Hóa Kỵ vây chiếu:** vợ chồng **ít chia sẻ niềm vui** với nhau, biến thành **niềm vui MỘT MÌNH**.`,
+    tomTat: `**Hỷ Thần tại Phu Thê + Vũ Khúc / Thất Sát / Thiên Đồng / Thiên Lương + Sát + Thiên Hình + Hóa Kỵ vây chiếu:** vợ chồng **ít chia sẻ niềm vui** với nhau, biến thành **niềm vui MỘT MÌNH**.`,
   },
 
   {
@@ -403,7 +403,7 @@ thuận lợi kết hôn và sinh sống.
     sao: ['Hỷ Thần'],
     cung: ['Huynh Đệ'],
     doUuTien: 70,
-    tomTat: `🌟 **Hỷ Thần cư Huynh Đệ:** anh chị em **VUI TÍNH, tốt bụng**, hay
+    tomTat: `**Hỷ Thần cư Huynh Đệ:** anh chị em **VUI TÍNH, tốt bụng**, hay
 thích **vui chơi, lạc thú**.`,
   },
 
@@ -414,7 +414,7 @@ thích **vui chơi, lạc thú**.`,
     cung: ['Huynh Đệ'],
     ketHop: ['Văn Xương', 'Văn Khúc', 'Hóa Khoa', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 65,
-    tomTat: `🌟 **Hỷ Thần tại Huynh Đệ + Sao chủ khoa bảng, danh tiếng (Văn Xương / Văn Khúc / Hóa Khoa / Khôi Việt):** anh em khăng khít, có khả năng **giúp nhau thăng tiến**, đương số được **"thơm lây"**.`,
+    tomTat: `**Hỷ Thần tại Huynh Đệ + Sao chủ khoa bảng, danh tiếng (Văn Xương / Văn Khúc / Hóa Khoa / Khôi Việt):** anh em khăng khít, có khả năng **giúp nhau thăng tiến**, đương số được **"thơm lây"**.`,
   },
 
   {
@@ -424,7 +424,7 @@ thích **vui chơi, lạc thú**.`,
     cung: ['Huynh Đệ'],
     ketHop: ['Thiên Riêu'],
     doUuTien: 65,
-    tomTat: `⚠️ **Hỷ Thần tại Huynh Đệ + Thiên Riêu:** anh chị em có thói **CHƠI BỜI, phóng túng, hoang phí**.`,
+    tomTat: `**Hỷ Thần tại Huynh Đệ + Thiên Riêu:** anh chị em có thói **CHƠI BỜI, phóng túng, hoang phí**.`,
   },
 
   {
@@ -434,7 +434,7 @@ thích **vui chơi, lạc thú**.`,
     cung: ['Huynh Đệ'],
     ketHop: ['Đào Hoa', 'Thai', 'Phục Binh'],
     doUuTien: 65,
-    tomTat: `⚠️ **Hỷ Thần tại Huynh Đệ + Đào Hoa + Thai + Phục Binh:** anh chị em có thói **DÂM Ô** — trai hoang đãng, gái dẫn đến việc **theo trai bỏ nhà, chửa hoang**.`,
+    tomTat: `**Hỷ Thần tại Huynh Đệ + Đào Hoa + Thai + Phục Binh:** anh chị em có thói **DÂM Ô** — trai hoang đãng, gái dẫn đến việc **theo trai bỏ nhà, chửa hoang**.`,
   },
 
   {
@@ -443,14 +443,14 @@ thích **vui chơi, lạc thú**.`,
     sao: ['Hỷ Thần'],
     ketHop: ['Long Trì', 'Phượng Các'],
     doUuTien: 65,
-    tomTat: `🌟 **Hỷ Thần + Long Trì + Phượng Các:** chủ sự **vui mừng**, báo
+    tomTat: `**Hỷ Thần + Long Trì + Phượng Các:** chủ sự **vui mừng**, báo
 hiệu **MAY MẮN** về:
 - **Thi cử**
 - **Công danh**
 - **Hôn nhân**
 - **Sinh nở**
 
-→ **Điềm lành về NHIỀU MẶT**.`,
+- **Điềm lành về NHIỀU MẶT**.`,
   },
 
   {
@@ -459,7 +459,7 @@ hiệu **MAY MẮN** về:
     sao: ['Hỷ Thần'],
     ketHop: ['Long Trì', 'Phượng Các', 'Văn Xương', 'Văn Khúc', 'Hóa Khoa', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 60,
-    tomTat: `🌟 **Hỷ Thần + Long Trì + Phượng Các + Văn Xương + Văn Khúc + Hóa Khoa + Thiên Khôi + Thiên Việt:** **"hổ mọc thêm cánh"**, đầu đội **SỔ VÀNG**, đạt thành tích cao trong học tập/thi tuyển hoặc **đứng đầu** trong lĩnh vực theo đuổi.`,
+    tomTat: `**Hỷ Thần + Long Trì + Phượng Các + Văn Xương + Văn Khúc + Hóa Khoa + Thiên Khôi + Thiên Việt:** **"hổ mọc thêm cánh"**, đầu đội **SỔ VÀNG**, đạt thành tích cao trong học tập/thi tuyển hoặc **đứng đầu** trong lĩnh vực theo đuổi.`,
   },
 
   {
@@ -468,10 +468,10 @@ hiệu **MAY MẮN** về:
     sao: ['Hỷ Thần'],
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 65,
-    tomTat: `🌟 **Hỷ Thần + Đào Hoa hoặc Hồng Loan:** có sự **MAY MẮN VỀ TÌNH
+    tomTat: `**Hỷ Thần + Đào Hoa hoặc Hồng Loan:** có sự **MAY MẮN VỀ TÌNH
 DUYÊN, TÌNH ÁI**, dễ **CƯỚI VỢ GẢ CHỒNG**.
 
-→ Đặc biệt khi **đại hạn / tiểu hạn** xuất hiện cách này → cưới hỏi là chuyện
+- Đặc biệt khi **đại hạn / tiểu hạn** xuất hiện cách này: cưới hỏi là chuyện
 **chắc chắn**.`,
   },
 
@@ -481,7 +481,7 @@ DUYÊN, TÌNH ÁI**, dễ **CƯỚI VỢ GẢ CHỒNG**.
     sao: ['Hỷ Thần'],
     ketHop: ['Đào Hoa', 'Hồng Loan', 'Hóa Khoa', 'Hóa Lộc', 'Hóa Quyền'],
     doUuTien: 60,
-    tomTat: `🌟 **Hỷ Thần + Đào Hoa / Hồng Loan + Hóa Khoa / Hóa Lộc / Hóa Quyền** nâng đỡ: việc cưới xin "**thiên thời, địa lợi, nhân hòa**", gia đình hai bên vui vẻ, "**môn đăng hộ đối**", mái ấm trọn vẹn.`,
+    tomTat: `**Hỷ Thần + Đào Hoa / Hồng Loan + Hóa Khoa / Hóa Lộc / Hóa Quyền** nâng đỡ: việc cưới xin "**thiên thời, địa lợi, nhân hòa**", gia đình hai bên vui vẻ, "**môn đăng hộ đối**", mái ấm trọn vẹn.`,
   },
 
   {
@@ -489,7 +489,7 @@ DUYÊN, TÌNH ÁI**, dễ **CƯỚI VỢ GẢ CHỒNG**.
     title: 'Hỷ Thần + Cát tinh - xúc tác',
     sao: ['Hỷ Thần'],
     doUuTien: 60,
-    tomTat: `🌟 **Hỷ Thần** khi ghép với các sao tốt sẽ **làm LỢI THÊM cát tinh** — Hỷ Thần là sao "**xúc tác**" cho cát tinh phát huy mạnh hơn.
+    tomTat: `**Hỷ Thần** khi ghép với các sao tốt sẽ **làm LỢI THÊM cát tinh** — Hỷ Thần là sao "**xúc tác**" cho cát tinh phát huy mạnh hơn.
 
 (Xem entry chuyên biệt theo từng cát tinh đi kèm.)`,
   },
@@ -500,7 +500,7 @@ DUYÊN, TÌNH ÁI**, dễ **CƯỚI VỢ GẢ CHỒNG**.
     sao: ['Hỷ Thần'],
     ketHop: ['Thiên Mã'],
     doUuTien: 55,
-    tomTat: `🌟 **Hỷ Thần + Thiên Mã:** **đắc lợi về vận hội**.`,
+    tomTat: `**Hỷ Thần + Thiên Mã:** **đắc lợi về vận hội**.`,
   },
 
   {
@@ -509,7 +509,7 @@ DUYÊN, TÌNH ÁI**, dễ **CƯỚI VỢ GẢ CHỒNG**.
     sao: ['Hỷ Thần'],
     ketHop: ['Hóa Lộc'],
     doUuTien: 55,
-    tomTat: `🌟 **Hỷ Thần + Hóa Lộc:** đắc lợi về **TIỀN BẠC**.`,
+    tomTat: `**Hỷ Thần + Hóa Lộc:** đắc lợi về **TIỀN BẠC**.`,
   },
 
   {
@@ -518,7 +518,7 @@ DUYÊN, TÌNH ÁI**, dễ **CƯỚI VỢ GẢ CHỒNG**.
     sao: ['Hỷ Thần'],
     ketHop: ['Phong Cáo', 'Quốc Ấn'],
     doUuTien: 55,
-    tomTat: `🌟 **Hỷ Thần + Phong Cáo / Quốc Ấn:** đắc lợi về **DANH GIÁ**.`,
+    tomTat: `**Hỷ Thần + Phong Cáo / Quốc Ấn:** đắc lợi về **DANH GIÁ**.`,
   },
 
   {
@@ -526,9 +526,9 @@ DUYÊN, TÌNH ÁI**, dễ **CƯỚI VỢ GẢ CHỒNG**.
     title: 'Hỷ Thần vào hạn',
     sao: ['Hỷ Thần'],
     doUuTien: 50,
-    tomTat: `🌟 **Hạn có Hỷ Thần:** báo hiệu **HỶ SỰ, MAY MẮN**.
+    tomTat: `**Hạn có Hỷ Thần:** báo hiệu **HỶ SỰ, MAY MẮN**.
 
-→ Tùy các sao đi kèm để giải đoán phương diện nào được may mắn.`,
+- Tùy các sao đi kèm để giải đoán phương diện nào được may mắn.`,
   },
 
   {
@@ -537,7 +537,7 @@ DUYÊN, TÌNH ÁI**, dễ **CƯỚI VỢ GẢ CHỒNG**.
     sao: ['Hỷ Thần'],
     ketHop: ['Điếu Khách'],
     doUuTien: 45,
-    tomTat: `⚠️ **Hạn có Hỷ Thần + Điếu Khách:** sự may mắn **SUY GIẢM** hoặc **TIÊU TÁN** vì niềm vui dễ từ **bê trễ, ăn chơi, cờ bạc**.`,
+    tomTat: `**Hạn có Hỷ Thần + Điếu Khách:** sự may mắn **SUY GIẢM** hoặc **TIÊU TÁN** vì niềm vui dễ từ **bê trễ, ăn chơi, cờ bạc**.`,
   },
 
   {
@@ -546,7 +546,7 @@ DUYÊN, TÌNH ÁI**, dễ **CƯỚI VỢ GẢ CHỒNG**.
     sao: ['Hỷ Thần'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 45,
-    tomTat: `⚠️ **Hạn có Hỷ Thần + Hung tinh (Lục Sát):** niềm vui dễ **biến tướng** — từ tích cực thành **tích cực độc hại**:
+    tomTat: `**Hạn có Hỷ Thần + Hung tinh (Lục Sát):** niềm vui dễ **biến tướng** — từ tích cực thành **tích cực độc hại**:
 - Suy nghĩ **tiêu cực**, ân hận vì quyết định hấp tấp
 - Thất vọng khi sự việc đi **lệch khỏi mong muốn**
 - "**Dục tốc bất đạt**" — vui mừng cũng cần giữ **tâm tĩnh tại**`,

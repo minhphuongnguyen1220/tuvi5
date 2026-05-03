@@ -23,28 +23,28 @@ LINH** (Long Trì - Phượng Các - Bạch Hổ - Hoa Cái).
 
 **Ngũ hành:** **Kim**.
 
-⚡ **Hình tượng:** **CHIẾC LỌNG CHE** uy nghi trong lễ rước trạng nguyên.
+**Hình tượng:** **CHIẾC LỌNG CHE** uy nghi trong lễ rước trạng nguyên.
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - **TRÍ TUỆ, KHÍ CHẤT THANH CAO, PHÚ QUÝ**
 - **DANH VỌNG, ĐỖ ĐẠT, PHỤNG SỰ**
 - Yêu cái đẹp, tôn trọng **NGHI THỨC, KHUÔN PHÉP**
 - Nhiều trường hợp gắn với **TÂM LINH** hoặc **NGHỆ THUẬT**
 - Tính cách thông tuệ, chăm chỉ, chịu khó nhưng có phần **BẢO THỦ, SĨ DIỆN**
 
-⚡ **Ảnh hưởng chính:**
+**Ảnh hưởng chính:**
 - Làm **NỔI BẬT TÀI NĂNG**, nâng cao **ĐỊA VỊ và UY TÍN** cá nhân
 - Tạo nền tảng **PHÚC ĐỨC**, hỗ trợ **HỌC HÀNH, THI CỬ, CÔNG DANH**
 - Gặp sao xấu dễ thành **BẢO THỦ, SĨ DIỆN**
 
-⚡ **Bộ cát tinh giống Hoa Cái:** Long Trì, Phượng Các, Văn Xương, Văn Khúc,
+**Bộ cát tinh giống Hoa Cái:** Long Trì, Phượng Các, Văn Xương, Văn Khúc,
 Thiên Khôi, Thiên Việt.
 
-⚡ **Duyên vận:**
+**Duyên vận:**
 - Nhân duyên tốt, dễ thu hút thiện cảm từ người **KHÁC GIỚI**
 - Bạn đời có **ĐỊA VỊ** hoặc **XUẤT THÂN TỐT**
 
-⚡ **Sự nghiệp:**
+**Sự nghiệp:**
 - Thường được **QUÝ NHÂN NÂNG ĐỠ**
 - Dễ đạt **THÀNH TỰU LÂU DÀI** nếu biết nắm bắt cơ hội`,
   },
@@ -62,11 +62,11 @@ Thiên Khôi, Thiên Việt.
     tomTat: `**Hoa Cái tại Mệnh** — vừa là dấu hiệu **MAY MẮN**, vừa khơi dậy **KHÍ CHẤT
 THANH CAO**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ được **TRỌNG VỌNG**, được **QUÝ NHÂN NÂNG ĐỠ**
 - Trên đường **CÔNG DANH, TÀI LỘC** đều có thuận lợi
 
-⚡ **Dung mạo (cả nam và nữ):**
+**Dung mạo (cả nam và nữ):**
 - **PHONG THÁI SANG TRỌNG**, khí chất nổi bật
 - Dễ tạo **THIỆN CẢM** ngay từ ánh nhìn đầu tiên
 - **THÂN HÌNH ĐẦY ĐẶN**, gương mặt sáng
@@ -74,12 +74,12 @@ THANH CAO**.
 - Khác Đào Hoa (hấp dẫn bề ngoài), Hoa Cái cuốn hút nhờ **PHONG CÁCH CHỈN
   CHU, TINH TẾ và VẺ ĐẸP TRÍ TUỆ**
 
-⚡ **Tính cách:**
+**Tính cách:**
 - **THÔNG TUỆ, CHĂM CHỈ, CHỊU KHÓ** nhưng có phần **BẢO THỦ**
 - Yêu cái đẹp, ưa **TRƯNG DIỆN**, thích thu hút sự chú ý
 - Dễ trải qua **HỈ - NỘ - ÁI - Ố** trong cuộc đời
 
-⚡ **Tâm linh:**
+**Tâm linh:**
 - Thường mang **CĂN SỐ TÂM LINH**
 - **GIÁC QUAN THỨ SÁU** nhạy bén
 - Cảm nhận được điều người khác không thể thấy
@@ -96,7 +96,7 @@ THANH CAO**.
     tomTat: `**Hoa Cái + Văn Xương/Văn Khúc/Thiên Khôi/Hóa Quyền tại Mệnh** — người
 **VỪA CÓ TÀI, VỪA CÓ THẾ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ bước vào **HÀNG NGŨ ĐƯỢC TRỌNG VỌNG**
 - Có **VĂN TÀI + QUYỀN UY** kết hợp
 - Học hành thi cử đỗ đạt
@@ -113,7 +113,7 @@ THANH CAO**.
     tomTat: `**Bộ Tiền Cái - Hậu Mã** (Hoa Cái + Thiên Mã) hoặc **Cái - Mộc - Riêu** (Hoa
 Cái + Mộc Dục + Thiên Riêu) — thúc đẩy mạnh **KHẢ NĂNG KINH DOANH**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Đưa đến **GIÀU SANG**
 - **VỊ THẾ CAO** trong xã hội
 - Khả năng **GIAO DỊCH, THƯƠNG MẠI** xuất sắc
@@ -133,14 +133,14 @@ Cái + Mộc Dục + Thiên Riêu) — thúc đẩy mạnh **KHẢ NĂNG KINH DO
     tomTat: `**Hoa Cái tại Phụ Mẫu** — đủ bộ **TỨ LINH** (Long Trì - Phượng Các - Bạch Hổ
 - Hoa Cái) cùng cung.
 
-⚡ **Đặc trưng cha mẹ:**
+**Đặc trưng cha mẹ:**
 - **BIẾT QUÁN XUYẾN GIA ĐÌNH, GIỎI GIANG, CHU TOÀN**
 - Sự đảm đang đi với tính cách **GHÊ GỚM, NGHIÊM KHẮC**
 - Có phần **ÁP ĐẶT** con cái phải theo ý mình
 
-⚡ **Kinh tế:**
-- Nhờ **NHÂN DUYÊN TỐT** và **CHĂM CHỈ** → tự gây dựng **NỀN TẢNG VỮNG VÀNG**
-- Gặp thêm cát tinh → **ĐỊA VỊ XÃ HỘI CAO**, sự nghiệp thăng hoa
+**Kinh tế:**
+- Nhờ **NHÂN DUYÊN TỐT** và **CHĂM CHỈ**: tự gây dựng **NỀN TẢNG VỮNG VÀNG**
+- Gặp thêm cát tinh: **ĐỊA VỊ XÃ HỘI CAO**, sự nghiệp thăng hoa
 - Danh tiếng gia đình **NHIỀU NGƯỜI KÍNH NỂ**`,
   },
 
@@ -152,16 +152,16 @@ Cái + Mộc Dục + Thiên Riêu) — thúc đẩy mạnh **KHẢ NĂNG KINH DO
     doUuTien: 75,
     tomTat: `**Hoa Cái tại Phu Thê** — hôn nhân mang đậm nét **HÀO HOA**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cả hai vợ chồng đều thích **TRƯNG DIỆN, ĐIỆU ĐÀ**
 - Có đôi phần **BẢO THỦ**
 
-⚡ **Bạn đời:**
+**Bạn đời:**
 - Thường xuất thân từ **GIA ĐÌNH DANH GIÁ**
 - **ĐIỀU KIỆN KINH TẾ TỐT**
 - Có thể hỗ trợ mạnh mẽ về **TÀI CHÍNH lẫn VỊ THẾ XÃ HỘI**
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Sự sung túc và **TÂM LÝ Ỷ LẠI** dễ khiến mối quan hệ tựa **BÌNH PHONG**
 - **ĐẸP NHƯNG RỖNG RUỘT**
 - Thiếu sự **GẮN KẾT** và **ĐỘNG LỰC CÙNG TIẾN**`,
@@ -177,7 +177,7 @@ Cái + Mộc Dục + Thiên Riêu) — thúc đẩy mạnh **KHẢ NĂNG KINH DO
     tomTat: `**Hoa Cái + Tam Thai - Bát Tọa hoặc Ân Quang - Thiên Quý tại Phu Thê** — vợ
 chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **CHIỀU CHUỘNG QUÁ ĐÀ** dẫn đến **LƯỜI BIẾNG**
 - Cả hai dễ **Ỷ LẠI** vào nhau
 - Mất đi **ĐỘNG LỰC CẦU TIẾN**`,
@@ -192,15 +192,15 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     tomTat: `**Hoa Cái tại Điền Trạch** — như **THÀNH TRÌ VỮNG VÀNG** che chở cho gia
 đạo.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **NHÀ CAO CỬA RỘNG**
 - **BẤT ĐỘNG SẢN CÓ GIÁ TRỊ**
 - Khả năng **TÍCH LŨY LÂU DÀI**
-- Gặp cách cục đẹp → giữ được cơ nghiệp + khéo **SINH LỢI TỪ BĐS**
+- Gặp cách cục đẹp: giữ được cơ nghiệp + khéo **SINH LỢI TỪ BĐS**
 - **LÃI MẸ ĐẺ LÃI CON**, giàu sang càng thêm sung túc
 
-⚡ **Cảnh báo:**
-- Vào vận xấu hoặc gặp sát tinh → thành lũy **RẠN NỨT**
+**Cảnh báo:**
+- Vào vận xấu hoặc gặp sát tinh: thành lũy **RẠN NỨT**
 - **TRANH CHẤP ĐẤT ĐAI**
 - **HAO HỤT TÀI SẢN** hoặc **NHÀ CỬA XUỐNG CẤP**
 - Cẩn trọng khi đầu tư lớn`,
@@ -214,7 +214,7 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     doUuTien: 78,
     tomTat: `**Hoa Cái tại Quan Lộc** — báo hiệu **ĐIỀM LÀNH** trong đường công danh.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ **GÂY DỰNG UY TÍN**
 - Làm việc **HIỆU QUẢ**
 - Được **NGƯỜI TRÊN KẺ DƯỚI KÍNH TRỌNG**
@@ -231,7 +231,7 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     tomTat: `**Hoa Cái + Ân Quang Thiên Quý + Xương Khúc + Long Phượng tại Quan Lộc** —
 **THĂNG TIẾN + THI CỬ ĐỖ ĐẠT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cơ hội **THĂNG TIẾN RỘNG MỞ**
 - **THI CỬ ĐỖ ĐẠT** mỹ mãn
 - Bộ sao **VĂN HIỂN + KHOA BẢNG** đầy đủ
@@ -246,19 +246,19 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     doUuTien: 75,
     tomTat: `**Hoa Cái tại Thiên Di** — phần nào tương đồng cách thủ ở vị trí gốc.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Tỏa ra **SỨC HÚT ĐẶC BIỆT**
 - Dễ khiến **NGƯỜI TRÊN KẺ DƯỚI THƯƠNG MẾN**
 - Tính tình **VUI VẺ, CỞI MỞ**
 - Lời ăn tiếng nói **KHÉO LÉO**
 - Có **NÉT DUYÊN NGẦM** khó lẫn
 
-⚡ **Phù hợp:**
+**Phù hợp:**
 - Công việc cần **GIAO TIẾP, THƯƠNG LƯỢNG**
 - **TIẾP TÂN, NGOẠI GIAO, ĐẠI DIỆN THƯƠNG MẠI**
 
-⚡ **Cảnh báo:**
-- Đi cùng **SÁT TINH** → sự nổi bật quá mức trở thành **CON DAO HAI LƯỠI**
+**Cảnh báo:**
+- Đi cùng **SÁT TINH**: sự nổi bật quá mức trở thành **CON DAO HAI LƯỠI**
 - Mang đến **THỊ PHI, RẮC RỐI** không đáng có`,
   },
 
@@ -270,13 +270,13 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     doUuTien: 75,
     tomTat: `**Hoa Cái tại Nô Bộc** — bạn bè đa số là **QUYỀN THẾ, GIÀU CÓ, GIỎI GIANG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Đi đâu cũng có người **LĂN XẢ GIÚP ĐỠ**
 - **HẾT LÒNG HẬU THUẪN** như cánh tay phải đắc lực
-- Trong môi trường **NGHỆ THUẬT, GIẢI TRÍ** → hay có cơ duyên gặp **NGƯỜI
+- Trong môi trường **NGHỆ THUẬT, GIẢI TRÍ**: hay có cơ duyên gặp **NGƯỜI
   NỔI TIẾNG**
 
-⚡ **Gặp thêm cát tinh:**
+**Gặp thêm cát tinh:**
 - Vận **QUÝ NHÂN** càng mạnh
 - Mối quan hệ trở thành **BỆ PHÓNG** giúp sự nghiệp + tài chính thăng hoa`,
   },
@@ -289,16 +289,16 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     doUuTien: 75,
     tomTat: `**Hoa Cái tại Tật Ách** — như được trời trao **"CON MẮT THỨ BA"**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **TRỰC GIÁC NHẠY BÉN**
 - Dễ cảm nhận điều **HUYỀN BÍ**
 - Có **GIẤC MƠ LINH ỨNG**
 - Dấu hiệu **CĂN SỐ TÂM LINH**, nhất là khi có thêm các sao huyền diệu
 
-⚡ **Cảnh báo bệnh tình:**
+**Cảnh báo bệnh tình:**
 - Liên quan **BỆNH TÌNH DỤC, SỨC KHỎE SINH LÝ**
 - Đặc biệt khi hội cùng **ĐÀO HOA, THIÊN RIÊU, MỘC DỤC**
-- Gặp sát tinh → bệnh **ÂM Ỉ, KHÓ KIỂM SOÁT, MÃN TÍNH**
+- Gặp sát tinh: bệnh **ÂM Ỉ, KHÓ KIỂM SOÁT, MÃN TÍNH**
 - Nên chú trọng **PHÒNG BỆNH TỪ SỚM**`,
   },
 
@@ -312,9 +312,9 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     tomTat: `**Hoa Cái + Đào Hoa - Thiên Riêu - Mộc Dục tại Tật Ách** — cảnh báo
 **BỆNH TÌNH DỤC, SỨC KHỎE SINH LÝ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bệnh **SINH LÝ, TÌNH DỤC**
-- Gặp thêm sát tinh → **ÂM Ỉ, KHÓ KIỂM SOÁT, MÃN TÍNH**
+- Gặp thêm sát tinh: **ÂM Ỉ, KHÓ KIỂM SOÁT, MÃN TÍNH**
 - Cần phòng bệnh sớm`,
   },
 
@@ -326,13 +326,13 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     doUuTien: 75,
     tomTat: `**Hoa Cái tại Tài Bạch** — **SAY MÊ KIẾM TIỀN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Sống theo phương châm **"ĐÃ BƯỚC LÀ PHẢI TIẾN"**
 - **KHÔNG BAO GIỜ BẰNG LÒNG VỚI HIỆN TẠI**
 - Có **CỦA ĐỂ DÀNH KÍN ĐÁO** trong nhà
 - Dưới quyền có người phụ giúp tạo **NGUỒN THU ỔN ĐỊNH**
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Quá tập trung sự nghiệp dễ **BỎ QUÊN GIA ĐÌNH**
 - Đặc biệt **ÍT CHĂM SÓC CON CÁI**`,
   },
@@ -347,7 +347,7 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     tomTat: `**Hoa Cái + Thiên Mã - Lộc Tồn - Hóa Lộc tại Tài Bạch** — bộ sao **TÀI LỘC
 ĐẦY ĐỦ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ **NẮM BẮT CƠ HỘI TỐT** để sinh lời
 - **TIỀN BẠC RỦNG RỈNH**
 - Có **NGUỒN THU ỔN ĐỊNH**
@@ -362,13 +362,13 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     doUuTien: 75,
     tomTat: `**Hoa Cái tại Tử Tức** — con cái bộc lộ **TƯ CHẤT THÔNG MINH** từ nhỏ.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Con cái **THÔNG MINH, GIỎI GIANG, CÓ CHÍ TIẾN THỦ** từ nhỏ
 - Kinh tế vững vàng giúp con hưởng **ĐIỀU KIỆN TỐT**
 - Phát triển trong **HỌC HÀNH và SỰ NGHIỆP**
 
-⚡ **Cảnh báo - con dao hai lưỡi:**
-- Cha mẹ **NUÔNG CHIỀU QUÁ MỨC** → **YÊU QUÁ HÓA HƯ CON**
+**Cảnh báo - con dao hai lưỡi:**
+- Cha mẹ **NUÔNG CHIỀU QUÁ MỨC**: **YÊU QUÁ HÓA HƯ CON**
 - Con thêm phần **BƯỚNG BỈNH, KHÓ BẢO**
 - Trưởng thành có xu hướng **SỐNG ĐỘC LẬP**, ít dựa gia đình
 - Cha mẹ **KHÓ ĐƯỢC NƯƠNG NHỜ** về sau`,
@@ -382,18 +382,18 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     doUuTien: 75,
     tomTat: `**Hoa Cái tại Phúc Đức** — tựa **NGỌN ĐÈN TỔ** soi sáng cả gia tộc.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **MỒ MẢ DÒNG HỌ YÊN ẤM** ở thế đất đẹp, **PHONG THỦY THUẬN**
 - Tạo **GỐC PHÚC VỮNG CHÃI** cho con cháu đời sau
 - Gia phả xuất hiện những bậc **HIỂN ĐẠT, VINH QUY BÁI TỔ**
 - Để lại **DANH THƠM BẢNG VÀNG**
 
-⚡ **Phúc phần:**
+**Phúc phần:**
 - Con cháu đời sau thêm **SÁNG DẠ, THÔNG TUỆ**
 - Sớm **ĐỊNH HƯỚNG TƯƠNG LAI**, dễ đạt thành tựu
 
-⚡ **Cảnh báo:**
-- Gặp sao xấu → dòng họ **PHÁT SINH MÂU THUẪN**
+**Cảnh báo:**
+- Gặp sao xấu: dòng họ **PHÁT SINH MÂU THUẪN**
 - Phúc khí **DẦN MAI MỘT**`,
   },
 
@@ -407,7 +407,7 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     tomTat: `**Hoa Cái + Tả Phù - Hữu Bật + Văn Xương - Văn Khúc tại Phúc Đức** — **NGỌN
 ĐÈN TỔ** soi sáng dòng họ.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dòng tộc có thêm **NHIỀU NGƯỜI TÀI GIỎI**
 - Có người đạt **ĐỊA VỊ CAO**
 - **LÀM RẠNG DANH GIA ĐÌNH**
@@ -423,7 +423,7 @@ chồng dễ **CHIỀU CHUỘNG NHAU QUÁ ĐÀ**.
     tomTat: `**Hoa Cái tại Huynh Đệ** — anh em **CHĂM CHỈ, CHỊU KHÓ và CÓ KHÍ CHẤT HƠN
 NGƯỜI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Mối quan hệ trên dưới **THUẬN HÒA**
 - **NHIỀU NGƯỜI THÀNH ĐẠT**
 - Sẵn lòng **GIÚP ĐỠ NHAU** khi gặp khó khăn`,
@@ -438,7 +438,7 @@ NGƯỜI**.
     doUuTien: 68,
     tomTat: `**Hoa Cái + Tả Phù - Hữu Bật tại Huynh Đệ** — tăng thêm **SỰ KHĂNG KHÍT** ruột thịt.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - "Anh em như thể tay chân, rách lành đùm bọc, dở hay đỡ đần"
 - Mối quan hệ **GẮN BÓ KEO SƠN**
 - Đùm bọc lẫn nhau khi khó khăn`,

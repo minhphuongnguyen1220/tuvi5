@@ -4,19 +4,19 @@ import type { DoanLuanGiai } from '../types';
  * LUẬN GIẢI SAO LÂM QUAN - Kim, Cát Tinh + Quyền Quý.
  *
  * Vị trí THỨ 4 trong Vòng Trường Sinh 12 sao:
- *   Trường Sinh → Mộc Dục → Quan Đới → LÂM QUAN → Đế Vượng → Suy →
- *   Bệnh → Tử → Mộ → Tuyệt → Thai → Dưỡng
+ * Trường Sinh: Mộc Dục: Quan Đới: LÂM QUAN: Đế Vượng: Suy
+ * Bệnh: Tử: Mộ: Tuyệt: Thai: Dưỡng
  *
  * An theo CỤC, thuộc nhóm sao Bắc Đẩu.
  *
  * Đặc trưng:
- *   - Giai đoạn BẮT ĐẦU TRƯỞNG THÀNH, BƯỚC RA ĐỜI
- *   - Hành động làm việc phục vụ bản thân và xã hội
- *   - Chủ về QUYỀN QUÝ, BỔNG LỘC, THĂNG TIẾN
- *   - Tính chất: KIÊU NGẠO, KHOE KHOANG, TỰ PHỤ (do mới có thành tựu đầu tiên)
- *   - Hình tượng: CỔ, THANH QUẢN, VÒM HỌNG, TUYẾN GIÁP
- *   - Tính chất: tương tự HÓA LỘC nhưng nhẹ hơn — chủ bổng lộc và hưởng thụ
- *   - KHUẾCH ĐẠI tính chất các sao đi cùng (giống như Trường Sinh)
+ * - Giai đoạn BẮT ĐẦU TRƯỞNG THÀNH, BƯỚC RA ĐỜI
+ * - Hành động làm việc phục vụ bản thân và xã hội
+ * - Chủ về QUYỀN QUÝ, BỔNG LỘC, THĂNG TIẾN
+ * - Tính chất: KIÊU NGẠO, KHOE KHOANG, TỰ PHỤ (do mới có thành tựu đầu tiên)
+ * - Hình tượng: CỔ, THANH QUẢN, VÒM HỌNG, TUYẾN GIÁP
+ * - Tính chất: tương tự HÓA LỘC nhưng nhẹ hơn — chủ bổng lộc và hưởng thụ
+ * - KHUẾCH ĐẠI tính chất các sao đi cùng (giống như Trường Sinh)
  */
 export const luanGiai_LamQuan: DoanLuanGiai[] = [
   {
@@ -29,20 +29,20 @@ Trường Sinh.
 
 **Ngũ hành:** **Kim**. **Chòm:** Bắc Đẩu.
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - Giai đoạn **BẮT ĐẦU TRƯỞNG THÀNH, BƯỚC RA ĐỜI**
 - Chủ về **QUYỀN QUÝ, BỔNG LỘC, THĂNG TIẾN**
 - Hình tượng: **CỔ, THANH QUẢN, VÒM HỌNG, TUYẾN GIÁP**
 
-⚡ **Vai trò:**
+**Vai trò:**
 - Đứng sau Quan Đới, trước Đế Vượng
 - Là sao **HỖ TRỢ MẠNH MẼ** — KHUẾCH ĐẠI tính chất các sao đi cùng
 - Tương tự **HÓA LỘC** nhẹ — chủ bổng lộc, hưởng thụ
 
-⚡ **Tính cách hai mặt:**
-- ✅ Mặt tốt: thành đạt, có chí tiến thủ, chăm chỉ, có địa vị
-- ⚠️ Mặt xấu: **KIÊU NGẠO, KHOE KHOANG, TỰ PHỤ** (do bắt đầu có thành tựu)
-- ⚠️ Khoe khoang khi ở với người thân — kín kẽ thận trọng khi gặp người lạ`,
+**Tính cách hai mặt:**
+- Mặt tốt: thành đạt, có chí tiến thủ, chăm chỉ, có địa vị
+- Mặt xấu: **KIÊU NGẠO, KHOE KHOANG, TỰ PHỤ** (do bắt đầu có thành tựu)
+- Khoe khoang khi ở với người thân — kín kẽ thận trọng khi gặp người lạ`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -58,12 +58,12 @@ Trường Sinh.
     tomTat: `**Lâm Quan + Thiên Mã** — cách cục **RẤT ĐẸP**, tượng trưng cho **THĂNG
 TIẾN NHANH, BÔN BA MÀ PHÁT ĐẠT**.
 
-⚡ **Phân tích:**
+**Phân tích:**
 - **Lâm Quan** = bổng lộc, chức quyền
 - **Thiên Mã** = động lực, di chuyển, giao thương
 - Hai sao kết hợp = **VỪA CHĂM CHỈ VỪA GẶP THỜI**
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **TIỀN TÀI VÀ DANH VỌNG** đều tăng mạnh
 - Chủ về **GIAO THƯƠNG, BUÔN BÁN TỐT**
 - Trở nên **GIÀU CÓ**
@@ -79,7 +79,7 @@ TIẾN NHANH, BÔN BA MÀ PHÁT ĐẠT**.
     tomTat: `**Lâm Quan + Thiên Khôi + Thiên Việt** — đương số dễ **ĐỨNG Ở VỊ TRÍ CAO**,
 được tín nhiệm.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Chủ về người có **VỊ TRÍ CAO TRONG XÃ HỘI**
 - Có **TIẾNG NÓI VÀ QUYỀN LỰC** trong tập thể
 - Được **TÍN NHIỆM**
@@ -95,13 +95,13 @@ TIẾN NHANH, BÔN BA MÀ PHÁT ĐẠT**.
     tomTat: `**Lâm Quan + Trường Sinh + Đế Vượng** — thế **BỀN VỮNG**, người có **NHÂN
 ĐỨC, BIẾT TÍCH PHÚC**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Sinh-Vượng-Mộ tam hợp + Lâm Quan đỉnh cao
 - Hậu vận **GIÀU SANG LÂU DÀI**
 - Có **NHÂN ĐỨC** ăn ở
 - Biết **TÍCH PHÚC** cho con cháu
 
-⚡ **Phối thêm Hóa Lộc, Lộc Tồn:**
+**Phối thêm Hóa Lộc, Lộc Tồn:**
 - Tiền bạc càng **DỒI DÀO**
 - Cuộc sống **SUNG TÚC SUỐT ĐỜI**`,
   },
@@ -115,7 +115,7 @@ TIẾN NHANH, BÔN BA MÀ PHÁT ĐẠT**.
     tomTat: `**Lâm Quan + Thất Sát / Phá Quân** — thích làm **NHIỀU NGHỀ, NHIỀU ĐẦU
 VIỆC** khác nhau cùng một lúc.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Năng lượng dồi dào, không chịu ngồi yên
 - Khả năng đảm đương nhiều mặt trận
 - Hợp các nghề **CHỦ ĐỘNG** — kinh doanh, tự doanh, môi giới
@@ -131,13 +131,13 @@ VIỆC** khác nhau cùng một lúc.
     tomTat: `**Lâm Quan + Đào Hoa** — mệnh tạo thích làm những việc **PHỤC VỤ NGƯỜI
 KHÁC PHÁI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Hợp các công việc **GẶP GỠ NHIỀU NGƯỜI KHÁC PHÁI**
 - Dễ **PHÁT ĐẠT NHỜ** các công việc này
 - Hợp ngành: dịch vụ làm đẹp, spa, thời trang nữ/nam, MC, lễ tân, sales
   giao tiếp khách hàng
 
-⚡ **Lưu ý:** cần Tứ Đức + Quan Phúc giảm bớt tính dâm tình của Đào Hoa.`,
+**Lưu ý:** cần Tứ Đức + Quan Phúc giảm bớt tính dâm tình của Đào Hoa.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -150,17 +150,17 @@ KHÁC PHÁI**.
     sao: ['Lâm Quan'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La'],
     doUuTien: 60,
-    tomTat: `⚠️ **Lâm Quan + Địa Không + Địa Kiếp + Kình Dương + Đà La** — tính khoe
+    tomTat: `**Lâm Quan + Địa Không + Địa Kiếp + Kình Dương + Đà La** — tính khoe
 khoang biến thành **GIAN DỐI, LẺO MÉP, MÁNH KHÓE**.
 
-⚠️ **Đặc trưng:**
+**Đặc trưng:**
 - Dùng **MÁNH KHÓE** để tạo hình ảnh **GIẢ TẠO**
 - **GIAN DỐI**, lừa lọc
 - **LẺO MÉP**, nói nhiều mà không có thực chất
 - Công danh đang lên có thể **SỤT GIẢM** vì chính sự kiêu ngạo và **LỜI NÓI
   SƠ HỞ**
 
-⚠️ **Hệ quả:**
+**Hệ quả:**
 - Dễ gặp **TAI ƯƠNG, RỦI RO**
 - **PHÁ TÁN** sự nghiệp đang lên`,
   },
@@ -171,15 +171,15 @@ khoang biến thành **GIAN DỐI, LẺO MÉP, MÁNH KHÓE**.
     sao: ['Lâm Quan'],
     ketHop: ['Mộc Dục'],
     doUuTien: 55,
-    tomTat: `⚠️ **Lâm Quan + Mộc Dục** — quá chú trọng **NGOẠI HÌNH**, dễ sa vào ăn chơi.
+    tomTat: `**Lâm Quan + Mộc Dục** — quá chú trọng **NGOẠI HÌNH**, dễ sa vào ăn chơi.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Quá chú trọng **NGOẠI HÌNH**
 - Dễ **SA VÀO ĂN CHƠI**, làm dáng
 - **THIẾU THỰC CHẤT**
 - Bổng lộc Lâm Quan thành phù hoa hưởng thụ
 
-⚡ **Hóa giải:** Tứ Đức, Quan Phúc, Tử Vi giảm bớt phù phiếm.`,
+**Hóa giải:** Tứ Đức, Quan Phúc, Tử Vi giảm bớt phù phiếm.`,
   },
 
   {
@@ -188,15 +188,15 @@ khoang biến thành **GIAN DỐI, LẺO MÉP, MÁNH KHÓE**.
     sao: ['Lâm Quan'],
     ketHop: ['Tiểu Hao', 'Đại Hao', 'Tang Môn', 'Bạch Hổ'],
     doUuTien: 55,
-    tomTat: `⚠️ **Lâm Quan + nhiều bại tinh** — công danh đang lên có thể **SỤT GIẢM**.
+    tomTat: `**Lâm Quan + nhiều bại tinh** — công danh đang lên có thể **SỤT GIẢM**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Vì chính **SỰ KIÊU NGẠO**
 - **LỜI NÓI SƠ HỞ**
 - Đắc tội vì khoe khoang
 - Thị phi vây quanh
 
-⚡ **Đặc biệt nguy hiểm khi đi cùng hung sát tinh** — gặp những **RẮC RỐI
+**Đặc biệt nguy hiểm khi đi cùng hung sát tinh** — gặp những **RẮC RỐI
 TRONG ĐỜI SỐNG, CÔNG VIỆC** gây ảnh hưởng đến cuộc sống.`,
   },
 
@@ -213,13 +213,13 @@ TRONG ĐỜI SỐNG, CÔNG VIỆC** gây ảnh hưởng đến cuộc sống.`,
     tomTat: `**Lâm Quan thủ Mệnh** — biểu tượng của **THÀNH ĐẠT, CẦN MẪN**, mang dáng
 vẻ người có địa vị.
 
-⚡ **Tướng mạo:**
+**Tướng mạo:**
 - **CAO TO, VẠM VỠ**
 - Phong thái **KHỎE KHOẮN**, toát lên vẻ **UY NGHI** và sinh lực mạnh
 - Chú trọng **VẺ BỀ NGOÀI**, thích **LÀM ĐẸP, LÀM ĐIỆU**
 - Nói năng **KIỂU CÁCH**
 
-⚡ **Tính cách:**
+**Tính cách:**
 - **HAM DANH VỌNG**, khao khát địa vị
 - Rất **COI TRỌNG THỂ DIỆN**
 - Tự trọng cao — giữ hình ảnh tốt
@@ -227,24 +227,24 @@ vẻ người có địa vị.
 - **CẦN MẪN, CÓ TRÁCH NHIỆM** (mặt phải) — chăm chỉ làm việc, bền bỉ
 - **KHÓ CHẤP NHẬN TỤT LÙI**
 
-⚡ **Đặc biệt - giao tiếp 2 mặt:**
+**Đặc biệt - giao tiếp 2 mặt:**
 - Với **NGƯỜI THÂN QUEN**: nói nhiều, thích kể chuyện, khoe thành tích, thể
   hiện cái tôi
 - Với **NGƯỜI LẠ / MÔI TRƯỜNG CHÍNH THỨC**: kín kẽ, thận trọng, dè dặt,
   giữ kẽ hình ảnh
 
-⚡ **Sự nghiệp:**
+**Sự nghiệp:**
 - Sự nghiệp đi lên **RÕ RỆT** ở giai đoạn **TRUNG VẬN**
 - Tư duy **LÀM CHỦ**, thích nắm quyền, điều hành
 - Hợp **VỊ TRÍ QUẢN LÝ, LÃNH ĐẠO**
 - Được **GIA ĐÌNH NÂNG ĐỠ**, gặp cấp trên trao cơ hội
 
-⚡ **Tài lộc:**
+**Tài lộc:**
 - Có **CỦA ĂN CỦA ĐỂ**, ít thiếu thốn
 - **HƯỞNG THỤ TỪ ĐỊA VỊ, CHỨC DANH**
 - Thích **PHÔ DIỄN GIÀU SANG** qua ăn mặc, nhà cửa, phương tiện
 
-⚠️ **Mặt cảnh báo:**
+**Mặt cảnh báo:**
 - **KIÊU NGẠO** khơi dậy đố kỵ thị phi
 - Cần **HỌC KHIÊM TỐN, GIỮ CẦN MẪN**`,
   },
@@ -257,13 +257,13 @@ vẻ người có địa vị.
     doUuTien: 60,
     tomTat: `**Lâm Quan tại Mệnh** — hôn nhân **XỨNG ĐÔI VỪA LỨA**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Coi trọng **ĐỊA VỊ, HÌNH THỨC, GIA PHONG**
 - Bạn đời thường là người có **HỌC THỨC, NỀ NẾP**
 - Hoặc **XUẤT THÂN TƯƠNG XỨNG**
 - Gia đình mang dáng vẻ **CHỈN CHU, QUY CỦ**, có phần kiểu cách
 
-⚠️ **Cảnh báo:**
+**Cảnh báo:**
 - Quá coi trọng **THỂ DIỆN VÀ HÌNH ẢNH BÊN NGOÀI**
 - Đời sống vợ chồng đôi khi **CĂNG THẲNG VÀ THIẾU TỰ NHIÊN**
 - Hai người có xu hướng **GIỮ KẼ**
@@ -279,14 +279,14 @@ vẻ người có địa vị.
     doUuTien: 58,
     tomTat: `**Lâm Quan tại Mệnh** — cần **CHÚ TRỌNG VÙNG CỔ**.
 
-⚡ **Hình tượng vùng cổ:**
+**Hình tượng vùng cổ:**
 - Lâm Quan gắn với **CỔ, HỌNG, THANH QUẢN, TUYẾN GIÁP, GÁY**
 - Cần lưu ý các bệnh: **VIÊM HỌNG, AMIDAN, U TUYẾN GIÁP, ĐAU GÁY, THOÁI HOÁ
   ĐỐT SỐNG CỔ**
 
-⚡ **Hợp cát tinh:** Sức khỏe nhìn chung **BỀN BỈ**.
+**Hợp cát tinh:** Sức khỏe nhìn chung **BỀN BỈ**.
 
-⚠️ **Hội nhiều sát tinh** (Hỏa Linh, Kình Đà, Hóa Kỵ):
+**Hội nhiều sát tinh** (Hỏa Linh, Kình Đà, Hóa Kỵ):
 - Bệnh tật khu vực này dễ **DIỄN BIẾN PHỨC TẠP**
 - **KHÓ DỨT**`,
   },
@@ -299,7 +299,7 @@ vẻ người có địa vị.
     doUuTien: 75,
     tomTat: `**Lâm Quan tại Phụ Mẫu** — cha mẹ **THÀNH ĐẠT, CÓ CHỨC VỊ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cha mẹ **THÀNH ĐẠT**, có chức vị
 - Là người **KHÉO ĂN NÓI**, thích **KỂ CHUYỆN**
 - Hợp âm dương thuận lý:
@@ -317,7 +317,7 @@ vẻ người có địa vị.
     doUuTien: 75,
     tomTat: `**Lâm Quan tại Phúc Đức** — gia tộc **PHÁT PHƯỚC**, dòng họ thành đạt.
 
-⚡ **Cát tinh hội:**
+**Cát tinh hội:**
 - Gia tộc được **PHÁT PHƯỚC**
 - Trong dòng tộc nhiều người **THÀNH ĐẠT, LÀM QUAN TO, GIÀU CÓ**
 - Phúc khí tổ tiên dày
@@ -332,7 +332,7 @@ vẻ người có địa vị.
     doUuTien: 80,
     tomTat: `**Lâm Quan tại Quan Lộc** — vị trí **HỢP CÁCH**, đường công danh tốt đẹp.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Đường công danh **TỐT ĐẸP**
 - Thường xuyên **RA VÀO NHỮNG NƠI QUYỀN QUÝ**
 - Dễ làm **THAM MƯU, PHỤ TÁ** cho người có quyền cao chức trọng
@@ -340,11 +340,11 @@ vẻ người có địa vị.
 - Sống **PHONG LƯU, GIÀU CÓ**
 - Là người **LƯƠNG THIỆN, KHIÊM TỐN, CAO THƯỢNG**
 
-⚡ **Cát tinh sáng sủa hội:**
+**Cát tinh sáng sủa hội:**
 - **PHÁT ĐẠT TỪ SỚM**, cuộc sống vui vẻ
-- **GIỎI ĂN NÓI** → hợp **NGOẠI GIAO, BUÔN BÁN**
+- **GIỎI ĂN NÓI**: hợp **NGOẠI GIAO, BUÔN BÁN**
 
-⚠️ **Sát bại tinh, ám tinh hội:**
+**Sát bại tinh, ám tinh hội:**
 - Gặp **PHIỀN NHIỄU**
 - **NGĂN TRỞ** trong công việc`,
   },
@@ -357,13 +357,13 @@ vẻ người có địa vị.
     doUuTien: 75,
     tomTat: `**Lâm Quan tại Điền Trạch** — **NHIỀU ĐẤT ĐAI, NHÀ CỬA, TÀI SẢN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **NHIỀU ĐẤT ĐAI, NHÀ CỬA, TÀI SẢN**
 - Đất đai, nhà cửa **RỘNG RÃI**
 - Nhà được **TRANG HOÀNG ĐẸP ĐẼ**
 - Là **NIỀM TỰ HÀO** của đương số
 
-⚡ **Cát tinh hội:**
+**Cát tinh hội:**
 - Càng **DƯ DẢ** về tiền bạc, tài sản
 - Nhà cửa khang trang đầy đủ tiện nghi`,
   },
@@ -376,12 +376,12 @@ vẻ người có địa vị.
     doUuTien: 75,
     tomTat: `**Lâm Quan tại Nô Bộc** — **NHIỀU BẠN BÈ THÀNH ĐẠT, NỔI DANH**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Có **NHIỀU BẠN BÈ THÀNH ĐẠT, NỔI DANH**
 - Được **NHIỀU NGƯỜI BIẾT ĐẾN**
 - Mạng lưới quan hệ rộng và chất lượng
 
-⚠️ **Sát bại tinh hội:**
+**Sát bại tinh hội:**
 - Bạn bè thích **GIAN DỐI, ĂN CHƠI ĐUA ĐÒI**
 - Bị **NHIỄM TÍNH XẤU** của bạn bè`,
   },
@@ -394,12 +394,12 @@ vẻ người có địa vị.
     doUuTien: 75,
     tomTat: `**Lâm Quan tại Thiên Di** — **KHÉO ĂN KHÉO NÓI**, ra ngoài được yêu quý.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **KHÉO ĂN KHÉO NÓI**
 - Ra ngoài được **MỌI NGƯỜI YÊU QUÝ**
 - Gặp **NGƯỜI THÀNH ĐẠT** và học tập được nhiều thứ từ họ
 
-⚡ **Đặc trưng nghịch lý ở nhà ↔ ra ngoài:**
+**Đặc trưng nghịch lý ở nhà ↔ ra ngoài:**
 - Lúc **Ở NHÀ**: ít nói, **ÂM TRẦM, ÍT CHIA SẺ** với người thân
 - Khi **RA NGOÀI**: kín kẽ nhưng hoạt bát, biết che giấu cái xấu`,
   },
@@ -412,14 +412,14 @@ vẻ người có địa vị.
     doUuTien: 78,
     tomTat: `**Lâm Quan tại Tật Ách** — bệnh **CỔ, CUỐNG HỌNG, VÒM HỌNG**.
 
-⚡ **Hình tượng:**
+**Hình tượng:**
 - Lâm Quan tượng trưng cho **VÙNG CỔ**
 - Cần đề phòng các bệnh:
   - **CỔ, CUỐNG HỌNG, VÒM HỌNG**
   - **VIÊM AMIDAN, U TUYẾN GIÁP**
   - **ĐAU GÁY, THOÁI HÓA ĐỐT SỐNG CỔ**
 
-⚠️ **Đặc biệt:**
+**Đặc biệt:**
 - Lâm Quan ở Tật Ách dễ biểu hiện cho người **MẮC NHIỀU BỆNH CÙNG LÚC**
 - Cần kiểm tra sức khỏe định kỳ`,
   },
@@ -433,16 +433,16 @@ vẻ người có địa vị.
     tomTat: `**Lâm Quan tại Tài Bạch** — cách cục **ĐẸP**, số lượng tiền tài, của cải
 **NHIỀU**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **TIỀN TÀI, CỦA CẢI NHIỀU**
-- Cát tinh hội → **TĂNG VẺ ĐẸP** cung Tài Bạch
+- Cát tinh hội: **TĂNG VẺ ĐẸP** cung Tài Bạch
 
-⚡ **Lâm Quan + Thiên Mã đồng cung:**
+**Lâm Quan + Thiên Mã đồng cung:**
 - **THUẬN LỢI** trong việc kiếm tiền
 - Chủ về **GIAO THƯƠNG, BUÔN BÁN TỐT**
 - Trở nên **GIÀU CÓ**
 
-⚡ **Hợp tích lũy:** ngôi sao giúp **TÍCH LŨY** từ địa vị, danh tiếng và bổng
+**Hợp tích lũy:** ngôi sao giúp **TÍCH LŨY** từ địa vị, danh tiếng và bổng
 lộc — không chỉ kiếm mà còn biết **HƯỞNG THỤ**.`,
   },
 
@@ -454,7 +454,7 @@ lộc — không chỉ kiếm mà còn biết **HƯỞNG THỤ**.`,
     doUuTien: 75,
     tomTat: `**Lâm Quan tại Tử Tức** — con cái **ĐÔNG, THÀNH DANH**.
 
-⚡ **Cát tinh hội:**
+**Cát tinh hội:**
 - **ĐÔNG CON CÁI**
 - Con cái **THÀNH DANH**
 - **KHÉO ĂN NÓI**
@@ -469,17 +469,17 @@ lộc — không chỉ kiếm mà còn biết **HƯỞNG THỤ**.`,
     doUuTien: 78,
     tomTat: `**Lâm Quan tại Phu Thê** — người hôn phối **THÀNH ĐẠT, KHÉO ĂN NÓI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Người hôn phối dễ là người **THÀNH ĐẠT**
 - **KHÉO ĂN NÓI**, được lòng mọi người
 
-⚠️ **Mặt trái:**
+**Mặt trái:**
 - Tính tình có phần **TỰ MÃN, KIÊU NGẠO NGẦM**
 - Dễ dẫn đến việc người hôn phối **XEM THƯỜNG MỆNH TẠO**
 - Trong cuộc sống gia đình, **NGƯỜI HÔN PHỐI NẮM QUYỀN** và đưa ra những
   **QUYẾT ĐỊNH QUAN TRỌNG**
 
-⚡ **Phối thêm cát tinh** (Khôi Việt, Thanh Long, Quang Quý): cân bằng quyền
+**Phối thêm cát tinh** (Khôi Việt, Thanh Long, Quang Quý): cân bằng quyền
 lực, hôn nhân hạnh phúc.`,
   },
 
@@ -492,11 +492,11 @@ lực, hôn nhân hạnh phúc.`,
     tomTat: `**Lâm Quan tại Huynh Đệ** — trong nhà **NHIỀU ANH CHỊ EM**, có người thành
 đạt.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Trong nhà **NHIỀU ANH CHỊ EM**
 - Anh em dễ có người **THÀNH ĐẠT**
 
-⚠️ **Đặc biệt:**
+**Đặc biệt:**
 - Nếu đương số là **CON TRƯỞNG** trong nhà
 - Dễ bị **CÁC EM TRANH QUYỀN**
 - Hoặc có **NGƯỜI KHÁC GÁNH VÁC TRÁCH NHIỆM** thay`,

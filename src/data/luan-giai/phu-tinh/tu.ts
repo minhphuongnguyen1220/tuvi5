@@ -6,19 +6,19 @@ import type { DoanLuanGiai } from '../types';
  * KHÁC HOÀN TOÀN với chính tinh TỬ VI! Tag riêng là 'Tử' (không phải 'Tử Vi').
  *
  * Vị trí THỨ 8 trong Vòng Trường Sinh 12 sao:
- *   Trường Sinh → Mộc Dục → Quan Đới → Lâm Quan → Đế Vượng → Suy →
- *   Bệnh → TỬ → Mộ → Tuyệt → Thai → Dưỡng
+ * Trường Sinh: Mộc Dục: Quan Đới: Lâm Quan: Đế Vượng: Suy
+ * Bệnh: TỬ: Mộ: Tuyệt: Thai: Dưỡng
  *
  * An theo CỤC.
  *
  * Đặc trưng:
- *   - Sau giai đoạn "Bệnh" → tới giai đoạn CHẾT
- *   - Đa sầu đa cảm, kín đáo, bi quan
- *   - Gắn với SỰ MẤT MÁT, SUY TÀN, TANG THƯƠNG
- *   - Sự CHẤM DỨT chu kỳ sống
- *   - CHE GIẤU sự hung bạo của sát tinh
- *   - HẠN CHẾ phúc lộc của cát tinh
- *   - Tính chất KÍN ĐÁO, BÍ MẬT, BÊN TRONG
+ * - Sau giai đoạn "Bệnh": tới giai đoạn CHẾT
+ * - Đa sầu đa cảm, kín đáo, bi quan
+ * - Gắn với SỰ MẤT MÁT, SUY TÀN, TANG THƯƠNG
+ * - Sự CHẤM DỨT chu kỳ sống
+ * - CHE GIẤU sự hung bạo của sát tinh
+ * - HẠN CHẾ phúc lộc của cát tinh
+ * - Tính chất KÍN ĐÁO, BÍ MẬT, BÊN TRONG
  */
 export const luanGiai_Tu: DoanLuanGiai[] = [
   {
@@ -30,21 +30,21 @@ export const luanGiai_Tu: DoanLuanGiai[] = [
 
 **Ngũ hành:** **Thủy**.
 
-⚠️ **LƯU Ý:** Sao **TỬ** này KHÁC HOÀN TOÀN với chính tinh **TỬ VI** — đây là
+**LƯU Ý:** Sao **TỬ** này KHÁC HOÀN TOÀN với chính tinh **TỬ VI** — đây là
 sao trong vòng Trường Sinh.
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - **ĐA SẦU ĐA CẢM, THÂM TRẦM, KÍN ĐÁO**
 - **THIẾU ĐỘNG LỰC**
 - Gắn liền với **SỰ MẤT MÁT, SUY TÀN, TANG THƯƠNG**
 - **CHẤM DỨT** của chu kỳ sống
 
-⚡ **Vai trò 2 mặt:**
+**Vai trò 2 mặt:**
 - **CHE GIẤU** sự hung bạo của **SÁT TINH**
 - **HẠN CHẾ** phúc lộc của **CÁT TINH** mang lại
-- → Đi cùng cát tinh giảm tốt, đi cùng sát tinh giảm xấu
+-: Đi cùng cát tinh giảm tốt, đi cùng sát tinh giảm xấu
 
-⚡ **Tâm tính:**
+**Tâm tính:**
 - Bản tính **U SẦU**
 - Diện mạo **KHÔNG TƯƠI SÁNG**
 - Thân hình **NHỎ NHẮN, KÉM PHÁT TRIỂN**
@@ -63,9 +63,9 @@ sao trong vòng Trường Sinh.
     sao: ['Tử'],
     ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ'],
     doUuTien: 60,
-    tomTat: `⚠️ **Tử + Kình Dương + Đà La + Hóa Kỵ** — tính cách trở nên **HUNG BẠO**.
+    tomTat: `**Tử + Kình Dương + Đà La + Hóa Kỵ** — tính cách trở nên **HUNG BẠO**.
 
-⚠️ **Đặc trưng:**
+**Đặc trưng:**
 - Tính cách trở nên **HUNG BẠO**
 - Dễ **NÓNG NẢY**
 - **BẤT ĐỒNG, TRANH CÃI**
@@ -79,10 +79,10 @@ sao trong vòng Trường Sinh.
     sao: ['Tử'],
     ketHop: ['Phi Liêm', 'Thiên Mã', 'Tang Môn', 'Bạch Hổ', 'Thiên Khốc', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 60,
-    tomTat: `⚠️ **Tử + Phi Liêm + Thiên Mã + Tang Môn + Bạch Hổ + Thiên Khốc + Hỏa Tinh +
+    tomTat: `**Tử + Phi Liêm + Thiên Mã + Tang Môn + Bạch Hổ + Thiên Khốc + Hỏa Tinh +
 Linh Tinh** — họ hàng gặp **TAI HỌA TANG THƯƠNG**.
 
-⚠️ **Đặc trưng:**
+**Đặc trưng:**
 - Trong họ **NHIỀU NGƯỜI MẤT SỚM**
 - Tang sự liên miên
 - Bộ này tập trung tất cả các sao **TANG TÓC, MAI TÁNG, KHÓC THAN**
@@ -99,13 +99,13 @@ Linh Tinh** — họ hàng gặp **TAI HỌA TANG THƯƠNG**.
     tomTat: `**Tử + Thai Phụ + Phục Binh + Phong Cáo tại Phúc Đức** — họ hàng có người
 **HY SINH VÌ NGHĨA LỚN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Họ hàng có người **HY SINH VÌ NGHĨA LỚN**
 - Có **THƯƠNG BINH, LIỆT SĨ** hy sinh trên chiến trường
 - Phong Cáo + Thai Phụ = phong tước hậu sự
 - Phục Binh = quân nhân
 - Tử = sự ra đi
-- → Phối hợp thành cách **HY SINH VINH DANH**`,
+-: Phối hợp thành cách **HY SINH VINH DANH**`,
   },
 
   {
@@ -118,7 +118,7 @@ Linh Tinh** — họ hàng gặp **TAI HỌA TANG THƯƠNG**.
     tomTat: `**Tử + Đẩu Quân tại Tài Bạch / Điền Trạch** — chủ mệnh sống **CHI LI, TẰN
 TIỆN** nhưng nhờ vậy mà **CÓ CỦA ĐỂ DÀNH**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Sống **CHI LI, TẰN TIỆN**
 - Tính toán từng đồng
 - Nhờ vậy mà **CÓ CỦA ĐỂ DÀNH**
@@ -138,36 +138,36 @@ TIỆN** nhưng nhờ vậy mà **CÓ CỦA ĐỂ DÀNH**.
     doUuTien: 80,
     tomTat: `**Tử thủ Mệnh** — người **SÂU SẮC KÍN ĐÁO** nhưng hay **U SẦU BI QUAN**.
 
-⚡ **Diện mạo:**
+**Diện mạo:**
 - Diện mạo thường **KHÔNG TƯƠI SÁNG**
 - Thân hình **NHỎ NHẮN, KÉM PHÁT TRIỂN**
 
-⚡ **Tính cách:**
+**Tính cách:**
 - **NỘI TÂM PHỨC TẠP**
 - **ÍT BỘC LỘ CẢM XÚC** thật
 - Luôn **SUY NGHĨ KÍN ĐÁO**, không để lộ
 - **U SẦU, BI QUAN**
 
-⚡ **Sự nghiệp:**
+**Sự nghiệp:**
 - Con đường công danh **TRẢI QUA NHIỀU KHÓ KHĂN**
 - **ÍT GẶP MAY MẮN**
 - Dễ gắn với những nghề liên quan tới **BÍ MẬT, KÍN ĐÁO, TÂM LINH, TANG LỄ**
-- Trường hợp làm những công việc khác → **ÍT ĐƯỢC TRỌNG DỤNG**, sự nghiệp
+- Trường hợp làm những công việc khác: **ÍT ĐƯỢC TRỌNG DỤNG**, sự nghiệp
   **BẤP BÊNH**
 
-⚡ **Tình duyên:**
+**Tình duyên:**
 - **TRẮC TRỞ**
 - Người hôn phối **KÍN TIẾNG, CHI TIÊU TIẾT KIỆM**
 - Gia đạo dễ **LẠNH NHẠT**
 - Chủ mệnh biết **TIẾT KIỆM, THẬM CHÍ KEO KIỆT**
 - Cách kiếm tiền có nguy cơ **KHÔNG MINH BẠCH, PHI PHÁP**
 
-⚡ **Phúc thọ:**
+**Phúc thọ:**
 - Sao Tử làm **GIẢM PHÚC THỌ**
 - **ÍT HƯỞNG PHƯỚC PHẦN** tổ tiên
 - Dễ gặp **TANG THƯƠNG, SẦU THẢM**
 
-⚡ **Hóa giải:** Cần "**TU NHÂN TÍCH ĐỨC**" — gieo nhân lành để gặt quả thiện.`,
+**Hóa giải:** Cần "**TU NHÂN TÍCH ĐỨC**" — gieo nhân lành để gặt quả thiện.`,
   },
 
   {
@@ -178,7 +178,7 @@ TIỆN** nhưng nhờ vậy mà **CÓ CỦA ĐỂ DÀNH**.
     doUuTien: 75,
     tomTat: `**Tử tại Phụ Mẫu** — sức khỏe cha mẹ **YẾU**, gia đình **KÍN TIẾNG**.
 
-⚡ **Khi đi cùng sát tinh** (Hỏa Linh, Thiên Hình, Kiếp Sát, Cô Thần, Quả
+**Khi đi cùng sát tinh** (Hỏa Linh, Thiên Hình, Kiếp Sát, Cô Thần, Quả
 Tú):
 - Sức khỏe của cha mẹ **YẾU**, dễ **ĐAU ỐM**
 - Người trong gia đình thường **KÍN TIẾNG, SỐNG THẦM LẶNG**
@@ -195,17 +195,17 @@ Tú):
     doUuTien: 75,
     tomTat: `**Tử tại Phúc Đức** — dòng họ **ÍT PHÚC PHẦN**, mồ mả tổ tiên bị bỏ bê.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dòng họ **ÍT PHÚC PHẦN**
 - Người thân **KÍN TIẾNG**, không quan tâm nhau
 - **MỒ MẢ TỔ TIÊN** bị **BỎ BÊ**, không được chăm sóc cẩn thận
 
-⚠️ **Hội thêm sát tinh** (Địa Không, Địa Kiếp):
+**Hội thêm sát tinh** (Địa Không, Địa Kiếp):
 - **KHÔNG ĐƯỢC HƯỞNG PHÚC** tổ tiên
 - Phải **LÀM THIỆN BỒI DƯỠNG PHÚC PHẦN** mới có khả năng **CẢI THIỆN VẬN
   MỆNH**
 
-⚡ **Đặc biệt** (Tử + Thai Phụ + Phục Binh + Phong Cáo):
+**Đặc biệt** (Tử + Thai Phụ + Phục Binh + Phong Cáo):
 - Họ hàng có người **HY SINH VÌ NGHĨA LỚN, THƯƠNG BINH LIỆT SĨ**`,
   },
 
@@ -217,12 +217,12 @@ Tú):
     doUuTien: 75,
     tomTat: `**Tử tại Điền Trạch** — nhà cửa ở **NGÕ HẺM, SÂU KÍN, KHÓ TÌM**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Nhà cửa ở nơi **NGÕ HẺM, SÂU KÍN, KHÓ TÌM**
 - Đương số **BIẾT TIẾT KIỆM, GIỮ CỦA TỐT**
 - **TÍNH TOÁN CHI LI**, ít khi phung phí
 
-⚠️ **Đi cùng nhiều ám sát tinh** (Thiên Riêu, Đà La, Hóa Kỵ, Cô Thần, Quả
+**Đi cùng nhiều ám sát tinh** (Thiên Riêu, Đà La, Hóa Kỵ, Cô Thần, Quả
 Tú, Tang Môn):
 - Nhà gần nơi có **TRƯỜNG KHÍ NĂNG LƯỢNG XẤU**
 - Phong thủy âm u, không tốt cho sức khỏe`,
@@ -236,17 +236,17 @@ Tú, Tang Môn):
     doUuTien: 78,
     tomTat: `**Tử tại Quan Lộc** — công danh **TRẮC TRỞ**, hợp nghề kín đáo.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Hợp các công việc đòi hỏi **KÍN KẼ, BÍ MẬT**
 - Hoặc liên quan đến **TANG LỄ, TÂM LINH**
 - Chuyên môn **SÂU KÍN, ÍT NGƯỜI BIẾT**
 
-⚠️ **Sao Tử + ám tinh** (Thiên Riêu, Đà La, Hóa Kỵ):
+**Sao Tử + ám tinh** (Thiên Riêu, Đà La, Hóa Kỵ):
 - Công danh **TRẮC TRỞ**
 - Ít gặp **MAY MẮN**
 - **KHÓ PHÁT TRIỂN**
 
-⚠️ **Nếu không theo lĩnh vực đặc thù:**
+**Nếu không theo lĩnh vực đặc thù:**
 - Sự nghiệp **LẬN ĐẬN**
 - Ít được **CẤP TRÊN TRỌNG DỤNG**`,
   },
@@ -259,12 +259,12 @@ Tú, Tang Môn):
     doUuTien: 75,
     tomTat: `**Tử tại Nô Bộc** — **ÍT BẠN BÈ**, mối quan hệ không chân thành.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Có **ÍT BẠN BÈ, ĐỒNG NGHIỆP**
 - Những mối quan hệ xã hội **KHÔNG CHÂN THÀNH**
 - **KHÓ GẮN BÓ LÂU DÀI**
 
-⚠️ **Khi hoạn nạn:**
+**Khi hoạn nạn:**
 - Đương số **KHÔNG NHẬN ĐƯỢC NHIỀU SỰ GIÚP ĐỠ**
 - Chủ yếu phải "**TỰ LỰC CÁNH SINH**"`,
   },
@@ -277,12 +277,12 @@ Tú, Tang Môn):
     doUuTien: 75,
     tomTat: `**Tử tại Thiên Di** — **ÍT RA NGOÀI**, ngại giao tiếp.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **ÍT RA NGOÀI**
 - **NGẠI GIAO TIẾP**
 - Không quan tâm nhiều đến mọi người xung quanh
 
-⚠️ **Hội cùng Quả Tú, Cô Thần, Đẩu Quân:**
+**Hội cùng Quả Tú, Cô Thần, Đẩu Quân:**
 - Khi xuất hành lại càng **KÍN KẼ**
 - **KHÓ HÒA NHẬP**
 - Công việc xa quê hay làm ăn nơi đất khách thường **GẶP NHIỀU KHÓ KHĂN**`,
@@ -296,16 +296,16 @@ Tú, Tang Môn):
     doUuTien: 80,
     tomTat: `**Tử tại Tật Ách** — bệnh **KHÓ PHÁT HIỆN**, tích tụ bên trong.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ mắc những **CĂN BỆNH KHÓ PHÁT HIỆN**
 - Bệnh **TÍCH TỤ BÊN TRONG**
 - Hoặc liên quan đến **TÂM LINH**
 
-⚠️ **Khi đi cùng nhiều ám sát tinh:**
+**Khi đi cùng nhiều ám sát tinh:**
 - Bệnh càng **NẶNG**
 - **KHÓ CHỮA DỨT ĐIỂM**
 
-⚡ **Hóa giải:** Tình trạng này chỉ có khả năng được hóa giải khi **TỬ GẶP
+**Hóa giải:** Tình trạng này chỉ có khả năng được hóa giải khi **TỬ GẶP
 TRIỆT**.`,
   },
 
@@ -317,17 +317,17 @@ TRIỆT**.`,
     doUuTien: 75,
     tomTat: `**Tử tại Tài Bạch** — kiếm tiền **KHÔNG MINH BẠCH**.
 
-⚠️ **Đặc trưng:**
+**Đặc trưng:**
 - Việc kiếm tiền **KHÔNG MINH BẠCH**
 
-⚠️ **Gặp nhiều sát bại tinh:**
+**Gặp nhiều sát bại tinh:**
 - Dễ theo con đường **PHI PHÁP** hoặc **TRỐN THUẾ**
 
-⚡ **Đặc tính tốt:**
+**Đặc tính tốt:**
 - Chủ mệnh biết **TIẾT KIỆM**
 - Đôi khi bị xem là **CHI LI, HÀ TIỆN**
 
-⚡ **Tử + Hóa Kỵ + Đẩu Quân:**
+**Tử + Hóa Kỵ + Đẩu Quân:**
 - Càng ứng nghiệm tính chi li, kiếm tiền không minh bạch`,
   },
 
@@ -339,16 +339,16 @@ TRIỆT**.`,
     doUuTien: 75,
     tomTat: `**Tử tại Tử Tức** — con cái **ÍT, KHÓ NUÔI**.
 
-⚡ **Khi kết hợp** (Đẩu Quân, Thiên Hình, Kình Dương, Song Hao):
+**Khi kết hợp** (Đẩu Quân, Thiên Hình, Kình Dương, Song Hao):
 - **GIẢM SỐ LƯỢNG** con cái
 - Chủ mệnh **KHÓ SINH** hoặc dễ **SẨY THAI**
 
-⚠️ **Đặc trưng:**
+**Đặc trưng:**
 - Con cái sinh ra thường **KHÓ NUÔI**
 - **KHÔNG NGHE LỜI CHA MẸ**
 - Có nguy cơ **BỊ BỆNH TẬT**
 
-⚡ **Hậu vận:**
+**Hậu vận:**
 - Đương số càng **VẤT VẢ VÌ CON**
 - Khó có được sự **AN NHÀN**`,
   },
@@ -361,13 +361,13 @@ TRIỆT**.`,
     doUuTien: 78,
     tomTat: `**Tử tại Phu Thê** — hôn nhân **KHÔNG HÒA THUẬN**, hôn phối kín tiếng.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Hôn nhân **KHÔNG HÒA THUẬN**
 - Dễ gặp **TRẮC TRỞ, BẤT HÒA**
 - Người phối ngẫu **KÍN TIẾNG, TRẦM LẶNG**
 - **CHI TIÊU TIẾT KIỆM**
 
-⚠️ **Hội thêm sát bại tinh:**
+**Hội thêm sát bại tinh:**
 - Nhân duyên càng **MONG MANH**
 - Nguy cơ **ĐỔ VỠ CAO**
 - Sức khỏe bị **ẢNH HƯỞNG NGHIÊM TRỌNG**`,
@@ -381,12 +381,12 @@ TRIỆT**.`,
     doUuTien: 75,
     tomTat: `**Tử tại Huynh Đệ** — **ÍT ANH CHỊ EM**, dễ chia lìa.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **ÍT ANH CHỊ EM**
 - Trong đó dễ có người **ĐAU ỐM**
 - **SỐNG KHÉP KÍN**, ít quan tâm nhau
 
-⚠️ **Hội thêm sát tinh:**
+**Hội thêm sát tinh:**
 - Gia đạo càng dễ **CHIA LÌA**
 - Anh em có nguy cơ **XUNG KHẮC**
 - Hoặc **MẤT SỚM**`,
@@ -403,25 +403,25 @@ TRIỆT**.`,
     doUuTien: 40,
     tomTat: `**Hóa giải sao Tử** — cần **NGỒI THIỀN, TẬP YOGA**, giảm căng thẳng.
 
-⚡ **Khi gặp hạn cần:**
+**Khi gặp hạn cần:**
 - **NGHỈ NGƠI**
 - **KHÁM SỨC KHỎE ĐỊNH KỲ**
 - Thực hành **THIỀN, YOGA**
 - Áp dụng kỹ thuật **GIẢM CĂNG THẲNG**
 
-⚡ **Tinh thần:**
+**Tinh thần:**
 - Học cách **NHÌN ĐỜI LẠC QUAN**
 - **MỞ LÒNG** kết nối với mọi người
 
-⚡ **Sự nghiệp:**
+**Sự nghiệp:**
 - Giữ thái độ **CẨN TRỌNG**
 - **KHÔNG QUYẾT ĐỊNH VỘI VÀNG**
 - Tập trung **ỔN ĐỊNH** công việc hiện tại
 - Tránh **MẠO HIỂM**
 
-⚡ **Tu tâm tích đức:**
+**Tu tâm tích đức:**
 - Làm nhiều **VIỆC TỐT**
-- **GIÚP ĐỠ NGƯỜI KHÁC** → tăng phước phần
+- **GIÚP ĐỠ NGƯỜI KHÁC**: tăng phước phần
 - Dễ được **QUÝ NHÂN GIÚP** khi gặp khó khăn`,
   },
 ];

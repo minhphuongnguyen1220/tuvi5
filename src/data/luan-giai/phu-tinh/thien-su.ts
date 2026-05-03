@@ -3,10 +3,10 @@ import type { DoanLuanGiai } from '../types';
 /**
  * LUẬN GIẢI SAO THIÊN SỨ - Thủy, Hung Tinh.
  *
- * ⚡ QUY LUẬT BẮT BUỘC: Thiên Sứ LUÔN cố định tại cung TẬT ÁCH
+ * QUY LUẬT BẮT BUỘC: Thiên Sứ LUÔN cố định tại cung TẬT ÁCH
  * (engine hardcode `src/core/tuvi/phu-tinh.ts`).
  *
- * Tên gọi: "Thiên" = Trời, "Sứ" = Sứ Giả → THIÊN SỨ = "SỨ GIẢ NHÀ TRỜI"
+ * Tên gọi: "Thiên" = Trời, "Sứ" = Sứ Giả: THIÊN SỨ = "SỨ GIẢ NHÀ TRỜI"
  * Cố định ở Tật Ách = ngụ ý: ai sinh ra cũng đều phải chết, và khi chết đi
  * thì luôn có Sứ Giả nhà Trời về đưa đi.
  *
@@ -23,25 +23,25 @@ export const luanGiai_ThienSu: DoanLuanGiai[] = [
 
 **Ngũ hành:** **Thủy**.
 
-⚡ **Tên gọi:**
+**Tên gọi:**
 - "**Thiên**" = Trời
 - "**Sứ**" = Sứ Giả
-- → **THIÊN SỨ** = **SỨ GIẢ NHÀ TRỜI**
+-: **THIÊN SỨ** = **SỨ GIẢ NHÀ TRỜI**
 
-⚡ **QUY LUẬT BẮT BUỘC:** LUÔN cố định tại cung **TẬT ÁCH** (engine hardcode).
+**QUY LUẬT BẮT BUỘC:** LUÔN cố định tại cung **TẬT ÁCH** (engine hardcode).
 
-⚡ **Ý nghĩa biểu tượng:**
-- Cố định ở Tật Ách → ngụ ý:
+**Ý nghĩa biểu tượng:**
+- Cố định ở Tật Ách: ngụ ý:
   - Ai sinh ra cũng đều phải **CHẾT**
   - Khi chết đi luôn có **SỨ GIẢ NHÀ TRỜI** về đưa đi
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - **Hao tán, tai nạn, trở ngại**
 - **Thị phi, khẩu thiệt, quan tụng**
 - Buồn thảm, xui xẻo, không may
 - Mang lại tang thương, bệnh tật, tai họa
 
-⚡ **Vai trò:**
+**Vai trò:**
 - Là sao **HUNG TINH NHỎ**
 - **CHỈ DÙNG XEM HẠN** (đặc biệt tiểu hạn)
 - KHÔNG có ý nghĩa nhiều trên toàn cuộc đời
@@ -61,24 +61,24 @@ export const luanGiai_ThienSu: DoanLuanGiai[] = [
     tomTat: `**Thiên Sứ cố định cung Tật Ách** — biểu tượng quy luật **SINH-TỬ** không
 thể thay đổi.
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - Đại diện cho **QUY LUẬT BẤT BIẾN**:
   - Con người sinh ra ai cũng phải đối diện **BỆNH TẬT**
   - Cuối cùng sẽ có **"SỨ GIẢ NHÀ TRỜI"** dẫn đi khi số mệnh kết thúc
 
-⚡ **Trên toàn cuộc đời:**
+**Trên toàn cuộc đời:**
 - KHÔNG phải lúc nào cũng đem lại họa hại
 - Như **LỜI NHẮC NHỞ** về việc gìn giữ sức khỏe
 
-⚡ **Khi vào hạn (đặc biệt tại Tật Ách + hung sát tinh):**
+**Khi vào hạn (đặc biệt tại Tật Ách + hung sát tinh):**
 - Phát huy tính chất XẤU
 - Đau ốm **TRIỀN MIÊN**
 - Tinh thần **BẤT AN**
 - Tai ương **BẤT NGỜ**
 
-⚡ **Cùng "Lưới Trời":**
+**Cùng "Lưới Trời":**
 - Thiên Sứ + Thiên Thương + Thiên La + Địa Võng
-- → 4 sao "lưới trời" cố định trên lá số`,
+-: 4 sao "lưới trời" cố định trên lá số`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -91,19 +91,19 @@ thể thay đổi.
     sao: ['Thiên Sứ'],
     ketHop: ['Thiên Cơ', 'Cự Môn', 'Thiên Hình'],
     doUuTien: 55,
-    tomTat: `⚠️ **Thiên Sứ + Thiên Cơ + Cự Môn + Thiên Hình vào hạn** — **KIỆN TỤNG**.
+    tomTat: `**Thiên Sứ + Thiên Cơ + Cự Môn + Thiên Hình vào hạn** — **KIỆN TỤNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Vướng vào **KIỆN TỤNG, TRANH CHẤP PHÁP LÝ**
 - Hao tán **TIỀN BẠC VÀ DANH DỰ**
 
-⚡ **Phân tích bộ sao:**
+**Phân tích bộ sao:**
 - **Cự Môn** = sao thị phi khẩu thiệt
 - **Thiên Hình** = sát phạt pháp luật
 - **Thiên Cơ** = mưu kế tính toán
 - **Thiên Sứ** = hung tinh kích hoạt
 
-⚡ **Hóa giải:** Cần Tử Vi, Thiên Phủ, Lương, Đồng đi cùng giảm bớt.`,
+**Hóa giải:** Cần Tử Vi, Thiên Phủ, Lương, Đồng đi cùng giảm bớt.`,
   },
 
   {
@@ -112,18 +112,18 @@ thể thay đổi.
     sao: ['Thiên Sứ'],
     ketHop: ['Thái Tuế'],
     doUuTien: 60,
-    tomTat: `⚠️ **Thiên Sứ + Thái Tuế vào hạn** — **CHẾT** nếu đại hạn xấu.
+    tomTat: `**Thiên Sứ + Thái Tuế vào hạn** — **CHẾT** nếu đại hạn xấu.
 
-⚡ **Đặc trưng:**
-- Đại vận xấu + tiểu vận có Sứ + Thái Tuế → hung họa **RÕ RỆT**
+**Đặc trưng:**
+- Đại vận xấu + tiểu vận có Sứ + Thái Tuế: hung họa **RÕ RỆT**
 - Đương số dễ gặp **BIẾN CỐ LỚN VỀ SỨC KHỎE**
 
-⚡ **Phòng tránh:**
+**Phòng tránh:**
 - Chủ động **CHĂM SÓC THÂN THỂ**
 - **THĂM KHÁM KỊP THỜI**
 - Tránh hoạt động nguy hiểm
 
-⚡ **Hóa giải:** Cần sao giải mạnh (Tử Phủ Lương Đồng + Quan Phúc + Tuần Triệt).`,
+**Hóa giải:** Cần sao giải mạnh (Tử Phủ Lương Đồng + Quan Phúc + Tuần Triệt).`,
   },
 
   {
@@ -132,20 +132,20 @@ thể thay đổi.
     sao: ['Thiên Sứ'],
     ketHop: ['Thiên Không', 'Lưu Hà', 'Kình Dương'],
     doUuTien: 65,
-    tomTat: `⚠️ **Thiên Sứ + Thiên Không + Lưu Hà + Kình Dương đồng chiếu vào hạn** —
+    tomTat: `**Thiên Sứ + Thiên Không + Lưu Hà + Kình Dương đồng chiếu vào hạn** —
 **CHẾT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bộ sao mang tính **HUNG HIỂM NẶNG NỀ**
 - Tổn hại **NGHIÊM TRỌNG** sức khỏe và **TÍNH MẠNG**
 
-⚡ **Phân tích:**
+**Phân tích:**
 - **Thiên Không** = sao trống không, hủy diệt
 - **Lưu Hà** = thủy tai, sát phạt
 - **Kình Dương** = dao kéo, sát thương
 - **Thiên Sứ** = sứ giả nhà Trời
 
-⚡ **Là một trong các cách CỰC XẤU nhất** khi luận hạn về tử vong.`,
+**Là một trong các cách CỰC XẤU nhất** khi luận hạn về tử vong.`,
   },
 
   {
@@ -154,19 +154,19 @@ thể thay đổi.
     sao: ['Thiên Sứ'],
     ketHop: ['Tang Môn', 'Bạch Hổ'],
     doUuTien: 60,
-    tomTat: `⚠️ **Thiên Sứ + Tang Môn + Bạch Hổ vào hạn** — **CÓ TANG**.
+    tomTat: `**Thiên Sứ + Tang Môn + Bạch Hổ vào hạn** — **CÓ TANG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Báo hiệu **NỖI ĐAU TANG TÓC**
 - Bệnh tật hoặc **MẤT MÁT NẶNG NỀ** trong gia đình
-- Tại cung nào → tang có thể xảy ra cho **NGƯỜI THUỘC CUNG ĐÓ**
+- Tại cung nào: tang có thể xảy ra cho **NGƯỜI THUỘC CUNG ĐÓ**
 
-⚡ **Phân tích:**
+**Phân tích:**
 - **Tang Môn** = sao tang sự
 - **Bạch Hổ** = trục Tang-Hổ kiếp nghiệp (đối xung)
 - **Thiên Sứ** = sứ giả nhà Trời kích hoạt
 
-⚡ **Cách đoán:** Tùy vị trí cung khác trong lá số → suy đoán **AI là người
+**Cách đoán:** Tùy vị trí cung khác trong lá số: suy đoán **AI là người
 gặp nạn** và **biến cố xảy ra ở đâu**.`,
   },
 
@@ -177,20 +177,20 @@ gặp nạn** và **biến cố xảy ra ở đâu**.`,
     chi: ['Tý'],
     ketHop: ['Kình Dương', 'Đà La', 'Thái Tuế'],
     doUuTien: 65,
-    tomTat: `⚠️ **Thiên Sứ tại Tý + Kình Dương + Đà La + Thái Tuế vào nhị hạn** — **CHẾT**.
+    tomTat: `**Thiên Sứ tại Tý + Kình Dương + Đà La + Thái Tuế vào nhị hạn** — **CHẾT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - "Nhị hạn" = cả **ĐẠI HẠN + TIỂU HẠN** cùng phạm
 - Cách cục **CỰC XẤU**
 - Dễ ứng nghiệm với sự kiện, tình huống **NGUY HIỂM TÍNH MẠNG**
 
-⚡ **Cảnh báo:**
-- Nếu không có sao cát tinh chủ hóa giải → khó qua khỏi
+**Cảnh báo:**
+- Nếu không có sao cát tinh chủ hóa giải: khó qua khỏi
 - Là một trong các cách **CHẾT** rõ rệt nhất trong tử vi
 
-⚡ **Vị trí Tý là đặc biệt** vì:
+**Vị trí Tý là đặc biệt** vì:
 - Tý là cung Thủy
-- Thiên Sứ Thủy + cung Thủy → tăng tính sát thủy
+- Thiên Sứ Thủy + cung Thủy: tăng tính sát thủy
 - Thêm Kình Đà sát + Thái Tuế kích hạn`,
   },
 
@@ -200,19 +200,19 @@ gặp nạn** và **biến cố xảy ra ở đâu**.`,
     sao: ['Thiên Sứ'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 65,
-    tomTat: `⚠️ **Thiên Sứ gặp Lục Sát Tinh** — **CHẾT**, mức độ nguy hại **CHỒNG CHẤT**.
+    tomTat: `**Thiên Sứ gặp Lục Sát Tinh** — **CHẾT**, mức độ nguy hại **CHỒNG CHẤT**.
 
-⚡ **Lục Sát Tinh:**
+**Lục Sát Tinh:**
 - **Kình Dương + Đà La** (Cát Sát)
 - **Hỏa Tinh + Linh Tinh** (Hỏa Sát)
 - **Địa Không + Địa Kiếp** (Không Kiếp)
 
-⚡ **Đặc trưng:**
-- Càng hội nhiều hung tinh → biến cố càng lớn
+**Đặc trưng:**
+- Càng hội nhiều hung tinh: biến cố càng lớn
 - Cần cẩn trọng về **SỨC KHỎE**
 - Khó khăn, trở ngại có thể xảy đến
 
-⚡ **Cảnh báo:** Đây là một trong các cách **CHẾT** nguy hiểm nhất khi luận
+**Cảnh báo:** Đây là một trong các cách **CHẾT** nguy hiểm nhất khi luận
 hạn — cần kiểm tra kỹ phúc tinh và sao giải.`,
   },
 
@@ -222,18 +222,18 @@ hạn — cần kiểm tra kỹ phúc tinh và sao giải.`,
     sao: ['Thiên Sứ'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 55,
-    tomTat: `⚠️ **Thiên Sứ + Kình Dương + Đà La** — **DỮ**.
+    tomTat: `**Thiên Sứ + Kình Dương + Đà La** — **DỮ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bộ sát tinh nặng cùng Thiên Sứ
 - Tai họa lớn
 
-⚡ **Hóa giải HIỆU QUẢ:** Cách này CÓ THỂ GIẢI bằng:
+**Hóa giải HIỆU QUẢ:** Cách này CÓ THỂ GIẢI bằng:
 - **Tử Vi**
 - **Thiên Đồng**
 - **Thiên Lương**
 
-⚡ **Lưu ý:** Khi gặp **Tử/Đồng/Lương** đồng cung hoặc tam hợp → tai họa
+**Lưu ý:** Khi gặp **Tử/Đồng/Lương** đồng cung hoặc tam hợp: tai họa
 chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
   },
 
@@ -245,16 +245,16 @@ chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
     doUuTien: 50,
     tomTat: `**Thiên Sứ + Văn Xương vào hạn** — **KHOA TRƯỜNG, THI CỬ LẬN ĐẬN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Học hành, thi cử **KHÔNG ĐẠT KỲ VỌNG**
 - Kết quả không được như mong muốn
 - Khoa cử trắc trở
 
-⚡ **Phân tích:**
+**Phân tích:**
 - **Văn Xương** = sao chủ thi cử khoa bảng
-- **Thiên Sứ** = hung tinh kích hoạt → phá tính tốt của Văn Xương
+- **Thiên Sứ** = hung tinh kích hoạt: phá tính tốt của Văn Xương
 
-⚡ **Hóa giải:** Cần Khôi Việt + Hóa Khoa + Tả Hữu hội chiếu bù đắp.`,
+**Hóa giải:** Cần Khôi Việt + Hóa Khoa + Tả Hữu hội chiếu bù đắp.`,
   },
 
   {
@@ -263,16 +263,16 @@ chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
     sao: ['Thiên Sứ'],
     chi: ['Tý', 'Dần'],
     doUuTien: 60,
-    tomTat: `⚠️ **Thiên Sứ tại Tý hoặc Dần** — **ĐỘC**, vị trí xấu nhất.
+    tomTat: `**Thiên Sứ tại Tý hoặc Dần** — **ĐỘC**, vị trí xấu nhất.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Vị trí Tý và Dần phát huy mạnh nhất tính độc của Thiên Sứ
 
-⚡ **Lưu ý:**
-- Tý là cung Thủy - cùng hành với Sứ → tăng độc
+**Lưu ý:**
+- Tý là cung Thủy - cùng hành với Sứ: tăng độc
 - Dần là Tứ Sinh - kích hoạt biến động
 
-⚡ **Khi luận:** Cần đặc biệt cảnh giác trong vận hạn.`,
+**Khi luận:** Cần đặc biệt cảnh giác trong vận hạn.`,
   },
 
   {
@@ -281,9 +281,9 @@ chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
     sao: ['Thiên Sứ'],
     chi: ['Tý', 'Mão', 'Thìn', 'Ngọ', 'Mùi'],
     doUuTien: 55,
-    tomTat: `⚠️ **Thiên Sứ tại Tý / Mão / Thìn / Ngọ / Mùi** — họa đến **MAU**.
+    tomTat: `**Thiên Sứ tại Tý / Mão / Thìn / Ngọ / Mùi** — họa đến **MAU**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Tại các vị trí này, Thiên Sứ phát tác **NHANH** khi vào hạn
 - Cảnh báo cần đề phòng tai họa **BẤT NGỜ**`,
   },
@@ -294,16 +294,16 @@ chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
     sao: ['Thiên Sứ'],
     ketHop: ['Kình Dương', 'Hỏa Tinh', 'Thiên Riêu', 'Cự Môn'],
     doUuTien: 55,
-    tomTat: `⚠️ **Thiên Sứ + Kình Dương + Hỏa Tinh + Thiên Riêu + Cự Môn vào hạn** —
+    tomTat: `**Thiên Sứ + Kình Dương + Hỏa Tinh + Thiên Riêu + Cự Môn vào hạn** —
 **HẠI CỦA, HẠI NGƯỜI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Hao tán **TIỀN BẠC**
 - Tổn hại **NGƯỜI THÂN**
 - Bị **GHEN GHÉT, ĐỐ KỴ**, sinh thị phi
 - Hao tổn **VẬT CHẤT VÀ TINH THẦN**
 
-⚡ **Hóa giải:**
+**Hóa giải:**
 - Giữ tâm hòa nhã
 - Tránh tranh chấp, lời nói
 - Cát tinh đồng cung sẽ giảm bớt tác họa`,

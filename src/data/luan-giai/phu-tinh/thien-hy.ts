@@ -21,17 +21,17 @@ export const luanGiai_ThienHy: DoanLuanGiai[] = [
 
 **Hóa khí:** **Thiện Tinh**.
 
-⚡ **LUÔN xung đối với Hồng Loan** (cách 6 cung).
+**LUÔN xung đối với Hồng Loan** (cách 6 cung).
 
 **Đặc tính:**
 - **Vui vẻ, vui tính**, thích chuyện vui, **biết thưởng thức, hài hước**
 - **Hỷ sự, may mắn, nụ cười**
 - Lợi ích cho **cưới hỏi và sinh con**
 
-⚡ **Cách an sao:** an theo **địa chi của năm sinh**:
+**Cách an sao:** an theo **địa chi của năm sinh**:
 - Tại cung **Dậu** lấy làm năm **Tý**
 - Chạy **NGƯỢC chiều kim đồng hồ** tới địa chi của năm sinh
-- → Vị trí Thiên Hỷ`,
+-: Vị trí Thiên Hỷ`,
   },
 
   // ============================================================
@@ -42,7 +42,7 @@ export const luanGiai_ThienHy: DoanLuanGiai[] = [
     title: 'Thiên Hỷ vs Hỷ Thần - Đặc tính gần giống nhau',
     sao: ['Thiên Hỷ'],
     doUuTien: 40,
-    tomTat: `⚡ **So sánh Thiên Hỷ vs Hỷ Thần:**
+    tomTat: `**So sánh Thiên Hỷ vs Hỷ Thần:**
 
 | | Thiên Hỷ | Hỷ Thần |
 |---|---|---|
@@ -50,7 +50,7 @@ export const luanGiai_ThienHy: DoanLuanGiai[] = [
 | **Sức mạnh may mắn** | **CAO HƠN** Hỷ Thần | Thấp hơn |
 | **Lý do** | Vì luôn có **Hồng Loan đối xung chiếu về** | - |
 
-🌟 **Hội tụ cả 2 sao Thiên Hỷ + Hỷ Thần** (= **Song Hỷ**): người ấy là người
+**Hội tụ cả 2 sao Thiên Hỷ + Hỷ Thần** (= **Song Hỷ**): người ấy là người
 **vui tính, dễ cười, có óc hài hước, pha trò, tạo hỷ khí với người chung
 quanh**.`,
   },
@@ -63,15 +63,15 @@ quanh**.`,
     title: 'Thiên Hỷ + Hỷ Thần - "Song Hỷ"',
     sao: ['Thiên Hỷ', 'Hỷ Thần'],
     doUuTien: 60,
-    tomTat: `🌟 **Thiên Hỷ + Hỷ Thần** = **"SONG HỶ"** — hỷ khí dồi dào nhất:
+    tomTat: `**Thiên Hỷ + Hỷ Thần** = **"SONG HỶ"** — hỷ khí dồi dào nhất:
 - Tinh thần **lạc quan**
 - Đời sống gia đình **êm ấm**
 - **Tin vui liên tục**
 
-🌟 **Song Hỷ + Đào + Hồng + Khôi Việt:** **cưới vợ cưới chồng, sinh đẻ quý
+**Song Hỷ + Đào + Hồng + Khôi Việt:** **cưới vợ cưới chồng, sinh đẻ quý
 tử**.
 
-🌟 **Song Hỷ tại Phúc Đức:** **mồ kết mả phát** — tổ tiên phù hộ con cháu thành
+**Song Hỷ tại Phúc Đức:** **mồ kết mả phát** — tổ tiên phù hộ con cháu thành
 đạt, gặp quý nhân giải trừ tai ương.`,
   },
 
@@ -84,7 +84,7 @@ tử**.
     sao: ['Thiên Hỷ'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `🌟 **Thiên Hỷ thủ Mệnh:** người **dung mạo đẹp đẽ, vui tính, hài hước**,
+    tomTat: `**Thiên Hỷ thủ Mệnh:** người **dung mạo đẹp đẽ, vui tính, hài hước**,
 thích chuyện vui, **hay gặp may mắn**.
 
 **Tướng mạo:**
@@ -96,56 +96,56 @@ thích chuyện vui, **hay gặp may mắn**.
 **Tính cách:** **lạc quan, cởi mở, yêu đời** — nội tâm hướng đến điều tích cực,
 **ít khi chìm lâu trong cảm xúc tiêu cực**.
 
-🌟 Hỷ khí mạnh giúp:
+Hỷ khí mạnh giúp:
 - Có **duyên ăn nói, khiếu hài hước**
 - Mang **tiếng cười và bầu không khí thoải mái** cho tập thể
 - Thích **đem may mắn đến cho người**, **tạo tiếng cười** bằng cách vui tươi
   và pha trò
 
-⚡ Ra ngoài hay được gặp **may mắn**, có **người khác giới quý mến và giúp đỡ**.`,
+Ra ngoài hay được gặp **may mắn**, có **người khác giới quý mến và giúp đỡ**.`,
 
     chiTiet: `## Sự nghiệp - giải trí, nghệ thuật
 
-🌟 Sự nghiệp gắn liền với **may mắn và nhân duyên tốt** — không cạnh tranh gay
+Sự nghiệp gắn liền với **may mắn và nhân duyên tốt** — không cạnh tranh gay
 gắt mà đạt vị trí ổn định nhờ **khéo léo, hòa nhã, tạo thiện cảm**.
 
-🌟 **Phù hợp:**
+**Phù hợp:**
 - **Giải trí, nghệ thuật, dịch vụ, tổ chức sự kiện**
 - Công việc cần **tương tác, không khí vui vẻ và năng động**
 
-🌟 Thiên Hỷ mang lại **cơ hội bất ngờ**, dễ gặp **quý nhân khác giới** giúp đỡ
-→ thuận lợi thăng tiến.
+Thiên Hỷ mang lại **cơ hội bất ngờ**, dễ gặp **quý nhân khác giới** giúp đỡ
+- thuận lợi thăng tiến.
 
 ## Tình duyên - hôn nhân
 
-🌟 **Thiên Hỷ vốn chủ về cưới hỏi và hỷ sự** → tại Mệnh mang lại nhiều thuận
+**Thiên Hỷ vốn chủ về cưới hỏi và hỷ sự**: tại Mệnh mang lại nhiều thuận
 lợi:
 - **Phong thái cởi mở, dễ tạo thiện cảm với khác giới**
 - Nhân duyên đến **tự nhiên**, **ít trắc trở** kéo dài
 
-🌟 Trong hôn nhân: **mềm mỏng, tích cực** → dễ **hóa giải mâu thuẫn**, đời sống
+Trong hôn nhân: **mềm mỏng, tích cực**: dễ **hóa giải mâu thuẫn**, đời sống
 vợ chồng êm ấm, hạnh phúc duy trì bằng **cảm xúc tích cực** hơn là đối đầu.
 
 ## Sức khỏe - tâm bệnh do giấu kín
 
-⚠️ **Đặc trưng "vui giả - buồn thật":**
-- Hỷ khí mạnh → giữ tinh thần vui vẻ, **ít than phiền** mệt mỏi ra ngoài
-- Dễ **giấu kín tâm sự** → lâu ngày hình thành **TÂM BỆNH** — nội tâm tích tụ
+**Đặc trưng "vui giả - buồn thật":**
+- Hỷ khí mạnh: giữ tinh thần vui vẻ, **ít than phiền** mệt mỏi ra ngoài
+- Dễ **giấu kín tâm sự**: lâu ngày hình thành **TÂM BỆNH** — nội tâm tích tụ
   áp lực không được giải tỏa
 
-⚠️ Vui vẻ chủ quan → dễ **xem nhẹ dấu hiệu cảnh báo** của cơ thể, lơ là phòng
+Vui vẻ chủ quan: dễ **xem nhẹ dấu hiệu cảnh báo** của cơ thể, lơ là phòng
 ngừa/điều trị.
 
 ## Tài lộc
 
-🌟 Hanh thông **nhẹ nhàng**, không quá vất vả nhưng cũng **ít khi đại tài**.
-Có duyên với người và hoàn cảnh → **dễ kiếm tiền** trong:
+Hanh thông **nhẹ nhàng**, không quá vất vả nhưng cũng **ít khi đại tài**.
+Có duyên với người và hoàn cảnh: **dễ kiếm tiền** trong:
 - **Buôn bán, kinh doanh**
 - **Nghệ thuật, dịch vụ, giải trí** — nơi tiếng cười, cảm xúc tích cực và sự
   hài lòng của khách hàng tạo ra giá trị kinh tế
 
-⚠️ **Chi tiêu phóng khoáng:** sẵn sàng bỏ tiền cho **sở thích, tiệc tùng,
-giải trí, tình cảm** → tiền **vào nhanh - ra cũng nhanh**, khó tích lũy lâu dài.
+**Chi tiêu phóng khoáng:** sẵn sàng bỏ tiền cho **sở thích, tiệc tùng,
+giải trí, tình cảm**: tiền **vào nhanh - ra cũng nhanh**, khó tích lũy lâu dài.
 
 ## Lời khuyên
 
@@ -166,15 +166,15 @@ giải trí, tình cảm** → tiền **vào nhanh - ra cũng nhanh**, khó tíc
     sao: ['Thiên Hỷ'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `🌟 **Thiên Hỷ cư Phụ Mẫu:** cha mẹ là người **vui vẻ, sống hòa đồng,
+    tomTat: `**Thiên Hỷ cư Phụ Mẫu:** cha mẹ là người **vui vẻ, sống hòa đồng,
 hay cười, hay nói chuyện vui** và được những người xung quanh **yêu quý**.
 
-🌟 Cha mẹ và con cái **hòa hợp**, hay thoải mái **vui đùa** với nhau, không khí
+Cha mẹ và con cái **hòa hợp**, hay thoải mái **vui đùa** với nhau, không khí
 gia đình **ấm cúng, ngập tràn tiếng cười**.
 
-🌟 Cha mẹ ra ngoài hay **gặp may mắn**, được nhiều **người khác giới hâm mộ**.
+Cha mẹ ra ngoài hay **gặp may mắn**, được nhiều **người khác giới hâm mộ**.
 
-🌟 **Cha mẹ phù hợp các nghề:** **dịch vụ, tổ chức sự kiện, giải trí**.`,
+**Cha mẹ phù hợp các nghề:** **dịch vụ, tổ chức sự kiện, giải trí**.`,
   },
 
   {
@@ -184,7 +184,7 @@ gia đình **ấm cúng, ngập tràn tiếng cười**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Hỷ Thần', 'Ân Quang', 'Thiên Quý'],
     doUuTien: 70,
-    tomTat: `🌟 **Thiên Hỷ Phụ Mẫu + Hỷ Thần / Ân Quang / Thiên Quý:** không khí gia đạo càng **vui vẻ, rộn ràng**.`,
+    tomTat: `**Thiên Hỷ Phụ Mẫu + Hỷ Thần / Ân Quang / Thiên Quý:** không khí gia đạo càng **vui vẻ, rộn ràng**.`,
   },
 
   // ============================================================
@@ -196,15 +196,15 @@ gia đình **ấm cúng, ngập tràn tiếng cười**.
     sao: ['Thiên Hỷ'],
     cung: ['Phúc Đức'],
     doUuTien: 80,
-    tomTat: `🌟 **Thiên Hỷ cư Phúc Đức:** người **được hưởng phúc**.
+    tomTat: `**Thiên Hỷ cư Phúc Đức:** người **được hưởng phúc**.
 
 - **Gia đạo, gia tộc** **hòa thuận, vui vẻ**, quý mến và **giúp đỡ nhau**
 - Trong họ thường có chuyện **hỷ sự** (cưới hỏi, sinh con, sum vầy đoàn tụ)
 - Gia tộc **đầm ấm**, được hưởng **phúc phần tổ tiên**
 
-🌟 **Mồ mả tổ tiên** chôn cất ở **chỗ đất tốt** → con cháu **phát đạt**.
+**Mồ mả tổ tiên** chôn cất ở **chỗ đất tốt**: con cháu **phát đạt**.
 
-🌟 **Giảm chế bệnh tật, tai nạn** xảy đến.`,
+**Giảm chế bệnh tật, tai nạn** xảy đến.`,
   },
 
   {
@@ -214,7 +214,7 @@ gia đình **ấm cúng, ngập tràn tiếng cười**.
     cung: ['Phúc Đức'],
     ketHop: ['Hỷ Thần'],
     doUuTien: 75,
-    tomTat: `🌟 **Thiên Hỷ Phúc Đức + Hỷ Thần** (Song Hỷ): **MỒ KẾT MẢ PHÁT** — tổ tiên phù trợ rất mạnh.`,
+    tomTat: `**Thiên Hỷ Phúc Đức + Hỷ Thần** (Song Hỷ): **MỒ KẾT MẢ PHÁT** — tổ tiên phù trợ rất mạnh.`,
   },
 
   {
@@ -224,7 +224,7 @@ gia đình **ấm cúng, ngập tràn tiếng cười**.
     cung: ['Phúc Đức'],
     ketHop: ['Nguyệt Đức', 'Thiên Đức', 'Hỷ Thần'],
     doUuTien: 75,
-    tomTat: `🌟 **Thiên Hỷ Phúc Đức + Nguyệt Đức / Thiên Đức / Hỷ Thần:** không chỉ "mồ yên mả đẹp" mà còn **"âm phù dương trợ"** → con cháu **thành đạt**, gặp **quý nhân giải trừ tai ương**.`,
+    tomTat: `**Thiên Hỷ Phúc Đức + Nguyệt Đức / Thiên Đức / Hỷ Thần:** không chỉ "mồ yên mả đẹp" mà còn **"âm phù dương trợ"**: con cháu **thành đạt**, gặp **quý nhân giải trừ tai ương**.`,
   },
 
   // ============================================================
@@ -236,20 +236,20 @@ gia đình **ấm cúng, ngập tràn tiếng cười**.
     sao: ['Thiên Hỷ'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `🌟 **Thiên Hỷ cư Điền:** rất **có lợi cho việc mua bán đất cát**, hay
+    tomTat: `**Thiên Hỷ cư Điền:** rất **có lợi cho việc mua bán đất cát**, hay
 **may mắn** trong chuyện đất cát nhà cửa.
 
-⚠️ **Đặc trưng đất:** dễ mua phải mảnh đất **úng thủy** hoặc **lẫn nhiều cát**
+**Đặc trưng đất:** dễ mua phải mảnh đất **úng thủy** hoặc **lẫn nhiều cát**
 (do hành Thủy + đặc tính của Thiên Hỷ).
 
-⚡ **Đặc trưng nhà:** nhà **rộn rã tiếng cười**, hay **tổ chức ăn uống, vui
+**Đặc trưng nhà:** nhà **rộn rã tiếng cười**, hay **tổ chức ăn uống, vui
 chơi, tiệc tùng, ca hát linh đình**. Hoặc dễ là **nhà hàng làm tổ chức sự
 kiện, đám cưới, đám hỏi**.
 
-🌟 Người ở nhà **niềm nở vui vẻ**, được **hàng xóm quý mến**, đặc biệt là
+Người ở nhà **niềm nở vui vẻ**, được **hàng xóm quý mến**, đặc biệt là
 **hàng xóm khác giới**.
 
-⚡ Trước nhà có **bà cô góa chồng** ở vậy.`,
+Trước nhà có **bà cô góa chồng** ở vậy.`,
   },
 
   {
@@ -259,7 +259,7 @@ kiện, đám cưới, đám hỏi**.
     cung: ['Điền Trạch'],
     ketHop: ['Thiên Trù', 'Hóa Lộc', 'Lộc Tồn'],
     doUuTien: 70,
-    tomTat: `🌟 **Thiên Hỷ Điền Trạch + Thiên Trù / Hóa Lộc / Lộc Tồn:** dễ mua được **nhà tốt** hoặc chuyển đến **chỗ ở khang trang**.`,
+    tomTat: `**Thiên Hỷ Điền Trạch + Thiên Trù / Hóa Lộc / Lộc Tồn:** dễ mua được **nhà tốt** hoặc chuyển đến **chỗ ở khang trang**.`,
   },
 
   // ============================================================
@@ -271,15 +271,15 @@ kiện, đám cưới, đám hỏi**.
     sao: ['Thiên Hỷ'],
     cung: ['Quan Lộc'],
     doUuTien: 80,
-    tomTat: `🌟 **Thiên Hỷ cư Quan:** người dễ làm các nghề **giải trí, nghệ
+    tomTat: `**Thiên Hỷ cư Quan:** người dễ làm các nghề **giải trí, nghệ
 thuật**.
 
 Trong công việc luôn **vui vẻ, thân thiện**, đem tiếng cười cho mọi người, được
 **quý mến và giúp đỡ**, đặc biệt là **người khác giới**.
 
-🌟 **Hay được may mắn và dễ NỔI TIẾNG** trong công danh sự nghiệp.
+**Hay được may mắn và dễ NỔI TIẾNG** trong công danh sự nghiệp.
 
-⚡ **Lưu ý:** đôi khi sẽ phải **nhờ đến người khác giới** để có thể thăng tiến
+**Lưu ý:** đôi khi sẽ phải **nhờ đến người khác giới** để có thể thăng tiến
 trong sự nghiệp.`,
   },
 
@@ -290,7 +290,7 @@ trong sự nghiệp.`,
     cung: ['Quan Lộc'],
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 75,
-    tomTat: `🌟 **Thiên Hỷ Quan Lộc + Đào Hoa / Hồng Loan:** **trẻ tuổi đã làm nên sự nghiệp**, nhờ người khác giới mà **thăng tiến**.`,
+    tomTat: `**Thiên Hỷ Quan Lộc + Đào Hoa / Hồng Loan:** **trẻ tuổi đã làm nên sự nghiệp**, nhờ người khác giới mà **thăng tiến**.`,
   },
 
   {
@@ -300,7 +300,7 @@ trong sự nghiệp.`,
     cung: ['Quan Lộc'],
     ketHop: ['Đào Hoa', 'Hồng Loan', 'Tấu Thư', 'Vũ Khúc', 'Thiên Cơ'],
     doUuTien: 75,
-    tomTat: `🌟 **Thiên Hỷ Quan Lộc + Đào Hoa / Hồng Loan + Tấu Thư + Vũ Khúc + Thiên Cơ:** dễ làm nghề **CA HÁT, ÂM NHẠC** — nghệ sĩ, **ca sĩ, kịch sĩ có tiếng**.`,
+    tomTat: `**Thiên Hỷ Quan Lộc + Đào Hoa / Hồng Loan + Tấu Thư + Vũ Khúc + Thiên Cơ:** dễ làm nghề **CA HÁT, ÂM NHẠC** — nghệ sĩ, **ca sĩ, kịch sĩ có tiếng**.`,
   },
 
   // ============================================================
@@ -312,13 +312,13 @@ trong sự nghiệp.`,
     sao: ['Thiên Hỷ'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `🌟 **Thiên Hỷ cư Nô:** bạn bè **vui tính, hòa thuận, hay pha trò
+    tomTat: `**Thiên Hỷ cư Nô:** bạn bè **vui tính, hòa thuận, hay pha trò
 cười**.
 
 Bạn bè đồng nghiệp hay đem **tin vui, may mắn** đến cho đương số. Bạn bè nhiều
 người hoạt động trong lĩnh vực **giải trí, dịch vụ, tổ chức sự kiện**.
 
-🌟 Người dễ làm công việc liên quan tới **tổ chức sự kiện, set up chương trình
+Người dễ làm công việc liên quan tới **tổ chức sự kiện, set up chương trình
 phục vụ khách hàng**.`,
   },
 
@@ -329,7 +329,7 @@ phục vụ khách hàng**.`,
     cung: ['Nô Bộc'],
     ketHop: ['Tả Phù', 'Hữu Bật'],
     doUuTien: 70,
-    tomTat: `🌟 **Thiên Hỷ Nô Bộc + Tả Phù / Hữu Bật:** bạn bè **hết lòng giúp đỡ** khi đương số cần.`,
+    tomTat: `**Thiên Hỷ Nô Bộc + Tả Phù / Hữu Bật:** bạn bè **hết lòng giúp đỡ** khi đương số cần.`,
   },
 
   {
@@ -339,7 +339,7 @@ phục vụ khách hàng**.`,
     cung: ['Nô Bộc'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thiên Hỷ Nô Bộc + Sát tinh:** cẩn trọng vì **sau tiếng cười** có thể tiềm ẩn **sự phản bội, bị chơi xấu sau lưng**.`,
+    tomTat: `**Thiên Hỷ Nô Bộc + Sát tinh:** cẩn trọng vì **sau tiếng cười** có thể tiềm ẩn **sự phản bội, bị chơi xấu sau lưng**.`,
   },
 
   // ============================================================
@@ -351,13 +351,13 @@ phục vụ khách hàng**.`,
     sao: ['Thiên Hỷ'],
     cung: ['Thiên Di'],
     doUuTien: 78,
-    tomTat: `🌟 **Thiên Hỷ cư Thiên Di:** người ra ngoài luôn **vui vẻ, thân
+    tomTat: `**Thiên Hỷ cư Thiên Di:** người ra ngoài luôn **vui vẻ, thân
 thiện**, hay tạo **tiếng cười** cho mọi người.
 
-🌟 **Rất MAY MẮN** — ra ngoài hầu hết đều được **nhiều người để ý và giúp đỡ
-tận tình** → hầu hết **không gặp vấn đề gì không biết giải quyết**.
+**Rất MAY MẮN** — ra ngoài hầu hết đều được **nhiều người để ý và giúp đỡ
+tận tình**: hầu hết **không gặp vấn đề gì không biết giải quyết**.
 
-🌟 Khi ra ngoài hay được **mời dự tiệc**, kết thêm nhiều **bạn mới**.`,
+Khi ra ngoài hay được **mời dự tiệc**, kết thêm nhiều **bạn mới**.`,
   },
 
   {
@@ -367,7 +367,7 @@ tận tình** → hầu hết **không gặp vấn đề gì không biết giả
     cung: ['Thiên Di'],
     ketHop: ['Hoa Cái', 'Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 73,
-    tomTat: `🌟 **Thiên Hỷ Thiên Di + Hoa Cái / Tả Phù / Hữu Bật / Thiên Khôi / Thiên Việt:** thường được **người tốt giúp đỡ**. Vốn **"ăn nói có duyên"** → dễ gây thiện cảm, khó khăn trong đời đều có cách hóa giải nhẹ nhàng.`,
+    tomTat: `**Thiên Hỷ Thiên Di + Hoa Cái / Tả Phù / Hữu Bật / Thiên Khôi / Thiên Việt:** thường được **người tốt giúp đỡ**. Vốn **"ăn nói có duyên"**: dễ gây thiện cảm, khó khăn trong đời đều có cách hóa giải nhẹ nhàng.`,
   },
 
   // ============================================================
@@ -379,17 +379,17 @@ tận tình** → hầu hết **không gặp vấn đề gì không biết giả
     sao: ['Thiên Hỷ'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `⚡ **Thiên Hỷ cư Tật Ách:** chủ về **bệnh thận, bệnh tử cung** (do
+    tomTat: `**Thiên Hỷ cư Tật Ách:** chủ về **bệnh thận, bệnh tử cung** (do
 hành Thủy).
 
-🌟 Hay được **may mắn cứu giúp** khi có tai họa hay bệnh tật. Mắc bệnh phần lớn
+Hay được **may mắn cứu giúp** khi có tai họa hay bệnh tật. Mắc bệnh phần lớn
 là **bệnh nhẹ, nhanh khỏi** nhờ:
 - Có người **giúp đỡ**
 - Gặp **bác sĩ giỏi**
 - **Tinh thần lạc quan** giúp vượt qua hoạn nạn — **"một nụ cười bằng mười
   thang thuốc bổ"**
 
-⚠️ Đôi khi vì **vui đùa, vui vẻ quá mức** mà dễ dính **tai họa, nạn ách** (chủ
+Đôi khi vì **vui đùa, vui vẻ quá mức** mà dễ dính **tai họa, nạn ách** (chủ
 quan, mất cảnh giác).`,
   },
 
@@ -402,13 +402,13 @@ quan, mất cảnh giác).`,
     sao: ['Thiên Hỷ'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `🌟 **Thiên Hỷ cư Tài:** dễ **kiếm tiền**, hay **may mắn** trong việc
+    tomTat: `**Thiên Hỷ cư Tài:** dễ **kiếm tiền**, hay **may mắn** trong việc
 buôn bán, làm ăn kinh doanh.
 
-🌟 **Sử dụng tiếng cười để kiếm tiền** — làm các ngành **giải trí, tổ chức sự
+**Sử dụng tiếng cười để kiếm tiền** — làm các ngành **giải trí, tổ chức sự
 kiện**.
 
-⚠️ **Đặc trưng tiêu tiền:** hay **tốn tiền vào việc đem niềm vui cho mình** —
+**Đặc trưng tiêu tiền:** hay **tốn tiền vào việc đem niềm vui cho mình** —
 **ăn chơi, giải trí, yêu đương**.`,
   },
 
@@ -419,7 +419,7 @@ kiện**.
     cung: ['Tài Bạch'],
     ketHop: ['Hỷ Thần', 'Hóa Lộc', 'Hóa Khoa'],
     doUuTien: 73,
-    tomTat: `🌟 **Thiên Hỷ Tài Bạch + Hỷ Thần / Hóa Lộc / Hóa Khoa:** dễ **phát tài** từ công việc liên quan **cưới hỏi, giải trí, dịch vụ**.`,
+    tomTat: `**Thiên Hỷ Tài Bạch + Hỷ Thần / Hóa Lộc / Hóa Khoa:** dễ **phát tài** từ công việc liên quan **cưới hỏi, giải trí, dịch vụ**.`,
   },
 
   // ============================================================
@@ -431,7 +431,7 @@ kiện**.
     sao: ['Thiên Hỷ'],
     cung: ['Tử Tức'],
     doUuTien: 78,
-    tomTat: `🌟 **Thiên Hỷ cư Tử Tức:** con cái **vui vẻ hòa thuận**, hay thích
+    tomTat: `**Thiên Hỷ cư Tử Tức:** con cái **vui vẻ hòa thuận**, hay thích
 **nô đùa**.
 
 Con cái:
@@ -439,7 +439,7 @@ Con cái:
 - Thuận hòa với mọi mối quan hệ xã hội
 - Dễ có người **nổi tiếng** trong hoạt động **nghệ thuật, giải trí, ca hát**
 
-🌟 Tính tình con cái **hoạt bát, lanh lợi, giao tiếp khéo**. Nếu tham gia nghệ
+Tính tình con cái **hoạt bát, lanh lợi, giao tiếp khéo**. Nếu tham gia nghệ
 thuật/giải trí thì càng dễ **nổi danh** khiến cha mẹ **tự hào**.`,
   },
 
@@ -450,7 +450,7 @@ thuật/giải trí thì càng dễ **nổi danh** khiến cha mẹ **tự hào*
     cung: ['Tử Tức'],
     ketHop: ['Hỷ Thần', 'Thiên Phúc', 'Thiên Quan', 'Thanh Long', 'Hóa Khoa'],
     doUuTien: 73,
-    tomTat: `🌟 **Thiên Hỷ Tử Tức + Hỷ Thần / Thiên Phúc / Thiên Quan / Thanh Long / Hóa Khoa:** con cái **dễ nuôi, ngoan ngoãn, hiếu thảo, thành đạt**, **cưới hỏi thuận lợi**.`,
+    tomTat: `**Thiên Hỷ Tử Tức + Hỷ Thần / Thiên Phúc / Thiên Quan / Thanh Long / Hóa Khoa:** con cái **dễ nuôi, ngoan ngoãn, hiếu thảo, thành đạt**, **cưới hỏi thuận lợi**.`,
   },
 
   // ============================================================
@@ -462,7 +462,7 @@ thuật/giải trí thì càng dễ **nổi danh** khiến cha mẹ **tự hào*
     sao: ['Thiên Hỷ'],
     cung: ['Phu Thê'],
     doUuTien: 80,
-    tomTat: `🌟 **Thiên Hỷ cư Phu Thê:** dấu hiệu **MAY MẮN** — vợ chồng **cưới
+    tomTat: `**Thiên Hỷ cư Phu Thê:** dấu hiệu **MAY MẮN** — vợ chồng **cưới
 xin dễ dàng**, **thuận hòa, vui vẻ, khá giả**, ra ngoài **nổi tiếng**, nhiều
 người quý mến.
 
@@ -477,7 +477,7 @@ tụ họp sum vầy**.`,
     cung: ['Phu Thê'],
     ketHop: ['Đào Hoa', 'Nguyệt Đức'],
     doUuTien: 75,
-    tomTat: `🌟 **Thiên Hỷ Phu Thê + Đào Hoa / Nguyệt Đức:** vợ chồng càng **đẹp đôi** — **"trai tài gái sắc, ngọc bội vàng thoa"**.`,
+    tomTat: `**Thiên Hỷ Phu Thê + Đào Hoa / Nguyệt Đức:** vợ chồng càng **đẹp đôi** — **"trai tài gái sắc, ngọc bội vàng thoa"**.`,
   },
 
   {
@@ -487,7 +487,7 @@ tụ họp sum vầy**.`,
     cung: ['Phu Thê'],
     ketHop: ['Hồng Loan', 'Đào Hoa'],
     doUuTien: 75,
-    tomTat: `🌟 **Thiên Hỷ Phu Thê + Hồng Loan / Đào Hoa:** người hôn phối **đẹp đẽ, phong lưu lãng mạn**, dễ **cưới sớm**.`,
+    tomTat: `**Thiên Hỷ Phu Thê + Hồng Loan / Đào Hoa:** người hôn phối **đẹp đẽ, phong lưu lãng mạn**, dễ **cưới sớm**.`,
   },
 
   {
@@ -497,7 +497,7 @@ tụ họp sum vầy**.`,
     cung: ['Phu Thê'],
     ketHop: ['Thiên Riêu', 'Thai'],
     doUuTien: 75,
-    tomTat: `⚠️ **Thiên Hỷ Phu Thê + Thiên Riêu / Thai:** có **NGOẠI TÌNH**, **"ông ăn chả bà ăn nem"**.`,
+    tomTat: `**Thiên Hỷ Phu Thê + Thiên Riêu / Thai:** có **NGOẠI TÌNH**, **"ông ăn chả bà ăn nem"**.`,
   },
 
   // ============================================================
@@ -509,12 +509,12 @@ tụ họp sum vầy**.`,
     sao: ['Thiên Hỷ'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `🌟 **Thiên Hỷ cư Huynh Đệ:** anh chị em **vui vẻ, thuận hòa**, gắn
+    tomTat: `**Thiên Hỷ cư Huynh Đệ:** anh chị em **vui vẻ, thuận hòa**, gắn
 bó, thường **quây quần** bên nhau mỗi dịp **lễ tết, cưới hỏi**.
 
-🌟 Quan hệ tình thân **chan hòa, ít mâu thuẫn**.
+Quan hệ tình thân **chan hòa, ít mâu thuẫn**.
 
-🌟 Dễ có người **nổi tiếng** trong ngành **nghệ thuật, giải trí, ca hát** —
+Dễ có người **nổi tiếng** trong ngành **nghệ thuật, giải trí, ca hát** —
 nếu hoạt động trong các lĩnh vực này thì dễ gặt hái **thành công, danh tiếng
 lẫy lừng**.`,
   },
@@ -528,13 +528,13 @@ lẫy lừng**.`,
     sao: ['Thiên Hỷ'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Long Trì', 'Phượng Các', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 60,
-    tomTat: `🌟 **Thiên Hỷ + Tả Phù / Hữu Bật / Long Trì / Phượng Các / Khôi /
+    tomTat: `**Thiên Hỷ + Tả Phù / Hữu Bật / Long Trì / Phượng Các / Khôi /
 Việt** = thế **"SONG HỶ LÂM MÔN"**:
 - **Nhiều tin vui cùng lúc** trong đời
 - Sự nghiệp / chức vị **thăng tiến**
 - Đi kèm **hỷ sự gia đình** (cưới hỏi, sinh con)
 
-→ Đương số có hỷ sự lại **thăng quan tiến chức**, **danh tiếng lan xa**, được
+- Đương số có hỷ sự lại **thăng quan tiến chức**, **danh tiếng lan xa**, được
 nhiều người kính nể.`,
   },
 
@@ -547,8 +547,8 @@ nhiều người kính nể.`,
     sao: ['Thiên Hỷ'],
     ketHop: ['Vũ Khúc', 'Thiên Cơ', 'Tấu Thư'],
     doUuTien: 60,
-    tomTat: `🌟 **Thiên Hỷ + Vũ Khúc / Thiên Cơ / Tấu Thư:** hỷ khí chuyển hóa
-thành **năng khiếu nghệ thuật** → bản mệnh dễ **thành danh** trong:
+    tomTat: `**Thiên Hỷ + Vũ Khúc / Thiên Cơ / Tấu Thư:** hỷ khí chuyển hóa
+thành **năng khiếu nghệ thuật**: bản mệnh dễ **thành danh** trong:
 - **Biểu diễn**
 - **Sáng tạo**
 - **Nghệ thuật sân khấu**
@@ -561,7 +561,7 @@ thành **năng khiếu nghệ thuật** → bản mệnh dễ **thành danh** tr
     sao: ['Thiên Hỷ'],
     ketHop: ['Đào Hoa', 'Hồng Loan', 'Tấu Thư', 'Vũ Khúc', 'Thiên Cơ'],
     doUuTien: 55,
-    tomTat: `🌟 **Thiên Hỷ + Đào Hoa / Hồng Loan + Tấu Thư + Vũ Khúc + Thiên Cơ:** **nghệ sĩ, ca sĩ, kịch sĩ CÓ TIẾNG**.`,
+    tomTat: `**Thiên Hỷ + Đào Hoa / Hồng Loan + Tấu Thư + Vũ Khúc + Thiên Cơ:** **nghệ sĩ, ca sĩ, kịch sĩ CÓ TIẾNG**.`,
   },
 
   // ============================================================
@@ -573,15 +573,15 @@ thành **năng khiếu nghệ thuật** → bản mệnh dễ **thành danh** tr
     sao: ['Thiên Hỷ'],
     ketHop: ['Thiên Riêu', 'Thai'],
     doUuTien: 55,
-    tomTat: `⚠️ **Thiên Hỷ + Thiên Riêu / Thai:** hỷ khí dễ nghiêng sang **sắc
-dục**, **ham vui quá mức** → dẫn đến:
+    tomTat: `**Thiên Hỷ + Thiên Riêu / Thai:** hỷ khí dễ nghiêng sang **sắc
+dục**, **ham vui quá mức**: dẫn đến:
 - **Ngoại duyên, tình cảm rối rắm**
 - Ảnh hưởng trực tiếp đến **hạnh phúc gia đình**
 
-⚠️ Biểu hiện: **vui vẻ bề ngoài** nhưng **nội tâm thiếu ổn định** → "vui giả -
+Biểu hiện: **vui vẻ bề ngoài** nhưng **nội tâm thiếu ổn định**: "vui giả -
 buồn thật", khó giữ an nhiên lâu dài.
 
-→ Trường hợp tại cung Phu Thê được tách thành luận giải riêng.`,
+- Trường hợp tại cung Phu Thê được tách thành luận giải riêng.`,
   },
 
   {
@@ -591,7 +591,7 @@ buồn thật", khó giữ an nhiên lâu dài.
     cung: ['Phu Thê'],
     ketHop: ['Thiên Riêu', 'Thai'],
     doUuTien: 60,
-    tomTat: `⚠️ **Thiên Hỷ + Thiên Riêu / Thai tại Phu Thê:**
+    tomTat: `**Thiên Hỷ + Thiên Riêu / Thai tại Phu Thê:**
 - **"Ông ăn chả bà ăn nem"** — **NGOẠI TÌNH**
 - Vợ chồng đều có tình cảm bên ngoài
 - Hạnh phúc gia đình **rạn nứt**
@@ -606,24 +606,24 @@ buồn thật", khó giữ an nhiên lâu dài.
     title: 'Thiên Hỷ vào hạn',
     sao: ['Thiên Hỷ'],
     doUuTien: 55,
-    tomTat: `🌟 **Hạn có Thiên Hỷ + Hồng Loan + Đào Hoa:** có **tình duyên**, có
+    tomTat: `**Hạn có Thiên Hỷ + Hồng Loan + Đào Hoa:** có **tình duyên**, có
 **bồ bịch**, hạn **cưới xin**, **sinh con**, có **tin vui**.
 
-🌟 Khi có thêm **Hồng Loan + Tả Hữu + Long Trì / Phượng Các + Thiên Riêu**:
+Khi có thêm **Hồng Loan + Tả Hữu + Long Trì / Phượng Các + Thiên Riêu**:
 có **hỷ sự**, **thành gia thất**, **thăng quan tiến chức**.
 
-🌟 **Song Hỷ + Đào + Hồng + Khôi + Việt:** **cưới vợ cưới chồng, sinh đẻ quý tử**.
+**Song Hỷ + Đào + Hồng + Khôi + Việt:** **cưới vợ cưới chồng, sinh đẻ quý tử**.
 
-⚠️ **NGUYÊN TẮC ĐẶC BIỆT — Hạn vận về già:**
+**NGUYÊN TẮC ĐẶC BIỆT — Hạn vận về già:**
 
-Hồng Đào Hỷ vốn là sao chủ về **tình duyên trai gái** → **không hợp khi vận
+Hồng Đào Hỷ vốn là sao chủ về **tình duyên trai gái**: **không hợp khi vận
 về già**.
 
 > **Về già mà gặp Hồng - Đào - Hỷ là thấy TANG SỰ CHẾT CHÓC**.
 > *(Lúc trẻ là làm đám cưới, là cuộc tình, hoa thảo; về già thì hoa tàn cỏ
 > nát rồi nên vậy)*
 
-→ Người tuổi già hạn đến cung có Đào / Hồng / Hỷ → cần đặc biệt cẩn trọng,
+- Người tuổi già hạn đến cung có Đào / Hồng / Hỷ: cần đặc biệt cẩn trọng,
 **dễ về với tổ tiên**.`,
   },
 ];

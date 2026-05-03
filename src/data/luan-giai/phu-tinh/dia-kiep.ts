@@ -29,7 +29,7 @@ export const luanGiai_DiaKiep: DoanLuanGiai[] = [
 Cùng **Địa Không** = bộ **"Không Kiếp"** — biến cố **bộc phát**, tai nạn **trực
 diện**, **tổn thất khốc liệt** — sao của **đổ vỡ KHÔNG báo trước**.
 
-📌 Phần chung Không Kiếp (sát tinh nặng nhất, Tuần Triệt đảo ngược, đắc địa
+Phần chung Không Kiếp (sát tinh nặng nhất, Tuần Triệt đảo ngược, đắc địa
 hoạnh phát hoạnh phá, sao chế giải / tăng ác, đặc biệt bất lợi nữ mệnh, các
 cách kết hợp) đã viết tại sao Địa Không.`,
 
@@ -65,7 +65,7 @@ hiện rõ rệt theo trạng thái đắc / hãm.`,
     cung: ['Mệnh'],
     trangThai: ['Đắc'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Mệnh:** **nội tâm mạnh mẽ, kiên cường, quyết đoán**.
+    tomTat: `**Địa Kiếp Đắc địa tại Mệnh:** **nội tâm mạnh mẽ, kiên cường, quyết đoán**.
 "Đâm lao phải theo lao" — không dễ khuất phục, luôn tìm cách **xoay chuyển tình
 thế, vượt nghịch cảnh**.`,
   },
@@ -77,7 +77,7 @@ thế, vượt nghịch cảnh**.`,
     trangThai: ['Đắc'],
     ketHop: ['Thiên Tướng', 'Phá Quân', 'Tử Vi'],
     doUuTien: 72,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Mệnh + Thiên Tướng / Phá Quân / Tử Vi:** vận
+    tomTat: `**Địa Kiếp Đắc địa tại Mệnh + Thiên Tướng / Phá Quân / Tử Vi:** vận
 khí **thăng tiến**, đạt thành tựu lớn.`,
   },
 
@@ -87,8 +87,8 @@ khí **thăng tiến**, đạt thành tựu lớn.`,
     cung: ['Mệnh'],
     trangThai: ['Hãm'],
     doUuTien: 75,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Mệnh:** **căng thẳng nội tâm, nóng nảy, bức bối** →
-hành động **thiếu suy nghĩ**. Trắc trở liên tục → **bế tắc, cô lập**. Cuộc đời
+    tomTat: `**Địa Kiếp Hãm địa tại Mệnh:** **căng thẳng nội tâm, nóng nảy, bức bối**
+hành động **thiếu suy nghĩ**. Trắc trở liên tục: **bế tắc, cô lập**. Cuộc đời
 nhiều biến động — "như diều gặp gió" rồi "xuống dốc không phanh".`,
   },
 
@@ -98,7 +98,7 @@ nhiều biến động — "như diều gặp gió" rồi "xuống dốc không 
     cung: ['Mệnh'],
     ketHop: ['Kình Dương', 'Địa Không'],
     doUuTien: 72,
-    tomTat: `⚠️ **Địa Kiếp tại Mệnh + Kình Dương / Địa Không:** sức khỏe / tài chính
+    tomTat: `**Địa Kiếp tại Mệnh + Kình Dương / Địa Không:** sức khỏe / tài chính
 **hao tổn nặng nề**.`,
   },
 
@@ -121,7 +121,7 @@ hiện theo trạng thái đắc / hãm.`,
     cung: ['Phụ Mẫu'],
     trangThai: ['Hãm'],
     doUuTien: 75,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Phụ Mẫu:** **hình khắc nặng nề** — cha mẹ dễ
+    tomTat: `**Địa Kiếp Hãm địa tại Phụ Mẫu:** **hình khắc nặng nề** — cha mẹ dễ
 **tai họa, bệnh tật triền miên, hình tù, ly tán**. Quan hệ căng thẳng, cãi vã,
 **bạo hành**. Con cái không chỉ không nhờ được mà còn **gánh chịu hậu quả** từ
 cha mẹ. Cha mẹ vất vả, có thể có **thói xấu nghiện ngập, cờ bạc**.`,
@@ -133,7 +133,7 @@ cha mẹ. Cha mẹ vất vả, có thể có **thói xấu nghiện ngập, cờ
     cung: ['Phụ Mẫu'],
     trangThai: ['Đắc'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Phụ Mẫu:** vẫn có hình khắc nhưng **giảm bớt**.
+    tomTat: `**Địa Kiếp Đắc địa tại Phụ Mẫu:** vẫn có hình khắc nhưng **giảm bớt**.
 Cha mẹ **mạnh mẽ, quyết đoán**, làm ngành **mạo hiểm hoặc bí mật**. Vẫn có
 thăng trầm, **con cái khó nhờ cha mẹ**, nguy cơ ly cách / sức khỏe vẫn tiềm
 tàng nhưng không quá nặng.`,
@@ -158,7 +158,7 @@ biểu hiện rõ theo trạng thái đắc / hãm.`,
     cung: ['Phúc Đức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Phúc Đức:** dòng họ **sa sút, lụn bại**, có
+    tomTat: `**Địa Kiếp Hãm địa tại Phúc Đức:** dòng họ **sa sút, lụn bại**, có
 **người xấu, bất hảo**. Sự nghiệp nhiều biến động, tuổi thọ chiết giảm, **bệnh
 nan y**. Đây là **NGHIỆP DUYÊN NẶNG NỀ** — phá hỏng nhân duyên cá nhân, **hôn
 nhân không trọn vẹn**, vợ chồng chia ly. Phải gánh nặng cả 2 gia đình.`,
@@ -170,7 +170,7 @@ nhân không trọn vẹn**, vợ chồng chia ly. Phải gánh nặng cả 2 gi
     cung: ['Phúc Đức'],
     trangThai: ['Đắc'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Phúc Đức:** dòng họ thịnh vượng, phát đạt
+    tomTat: `**Địa Kiếp Đắc địa tại Phúc Đức:** dòng họ thịnh vượng, phát đạt
 **nhanh chóng nhưng không bền**. Mộ phần ban đầu được chăm sóc nhưng dễ
 **động chạm, thất lạc** sau.`,
   },
@@ -181,7 +181,7 @@ nhân không trọn vẹn**, vợ chồng chia ly. Phải gánh nặng cả 2 gi
     cung: ['Phúc Đức'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt', 'Thiên Đức', 'Nguyệt Đức', 'Phúc Đức', 'Long Đức'],
     doUuTien: 72,
-    tomTat: `🌟 **Địa Kiếp tại Phúc Đức + Lục Cát Tinh hoặc Tứ Đức (Thiên Đức / Nguyệt
+    tomTat: `**Địa Kiếp tại Phúc Đức + Lục Cát Tinh hoặc Tứ Đức (Thiên Đức / Nguyệt
 Đức / Phúc Đức / Long Đức):** hưởng **phúc lộc trời ban**, gặp **quý nhân giúp
 đỡ**.`,
   },
@@ -197,8 +197,8 @@ nhân không trọn vẹn**, vợ chồng chia ly. Phải gánh nặng cả 2 gi
     doUuTien: 80,
     tomTat: `**Địa Kiếp tại Tật Ách:** tai họa và bệnh tật **bất ngờ, khó lường**.
 
-⚠️ Người bệnh dễ **tuyệt vọng, sa sút tinh thần** → đưa ra **quyết định sai lầm**.
-→ Cần lối sống khoa học, tìm hỗ trợ y tế kịp thời.`,
+Người bệnh dễ **tuyệt vọng, sa sút tinh thần**: đưa ra **quyết định sai lầm**.
+- Cần lối sống khoa học, tìm hỗ trợ y tế kịp thời.`,
   },
 
   {
@@ -207,8 +207,8 @@ nhân không trọn vẹn**, vợ chồng chia ly. Phải gánh nặng cả 2 gi
     cung: ['Tật Ách'],
     trangThai: ['Đắc'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Tật Ách:** mắc bệnh nguy hiểm nhưng **chữa trị
-kịp thời**, hoặc gặp tai nạn nhưng **vượt qua được**. ⚠️ Vẫn cần cẩn trọng —
+    tomTat: `**Địa Kiếp Đắc địa tại Tật Ách:** mắc bệnh nguy hiểm nhưng **chữa trị
+kịp thời**, hoặc gặp tai nạn nhưng **vượt qua được**. Vẫn cần cẩn trọng —
 nguy cơ **tái phát hoặc biến chứng** luôn có thể xảy đến.`,
   },
 
@@ -218,7 +218,7 @@ nguy cơ **tái phát hoặc biến chứng** luôn có thể xảy đến.`,
     cung: ['Tật Ách'],
     trangThai: ['Hãm'],
     doUuTien: 75,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Tật Ách:** sức ảnh hưởng **gấp bội**. Bệnh
+    tomTat: `**Địa Kiếp Hãm địa tại Tật Ách:** sức ảnh hưởng **gấp bội**. Bệnh
 thường thành **NAN Y**, **khó tìm nguyên nhân**, điều trị nhiều trở ngại. Dễ
 **bệnh lạ, dị tật bẩm sinh**, tai nạn bất ngờ ảnh hưởng **tuổi thọ**.`,
   },
@@ -242,7 +242,7 @@ hiện theo trạng thái đắc / hãm.`,
     cung: ['Quan Lộc'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Quan Lộc:** công danh **bấp bênh**, khó được
+    tomTat: `**Địa Kiếp Hãm địa tại Quan Lộc:** công danh **bấp bênh**, khó được
 **trọng dụng** dù có tài. **Mất chức ít nhất 1 lần** trong đời. Dễ **bỏ dở học
 / công việc giữa chừng**. Có xu hướng **làm tắt, làm ẩu, mánh khóe không chính
 đáng**.`,
@@ -255,7 +255,7 @@ hiện theo trạng thái đắc / hãm.`,
     trangThai: ['Hãm'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 73,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Quan Lộc + nhiều sát tinh (Tứ Sát):** sa ngã
+    tomTat: `**Địa Kiếp Hãm địa tại Quan Lộc + nhiều sát tinh (Tứ Sát):** sa ngã
 vào **ngành bất hợp pháp / thế giới ngầm**.`,
   },
 
@@ -265,7 +265,7 @@ vào **ngành bất hợp pháp / thế giới ngầm**.`,
     cung: ['Quan Lộc'],
     trangThai: ['Đắc'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Quan Lộc:** sự nghiệp **bùng nổ, thành công
+    tomTat: `**Địa Kiếp Đắc địa tại Quan Lộc:** sự nghiệp **bùng nổ, thành công
 nhanh chóng** nhưng **không bền** — "lên rồi xuống, xuống rồi lại lên", đỉnh
 cao rồi mất tất cả. Làm công việc **mạo hiểm, liều lĩnh, đôi khi phi nhân tính**
 để **làm giàu chớp nhoáng**.`,
@@ -290,7 +290,7 @@ hiện theo trạng thái đắc / hãm.`,
     cung: ['Nô Bộc'],
     trangThai: ['Hãm'],
     doUuTien: 75,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Nô Bộc:** **mâu thuẫn, hiểu lầm, bị phản bội**
+    tomTat: `**Địa Kiếp Hãm địa tại Nô Bộc:** **mâu thuẫn, hiểu lầm, bị phản bội**
 trong quan hệ bạn bè / đồng nghiệp. Cảm giác **cô lập, thiếu hỗ trợ**.`,
   },
 
@@ -301,8 +301,8 @@ trong quan hệ bạn bè / đồng nghiệp. Cảm giác **cô lập, thiếu h
     trangThai: ['Hãm'],
     ketHop: ['Địa Không', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 72,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Nô Bộc + Địa Không / Kình / sát tinh:** rắc rối
-lớn, bị **tiểu nhân vu oan** → cần "chọn mặt gửi vàng", tránh giao toàn quyền
+    tomTat: `**Địa Kiếp Hãm địa tại Nô Bộc + Địa Không / Kình / sát tinh:** rắc rối
+lớn, bị **tiểu nhân vu oan**: cần "chọn mặt gửi vàng", tránh giao toàn quyền
 lực / tài chính cho người khác.`,
   },
 
@@ -312,8 +312,8 @@ lực / tài chính cho người khác.`,
     cung: ['Nô Bộc'],
     trangThai: ['Đắc'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Nô Bộc:** kết giao với **người tài năng địa vị**,
-kể cả **lực lượng vũ trang**. ⚠️ Vẫn tiềm ẩn biến động — đề phòng **bạn bè giỏi
+    tomTat: `**Địa Kiếp Đắc địa tại Nô Bộc:** kết giao với **người tài năng địa vị**,
+kể cả **lực lượng vũ trang**. Vẫn tiềm ẩn biến động — đề phòng **bạn bè giỏi
 nhưng có thể mang tai họa**. Phản bội/lừa gạt có nhưng **kiểm soát được**.`,
   },
 
@@ -336,8 +336,8 @@ rõ theo trạng thái đắc / hãm.`,
     cung: ['Thiên Di'],
     trangThai: ['Đắc'],
     doUuTien: 78,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Thiên Di:** **"phát dã như lôi"** — làm giàu
-nhanh chóng, **trúng mánh** / gặp **vận may từ bên ngoài**. ⚠️ Thành công
+    tomTat: `**Địa Kiếp Đắc địa tại Thiên Di:** **"phát dã như lôi"** — làm giàu
+nhanh chóng, **trúng mánh** / gặp **vận may từ bên ngoài**. Thành công
 **không bền**, tiền đến nhanh đi nhanh, đôi khi **mất nhiều hơn kiếm được**.
 Bên ngoài huy hoàng nhưng **rủi ro tiềm ẩn**.`,
   },
@@ -348,9 +348,9 @@ Bên ngoài huy hoàng nhưng **rủi ro tiềm ẩn**.`,
     cung: ['Thiên Di'],
     trangThai: ['Hãm'],
     doUuTien: 75,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Thiên Di:** xa quê **lạc lõng, cô đơn**. Giao
+    tomTat: `**Địa Kiếp Hãm địa tại Thiên Di:** xa quê **lạc lõng, cô đơn**. Giao
 tiếp kém linh hoạt, khó tạo quan hệ sâu sắc, dễ **hiểu lầm, xa cách**. Đi xa
-/ công tác → dễ **tai tiếng, thị phi**.`,
+/ công tác: dễ **tai tiếng, thị phi**.`,
   },
 
   // ============================================================
@@ -372,7 +372,7 @@ theo trạng thái đắc / hãm.`,
     cung: ['Điền Trạch'],
     trangThai: ['Hãm'],
     doUuTien: 75,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Điền Trạch:** dễ gặp **tranh chấp đất đai, rắc
+    tomTat: `**Địa Kiếp Hãm địa tại Điền Trạch:** dễ gặp **tranh chấp đất đai, rắc
 rối pháp lý**, hoặc mua phải tài sản **phong thủy xấu**. Phải **di chuyển
 nhiều lần**. Quan hệ gia đình về đất đai **không hòa thuận**, thiếu yên ổn.`,
   },
@@ -383,7 +383,7 @@ nhiều lần**. Quan hệ gia đình về đất đai **không hòa thuận**, 
     cung: ['Điền Trạch'],
     trangThai: ['Đắc'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Điền Trạch:** quản lý, duy trì bất động sản
+    tomTat: `**Địa Kiếp Đắc địa tại Điền Trạch:** quản lý, duy trì bất động sản
 **ổn định, bền vững theo thời gian**. **Gắn bó sâu sắc** với đất tổ tiên, biết
 **giữ gìn và phát huy gia sản**.`,
   },
@@ -394,8 +394,8 @@ nhiều lần**. Quan hệ gia đình về đất đai **không hòa thuận**, 
     cung: ['Điền Trạch'],
     ketHop: ['Thiên Phủ', 'Tả Phù', 'Hữu Bật', 'Lộc Tồn'],
     doUuTien: 72,
-    tomTat: `🌟 **Địa Kiếp tại Điền Trạch + Thiên Phủ / Tả Hữu / Lộc Tồn:** **thừa kế**
-hoặc **mở rộng tài sản âm thầm, ít người biết**. ⚠️ Cần thận trọng — "tham thì
+    tomTat: `**Địa Kiếp tại Điền Trạch + Thiên Phủ / Tả Hữu / Lộc Tồn:** **thừa kế**
+hoặc **mở rộng tài sản âm thầm, ít người biết**. Cần thận trọng — "tham thì
 thâm".`,
   },
 
@@ -411,12 +411,12 @@ thâm".`,
     tomTat: `**Địa Kiếp tại Tài Bạch:** "**phất lên CỰC NHANH**" — thời gian ngắn
 kiếm được khối tài sản lớn.
 
-⚠️ **Phá sản đến nhanh chóng và bất ngờ** như lúc làm giàu. Xu hướng kiếm tiền
+**Phá sản đến nhanh chóng và bất ngờ** như lúc làm giàu. Xu hướng kiếm tiền
 bằng đường **táo bạo, mạo hiểm** (đầu cơ, tích trữ), thậm chí **bất chính** —
 **buôn lậu, mua bán đồ quốc cấm**.
 
-⚠️ Dễ **hao tài tốn của** do quản lý kém hoặc **bị lừa gạt**. Thu nhập không
-ổn định, dễ mất tiền do **tranh chấp / đầu tư sai lầm** → áp lực và **bất an**.`,
+Dễ **hao tài tốn của** do quản lý kém hoặc **bị lừa gạt**. Thu nhập không
+ổn định, dễ mất tiền do **tranh chấp / đầu tư sai lầm**: áp lực và **bất an**.`,
   },
 
   // ============================================================
@@ -438,9 +438,9 @@ bằng đường **táo bạo, mạo hiểm** (đầu cơ, tích trữ), thậm 
     cung: ['Tử Tức'],
     trangThai: ['Hãm'],
     doUuTien: 70,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Tử Tức:** **mâu thuẫn / hiểu lầm nghiêm trọng**
+    tomTat: `**Địa Kiếp Hãm địa tại Tử Tức:** **mâu thuẫn / hiểu lầm nghiêm trọng**
 với con cái. Con dễ mắc **vấn đề sức khỏe, học hành, tinh thần không ổn định**.
-**Tranh chấp / rạn nứt** có thể xảy ra → cần **kiên nhẫn, mềm mỏng** ("mưa dầm
+**Tranh chấp / rạn nứt** có thể xảy ra: cần **kiên nhẫn, mềm mỏng** ("mưa dầm
 thấm lâu") để hóa giải nóng nảy.`,
   },
 
@@ -450,7 +450,7 @@ thấm lâu") để hóa giải nóng nảy.`,
     cung: ['Tử Tức'],
     trangThai: ['Đắc'],
     doUuTien: 70,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Tử Tức:** con cái **năng lực, phát triển mạnh**
+    tomTat: `**Địa Kiếp Đắc địa tại Tử Tức:** con cái **năng lực, phát triển mạnh**
 trong ngành **đặc thù, táo bạo, mạo hiểm**. Hiếm muộn / bất hòa vẫn có nhưng
 **không nghiêm trọng** — con **tự lập sớm, ít phụ thuộc** cha mẹ.`,
   },
@@ -469,7 +469,7 @@ cưới nhanh. Hôn nhân **nhiều biến động**.
 
 Vợ chồng đến với nhau **liều lĩnh, bất chấp phản đối**. Ban đầu khó khăn.
 
-⚠️ Sự thịnh vượng **không kéo dài** — khi có của cải lại **xung đột, nguy cơ
+Sự thịnh vượng **không kéo dài** — khi có của cải lại **xung đột, nguy cơ
 tan vỡ**. Quan hệ **lạnh nhạt, thiếu sẻ chia**.`,
   },
 
@@ -479,7 +479,7 @@ tan vỡ**. Quan hệ **lạnh nhạt, thiếu sẻ chia**.`,
     cung: ['Phu Thê'],
     trangThai: ['Đắc'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Phu Thê:** vợ chồng đến với nhau liều lĩnh, ban
+    tomTat: `**Địa Kiếp Đắc địa tại Phu Thê:** vợ chồng đến với nhau liều lĩnh, ban
 đầu khó khăn, sau **phát đạt nhanh chóng**.`,
   },
 
@@ -489,8 +489,8 @@ tan vỡ**. Quan hệ **lạnh nhạt, thiếu sẻ chia**.`,
     cung: ['Phu Thê'],
     ketHop: ['Địa Không', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 73,
-    tomTat: `⚠️ **Địa Kiếp tại Phu Thê + Địa Không / Kình / sát tinh:** **biến cố hôn
-nhân, rạn nứt lớn** → **chia ly**.`,
+    tomTat: `**Địa Kiếp tại Phu Thê + Địa Không / Kình / sát tinh:** **biến cố hôn
+nhân, rạn nứt lớn**: **chia ly**.`,
   },
 
   // ============================================================
@@ -512,7 +512,7 @@ theo trạng thái đắc / hãm.`,
     cung: ['Huynh Đệ'],
     trangThai: ['Hãm'],
     doUuTien: 75,
-    tomTat: `⚠️ **Địa Kiếp Hãm địa tại Huynh Đệ:** quan hệ huynh đệ **đứt gãy, xa cách
+    tomTat: `**Địa Kiếp Hãm địa tại Huynh Đệ:** quan hệ huynh đệ **đứt gãy, xa cách
 lạnh nhạt** hoặc **ganh đua khốc liệt**. Người trong gia tộc **mang tâm cơ**,
 dễ **xung đột lợi ích, tranh chấp tài sản, quyền lực**. Có thể **khuyết thiếu
 huynh đệ**, sinh ra trong hoàn cảnh **đơn chiếc**.`,
@@ -524,7 +524,7 @@ huynh đệ**, sinh ra trong hoàn cảnh **đơn chiếc**.`,
     cung: ['Huynh Đệ'],
     trangThai: ['Đắc'],
     doUuTien: 75,
-    tomTat: `🌟 **Địa Kiếp Đắc địa tại Huynh Đệ:** anh chị em **chí khí**, cùng nhau
+    tomTat: `**Địa Kiếp Đắc địa tại Huynh Đệ:** anh chị em **chí khí**, cùng nhau
 vượt khó, sát cánh trong sự nghiệp. Quan hệ **gắn bó**, có va chạm nhỏ nhưng
 giữ được **kính trọng nâng đỡ**. Anh chị em **cá tính mạnh, dám nghĩ dám làm**,
 có vai trò **dẫn dắt**.`,
@@ -535,28 +535,28 @@ có vai trò **dẫn dắt**.`,
   // ============================================================
   {
     id: 'dia-kiep-han',
-    title: '⚠️ Địa Kiếp vào hạn - 3 hung họa',
+    title: 'Địa Kiếp vào hạn - 3 hung họa',
     sao: ['Địa Kiếp'],
     doUuTien: 55,
-    tomTat: `⚠️ **Hạn đến Địa Kiếp - 3 hung họa:**
+    tomTat: `**Hạn đến Địa Kiếp - 3 hung họa:**
 
 1. **Tiền bạc HAO TÁN:** mất mát do **đầu tư sai, bị lừa gạt**, hoặc chi tiêu
-   đột xuất ngoài dự liệu → **"liệu cơm gắp mắm"**, tránh phung phí và may rủi
+   đột xuất ngoài dự liệu: **"liệu cơm gắp mắm"**, tránh phung phí và may rủi
 2. **MẤT CHỨC, MẤT QUYỀN:** với người làm quan / lãnh đạo dễ xảy ra **biến động
-   bất lợi** do quyết định **nóng vội thiếu khôn ngoan** → cần thận trọng từng
+   bất lợi** do quyết định **nóng vội thiếu khôn ngoan**: cần thận trọng từng
    quyết định, **khéo léo bảo toàn uy tín**
 3. **VẬN HẠN BỆNH TẬT:** đặc biệt **Phá Quân + Địa Không + Địa Kiếp + Đại Hao
-   + Tiểu Hao** → cảnh báo **bệnh nặng đường hô hấp**. Cần dưỡng sinh, ăn uống
+   + Tiểu Hao**: cảnh báo **bệnh nặng đường hô hấp**. Cần dưỡng sinh, ăn uống
    điều độ, khám sức khỏe định kỳ`,
   },
 
   {
     id: 'dia-kiep-han-mo-xe',
-    title: '⚠️ Địa Kiếp + Phá Quân + Đại Hao + Tiểu Hao + Kình Dương + Thiên Hình vào hạn - mổ xẻ',
+    title: 'Địa Kiếp + Phá Quân + Đại Hao + Tiểu Hao + Kình Dương + Thiên Hình vào hạn - mổ xẻ',
     sao: ['Địa Kiếp'],
     ketHop: ['Phá Quân', 'Đại Hao', 'Tiểu Hao', 'Kình Dương', 'Thiên Hình'],
     doUuTien: 50,
-    tomTat: `⚠️ **Địa Kiếp + Phá Quân + Đại Hao + Tiểu Hao + Kình Dương + Thiên
+    tomTat: `**Địa Kiếp + Phá Quân + Đại Hao + Tiểu Hao + Kình Dương + Thiên
 Hình vào hạn:** phải **mổ xẻ** — bệnh nặng đường hô hấp cần phẫu thuật.`,
   },
 
@@ -571,15 +571,15 @@ Hình vào hạn:** phải **mổ xẻ** — bệnh nặng đường hô hấp c
     tomTat: `**Hóa giải Địa Kiếp = TRÁNH HÀNH ĐỘNG CỰC ĐOAN, LIỀU LĨNH:**
 
 1. **Thu lại "cái tôi"** — nhìn thẳng vào bản chất vấn đề thay vì phản ứng
-   theo cảm xúc. Chấp nhận cả ưu lẫn nhược điểm → chuyển hóa **tổn thương thành
+   theo cảm xúc. Chấp nhận cả ưu lẫn nhược điểm: chuyển hóa **tổn thương thành
    thấu hiểu**
 2. **Điều chỉnh tam quan** (thế giới - nhân sinh - giá trị) phù hợp **chuẩn
    mực đạo đức** và xã hội. Tránh **hành động cực đoan / liều lĩnh không cần
    thiết**
 3. **Tại các cung quan hệ:** tìm hiểu bản chất từng mối liên kết, rèn **kỹ năng
    hòa giải**. **Thiết lập nguyên tắc ngay từ đầu** để hạn chế rủi ro
-4. **Hướng thiện, tu tâm dưỡng tính** + để **cát tinh hội chiếu** → khi tâm an
-   định, trí sáng suốt → Địa Kiếp **không còn là họa**, ngược lại trở thành
+4. **Hướng thiện, tu tâm dưỡng tính** + để **cát tinh hội chiếu**: khi tâm an
+   định, trí sáng suốt: Địa Kiếp **không còn là họa**, ngược lại trở thành
    **động lực trưởng thành** qua mỗi thử thách`,
   },
 ];

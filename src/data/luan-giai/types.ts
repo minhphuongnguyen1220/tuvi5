@@ -5,12 +5,12 @@
  * Engine lookup sẽ tìm các đoạn khớp với 1 cung trong lá số và hiển thị theo độ ưu tiên.
  *
  * Quy tắc khớp:
- *   - Trường rỗng = áp dụng cho TẤT CẢ
- *   - Trường có giá trị = chỉ khớp khi ÍT NHẤT 1 giá trị trùng với cung đang xét
+ * - Trường rỗng = áp dụng cho TẤT CẢ
+ * - Trường có giá trị = chỉ khớp khi ÍT NHẤT 1 giá trị trùng với cung đang xét
  *
  * Ví dụ:
- *   { sao: ['Tử Vi'], cung: ['Mệnh'] } = chỉ áp dụng khi Tử Vi ở cung Mệnh
- *   { sao: ['Tử Vi'] } = áp dụng cho mọi cung có Tử Vi (mô tả tính chất sao chung)
+ * { sao: ['Tử Vi'], cung: ['Mệnh'] } = chỉ áp dụng khi Tử Vi ở cung Mệnh
+ * { sao: ['Tử Vi'] } = áp dụng cho mọi cung có Tử Vi (mô tả tính chất sao chung)
  */
 
 import type { Chi, GioiTinh, TenCung, TrangThaiSao } from '@/core/tuvi/types';

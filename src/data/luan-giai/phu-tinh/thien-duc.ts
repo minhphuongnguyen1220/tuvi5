@@ -7,17 +7,17 @@ import type { DoanLuanGiai } from '../types';
  * Engine HARDCODE quy luật này trong SAO_DONG_CUNG_THAI_TUE.
  *
  * Thuộc BỘ TỨ ĐỨC (4 sao Đức): Thiên Đức + Nguyệt Đức + Phúc Đức + Long Đức.
- *   - Thiên Đức + Phúc Đức ĐỒNG CUNG (vị trí 9 vòng Thái Tuế)
- *   - Long Đức ở vị trí 7 vòng Thái Tuế
- *   - Nguyệt Đức ĐỒNG CUNG Tử Phù (vị trí 5 vòng Thái Tuế)
+ * - Thiên Đức + Phúc Đức ĐỒNG CUNG (vị trí 9 vòng Thái Tuế)
+ * - Long Đức ở vị trí 7 vòng Thái Tuế
+ * - Nguyệt Đức ĐỒNG CUNG Tử Phù (vị trí 5 vòng Thái Tuế)
  *
  * Đặc trưng:
- *   - Phúc Tinh CHỦ về LÒNG NHÂN ÁI, PHÚC ĐỨC, NHÂN HẬU
- *   - HÓA GIẢI tai ương, hung họa, bệnh tật nhỏ
- *   - Khi đi với Đào Hồng → CHẾ tính dâm tà, biến đoan chính
- *   - Câu phú: "Thiên-Nguyệt Đức ngộ Đào Hồng / Trai lấy vợ đẹp gái chồng
- *     giàu sang"
- *   - "Thiên-Nguyệt Đức + Giải Thần + Quan Phúc một làng trừ hung"
+ * - Phúc Tinh CHỦ về LÒNG NHÂN ÁI, PHÚC ĐỨC, NHÂN HẬU
+ * - HÓA GIẢI tai ương, hung họa, bệnh tật nhỏ
+ * - Khi đi với Đào Hồng: CHẾ tính dâm tà, biến đoan chính
+ * - Câu phú: "Thiên-Nguyệt Đức ngộ Đào Hồng / Trai lấy vợ đẹp gái chồng
+ * giàu sang"
+ * - "Thiên-Nguyệt Đức + Giải Thần + Quan Phúc một làng trừ hung"
  */
 export const luanGiai_ThienDuc: DoanLuanGiai[] = [
   {
@@ -29,20 +29,20 @@ export const luanGiai_ThienDuc: DoanLuanGiai[] = [
 
 **Ngũ hành:** **Hỏa**.
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - Chủ về **LÒNG NHÂN ÁI, PHÚC ĐỨC, NHÂN HẬU**
 - **HÓA GIẢI** tai ương, hung họa, bệnh tật nhỏ
 - "Gặp dữ hóa lành" — thoát nạn trong tình huống bế tắc
 
-⚡ **Quy luật vị trí:**
+**Quy luật vị trí:**
 - Thiên Đức **LUÔN ĐỒNG CUNG** sao **PHÚC ĐỨC** (vòng Thái Tuế vị trí 9)
 
-⚡ **Bộ Tứ Đức** (Thiên Đức + Nguyệt Đức + Phúc Đức + Long Đức):
-- **CHẾ Đào Hồng** → đào hoa thành đoan chính
+**Bộ Tứ Đức** (Thiên Đức + Nguyệt Đức + Phúc Đức + Long Đức):
+- **CHẾ Đào Hồng**: đào hoa thành đoan chính
 - **HÓA GIẢI** sát tinh, tăng phúc thọ
-- 4 sao đầy đủ → cách cục cứu giải mạnh nhất
+- 4 sao đầy đủ: cách cục cứu giải mạnh nhất
 
-⚡ **So với Long Đức:**
+**So với Long Đức:**
 - Cả 2 đều là sao Giải - sao Đức
 - Long Đức ở vị trí 7 vòng Thái Tuế (đồng cung Long Đức nguyên thủy)
 - Thiên Đức đồng cung Phúc Đức ở vị trí 9`,
@@ -60,18 +60,18 @@ export const luanGiai_ThienDuc: DoanLuanGiai[] = [
     tomTat: `**Bộ TỨ ĐỨC** đầy đủ (Thiên Đức + Nguyệt Đức + Phúc Đức + Long Đức) — cách
 **CỨU GIẢI MẠNH NHẤT**.
 
-⚡ **Đặc trưng:**
-- 4 sao Đức hội tụ → khả năng **CỨU GIẢI** đỉnh cao
+**Đặc trưng:**
+- 4 sao Đức hội tụ: khả năng **CỨU GIẢI** đỉnh cao
 - **HÓA GIẢI** sát tinh, tai họa, bệnh tật
 - **TĂNG PHÚC THỌ**
-- **CHẾ ĐÀO HỒNG** → đào hoa thành **ĐOAN CHÍNH**
+- **CHẾ ĐÀO HỒNG**: đào hoa thành **ĐOAN CHÍNH**
 
-⚡ **Đặc biệt:**
+**Đặc biệt:**
 - Vị trí **THIẾU DƯƠNG, THIÊN KHÔNG** vòng Thái Tuế **LUÔN HỘI TỤ ĐỦ Tứ Đức**
 - Bộ này hợp người **TU TẬP, ĐẠO HẠNH, TÂM LINH**
 - Hợp nghề **CỨU GIÚP NGƯỜI**
 
-⚡ **Câu phú liên quan:**
+**Câu phú liên quan:**
 - "Thiên - Nguyệt Đức, Giải Thần tàng / Cùng là Quan Phúc một làng trừ
   hung"
 - "Thiên - Nguyệt Đức ngộ Đào Hồng / Trai lấy vợ đẹp, gái chồng giàu sang"`,
@@ -86,17 +86,17 @@ export const luanGiai_ThienDuc: DoanLuanGiai[] = [
     tomTat: `**Câu phú: "Thiên - Nguyệt Đức, Giải Thần tàng / Cùng là Quan Phúc một làng
 trừ hung"** — bộ giải hung.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Thiên Đức + Nguyệt Đức + Giải Thần + Quan Phúc hội tụ
 - "**MỘT LÀNG TRỪ HUNG**" - cả làng đều được giải họa
 - Cứu nạn cứu khổ tột bậc
 - Đặc biệt mạnh khi vào hạn xấu
 
-⚡ **Phân tích:**
+**Phân tích:**
 - 2 sao Đức = phúc thiện
 - Giải Thần = sao giải mạnh nhất
 - Quan Phúc = quý nhân từ thiên
-- Cộng hưởng → khả năng **HÓA GIẢI ĐỈNH CAO**`,
+- Cộng hưởng: khả năng **HÓA GIẢI ĐỈNH CAO**`,
   },
 
   {
@@ -108,10 +108,10 @@ trừ hung"** — bộ giải hung.
     tomTat: `**Câu phú: "Thiên - Nguyệt Đức ngộ Đào Hồng / Trai lấy vợ đẹp, gái chồng
 giàu sang"** — quý cách hôn nhân.
 
-⚡ **Đặc trưng:**
-- Trai → **LẤY VỢ ĐẸP**
-- Gái → **CHỒNG GIÀU SANG**
-- Tứ Đức **CHẾ** tính dâm tà của Đào Hồng → biến **ĐOAN CHÍNH**
+**Đặc trưng:**
+- Trai: **LẤY VỢ ĐẸP**
+- Gái: **CHỒNG GIÀU SANG**
+- Tứ Đức **CHẾ** tính dâm tà của Đào Hồng: biến **ĐOAN CHÍNH**
 - Thu hút bằng **PHẨM HẠNH**, không lả lơi
 - Hôn nhân **ĐỒNG ĐIỆU**, đẹp đôi`,
   },
@@ -123,7 +123,7 @@ giàu sang"** — quý cách hôn nhân.
     cung: ['Phu Thê'],
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 70,
-    tomTat: `🌟 **Thiên Đức + Nguyệt Đức + Đào Hồng tại Phu Thê:**
+    tomTat: `**Thiên Đức + Nguyệt Đức + Đào Hồng tại Phu Thê:**
 - Vợ chồng **TRAI TÀI GÁI SẮC**
 - Tình cảm **HÒA HỢP**
 - Gia đình được **NHIỀU NGƯỜI NGƯỠNG MỘ**`,
@@ -138,10 +138,10 @@ giàu sang"** — quý cách hôn nhân.
     tomTat: `**Thiên Đức + Thiên Lương** (cùng cung hoặc hội chiếu) — duyên **TU TẬP, ĐẠO
 SĨ TĂNG NHÂN**.
 
-⚡ **Câu phú:** *"Thiên Lương, Nguyệt Đức chiếu kề - Một là đạo sĩ, hai là
+**Câu phú:** *"Thiên Lương, Nguyệt Đức chiếu kề - Một là đạo sĩ, hai là
 tăng nhân"* — Thiên Đức cũng cùng tính chất.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Người có **DUYÊN TU TẬP**
 - Thích **TÌM HIỂU TÂM LINH, PHẬT PHÁP**
 - Bản tính **TỪ BI, NHÂN HẬU**
@@ -159,13 +159,13 @@ tăng nhân"* — Thiên Đức cũng cùng tính chất.
     tomTat: `**Thiên Đức + Tử Vi / Thiên Phủ / Thiên Đồng / Thiên Lương + Quang Quý + Quan
 Phúc tại Điền Trạch** — nhà thờ **PHẬT BÀ QUAN ÂM**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Nhà có **THỜ PHẬT BÀ QUAN ÂM**
 - Nhà thờ **PHẬT, THÁNH** trong nhà
 - Gia giáo **NỀ NẾP**
 - Mộ phần tổ tiên đặt gần nơi thờ Phật
 
-⚡ **Đặc biệt:** đây là cách của những gia đình có **TRUYỀN THỐNG TÂM LINH**,
+**Đặc biệt:** đây là cách của những gia đình có **TRUYỀN THỐNG TÂM LINH**,
 con cháu đời sau cũng dễ có duyên tu tập.`,
   },
 
@@ -182,27 +182,27 @@ con cháu đời sau cũng dễ có duyên tu tập.`,
     doUuTien: 80,
     tomTat: `**Thiên Đức thủ Mệnh** — tâm hồn **ĐẸP, PHÚC HẬU**.
 
-⚡ **Bản chất:**
+**Bản chất:**
 - **NHÂN HẬU, KHOAN DUNG, ĐOAN CHÍNH**
 - Tâm hồn **TRONG SÁNG, GIÀU LÒNG NHÂN ÁI**
 - Thích **GIÚP NGƯỜI VÀ LÀM VIỆC THIỆN**
 - "**GIEO NHÂN LÀNH ĐỂ GẶT PHÚC**"
-- Càng tích đức → **PHÚC BÁO CÀNG DÀY**
+- Càng tích đức: **PHÚC BÁO CÀNG DÀY**
 
-⚡ **Khả năng giải hung:**
+**Khả năng giải hung:**
 - **HÓA GIẢI** tai ương, bệnh tật nhỏ
 - Đem lại **MAY MẮN, HỶ SỰ**
 
-⚠️ **Đặc biệt - Thiên Đức tại Mệnh CŨNG đồng cung Phúc Đức:**
-- → Tam hợp Thái Tuế: **Thiếu Dương + Thiên Không + Đào Hoa + Kiếp Sát + Tử
+**Đặc biệt - Thiên Đức tại Mệnh CŨNG đồng cung Phúc Đức:**
+-: Tam hợp Thái Tuế: **Thiếu Dương + Thiên Không + Đào Hoa + Kiếp Sát + Tử
   Phù** (do Phúc Đức là sao vòng Thái Tuế vị trí 9)
 - Bộ sao **BỘC PHÁT VÀ BIẾN ĐỘNG**
 - Vận trình **KHÔNG PHẢI LÚC NÀO CŨNG SUÔN SẺ**
 
-⚡ **Lời khuyên:**
+**Lời khuyên:**
 - Tựa "**KHUÔN VÀNG THƯỚC NGỌC**" nhắc nhở **TU DƯỠNG TÂM TÍNH**
 - Dùng trí tuệ vào **VIỆC CHÍNH ĐÁNG**
-- Nếu mưu trí dùng vào **VIỆC SAI TRÁI** → thành công cũng **CHÓNG TÀN**`,
+- Nếu mưu trí dùng vào **VIỆC SAI TRÁI**: thành công cũng **CHÓNG TÀN**`,
   },
 
   {
@@ -227,7 +227,7 @@ Thiên Quan, Thiên Phúc, Quang Quý, Tả Hữu):
     doUuTien: 75,
     tomTat: `**Thiên Đức tại Phụ Mẫu** — cha mẹ **HIỀN HÒA, NHÂN TỪ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Cha mẹ thường là người **HIỀN HÒA, NHÂN TỪ**
 - Giàu **LÒNG VỊ THA**
 - Sống **CÓ TÌNH CÓ NGHĨA**
@@ -269,7 +269,7 @@ Thiên Quan, Thiên Phúc, Quang Quý, Tả Hữu):
     doUuTien: 78,
     tomTat: `**Thiên Đức tại Phúc Đức** — phúc khí gia tộc **BỀN LÂU**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dòng họ có nhiều người **SỐNG THIỆN LƯƠNG**
 - Biết "**DĨ HÒA VI QUÝ**", cư xử **NHÚN NHƯỜNG**
 - Trong nhà ngoài ngõ đều **YÊN ẤM**
@@ -312,7 +312,7 @@ Thiên Quan, Thiên Phúc, Quang Quý, Tả Hữu):
     doUuTien: 75,
     tomTat: `**Thiên Đức tại Điền Trạch** — gặp **QUÝ NHÂN** hỗ trợ dựng cơ nghiệp.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ gặp **QUÝ NHÂN HỖ TRỢ** trong việc dựng xây cơ nghiệp, tạo dựng nhà
   cửa
 - Mối quan hệ với **HÀNG XÓM LÁNG GIỀNG ÊM Ả**
@@ -331,7 +331,7 @@ Thiên Quan, Thiên Phúc, Quang Quý, Tả Hữu):
     doUuTien: 78,
     tomTat: `**Thiên Đức tại Quan Lộc** — sự nghiệp **HANH THÔNG**, ít trở ngại.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Sự nghiệp thường **HANH THÔNG**
 - **ÍT GẶP TRỞ NGẠI LỚN**
 - Người luôn đặt **CÁI TÂM NGANG VỚI TÀI**
@@ -359,7 +359,7 @@ Thiên Quan, Thiên Phúc, Quang Quý, Tả Hữu):
     doUuTien: 75,
     tomTat: `**Thiên Đức tại Nô Bộc** — bạn bè **NHÂN ÁI, THẤU HIỂU**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bạn bè, cộng sự xung quanh có **TẤM LÒNG NHÂN ÁI**
 - Có **SỰ THẤU HIỂU VÀ NÂNG ĐỠ** lẫn nhau
 - Mối liên hệ xã giao **KHÁ YÊN ẤM**, ít sóng gió
@@ -387,7 +387,7 @@ Nô Bộc:**
     doUuTien: 75,
     tomTat: `**Thiên Đức tại Thiên Di** — ra ngoài **NHÃ NHẶN, KHIÊM TỐN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Khi bước chân ra ngoài luôn biết giữ thái độ **NHÃ NHẶN, KHIÊM TỐN**
 - Biết **GIÚP NGƯỜI LÚC KHÓ KHĂN**
 - Dễ được người khác **ĐÁP LẠI ÂN TÌNH**`,
@@ -416,17 +416,17 @@ Nô Bộc:**
     tomTat: `**Thiên Đức tại Tật Ách** — Phúc tinh thuộc bộ Tứ Đức tạo "**LÁ CHẮN BẢO
 VỆ**".
 
-⚡ **Đặc trưng:**
-- Phúc tinh **SOI CHIẾU** → tạo **LÁ CHẮN**
+**Đặc trưng:**
+- Phúc tinh **SOI CHIẾU**: tạo **LÁ CHẮN**
 - Giúp **GIẢM NHẸ BỆNH TẬT, TAI NẠN NHỎ**
-- Gieo nhân lành → khi đau ốm **DỄ GẶP ĐƯỢC THẦY HAY THUỐC TỐT**
+- Gieo nhân lành: khi đau ốm **DỄ GẶP ĐƯỢC THẦY HAY THUỐC TỐT**
 - **BỆNH NẶNG HÓA NHẸ**
 - Nhiều lần **THOÁT NẠN TRONG GANG TẤC**
 
-⚡ **Lời khuyên:**
+**Lời khuyên:**
 - Chăm chỉ làm việc **THIỆN, TÍCH ĐỨC**
 - Tu tập tâm linh
-- Tăng phúc → tăng khả năng cứu giải`,
+- Tăng phúc: tăng khả năng cứu giải`,
   },
 
   {
@@ -437,13 +437,13 @@ VỆ**".
     doUuTien: 75,
     tomTat: `**Thiên Đức tại Tài Bạch** — kiếm tiền **MINH BẠCH, LẤY CHỮ TÍN LÀM ĐẦU**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Sống với lý tưởng "**ĐÓI CHO SẠCH, RÁCH CHO THƠM**"
 - Kiếm tiền bằng sự **MINH BẠCH**
 - Lấy **CHỮ TÍN LÀM ĐẦU**
 - Không **BON CHEN TRANH ĐOẠT**
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - Nhiều người có xu hướng đem tiền **LÀM TỪ THIỆN**
 - Tạo phúc đức cho đời
 - Nhờ **TÂM SÁNG** mà tài vận **ỔN ĐỊNH**
@@ -470,12 +470,12 @@ VỆ**".
     doUuTien: 75,
     tomTat: `**Thiên Đức tại Tử Tức** — con cái **NGOAN HIỀN, HIẾU THUẬN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Con cái **NGOAN HIỀN, HIẾU THUẬN**
 - Biết **KÍNH TRÊN NHƯỜNG DƯỚI**
 - Gia đình **ÍT XUNG ĐỘT**
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - "**CON CÁI LÀ LỘC TRỜI CHO**"
 - Sự xuất hiện của con cái:
   - Đem lại **NIỀM VUI**
@@ -515,7 +515,7 @@ VỆ**".
     doUuTien: 78,
     tomTat: `**Thiên Đức tại Phu Thê** — bạn đời **DUNG MẠO ƯA NHÌN, ĐOAN TRANG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Người bạn đời sở hữu **DUNG MẠO ƯA NHÌN**
 - Tính tình **ĐOAN TRANG**
 - Biết **GIỮ HÒA KHÍ** trong gia đình

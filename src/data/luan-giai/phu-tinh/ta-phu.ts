@@ -35,7 +35,7 @@ Tả Phù mang tính **trợ giúp và nâng đỡ**:
 
 ## Khi gặp hung tinh
 
-⚠️ Tả Phù bản chất tốt nhưng dễ bị "biến chất" khi gặp hung sát tinh:
+Tả Phù bản chất tốt nhưng dễ bị "biến chất" khi gặp hung sát tinh:
 - **Hôn nhân:** nảy sinh nhiều bất đồng, thậm chí **ly dị**
 - **Sự nghiệp:** dễ bị **cướp công**, khó giữ thành quả
 - **Tài lộc:** **hao hụt** vì bị lợi dụng quỹ chung
@@ -43,8 +43,8 @@ Tả Phù mang tính **trợ giúp và nâng đỡ**:
 ## Cặp Tả Hữu
 
 Tả Phù + Hữu Bật là cặp đôi quan trọng nhất trong lá số:
-- Cùng giáp Mệnh → cách **Tả Hữu giáp Mệnh** (rất quý)
-- Cùng hội chiếu → tăng phúc, có quý nhân, nhiều bạn bè trợ lực`,
+- Cùng giáp Mệnh: cách **Tả Hữu giáp Mệnh** (rất quý)
+- Cùng hội chiếu: tăng phúc, có quý nhân, nhiều bạn bè trợ lực`,
   },
 
   // ============================================================
@@ -62,10 +62,10 @@ xử thế và nâng đỡ người khác**.
 Trong tập thể được **tín nhiệm** nhờ **thông tuệ, giàu ý tưởng, tinh thần trách
 nhiệm**. Phù hợp vai trò **cố vấn, tham mưu, nghiên cứu, tư vấn**.
 
-🌟 **Khả năng thu hút quý nhân:** ít phải chịu cảnh "đơn thương độc mã" — dù
+**Khả năng thu hút quý nhân:** ít phải chịu cảnh "đơn thương độc mã" — dù
 công việc hay cuộc sống đều **gặp người hỗ trợ**.
 
-⚠️ Nhiều người Tả Phù cư Mệnh phải **tự lập phương xa**, chịu cảnh **cô đơn ban
+Nhiều người Tả Phù cư Mệnh phải **tự lập phương xa**, chịu cảnh **cô đơn ban
 đầu**, ít nhận được hỗ trợ từ gia đình.`,
 
     chiTiet: `## Tốt - Xấu phụ thuộc sao đi kèm
@@ -73,9 +73,9 @@ công việc hay cuộc sống đều **gặp người hỗ trợ**.
 Tả Phù ở Mệnh tốt hay xấu **không chỉ xét khi đứng một mình** mà còn phụ thuộc
 nhiều sao đi kèm:
 
-**🌟 Hội cát tinh:** tăng phúc phần, công danh thành toại, mọi sự hanh thông.
+**Hội cát tinh:** tăng phúc phần, công danh thành toại, mọi sự hanh thông.
 
-**⚠️ Hội sát bại tinh** (Kình Dương, Đà La, Hỏa Linh, Hóa Kỵ): dễ gặp **thị
+**Hội sát bại tinh** (Kình Dương, Đà La, Hỏa Linh, Hóa Kỵ): dễ gặp **thị
 phi**, thậm chí **họa ảnh hưởng đến tuổi thọ**.`,
   },
 
@@ -87,21 +87,21 @@ phi**, thậm chí **họa ảnh hưởng đến tuổi thọ**.`,
     title: 'Tả Phù gặp hung sát tinh - 3 hậu quả lớn',
     sao: ['Tả Phù'],
     doUuTien: 50,
-    tomTat: `⚠️ **Tả Phù bản tính tốt nhưng KHI GẶP HUNG SÁT TINH dễ "biến chất":**
+    tomTat: `**Tả Phù bản tính tốt nhưng KHI GẶP HUNG SÁT TINH dễ "biến chất":**
 
-1. **Vướng lao lý** — Mệnh / Quan Lộc + **Kình Đà / Không Kiếp** → "gánh họa
+1. **Vướng lao lý** — Mệnh / Quan Lộc + **Kình Đà / Không Kiếp**: "gánh họa
    thay người", **kiện tụng, bị đâm sau lưng, làm ơn mắc oán**
-2. **Hao tổn tài lộc** — + **Hóa Kỵ / Không Kiếp** → tiền vào cửa trước ra cửa
+2. **Hao tổn tài lộc** — + **Hóa Kỵ / Không Kiếp**: tiền vào cửa trước ra cửa
    sau, bị **lợi dụng quỹ chung**, đầu tư nhóm **vỡ nợ**
-3. **Hôn nhân tan vỡ** — + **Không Kiếp / Kình Đà / Hóa Kỵ / Thái Tuế** → tình
+3. **Hôn nhân tan vỡ** — + **Không Kiếp / Kình Đà / Hóa Kỵ / Thái Tuế**: tình
    cảm éo le, **ly dị**, bất đồng quan điểm, cách biệt tuổi/tôn giáo`,
 
     chiTiet: `## 1. Vướng vào lao lý
 
 Tả Phù đi cùng **Kình Dương / Đà La / Địa Không / Địa Kiếp** ở **Mệnh hoặc Quan
-Lộc** → sức mạnh hỗ trợ biến thành **"gánh họa thay người"**:
-- Vì cả nể hoặc bị lôi kéo → làm việc thất đức, vỡ lở thì **không còn đường lui**
-- Vận hạn lớn gặp Không Kiếp / Kình Đà → **kiện tụng, bị đâm sau lưng**, "làm
+Lộc**: sức mạnh hỗ trợ biến thành **"gánh họa thay người"**:
+- Vì cả nể hoặc bị lôi kéo: làm việc thất đức, vỡ lở thì **không còn đường lui**
+- Vận hạn lớn gặp Không Kiếp / Kình Đà: **kiện tụng, bị đâm sau lưng**, "làm
   ơn mắc oán"
 
 ## 2. Hao tổn tài lộc
@@ -116,7 +116,7 @@ Khi có thêm **Hóa Kỵ / Không Kiếp**:
 Khi có thêm **Không Kiếp / Kình Đà / Hóa Kỵ / Thái Tuế**:
 - Tình cảm éo le, **dẫn tới ly dị**
 - Có người **nên vợ nên chồng rồi rẽ ngang**
-- Bất đồng quan điểm sống / cách biệt tuổi tác / tôn giáo → **rạn nứt khó hàn gắn**`,
+- Bất đồng quan điểm sống / cách biệt tuổi tác / tôn giáo: **rạn nứt khó hàn gắn**`,
   },
 
   // ============================================================
@@ -137,45 +137,45 @@ con cái**.`,
 
   {
     id: 'ta-phu-tai-phu-mau-dao-hoa',
-    title: '⚠️ Tả Phù + Đào Hoa tại Phụ Mẫu - cha/mẹ kế',
+    title: 'Tả Phù + Đào Hoa tại Phụ Mẫu - cha/mẹ kế',
     sao: ['Tả Phù'],
     cung: ['Phụ Mẫu'],
     ketHop: ['Đào Hoa'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Đào Hoa tại Phụ Mẫu:** quan hệ trong nhà **phức tạp**,
+    tomTat: `**Tả Phù + Đào Hoa tại Phụ Mẫu:** quan hệ trong nhà **phức tạp**,
 có thể có **cha/mẹ kế** hoặc dì dượng.`,
   },
 
   {
     id: 'ta-phu-tai-phu-mau-kinh-duong',
-    title: '⚠️ Tả Phù + Kình Dương tại Phụ Mẫu - cha/mẹ kế',
+    title: 'Tả Phù + Kình Dương tại Phụ Mẫu - cha/mẹ kế',
     sao: ['Tả Phù'],
     cung: ['Phụ Mẫu'],
     ketHop: ['Kình Dương'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Kình Dương tại Phụ Mẫu:** quan hệ trong nhà **phức
+    tomTat: `**Tả Phù + Kình Dương tại Phụ Mẫu:** quan hệ trong nhà **phức
 tạp**, có thể có **cha/mẹ kế** hoặc dì dượng.`,
   },
 
   {
     id: 'ta-phu-tai-phu-mau-hoa-ky',
-    title: '⚠️ Tả Phù + Hóa Kỵ tại Phụ Mẫu - cha/mẹ kế',
+    title: 'Tả Phù + Hóa Kỵ tại Phụ Mẫu - cha/mẹ kế',
     sao: ['Tả Phù'],
     cung: ['Phụ Mẫu'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Hóa Kỵ tại Phụ Mẫu:** quan hệ trong nhà **phức tạp**,
+    tomTat: `**Tả Phù + Hóa Kỵ tại Phụ Mẫu:** quan hệ trong nhà **phức tạp**,
 có thể có **cha/mẹ kế** hoặc dì dượng.`,
   },
 
   {
     id: 'ta-phu-tai-phu-mau-linh-tinh',
-    title: '⚠️ Tả Phù + Linh Tinh tại Phụ Mẫu - cha/mẹ kế',
+    title: 'Tả Phù + Linh Tinh tại Phụ Mẫu - cha/mẹ kế',
     sao: ['Tả Phù'],
     cung: ['Phụ Mẫu'],
     ketHop: ['Linh Tinh'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Linh Tinh tại Phụ Mẫu:** quan hệ trong nhà **phức
+    tomTat: `**Tả Phù + Linh Tinh tại Phụ Mẫu:** quan hệ trong nhà **phức
 tạp**, có thể có **cha/mẹ kế** hoặc dì dượng.`,
   },
 
@@ -194,67 +194,67 @@ dễ có người **rời xa quê hương, lập nghiệp nơi đất khách**.`
 
   {
     id: 'ta-phu-tai-phuc-duc-hoa-khoa',
-    title: '🌟 Tả Phù + Hóa Khoa tại Phúc Đức - phúc phần dày',
+    title: 'Tả Phù + Hóa Khoa tại Phúc Đức - phúc phần dày',
     sao: ['Tả Phù'],
     cung: ['Phúc Đức'],
     ketHop: ['Hóa Khoa'],
     doUuTien: 70,
-    tomTat: `🌟 **Tả Phù + Hóa Khoa tại Phúc Đức:** phúc phần càng dày, dòng họ
+    tomTat: `**Tả Phù + Hóa Khoa tại Phúc Đức:** phúc phần càng dày, dòng họ
 nhờ học vấn / tiếng thơm mà tựu trung phúc khí.`,
   },
 
   {
     id: 'ta-phu-tai-phuc-duc-thien-quan',
-    title: '🌟 Tả Phù + Thiên Quan tại Phúc Đức - phúc phần dày',
+    title: 'Tả Phù + Thiên Quan tại Phúc Đức - phúc phần dày',
     sao: ['Tả Phù'],
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Quan'],
     doUuTien: 70,
-    tomTat: `🌟 **Tả Phù + Thiên Quan tại Phúc Đức:** phúc phần càng dày — quý
+    tomTat: `**Tả Phù + Thiên Quan tại Phúc Đức:** phúc phần càng dày — quý
 tinh che chở dòng họ, lan tỏa âm phúc đến đời sau.`,
   },
 
   {
     id: 'ta-phu-tai-phuc-duc-thien-phuc',
-    title: '🌟 Tả Phù + Thiên Phúc tại Phúc Đức - phúc phần dày',
+    title: 'Tả Phù + Thiên Phúc tại Phúc Đức - phúc phần dày',
     sao: ['Tả Phù'],
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Phúc'],
     doUuTien: 70,
-    tomTat: `🌟 **Tả Phù + Thiên Phúc tại Phúc Đức:** phúc phần càng dày — quý
+    tomTat: `**Tả Phù + Thiên Phúc tại Phúc Đức:** phúc phần càng dày — quý
 tinh che chở dòng họ, lan tỏa âm phúc đến đời sau.`,
   },
 
   {
     id: 'ta-phu-tai-phuc-duc-thien-duc',
-    title: '🌟 Tả Phù + Thiên Đức tại Phúc Đức - phúc phần dày',
+    title: 'Tả Phù + Thiên Đức tại Phúc Đức - phúc phần dày',
     sao: ['Tả Phù'],
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Đức'],
     doUuTien: 70,
-    tomTat: `🌟 **Tả Phù + Thiên Đức tại Phúc Đức:** phúc phần càng dày — đức
+    tomTat: `**Tả Phù + Thiên Đức tại Phúc Đức:** phúc phần càng dày — đức
 tinh hộ trì, dòng họ gặp nhiều phúc lành.`,
   },
 
   {
     id: 'ta-phu-tai-phuc-duc-nguyet-duc',
-    title: '🌟 Tả Phù + Nguyệt Đức tại Phúc Đức - phúc phần dày',
+    title: 'Tả Phù + Nguyệt Đức tại Phúc Đức - phúc phần dày',
     sao: ['Tả Phù'],
     cung: ['Phúc Đức'],
     ketHop: ['Nguyệt Đức'],
     doUuTien: 70,
-    tomTat: `🌟 **Tả Phù + Nguyệt Đức tại Phúc Đức:** phúc phần càng dày — đức
+    tomTat: `**Tả Phù + Nguyệt Đức tại Phúc Đức:** phúc phần càng dày — đức
 tinh hộ trì, dòng họ gặp nhiều phúc lành.`,
   },
 
   {
     id: 'ta-phu-tai-phuc-duc-hung-tinh',
-    title: '⚠️ Tả Phù tại Phúc Đức + Hung tinh - tha hương lập nghiệp',
+    title: 'Tả Phù tại Phúc Đức + Hung tinh - tha hương lập nghiệp',
     sao: ['Tả Phù'],
     cung: ['Phúc Đức'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù tại Phúc Đức + hung tinh (Lục Sát):** con cháu **buộc
+    tomTat: `**Tả Phù tại Phúc Đức + hung tinh (Lục Sát):** con cháu **buộc
 phải tách khỏi quê hương**, gây dựng sự nghiệp ở phương xa mới mong tìm được
 sự ổn định.`,
   },
@@ -287,40 +287,40 @@ từ **tổ tiên hoặc người thân trong dòng tộc**.`,
     sao: ['Tả Phù'],
     cung: ['Quan Lộc'],
     doUuTien: 80,
-    tomTat: `🌟 **Tả Phù tại Quan Lộc:** dấu hiệu **gặp thời được thế**, công việc
+    tomTat: `**Tả Phù tại Quan Lộc:** dấu hiệu **gặp thời được thế**, công việc
 **ít phải tự xoay sở đơn độc**.`,
   },
 
   {
     id: 'ta-phu-tai-quan-loc-kinh-duong',
-    title: '⚠️ Tả Phù + Kình Dương tại Quan Lộc - bị hớt tay trên',
+    title: 'Tả Phù + Kình Dương tại Quan Lộc - bị hớt tay trên',
     sao: ['Tả Phù'],
     cung: ['Quan Lộc'],
     ketHop: ['Kình Dương'],
     doUuTien: 75,
-    tomTat: `⚠️ **Tả Phù + Kình Dương tại Quan Lộc:** dễ bị **kẻ khác hớt tay
+    tomTat: `**Tả Phù + Kình Dương tại Quan Lộc:** dễ bị **kẻ khác hớt tay
 trên, cướp mất thành quả**, không được ghi nhận.`,
   },
 
   {
     id: 'ta-phu-tai-quan-loc-da-la',
-    title: '⚠️ Tả Phù + Đà La tại Quan Lộc - bị hớt tay trên',
+    title: 'Tả Phù + Đà La tại Quan Lộc - bị hớt tay trên',
     sao: ['Tả Phù'],
     cung: ['Quan Lộc'],
     ketHop: ['Đà La'],
     doUuTien: 75,
-    tomTat: `⚠️ **Tả Phù + Đà La tại Quan Lộc:** dễ bị **kẻ khác hớt tay trên,
+    tomTat: `**Tả Phù + Đà La tại Quan Lộc:** dễ bị **kẻ khác hớt tay trên,
 cướp mất thành quả**, không được ghi nhận.`,
   },
 
   {
     id: 'ta-phu-tai-quan-loc-hoa-ky',
-    title: '⚠️ Tả Phù + Hóa Kỵ tại Quan Lộc - bị hớt tay trên',
+    title: 'Tả Phù + Hóa Kỵ tại Quan Lộc - bị hớt tay trên',
     sao: ['Tả Phù'],
     cung: ['Quan Lộc'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 75,
-    tomTat: `⚠️ **Tả Phù + Hóa Kỵ tại Quan Lộc:** dễ bị **kẻ khác hớt tay trên,
+    tomTat: `**Tả Phù + Hóa Kỵ tại Quan Lộc:** dễ bị **kẻ khác hớt tay trên,
 cướp mất thành quả**, không được ghi nhận.`,
   },
 
@@ -331,7 +331,7 @@ cướp mất thành quả**, không được ghi nhận.`,
     cung: ['Quan Lộc'],
     ketHop: ['Hữu Bật'],
     doUuTien: 75,
-    tomTat: `🌟 **Tả Phù + Hữu Bật tại Quan Lộc:** luôn **gặp người chỉ đường
+    tomTat: `**Tả Phù + Hữu Bật tại Quan Lộc:** luôn **gặp người chỉ đường
 dẫn lối**, đặc biệt vào những giai đoạn **then chốt của sự nghiệp**.`,
   },
 
@@ -350,57 +350,57 @@ chỗ dựa, ít khi đơn độc.`,
 
   {
     id: 'ta-phu-tai-no-boc-huu-bat-khoi-viet',
-    title: '🌟 Tả Phù + Hữu Bật + Khôi Việt tại Nô Bộc - nhân duyên rộng mở',
+    title: 'Tả Phù + Hữu Bật + Khôi Việt tại Nô Bộc - nhân duyên rộng mở',
     sao: ['Tả Phù'],
     cung: ['Nô Bộc'],
     ketHop: ['Hữu Bật', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 75,
-    tomTat: `🌟 **Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt tại Nô Bộc:** **nhân
+    tomTat: `**Tả Phù + Hữu Bật + Thiên Khôi + Thiên Việt tại Nô Bộc:** **nhân
 duyên xã giao rộng mở**. Bạn hữu không chỉ qua đường mà còn là người **chống
 lưng khi gặp khó**, **hợp sức khi thời cơ đến**.`,
   },
 
   {
     id: 'ta-phu-tai-no-boc-dao-hoa',
-    title: '⚠️ Tả Phù + Đào Hoa tại Nô Bộc - đa tình ngoài luồng',
+    title: 'Tả Phù + Đào Hoa tại Nô Bộc - đa tình ngoài luồng',
     sao: ['Tả Phù'],
     cung: ['Nô Bộc'],
     ketHop: ['Đào Hoa'],
     doUuTien: 75,
-    tomTat: `⚠️ **Tả Phù + Đào Hoa tại Nô Bộc:** đương số **đa tình**, dễ phát
+    tomTat: `**Tả Phù + Đào Hoa tại Nô Bộc:** đương số **đa tình**, dễ phát
 sinh **quan hệ tình cảm ngoài luồng** từ bạn bè đồng nghiệp.`,
   },
 
   {
     id: 'ta-phu-tai-no-boc-hong-loan',
-    title: '⚠️ Tả Phù + Hồng Loan tại Nô Bộc - đa tình ngoài luồng',
+    title: 'Tả Phù + Hồng Loan tại Nô Bộc - đa tình ngoài luồng',
     sao: ['Tả Phù'],
     cung: ['Nô Bộc'],
     ketHop: ['Hồng Loan'],
     doUuTien: 75,
-    tomTat: `⚠️ **Tả Phù + Hồng Loan tại Nô Bộc:** đương số **đa tình**, dễ phát
+    tomTat: `**Tả Phù + Hồng Loan tại Nô Bộc:** đương số **đa tình**, dễ phát
 sinh **quan hệ tình cảm ngoài luồng** từ bạn bè đồng nghiệp.`,
   },
 
   {
     id: 'ta-phu-tai-no-boc-thien-rieu',
-    title: '⚠️ Tả Phù + Thiên Riêu tại Nô Bộc - đa tình ngoài luồng',
+    title: 'Tả Phù + Thiên Riêu tại Nô Bộc - đa tình ngoài luồng',
     sao: ['Tả Phù'],
     cung: ['Nô Bộc'],
     ketHop: ['Thiên Riêu'],
     doUuTien: 75,
-    tomTat: `⚠️ **Tả Phù + Thiên Riêu tại Nô Bộc:** đương số **đa tình**, dễ
+    tomTat: `**Tả Phù + Thiên Riêu tại Nô Bộc:** đương số **đa tình**, dễ
 phát sinh **quan hệ tình cảm ngoài luồng** từ bạn bè đồng nghiệp.`,
   },
 
   {
     id: 'ta-phu-tai-no-boc-moc-duc',
-    title: '⚠️ Tả Phù + Mộc Dục tại Nô Bộc - đa tình ngoài luồng',
+    title: 'Tả Phù + Mộc Dục tại Nô Bộc - đa tình ngoài luồng',
     sao: ['Tả Phù'],
     cung: ['Nô Bộc'],
     ketHop: ['Mộc Dục'],
     doUuTien: 75,
-    tomTat: `⚠️ **Tả Phù + Mộc Dục tại Nô Bộc:** đương số **đa tình**, dễ phát
+    tomTat: `**Tả Phù + Mộc Dục tại Nô Bộc:** đương số **đa tình**, dễ phát
 sinh **quan hệ tình cảm ngoài luồng** từ bạn bè đồng nghiệp.`,
   },
 
@@ -419,12 +419,12 @@ xa càng dễ gặp quý nhân tương trợ**, có **trợ thủ đồng hành*
 
   {
     id: 'ta-phu-tai-thien-di-sat-bai-tinh',
-    title: '⚠️ Tả Phù tại Thiên Di + Sát bại tinh - bị đâm sau lưng',
+    title: 'Tả Phù tại Thiên Di + Sát bại tinh - bị đâm sau lưng',
     sao: ['Tả Phù'],
     cung: ['Thiên Di'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 73,
-    tomTat: `⚠️ **Tả Phù tại Thiên Di + Sát Bại tinh (Lục Sát):** "ra ngõ gặp
+    tomTat: `**Tả Phù tại Thiên Di + Sát Bại tinh (Lục Sát):** "ra ngõ gặp
 tai ương" — dễ bị **người thân cận đâm sau lưng** hoặc bị **mưu hại có tổ
 chức**, khó lòng xoay sở.`,
   },
@@ -438,97 +438,97 @@ chức**, khó lòng xoay sở.`,
     sao: ['Tả Phù'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Tả Phù tại Tật Ách:** không hội sao xấu → **điềm lành về sức khỏe**.
+    tomTat: `**Tả Phù tại Tật Ách:** không hội sao xấu: **điềm lành về sức khỏe**.
 
-🩺 **Lưu ý vùng cơ thể:** Tả Phù ứng với **phía bên TRÁI** → cơ quan **tim, gan
+🩺 **Lưu ý vùng cơ thể:** Tả Phù ứng với **phía bên TRÁI**: cơ quan **tim, gan
 trái, mắt trái**... cần được lưu tâm đặc biệt.`,
   },
 
   {
     id: 'ta-phu-tai-tat-ach-kinh-duong',
-    title: '⚠️ Tả Phù + Kình Dương tại Tật Ách - bệnh kéo dài',
+    title: 'Tả Phù + Kình Dương tại Tật Ách - bệnh kéo dài',
     sao: ['Tả Phù'],
     cung: ['Tật Ách'],
     ketHop: ['Kình Dương'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Kình Dương tại Tật Ách:** "phúc bất trùng lai, họa
+    tomTat: `**Tả Phù + Kình Dương tại Tật Ách:** "phúc bất trùng lai, họa
 vô đơn chí" — bệnh tình **kéo dài, chuyển biến phức tạp**.`,
   },
 
   {
     id: 'ta-phu-tai-tat-ach-da-la',
-    title: '⚠️ Tả Phù + Đà La tại Tật Ách - bệnh kéo dài',
+    title: 'Tả Phù + Đà La tại Tật Ách - bệnh kéo dài',
     sao: ['Tả Phù'],
     cung: ['Tật Ách'],
     ketHop: ['Đà La'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Đà La tại Tật Ách:** "phúc bất trùng lai, họa vô đơn
+    tomTat: `**Tả Phù + Đà La tại Tật Ách:** "phúc bất trùng lai, họa vô đơn
 chí" — bệnh tình **kéo dài, chuyển biến phức tạp**.`,
   },
 
   {
     id: 'ta-phu-tai-tat-ach-dia-khong',
-    title: '⚠️ Tả Phù + Địa Không tại Tật Ách - bệnh kéo dài',
+    title: 'Tả Phù + Địa Không tại Tật Ách - bệnh kéo dài',
     sao: ['Tả Phù'],
     cung: ['Tật Ách'],
     ketHop: ['Địa Không'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Địa Không tại Tật Ách:** "phúc bất trùng lai, họa vô
+    tomTat: `**Tả Phù + Địa Không tại Tật Ách:** "phúc bất trùng lai, họa vô
 đơn chí" — bệnh tình **kéo dài, chuyển biến phức tạp**.`,
   },
 
   {
     id: 'ta-phu-tai-tat-ach-dia-kiep',
-    title: '⚠️ Tả Phù + Địa Kiếp tại Tật Ách - bệnh kéo dài',
+    title: 'Tả Phù + Địa Kiếp tại Tật Ách - bệnh kéo dài',
     sao: ['Tả Phù'],
     cung: ['Tật Ách'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Địa Kiếp tại Tật Ách:** "phúc bất trùng lai, họa vô
+    tomTat: `**Tả Phù + Địa Kiếp tại Tật Ách:** "phúc bất trùng lai, họa vô
 đơn chí" — bệnh tình **kéo dài, chuyển biến phức tạp**.`,
   },
 
   {
     id: 'ta-phu-tai-tat-ach-hoa-ky',
-    title: '⚠️ Tả Phù + Hóa Kỵ tại Tật Ách - bệnh kéo dài',
+    title: 'Tả Phù + Hóa Kỵ tại Tật Ách - bệnh kéo dài',
     sao: ['Tả Phù'],
     cung: ['Tật Ách'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Hóa Kỵ tại Tật Ách:** "phúc bất trùng lai, họa vô
+    tomTat: `**Tả Phù + Hóa Kỵ tại Tật Ách:** "phúc bất trùng lai, họa vô
 đơn chí" — bệnh tình **kéo dài, chuyển biến phức tạp**.`,
   },
 
   {
     id: 'ta-phu-tai-tat-ach-luu-ha',
-    title: '⚠️ Tả Phù + Lưu Hà tại Tật Ách - bệnh kéo dài',
+    title: 'Tả Phù + Lưu Hà tại Tật Ách - bệnh kéo dài',
     sao: ['Tả Phù'],
     cung: ['Tật Ách'],
     ketHop: ['Lưu Hà'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Lưu Hà tại Tật Ách:** "phúc bất trùng lai, họa vô đơn
+    tomTat: `**Tả Phù + Lưu Hà tại Tật Ách:** "phúc bất trùng lai, họa vô đơn
 chí" — bệnh tình **kéo dài, chuyển biến phức tạp**.`,
   },
 
   {
     id: 'ta-phu-tai-tat-ach-linh-tinh',
-    title: '⚠️ Tả Phù + Linh Tinh tại Tật Ách - bệnh kéo dài',
+    title: 'Tả Phù + Linh Tinh tại Tật Ách - bệnh kéo dài',
     sao: ['Tả Phù'],
     cung: ['Tật Ách'],
     ketHop: ['Linh Tinh'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Linh Tinh tại Tật Ách:** "phúc bất trùng lai, họa
+    tomTat: `**Tả Phù + Linh Tinh tại Tật Ách:** "phúc bất trùng lai, họa
 vô đơn chí" — bệnh tình **kéo dài, chuyển biến phức tạp**.`,
   },
 
   {
     id: 'ta-phu-tai-tat-ach-hoa-tinh',
-    title: '⚠️ Tả Phù + Hỏa Tinh tại Tật Ách - bệnh kéo dài',
+    title: 'Tả Phù + Hỏa Tinh tại Tật Ách - bệnh kéo dài',
     sao: ['Tả Phù'],
     cung: ['Tật Ách'],
     ketHop: ['Hỏa Tinh'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Hỏa Tinh tại Tật Ách:** "phúc bất trùng lai, họa vô
+    tomTat: `**Tả Phù + Hỏa Tinh tại Tật Ách:** "phúc bất trùng lai, họa vô
 đơn chí" — bệnh tình **kéo dài, chuyển biến phức tạp**.`,
   },
 
@@ -541,7 +541,7 @@ vô đơn chí" — bệnh tình **kéo dài, chuyển biến phức tạp**.`,
     sao: ['Tả Phù'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `🌟 **Tả Phù tại Tài Bạch:** mưu sinh, cầu tài **gặp nhiều may mắn,
+    tomTat: `**Tả Phù tại Tài Bạch:** mưu sinh, cầu tài **gặp nhiều may mắn,
 thuận lợi**.
 
 Thích hợp **hợp tác nhóm hoặc làm ăn cùng bạn bè**, tiền bạc thu được từ **nhiều
@@ -550,12 +550,12 @@ nguồn**, dễ **làm một hưởng ba**.`,
 
   {
     id: 'ta-phu-tai-tai-bach-sat-tinh',
-    title: '⚠️ Tả Phù tại Tài Bạch + Sát tinh - quỹ chung bị lạm dụng',
+    title: 'Tả Phù tại Tài Bạch + Sát tinh - quỹ chung bị lạm dụng',
     sao: ['Tả Phù'],
     cung: ['Tài Bạch'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 73,
-    tomTat: `⚠️ **Tả Phù tại Tài Bạch + Sát tinh (Lục Sát):** "lắm thầy thì
+    tomTat: `**Tả Phù tại Tài Bạch + Sát tinh (Lục Sát):** "lắm thầy thì
 nhiều ma" — quỹ chung dễ bị **lạm dụng**, tài sản tích cóp **hao hụt** vì bị
 sử dụng cho mục đích cá nhân.`,
   },
@@ -577,74 +577,74 @@ nơi đất khách**.`,
 
   {
     id: 'ta-phu-tai-tu-tuc-thai',
-    title: '🌟 Tả Phù + Thai tại Tử Tức - sinh đôi',
+    title: 'Tả Phù + Thai tại Tử Tức - sinh đôi',
     sao: ['Tả Phù'],
     cung: ['Tử Tức'],
     ketHop: ['Thai'],
     doUuTien: 70,
-    tomTat: `🌟 **Tả Phù + Thai tại Tử Tức:** dễ có **số sinh đôi**.`,
+    tomTat: `**Tả Phù + Thai tại Tử Tức:** dễ có **số sinh đôi**.`,
   },
 
   {
     id: 'ta-phu-tai-tu-tuc-de-vuong',
-    title: '🌟 Tả Phù + Đế Vượng tại Tử Tức - sinh đôi',
+    title: 'Tả Phù + Đế Vượng tại Tử Tức - sinh đôi',
     sao: ['Tả Phù'],
     cung: ['Tử Tức'],
     ketHop: ['Đế Vượng'],
     doUuTien: 70,
-    tomTat: `🌟 **Tả Phù + Đế Vượng tại Tử Tức:** dễ có **số sinh đôi**.`,
+    tomTat: `**Tả Phù + Đế Vượng tại Tử Tức:** dễ có **số sinh đôi**.`,
   },
 
   {
     id: 'ta-phu-tai-tu-tuc-thai-am',
-    title: '🌟 Tả Phù + Thái Âm tại Tử Tức - sinh đôi',
+    title: 'Tả Phù + Thái Âm tại Tử Tức - sinh đôi',
     sao: ['Tả Phù'],
     cung: ['Tử Tức'],
     ketHop: ['Thái Âm'],
     doUuTien: 70,
-    tomTat: `🌟 **Tả Phù + Thái Âm tại Tử Tức:** dễ có **số sinh đôi**.`,
+    tomTat: `**Tả Phù + Thái Âm tại Tử Tức:** dễ có **số sinh đôi**.`,
   },
 
   {
     id: 'ta-phu-tai-tu-tuc-thai-duong',
-    title: '🌟 Tả Phù + Thái Dương tại Tử Tức - sinh đôi',
+    title: 'Tả Phù + Thái Dương tại Tử Tức - sinh đôi',
     sao: ['Tả Phù'],
     cung: ['Tử Tức'],
     ketHop: ['Thái Dương'],
     doUuTien: 70,
-    tomTat: `🌟 **Tả Phù + Thái Dương tại Tử Tức:** dễ có **số sinh đôi**.`,
+    tomTat: `**Tả Phù + Thái Dương tại Tử Tức:** dễ có **số sinh đôi**.`,
   },
 
   {
     id: 'ta-phu-tai-tu-tuc-dia-khong',
-    title: '⚠️ Tả Phù + Địa Không tại Tử Tức - con dị bào',
+    title: 'Tả Phù + Địa Không tại Tử Tức - con dị bào',
     sao: ['Tả Phù'],
     cung: ['Tử Tức'],
     ketHop: ['Địa Không'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Địa Không tại Tử Tức:** dễ sinh **con dị bào** hoặc
+    tomTat: `**Tả Phù + Địa Không tại Tử Tức:** dễ sinh **con dị bào** hoặc
 **con hai dòng**.`,
   },
 
   {
     id: 'ta-phu-tai-tu-tuc-dia-kiep',
-    title: '⚠️ Tả Phù + Địa Kiếp tại Tử Tức - con dị bào',
+    title: 'Tả Phù + Địa Kiếp tại Tử Tức - con dị bào',
     sao: ['Tả Phù'],
     cung: ['Tử Tức'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Địa Kiếp tại Tử Tức:** dễ sinh **con dị bào** hoặc
+    tomTat: `**Tả Phù + Địa Kiếp tại Tử Tức:** dễ sinh **con dị bào** hoặc
 **con hai dòng**.`,
   },
 
   {
     id: 'ta-phu-tai-tu-tuc-phuc-binh',
-    title: '⚠️ Tả Phù + Phục Binh tại Tử Tức - con dị bào',
+    title: 'Tả Phù + Phục Binh tại Tử Tức - con dị bào',
     sao: ['Tả Phù'],
     cung: ['Tử Tức'],
     ketHop: ['Phục Binh'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Phục Binh tại Tử Tức:** dễ sinh **con dị bào** hoặc
+    tomTat: `**Tả Phù + Phục Binh tại Tử Tức:** dễ sinh **con dị bào** hoặc
 **con hai dòng**.`,
   },
 
@@ -666,78 +666,78 @@ văn phòng**.`,
 
   {
     id: 'ta-phu-tai-phu-the-dia-khong',
-    title: '⚠️ Tả Phù + Địa Không tại Phu Thê - hôn nhân sóng gió',
+    title: 'Tả Phù + Địa Không tại Phu Thê - hôn nhân sóng gió',
     sao: ['Tả Phù'],
     cung: ['Phu Thê'],
     ketHop: ['Địa Không'],
     doUuTien: 73,
-    tomTat: `⚠️ **Tả Phù + Địa Không tại Phu Thê:** hôn nhân **sóng gió**, có
+    tomTat: `**Tả Phù + Địa Không tại Phu Thê:** hôn nhân **sóng gió**, có
 thể rơi vào cảnh **"một lần đò"**.`,
   },
 
   {
     id: 'ta-phu-tai-phu-the-dia-kiep',
-    title: '⚠️ Tả Phù + Địa Kiếp tại Phu Thê - hôn nhân sóng gió',
+    title: 'Tả Phù + Địa Kiếp tại Phu Thê - hôn nhân sóng gió',
     sao: ['Tả Phù'],
     cung: ['Phu Thê'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 73,
-    tomTat: `⚠️ **Tả Phù + Địa Kiếp tại Phu Thê:** hôn nhân **sóng gió**, có
+    tomTat: `**Tả Phù + Địa Kiếp tại Phu Thê:** hôn nhân **sóng gió**, có
 thể rơi vào cảnh **"một lần đò"**.`,
   },
 
   {
     id: 'ta-phu-tai-phu-the-hoa-ky',
-    title: '⚠️ Tả Phù + Hóa Kỵ tại Phu Thê - hôn nhân sóng gió',
+    title: 'Tả Phù + Hóa Kỵ tại Phu Thê - hôn nhân sóng gió',
     sao: ['Tả Phù'],
     cung: ['Phu Thê'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 73,
-    tomTat: `⚠️ **Tả Phù + Hóa Kỵ tại Phu Thê:** hôn nhân **sóng gió**, có thể
+    tomTat: `**Tả Phù + Hóa Kỵ tại Phu Thê:** hôn nhân **sóng gió**, có thể
 rơi vào cảnh **"một lần đò"**.`,
   },
 
   {
     id: 'ta-phu-tai-phu-the-kinh-duong',
-    title: '⚠️ Tả Phù + Kình Dương tại Phu Thê - hôn nhân sóng gió',
+    title: 'Tả Phù + Kình Dương tại Phu Thê - hôn nhân sóng gió',
     sao: ['Tả Phù'],
     cung: ['Phu Thê'],
     ketHop: ['Kình Dương'],
     doUuTien: 73,
-    tomTat: `⚠️ **Tả Phù + Kình Dương tại Phu Thê:** hôn nhân **sóng gió**, có
+    tomTat: `**Tả Phù + Kình Dương tại Phu Thê:** hôn nhân **sóng gió**, có
 thể rơi vào cảnh **"một lần đò"**.`,
   },
 
   {
     id: 'ta-phu-tai-phu-the-da-la',
-    title: '⚠️ Tả Phù + Đà La tại Phu Thê - hôn nhân sóng gió',
+    title: 'Tả Phù + Đà La tại Phu Thê - hôn nhân sóng gió',
     sao: ['Tả Phù'],
     cung: ['Phu Thê'],
     ketHop: ['Đà La'],
     doUuTien: 73,
-    tomTat: `⚠️ **Tả Phù + Đà La tại Phu Thê:** hôn nhân **sóng gió**, có thể
+    tomTat: `**Tả Phù + Đà La tại Phu Thê:** hôn nhân **sóng gió**, có thể
 rơi vào cảnh **"một lần đò"**.`,
   },
 
   {
     id: 'ta-phu-tai-phu-the-thai-tue',
-    title: '⚠️ Tả Phù + Thái Tuế tại Phu Thê - hôn nhân sóng gió',
+    title: 'Tả Phù + Thái Tuế tại Phu Thê - hôn nhân sóng gió',
     sao: ['Tả Phù'],
     cung: ['Phu Thê'],
     ketHop: ['Thái Tuế'],
     doUuTien: 73,
-    tomTat: `⚠️ **Tả Phù + Thái Tuế tại Phu Thê:** hôn nhân **sóng gió**, có
+    tomTat: `**Tả Phù + Thái Tuế tại Phu Thê:** hôn nhân **sóng gió**, có
 thể rơi vào cảnh **"một lần đò"**.`,
   },
 
   {
     id: 'ta-phu-tai-phu-the-thien-hinh',
-    title: '⚠️ Tả Phù + Thiên Hình tại Phu Thê - hôn nhân sóng gió',
+    title: 'Tả Phù + Thiên Hình tại Phu Thê - hôn nhân sóng gió',
     sao: ['Tả Phù'],
     cung: ['Phu Thê'],
     ketHop: ['Thiên Hình'],
     doUuTien: 73,
-    tomTat: `⚠️ **Tả Phù + Thiên Hình tại Phu Thê:** hôn nhân **sóng gió**, có
+    tomTat: `**Tả Phù + Thiên Hình tại Phu Thê:** hôn nhân **sóng gió**, có
 thể rơi vào cảnh **"một lần đò"**.`,
   },
 
@@ -757,45 +757,45 @@ nhưng tình sâu nghĩa nặng chẳng kém máu mủ.`,
 
   {
     id: 'ta-phu-tai-huynh-de-dia-khong',
-    title: '⚠️ Tả Phù + Địa Không tại Huynh Đệ - anh em khác mẹ',
+    title: 'Tả Phù + Địa Không tại Huynh Đệ - anh em khác mẹ',
     sao: ['Tả Phù'],
     cung: ['Huynh Đệ'],
     ketHop: ['Địa Không'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Địa Không tại Huynh Đệ:** khả năng có **anh em cùng
+    tomTat: `**Tả Phù + Địa Không tại Huynh Đệ:** khả năng có **anh em cùng
 cha khác mẹ** càng cao.`,
   },
 
   {
     id: 'ta-phu-tai-huynh-de-dia-kiep',
-    title: '⚠️ Tả Phù + Địa Kiếp tại Huynh Đệ - anh em khác mẹ',
+    title: 'Tả Phù + Địa Kiếp tại Huynh Đệ - anh em khác mẹ',
     sao: ['Tả Phù'],
     cung: ['Huynh Đệ'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Địa Kiếp tại Huynh Đệ:** khả năng có **anh em cùng
+    tomTat: `**Tả Phù + Địa Kiếp tại Huynh Đệ:** khả năng có **anh em cùng
 cha khác mẹ** càng cao.`,
   },
 
   {
     id: 'ta-phu-tai-huynh-de-phuc-binh',
-    title: '⚠️ Tả Phù + Phục Binh tại Huynh Đệ - anh em khác mẹ',
+    title: 'Tả Phù + Phục Binh tại Huynh Đệ - anh em khác mẹ',
     sao: ['Tả Phù'],
     cung: ['Huynh Đệ'],
     ketHop: ['Phục Binh'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Phục Binh tại Huynh Đệ:** khả năng có **anh em cùng
+    tomTat: `**Tả Phù + Phục Binh tại Huynh Đệ:** khả năng có **anh em cùng
 cha khác mẹ** càng cao.`,
   },
 
   {
     id: 'ta-phu-tai-huynh-de-tu-vi',
-    title: '⚠️ Tả Phù + Tử Vi tại Huynh Đệ - anh em khác mẹ',
+    title: 'Tả Phù + Tử Vi tại Huynh Đệ - anh em khác mẹ',
     sao: ['Tả Phù'],
     cung: ['Huynh Đệ'],
     ketHop: ['Tử Vi'],
     doUuTien: 70,
-    tomTat: `⚠️ **Tả Phù + Tử Vi tại Huynh Đệ:** khả năng có **anh em cùng cha
+    tomTat: `**Tả Phù + Tử Vi tại Huynh Đệ:** khả năng có **anh em cùng cha
 khác mẹ** càng cao.`,
   },
 ];

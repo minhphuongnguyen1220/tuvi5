@@ -4,7 +4,7 @@ import type { DoanLuanGiai } from '../types';
  * LUẬN GIẢI SAO THIÊN LA - Thổ, Ám Tinh.
  *
  * Vị trí: LUÔN cố định tại cung THÌN.
- * Cùng cặp với ĐỊA VÕNG (cố định Tuất) → bộ THIÊN LA - ĐỊA VÕNG = "LƯỚI TRỜI".
+ * Cùng cặp với ĐỊA VÕNG (cố định Tuất): bộ THIÊN LA - ĐỊA VÕNG = "LƯỚI TRỜI".
  *
  * Hóa khí: ÁM TINH ("lưới trời lồng lộng, tuy thưa mà khó thoát").
  * Đặc tính: TÙ HÃM, KHỐN ĐỐN, TRỞ NGẠI, KHÓ KHĂN, RÀNG BUỘC NGHIỆP DUYÊN.
@@ -25,31 +25,31 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
 
 **Hóa khí:** **Ám Tinh**.
 
-⚡ **Vị trí:** **LUÔN cố định tại cung THÌN**.
+**Vị trí:** **LUÔN cố định tại cung THÌN**.
 
-⚡ **Hình tượng:** **LƯỚI TRỜI lồng lộng, tuy thưa mà khó thoát**.
+**Hình tượng:** **LƯỚI TRỜI lồng lộng, tuy thưa mà khó thoát**.
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - **TÙ HÃM, KHỐN ĐỐN, TRỞ NGẠI, KHÓ KHĂN**
 - Vòng **KIỀM TỎA** quanh chủ mệnh
 - Cảm giác bị **KÌM HÃM**
 - Gặp nhiều khó khăn trong **CÔNG VIỆC và CUỘC SỐNG**
 
-⚡ **Bản chất hai mặt:**
-- Làm việc **CHÍNH NGHĨA** → dù khởi đầu khó cũng được **ÔNG TRỜI TRỢ GIÚP**,
+**Bản chất hai mặt:**
+- Làm việc **CHÍNH NGHĨA**: dù khởi đầu khó cũng được **ÔNG TRỜI TRỢ GIÚP**,
   cuối cùng **GẶT HÁI THÀNH QUẢ**
-- Làm việc **TRÁI ĐẠO** → "**SA CHÂN VÀO BÙN LẦY**", càng vùng vẫy càng mắc sâu
+- Làm việc **TRÁI ĐẠO**: "**SA CHÂN VÀO BÙN LẦY**", càng vùng vẫy càng mắc sâu
 
-⚡ **Tình duyên:**
+**Tình duyên:**
 - Một khi đã yêu thì **KHÓ DỨT**
 - Rời bỏ rồi vẫn **ĐAU ĐÁU NHỚ THƯƠNG**
 
-⚡ **Phúc thọ:**
+**Phúc thọ:**
 - Dễ bị **BỆNH LÂU DÀI**
 - Phải **CHẠY CHỮA KHẮP NƠI**
 - Lạc vào **MÊ TÍN DỊ ĐOAN** khiến "**TIỀN MẤT TẬT MANG**"
 
-⚡ **Tài lộc:**
+**Tài lộc:**
 - Việc kiếm tiền **KHÓ KHĂN**
 - Lúc nào cũng có "**LƯỚI TRỜI**" giăng ra chờ sập bẫy`,
   },
@@ -62,7 +62,7 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
     doUuTien: 35,
     tomTat: `**Thiên La** luôn **CỐ ĐỊNH tại cung Thìn**.
 
-⚡ **Quy luật vị trí:**
+**Quy luật vị trí:**
 - Thiên La cố định tại **Thìn = LƯỚI TRỜI**
 - Đối cung là vị trí Địa Võng (Lưới Đất) — tạo thành **TRỤC LƯỚI TRỜI**
 - Đây là **vị trí ĐẶC BIỆT** chứa nhiều ràng buộc, nghiệp duyên`,
@@ -80,11 +80,11 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
     doUuTien: 80,
     tomTat: `**Thiên La tại Mệnh** — chủ sự **RÀNG BUỘC, BẾ TẮC**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **THÔNG MINH, có TÀI XOAY XỞ, TÍNH TOÁN GIỎI**
 - Công việc lại hay bị **CẢN TRỞ, RÀNG BUỘC, VƯỚNG RẮC RỐI**
 
-⚡ **Nguyên nhân (quan trọng):**
+**Nguyên nhân (quan trọng):**
 - Trở ngại **KHÔNG hẳn do NGOẠI CẢNH**
 - Mà chính từ **NỘI TÂM** đương số
 - Có xu hướng **SUY NGHĨ NGƯỢC VỚI QUY LUẬT TỰ NHIÊN**
@@ -92,7 +92,7 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
 - Thấy mình **ĐEN ĐỦI, ÔNG TRỜI KHÔNG THƯƠNG**
 - Thực chất đang **TỰ TẠO RA CÁI BẪY** cho mình
 
-⚡ **Ví như chiếc lưới trời:**
+**Ví như chiếc lưới trời:**
 - Dễ **SA VÀO CÁM DỖ, PHẠM SAI LẦM**`,
   },
 
@@ -106,7 +106,7 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
     tomTat: `**Thiên La + Kình Đà + Thiên Hình + Khốc Hư Tang Bạch Hổ Song Hao tại Mệnh**
 — "**SA CHÂN VÀO BÙN LẦY**".
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Vướng vào **LAO LÝ, TỐ TỤNG**
 - Thậm chí "**THÂN BẠI DANH LIỆT**"
 - Càng vùng vẫy càng **MẮC SÂU**
@@ -123,7 +123,7 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
     tomTat: `**Thiên La + Tả Hữu + Quang Quý + Khôi Việt tại Mệnh** — "**TRONG HỌA CÓ
 PHÚC**".
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Ràng buộc **HÓA THÀNH TRÁCH NHIỆM, NGHĨA VỤ**
 - Giúp chủ mệnh sống **ĐÚNG ĐẮN, CÓ ĐẠO NGHĨA**
 - **BIẾT TRƯỚC BIẾT SAU**
@@ -142,12 +142,12 @@ PHÚC**".
     doUuTien: 75,
     tomTat: `**Thiên La tại Phụ Mẫu** — nhân duyên gắn chặt với cha mẹ.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - "**ĐỜI CHA ĂN MẶN, ĐỜI CON KHÁT NƯỚC**"
-- Có cát tinh đi cùng → là **TRÁCH NHIỆM, ƠN NGHĨA TRUYỀN ĐỜI**
+- Có cát tinh đi cùng: là **TRÁCH NHIỆM, ƠN NGHĨA TRUYỀN ĐỜI**
 - Con cái được thừa hưởng **PHÚC ẤM, GIA SẢN** hoặc **DÌU DẮT của GIA TIÊN**
 
-⚡ **Đồng cung Kình Dương, Đà La, Không Kiếp, Hỏa Linh:**
+**Đồng cung Kình Dương, Đà La, Không Kiếp, Hỏa Linh:**
 - Dễ xảy ra cảnh **XUNG KHẮC, BẠO LỰC GIA ĐÌNH**
 - Con cái nên **RỜI XA** bố mẹ từ sớm để phát triển tốt hơn`,
   },
@@ -161,15 +161,15 @@ PHÚC**".
     tomTat: `**Thiên La tại Phúc Đức** — tượng trưng **CÁI LƯỚI TRÓI BUỘC vào NGHIỆP HỌ
 HÀNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Khó **THOÁT KHỎI ẢNH HƯỞNG DÒNG TỘC**
 - Phải **GÁNH NGHIỆP TỔ TIÊN**
 
-⚡ **Đi cùng Kình Đà, Không Kiếp, Hỏa Linh:**
+**Đi cùng Kình Đà, Không Kiếp, Hỏa Linh:**
 - Càng **ỨNG NGHIỆM** mạnh
 - Nghiệp dòng tộc **NẶNG NỀ**
 
-⚡ **Đi cùng cát tinh:**
+**Đi cùng cát tinh:**
 - Nghiệp **NHẸ HÓA THÀNH PHÚC**
 - Vẫn giữ được **GẮN BÓ GIA TỘC**`,
   },
@@ -183,7 +183,7 @@ HÀNG**.
     tomTat: `**Thiên La tại Điền Trạch** — đương số gặp nhiều **SÓNG GIÓ liên quan ĐẤT
 ĐAI, NHÀ CỬA**.
 
-⚡ **Hội cùng cát tinh - hóa giải:**
+**Hội cùng cát tinh - hóa giải:**
 - Có khả năng **HÓA GIẢI NGHIỆP**
 - Biết **CHĂM LO DỌN DẸP** nhà cửa
 - Tạo môi trường sống **TỐT LÀNH**
@@ -192,43 +192,43 @@ HÀNG**.
 
   {
     id: 'thien-la-dien-trach-hoa-tinh',
-    title: '⚠️ Thiên La + Hỏa Tinh tại Điền Trạch - cháy nổ',
+    title: 'Thiên La + Hỏa Tinh tại Điền Trạch - cháy nổ',
     sao: ['Thiên La'],
     ketHop: ['Hỏa Tinh'],
     cung: ['Điền Trạch'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thiên La + Hỏa Tinh tại Điền Trạch:** dễ xảy ra **CHÁY NỔ**.`,
+    tomTat: `**Thiên La + Hỏa Tinh tại Điền Trạch:** dễ xảy ra **CHÁY NỔ**.`,
   },
 
   {
     id: 'thien-la-dien-trach-linh-tinh',
-    title: '⚠️ Thiên La + Linh Tinh tại Điền Trạch - cháy nổ',
+    title: 'Thiên La + Linh Tinh tại Điền Trạch - cháy nổ',
     sao: ['Thiên La'],
     ketHop: ['Linh Tinh'],
     cung: ['Điền Trạch'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thiên La + Linh Tinh tại Điền Trạch:** dễ xảy ra **CHÁY NỔ**.`,
+    tomTat: `**Thiên La + Linh Tinh tại Điền Trạch:** dễ xảy ra **CHÁY NỔ**.`,
   },
 
   {
     id: 'thien-la-dien-trach-dia-khong',
-    title: '⚠️ Thiên La + Địa Không tại Điền Trạch - bão lũ thiên tai',
+    title: 'Thiên La + Địa Không tại Điền Trạch - bão lũ thiên tai',
     sao: ['Thiên La'],
     ketHop: ['Địa Không'],
     cung: ['Điền Trạch'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thiên La + Địa Không tại Điền Trạch:** đề phòng **BÃO LŨ,
+    tomTat: `**Thiên La + Địa Không tại Điền Trạch:** đề phòng **BÃO LŨ,
 THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
   },
 
   {
     id: 'thien-la-dien-trach-dia-kiep',
-    title: '⚠️ Thiên La + Địa Kiếp tại Điền Trạch - bão lũ thiên tai',
+    title: 'Thiên La + Địa Kiếp tại Điền Trạch - bão lũ thiên tai',
     sao: ['Thiên La'],
     ketHop: ['Địa Kiếp'],
     cung: ['Điền Trạch'],
     doUuTien: 70,
-    tomTat: `⚠️ **Thiên La + Địa Kiếp tại Điền Trạch:** đề phòng **BÃO LŨ,
+    tomTat: `**Thiên La + Địa Kiếp tại Điền Trạch:** đề phòng **BÃO LŨ,
 THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
   },
 
@@ -240,12 +240,12 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     doUuTien: 78,
     tomTat: `**Thiên La tại Quan Lộc** — chính là "**TRỌNG TRÁCH TRỜI BAN**".
 
-⚡ **Đặc trưng:**
-- Làm việc **CHÍNH NGHĨA** → khởi đầu khó nhưng được **ÔNG TRỜI TRỢ GIÚP**
+**Đặc trưng:**
+- Làm việc **CHÍNH NGHĨA**: khởi đầu khó nhưng được **ÔNG TRỜI TRỢ GIÚP**
 - Cuối cùng **GẶT HÁI THÀNH QUẢ**
 - Càng đúng khi kết hợp **TẢ HỮU - KHÔI VIỆT**
 
-⚡ **Cảnh báo:**
+**Cảnh báo:**
 - Gặp **KÌNH ĐÀ - HÌNH - TANG MÔN**:
   - Dễ bị cuốn vào công việc **PHI PHÁP, TRÁI ĐẠO LÝ**
   - "**MỘT BƯỚC LẦM, MUÔN ĐỜI DẠI**"
@@ -262,8 +262,8 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     tomTat: `**Thiên La + Tả Hữu + Khôi Việt tại Quan Lộc** — trọng trách trời ban được
 **TRỢ LỰC**.
 
-⚡ **Đặc trưng:**
-- Làm chính nghĩa → khởi đầu khó cũng **THÀNH CÔNG**
+**Đặc trưng:**
+- Làm chính nghĩa: khởi đầu khó cũng **THÀNH CÔNG**
 - Có **QUÝ NHÂN PHÒ TÁ**
 - **ĐƯỢC ĐỀN ĐÁP** xứng đáng`,
   },
@@ -276,12 +276,12 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     doUuTien: 75,
     tomTat: `**Thiên La tại Nô Bộc** — chủ mệnh dễ **VƯỚNG HỌA VÌ BẠN BÈ**.
 
-⚡ **Cảnh báo:**
-- Kết giao **LẦM BẠN** → bị **LỢI DỤNG** làm việc sai trái
+**Cảnh báo:**
+- Kết giao **LẦM BẠN**: bị **LỢI DỤNG** làm việc sai trái
 - Từ **VÔ TÌNH thành ĐỒNG PHẠM**
 - Đặc biệt khi gặp **ĐỊA KIẾP, PHỤC BINH, SONG HAO, ĐÀ LA**
 
-⚡ **Hội cùng cát tinh:**
+**Hội cùng cát tinh:**
 - Bạn bè trở thành **SỰ RÀNG BUỘC TỐT**
 - Đôi bên **HỖ TRỢ NHAU**
 - Mang **LỢI ÍCH THIẾT THỰC**`,
@@ -295,17 +295,17 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     doUuTien: 75,
     tomTat: `**Thiên La tại Thiên Di** — hình tượng "**TIẾN THOÁI LƯỠNG NAN**".
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Ra ngoài gặp **CẢN TRỞ**
 - **MUỐN ĐI CHẲNG ĐƯỢC, MUỐN VỀ KHÔNG XONG**
 
-⚡ **Kết hợp Kình Dương, Thiên Hình:**
+**Kết hợp Kình Dương, Thiên Hình:**
 - Phải **ĐỀ PHÒNG TAI NẠN**
 - Nhất là **GIAO THÔNG**
 
-⚡ **Có Tả Hữu trợ lực:**
+**Có Tả Hữu trợ lực:**
 - Trách nhiệm bên ngoài hóa thành **CƠ HỘI**
-- Hoàn thành xong nhiệm vụ → **HƯỞNG THÀNH QUẢ**
+- Hoàn thành xong nhiệm vụ: **HƯỞNG THÀNH QUẢ**
 - Được **KÍNH TRỌNG, NỂ PHỤC**`,
   },
 
@@ -317,14 +317,14 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     doUuTien: 75,
     tomTat: `**Thiên La tại Tật Ách** — chủ nhân lá số dễ bị **BỆNH LÂU DÀI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **CHẠY CHỮA KHẮP NƠI**
 - Lạc vào **MÊ TÍN DỊ ĐOAN** khiến "**TIỀN MẤT TẬT MANG**"
 
-⚡ **Đáng chú ý - kết hợp Không Kiếp, Hỏa Linh:**
+**Đáng chú ý - kết hợp Không Kiếp, Hỏa Linh:**
 - Dễ thành **BỆNH NAN Y**
 
-⚡ **Hóa giải:**
+**Hóa giải:**
 - Hiểu rằng đó là **NGHIỆP THÂN PHẢI TRẢ**
 - Sống **TÍCH PHÚC, LÀM LÀNH**
 - Bệnh có thể **GIẢM**, họa có thể **TIÊU**`,
@@ -339,13 +339,13 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     tomTat: `**Thiên La tại Tài Bạch** — luôn phải **CẨN TRỌNG** việc kiếm tiền vì lúc
 nào cũng có "**LƯỚI TRỜI giăng ra chờ sập bẫy**".
 
-⚡ **Cách hành xử đúng:**
+**Cách hành xử đúng:**
 - Phải **LÀM ĂN CHÂN CHÍNH**
 - Dù khó khăn cũng **KHÔNG VI PHẠM ĐẠO ĐỨC, TÔN CHỈ**
-- Đi đúng đường → **TIỀN ÍT NHƯNG BỀN, NGHÈO MÀ YÊN**
+- Đi đúng đường: **TIỀN ÍT NHƯNG BỀN, NGHÈO MÀ YÊN**
 
-⚡ **Cảnh báo - sa vào đường tắt:**
-- Gặp thêm **SÁT - KỴ - HÌNH** → "**MỘT PHÚT HUY HOÀNG, NGÀN NĂM KHỔ LỤY**"
+**Cảnh báo - sa vào đường tắt:**
+- Gặp thêm **SÁT - KỴ - HÌNH**: "**MỘT PHÚT HUY HOÀNG, NGÀN NĂM KHỔ LỤY**"
 - Một phút kiếm tiền **DỄ DÀNG** mà cả cuộc đời gặp **KHÓ KHĂN**`,
   },
 
@@ -357,16 +357,16 @@ nào cũng có "**LƯỚI TRỜI giăng ra chờ sập bẫy**".
     doUuTien: 75,
     tomTat: `**Thiên La tại Tử Tức** — sợi dây **NỢ NGHIỆP với CON CÁI**.
 
-⚡ **Đặc trưng:**
-- Con làm sai → **CHA MẸ CHỊU**
-- Con đau ốm → **CHA MẸ PHẢI LO LẮNG**
-- Con hư hỏng → **CHA MẸ KHÓ LÀM ĂN**
+**Đặc trưng:**
+- Con làm sai: **CHA MẸ CHỊU**
+- Con đau ốm: **CHA MẸ PHẢI LO LẮNG**
+- Con hư hỏng: **CHA MẸ KHÓ LÀM ĂN**
 
-⚡ **Hội cát tinh:**
+**Hội cát tinh:**
 - Nợ trở thành **DUYÊN**
 - Con cái **NGOAN HIỀN**
 
-⚡ **Gặp Sát - Kỵ - Hình:**
+**Gặp Sát - Kỵ - Hình:**
 - **CHA MẸ KHỔ VÌ CON**
 - **MUỐN THOÁT cũng CHẲNG THỂ**`,
   },
@@ -379,15 +379,15 @@ nào cũng có "**LƯỚI TRỜI giăng ra chờ sập bẫy**".
     doUuTien: 75,
     tomTat: `**Thiên La tại Phu Thê** — tạo ra mối tình **NẶNG DUYÊN NỢ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Một khi đã yêu thì **KHÓ DỨT**
 - Rời bỏ rồi vẫn **ĐAU ĐÁU NHỚ THƯƠNG**
 
-⚡ **Gặp Sát - Kỵ - Hình:**
+**Gặp Sát - Kỵ - Hình:**
 - Tình duyên **KHỔ LỤY**
 - Chia tay có cảm giác như "**CHẾT ĐI SỐNG LẠI**"
 
-⚡ **Có cát tinh Văn Xương Văn Khúc, Tả Hữu trợ lực:**
+**Có cát tinh Văn Xương Văn Khúc, Tả Hữu trợ lực:**
 - Tình duyên **GẮN KẾT VÌ NGHĨA TÌNH**
 - Không phải do **NGHIỆP XẤU**`,
   },
@@ -401,12 +401,12 @@ nào cũng có "**LƯỚI TRỜI giăng ra chờ sập bẫy**".
     tomTat: `**Thiên La tại Huynh Đệ** — anh chị em có **MỐI QUAN HỆ THÂN THIẾT** kể cả
 khi đã trưởng thành.
 
-⚡ **Hội Tả Hữu, Khôi Việt:**
+**Hội Tả Hữu, Khôi Việt:**
 - Anh em **THƯỜNG XUYÊN TỤ HỌP**
 - **GIÚP ĐỠ NHAU**
 - Sống với nhau **VÌ TÌNH NGHĨA**
 
-⚡ **Đi cùng Kình Đà:**
+**Đi cùng Kình Đà:**
 - Anh em dễ xảy ra **TRANH CHẤP LỢI ÍCH**
 - Nhất là chuyện **GIA SẢN, THỪA KẾ**
 - Tình cảm **RẠN NỨT**`,

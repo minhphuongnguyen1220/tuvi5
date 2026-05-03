@@ -4,7 +4,7 @@ import type { DoanLuanGiai } from '../types';
  * LUẬN GIẢI SAO ĐỊA VÕNG - Thổ, Ám Tinh.
  *
  * Vị trí: LUÔN cố định tại cung TUẤT.
- * Cùng cặp với THIÊN LA (cố định Thìn) → bộ THIÊN LA - ĐỊA VÕNG = "LƯỚI TRỜI".
+ * Cùng cặp với THIÊN LA (cố định Thìn): bộ THIÊN LA - ĐỊA VÕNG = "LƯỚI TRỜI".
  *
  * Hóa khí: ÁM TINH ("lưới trời lồng lộng, tuy thưa mà khó lọt").
  * Đặc tính: NGHIỆP DUYÊN, NHÂN QUẢ, RÀNG BUỘC, MẮC KẸT.
@@ -25,33 +25,33 @@ export const luanGiai_DiaVong: DoanLuanGiai[] = [
 
 **Hóa khí:** **Ám Tinh**.
 
-⚡ **Vị trí:** **LUÔN cố định tại cung TUẤT**.
+**Vị trí:** **LUÔN cố định tại cung TUẤT**.
 
-⚡ **Hình tượng:** "**LƯỚI TRỜI lồng lộng, tuy thưa mà khó lọt**".
+**Hình tượng:** "**LƯỚI TRỜI lồng lộng, tuy thưa mà khó lọt**".
 
-⚡ **Đặc tính:**
+**Đặc tính:**
 - Mang ý nghĩa **NHÂN QUẢ và NGHIỆP CHƯỚNG** theo **ĐẠO PHẬT**
 - Là **CÁI GỐC của ĐẠO ĐỨC**
-- Kẻ làm điều **ÁC**, người **CHỊU NGHIỆP QUẢ** → càng cựa quậy càng **MẮC
+- Kẻ làm điều **ÁC**, người **CHỊU NGHIỆP QUẢ**: càng cựa quậy càng **MẮC
   VÀO NHIỀU HƠN**
 
-⚡ **Tác động chính:**
+**Tác động chính:**
 - Cảm giác bị **MẮC KẸT**
 - Gặp nhiều **RÀO CẢN, KHÓ KHĂN** trong việc đạt mục tiêu
 - Dễ bị ảnh hưởng bởi **TÌNH HUỐNG KHÔNG MONG MUỐN**
 
-⚡ **Sự nghiệp:**
+**Sự nghiệp:**
 - Giảm nghiệp chướng nếu làm các công việc **BẢO VỆ CÁI ĐÚNG, LẼ PHẢI**
 - Hợp **KIỂM SÁT, HẢI QUAN, TƯ PHÁP**
 
-⚡ **Tình duyên:**
+**Tình duyên:**
 - Như cái lưới giúp mối quan hệ **DUY TRÌ BỀN LÂU**
 - Nhưng lại là **CÁI KHÓ** của người **MUỐN THOÁT RA mà KHÔNG THỂ**
 
-⚡ **Phúc thọ:**
+**Phúc thọ:**
 - Khi có bệnh tật cần **NỖ LỰC HÓA GIẢI**
 - KHÔNG nên **MÙ QUÁNG MÊ TÍN**
-- **GIỮ TÂM LÝ TRÍ** vì càng mưu cầu thoát khỏi → càng **MẮC KẸT**`,
+- **GIỮ TÂM LÝ TRÍ** vì càng mưu cầu thoát khỏi: càng **MẮC KẸT**`,
   },
 
   {
@@ -62,7 +62,7 @@ export const luanGiai_DiaVong: DoanLuanGiai[] = [
     doUuTien: 35,
     tomTat: `**Địa Võng** luôn **CỐ ĐỊNH tại cung Tuất** — gọi là **LƯỚI ĐẤT**.
 
-⚡ Là một nửa của **TRỤC LƯỚI TRỜI** (cùng Thiên La phía đối) — hai cung
+Là một nửa của **TRỤC LƯỚI TRỜI** (cùng Thiên La phía đối) — hai cung
 xung chiếu nhau tạo nên cặp đôi nghiệp duyên ràng buộc.`,
   },
 
@@ -78,17 +78,17 @@ xung chiếu nhau tạo nên cặp đôi nghiệp duyên ràng buộc.`,
     doUuTien: 80,
     tomTat: `**Địa Võng tại Mệnh** — chủ mệnh **THÔNG MINH, LANH LỢI, TÍNH TOÁN GIỎI**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **THÔNG MINH, LANH LỢI**
 - Có phần **MƯU LƯỢC, KHÉO XOAY CHUYỂN TÌNH THẾ**
 
-⚡ **Trắc trở bất ngờ:**
+**Trắc trở bất ngờ:**
 - Đối mặt với những **TRẮC TRỞ BẤT NGỜ**
-- Đang xuôi chèo mát mái → **VƯỚNG RẮC RỐI**
-- Đi trái đạo lý, quy luật tự nhiên → bị **CẢN TRỞ**
-- Không nhận ra → cho là **ĐEN ĐỦI**, do **ÔNG TRỜI KHÔNG ỦNG HỘ**
+- Đang xuôi chèo mát mái: **VƯỚNG RẮC RỐI**
+- Đi trái đạo lý, quy luật tự nhiên: bị **CẢN TRỞ**
+- Không nhận ra: cho là **ĐEN ĐỦI**, do **ÔNG TRỜI KHÔNG ỦNG HỘ**
 
-⚡ **Triết lý đúng (quan trọng):**
+**Triết lý đúng (quan trọng):**
 - Khó khăn, ngăn trở chỉ **ĐÁNG LO** khi làm điều **XẤU**, **TRÁI LUÂN
   THƯỜNG ĐẠO LÝ**
 - Làm điều **ĐÚNG ĐẮN, THƯỢNG TÔN PHÁP LUẬT, TỐT ĐỜI ĐẸP ĐẠO**:
@@ -106,7 +106,7 @@ xung chiếu nhau tạo nên cặp đôi nghiệp duyên ràng buộc.`,
     tomTat: `**Địa Võng + Không Kiếp + Đà Kỵ + Hình Hổ Riêu Phục tại Mệnh** — vướng
 **NGHIỆP CHƯỚNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Có lúc **ĐỘNG TÂM XẤU XA**
 - Va vào nghiệp **THAM - SÂN - SI - MẠN - NGHI - TÀ KIẾN**
 - Gây **NGHIỆP CHƯỚNG**
@@ -126,14 +126,14 @@ xung chiếu nhau tạo nên cặp đôi nghiệp duyên ràng buộc.`,
     tomTat: `**Địa Võng tại Phụ Mẫu** — mối quan hệ với **TRƯỞNG BỐI** có nhiều điểm
 **MẮC KẸT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Rơi vào **VÒNG LẶP KHÓ THOÁT**
 - "**ĐỜI CHA ĂN MẶN, ĐỜI CON KHÁT NƯỚC**"
 
-⚡ **Đi cùng Không Kiếp, Hóa Kỵ, Thiên Hình:**
-- Cha mẹ làm việc xấu → **CON CÁI CHỊU LIÊN LỤY**
-- Cha mẹ vay nợ → **CON CÁI PHẢI TRẢ**
-- Đời này không trả được → **ĐỜI CHÁU TIẾP GÁNH NGHIỆP**`,
+**Đi cùng Không Kiếp, Hóa Kỵ, Thiên Hình:**
+- Cha mẹ làm việc xấu: **CON CÁI CHỊU LIÊN LỤY**
+- Cha mẹ vay nợ: **CON CÁI PHẢI TRẢ**
+- Đời này không trả được: **ĐỜI CHÁU TIẾP GÁNH NGHIỆP**`,
   },
 
   {
@@ -146,7 +146,7 @@ xung chiếu nhau tạo nên cặp đôi nghiệp duyên ràng buộc.`,
     tomTat: `**Địa Võng + bộ Khoa Bảng (Xương Khúc + Hóa Khoa + Phong Cáo + Thai Phụ +
 Lưu Hà) tại Phụ Mẫu** — **TRI THỨC LƯU TRUYỀN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - **TRI THỨC LƯU TRUYỀN** từ cha mẹ
 - Nét đẹp **VĂN HÓA và ĐẠO ĐỨC** trong cách hành xử của bố mẹ ảnh hưởng đến
   con cái
@@ -162,7 +162,7 @@ Lưu Hà) tại Phụ Mẫu** — **TRI THỨC LƯU TRUYỀN**.
     doUuTien: 75,
     tomTat: `**Địa Võng tại Phúc Đức** — chủ mệnh **KHÔNG THỂ TÁCH RỜI DÒNG HỌ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - "**CÂY CÓ GỐC, NƯỚC CÓ NGUỒN**"
 - Dù muốn hay không, **PHẢI CHỊU ẢNH HƯỞNG TỔ TIÊN**`,
   },
@@ -174,7 +174,7 @@ Lưu Hà) tại Phụ Mẫu** — **TRI THỨC LƯU TRUYỀN**.
     cung: ['Phúc Đức', 'Mệnh'],
     ketHop: ['Địa Không', 'Thiên Không'],
     doUuTien: 65,
-    tomTat: `⚡ **Địa Võng tại Phúc Đức + sao Không tọa thủ tại Mệnh:**
+    tomTat: `**Địa Võng tại Phúc Đức + sao Không tọa thủ tại Mệnh:**
 - Hình thành suy nghĩ **MUỐN THOÁT LY THẾ TỤC**
 - Như một cách **TRẢ NGHIỆP**
 - Dễ có duyên với tu tập, đi tu, ẩn cư`,
@@ -188,7 +188,7 @@ Lưu Hà) tại Phụ Mẫu** — **TRI THỨC LƯU TRUYỀN**.
     doUuTien: 75,
     tomTat: `**Địa Võng tại Điền Trạch** — nhà bị **LƯỚI BỦA VÂY**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Có thể là nhà cửa **BỊ PHONG TỎA**
 - Hoặc nhà ở **VỊ TRÍ RANH GIỚI, BIÊN GIỚI**`,
   },
@@ -200,9 +200,9 @@ Lưu Hà) tại Phụ Mẫu** — **TRI THỨC LƯU TRUYỀN**.
     cung: ['Điền Trạch', 'Tài Bạch'],
     ketHop: ['Đà La', 'Hóa Kỵ', 'Thiên Hình', 'Đại Hao', 'Tiểu Hao'],
     doUuTien: 65,
-    tomTat: `⚠️ **Địa Võng tại Điền Trạch + cung Tài Bạch hội tụ Đà Kỵ Hình Hao:**
+    tomTat: `**Địa Võng tại Điền Trạch + cung Tài Bạch hội tụ Đà Kỵ Hình Hao:**
 - Dễ rơi vào **KIẾM TIỀN PHI PHÁP**
-- Đến lúc **TRẢ NGHIỆP** → nhà cửa, đất đai, tài sản **BỊ PHONG TỎA, GIAM
+- Đến lúc **TRẢ NGHIỆP**: nhà cửa, đất đai, tài sản **BỊ PHONG TỎA, GIAM
   CẦM, TỊCH THU**`,
   },
 
@@ -215,7 +215,7 @@ Lưu Hà) tại Phụ Mẫu** — **TRI THỨC LƯU TRUYỀN**.
     tomTat: `**Địa Võng tại Quan Lộc** — buộc đương số phải **LÀM ĐÚNG, TUÂN THỦ PHÁP
 LUẬT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Chỉ cần **LÀM SAI** là dễ bị **PHẠT**
 - Giảm nghiệp chướng nếu làm:
   - **KIỂM SÁT, HẢI QUAN, TƯ PHÁP**
@@ -232,7 +232,7 @@ LUẬT**.
     tomTat: `**Địa Võng + Quan Phù + Quan Phủ + Thiên Hình tại Quan Lộc** — công việc
 **LIÊN QUAN PHÁP LUẬT**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Bộ **XÉT NÉT, KỶ LUẬT, PHÁP LÝ**
 - Phải chú ý công việc liên quan **PHÁP LUẬT**
 - Phù hợp **TƯ PHÁP, LUẬT SƯ, KIỂM SÁT, AN NINH**`,
@@ -246,11 +246,11 @@ LUẬT**.
     doUuTien: 75,
     tomTat: `**Địa Võng tại Nô Bộc** — **NGHIỆP trong QUAN HỆ XÃ HỘI**.
 
-⚡ **Đặc trưng (làm chủ + có cấp dưới):**
+**Đặc trưng (làm chủ + có cấp dưới):**
 - Gắn kết với **NHỮNG NGƯỜI LƯỚT QUA ĐỜI MÌNH**
 - Phản ánh **CẤP DƯỚI làm cho mình LÂU DÀI**
 
-⚡ **Hội nhiều SÁT KỴ HÌNH:**
+**Hội nhiều SÁT KỴ HÌNH:**
 - Vướng **TRẮC TRỞ, KHÓ KHĂN** trong quan hệ
 - **LỢI ÍT HẠI NHIỀU**
 - Cần **TỈNH TÁO** để không liên tiếp mắc sai lầm`,
@@ -264,10 +264,10 @@ LUẬT**.
     doUuTien: 75,
     tomTat: `**Địa Võng tại Thiên Di** — đi đâu, làm gì cũng có **TRỜI ĐẤT SOI XÉT**.
 
-⚡ **Đặc trưng:**
-- Làm điều sai → có **HÌNH PHẠT**
+**Đặc trưng:**
+- Làm điều sai: có **HÌNH PHẠT**
 - Cũng giống **SỰ CHỨNG GIÁM**
-- Càng làm điều **ĐÚNG ĐẮN** → càng **CÓ LỢI**
+- Càng làm điều **ĐÚNG ĐẮN**: càng **CÓ LỢI**
 - Dễ có **DUYÊN với NGƯỜI NGAY THẲNG**, biết tuân thủ đạo đức pháp luật
 - Có thể **HỌC TẬP TÍNH TỐT** từ họ`,
   },
@@ -280,14 +280,14 @@ LUẬT**.
     doUuTien: 75,
     tomTat: `**Địa Võng tại Tật Ách** — Tật Ách là **NGHIỆP QUẢ**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ dính tới **PHÁP LUẬT, HÌNH PHÁP**
 - Bệnh tật phải **NỖ LỰC HÓA GIẢI**
 
-⚡ **Cảnh báo (rất quan trọng):**
+**Cảnh báo (rất quan trọng):**
 - Không nên **MÙ QUÁNG MÊ TÍN DỊ ĐOAN**
 - **GIỮ TÂM LÝ TRÍ** là cần thiết
-- Vì càng mưu cầu thoát khỏi → càng **MẮC KẸT**`,
+- Vì càng mưu cầu thoát khỏi: càng **MẮC KẸT**`,
   },
 
   {
@@ -298,12 +298,12 @@ LUẬT**.
     doUuTien: 75,
     tomTat: `**Địa Võng tại Tài Bạch** — kiếm tiền **BẤT CHÍNH ẮT SINH CHUYỆN**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - "**MỘT LẦN NHÚNG CHÀM, KHÓ RỬA SẠCH TAY**"
-- Vướng vào sai lầm → tiếp tục **MỜI GỌI, CÂU DẪN** lún sâu hơn
+- Vướng vào sai lầm: tiếp tục **MỜI GỌI, CÂU DẪN** lún sâu hơn
 - Càng đúng nếu đi cùng **ĐÀ LA, ĐỊA KIẾP, BỆNH PHÙ** (sao chủ **DÂY DƯA**)
 
-⚡ **Đồng tiền thiện lành:**
+**Đồng tiền thiện lành:**
 - **KHÔNG có gì đáng lo**`,
   },
 
@@ -315,14 +315,14 @@ LUẬT**.
     doUuTien: 75,
     tomTat: `**Địa Võng tại Tử Tức** — không có **DUYÊN** thì cũng có **PHẬN** với con cái.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Phải xa rời con vẫn **DUY TRÌ CẢM GIÁC BỔN PHẬN** của cha mẹ
 
-⚡ **Hội Khôi Việt, Quang Quý:**
+**Hội Khôi Việt, Quang Quý:**
 - **DUYÊN THIỆN LÀNH**
 - Có lợi cho **CHUYỆN SINH NỞ**
 
-⚡ **Kết hợp nhiều sao xấu:**
+**Kết hợp nhiều sao xấu:**
 - Phải **TRẢ NGHIỆP**
 - Cần **TÍCH PHÚC ĐỨC** cho con cái, hậu thế`,
   },
@@ -335,8 +335,8 @@ LUẬT**.
     doUuTien: 75,
     tomTat: `**Địa Võng tại Phu Thê** — chủ mệnh phải **NHÌN VÀO THỰC TẾ** để giải quyết.
 
-⚡ **Đặc trưng:**
-- Nếu không, vướng mắc này → vướng mắc khác
+**Đặc trưng:**
+- Nếu không, vướng mắc này: vướng mắc khác
 - **CHỒNG CHÉO KHÓ GIẢI QUYẾT**
 - Tựa cái lưới giúp mối quan hệ **DUY TRÌ BỀN LÂU**
 - Nhưng là **CÁI KHÓ** của người **MUỐN THOÁT RA mà KHÔNG THỂ**`,
@@ -350,11 +350,11 @@ LUẬT**.
     doUuTien: 75,
     tomTat: `**Địa Võng tại Huynh Đệ** — quan hệ **RUỘT THỊT** có nhiều **VƯỚNG MẮC**.
 
-⚡ **Cảnh báo - đi cùng Không Kiếp, Hình Kỵ, Bạch Hổ, Hao, Thiên Riêu:**
+**Cảnh báo - đi cùng Không Kiếp, Hình Kỵ, Bạch Hổ, Hao, Thiên Riêu:**
 - Mối quan hệ **ĐI THEO CHIỀU XẤU**
 - Vướng vào **RẮC RỐI KHÓ DỨT**
 
-⚡ **Lời khuyên:**
+**Lời khuyên:**
 - **KHÔNG NÊN HỢP TÁC LÀM ĂN** hay dính líu
 - Nhẹ thì **XA CÁCH**
 - Nặng thì **TRANH CHẤP KHÓ DỨT**`,
@@ -371,23 +371,23 @@ LUẬT**.
     doUuTien: 70,
     tomTat: `**Hạn gặp Thiên La - Địa Võng** — **CẠM BẪY BỦA VÂY**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Dễ **SA VÀO BẪY**
 - Càng **VÙNG VẪY** càng **MẮC SÂU**
 
-⚡ **Hội cát tinh:**
+**Hội cát tinh:**
 - Đó là **TRÁCH NHIỆM, NGHĨA VỤ LỚN**
 - Tuy **VẤT VẢ** nhưng sẽ được **ĐỀN ĐÁP**
 
-⚡ **Gặp Hóa Kỵ, Địa Kiếp:**
+**Gặp Hóa Kỵ, Địa Kiếp:**
 - Càng làm càng **SAI**
 - "**LÀM MỘT MẤT MƯỜI**"
 
-⚡ **Lời khuyên:**
+**Lời khuyên:**
 - **BIẾT DỪNG ĐÚNG LÚC** là **KHÔN NGOAN**
 - **THẬN TRỌNG TỪNG BƯỚC**
 - **SOI XÉT HẬU QUẢ** trước khi hành động
-- Giữ **CÁI TÂM TỈNH TÁO** → **LƯỚI TRỜI** hóa thành **LỜI CẢNH TỈNH**`,
+- Giữ **CÁI TÂM TỈNH TÁO**: **LƯỚI TRỜI** hóa thành **LỜI CẢNH TỈNH**`,
   },
 
   {
@@ -398,17 +398,17 @@ LUẬT**.
     doUuTien: 65,
     tomTat: `**Thiên La / Địa Võng + Lộc + cát tinh** — sự nghiệp **PHÁT ĐẠT GIÀU SANG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Hội họp cát tinh tăng tính **BỀN VỮNG** Mệnh - Tài - Quan
 - Là **CHẤT XÚC TÁC** giúp đương số **KÉO DÀI CÁI DUYÊN với TIỀN BẠC, CÔNG
   DANH**
 - Tưởng muốn **BUÔNG BỎ kiếm tiền** thì tiền lại đến
 - Tưởng muốn **SỐNG ẨN** nhưng lại **VANG DANH**
 
-⚡ **Đặc thù phát đạt giàu sang ĐÚNG NHẤT khi:**
+**Đặc thù phát đạt giàu sang ĐÚNG NHẤT khi:**
 - Đi cùng **Thiên Lương, Thiên Đồng** (sao chủ về QUÝ)
 
-⚡ **Đặc thù danh tiếng lâu bền ĐÚNG NHẤT khi:**
+**Đặc thù danh tiếng lâu bền ĐÚNG NHẤT khi:**
 - Đi cùng **Hóa Khoa, Thái Dương, Văn Xương, Văn Khúc** (sao chủ về DANH)`,
   },
 
@@ -421,13 +421,13 @@ LUẬT**.
     tomTat: `**Thiên La / Địa Võng + Thiên Hình + Liêm Trinh + Thiên Lương + Địa Kiếp +
 Đà La + Quan Phù - Quan Phủ** — **DÍNH LÍU PHÁP LUẬT, TÙ TÚNG**.
 
-⚡ **Đặc trưng:**
+**Đặc trưng:**
 - Rất kỵ đi cùng các sao chủ **KIỆN TỤNG, TÙ TÚNG**
 - Dễ dính vào **PHÁP LUẬT**
 
-⚡ **Cảnh báo hạn:**
+**Cảnh báo hạn:**
 - Hạn có Địa Võng cần **ĐỀ PHÒNG VẤN ĐỀ PHÁP LUẬT**
-- Vướng vào pháp luật → gặp **NHIỀU PHIỀN PHỨC**
+- Vướng vào pháp luật: gặp **NHIỀU PHIỀN PHỨC**
 - Cần **TẬP TRUNG GIẢI QUYẾT** dứt điểm`,
   },
 ];
