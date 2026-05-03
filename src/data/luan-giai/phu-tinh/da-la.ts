@@ -115,7 +115,7 @@ hoặc vết sẹo**.`,
     doUuTien: 85,
     tomTat: `**Đà La cư Mệnh** — tính cách phụ thuộc nặng vào trạng thái sao.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
 
     chiTiet: `## Hóa giải khi Đà La hãm
 
@@ -300,7 +300,7 @@ thời giảm xung động tinh thần của Kình:
     tomTat: `**Đà La tại Phúc Đức** — phúc khí dòng họ phụ thuộc nặng vào trạng
 thái sao.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -372,7 +372,7 @@ Dù cha mẹ có điền sản nhưng đương số **khó kế thừa**.
     doUuTien: 80,
     tomTat: `**Đà La tại Quan Lộc** — sự nghiệp phụ thuộc nặng vào trạng thái sao.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -446,7 +446,7 @@ mưu, kín đáo của Đà La.`,
     tomTat: `**Đà La tại Nô Bộc** — chất lượng bạn bè phụ thuộc nặng vào trạng
 thái sao.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -579,7 +579,7 @@ vướng **thị phi, tranh cãi, kiện tụng**, đôi khi **xô xát**.`,
     tomTat: `**Đà La tại Tài Bạch:** nhiều **tính toán, mưu mô** trong kiếm tiền.
 Môi trường làm ăn **phức tạp**, nhiều **rắc rối, thị phi, tranh chấp**.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {

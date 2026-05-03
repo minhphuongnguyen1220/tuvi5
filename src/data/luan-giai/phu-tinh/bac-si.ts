@@ -92,7 +92,7 @@ biết **sâu rộng**, suy xét **kín kẽ, khôn ngoan**, **khéo léo trong 
 - Dễ được **thừa hưởng tiền bạc/tài sản** từ gia đình
 
 **Cung Mệnh luôn bị Kình Dương + Đà La giáp** (do Lộc Tồn): tuổi thơ cô
-độc, phải tự lập từ sớm. Xem thêm chi tiết tại entry "Lộc Tồn + Bác Sĩ thủ
+độc, phải tự lập từ sớm. Xem thêm chi tiết tại mục "Lộc Tồn + Bác Sĩ thủ
 Mệnh" và "Kình Đà giáp Lộc Tồn".`,
 
     chiTiet: `## Học hành - đỗ đạt

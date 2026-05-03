@@ -80,8 +80,7 @@ Trường Sinh.
 - Khi xấu (nhiều sát tinh): tai họa lan tỏa cả 3 cung
 
 **Câu phú nổi tiếng:** **"Khá khen cung Phúc nhà ngươi / Trường Sinh,
-Đế Vượng lắm người thành danh"** — đã có entry chuyên biệt khi Sinh + Vượng
-đồng cung tại cung Phúc.`,
+Đế Vượng lắm người thành danh"**.`,
   },
 
   {

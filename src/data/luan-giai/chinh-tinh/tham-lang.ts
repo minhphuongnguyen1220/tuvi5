@@ -787,7 +787,7 @@ Lộc:** nghề nghiệp liên quan đến **người khác giới** hoặc **ti
     doUuTien: 78,
     tomTat: `**Tham Lang tại Tài Bạch:** **phóng khoáng, rộng rãi** nhưng biết
 **tính toán + kiếm tiền giỏi**. Tuy nhiên **không giỏi giữ tiền** — thiên về
-**"lấy công làm thủ"**. Xem entry chuyên biệt theo trạng thái và bộ kết hợp.`,
+**"lấy công làm thủ"**.`,
 
     chiTiet: `## Tính cách tài chính
 
@@ -845,7 +845,7 @@ vấn đề tài chính.`,
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
     tomTat: `**Tham Lang tại Phụ Mẫu:** đặc tính cha mẹ thay đổi theo trạng
-thái + bộ kết hợp — xem entry chuyên biệt.`,
+thái + bộ kết hợp —`,
 
     chiTiet: `## Tổng quan
 
@@ -898,7 +898,7 @@ hội ở vị trí Đắc địa:** cha mẹ **giàu có, an nhàn**.`,
     cung: ['Phu Thê'],
     doUuTien: 75,
     tomTat: `**Tham Lang tại Phu Thê:** đặc tính hôn nhân thay đổi theo trạng
-thái và giới tính — chia thành các entry chuyên biệt.
+thái và giới tính.
 
 Tổng quát: **ly hôn rồi tái hôn sẽ càng BẤT LỢI**.`,
 
@@ -1044,7 +1044,7 @@ bản thân có thể **mở rộng tài sản, mua bất động sản**.`,
     cung: ['Phúc Đức'],
     doUuTien: 78,
     tomTat: `**Tham Lang tại Phúc Đức:** **phát huy ưu điểm**, đem lại nhiều
-**may mắn**. Xem entry chuyên biệt theo Vũ Khúc / trạng thái Hãm.`,
+**may mắn**.`,
 
     chiTiet: `## Đặc điểm chung
 

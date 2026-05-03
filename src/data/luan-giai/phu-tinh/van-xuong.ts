@@ -84,7 +84,7 @@ hiểm.`,
     title: 'Văn Xương - Bộ sao TỐT (chỉ dẫn chung)',
     sao: ['Văn Xương'],
     doUuTien: 50,
-    tomTat: `**Bộ sao tốt của Văn Xương:** xem các entry chuyên biệt theo từng kết hợp sao.`,
+    tomTat: `**Bộ sao tốt của Văn Xương:**`,
   },
 
   {
@@ -140,7 +140,7 @@ hiểm.`,
     title: 'Văn Xương - Bộ sao XẤU (chỉ dẫn chung)',
     sao: ['Văn Xương'],
     doUuTien: 50,
-    tomTat: `**Bộ sao xấu của Văn Xương:** xem các entry chuyên biệt theo từng kết hợp sao.`,
+    tomTat: `**Bộ sao xấu của Văn Xương:**`,
   },
 
   {

@@ -147,13 +147,12 @@ trong nhà cả vườn lan, chơi đàn thì có cả trăm cây đàn.`,
     cung: ['Mệnh'],
     doUuTien: 50,
     tomTat: `Tính cách Thiên Đồng tại Mệnh biến thiên mạnh theo trạng thái —
-Xem entry chuyên biệt cho từng trạng thái.`,
+`,
 
     chiTiet: `## Tổng quan
 
 Tính cách Thiên Đồng tại Mệnh biến thiên mạnh theo trạng thái.
 
-- Xem entry chuyên biệt cho từng trạng thái + chi cụ thể.
 
 ## Lưu ý màu da
 
@@ -256,7 +255,7 @@ Cách Đồng Lương Dần Thân có **năng khiếu sư phạm, y dược**, c
 
 Thiên Đồng + Thái Âm tại hai cung Tý / Ngọ tạo thành cách **"Thủy Trừng Quế Ngạc"**.
 
-**Đồng Âm tại Tý đẹp hơn Ngọ**. Xem entry chuyên biệt cho Nam mệnh / Nữ mệnh.
+**Đồng Âm tại Tý đẹp hơn Ngọ**.
 
 ## Các cách cục bộ ba
 
@@ -278,7 +277,6 @@ Số làm **thầy cúng nổi danh**.`,
     doUuTien: 50,
     tomTat: `**Bộ sao xấu của Thiên Đồng:**
 - **Thiên Đồng + Không Kiếp + Linh Hỏa:** ham chơi, lầm đường lạc lối, cờ bạc, nghèo khổ
-- **Thiên Đồng + Thái Âm + Thiên Riêu + Thiên Khốc:** xem entry chuyên biệt cho Nữ mệnh
 - **Thiên Đồng + Hóa Kỵ hoặc Đà La (Hãm):** làm ơn mắc oán, có **nghiệp tâm linh**
 - **Cự Đồng tại Sửu Mùi:** ngang tàng, nói nhiều, khó tính`,
 
@@ -288,7 +286,6 @@ Số làm **thầy cúng nổi danh**.`,
 
 ## Thiên Đồng + Thái Âm + Thiên Riêu + Thiên Khốc
 
-Xem entry chuyên biệt — bộ sao này luận cho **Nữ mệnh**.
 
 ## Thiên Đồng hãm địa + Hóa Kỵ / Đà La
 
@@ -719,7 +716,6 @@ tiếng nói, **ít phải thay đổi công việc**.`,
     doUuTien: 75,
     tomTat: `**Thiên Đồng tại Nô Bộc** — cách **chưa được đẹp**.
 
-- Hợp với cát tinh: Xem entry chuyên biệt cho từng trạng thái.
 - **Hội Không Kiếp / Kình Đà / Hình Kỵ / Linh Hỏa:** bạn bè ăn chơi cờ bạc,
   dễ rủ vào chốn xa đọa, **dễ làm ơn mắc oán**`,
   },
@@ -992,8 +988,7 @@ hợp ngành nghề kinh doanh, mua bán**.`,
     cung: ['Tử Tức'],
     doUuTien: 80,
     tomTat: `**Thiên Đồng tại Tử Tức:** thông thường **có cả trai lẫn gái**. Sau
-này con cái lớn lên thường đi xa, không ở với bố mẹ. Xem entry chuyên biệt theo
-chi.`,
+này con cái lớn lên thường đi xa, không ở với bố mẹ.`,
   },
 
   {
@@ -1062,7 +1057,7 @@ nuôi, con cái bất hòa với cha mẹ.`,
     cung: ['Phu Thê'],
     doUuTien: 75,
     tomTat: `**Thiên Đồng tại Phu Thê** — cách **không hay**, vợ chồng thường
-cách trở. Xem entry chuyên biệt theo trạng thái và chi.`,
+cách trở.`,
 
     chiTiet: `## Câu phú
 
@@ -1187,7 +1182,6 @@ Hội **Hình / Kỵ / Không Kiếp / Hóa Kỵ:** dễ dính cờ bạc, ăn c
 
 ## Theo trạng thái
 
-Xem entry chuyên biệt theo trạng thái Đắc / Hãm.
 
 ## Hội sao xấu
 

@@ -950,7 +950,7 @@ Công danh phải **từ trung vận trở đi** mới sáng sủa.`,
     cung: ['Phụ Mẫu'],
     doUuTien: 70,
     tomTat: `**Thái Dương tại Phụ Mẫu:** đặc tính cha mẹ thay đổi rõ rệt theo
-trạng thái sáng / hãm của Thái Dương — chia theo từng entry chuyên biệt.`,
+trạng thái sáng / hãm của Thái Dương.`,
 
     chiTiet: `## Quy tắc cha/mẹ mất trước (theo sáng/hãm + sinh ngày/đêm)
 

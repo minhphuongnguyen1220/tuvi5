@@ -82,7 +82,7 @@ Khi nhiều sao của bộ này **HỘI TỤ** tại 1 cung quan trọng:
 - **HAO TÀI, BUỒN KHỔ, MẤT MÁT** dồn dập
 - Cần **GIẢI TINH MẠNH** mới chế giảm
 
-(Xem entry chuyên biệt cho Tang Môn đắc địa.)`,
+`,
   },
 
   {
@@ -527,8 +527,7 @@ biệt nếu hãm địa hoặc có thêm sát tinh.`,
     sao: ['Tang Môn'],
     cung: ['Điền Trạch'],
     doUuTien: 72,
-    tomTat: `**Tang Môn tại Điền Trạch:** xem các entry chuyên biệt theo
-sao kết hợp.`,
+    tomTat: `**Tang Môn tại Điền Trạch:**`,
   },
 
   {

@@ -117,7 +117,7 @@ chuyên chủ về niềm vui, hỉ sự.
 - **Có khiếu ăn mặc, gu thẩm mỹ cao**
 - Ra ngoài thích mặc đồ **diêm dúa, nhiều màu sắc, hoa hòe**
 
-(Xem entry chuyên biệt theo giới tính cho chi tiết tướng mạo + hôn nhân.)
+
 
 **Tính tình:** ưa tìm cảm xúc bên trong tâm hồn, **không ham vật chất**, tính
 **như nghệ sĩ**.
@@ -144,7 +144,7 @@ biểu diễn.
 
 ## Hôn nhân - phức tạp nhất
 
-(Xem entry chuyên biệt theo giới tính cho đặc điểm hôn nhân.)
+
 
 Nếu **không có Vũ Khúc / Thiên Hình** kèm theo, hôn nhân dễ **"sớm nở tối
 tàn"**. Hôn nhân bắt đầu từ cảm xúc bốc đồng thường kết thúc nhanh chóng.
@@ -305,7 +305,7 @@ Trong dòng họ nhiều người **sống tình cảm, nhẹ nhàng, tốt tín
 
 **Mồ mả tổ tiên** thường gần nơi **ẩm ướt, sông hồ** (hành Thủy).
 
-(Xem entry chuyên biệt cho cách Hồng Loan cư Phúc Đức tại Tứ Mộ.)`,
+`,
   },
 
   {
@@ -596,7 +596,7 @@ tiền **dễ dàng thuận lợi**, **gặp nhiều may mắn**.
 - Mua vui cho **tâm hồn**
 - **Nhân tình**
 
-(Xem entry chuyên biệt cho nữ mệnh khi đi với sao xấu.)`,
+`,
   },
 
   {
@@ -1070,7 +1070,7 @@ Cẩn trọng:
 
 **Đào Hồng + Không Kiếp + Bệnh Phù:** mắc **bệnh phong tình**.
 
-(Xem entry chuyên biệt cho Đào Hồng tại Mệnh + Thiên Không / Địa Không.)`,
+`,
   },
 
   {

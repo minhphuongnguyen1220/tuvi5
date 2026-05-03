@@ -1438,7 +1438,7 @@ Tại **Dần** hoặc **Thân**, cung Mệnh có Liêm Trinh:
 - Đây là cách cục **kinh doanh cực lớn**
 - **Tiền bạc hanh thông**
 
-Xem entry chuyên biệt cho Nữ mệnh.`,
+`,
   },
 
   {
@@ -1539,7 +1539,6 @@ cách **"Liêm Phủ"** — là cách cục **"cự phú"**.
 mang tính **"HÌNH NGỤC NAN ĐÀO"**.
 
 **Hai sao đào hoa cùng hãm địa** khiến chủ mệnh dễ **sa đà ăn chơi, sân si**.
-Xem entry chuyên biệt cho Nam / Nữ mệnh.
 
 **Cứu cánh:** **Tuần Triệt** hóa giải.`,
 
@@ -1557,7 +1556,6 @@ Xem entry chuyên biệt cho Nam / Nữ mệnh.
 
 ## Theo giới tính
 
-Xem entry chuyên biệt cho Nam / Nữ mệnh.
 
 ## Cứu cánh
 
@@ -1822,7 +1820,7 @@ thắn** trong công việc, có tính **liêm khiết**: trở nên **giàu có
 Nhưng nếu cố gắng vẫn có thể ở bên nhau đến già — cũng coi là kết cục tốt.
 
 **Lời khuyên:** nên **lập gia đình muộn**, **chênh lệch nhiều tuổi** vẫn tốt
-(xem entry chuyên biệt cho Nam / Nữ mệnh).`,
+.`,
 
     chiTiet: `## Đặc điểm chung
 
@@ -1839,7 +1837,6 @@ Người có Liêm Trinh tại cung Phu Thê nên:
 - **Lập gia đình muộn**
 - **Chênh lệch nhiều tuổi** cũng vẫn tốt
 
-Xem entry chuyên biệt cho Nam / Nữ mệnh.
 
 ## Cát và hung kết hợp
 
@@ -1901,7 +1898,7 @@ khó**, **bất hòa**, **dễ xa cách nhau**, hôn nhân **dễ đổ vỡ**.`
     cung: ['Phụ Mẫu'],
     doUuTien: 78,
     tomTat: `**Liêm Trinh tại Phụ Mẫu:** chủ về **cha mẹ xung khắc, không hòa
-hợp với con cái**. Xem entry chuyên biệt theo trạng thái + bộ kết hợp.`,
+hợp với con cái**.`,
 
     chiTiet: `## Đặc điểm
 
@@ -1944,8 +1941,7 @@ giải** — nhưng vẫn nên **xa cách cha mẹ**.`,
     cung: ['Điền Trạch'],
     doUuTien: 78,
     tomTat: `**Người xưa cho rằng Liêm Trinh KHÔNG NÊN nhập cung Điền Trạch.**
-Thường gặp **nhiều trở ngại** trong chuyện đất cát, tổ nghiệp. Xem entry chuyên
-biệt theo trạng thái.`,
+Thường gặp **nhiều trở ngại** trong chuyện đất cát, tổ nghiệp.`,
 
     chiTiet: `## Cảnh báo
 
@@ -2244,7 +2240,7 @@ Tham:** con cái **khó nuôi**.`,
     cung: ['Tật Ách'],
     doUuTien: 78,
     tomTat: `**Liêm Trinh thuộc ÂM HỎA**: tại Tật Ách chủ về **bệnh máu huyết**.
-**Thêm Hóa Kỵ** càng nặng. Xem entry chuyên biệt theo trạng thái và Nữ mệnh.`,
+**Thêm Hóa Kỵ** càng nặng.`,
 
     chiTiet: `## Bệnh chính
 

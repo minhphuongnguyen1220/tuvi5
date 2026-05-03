@@ -151,7 +151,7 @@ hoặc **tai nạn do liều lĩnh**. Cần **tu dưỡng tinh thần lạc quan
     doUuTien: 55,
     tomTat: `**Bộ sao tốt của Hóa Quyền** (ngoài bộ Tam Hóa đã có ở Hóa Lộc):
 
-(Xem entry chuyên biệt theo từng bộ kết hợp.)`,
+`,
   },
 
   {
@@ -191,7 +191,7 @@ hoặc **tai nạn do liều lĩnh**. Cần **tu dưỡng tinh thần lạc quan
     doUuTien: 55,
     tomTat: `**Hóa Quyền RẤT KỴ sát tinh hãm địa.**
 
-(Xem entry chuyên biệt theo từng bộ kết hợp.)`,
+`,
   },
 
   {
@@ -260,7 +260,7 @@ hoặc **tai nạn do liều lĩnh**. Cần **tu dưỡng tinh thần lạc quan
     doUuTien: 75,
     tomTat: `**Hóa Quyền tại Phụ Mẫu** — cha mẹ có ảnh hưởng / quyền uy lên con.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -447,7 +447,7 @@ Ra ngoài **quyền uy**, về nhà **sợ vợ/chồng một phép**.
 **Mặt trái:** dễ **bị bạn bè đồng nghiệp / cấp dưới VƯỢT QUYỀN, o ép, chỉ
 đạo, chi phối**: thực tế Hóa Quyền cư Nô CHƯA CHẮC đẹp.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -529,7 +529,7 @@ Dễ **nổi lên, thăng cấp** trong giai đoạn **loạn lạc, chiến tra
 
 Ngày chết: được **phong hàm, khen thưởng, thăng cấp danh dự**.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -611,7 +611,7 @@ chấp**.`,
 Con cái sau này hay **sắp đặt, chi phối, ảnh hưởng cha mẹ** — luôn muốn cha
 mẹ phải **nghe theo ý mình**.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -667,7 +667,7 @@ mẹ phải **nghe theo ý mình**.
 
 Bạn đời tính **ham quyền lực, háo danh, thích chi phối điều khiển** người khác.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -726,7 +726,7 @@ con trưởng giúp mình.
 Anh chị em hay **thích làm người đứng đầu**, **chỉ đạo, sắp đặt, chi phối**
 mọi thứ.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {

@@ -130,8 +130,7 @@ là tài năng của chính mình.
     title: 'Văn Khúc - Bộ sao TỐT',
     sao: ['Văn Khúc'],
     doUuTien: 50,
-    tomTat: `**Bộ sao tốt của Văn Khúc** — xem chi tiết các entry chuyên biệt
-cho từng cách kết hợp.`,
+    tomTat: `**Bộ sao tốt của Văn Khúc**.`,
   },
 
   {
@@ -222,8 +221,7 @@ hiển vinh về võ.`,
     title: 'Văn Khúc - Bộ sao XẤU',
     sao: ['Văn Khúc'],
     doUuTien: 50,
-    tomTat: `**Bộ sao xấu của Văn Khúc** — xem chi tiết các entry chuyên
-biệt cho từng cách kết hợp.`,
+    tomTat: `**Bộ sao xấu của Văn Khúc**.`,
   },
 
   {

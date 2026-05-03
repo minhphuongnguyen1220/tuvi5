@@ -215,7 +215,7 @@ hóa, quyền hành, tiền bạc**.
     title: 'Hóa Lộc - Các bộ sao TỐT khác',
     sao: ['Hóa Lộc'],
     doUuTien: 55,
-    tomTat: `**Bộ sao tốt khác của Hóa Lộc** (chi tiết tách theo entry chuyên biệt).`,
+    tomTat: `**Bộ sao tốt khác của Hóa Lộc**.`,
   },
 
   {

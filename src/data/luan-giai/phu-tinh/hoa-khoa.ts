@@ -72,7 +72,7 @@ gặp sát hay ám tinh).`,
 - Có **tài năng suy luận, nghiên cứu, giáo khoa**
 - **Nhân hậu, từ thiện, nết tốt**
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -471,7 +471,7 @@ Tư tưởng cao **khó gần** hoặc **áp đặt lý tưởng** khiến con m
     tomTat: `**Hóa Khoa tại Phúc Đức:** **phúc ấm từ dòng họ**, được tổ tiên
 **che chở**.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -674,7 +674,7 @@ vấn, hiểu biết**. **Trọng tri thức**, dễ **đỗ đạt**, có **dan
 
 Phù hợp công việc liên quan **lý luận, quản lý, giảng huấn, nghiên cứu**.
 
-(Xem entry chuyên biệt cho cách Tam Hóa + Tả Hữu + Phá Quân tại Tý/Ngọ.)
+
 
 **Hãm địa:** sự nghiệp "**lên thác xuống ghềnh**" do **lý tưởng hóa nghề
 nghiệp**. Học nhiều nhưng **khó chuyển hóa thành kết quả thực tế**.`,
@@ -776,7 +776,7 @@ quan lộ.`,
     doUuTien: 75,
     tomTat: `**Hóa Khoa tại Nô Bộc** — bạn bè quanh đương số mang **tính tri thức**.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {
@@ -960,7 +960,7 @@ tưởng**, thiếu cân bằng tâm-thân-trí.`,
     doUuTien: 78,
     tomTat: `**Hóa Khoa tại Tài Bạch** — tài lộc gắn với **chất xám, học vấn**.
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm.)`,
+`,
   },
 
   {

@@ -104,7 +104,7 @@ chiếm đoạt**.`,
     doUuTien: 78,
     tomTat: `**Thiên Phủ cư Mệnh:** mặt **vuông, hồng hào, răng trắng**, thần
 mắt hoạt bát, **tướng mạo thanh tú**, tinh thần dồi dào, nước da đẹp.
-Xem entry chuyên biệt cho từng giới tính.`,
+`,
   },
 
   {
@@ -748,7 +748,7 @@ nghiệp cùng nhau** ("đồng vợ đồng chồng"), gia đình đầm ấm, 
     cung: ['Huynh Đệ'],
     doUuTien: 73,
     tomTat: `**Thiên Phủ tại Huynh Đệ** — cung vị **bình thường**.
-Xem entry chuyên biệt cho từng trạng thái và bộ kết hợp.`,
+`,
   },
 
   {

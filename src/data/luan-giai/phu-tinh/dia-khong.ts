@@ -821,7 +821,7 @@ hãm:** nguy hiểm tính mạng — cả nam nữ đều **khắc vợ, sát ph
     sao: ['Địa Không'],
     doUuTien: 55,
     tomTat: `**3 cách tai ương khi Địa Không gặp hung tinh** — xem các tổ
-hợp cụ thể trong các entry chuyên biệt bên dưới.`,
+hợp cụ thể.`,
   },
   {
     id: 'dia-khong-hoa-linh-hoa-tai',

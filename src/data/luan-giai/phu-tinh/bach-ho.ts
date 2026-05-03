@@ -186,7 +186,7 @@ PHÁP LUẬT**, dễ **BỊ VU OAN**, hoặc trải qua **NHIỀU LẦN SỤP Đ
 - Bạch Hổ **KHÔNG** chủ về **GIÀU SANG PHÚ QUÝ**
 - Là nền tảng để **TỰ THÂN LẬP NGHIỆP**, đạt thành tựu **BỀN VỮNG**
 
-(Xem entry chuyên biệt theo trạng thái Đắc / Hãm cho khía cạnh tiền bạc.)`,
+`,
   },
 
   {
@@ -385,7 +385,7 @@ khi **THÂN cư Quan**.
 - Coi sự nghiệp như **SỨ MỆNH ĐỜI MÌNH**. Không ngại khó, luôn **xông pha** —
 nhưng cũng dễ tự đẩy mình vào **CĂNG THẲNG, VẤT VẢ**.
 
-(Xem entry chuyên biệt cho cách "Hổ về rừng" tại Dần.)`,
+`,
   },
 
   {

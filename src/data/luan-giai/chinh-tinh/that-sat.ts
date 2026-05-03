@@ -259,7 +259,7 @@ và phải **bôn ba vất vả**."
 (Thất Sát + Cô Thần làm tăng tính mạnh mẽ, tự chủ, cô độc; gặp Tham Đà lại
 thành **hoang dâm**.)
 
-**Câu phú 3 (xem entry chuyên biệt cho Dần / Thân + ác sát).**
+**Câu phú 3 .**
 
 ## Bình luận thời nay
 
@@ -323,7 +323,7 @@ Có một điều **khá chính xác:**
     cung: ['Phúc Đức'],
     doUuTien: 75,
     tomTat: `**Thất Sát tại Phúc Đức:** kết quả về dòng họ + cá nhân thay đổi
-theo trạng thái và giới tính — chia thành các entry chuyên biệt.`,
+theo trạng thái và giới tính.`,
 
     chiTiet: `## Đặc điểm chung
 

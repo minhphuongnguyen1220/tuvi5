@@ -152,7 +152,7 @@ sắc lẫn hương:
 - Cần **Tuần / Triệt** hoặc **Tử Phủ / Nguyệt Đức** để hóa giải mới mong giảm
 bớt tai họa.
 
-(Xem entry chuyên biệt cho nữ mệnh.)`,
+`,
   },
 
   // ============================================================
@@ -480,7 +480,7 @@ tính **hư ảo**, dễ chuốc khổ đau.
 - **Nhiều người mê**
 - **Tình ái dở dang**
 
-(Xem entry chuyên biệt cho cách "Đào Hồng nữ mệnh + Tang Môn tại Phụ Mẫu".)`,
+`,
   },
   {
     id: 'dao-hong-nu-menh-da-ky',
@@ -594,7 +594,7 @@ và thiên nhiên, **rất sợ cô đơn** hay bị bỏ rơi.
 **Tài năng:** **thông minh, tiếp thu nhanh**, đặc biệt nổi trội ở **nghệ thuật,
 sáng tạo, tư duy hình khối**.
 
-(Xem entry chuyên biệt theo giới tính.)`,
+`,
 
     chiTiet: `## Tướng mạo
 
@@ -857,7 +857,7 @@ Thường gây **rắc rối nhiều hơn thuận lợi**:
 - Có **duyên tình từ tiền kiếp** — đối phương vẫn dành tình cảm đặc biệt cho
   đương số dù cả hai đã có gia đình riêng
 
-(Xem entry chuyên biệt cho nữ mệnh.)`,
+`,
   },
 
   {
@@ -889,7 +889,7 @@ khiếu, bộ não nhạy bén, tài ăn nói khéo léo** để làm giàu.
 
 Tuổi còn trẻ đã **tự biết kiếm tiền**, **khởi nghiệp sớm**, độc lập tài chính.
 
-(Xem entry chuyên biệt cho nữ mệnh.)`,
+`,
   },
   {
     id: 'dao-hoa-tai-bach-luc-cat',

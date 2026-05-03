@@ -57,7 +57,7 @@ liệt: **thị phi, điều tiếng, bệnh tật, khó khăn**.`,
     sao: ['Hóa Kỵ'],
     doUuTien: 35,
     tomTat: `**Hóa Kỵ làm BIẾN ĐỔI mọi sao đi cùng:** xem các tổ hợp cụ thể
-trong các entry chuyên biệt bên dưới.`,
+.`,
   },
   {
     id: 'hoa-ky-sao-hoc-tap',

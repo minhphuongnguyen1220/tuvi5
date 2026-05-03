@@ -577,8 +577,7 @@ cả Quan Phù VÀ Quan Phủ + bộ sao này: **CỰC KỲ NGUY HIỂM**.`,
     tomTat: `**Tiểu hạn 1 năm có Quan Phù + Sát Bại Tinh:** dễ gặp **KIỆN TỤNG, CẠNH
 TRANH, CÃI VÃ**.
 
-**Kết quả thắng - bại phụ thuộc sao đi cùng** — xem entry chuyên biệt theo
-sao đi kèm.
+**Kết quả thắng - bại phụ thuộc sao đi cùng** —
 
 **Mặt khác:** đây cũng là một năm bản thân chủ mệnh có **NHIỀU SUY TÍNH CẨN
 TRỌNG**, dễ **đạt được THÀNH TỰU** nếu:

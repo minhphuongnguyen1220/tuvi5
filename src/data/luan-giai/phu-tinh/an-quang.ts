@@ -146,7 +146,7 @@ cực mạnh.
 - Có thêm **Hình Riêu cả bộ** với Không/Kiếp: giảm rất nhiều tai họa
   nhưng không hết
 
-(Xem entry chuyên biệt cho Quang Quý đắc tại Mão / Dậu.)`,
+`,
   },
 
   {

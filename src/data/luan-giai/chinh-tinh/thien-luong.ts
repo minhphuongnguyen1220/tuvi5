@@ -118,7 +118,7 @@ không hoang phí.`,
     cung: ['Mệnh'],
     doUuTien: 70,
     tomTat: `**Tính nhân hậu / thương người không bao giờ hết** dù ở vị trí nào.
-Xem entry chuyên biệt cho từng trạng thái.`,
+`,
   },
 
   {
@@ -729,7 +729,7 @@ vận giàu, kiếm tiền **chính phái**, không lươn lẹo, không tham la
     cung: ['Tử Tức'],
     doUuTien: 70,
     tomTat: `**Thiên Lương tại Tử Tức:** kết quả tử tức thay đổi mạnh theo vị
-trí. Xem entry chuyên biệt cho từng chi cụ thể.`,
+trí.`,
   },
 
   {
@@ -797,7 +797,7 @@ muộn sinh, 3 con; sớm sinh thì khó nuôi, **khổ sở vì con**.`,
     cung: ['Phu Thê'],
     doUuTien: 70,
     tomTat: `**Thiên Lương tại Phu Thê:** gia đạo thay đổi mạnh theo vị trí.
-Xem entry chuyên biệt cho từng chi cụ thể.`,
+`,
 
     chiTiet: `## Phú cổ về Đồng Lương
 

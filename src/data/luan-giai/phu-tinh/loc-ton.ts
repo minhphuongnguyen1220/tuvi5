@@ -90,7 +90,7 @@ luôn bị Kình Đà đánh phá: cô độc, cản trở.
 
 - Lộc Tồn dù tốt đến đâu cũng kèm theo **thử thách** và **cô độc**.
 
-(Xem entry chuyên biệt cho từng cung tương ứng.)`,
+`,
   },
 
   // ============================================================

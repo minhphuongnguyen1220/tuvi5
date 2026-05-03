@@ -82,8 +82,7 @@ trầm cảm**. Biết tính toán nhưng đi quá đà: thành **chi ly, keo ki
 bằng**. Đi kèm nhiều ám tinh: nhạy cảm thành gánh nặng: có xu hướng theo đuổi
 **con đường tâm linh** để tìm điểm tựa.
 
-Khi gặp **Tham Lang** đồng cung tạo cách **HỎA THAM** — xem entry riêng
-"Hỏa Tham thượng cách".`,
+Khi gặp **Tham Lang** đồng cung tạo cách **HỎA THAM** — bộ "Hỏa Tham thượng cách".`,
   },
 
   {

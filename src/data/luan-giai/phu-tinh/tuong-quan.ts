@@ -89,7 +89,7 @@ Mã** mới thực sự là tướng quân thực thụ.
 - **Uy quyền hiển hách**
 - **Đồng cung** càng **MẠNH HƠN**, nặng ý nghĩa **QUÂN SỰ**
 
-(Xem entry chuyên biệt cho nữ mệnh.)`,
+`,
   },
 
   {

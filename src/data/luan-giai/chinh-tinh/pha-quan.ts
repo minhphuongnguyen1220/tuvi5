@@ -164,7 +164,7 @@ Hư đều khiến cuộc đời nhiều trở ngại, biến động bất lợ
 
     chiTiet: `## Tổng quan
 
-Phá Quân có nhiều bộ sao kỵ — xem chi tiết ở các entry tách riêng.`,
+Phá Quân có nhiều bộ sao kỵ.`,
   },
 
   {
@@ -920,7 +920,7 @@ cấu **NHIỀU TÍNH MÂU THUẪN**:
 
 **Không có cứu:** nạn tai, **bệnh mãn tính** (não, tim, thận, tiêu hóa).
 
-**Lưu ý:** trường hợp Vũ Khúc Hóa Kỵ đối xung được tách thành entry riêng.`,
+**Lưu ý:** trường hợp Vũ Khúc Hóa Kỵ đối xung được.`,
 
     chiTiet: `## Cấu trúc
 

@@ -479,7 +479,7 @@ mờ ám** — đương số dễ **BỊ KÉO VÀO** thói hư tật xấu.`,
 - Ra ngoài **NGOẠI GIAO TỐT**, có **TÀI ĂN NÓI**
 - Ra ngoài hay **ĂN UỐNG TIỆC TÙNG**
 
-(Xem entry chuyên biệt cho nam mệnh, sao động mạnh, cách ngoại giao.)`,
+`,
   },
 
   {
@@ -1044,7 +1044,7 @@ Khi tổ hợp này nhập hạn vào các cung **lục thân**:
 - Gây **PHIỀN LỤY** cho đương số
 - Gia đình gặp **TANG TÓC**
 
-(Xem entry chuyên biệt theo cung Phụ Mẫu / Phu Thê / Tử Tức / Huynh Đệ.)`,
+`,
   },
 
   {

@@ -491,7 +491,7 @@ DUYÊN, TÌNH ÁI**, dễ **CƯỚI VỢ GẢ CHỒNG**.
     doUuTien: 60,
     tomTat: `**Hỷ Thần** khi ghép với các sao tốt sẽ **làm LỢI THÊM cát tinh** — Hỷ Thần là sao "**xúc tác**" cho cát tinh phát huy mạnh hơn.
 
-(Xem entry chuyên biệt theo từng cát tinh đi kèm.)`,
+`,
   },
 
   {

@@ -540,7 +540,7 @@ Thiên Di:**
 **Ngày chết:**
 - Dễ có **HUÂN HUY CHƯƠNG, KHEN THƯỞNG, TRUY TẶNG**
 
-(Xem entry chuyên biệt cho cách Tả Hữu + Hóa Khoa hội chiếu các cung trọng yếu khác.)`,
+`,
   },
 
   {

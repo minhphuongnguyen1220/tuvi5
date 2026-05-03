@@ -108,7 +108,7 @@ Quan**.
 
 ## Phúc thọ - tai họa
 
-(Xem entry chuyên biệt theo sát tinh đi kèm.)
+
 
 ## Lời khuyên
 
