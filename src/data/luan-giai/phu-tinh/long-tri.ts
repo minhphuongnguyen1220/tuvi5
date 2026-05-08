@@ -16,28 +16,19 @@ export const luanGiai_LongTri: DoanLuanGiai[] = [
     title: 'Long Trì - Đặc tính chung',
     sao: ['Long Trì'],
     doUuTien: 32,
-    tomTat: `**Long Trì** — phụ tinh **CÁT TINH**.
+    tomTat: `**Long Trì** là phụ tinh thuộc hàng cát tinh, ngũ hành Thủy, hóa khí
+Cát Tinh. Trong an sao, Long Trì luôn đi đôi cùng Quan Phù (đồng cung — quy
+ước hardcode trong engine), đồng thời tam hợp với Thái Tuế và Bạch Hổ — vòng
+Tuế-Hổ-Phù tượng trưng cho bậc trượng phu chính nghĩa, bền bỉ và biết xây
+dựng. Long Trì cũng là một trong Tứ Linh (Cái — Long — Hổ — Phượng), càng đẹp
+đẽ hơn khi có Phượng Các đi cùng tạo nên bộ Long Phượng.
 
-**Ngũ hành:** **Thủy**.
+Bên Quan Phù — vốn được xem như vị quan tòa xử án — Long Trì giữ vai trò làm
+ngôi sao này thêm sáng suốt, thanh cao, tránh nhầm lẫn và không nghiêng sang
+mặt xấu, bảo đảm Quan Phù luôn là người có cốt cách, ôn hòa.
 
-**Hóa khí:** **Cát Tinh**.
-
-**Vị thế:**
-- **LUÔN đi cùng Quan Phù** (đồng cung — hardcode trong engine)
-- Tam hợp **TUẾ - HỔ - PHÙ** (Thái Tuế + Bạch Hổ + Quan Phù) — vòng tam hợp
-  của **bậc TRƯỢNG PHU**, **CHÍNH NGHĨA, BỀN BỈ, XÂY DỰNG**
-- Một trong **TỨ LINH** (Cái-Long-Hổ-Phượng) — đẹp đẽ hơn khi có **Phượng Các**
-  đi cùng
-
-**Vai trò bên Quan Phù:**
-- Quan Phù là **QUAN TÒA xử án**
-- Long Trì đi cùng: **TĂNG sự SÁNG SUỐT, THANH CAO**
-- **Tránh nhầm lẫn**, **không nghiêng sang cái xấu**
-- Đảm bảo Quan Phù luôn là **người có CỐT CÁCH và ÔN HÒA**
-
-**Hình tượng cơ thể:** **CÁI MŨI**.
-
-**Đặc tính:** **CÔNG DANH, THANH CAO, QUÝ HIỂN, MAY MẮN, QUYỀN QUÝ, KHOA BẢNG**.`,
+Về hình tượng cơ thể, Long Trì ứng với cái mũi. Đặc tính chủ đạo của sao
+này là công danh, thanh cao, quý hiển, may mắn, quyền quý và khoa bảng.`,
   },
 
   {
@@ -45,29 +36,20 @@ export const luanGiai_LongTri: DoanLuanGiai[] = [
     title: 'Long Phượng (Long Trì + Phượng Các) - đôi cát tinh khoa bảng',
     sao: ['Long Trì', 'Phượng Các'],
     doUuTien: 75,
-    tomTat: `**Long Trì + Phượng Các** = bộ **LONG PHƯỢNG** — 2 sao thuộc **TỨ LINH** rất
-**ƯA ĐI VỚI NHAU**.
+    tomTat: `**Long Trì** đi cùng **Phượng Các** tạo thành bộ **Long Phượng**
+— hai sao thuộc Tứ Linh vốn rất ưa đi với nhau. Khi hội tụ, hai sao làm mạnh
+thêm các ý nghĩa về công danh, quý hiển, may mắn, quyền quý và khoa bảng.
 
-**Tác dụng:** **làm MẠNH THÊM** ý nghĩa về:
-- **CÔNG DANH**
-- **QUÝ HIỂN**
-- **MAY MẮN**
-- **QUYỀN QUÝ**
-- **KHOA BẢNG**
+Cổ nhân có câu phú:
 
-📜 **Câu phú:**
-> "**Phượng, Long Mão - Dậu đôi miền,
-> Vượng thời kim bảng đề tên ở đầu.**"
+> "Phượng, Long Mão - Dậu đôi miền,
+> Vượng thời kim bảng đề tên ở đầu."
 
-**Cách cục:**
-**Người tuổi MÃO/DẬU + Mệnh đóng tại MÙI/SỬU + Long Phượng đồng cung:**
-- **THÔNG MINH, UYÊN BÁC**
-- **GIỎI VĂN CHƯƠNG**
-- Có **TÀI HÙNG BIỆN**
-- Thi cử thường **ĐỖ ĐẠT CAO**, "**bảng vàng xướng danh**"
-- Tên tuổi được **TRỌNG VỌNG**
-
-- Đây là một trong những **CÁCH CỤC ĐẸP NHẤT** cho con đường khoa cử.`,
+Cách cục đẹp nhất ở đây dành cho đương số tuổi Mão hoặc Dậu, Mệnh đóng tại
+Mùi hoặc Sửu, có Long Phượng đồng cung. Khi đó chủ mệnh thông minh uyên bác,
+giỏi văn chương và có tài hùng biện; thi cử thường đỗ đạt cao, "bảng vàng
+xướng danh", tên tuổi được trọng vọng. Đây là một trong những cách cục đẹp
+nhất cho con đường khoa cử.`,
   },
 
   {
@@ -76,18 +58,10 @@ export const luanGiai_LongTri: DoanLuanGiai[] = [
     sao: ['Long Trì'],
     cung: ['Mệnh'],
     doUuTien: 50,
-    tomTat: `**Long Trì thủ Mệnh - Tướng mạo:**
-
-**Đặc điểm:**
-- **NHAN SẮC RẤT ĐẸP**
-- **DA MẶT HỒNG HÀO, THANH TÚ**
-- Đặc biệt với **PHỤ NỮ**
-- Có **MŨI RẤT ĐẸP** — quý tướng
-
-**Hình tượng cơ thể:** Long Trì = **CÁI MŨI**: người có Long Trì thủ Mệnh
-thường có:
-- **MŨI ĐẸP, CAO, THẲNG**
-- **QUÝ TƯỚNG**`,
+    tomTat: `**Long Trì** thủ Mệnh cho đương số nhan sắc rất đẹp, da mặt hồng
+hào và thanh tú — đặc biệt rõ nét ở phụ nữ. Vì Long Trì ứng với hình tượng
+cái mũi, chủ mệnh thường có chiếc mũi đẹp, cao và thẳng — được xem là quý
+tướng.`,
   },
 
   {
@@ -97,8 +71,8 @@ thường có:
     cung: ['Mệnh'],
     ketHop: ['Kình Dương'],
     doUuTien: 45,
-    tomTat: `**Long Trì + Kình Dương tại Mệnh:** mũi **SỐNG TRÂU** (thô, dáng
-cứng cáp).`,
+    tomTat: `**Long Trì** đi cùng Kình Dương tại Mệnh khiến mũi của đương số
+mang dáng "sống trâu" — thô và cứng cáp.`,
   },
 
   {
@@ -108,8 +82,8 @@ cứng cáp).`,
     cung: ['Mệnh'],
     ketHop: ['Thiên Khốc', 'Thiên Hư', 'Thiên Hình'],
     doUuTien: 45,
-    tomTat: `**Long Trì + Thiên Khốc + Thiên Hư + Thiên Hình tại Mệnh:** **HAY
-ĐAU MŨI PHẢI MỔ**.`,
+    tomTat: `**Long Trì** hội cùng Thiên Khốc, Thiên Hư và Thiên Hình tại Mệnh
+khiến đương số hay đau mũi và có thể phải mổ.`,
   },
 
   {
@@ -119,7 +93,8 @@ cứng cáp).`,
     cung: ['Mệnh'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 45,
-    tomTat: `**Long Trì + Địa Kiếp tại Mệnh:** **MŨI XẤU**, có thể bị **SẸO**.`,
+    tomTat: `**Long Trì** gặp Địa Kiếp tại Mệnh khiến mũi đương số kém đẹp,
+có thể mang sẹo.`,
   },
 
   {
@@ -129,8 +104,8 @@ cứng cáp).`,
     cung: ['Mệnh'],
     ketHop: ['Thiên Hình'],
     doUuTien: 45,
-    tomTat: `**Long Trì + Thiên Hình tại Mệnh:** **MŨI XẤU**, có thể bị
-**SẸO**.`,
+    tomTat: `**Long Trì** gặp Thiên Hình tại Mệnh khiến mũi đương số kém đẹp,
+có thể mang sẹo.`,
   },
 
   {
@@ -139,28 +114,19 @@ cứng cáp).`,
     sao: ['Long Trì'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Long Trì thủ Mệnh:**
+    tomTat: `**Long Trì** thủ Mệnh phú cho đương số tư chất thông minh, tuấn
+kiệt, có văn chất; tính tình ôn hòa, nhân hậu, thanh tao, điềm đạm và cởi
+mở.
 
-**Tính cách:**
-- **THÔNG MINH, TUẤN KIỆT**, có **VĂN CHẤT**
-- **ÔN HÒA, NHÂN HẬU**
-- **THANH TAO, ĐIỀM ĐẠM, CỞI MỞ**
+Về công danh tài lộc, chủ mệnh nhiều may mắn trên đường khoa bảng văn
+chương — thi cử dễ đỗ cao, có khoa giáp lớn. Long Trì còn làm dày thêm tài
+lộc và điền sản (sao này chỉ về nhà cửa, ao hồ), đem may mắn cho đường hôn
+nhân (dễ yêu, dễ cưới, vợ chồng tương đắc) lẫn chuyện sinh nở (dễ sanh,
+sinh dễ nuôi).
 
-**Công danh - Tài lộc:**
-- May mắn trong **KHOA BẢNG VĂN CHƯƠNG**
-- **THI ĐỖ CAO**, có **KHOA GIÁP LỚN**
-- Tăng thêm **TÀI LỘC, ĐIỀN SẢN** (Long Trì chỉ **NHÀ CỬA, AO HỒ**)
-- May mắn trong **HÔN NHÂN** — dễ yêu, dễ cưới, vợ chồng tương đắc
-- May mắn trong **SINH NỞ** — dễ sanh, sinh dễ nuôi
-
-**Vẹn toàn nhiều mặt:**
-Long Trì thể hiện **TƯƠNG ĐỐI VẸN TOÀN** về:
-- **NHAN SẮC**
-- **TÍNH HẠNH**
-- **TÀI LỘC**
-- **GIA ĐẠO**
-
-- Đây là **CÁT TINH ĐẸP VẸN TOÀN** trong tử vi.`,
+Điểm đặc sắc nhất là Long Trì cho đương số sự vẹn toàn tương đối trên cả
+bốn phương diện: nhan sắc, tính hạnh, tài lộc và gia đạo. Đây được xem là
+một trong những cát tinh đẹp vẹn toàn của tử vi.`,
   },
 
   {
@@ -170,11 +136,9 @@ Long Trì thể hiện **TƯƠNG ĐỐI VẸN TOÀN** về:
     cung: ['Mệnh'],
     gioiTinh: 'Nữ',
     doUuTien: 72,
-    tomTat: `**Long Trì thủ Mệnh - Nữ mệnh:**
-- **ĐOAN TRANG** trong nết hạnh
-- "**Công dung ngôn hạnh**" vẹn toàn
-- Phẩm hạnh thanh cao
-- Thần thái ôn hòa, nhân hậu`,
+    tomTat: `Với nữ mệnh, **Long Trì** thủ Mệnh khiến đương số đoan trang
+trong nết hạnh, hội đủ "công dung ngôn hạnh"; phẩm hạnh thanh cao, thần thái
+ôn hòa và nhân hậu.`,
   },
 
   {
@@ -183,15 +147,10 @@ Long Trì thể hiện **TƯƠNG ĐỐI VẸN TOÀN** về:
     sao: ['Long Trì'],
     ketHop: ['Thai Phụ', 'Phong Cáo'],
     doUuTien: 75,
-    tomTat: `**Long Trì + Thai Phụ + Phong Cáo:**
-
-**Đặc trưng:**
-- **THĂNG QUAN, TIẾN CHỨC**
-- **THI ĐỖ** đạt cao
-- Bằng cấp được công nhận
-
-- Bộ Thai Phụ + Phong Cáo là cặp sao **CHỨC TƯỚC, BẰNG CẤP** kết hợp với
-**Long Trì** (khoa bảng): tạo cách **HIỂN ĐẠT công danh**.`,
+    tomTat: `**Long Trì** hội với Thai Phụ và Phong Cáo cho cách thăng quan
+tiến chức, thi đỗ đạt cao, bằng cấp được công nhận. Bộ Thai Phụ — Phong Cáo
+là cặp sao chỉ chức tước và bằng cấp; khi kết hợp với Long Trì (khoa bảng)
+sẽ tạo nên cách hiển đạt công danh.`,
   },
 
   {
@@ -200,16 +159,10 @@ Long Trì thể hiện **TƯƠNG ĐỐI VẸN TOÀN** về:
     sao: ['Long Trì'],
     ketHop: ['Thiên Riêu', 'Thiên Hỷ', 'Phi Liêm'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Thiên Riêu / Thiên Hỷ / Phi Liêm:**
-
-**Đặc trưng - ĐẮC THỜI:**
-- Có **HỶ SỰ ĐẾN NHANH CHÓNG**
-- Chủ về:
-  - **TÌNH DUYÊN**
-  - **THI CỬ**
-  - **QUAN LỘ**
-
-- Đây là cách **TIN VUI ĐẾN GẦN** — đặc biệt khi vào **đại hạn** hay **tiểu hạn**.`,
+    tomTat: `**Long Trì** đi cùng Thiên Riêu, Thiên Hỷ hoặc Phi Liêm cho cách
+đắc thời với hỷ sự đến nhanh chóng — chủ về tình duyên, thi cử và quan lộ.
+Đây là cách "tin vui đến gần", ứng nghiệm rõ nét nhất khi sao chiếu vào đại
+hạn hoặc tiểu hạn.`,
   },
 
   {
@@ -220,14 +173,9 @@ Long Trì thể hiện **TƯƠNG ĐỐI VẸN TOÀN** về:
     cung: ['Phu Thê', 'Mệnh'],
     gioiTinh: 'Nữ',
     doUuTien: 70,
-    tomTat: `**Long Trì + Thiên Lương** (Nữ mệnh):
-
-**Đặc trưng:**
-- Nữ mệnh có **CHỒNG DANH GIÁ**
-- **HIỀN PHU** (chồng hiền lành, đức độ)
-- Người chồng có **uy tín xã hội**
-
-- Đây là cách **HÔN NHÂN ĐẸP** đặc biệt cho phụ nữ.`,
+    tomTat: `**Long Trì** đi cùng Thiên Lương ở nữ mệnh báo hiệu đương số có
+được người chồng danh giá, hiền phu — chồng hiền lành, đức độ, có uy tín
+trong xã hội. Đây là cách hôn nhân đẹp dành riêng cho phụ nữ.`,
   },
 
   {
@@ -236,23 +184,20 @@ Long Trì thể hiện **TƯƠNG ĐỐI VẸN TOÀN** về:
     sao: ['Long Trì', 'Phượng Các'],
     ketHop: ['Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt', 'Tả Phù', 'Hữu Bật'],
     doUuTien: 85,
-    tomTat: `**Long Phượng + Xương Khúc + Khôi Việt + Tả Hữu** = bộ sao **"HIỀN THẦN"**.
+    tomTat: `Bộ **Long Phượng** hội đủ Văn Xương, Văn Khúc, Thiên Khôi, Thiên
+Việt cùng Tả Phù, Hữu Bật tạo nên bộ sao **"Hiền Thần"** chuyên phò tá cho
+Tử Phủ. Cách cục này giúp đương số đắc quan mau lẹ, cao quý và vô cùng giỏi
+giang.
 
-**Vai trò:**
-- Chuyên **PHÒ TÁ** cho **TỬ PHỦ**
-- Cách này giúp:
-  - **ĐẮC QUAN MAU LẸ**
-  - **CAO QUÝ**
-  - **VÔ CÙNG GIỎI GIANG**
+Đây được coi là một trong những **cách cục vương giả** của tử vi vì hội đủ:
 
-- Đây là **CÁCH CỤC VƯƠNG GIẢ** trong tử vi — kết hợp đầy đủ:
-- **Long Phượng** (khoa bảng + may mắn)
-- **Xương Khúc** (văn chương)
-- **Khôi Việt** (quý nhân)
-- **Tả Hữu** (trợ thủ)
+- Long Phượng cho khoa bảng và may mắn
+- Xương Khúc cho văn chương
+- Khôi Việt cho quý nhân
+- Tả Hữu cho trợ thủ
 
-- Khi có thêm **TỬ PHỦ** thì thành **MỆNH ĐẾ VƯƠNG**, sự nghiệp **HIỂN ĐẠT TỘT
-BẬC**.`,
+Khi có thêm Tử Phủ thì cách thành **mệnh đế vương**, sự nghiệp hiển đạt tột
+bậc.`,
   },
 
   {
@@ -261,9 +206,9 @@ BẬC**.`,
     sao: ['Long Trì'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Long Trì tại Phụ Mẫu:**
-- Giúp **TĂNG THỌ** cho cha mẹ, đem lại **MAY MẮN**
-- Cha mẹ là người **ĐẸP ĐẼ, THANH CAO, ÔN HÒA**`,
+    tomTat: `**Long Trì** ngụ tại Phụ Mẫu giúp tăng thọ cho cha mẹ và đem lại
+may mắn cho song thân của đương số. Cha mẹ là người đẹp đẽ, thanh cao, ôn
+hòa.`,
   },
 
   {
@@ -273,11 +218,10 @@ BẬC**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Tả Phù', 'Hữu Bật'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Tả Phù / Hữu Bật tại Phụ Mẫu:**
-- Cha mẹ **THÀNH ĐẠT, CÓ HỌC THỨC**
-- Có **VỊ TRÍ trong xã hội**
-- Dễ làm về **HÀNH PHÁP, PHÁP LUẬT, NƠI CÔNG QUYỀN**
-- Khoa bảng hiển đạt`,
+    tomTat: `**Long Trì** hội Tả Phù hoặc Hữu Bật tại Phụ Mẫu cho biết cha mẹ
+đương số là người thành đạt, có học thức và có vị trí trong xã hội. Song
+thân dễ làm về hành pháp, pháp luật hoặc nơi công quyền, đường khoa bảng
+hiển đạt.`,
   },
 
   {
@@ -287,11 +231,10 @@ BẬC**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Thiên Khôi', 'Thiên Việt'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Thiên Khôi / Thiên Việt tại Phụ Mẫu:**
-- Cha mẹ **THÀNH ĐẠT, CÓ HỌC THỨC**
-- Có **VỊ TRÍ trong xã hội**
-- Dễ làm về **HÀNH PHÁP, PHÁP LUẬT, NƠI CÔNG QUYỀN**
-- Khoa bảng hiển đạt`,
+    tomTat: `**Long Trì** hội Thiên Khôi hoặc Thiên Việt tại Phụ Mẫu cho biết
+cha mẹ đương số là người thành đạt, có học thức và có vị trí trong xã hội.
+Song thân dễ làm về hành pháp, pháp luật hoặc nơi công quyền, đường khoa
+bảng hiển đạt.`,
   },
 
   {
@@ -301,11 +244,10 @@ BẬC**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Văn Xương', 'Văn Khúc'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Văn Xương / Văn Khúc tại Phụ Mẫu:**
-- Cha mẹ **THÀNH ĐẠT, CÓ HỌC THỨC**
-- Có **VỊ TRÍ trong xã hội**
-- Dễ làm về **HÀNH PHÁP, PHÁP LUẬT, NƠI CÔNG QUYỀN**
-- Khoa bảng hiển đạt`,
+    tomTat: `**Long Trì** hội Văn Xương hoặc Văn Khúc tại Phụ Mẫu cho biết
+cha mẹ đương số là người thành đạt, có học thức và có vị trí trong xã hội.
+Song thân dễ làm về hành pháp, pháp luật hoặc nơi công quyền, đường khoa
+bảng hiển đạt.`,
   },
 
   {
@@ -315,11 +257,9 @@ BẬC**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Phượng Các'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Phượng Các tại Phụ Mẫu:**
-- Cha mẹ **THÀNH ĐẠT, CÓ HỌC THỨC**
-- Có **VỊ TRÍ trong xã hội**
-- Dễ làm về **HÀNH PHÁP, PHÁP LUẬT, NƠI CÔNG QUYỀN**
-- Khoa bảng hiển đạt`,
+    tomTat: `**Long Trì** hội Phượng Các tại Phụ Mẫu cho biết cha mẹ đương số
+là người thành đạt, có học thức và có vị trí trong xã hội. Song thân dễ làm
+về hành pháp, pháp luật hoặc nơi công quyền, đường khoa bảng hiển đạt.`,
   },
 
   {
@@ -329,11 +269,10 @@ BẬC**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Ân Quang', 'Thiên Quý'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Ân Quang / Thiên Quý tại Phụ Mẫu:**
-- Cha mẹ **THÀNH ĐẠT, CÓ HỌC THỨC**
-- Có **VỊ TRÍ trong xã hội**
-- Dễ làm về **HÀNH PHÁP, PHÁP LUẬT, NƠI CÔNG QUYỀN**
-- Khoa bảng hiển đạt`,
+    tomTat: `**Long Trì** hội Ân Quang hoặc Thiên Quý tại Phụ Mẫu cho biết
+cha mẹ đương số là người thành đạt, có học thức và có vị trí trong xã hội.
+Song thân dễ làm về hành pháp, pháp luật hoặc nơi công quyền, đường khoa
+bảng hiển đạt.`,
   },
 
   {
@@ -343,11 +282,10 @@ BẬC**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Kình Dương', 'Đà La', 'Hóa Kỵ', 'Linh Tinh', 'Hỏa Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Sát Tinh (Kình Dương / Đà La / Hóa Kỵ / Linh Tinh /
-Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
-- Cha mẹ trắc trở về **SỨC KHỎE liên quan MŨI, HÔ HẤP**
-- Dễ vướng **KIỆN TỤNG, THỊ PHI**
-- Cuộc đời chịu **NHIỀU PHIỀN MUỘN**`,
+    tomTat: `**Long Trì** hội sát tinh tại Phụ Mẫu — gồm Kình Dương, Đà La,
+Hóa Kỵ, Linh Tinh, Hỏa Tinh hoặc Không Kiếp — khiến cha mẹ đương số trắc
+trở về sức khỏe ở vùng mũi và hô hấp, dễ vướng kiện tụng, thị phi và cuộc
+đời chịu nhiều phiền muộn.`,
   },
 
   {
@@ -356,14 +294,12 @@ Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
     sao: ['Long Trì'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `**Long Trì tại Phúc Đức:**
-- Trong dòng họ **NHIỀU NGƯỜI KHÁ GIẢ**
-- Nhiều người **ĐỖ KHOA BẢNG CAO**
-- Có **TRUYỀN THỐNG PHẨM HẠNH ĐẠO ĐỨC TỐT**
+    tomTat: `**Long Trì** ngụ tại Phúc Đức cho biết trong dòng họ đương số có
+nhiều người khá giả, nhiều người đỗ khoa bảng cao và có truyền thống phẩm
+hạnh đạo đức tốt.
 
-**Đặc điểm tâm linh:**
-- Ông bà tổ tiên **MỒ YÊN MẢ ĐẸP**, **PHÁT PHƯỚC**
-- Mộ hay gần **CÁI AO** hay **GIẾNG NƯỚC**`,
+Về phương diện tâm linh, ông bà tổ tiên thường mồ yên mả đẹp, phát phước;
+mộ phần hay nằm gần cái ao hoặc giếng nước.`,
   },
 
   {
@@ -373,10 +309,9 @@ Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
     cung: ['Phúc Đức'],
     ketHop: ['Tử Vi'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Tử Vi tại Phúc Đức:**
-- Tổ tiên xưa kia có người **LÀM QUAN LỚN, NỔI DANH**
-- **KHẮT KHE và QUYỀN BIẾN**
-- Dòng họ hưởng **PHÚC LÂU DÀI**, con cháu **ĐỖ ĐẠT, THĂNG TIẾN**`,
+    tomTat: `**Long Trì** hội Tử Vi tại Phúc Đức cho biết tổ tiên xưa kia có
+người làm quan lớn, nổi danh, vừa khắt khe vừa quyền biến. Dòng họ hưởng
+phúc lâu dài, con cháu đỗ đạt và thăng tiến.`,
   },
 
   {
@@ -386,10 +321,9 @@ Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Phủ'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Thiên Phủ tại Phúc Đức:**
-- Tổ tiên xưa kia có người **LÀM QUAN LỚN, NỔI DANH**
-- **KHẮT KHE và QUYỀN BIẾN**
-- Dòng họ hưởng **PHÚC LÂU DÀI**, con cháu **ĐỖ ĐẠT, THĂNG TIẾN**`,
+    tomTat: `**Long Trì** hội Thiên Phủ tại Phúc Đức cho biết tổ tiên xưa kia
+có người làm quan lớn, nổi danh, vừa khắt khe vừa quyền biến. Dòng họ hưởng
+phúc lâu dài, con cháu đỗ đạt và thăng tiến.`,
   },
 
   {
@@ -399,10 +333,9 @@ Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
     cung: ['Phúc Đức'],
     ketHop: ['Thái Tuế'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Thái Tuế tại Phúc Đức:**
-- Tổ tiên xưa kia có người **LÀM QUAN LỚN, NỔI DANH**
-- **KHẮT KHE và QUYỀN BIẾN**
-- Dòng họ hưởng **PHÚC LÂU DÀI**, con cháu **ĐỖ ĐẠT, THĂNG TIẾN**`,
+    tomTat: `**Long Trì** hội Thái Tuế tại Phúc Đức cho biết tổ tiên xưa kia
+có người làm quan lớn, nổi danh, vừa khắt khe vừa quyền biến. Dòng họ hưởng
+phúc lâu dài, con cháu đỗ đạt và thăng tiến.`,
   },
 
   {
@@ -412,10 +345,9 @@ Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
     cung: ['Phúc Đức'],
     ketHop: ['Quốc Ấn'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Quốc Ấn tại Phúc Đức:**
-- Tổ tiên xưa kia có người **LÀM QUAN LỚN, NỔI DANH**
-- **KHẮT KHE và QUYỀN BIẾN**
-- Dòng họ hưởng **PHÚC LÂU DÀI**, con cháu **ĐỖ ĐẠT, THĂNG TIẾN**`,
+    tomTat: `**Long Trì** hội Quốc Ấn tại Phúc Đức cho biết tổ tiên xưa kia
+có người làm quan lớn, nổi danh, vừa khắt khe vừa quyền biến. Dòng họ hưởng
+phúc lâu dài, con cháu đỗ đạt và thăng tiến.`,
   },
 
   {
@@ -425,10 +357,9 @@ Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
     cung: ['Phúc Đức'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Địa Không / Địa Kiếp tại Phúc Đức:**
-- **PHÚC PHẬN suy giảm**
-- Dễ gặp cảnh **MỘ PHẦN HƯ HỎNG, phong thủy KÉM**
-- Hậu duệ thông minh nhưng **ĐOẢN THỌ**`,
+    tomTat: `**Long Trì** gặp Địa Không hoặc Địa Kiếp tại Phúc Đức khiến phúc
+phận suy giảm, dễ gặp cảnh mộ phần hư hỏng, phong thủy kém; hậu duệ tuy
+thông minh song thường đoản thọ.`,
   },
 
   {
@@ -438,10 +369,9 @@ Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Hình'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Thiên Hình tại Phúc Đức:**
-- **PHÚC PHẬN suy giảm**
-- Dễ gặp cảnh **MỘ PHẦN HƯ HỎNG, phong thủy KÉM**
-- Hậu duệ thông minh nhưng **ĐOẢN THỌ**`,
+    tomTat: `**Long Trì** gặp Thiên Hình tại Phúc Đức khiến phúc phận suy
+giảm, dễ gặp cảnh mộ phần hư hỏng, phong thủy kém; hậu duệ tuy thông minh
+song thường đoản thọ.`,
   },
 
   {
@@ -450,11 +380,10 @@ Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
     sao: ['Long Trì'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Long Trì tại Điền Trạch:**
-- Nhà **LẤP AO LẤP GIẾNG để ở**
-- Nhà cửa **ĐẸP**
-- Gần **NƠI CÔNG MÔN, CÔNG QUYỀN, TÒA ÁN, VIỆN KIỂM SÁT**
-- Hàng xóm xung quanh nhiều người có **ĐỊA VỊ, CHỨC SẮC**`,
+    tomTat: `**Long Trì** ngụ tại Điền Trạch cho biết đương số ở vào nhà lấp
+ao lấp giếng để dựng, nhà cửa đẹp và thường gần nơi công môn, công quyền,
+tòa án hay viện kiểm sát. Hàng xóm xung quanh phần lớn là những người có
+địa vị, chức sắc.`,
   },
 
   {
@@ -464,8 +393,8 @@ Hỏa Tinh / Không Kiếp) tại Phụ Mẫu:**
     cung: ['Điền Trạch'],
     ketHop: ['Mộ'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Mộ tại Điền Trạch:** có **NHÀ ĐẤT RỘNG RÃI**, **DI
-SẢN**.`,
+    tomTat: `**Long Trì** đi cùng Mộ tại Điền Trạch cho biết đương số có nhà
+đất rộng rãi và hưởng di sản.`,
   },
 
   {
@@ -475,8 +404,8 @@ SẢN**.`,
     cung: ['Điền Trạch'],
     ketHop: ['Thai', 'Bát Tọa'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Thai + Bát Tọa tại Điền Trạch:** **NHÀ LẦU CAO
-SANG**, có **AO HỒ**.`,
+    tomTat: `**Long Trì** đi cùng Thai và Bát Tọa tại Điền Trạch báo hiệu nhà
+lầu cao sang và có ao hồ.`,
   },
 
   {
@@ -486,11 +415,10 @@ SANG**, có **AO HỒ**.`,
     cung: ['Điền Trạch'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Sát Tinh (Lục Sát) tại Điền Trạch:**
-- Đất ao hồ **KHÓ CẢI TẠO**
-- Nhà cửa phải **HAY SỬA CHỮA TỐN KÉM**
-- Hoặc phải **BÁN ĐỔI nhiều lần**
-- Dễ gặp **KIỆN TỤNG đất đai**`,
+    tomTat: `**Long Trì** hội cùng Lục Sát (Kình Dương, Đà La, Hỏa Tinh, Linh
+Tinh, Địa Không, Địa Kiếp) tại Điền Trạch khiến đất ao hồ khó cải tạo, nhà
+cửa phải sửa chữa nhiều lần và tốn kém, hoặc phải bán đổi qua nhiều lượt;
+đương số dễ gặp kiện tụng đất đai.`,
   },
 
   {
@@ -499,16 +427,16 @@ SANG**, có **AO HỒ**.`,
     sao: ['Long Trì'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Long Trì tại Quan Lộc:**
-- Đem lại **MAY MẮN, TÀI LỘC** trong học tập, công việc
-- Trong công việc luôn có tính **CÔNG TÂM, XÂY DỰNG**
-- Được **NHIỀU NGƯỜI KÍNH NỂ, QUÝ MẾN**
+    tomTat: `**Long Trì** đóng tại Quan Lộc đem lại may mắn và tài lộc trong
+học tập cùng công việc cho đương số. Chủ mệnh trong công việc luôn giữ tính
+công tâm, có tinh thần xây dựng, nhờ vậy được nhiều người kính nể và quý
+mến.
 
-**Nghề phù hợp** (vì luôn đi cùng Quan Phù):
-- **HỌC LUẬT, HÀNH NGHỀ LUẬT**
-  - **THẨM PHÁN, TRẠNG SƯ**
-- Công việc tính chất **SOI XÉT, PHÁN ĐOÁN, SUY LUẬN**, **KHẮT KHE CAO**
-- **BÁC SỸ TAI MŨI HỌNG** (do Long Trì là cái mũi)`,
+Vì Long Trì luôn đi cùng Quan Phù, hướng nghề phù hợp nhất là:
+
+- Học luật, hành nghề luật — thẩm phán, trạng sư
+- Công việc đòi hỏi tính soi xét, phán đoán, suy luận và khắt khe cao
+- Bác sỹ tai mũi họng (do Long Trì là cái mũi)`,
   },
 
   {
@@ -518,10 +446,8 @@ SANG**, có **AO HỒ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Khôi', 'Thiên Việt'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Thiên Khôi / Thiên Việt tại Quan Lộc:**
-- Công danh **HIỂN ĐẠT**
-- Dễ **THĂNG TIẾN**
-- Được **QUÝ NHÂN nâng đỡ**`,
+    tomTat: `**Long Trì** hội Thiên Khôi hoặc Thiên Việt tại Quan Lộc đem
+đến công danh hiển đạt — đương số dễ thăng tiến và được quý nhân nâng đỡ.`,
   },
 
   {
@@ -531,10 +457,8 @@ SANG**, có **AO HỒ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Thai'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Thai tại Quan Lộc:**
-- Công danh **HIỂN ĐẠT**
-- Dễ **THĂNG TIẾN**
-- Được **QUÝ NHÂN nâng đỡ**`,
+    tomTat: `**Long Trì** đi cùng Thai tại Quan Lộc đem đến công danh hiển
+đạt — đương số dễ thăng tiến và được quý nhân nâng đỡ.`,
   },
 
   {
@@ -544,10 +468,8 @@ SANG**, có **AO HỒ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Bát Tọa'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Bát Tọa tại Quan Lộc:**
-- Công danh **HIỂN ĐẠT**
-- Dễ **THĂNG TIẾN**
-- Được **QUÝ NHÂN nâng đỡ**`,
+    tomTat: `**Long Trì** đi cùng Bát Tọa tại Quan Lộc đem đến công danh hiển
+đạt — đương số dễ thăng tiến và được quý nhân nâng đỡ.`,
   },
 
   {
@@ -557,10 +479,9 @@ SANG**, có **AO HỒ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Phượng Các'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Phượng Các tại Quan Lộc** (cách Long Phượng):
-- Công danh **HIỂN ĐẠT**
-- Dễ **THĂNG TIẾN**
-- Được **QUÝ NHÂN nâng đỡ**`,
+    tomTat: `**Long Trì** đi cùng Phượng Các tại Quan Lộc tạo cách **Long
+Phượng** — công danh hiển đạt, đương số dễ thăng tiến và được quý nhân nâng
+đỡ.`,
   },
 
   {
@@ -570,10 +491,9 @@ SANG**, có **AO HỒ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Kình Dương / Đà La tại Quan Lộc:**
-- Học hành **DANG DỞ**
-- Thi cử **KHÓ KHĂN**
-- Sự nghiệp **THĂNG TRẦM**, vướng **TRANH CÃI, THỊ PHI**`,
+    tomTat: `**Long Trì** gặp Kình Dương hoặc Đà La tại Quan Lộc khiến đường
+học hành dở dang, thi cử khó khăn; sự nghiệp thăng trầm và hay vướng tranh
+cãi, thị phi.`,
   },
 
   {
@@ -583,10 +503,9 @@ SANG**, có **AO HỒ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Hóa Kỵ tại Quan Lộc:**
-- Học hành **DANG DỞ**
-- Thi cử **KHÓ KHĂN**
-- Sự nghiệp **THĂNG TRẦM**, vướng **TRANH CÃI, THỊ PHI**`,
+    tomTat: `**Long Trì** gặp Hóa Kỵ tại Quan Lộc khiến đường học hành dở
+dang, thi cử khó khăn; sự nghiệp thăng trầm và hay vướng tranh cãi, thị
+phi.`,
   },
 
   {
@@ -595,10 +514,9 @@ SANG**, có **AO HỒ**.`,
     sao: ['Long Trì'],
     cung: ['Nô Bộc'],
     doUuTien: 72,
-    tomTat: `**Long Trì tại Nô Bộc:**
-- Bạn bè đồng nghiệp **NHIỀU NGƯỜI QUYỀN QUÝ, GIÀU CÓ, ĐẮC LỰC**
-- Hay được bạn bè **GIÚP ĐỠ**
-- Đem đến **MAY MẮN và TIỀN BẠC**`,
+    tomTat: `**Long Trì** ngụ tại Nô Bộc cho biết bạn bè đồng nghiệp của
+đương số có nhiều người quyền quý, giàu có và đắc lực. Chủ mệnh hay được
+bạn bè giúp đỡ, đem đến may mắn cùng tiền bạc.`,
   },
 
   {
@@ -608,9 +526,9 @@ SANG**, có **AO HỒ**.`,
     cung: ['Nô Bộc'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 67,
-    tomTat: `**Long Trì + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
-Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH ĐẠT**, làm về
-**HÌNH PHÁP, PHÁP LUẬT**.`,
+    tomTat: `**Long Trì** hội bộ Lục Cát (Tả Phù, Hữu Bật, Văn Xương, Văn
+Khúc, Thiên Khôi, Thiên Việt) tại Nô Bộc cho biết đương số quen nhiều người
+thành đạt, phần đông làm về hình pháp, pháp luật.`,
   },
 
   {
@@ -620,10 +538,9 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Nô Bộc'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 67,
-    tomTat: `**Long Trì + Sát Tinh (Lục Sát) tại Nô Bộc:**
-- Quan hệ bạn bè dễ sinh **ĐIỀU TIẾNG, TRANH CHẤP**
-- Có người **LỢI DỤNG**
-- Vướng **KIỆN TỤNG do bạn bè gây ra**`,
+    tomTat: `**Long Trì** hội Lục Sát tại Nô Bộc khiến quan hệ bạn bè dễ sinh
+điều tiếng, tranh chấp; đương số có người lợi dụng và vướng kiện tụng do
+chính bạn bè gây ra.`,
   },
 
   {
@@ -632,10 +549,9 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     sao: ['Long Trì'],
     cung: ['Thiên Di'],
     doUuTien: 72,
-    tomTat: `**Long Trì tại Thiên Di:**
-- Người **THIỆN LƯƠNG, ÔN HÒA**
-- Ra ngoài, đi xa hay được **MAY MẮN**, **NGƯỜI KHÁC GIÚP ĐỠ**
-- Ra ngoài hay ở trong môi trường **NHIỀU NGƯỜI QUYỀN QUÝ, CHỨC TƯỚC**`,
+    tomTat: `**Long Trì** đóng tại Thiên Di cho biết đương số là người thiện
+lương, ôn hòa. Khi ra ngoài hay đi xa, chủ mệnh được may mắn, có người khác
+giúp đỡ, và thường ở trong môi trường nhiều người quyền quý, chức tước.`,
   },
 
   {
@@ -645,10 +561,9 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Thiên Di'],
     ketHop: ['Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 67,
-    tomTat: `**Long Trì + Hỏa Tinh / Linh Tinh tại Thiên Di:**
-- Ra ngoài hay gặp **RẮC RỐI**
-- Bị người khác **LỢI DỤNG, HAO TÀI**
-- Dễ vướng **KIỆN CÁO, THỊ PHI**`,
+    tomTat: `**Long Trì** gặp Hỏa Tinh hoặc Linh Tinh tại Thiên Di khiến
+đương số ra ngoài hay gặp rắc rối, bị người khác lợi dụng, hao tài và dễ
+vướng kiện cáo, thị phi.`,
   },
 
   {
@@ -658,10 +573,9 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Thiên Di'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 67,
-    tomTat: `**Long Trì + Địa Không / Địa Kiếp tại Thiên Di:**
-- Ra ngoài hay gặp **RẮC RỐI**
-- Bị người khác **LỢI DỤNG, HAO TÀI**
-- Dễ vướng **KIỆN CÁO, THỊ PHI**`,
+    tomTat: `**Long Trì** gặp Địa Không hoặc Địa Kiếp tại Thiên Di khiến
+đương số ra ngoài hay gặp rắc rối, bị người khác lợi dụng, hao tài và dễ
+vướng kiện cáo, thị phi.`,
   },
 
   {
@@ -671,10 +585,9 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Thiên Di'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 67,
-    tomTat: `**Long Trì + Hóa Kỵ tại Thiên Di:**
-- Ra ngoài hay gặp **RẮC RỐI**
-- Bị người khác **LỢI DỤNG, HAO TÀI**
-- Dễ vướng **KIỆN CÁO, THỊ PHI**`,
+    tomTat: `**Long Trì** gặp Hóa Kỵ tại Thiên Di khiến đương số ra ngoài hay
+gặp rắc rối, bị người khác lợi dụng, hao tài và dễ vướng kiện cáo, thị
+phi.`,
   },
 
   {
@@ -683,16 +596,14 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     sao: ['Long Trì'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Long Trì tại Tật Ách:**
-- Có tác dụng **GIẢI TRỪ BỆNH TẬT, TAI HỌA**
-- Bị ốm dễ **GẶP THẦY THUỐC GIỎI**
+    tomTat: `**Long Trì** đóng tại Tật Ách có tác dụng giải trừ bệnh tật,
+tai họa cho đương số; khi đau ốm chủ mệnh dễ gặp được thầy thuốc giỏi.
 
-**Bệnh đặc trưng:**
-- Liên quan tới **BỘ PHẬN MŨI** (do hình tượng Long Trì)
-- **MÁU HUYẾT**
+Bệnh đặc trưng của sao này liên quan tới bộ phận mũi (do hình tượng Long
+Trì là cái mũi) và máu huyết.
 
-**Quan Phù + Long Trì** (cặp đôi luôn đồng cung) **tại cung Tật:**
-- Dễ mắc **TAI HỌA về THỊ PHI, KIỆN CÁO**`,
+Vì Quan Phù và Long Trì luôn đồng cung, tại cung Tật, đương số dễ gặp tai
+họa về mặt thị phi, kiện cáo.`,
   },
 
   {
@@ -702,8 +613,8 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Tật Ách'],
     ketHop: ['Thiên Khốc', 'Thiên Hư', 'Thiên Hình'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Thiên Khốc + Thiên Hư + Thiên Hình tại Tật Ách:** hay
-**ĐAU MŨI phải MỔ**.`,
+    tomTat: `**Long Trì** hội Thiên Khốc, Thiên Hư và Thiên Hình tại Tật Ách
+khiến đương số hay đau mũi và phải mổ.`,
   },
 
   {
@@ -712,14 +623,12 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     sao: ['Long Trì'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Long Trì tại Tài Bạch:**
-- Đem lại **MAY MẮN về TIỀN CỦA**
-- Chủ về **PHÚ QUÝ, GIÀU SANG**
+    tomTat: `**Long Trì** ngụ tại Tài Bạch đem may mắn về tiền của cho đương
+số, chủ về phú quý và giàu sang.
 
-**Long Trì + Quan Phù** (luôn đồng cung) **cư Tài:**
-- Người **CÔNG TÂM về tiền của**
-- **TIỀN BẠC PHÂN MINH**
-- Luôn kiếm đồng tiền **SẠCH SẼ, THANH CAO**`,
+Do Long Trì luôn đồng cung với Quan Phù, khi cặp này cư Tài, chủ mệnh là
+người công tâm về tiền của — tiền bạc phân minh, luôn kiếm những đồng tiền
+sạch sẽ và thanh cao.`,
   },
 
   {
@@ -729,9 +638,8 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Tài Bạch'],
     ketHop: ['Thái Tuế'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Thái Tuế tại Tài Bạch:**
-- Tiền bạc **DƯ DẢ**
-- Gắn liền với **UY TÍN, DANH VỊ**`,
+    tomTat: `**Long Trì** đi cùng Thái Tuế tại Tài Bạch cho biết tiền bạc của
+đương số dư dả, gắn liền với uy tín và danh vị.`,
   },
 
   {
@@ -741,9 +649,8 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Tài Bạch'],
     ketHop: ['Quốc Ấn'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Quốc Ấn tại Tài Bạch:**
-- Tiền bạc **DƯ DẢ**
-- Gắn liền với **UY TÍN, DANH VỊ**`,
+    tomTat: `**Long Trì** đi cùng Quốc Ấn tại Tài Bạch cho biết tiền bạc của
+đương số dư dả, gắn liền với uy tín và danh vị.`,
   },
 
   {
@@ -753,9 +660,8 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Tài Bạch'],
     ketHop: ['Phong Cáo'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Phong Cáo tại Tài Bạch:**
-- Tiền bạc **DƯ DẢ**
-- Gắn liền với **UY TÍN, DANH VỊ**`,
+    tomTat: `**Long Trì** đi cùng Phong Cáo tại Tài Bạch cho biết tiền bạc
+của đương số dư dả, gắn liền với uy tín và danh vị.`,
   },
 
   {
@@ -765,9 +671,8 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Tài Bạch'],
     ketHop: ['Bát Tọa'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Bát Tọa tại Tài Bạch:**
-- Tiền bạc **DƯ DẢ**
-- Gắn liền với **UY TÍN, DANH VỊ**`,
+    tomTat: `**Long Trì** đi cùng Bát Tọa tại Tài Bạch cho biết tiền bạc của
+đương số dư dả, gắn liền với uy tín và danh vị.`,
   },
 
   {
@@ -777,10 +682,8 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Tài Bạch'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Hung Tinh (Lục Sát) tại Tài Bạch:**
-- Tiền bạc **KHÓ GIỮ**
-- Dễ vướng **KIỆN TỤNG**
-- **HAO TÀI tán của**`,
+    tomTat: `**Long Trì** hội hung tinh thuộc Lục Sát tại Tài Bạch khiến tiền
+bạc của đương số khó giữ, dễ vướng kiện tụng và hao tài tán của.`,
   },
 
   {
@@ -789,14 +692,9 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     sao: ['Long Trì'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Long Trì tại Tử Tức:**
-- **DỄ SINH CON**
-- Sinh con **ĐẸP**
-- **DỄ NUÔI**
-
-**Đặc trưng:**
-- Người **DỄ SINH QUÝ TỬ**
-- Con cái **THÔNG MINH, TUẤN KIỆT**`,
+    tomTat: `**Long Trì** ngụ tại Tử Tức cho biết đương số dễ sinh con, sinh
+con đẹp và dễ nuôi. Chủ mệnh dễ sinh quý tử, con cái thông minh và tuấn
+kiệt.`,
   },
 
   {
@@ -806,10 +704,9 @@ Thiên Khôi / Thiên Việt) tại Nô Bộc:** quen nhiều người **THÀNH 
     cung: ['Tử Tức'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 70,
-    tomTat: `**Long Trì + Lục Cát (Tả Phù / Hữu Bật / Văn Xương / Văn Khúc /
-Thiên Khôi / Thiên Việt) tại Tử Tức:**
-- Con cái **THÔNG MINH, SUY XÉT TỐT**
-- Dễ làm nghề **THẨM PHÁN, QUAN TÒA**`,
+    tomTat: `**Long Trì** hội bộ Lục Cát (Tả Phù, Hữu Bật, Văn Xương, Văn
+Khúc, Thiên Khôi, Thiên Việt) tại Tử Tức cho biết con cái của đương số
+thông minh, suy xét tốt và dễ làm nghề thẩm phán hay quan tòa.`,
   },
 
   {
@@ -818,16 +715,13 @@ Thiên Khôi / Thiên Việt) tại Tử Tức:**
     sao: ['Long Trì'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Long Trì tại Phu Thê:**
-- Vợ chồng **ĐẸP ĐÔI, TƯƠNG ĐẮC**
-- Cưới xin **DỄ DÀNG**
-- Người hôn phối là người **QUYỀN QUÝ, THANH CAO**
-- Có **ĐIỀU KIỆN KINH TẾ TỐT**
+    tomTat: `**Long Trì** đóng tại Phu Thê cho biết vợ chồng đương số đẹp
+đôi, tương đắc, cưới xin dễ dàng. Người hôn phối là người quyền quý, thanh
+cao và có điều kiện kinh tế tốt.
 
-**Tuổi Mão / Dậu + Tả Hữu:**
-- Lấy **NGƯỜI PHƯƠNG XA**
-- **KHÉO LÉO**
-- Hội thêm **SÁT BẠI TINH** thì là người **HAI VỢ hoặc HAI CHỒNG**`,
+Riêng đương số tuổi Mão hoặc Dậu, có thêm Tả Phù hoặc Hữu Bật, sẽ lấy người
+phương xa và khéo léo. Nếu hội thêm sát bại tinh thì là người hai vợ hoặc
+hai chồng.`,
   },
 
   {
@@ -837,10 +731,9 @@ Thiên Khôi / Thiên Việt) tại Tử Tức:**
     cung: ['Phu Thê'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Kình Dương / Đà La tại Phu Thê:**
-- Hôn nhân dễ gặp **TRẮC TRỞ**
-- Vợ chồng hay **BẤT HÒA hoặc XA CÁCH**
-- Có thể **HAI LẦN ĐÒ**`,
+    tomTat: `**Long Trì** gặp Kình Dương hoặc Đà La tại Phu Thê khiến hôn
+nhân của đương số dễ trắc trở; vợ chồng hay bất hòa hoặc xa cách, có thể
+phải hai lần đò.`,
   },
 
   {
@@ -850,10 +743,8 @@ Thiên Khôi / Thiên Việt) tại Tử Tức:**
     cung: ['Phu Thê'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 73,
-    tomTat: `**Long Trì + Hóa Kỵ tại Phu Thê:**
-- Hôn nhân dễ gặp **TRẮC TRỞ**
-- Vợ chồng hay **BẤT HÒA hoặc XA CÁCH**
-- Có thể **HAI LẦN ĐÒ**`,
+    tomTat: `**Long Trì** gặp Hóa Kỵ tại Phu Thê khiến hôn nhân của đương số
+dễ trắc trở; vợ chồng hay bất hòa hoặc xa cách, có thể phải hai lần đò.`,
   },
 
   {
@@ -862,16 +753,13 @@ Thiên Khôi / Thiên Việt) tại Tử Tức:**
     sao: ['Long Trì'],
     cung: ['Huynh Đệ'],
     doUuTien: 70,
-    tomTat: `**Long Trì tại Huynh Đệ:**
-- Anh chị em **NHIỀU NGƯỜI TÀI NĂNG, GIỎI GIANG, THÀNH ĐẠT**
-- Sống **NGAY THẲNG, CÔNG TÂM**
+    tomTat: `**Long Trì** ngụ tại Huynh Đệ cho biết anh chị em của đương số
+nhiều người tài năng, giỏi giang và thành đạt, sống ngay thẳng và công tâm.
 
-**Mặt khó:**
-- Tính cách **NGHIÊM NGHỊ, KHẮT KHE**
-- Đôi khi **KHÓ TÍNH** trong cách ứng xử
-
-Trong gia đình dễ có người theo ngành **LUẬT PHÁP, HÀNH CHÍNH, THẨM PHÁN,
-LUẬT SƯ** hoặc các công việc có tính chất **CÔNG QUYỀN, XÉT ĐOÁN**.`,
+Mặt khó của bộ này là tính cách nghiêm nghị, khắt khe; đôi khi khó tính
+trong cách ứng xử. Trong gia đình dễ có người theo ngành luật pháp, hành
+chính, thẩm phán, luật sư hoặc những công việc mang tính công quyền và xét
+đoán.`,
   },
 
   {
@@ -880,14 +768,9 @@ LUẬT SƯ** hoặc các công việc có tính chất **CÔNG QUYỀN, XÉT ĐO
     sao: ['Long Trì'],
     ketHop: ['Thiên Riêu', 'Thiên Hỷ'],
     doUuTien: 60,
-    tomTat: `**Long Trì + Thiên Riêu + Thiên Hỷ vào hạn:**
-
-**Đặc trưng:**
-- **HẠN CƯỚI HỎI**
-- Đưa đến **HÔN NHÂN**
-
-- Năm có hạn này, người độc thân dễ **gặp người yêu, cưới hỏi**, có duyên thiên
-định.`,
+    tomTat: `**Long Trì** đi cùng Thiên Riêu và Thiên Hỷ vào hạn tạo nên hạn
+cưới hỏi, đưa đến hôn nhân. Năm có hạn này, đương số độc thân dễ gặp người
+yêu, cưới hỏi — như có duyên thiên định.`,
   },
 
   {
@@ -896,14 +779,9 @@ LUẬT SƯ** hoặc các công việc có tính chất **CÔNG QUYỀN, XÉT ĐO
     sao: ['Long Trì'],
     ketHop: ['Phong Cáo', 'Quốc Ấn'],
     doUuTien: 60,
-    tomTat: `**Long Trì + Phong Cáo + Quốc Ấn vào hạn:**
-
-**Đặc trưng:**
-- **THI ĐỖ**
-- **THĂNG CHỨC**
-
-- Bộ Phong Cáo (bằng cấp) + Quốc Ấn (chức tước) + Long Trì (khoa bảng): cách
-**HIỂN ĐẠT công danh** vào năm có hạn.`,
+    tomTat: `**Long Trì** đi cùng Phong Cáo và Quốc Ấn vào hạn cho cách thi
+đỗ và thăng chức. Bộ Phong Cáo (bằng cấp) — Quốc Ấn (chức tước) — Long Trì
+(khoa bảng) tạo nên cách hiển đạt công danh ngay năm có hạn.`,
   },
 
   {
@@ -911,24 +789,21 @@ LUẬT SƯ** hoặc các công việc có tính chất **CÔNG QUYỀN, XÉT ĐO
     title: 'Lời khuyên cho người Long Trì',
     sao: ['Long Trì'],
     doUuTien: 35,
-    tomTat: `**Long Trì là ngôi sao của DANH VỌNG và PHÚC PHẦN** — vừa là **TẤM BÙA HỘ
-MỆNH** cho con đường công danh, vừa là **ÁNH SÁNG soi đường** cho sự **HƯNG
-THỊNH của GIA ĐẠO**.
+    tomTat: `**Long Trì** là ngôi sao của danh vọng và phúc phần — vừa là tấm
+bùa hộ mệnh cho con đường công danh, vừa là ánh sáng soi đường cho sự hưng
+thịnh của gia đạo của đương số.
 
-**Ưu điểm vẹn toàn:**
-- **NHAN SẮC**, mũi đẹp
-- **TÍNH HẠNH** ôn hòa nhân hậu
-- **TÀI LỘC** dồi dào
-- **GIA ĐẠO** thuận hòa
+Ưu điểm của sao này thể hiện vẹn toàn trên nhiều mặt: nhan sắc (mũi đẹp),
+tính hạnh ôn hòa nhân hậu, tài lộc dồi dào và gia đạo thuận hòa.
 
-**Bí quyết phát huy Long Trì:**
-- **GIỮ TÂM CHÍNH TRỰC**
-- **HÀNH SỰ ĐƯỜNG HOÀNG**
-- Phát huy **TÀI VĂN CHƯƠNG, KHOA BẢNG**
-- Đi với cát tinh - đặc biệt **Phượng Các** - tạo cách **Long Phượng**
-- Chăm sóc sức khỏe **MŨI, HÔ HẤP**
+Để phát huy tối đa Long Trì, chủ mệnh nên:
 
-- Người hữu duyên được Long Trì chiếu chỉ cần **giữ tâm chính trực, hành sự
-đường hoàng**, ắt sẽ **hưởng PHÚC LỘC LÂU DÀI** và **LƯU DANH HẬU THẾ**.`,
+- Giữ tâm chính trực, hành sự đường hoàng
+- Phát huy tài văn chương và khoa bảng
+- Tìm cách đi cùng cát tinh — đặc biệt là Phượng Các để tạo cách Long Phượng
+- Chăm sóc sức khỏe vùng mũi và hô hấp
+
+Người hữu duyên được Long Trì chiếu chỉ cần giữ tâm chính trực, hành sự
+đường hoàng, ắt sẽ hưởng phúc lộc lâu dài và lưu danh hậu thế.`,
   },
 ];
