@@ -43,30 +43,29 @@ export const luanGiai_Triet: DoanLuanGiai[] = [
     title: 'Tuần Triệt - Bộ Tứ Không, ngăn trở chặn đứng',
     sao: ['Tuần', 'Triệt'],
     doUuTien: 36,
-    tomTat: `**Tuần - Triệt** — bộ **TỨ KHÔNG** (Địa Không + Thiên Không + Tuần Không +
-Triệt Không), chuyên về **NGĂN TRỞ, CHẶN ĐỨNG, GIẢM CHẾ**.
+    tomTat: `**Tuần** và **Triệt** cùng Địa Không, Thiên Không hợp thành bộ Tứ
+Không — chuyên ngăn trở, chặn đứng và giảm chế mọi sự tại nơi chúng đóng.
 
-**Triệt:** Kim. **Tuần:** Hỏa. **Hóa khí:** Tùy Tinh.
+Triệt thuộc Kim, Tuần thuộc Hỏa; cả hai đều mang hóa khí Tùy Tinh. Triệt
+thiên về bế tắc, chướng ngại và phá hủy đột ngột; Tuần thiên về trắc trở
+dai dẳng, xoay trở chậm chạp.
 
-**Đặc tính:**
-- **Triệt:** Bế tắc, ngăn trở, chướng ngại, **CHẶN ĐỨNG, PHÁ HỦY**
-- **Tuần:** Sự **TRẮC TRỞ, DAI DẲNG**, xoay trở chậm chạp
+Vai trò chung của hai sao:
 
-**Vai trò chung:**
-- "**KHÔNG VONG**" — trống rỗng, mất, đi vắng
-- Như **BỨC TƯỜNG THÀNH** chặn giữa con đường
-- **NGĂN MỌI GIAO THÔNG** đi qua
+- Mang khí "Không Vong" — trống rỗng, mất mát, đi vắng
+- Như bức tường thành chặn ngang con đường, ngăn mọi giao thông qua lại
+- Chi phối tất cả các sao đồng cung, không vị nể bất cứ sao nào
 
-**2 mặt:**
-- Tại nơi **TỐT TƯƠI, NHIỀU CÁT TINH**: đáng tiếc, mọi sự tốt **BỊ NGĂN
-  TRỞ, KHÔNG ĐƯỢC BỘC PHÁT**
-- Tại nơi có **SÁT BẠI TINH**: "**TRẠI CẢI TẠO**" hữu ích, không cho
-  những kẻ lưu manh gây hại
-- Chi phối **TẤT CẢ CÁC SAO** đồng cung — không vị nể bất cứ sao nào
-- Có thể **NỬA XẤU NỬA TỐT** tùy vị trí
+Hai mặt của Tuần Triệt:
 
-**CẢNH BÁO:** Hai sao này có thể **BIẾN TỐT THÀNH XẤU và XẤU THÀNH TỐT**.
-Hiệu lực **NGHỊCH ĐẢO** dễ làm **LẠC HƯỚNG LUẬN ĐOÁN** nếu cân nhắc không
+- Tại nơi tốt tươi nhiều cát tinh: đáng tiếc, mọi sự tốt đẹp bị ngăn trở,
+  không được bộc phát
+- Tại nơi có sát bại tinh: như "trại cải tạo" hữu ích, không cho những kẻ
+  lưu manh gây hại
+- Có thể nửa xấu nửa tốt tùy vị trí
+
+Cảnh báo: hai sao này có khả năng biến tốt thành xấu và xấu thành tốt.
+Hiệu lực nghịch đảo này dễ làm lạc hướng luận đoán nếu cân nhắc không
 tinh vi.`,
   },
 
@@ -75,31 +74,29 @@ tinh vi.`,
     title: 'Quan hệ Tuần - Triệt: Triệt mạnh tuổi trẻ, Tuần mạnh về già',
     sao: ['Tuần', 'Triệt'],
     doUuTien: 35,
-    tomTat: `**Tuần - Triệt** như **ANH EM RUỘT THỊT** — cùng ý nghĩa ngăn cản, nhưng
-**TRIỆT** mạnh bạo hơn **TUẦN**.
+    tomTat: `Tuần và Triệt như anh em ruột thịt — cùng ý nghĩa ngăn cản, song
+Triệt mạnh bạo hơn Tuần.
 
-**Phân biệt vai trò:**
-- **TRIỆT** = anh cả, **MẠNH BẠO, DỮ DỘI** hơn
-  - **BỨC TƯỜNG CHẮN NGANG** đường, không cho ai qua
-  - Báo hiệu **SỰ BẾ TẮC, CHƯỚNG NGẠI LỚN**, **LỤI BẠI NẶNG NỀ**
-- **TUẦN** = em trai, **DỊU HƠN**
-  - **CHIẾC PHANH XE** làm tốc độ chậm dần lại
-  - Báo hiệu **KHÓ KHĂN, NGĂN TRỞ**
+Phân biệt vai trò:
 
-**Hiệu lực theo thời gian:**
-- **TRIỆT:** Mạnh nhất tới khoảng **30 TUỔI** (tam thập nhi lập)
-  - Giai đoạn từ đó con người TỰ LẬP, **KHÔNG CÒN CHỊU ẢNH HƯỞNG NẶNG** của
-    gia đình
-  - Có thể vùng vẫy, tự do, làm những điều trước kia chưa thể
-- **TUẦN:** Theo thời gian về lâu dài: **CÀNG MẠNH MẼ HƠN**
-  - **ĐEO BÁM ĐẾN SUỐT CUỘC ĐỜI**
+- Triệt như anh cả, mạnh bạo và dữ dội hơn — bức tường chắn ngang đường,
+  không cho ai đi qua. Triệt báo hiệu sự bế tắc, chướng ngại lớn, lụi
+  bại nặng nề.
+- Tuần như em trai, dịu hơn — chiếc phanh xe làm tốc độ chậm dần lại.
+  Tuần báo hiệu khó khăn và ngăn trở mềm hơn.
 
-**Vòng mở khóa:**
-- Vào vận có **TUẦN**: **MỞ TRIỆT** (loại bỏ tạm thời tác dụng Triệt)
-- Vào vận có **TRIỆT**: **MỞ TUẦN**
-- Khi được mở khóa: tha hồ **TUNG TĂNG, BAY NHẢY**
-- Cảnh báo: nếu nơi đó **NHIỀU SÁT BẠI TINH** thì phải **DÈ CHỪNG**, tai
-  họa có thể tới gần`,
+Hiệu lực theo thời gian khác biệt rõ rệt:
+
+- Triệt mạnh nhất tới khoảng 30 tuổi (tam thập nhi lập). Từ giai đoạn ấy
+  đương số đã tự lập, không còn chịu ảnh hưởng nặng của gia đình; chủ
+  mệnh có thể vùng vẫy, tự do, làm những điều trước kia chưa thể.
+- Tuần thì ngược lại — về lâu dài càng ngày càng mạnh mẽ, đeo bám đến
+  suốt cuộc đời.
+
+Hai sao có vòng mở khóa lẫn nhau: vào vận có Tuần thì mở Triệt (loại bỏ
+tạm thời tác dụng Triệt), vào vận có Triệt thì mở Tuần. Khi được mở khóa,
+đương số tha hồ tung tăng bay nhảy. Tuy nhiên nếu nơi đó có nhiều sát bại
+tinh thì phải dè chừng, tai họa có thể tới gần.`,
   },
 
   {
@@ -107,22 +104,20 @@ tinh vi.`,
     title: 'Tuần Triệt + Vô Chính Diệu - Mỏ neo vững chắc',
     sao: ['Tuần', 'Triệt'],
     doUuTien: 60,
-    tomTat: `**Tuần - Triệt + cung VÔ CHÍNH DIỆU** — như **MỎ NEO** giúp con thuyền không
-người lái trở nên vững chắc.
+    tomTat: `Khi Tuần Triệt đóng tại cung Vô Chính Diệu, hai sao trở thành mỏ
+neo giúp con thuyền không người lái trở nên vững chắc.
 
-**Đặc trưng:**
-- Cung VCD = **NƠI VÔ CHỦ**, không có chính tinh tọa thủ
-- Thường bị **LUNG LAY, XOAY CHUYỂN** bởi tác nhân bên ngoài
-- Tuần - Triệt biến thành **BỨC TƯỜNG VỮNG CHẮC, KIÊN CỐ**
-- Luôn bảo vệ nơi chúng đóng khỏi **TÁC NHÂN BÊN NGOÀI**
-- **BỀN BỈ VỚI THỜI GIAN**
+Cung Vô Chính Diệu vốn là nơi vô chủ, không có chính tinh tọa thủ, nên
+thường bị lung lay, xoay chuyển bởi tác nhân bên ngoài. Tuần Triệt khi
+ấy biến thành bức tường vững chắc kiên cố, luôn bảo vệ nơi chúng đóng
+khỏi tác nhân bên ngoài và bền bỉ với thời gian.
 
-**Cấp độ đẹp:**
-- VCD + đủ **TỨ KHÔNG** (Tuần + Triệt + Thiên Không + Địa Không) = **RẤT
-  ĐẸP**
-- VCD + **TAM KHÔNG** = **ĐẸP**
-- VCD + **NHỊ KHÔNG** = **TẦM THƯỜNG**
-- VCD + **NHẤT KHÔNG** = **KÉM**`,
+Cấp độ đẹp:
+
+- Vô Chính Diệu đủ Tứ Không (Tuần, Triệt, Thiên Không, Địa Không): rất đẹp
+- Vô Chính Diệu có Tam Không: đẹp
+- Vô Chính Diệu có Nhị Không: tầm thường
+- Vô Chính Diệu chỉ Nhất Không: kém`,
   },
 
   {
@@ -130,18 +125,16 @@ người lái trở nên vững chắc.
     title: 'Triệt đáo Kim cung, Tuần lâm Hỏa địa - Đắc địa',
     sao: ['Tuần', 'Triệt'],
     doUuTien: 60,
-    tomTat: `**Câu phú: "Triệt đáo Kim cung, Tuần lâm Hỏa địa"** — vị trí **ĐẮC ĐỊA** của 2
-sao.
+    tomTat: `Câu phú "Triệt đáo Kim cung, Tuần lâm Hỏa địa" mô tả vị trí đắc
+địa của hai sao này.
 
-**Đặc trưng:**
-- **Sao Triệt đắc địa tại 2 cung Thân - Dậu** ứng tuổi can **GIÁP - KỶ**
-- **Sao Tuần đắc địa tại 2 cung Tỵ - Ngọ** ứng **TUẦN GIÁP THÂN, GIÁP NGỌ**
+- Triệt đắc địa tại hai cung Thân và Dậu, ứng với tuổi can Giáp - Kỷ
+- Tuần đắc địa tại hai cung Tỵ và Ngọ, ứng với tuần Giáp Thân và Giáp Ngọ
 
-**Tại vị trí đắc địa:**
-- Tuần - Triệt chỉ **NGĂN TRỞ, CHẶN ĐỨNG SÁT BẠI TINH** (không cho bộc lộ)
-- Với **CÁT TINH** thì **TIẾP TỤC PHÁT HUY**, không động chạm
--: Đây là cách **ĐẸP NHẤT** của Tuần Triệt
-- Người ta rất ưa thích Tuần - Triệt đứng đúng vị trí đắc địa của nó`,
+Tại vị trí đắc địa, Tuần Triệt chỉ ngăn trở và chặn đứng sát bại tinh
+(không cho bộc lộ); với cát tinh thì tiếp tục phát huy, không động chạm.
+Đây là cách đẹp nhất của Tuần Triệt — giới luận đoán xưa nay rất ưa thích
+khi gặp Tuần Triệt đứng đúng vị trí đắc địa của chúng.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -154,36 +147,28 @@ sao.
     sao: ['Tuần', 'Triệt'],
     cung: ['Mệnh'],
     doUuTien: 70,
-    tomTat: `**Câu phú: "Tuần Triệt niên đầu, thiếu niên tân khổ"** — Tuần Triệt thủ Mệnh
-- tuổi trẻ **LẬN ĐẬN, NGHÈO CỰC, BÔN BA**.
+    tomTat: `Câu phú "Tuần Triệt niên đầu, thiếu niên tân khổ" mô tả cảnh
+Tuần Triệt thủ Mệnh: tuổi trẻ đương số lận đận, nghèo cực, bôn ba.
 
-**Đặc trưng:**
-- **TUỔI TRẺ** thường dễ phải **LẬN ĐẬN, NGHÈO, CỰC, BÔN BA, ĐAU ỐM**
-- Công việc **HỌC TẬP** gặp **TRẮC TRỞ**
-- Nhất là khi Tuần Triệt đi theo **2 ĐẠI VẬN ĐẦU ĐỜI** của đương số
+Đặc trưng của cách này là tuổi trẻ thường phải lận đận, nghèo, cực, bôn
+ba và đau ốm; chuyện học tập gặp nhiều trắc trở. Cảnh khổ càng rõ nét
+khi Tuần Triệt đi theo hai đại vận đầu đời của đương số.
 
-**Ngoại lệ:**
-- Khi Mệnh đắc Tuần Triệt **HỢP CÁCH**
-- Cung **PHÚC, PHỤ MẪU, HUYNH ĐỆ ĐẸP**
--: Cũng không sao cả
+Có một ngoại lệ đáng lưu ý: nếu Mệnh đắc Tuần Triệt hợp cách, đồng thời
+các cung Phúc Đức, Phụ Mẫu và Huynh Đệ đều đẹp thì cảnh khổ tuổi trẻ
+cũng không đáng ngại.
 
-**Tính cách:**
-- Người thường **ÍT NÓI, LẦM LÌ**
-- Không thích **BỘC LỘ RA NGOÀI**
-- **CẤT GIẤU MỌI THỨ BÊN TRONG**
-- Tuổi trẻ hay gặp trắc trở ngăn cản: dễ trở nên **TRẦM TÍNH**, không
-  muốn chia sẻ
+Về tính cách, đương số thường ít nói, lầm lì, không thích bộc lộ ra
+ngoài mà cất giấu mọi thứ bên trong. Tuổi trẻ hay gặp trắc trở ngăn cản
+khiến chủ mệnh dễ trở nên trầm tính, không muốn chia sẻ.
 
-**Sát bại tinh đánh chiếm:**
-- Trở thành người **NÓNG TÍNH, NHIỀU MƯU MÔ**
-- Nhưng **KIỂM SOÁT ĐƯỢC MÌNH**
-- Không để **TẬT XẤU, THỦ ĐOẠN** trong mình bộc lộ
-- Thành một người **RẤT GIỎI, KHÓ AI QUA MẮT**
+Khi sát bại tinh đánh chiếm cung Mệnh, đương số trở thành người nóng
+tính, nhiều mưu mô — nhưng vẫn kiểm soát được mình, không để tật xấu và
+thủ đoạn bộc lộ ra. Kết quả là một con người rất giỏi, khó ai qua mắt.
 
-**Người sinh bất phùng thời:**
-- Tuổi trẻ dễ gặp **TAI HỌA BẤT NGỜ**
-- Càng lớn lên (Triệt giảm dần): mọi thứ **TỐT HƠN**
-- Còn Tuần thì càng ngày **CẢN TRỞ CÀNG MẠNH MẼ HƠN**`,
+Đối với người sinh bất phùng thời, tuổi trẻ dễ gặp tai họa bất ngờ.
+Càng lớn lên (Triệt giảm dần) mọi thứ càng tốt hơn, song Tuần thì ngược
+lại — càng ngày cản trở càng mạnh mẽ hơn.`,
   },
 
   {
@@ -191,17 +176,15 @@ sao.
     title: 'Nam ưa Triệt, Nữ ưa Tuần',
     sao: ['Tuần', 'Triệt'],
     doUuTien: 50,
-    tomTat: `**Quy tắc giới tính:** **NAM nhân thường ưa TRIỆT hơn TUẦN**, **NỮ nhân
-thường ưa TUẦN hơn TRIỆT**.
+    tomTat: `Một quy tắc giới tính đáng nhớ: nam nhân thường ưa Triệt hơn
+Tuần, còn nữ nhân thì ngược lại — ưa Tuần hơn Triệt.
 
-**Nam mệnh:**
-- **Gặp Tuần**: càng về già càng gặp **NHIỀU GIAN TRUÂN, CẢN TRỞ**
-- Khó **NGÓC ĐẦU** lên được
-- **Gặp Triệt**: chỉ khó khăn tuổi trẻ
-- Tạo nên nhiều **Ý CHÍ QUYẾT TÂM THAY ĐỔI**
+Với nam mệnh, gặp Tuần thì càng về già càng nhiều gian truân, cản trở,
+khó ngóc đầu lên được. Gặp Triệt thì chỉ khó khăn tuổi trẻ, đồng thời
+sự ngăn cản ấy lại tạo nên ý chí và quyết tâm thay đổi.
 
-**Nữ mệnh:** Ngược lại — Tuần dịu hơn nên hợp với phụ nữ; Triệt mạnh quá
-nên dễ gây trắc trở quá mức cho nữ.`,
+Với nữ mệnh thì ngược lại: Tuần dịu hơn nên hợp với phụ nữ; Triệt mạnh
+quá, dễ gây trắc trở quá mức cho nữ nhân.`,
   },
 
   {
@@ -210,22 +193,15 @@ nên dễ gây trắc trở quá mức cho nữ.`,
     sao: ['Tuần', 'Triệt'],
     ketHop: ['Thiên Tướng', 'Tướng Quân', 'Quốc Ấn'],
     doUuTien: 60,
-    tomTat: `**Tuần Triệt + Thiên Tướng / Tướng Quân / Quốc Ấn** — công danh **TREO CAO
-NGÃ ĐAU**.
+    tomTat: `Khi Tuần Triệt gặp Thiên Tướng, Tướng Quân hoặc Quốc Ấn, công
+danh đương số lâm cảnh "treo cao ngã đau".
 
-**Đặc trưng:**
-- Công danh **KHÔNG CAO**
-- "**TREO CAO THÌ NGÃ ĐAU**"
-- Dễ bị **SA THẢI, MẤT CHỨC**
+Công danh khó cao, dễ bị sa thải hoặc mất chức. Riêng Triệt đi với Thiên
+Tướng, Tướng Quân hoặc Tử Vi còn dễ dính tai họa nguy hiểm tới tính mạng.
 
-**Riêng Triệt + Thiên Tướng / Tướng Quân / Tử Vi:**
-- Dễ dính **TAI HỌA NGUY HIỂM TỚI TÍNH MẠNG**
-
-**Tử Vi + Thiên Tướng + Tuần Triệt:**
-- Là người dễ hay gặp **TAI NẠN, ỐM ĐAU**
-- Người dễ **NHỤT CHÍ, HAY THAY ĐỔI**
-- Công danh **KHÔNG CAO**
-- Dễ có **NHIỀU LẦN BỊ MẤT CHỨC, ĐUỔI VIỆC**`,
+Cách Tử Vi + Thiên Tướng + Tuần Triệt khắc họa rõ nhất kiểu người dễ gặp
+tai nạn ốm đau, hay nhụt chí thay đổi, công danh không cao và nhiều lần
+bị mất chức đuổi việc.`,
   },
 
   {
@@ -234,13 +210,11 @@ NGÃ ĐAU**.
     sao: ['Triệt'],
     ketHop: ['Tham Lang'],
     doUuTien: 60,
-    tomTat: `**Sao Tham Lang gặp Triệt**: **GIẢM THỌ**.
+    tomTat: `Khi Tham Lang gặp Triệt, đương số bị giảm thọ.
 
-**Đặc trưng:**
-- Tham Lang vốn là sao **THỌ TINH**
-- Khi gặp Triệt: bị **CẮT ĐỨT**: **GIẢM TUỔI THỌ**
-- Cũng giảm tính **THAM DỤC, ĐÀO HOA, HƯỞNG LẠC** của Tham
-- Chuyển sang **TẬP TRUNG TRÍ TUỆ, KHÉO LÉO**`,
+Tham Lang vốn là sao Thọ Tinh; gặp Triệt thì bị cắt đứt, tuổi thọ giảm
+sút rõ rệt. Bù lại, tính tham dục, đào hoa và hưởng lạc vốn có của Tham
+Lang cũng giảm đi, chuyển sang tập trung trí tuệ và sự khéo léo.`,
   },
 
   {
@@ -250,14 +224,14 @@ NGÃ ĐAU**.
     chi: ['Tý', 'Ngọ'],
     ketHop: ['Cự Môn'],
     doUuTien: 75,
-    tomTat: `**Tuần Triệt + Cự Môn tại Tý / Ngọ** — thành cách **THẠCH TRUNG ẨN NGỌC** (NGỌC ẨN TRONG ĐÁ).
+    tomTat: `Tuần Triệt đi cùng Cự Môn tại Tý hoặc Ngọ làm thành cách
+"Thạch trung ẩn ngọc" — ngọc ẩn trong đá.
 
-**Đặc trưng:**
-- Trở thành con người **VÔ CÙNG THÔNG MINH VÀ SẮC SẢO**
-- **GIẢM CHẾ** đi cái **THỊ PHI, NÓI NHIỀU** của Cự Môn
-- Cự Môn vốn ám tinh + thị phi: Tuần Triệt biến thành **TRÍ TUỆ ẨN**
-- Như **NGỌC QUÝ ẨN TRONG ĐÁ THÔ**
-- Cách **CỰC ĐẸP**`,
+Đương số trở thành con người vô cùng thông minh và sắc sảo, đồng thời
+được giảm chế tính thị phi, nói nhiều vốn có của Cự Môn. Cự Môn nguyên
+là ám tinh kèm thị phi, nay nhờ Tuần Triệt biến thành trí tuệ ẩn — như
+viên ngọc quý ẩn trong khối đá thô. Đây là một trong những cách cực đẹp
+của Cự Môn.`,
   },
 
   {
@@ -266,18 +240,16 @@ NGÃ ĐAU**.
     sao: ['Tuần', 'Triệt'],
     ketHop: ['Thái Âm', 'Thái Dương'],
     doUuTien: 65,
-    tomTat: `**Tuần Triệt + Thái Âm + Thái Dương HÃM ĐỊA** — thì **TỐT**, làm **TĂNG SÁNG**
-cho Âm Dương.
+    tomTat: `Tuần Triệt đi cùng Thái Âm và Thái Dương ở Hãm địa lại là cách
+tốt — làm tăng sáng cho cả Nhật và Nguyệt.
 
-**Đặc trưng:**
-- Bình thường Tuần Triệt giảm cát tinh
-- Nhưng với **NHẬT NGUYỆT HÃM** (vốn không có ánh sáng) thì NGƯỢC LẠI
--: Tuần Triệt làm **TĂNG SÁNG** cho Nhật Nguyệt
-- Đây là cách **HÓA GIẢI** đặc biệt cho Nhật Nguyệt hãm địa
-- Phá thế **CỬA ĐÓNG**, mở ra ánh sáng
+Bình thường Tuần Triệt giảm cát tinh, song với Nhật Nguyệt hãm (vốn
+không có ánh sáng) thì ngược lại: Tuần Triệt làm tăng sáng cho Nhật
+Nguyệt. Đây là cách hóa giải đặc biệt cho Nhật Nguyệt hãm địa, phá thế
+"cửa đóng" và mở ra ánh sáng.
 
-**Quy tắc đặc biệt:** Tuần Triệt + chính tinh **HÃM** thì giảm cái xấu
-nhiều khi tốt hơn vị trí miếu vượng.`,
+Quy tắc đặc biệt cần ghi nhớ: Tuần Triệt đi với chính tinh Hãm thì giảm
+cái xấu, nhiều khi còn tốt hơn cả vị trí miếu vượng.`,
   },
 
   {
@@ -286,15 +258,12 @@ nhiều khi tốt hơn vị trí miếu vượng.`,
     sao: ['Tuần', 'Triệt'],
     ketHop: ['Thiên Phủ'],
     doUuTien: 60,
-    tomTat: `**Tuần Triệt + Thiên Phủ**: thành cách **PHỦ PHÙNG KHÔNG**, chủ về **CÁI
-KHO RỖNG**.
+    tomTat: `Tuần Triệt gặp Thiên Phủ thành cách "Phủ phùng Không" — chủ về
+cái kho rỗng.
 
-**Đặc trưng:**
-- Thiên Phủ vốn là sao **TÀI TINH**, kho cất của
-- Gặp Tuần / Triệt: "**KHO RỖNG**"
-- **KHÓ TÍCH LŨY** được tài sản, của cải
-- Tài lộc **HAO HỤT, THẤT THOÁT**
-- Cách **PHỦ PHÙNG KHÔNG** là cách xấu của Thiên Phủ`,
+Thiên Phủ vốn là Tài Tinh, kho cất của; khi gặp Tuần hay Triệt thì
+"kho rỗng": đương số khó tích lũy được tài sản, của cải, tài lộc hao
+hụt thất thoát. Đây là cách xấu của Thiên Phủ.`,
   },
 
   {
@@ -304,13 +273,12 @@ KHO RỖNG**.
     ketHop: ['Thiên Mã'],
     cung: ['Phu Thê'],
     doUuTien: 55,
-    tomTat: `**Triệt + Thiên Mã tại Phu Thê** — vợ chồng **BỎ NHAU RẤT DỄ DÀNG**.
+    tomTat: `Triệt đi cùng Thiên Mã tại cung Phu Thê khiến vợ chồng bỏ nhau
+rất dễ dàng.
 
-**Đặc trưng:**
-- Vợ chồng **BỎ NHAU RẤT DỄ DÀNG**
-- **VỢ CHỒNG ÔM CON BỎ VỀ NHÀ**
-- Mã = di chuyển + Triệt = cắt đứt: ly tán nhanh chóng
-- Đặc biệt với mối tình đầu`,
+Vợ chồng đường ai nấy đi, có khi vợ chồng ôm con bỏ về nhà mẹ. Mã chủ
+di chuyển, Triệt chủ cắt đứt — khi gộp lại thì sự ly tán diễn ra nhanh
+chóng, đặc biệt ứng vào mối tình đầu của đương số.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -322,23 +290,22 @@ KHO RỖNG**.
     title: 'Tuần Triệt vào hạn - Hai mặt nghịch đảo',
     sao: ['Tuần', 'Triệt'],
     doUuTien: 50,
-    tomTat: `**Tuần Triệt vào hạn** — hiệu lực **NGHỊCH ĐẢO** rất mạnh.
+    tomTat: `Khi Tuần Triệt vào hạn, hiệu lực nghịch đảo của hai sao thể
+hiện rất mạnh.
 
-**Cơ chế mở khóa:**
-- Hạn vào **TRIỆT** thì **MỞ TUẦN**
-- Hạn vào **TUẦN** thì **MỞ TRIỆT**
+Cơ chế mở khóa hoạt động chéo: hạn vào Triệt thì mở Tuần, hạn vào Tuần
+thì mở Triệt.
 
-**Hai mặt:**
-- **Gặp sao SÁNG SỦA**: hạn lại trở nên **MỜ ÁM**, mưu sự **TRẮC TRỞ, THẤT
-  BẠI**
-- **Gặp sao XẤU XA**: hạn được trở nên **SÁNG SỦA**, dù có gặp trắc trở
-  ban đầu
+Hai mặt của hạn:
 
-**Cảnh báo:**
-- Đặc biệt cung Hạn gặp Tuần - Triệt **RẤT ĐÁNG LƯU Ý**
-- Hai sao này có hiệu lực **MẠNH** ở các đại, tiểu hạn
-- Có thể **BIẾN TỐT THÀNH XẤU và XẤU THÀNH TỐT**
-- Hiệu lực nghịch đảo **DỄ LÀM LẠC HƯỚNG LUẬN ĐOÁN**`,
+- Khi gặp sao sáng sủa, hạn lại trở nên mờ ám, mưu sự trắc trở thất bại
+- Khi gặp sao xấu xa, hạn ngược lại trở nên sáng sủa, dù ban đầu có
+  vướng trắc trở
+
+Cảnh báo dành cho người luận đoán: cung Hạn gặp Tuần Triệt rất đáng lưu
+ý. Hai sao này có hiệu lực mạnh ở các đại tiểu hạn, có thể biến tốt
+thành xấu và xấu thành tốt; hiệu lực nghịch đảo dễ làm lạc hướng luận
+đoán.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -351,40 +318,32 @@ KHO RỖNG**.
     sao: ['Triệt'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Triệt thủ Mệnh** — từ bé **VẤT VẢ NGHÈO KHỔ**, phải tự lập từ sớm.
+    tomTat: `**Triệt** thủ Mệnh báo trước một quãng đời thiếu thời vất vả
+nghèo khổ, đương số phải tự lập từ rất sớm.
 
-**Diện mạo:**
-- Dáng vóc **CHẮC KHỎE, HƠI ĐẬM**
-- Khuôn mặt **NGHIÊM NGHỊ**
-- Thuở nhỏ hay **ỐM ĐAU, KHÓ NUÔI**
-- Dễ để lại **SẸO** hoặc **DẤU VẾT** trên thân thể
+Về diện mạo, đương số có dáng vóc chắc khỏe, hơi đậm; khuôn mặt nghiêm
+nghị; thuở nhỏ hay ốm đau khó nuôi và dễ để lại sẹo hoặc dấu vết trên
+thân thể.
 
-**Tính cách:**
-- **KÍN ĐÁO, THẬN TRỌNG, ÍT LỜI**
-- Bên trong chất chứa **SỰ TỪNG TRẢI**
-- Dễ "**NGỘ**" ra chân lý sau nhiều biến cố
+Tính cách của chủ mệnh kín đáo, thận trọng, ít lời; bên trong chất chứa
+nhiều sự từng trải, dễ "ngộ" ra chân lý sau những biến cố lớn.
 
-**Đi cùng cát tinh** (Thiên Lương, Văn Xương, Văn Khúc):
-- Tính cách **ĐIỀM ĐẠM, KHÔN NGOAN**
-- Về sau dễ **THÀNH CÔNG**
+Khi Triệt đi cùng cát tinh như Thiên Lương, Văn Xương hoặc Văn Khúc,
+đương số có tính cách điềm đạm khôn ngoan và về sau dễ thành công.
+Ngược lại, khi hội với sát tinh Kình Đà hoặc Hỏa Linh, chủ mệnh dễ bi
+quan, tự ti, bất an và khó vượt qua nghịch cảnh.
 
-**Hội với sát tinh** (Kình Đà, Hỏa Linh):
-- Dễ **BI QUAN, TỰ TI, BẤT AN**
-- **KHÓ VƯỢT QUA NGHỊCH CẢNH**
+Trên đường công danh, Triệt như vách ngăn khiến sự nghiệp lắm lần trắc
+trở: cơ hội đến nhưng tuột khỏi tay, đương số thường phải đi đường vòng
+mới đạt được điều mình muốn.
 
-**Công danh:**
-- Triệt như **VÁCH NGĂN** khiến sự nghiệp **LẮM LẦN TRẮC TRỞ**
-- Cơ hội đến nhưng **TUỘT KHỎI TAY**
-- Thường phải **ĐI ĐƯỜNG VÒNG**
+Về phúc thọ, đương số trải qua nhiều biến động bất ngờ, thăng trầm khó
+đoán trước. Khi Triệt đi với cát tinh, phúc lộc hao hụt, được rồi lại
+mất. Khi hội với hung sát tinh, Triệt lại trở thành "lưỡi kéo cắt họa" —
+nhiều phen thoát nạn trong gang tấc, giữ được tính mạng.
 
-**Phúc thọ:**
-- Trải qua nhiều **BIẾN ĐỘNG BẤT NGỜ**, thăng trầm không đoán trước
-- Đi với cát tinh: phúc lộc **HAO HỤT, ĐƯỢC RỒI LẠI MẤT**
-- Hội với hung sát tinh: Triệt thành "**LƯỠI KÉO CẮT HỌA**", **THOÁT NẠN
-  TRONG GANG TẤC**, giữ được tính mạng
-
-**Vô chính diệu + Tam Không / Tứ Không:** làm nên **DANH PHẬN** nhưng
-không bền, tuổi niên thiếu vất vả.`,
+Trường hợp Vô Chính Diệu kèm Tam Không hoặc Tứ Không, đương số làm nên
+được danh phận song không bền, tuổi niên thiếu vẫn vất vả.`,
   },
 
   {
@@ -393,13 +352,11 @@ không bền, tuổi niên thiếu vất vả.`,
     sao: ['Triệt'],
     cung: ['Mệnh', 'Phụ Mẫu'],
     doUuTien: 70,
-    tomTat: `**Triệt đồng thời tại Mệnh và Phụ Mẫu** — có thể **MỒ CÔI SỚM** hoặc
-sớm ra đời tự lập.
+    tomTat: `Khi Triệt đồng thời đóng tại Mệnh và Phụ Mẫu, đương số có thể
+mồ côi sớm hoặc sớm phải ra đời tự lập.
 
-**Đặc trưng:**
-- Phúc ấm cha mẹ bị **CHẶN ĐỨNG**
-- Đương số phải **TỰ LẬP TỪ NHỎ**
-- Thiếu sự nâng đỡ từ phía gia đình`,
+Phúc ấm cha mẹ bị chặn đứng, khiến chủ mệnh phải tự lập từ nhỏ, thiếu
+hẳn sự nâng đỡ từ phía gia đình.`,
   },
 
   {
@@ -408,24 +365,17 @@ sớm ra đời tự lập.
     sao: ['Triệt'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Triệt tại Phụ Mẫu** — báo hiệu sự **HỤT HẪNG TÌNH THÂN**.
+    tomTat: `Triệt đóng tại Phụ Mẫu báo hiệu sự hụt hẫng tình thân — cha mẹ
+mất sớm, ly tán, hoặc còn đủ song khó gần gũi và ít gắn bó.
 
-**Đặc trưng:**
-- Cha mẹ **MẤT SỚM, LY TÁN**
-- Hoặc còn đủ nhưng **KHÓ GẦN GŨI, ÍT GẮN BÓ**
-- Tính chất triệt tiêu khiến **PHÚC ẤM TỔ TIÊN** và sự nâng đỡ **GIẢM SÚT**
-- Con cái **KHÓ CẬY NHỜ**
+Tính chất triệt tiêu khiến phúc ấm tổ tiên cùng sự nâng đỡ giảm sút
+mạnh, con cái khó cậy nhờ. Khi cung này hội nhiều sát tinh, cha mẹ dễ
+đoản thọ, nhất là khi Nhật Nguyệt lạc hãm hoặc bị Không Kiếp chiếu.
 
-**Hội nhiều sát tinh:**
-- Cha mẹ dễ **ĐOẢN THỌ**
-- Đặc biệt khi Nhật, Nguyệt **LẠC HÃM** hoặc bị **KHÔNG KIẾP CHIẾU**
-
-**Mặt tích cực:**
-- Khi đối diện nghịch cảnh, Triệt **GIẢM NHẸ HUNG HỌA**
-- Khi cung Phụ Mẫu có cát tinh (Thiên Lương, Thiên Đồng, Tả Hữu): Triệt
-  khiến tốt đẹp bị **SUY GIẢM**, tình thương không trọn vẹn
-- Đương số ít được che chở: buộc phải **DỰA VÀO BẢN THÂN**, sớm rèn nghị
-  lực`,
+Mặt tích cực: đối diện nghịch cảnh, Triệt giảm nhẹ hung họa. Nếu cung
+Phụ Mẫu có cát tinh như Thiên Lương, Thiên Đồng, Tả Hữu thì Triệt khiến
+phần tốt đẹp suy giảm, tình thương không trọn vẹn — bù lại đương số ít
+được che chở nên buộc phải dựa vào bản thân, sớm rèn nghị lực.`,
   },
 
   {
@@ -434,32 +384,25 @@ sớm ra đời tự lập.
     sao: ['Triệt'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Triệt tại Phúc Đức** — gia tộc **THIẾU HÒA THUẬN**, dễ ly tán.
+    tomTat: `Triệt cư Phúc Đức khiến gia tộc thiếu hòa thuận, dễ ly tán.
 
-**Đặc trưng:**
-- Phần phúc đức **BỊ TRỤC TRẶC** trên phương diện nào đó
-- Gia tộc thiếu hòa thuận, **DỄ LY TÁN**
-- Phúc phần truyền lại **KHÔNG TRỌN VẸN**
-- Đương số khó được nhận **MAY MẮN, PHÚC PHẦN** mà tổ tiên để lại
-- **GIẢM BỚT LƯƠNG DUYÊN, MAY MẮN**, dễ **MUỘN VỢ MUỘN CHỒNG**
-- Mồ mả tổ tiên thường **KÉM**, đặt tại vị trí không đẹp, hay bị gì đó
-  vây quanh hoặc chắn ngang phía trước mặt
+Phần phúc đức bị trục trặc trên một phương diện nào đó: gia tộc thiếu
+hòa thuận và dễ ly tán; phúc phần truyền lại không trọn vẹn; đương số
+khó được hưởng may mắn và phúc phần do tổ tiên để lại. Lương duyên cùng
+may mắn cũng giảm bớt, dễ muộn vợ muộn chồng. Mồ mả tổ tiên thường ở vị
+trí kém, hay bị một thứ gì đó vây quanh hoặc chắn ngang phía trước mặt.
 
-**Đặc biệt - Triệt + Dương Thỉ:**
-- Dòng họ **THẤT TỰ**, phải **LẬP CON NUÔI**
+Trường hợp đặc biệt, Triệt đi cùng Dương Thỉ thì dòng họ thất tự, phải
+lập con nuôi.
 
-**Hai pha của Triệt tại Phúc:**
-- Triệt: **TUỔI TRẺ KHÔNG NHIỀU MAY MẮN**
-- Phải **TỰ TÔN BỒI PHÚC ĐỨC**
-- Càng **VỀ GIÀ CÀNG ĐƯỢC HƯỞNG** phước đức ấy
+Hai pha của Triệt tại Phúc:
 
-**VCD + Triệt:**
-- **GIẢM RỐI REN**, phúc khí **KHÔNG BỊ TIÊU HAO**
+- Tuổi trẻ không nhiều may mắn, đương số phải tự tôn bồi phúc đức
+- Càng về già càng được hưởng phước đức ấy
 
-**Hội Kình Đà, Hỏa Linh, Không Kiếp:**
-- Hạn xấu **CÀNG NẶNG**
-- Gia đình dễ **LY TÁN**
-- Tinh thần **BẤT AN**`,
+Khi Vô Chính Diệu đi cùng Triệt, phúc khí giảm rối ren, không bị tiêu
+hao. Ngược lại, hội với Kình Đà, Hỏa Linh, Không Kiếp thì hạn xấu càng
+nặng — gia đình dễ ly tán, tinh thần bất an.`,
   },
 
   {
@@ -468,31 +411,25 @@ sớm ra đời tự lập.
     sao: ['Triệt'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Triệt tại Điền Trạch** — đất đai nhà cửa **KHÓ GIỮ**, dễ hao hụt sang
-nhượng.
+    tomTat: `Triệt đóng tại Điền Trạch khiến đất đai nhà cửa khó giữ, dễ
+hao hụt sang nhượng.
 
-**Đặc trưng:**
-- Đất đai, nhà cửa **KHÓ GIỮ**
-- Dễ **HAO HỤT, SANG NHƯỢNG**
-- Đổi thay **NHIỀU LẦN**
-- Chỉ có tài sản trong **MỘT GIAI ĐOẠN** nào đó
-- Tài sản có nhưng **KHÔNG ĐỨNG TÊN MÌNH**
-- Người làm ra của nhưng phải **CHẬT VẬT**
+Tài sản đổi thay nhiều lần và đương số chỉ có của trong một giai đoạn
+nào đó; có khi tài sản chỉ tồn tại nhưng không đứng tên mình. Người làm
+ra của song phải chật vật mới giữ được.
 
-**Đi cùng Tả Hữu, Thiên Phủ, Lộc Tồn:**
-- Vẫn có **NƠI ĂN CHỐN Ở** nhưng **KHÔNG BỀN**
-- **DỰNG RỒI PHÁ, MUA RỒI LẠI BÁN**
+Khi Triệt đi cùng Tả Hữu, Thiên Phủ, Lộc Tồn, đương số vẫn có nơi ăn
+chốn ở nhưng không bền — dựng rồi phá, mua rồi lại bán.
 
-**Hội nhiều hung sát tinh:**
-- Triệt thành "**LÁ CHẮN**"
-- Giảm bớt **TRANH CHẤP ĐẤT CÁT** hay nguy cơ **PHÁ SẢN**
+Khi cung Điền hội nhiều hung sát tinh, Triệt lại trở thành "lá chắn" —
+giảm bớt tranh chấp đất cát hay nguy cơ phá sản.
 
-**Vị trí nhà:**
-- Triệt cư Điền: nhà thường ở **NGÃ BA, NGÃ TƯ ĐƯỜNG**
+Về vị trí nhà ở, Triệt cư Điền thường khiến nhà nằm tại ngã ba hoặc ngã
+tư đường.
 
-**Triệt cư Phúc - Điền:** không được hưởng **DI SẢN TỔ PHỤ** để lại.
-**Triệt cư Điền - Quan:** tuổi trẻ vất vả, **KHÓ TÍCH LŨY** tiền bạc của
-cải.`,
+Kết hợp hai cung: Triệt cư Phúc - Điền thì đương số không được hưởng
+di sản tổ phụ để lại; Triệt cư Điền - Quan thì tuổi trẻ vất vả, khó
+tích lũy tiền bạc của cải.`,
   },
 
   {
@@ -501,34 +438,26 @@ cải.`,
     sao: ['Triệt'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Triệt tại Quan Lộc** — công danh **LẬN ĐẬN, GIÁN ĐOẠN**.
+    tomTat: `Triệt cư Quan Lộc khiến công danh đương số lận đận, gián đoạn.
 
-**Đặc trưng:**
-- Công danh **LẬN ĐẬN, KHÓ NHỌC** mới làm nên
-- Thuyền đi **NGƯỢC GIÓ** — có cơ hội nhưng khó giữ trọn
-- Người phải chịu **VẤT VẢ** trong một thời gian
-- Công danh thường **KHÓ CAO**
-- Vào đời **MUỘN**, sự nghiệp **NHIỀU LẦN GIÁN ĐOẠN**
-- Tất tả **NGƯỢC XUÔI** mới mong giữ chỗ đứng
+Công danh phải khó nhọc mới làm nên, như thuyền đi ngược gió: cơ hội có
+song khó giữ trọn, đương số phải chịu vất vả trong một thời gian dài.
+Công danh thường khó cao, vào đời muộn, sự nghiệp nhiều lần gián đoạn —
+chủ mệnh phải tất tả ngược xuôi mới mong giữ được chỗ đứng.
 
-**Triệt + Thiên Tướng / Tướng Quân:**
-- Dễ có thể bị **BÃI CHỨC**
-- Hay bị **TAI NẠN TRONG CÔNG VỤ**
+Khi Triệt đi cùng Thiên Tướng hoặc Tướng Quân, đương số có thể bị bãi
+chức hoặc gặp tai nạn trong công vụ. Khi gặp sao cát như Tử Vi, Thiên
+Phủ, Khôi Việt, Hóa Quyền, công danh hiển đạt nhưng chóng tàn, quyền
+uy khó bền.
 
-**Gặp sao cát** (Tử Vi, Thiên Phủ, Khôi Việt, Hóa Quyền):
-- Công danh **HIỂN ĐẠT** nhưng **CHÓNG TÀN**
-- Quyền uy **KHÓ BỀN**
+Hội hung sát tinh Phá Quân, Kình Đà, Không Kiếp thì Triệt trở thành yếu
+tố cứu giải, giảm bớt phá bại nặng nề.
 
-**Hội hung sát tinh** (Phá Quân, Kình Đà, Không Kiếp):
-- Triệt là yếu tố **CỨU GIẢI**
-- Giảm bớt **PHÁ BẠI NẶNG NỀ**
+Trường hợp Triệt cư Quan - Nô: trong công việc đương số không tạo được
+mối quan hệ với bạn bè, đồng nghiệp, cấp dưới — vì thế khó phát triển.
 
-**Triệt cư Quan - Nô:**
-- Trong công việc **KHÔNG TẠO ĐƯỢC MỐI QUAN HỆ** bạn bè, đồng nghiệp, cấp
-  dưới
-- **KHÓ PHÁT TRIỂN**
-
-**Hợp nghề:** Học thuật, **NGHIÊN CỨU**, công việc không nặng bon chen.`,
+Nghề hợp với cách này: học thuật, nghiên cứu hoặc các công việc không
+nặng tính bon chen.`,
   },
 
   {
@@ -537,28 +466,20 @@ cải.`,
     sao: ['Triệt'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Triệt tại Nô Bộc** — tôi tớ **THAY ĐỔI**, ra vào luôn.
+    tomTat: `Triệt cư Nô Bộc khiến tôi tớ thay đổi, ra vào luôn — không ai
+ở lâu dài bên đương số.
 
-**Đặc trưng:**
-- Tôi tớ **THAY ĐỔI, RA VÀO LUÔN**
-- **KHÔNG AI Ở LÂU DÀI**
-- Mối quan hệ "**CÓ CŨNG NHƯ KHÔNG**"
-- Hứa hẹn nhiều mà **ÍT AI GIÚP ĐỠ TRỌN VẸN**
-- Tình bạn **KÉM BỀN**
-- Phải **DỰA VÀO SỨC MÌNH** nhiều hơn mong chờ trợ lực
+Mối quan hệ "có cũng như không": người ta hứa hẹn nhiều nhưng ít ai giúp
+đỡ trọn vẹn, tình bạn kém bền. Đương số phải dựa vào sức mình nhiều hơn
+là mong chờ trợ lực từ bên ngoài.
 
-**Có Tả Hữu, Khôi Việt, Xương Khúc, Thiên Phúc:**
-- Triệt làm **GIẢM KHẢ NĂNG HỖ TRỢ**
-- Bản mệnh **BỊ BỎ RƠI** khi cần
+Khi cung Nô có Tả Hữu, Khôi Việt, Xương Khúc, Thiên Phúc, Triệt làm
+giảm khả năng hỗ trợ, khiến bản mệnh bị bỏ rơi đúng lúc cần. Ngược lại,
+khi đi với hung sát tinh như Kình Đà, Hóa Kỵ, Không Kiếp thì Triệt hóa
+giải tính xấu, giúp đương số tránh được phản trắc và lừa gạt.
 
-**Đi với hung sát tinh** (Kình Đà, Hóa Kỵ, Không Kiếp):
-- Triệt **HÓA GIẢI** tính xấu
-- Tránh được **PHẢN TRẮC, LỪA GẠT**
-
-**Triệt cư Nô - Di:**
-- Ra ngoài **ÍT BẠN ÍT BÈ**
-- Không hay giao tiếp, quan hệ với ai
-- Lúc có việc cần thì **KHÔNG CÓ AI BÊN CẠNH**`,
+Khi Triệt cư Nô - Di đồng thời, đương số ra ngoài ít bạn ít bè, không
+hay giao tiếp; lúc có việc cần thì không có ai bên cạnh.`,
   },
 
   {
@@ -567,29 +488,22 @@ cải.`,
     sao: ['Triệt'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Triệt tại Thiên Di** — bôn ba bên ngoài **VẤP NGĂN TRỞ**.
+    tomTat: `Triệt đóng tại Thiên Di khiến đương số bôn ba bên ngoài lắm
+vấp ngăn trở.
 
-**Đặc trưng:**
-- Bôn ba bên ngoài dễ **VẤP NGĂN TRỞ**
-- Đi xa hay lập nghiệp **KHÓ THÀNH TOẠI**
-- Sống **KHÉP KÍN, DÈ DẶT XÃ GIAO**
-- **ÍT MỞ LÒNG** với người lạ
-- Vận số khó phát triển ở **MÔI TRƯỜNG NGOẠI VI**
-- **XUẤT NGOẠI LẮM TRẮC TRỞ**
-- Là người **ÍT RA NGOÀI**, ít quan hệ giao tiếp
-- Đặc biệt khi có Tuần - Triệt **TẠI 2 CUNG NÔ - DI**
+Đi xa hay lập nghiệp khó thành toại; chủ mệnh sống khép kín, dè dặt xã
+giao và ít mở lòng với người lạ. Vận số khó phát triển ở môi trường
+ngoại vi, xuất ngoại lắm trắc trở. Đương số là người ít ra ngoài, ít
+quan hệ giao tiếp — đặc biệt rõ nét khi Tuần Triệt đóng đồng thời tại
+hai cung Nô - Di.
 
-**Đồng cung cát tinh** (Thiên Mã, Lộc Tồn, Tả Hữu, Xương Khúc, Khôi Việt):
-- Triệt **GIẢM VẬN MAY**
-- Bạn bè xa xứ **KHÓ NHỜ CẬY**
+Khi đồng cung với cát tinh như Thiên Mã, Lộc Tồn, Tả Hữu, Xương Khúc,
+Khôi Việt, Triệt giảm vận may, bạn bè xa xứ khó nhờ cậy. Hội hung sát
+tinh Kình Đà, Không Kiếp, Linh Hỏa, Hóa Kỵ thì Triệt cắt bớt hung họa,
+giảm tai ương đường xa.
 
-**Hội hung sát tinh** (Kình Đà, Không Kiếp, Linh Hỏa, Hóa Kỵ):
-- Triệt **CẮT BỚT HUNG HỌA**
-- Giảm tai ương đường xa
-
-**Tuần Triệt tại 2 cung Di - Tật: TỐT:**
-- Người ra ngoài **CẨN TRỌNG**
-- Ít dính **TAI VẠ, BỆNH TẬT**`,
+Trường hợp Tuần Triệt cư hai cung Di - Tật là cách tốt: đương số ra
+ngoài cẩn trọng, ít dính tai vạ và bệnh tật.`,
   },
 
   {
@@ -598,31 +512,25 @@ cải.`,
     sao: ['Triệt'],
     cung: ['Tật Ách'],
     doUuTien: 80,
-    tomTat: `**Triệt tại Tật Ách** — vị trí **"ĐẸP"** của Triệt — **ĐÁNH TAN BỆNH TẬT, TAI
-HỌA**.
+    tomTat: `Tật Ách là vị trí "đẹp" của Triệt — nơi Triệt phát huy khả
+năng đánh tan bệnh tật và tai họa.
 
-**Rất CẦN có Tuần Triệt tại Tật Ách** vì nhờ 2 sao này mà bệnh, tật và họa
-sẽ **TIÊU TÁN** hay **GIẢM THIỂU** rất nhiều — sức khỏe và may mắn được
-**BẢO ĐẢM** nhiều hơn.
+Lá số rất cần Tuần Triệt tại Tật Ách, vì nhờ hai sao này mà bệnh, tật
+và họa được tiêu tán hoặc giảm thiểu nhiều, sức khỏe và may mắn được
+bảo đảm hơn.
 
-**Đặc trưng:**
-- **ĐÁNH TAN BỆNH TẬT, TAI HỌA**
-- Tính chất **CHẶN ĐỨNG** giúp giảm nhẹ bệnh tật, tai nạn
-- Nhiều lần **THOÁT HIỂM TRONG GANG TẤC**
+Tính chất chặn đứng của Triệt giúp giảm nhẹ bệnh tật và tai nạn, đương
+số nhiều lần thoát hiểm trong gang tấc. Khi cung Tật Ách có nhiều hung
+tinh như Kình Đà, Linh Hỏa, Không Kiếp, Triệt lập tức phát huy khả năng
+che chắn — hóa hung thành cát, hạn nặng thành nhẹ.
 
-**Cung Tật Ách có nhiều hung tinh** (Kình Đà, Linh Hỏa, Không Kiếp):
-- Triệt lập tức phát huy khả năng **CHE CHẮN**
-- **HÓA HUNG THÀNH CÁT**
-- **HẠN NẶNG THÀNH NHẸ**
+Hai mặt của Triệt tại Tật:
 
-**Hai mặt:**
-- Cung có nhiều phúc tinh (Thiên Lương, Thiên Đồng, Thái Âm, Thiên Phủ):
-  - Triệt khiến **PHÚC KHÍ HAO TỔN**
-  - **SỨC KHỎE GIẢM SÚT**
-  - Dễ mắc **BỆNH VẶT** hoặc **GIẢM TUỔI THỌ**
-- Người có Triệt tại Tật thường:
-  - **CƠ ĐỊA NHẠY CẢM**
-  - Dễ **ĐAU ỐM** nhưng cũng **CHÓNG HỒI PHỤC**`,
+- Khi cung có nhiều phúc tinh như Thiên Lương, Thiên Đồng, Thái Âm,
+  Thiên Phủ, Triệt khiến phúc khí hao tổn, sức khỏe giảm sút; đương số
+  dễ mắc bệnh vặt hoặc bị giảm tuổi thọ
+- Người có Triệt tại Tật thường có cơ địa nhạy cảm, dễ đau ốm song
+  cũng chóng hồi phục`,
   },
 
   {
@@ -631,32 +539,23 @@ sẽ **TIÊU TÁN** hay **GIẢM THIỂU** rất nhiều — sức khỏe và ma
     sao: ['Triệt'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Triệt tại Tài Bạch** — tài lộc **HAO TÁN, GIÁN ĐOẠN**.
+    tomTat: `Triệt cư Tài Bạch khiến tài lộc đương số hao tán, gián đoạn.
 
-**Đặc trưng:**
-- Tài lộc **HAO TÁN**
-- Con đường kiếm tiền dễ bị **GIÁN ĐOẠN**
-- **CẢN TRỞ** khả năng kiếm tiền, thu nhập
-- Người **KHÔNG CÓ TÀI SẢN**, hoặc chỉ có trong **MỘT GIAI ĐOẠN**
-- Làm ra của nhưng phải **CHẬT VẬT**
+Con đường kiếm tiền dễ bị ngắt quãng, khả năng kiếm tiền và thu nhập bị
+cản trở. Đương số có khi không có tài sản, hoặc chỉ có trong một giai
+đoạn; làm ra của nhưng phải chật vật.
 
-**Cung này có nhiều chính tinh miếu vượng** (Vũ Khúc, Thiên Phủ, Thái
-Dương, Thái Âm):
-- Tiền bạc **KHÓ TỤ**
-- Làm nhiều mà **HƯỞNG ÍT**
-- Cơ hội đến rồi **VUỘT MẤT**
+Khi cung Tài có nhiều chính tinh miếu vượng như Vũ Khúc, Thiên Phủ, Thái
+Dương, Thái Âm, tiền bạc khó tụ — làm nhiều mà hưởng ít, cơ hội đến rồi
+vuột mất. Hội hung tinh Kình Đà, Linh Hỏa, Không Kiếp thì Triệt lại phát
+huy mặt tích cực, ngăn chặn phá hao nặng và giúp đương số tránh được
+cảnh trắng tay.
 
-**Hội hung tinh** (Kình Đà, Linh Hỏa, Không Kiếp):
-- Triệt phát huy **MẶT TÍCH CỰC**
-- Giúp **NGĂN CHẶN PHÁ HAO** nặng
-- Tránh được cảnh **TRẮNG TAY**
+Khi Tuần Triệt cư đồng thời Tài - Tật, đồng tiền kiếm ra chậm và ít,
+song bù lại hạn chế dính tai họa, bệnh tật.
 
-**Tuần Triệt cư Tài - Tật:**
-- Đồng tiền kiếm ra **CHẬM, ÍT**
-- Nhưng **HẠN CHẾ** dính tai họa, bệnh tật
-
-**Đặc điểm:** Người này thu nhập thường ở mức **ĐỦ ĂN ĐỦ TIÊU**, ít khi
-giàu sang hiển hách.`,
+Nét đặc trưng chung: thu nhập của đương số thường ở mức đủ ăn đủ tiêu,
+ít khi giàu sang hiển hách.`,
   },
 
   {
@@ -666,29 +565,23 @@ giàu sang hiển hách.`,
     cung: ['Tử Tức'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Đức', 'Phúc Đức'],
     doUuTien: 78,
-    tomTat: `**Triệt tại Tử Tức** — **SÁT CON ĐẦU LÒNG**, sinh con đầu khó nuôi.
+    tomTat: `Triệt cư Tử Tức báo hiệu cảnh sát con — đặc biệt là con đầu
+lòng khó nuôi.
 
-**Đặc trưng:**
-- **SÁT CON, NHẤT LÀ CON ĐẦU LÒNG**
-- Sinh con đầu lòng **KHÓ KHĂN, KHÓ NUÔI**
-- Bản mệnh dễ gặp cảnh **CHẬM CON**
-- **CON ĐẦU KHÓ NUÔI**
-- Hoặc cha mẹ và con cái **THIẾU GẦN GŨI**
+Sinh con đầu lòng khó khăn, đương số dễ gặp cảnh chậm con; con đầu khó
+nuôi hoặc cha mẹ con cái thiếu gần gũi với nhau.
 
-**Triệt thủ Tử:**
-- Thường dễ **XẢY THAI**, **HAO HỤT CON CÁI**
-- Con cái hay gặp **TRẮC TRỞ** sau này, ở **XA CHA MẸ**
+Khi Triệt thủ Tử Tức, đương số dễ bị xảy thai hoặc hao hụt con cái; con
+cái sau này hay gặp trắc trở và sống xa cha mẹ.
 
-**Hợp phúc tinh** (Tả Hữu, Xương Khúc, Thiên Đức, Phúc Đức):
-- Dù Triệt làm **GIẢM SỐ LƯỢNG** con
-- Nhưng con cái đều **HIẾU THUẬN, THÀNH ĐẠT**
-- **BIẾT BÁO HIẾU** cha mẹ
+Khi Triệt hợp với phúc tinh như Tả Hữu, Xương Khúc, Thiên Đức, Phúc Đức,
+dù số lượng con bị giảm song con cái đều hiếu thuận, thành đạt và biết
+báo hiếu cha mẹ.
 
-**Triệt + Kình Đà, Không Kiếp, Linh Hỏa, Hóa Kỵ:**
-- Sinh nở càng **GIAN NAN**
-- Con cái **ÍT ỎI**
-- Dễ **XA CÁCH** hoặc không nhờ cậy được
-- Có thể **CÁCH TRỞ ÂM DƯƠNG**, con sinh ra **YỂU MỆNH**`,
+Ngược lại, khi Triệt đi cùng Kình Đà, Không Kiếp, Linh Hỏa, Hóa Kỵ,
+chuyện sinh nở càng gian nan, con cái ít ỏi, dễ xa cách hoặc không nhờ
+cậy được. Trường hợp xấu nhất là cách trở âm dương, con sinh ra yểu
+mệnh.`,
   },
 
   {
@@ -697,36 +590,26 @@ giàu sang hiển hách.`,
     sao: ['Triệt'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Triệt tại Phu Thê** — duyên tình **TRẮC TRỞ**, hôn nhân tới muộn.
+    tomTat: `Triệt cư Phu Thê khiến duyên tình trắc trở, hôn nhân tới muộn.
 
-**Đặc trưng:**
-- Duyên tình **TRẮC TRỞ**, hôn nhân tới **MUỘN**
-- Sự **THẤT BẠI** của mối tình đầu
-- Dễ lỡ dở tình đầu hoặc trải qua nhiều trắc trở
-- Sau khi kết hôn vợ chồng có **KHOẢNG CÁCH**
-- Hay sinh **KHẮC KHẨU**
-- Ít khi **HÒA HỢP TRỌN VẸN**
+Mối tình đầu của đương số thường thất bại, dễ lỡ dở hoặc trải qua nhiều
+trắc trở. Sau khi kết hôn, vợ chồng vẫn có khoảng cách, hay sinh khắc
+khẩu và ít khi hòa hợp trọn vẹn.
 
-**Tình huống xấu nhất:**
-- Báo hiệu **CÁCH TRỞ ÂM DƯƠNG**
-- Vợ chồng dễ **CHIA LY** hay **GÓA BỤA**
+Tình huống xấu nhất là báo hiệu cách trở âm dương: vợ chồng dễ chia ly
+hay góa bụa.
 
-**Lấy người KHÁC LÀNG, KHÁC TỈNH** mới tốt — nhưng nhân duyên phải gặp
-khó khăn.
+Một cách hóa giải truyền thống là lấy người khác làng, khác tỉnh — song
+nhân duyên ấy cũng phải trải qua khó khăn mới đến được với nhau.
 
-**Triệt + Thiên Mã:**
-- Vợ chồng **BỎ NHAU RẤT DỄ DÀNG**
-- Vợ chồng **ÔM CON BỎ VỀ NHÀ**
+Khi Triệt đi cùng Thiên Mã, vợ chồng bỏ nhau rất dễ dàng, có khi vợ
+chồng ôm con bỏ về nhà mẹ. Triệt cư Phu Thê còn dễ tạo cảnh "tưởng sắp
+cưới rồi lại thôi".
 
-**Triệt cư Phu Thê:** dễ có lần **TƯỞNG SẮP CƯỚI RỒI LẠI THÔI**.
-
-**Triệt + Kình Đà, Linh Hỏa, Hóa Kỵ:**
-- Hôn nhân càng **NHIỀU BIẾN ĐỘNG**
-- **KẾT SỚM DỄ TAN**
-
-**Đồng cung Tả Hữu, Xương Khúc, Thiên Hỷ, Hồng Loan:**
-- Triệt **TIẾT CHẾ ĐIỂM KHẮC**
-- Tình cảm sau **THỬ THÁCH** càng thêm **BỀN CHẶT**`,
+Khi Triệt hội Kình Đà, Linh Hỏa, Hóa Kỵ, hôn nhân càng nhiều biến động,
+kết sớm dễ tan. Ngược lại, khi đồng cung với Tả Hữu, Xương Khúc, Thiên
+Hỷ, Hồng Loan, Triệt tiết chế điểm khắc — tình cảm sau thử thách càng
+thêm bền chặt.`,
   },
 
   {
@@ -735,30 +618,21 @@ khó khăn.
     sao: ['Triệt'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Triệt tại Huynh Đệ** — anh chị em **XUNG KHẮC** hoặc **ÍT ANH CHỊ EM**.
+    tomTat: `Triệt cư Huynh Đệ khiến anh chị em xung khắc hoặc ít anh chị em.
 
-**Đặc trưng:**
-- Anh chị em **XUNG KHẮC** hoặc ít anh chị em
-- Tình cảm anh em **THIẾU GẮN BÓ**
-- Mỗi người **MỘT PHƯƠNG**
-- Bản mệnh ít được **NHỜ CẬY**
-- Tình cảm gia đình **LẠNH NHẠT**, thiếu hòa khí
+Tình cảm anh em thiếu gắn bó, mỗi người một phương; bản mệnh ít được
+nhờ cậy, không khí gia đình lạnh nhạt và thiếu hòa khí.
 
-**Đặc biệt - Triệt + Dương Thỉ:**
-- Dễ có **ANH CẢ, CHỊ CẢ MẤT SỚM**
+Trường hợp đặc biệt: Triệt đi cùng Dương Thỉ dễ khiến anh cả hoặc chị
+cả mất sớm.
 
-**Gặp Kình Đà, Hỏa Linh, Hóa Kỵ:**
-- Sự **CHIA CÁCH** càng rõ
-- Quan hệ anh em **NHẠT DẦN**
-- Thậm chí **HIỀM KHÍCH** kéo dài
+Khi gặp Kình Đà, Hỏa Linh, Hóa Kỵ thì sự chia cách càng rõ — quan hệ
+anh em nhạt dần, thậm chí hiềm khích kéo dài.
 
-**Mặt tích cực của Triệt:**
-- Làm **GIẢM XUNG ĐỘT** gay gắt
-- Hạn chế **TRANH CHẤP LỚN** trong gia tộc
-
-**Hội nhiều cát tinh, phúc tinh:**
-- Anh em tuy giữ **KHOẢNG CÁCH**, ít thân thiết
-- Nhưng vẫn **TÔN TRỌNG VÀ SẴN SÀNG GIÚP** khi cần`,
+Mặt tích cực của Triệt là làm giảm xung đột gay gắt và hạn chế tranh
+chấp lớn trong gia tộc. Khi hội nhiều cát tinh và phúc tinh, anh em
+tuy giữ khoảng cách, ít thân thiết, song vẫn tôn trọng nhau và sẵn
+sàng giúp đỡ khi cần.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -771,17 +645,13 @@ khó khăn.
     sao: ['Triệt'],
     ketHop: ['Tử Vi', 'Thiên Phủ'],
     doUuTien: 60,
-    tomTat: `**Triệt + Tử Vi / Thiên Phủ / Liêm Trinh / Vũ Khúc** — **BỊ MẤT VIỆC,
-GIÁNG CHỨC**.
+    tomTat: `Khi Triệt đi cùng Tử Vi, Thiên Phủ, Liêm Trinh hoặc Vũ Khúc,
+đương số dễ bị mất việc, giáng chức.
 
-**Đặc trưng:**
-- Công danh dễ **MẤT**
-- Chức quyền **KHÓ BỀN**
-- Người giỏi giang nhưng dễ bị **GẠT RA BÊN LỀ**
-- **KHÓ GIỮ CHỨC QUYỀN**
-- Năng lực **KHÔNG ĐƯỢC TRỌNG DỤNG**
-- Dễ **DANG DỞ** trong công việc
-- Hoặc rơi vào cảnh **CÔ ĐỘC**, không có đất dụng võ`,
+Công danh dễ mất, chức quyền khó bền. Đương số là người giỏi giang
+nhưng lại dễ bị gạt ra bên lề, không giữ được chức quyền lâu dài. Năng
+lực không được trọng dụng, công việc dễ dang dở; có khi chủ mệnh rơi
+vào cảnh cô độc, không có đất dụng võ.`,
   },
 
   {
@@ -790,22 +660,15 @@ GIÁNG CHỨC**.
     sao: ['Triệt'],
     ketHop: ['Thái Dương', 'Thái Âm'],
     doUuTien: 60,
-    tomTat: `**Triệt + Thái Dương / Thái Âm (đắc địa)** — **SUY YẾU CÔNG DANH, HAO TỔN
-PHÚC LỘC**.
+    tomTat: `Khi Triệt đi cùng Thái Dương hoặc Thái Âm đắc địa, công danh
+suy yếu, phúc lộc hao tổn.
 
-**Triệt + Thái Dương đắc:**
-- Sự nghiệp **ĐI XUỐNG**
-- Trí tuệ **KÉM SÁNG**
-- Nam giới dễ **SUY THỌ**
+Triệt đi với Thái Dương đắc khiến sự nghiệp đi xuống, trí tuệ kém sáng,
+nam giới dễ suy thọ. Triệt đi với Thái Âm đắc thì mất phú quý, nữ giới
+sinh nở khó khăn và sức khỏe kém.
 
-**Triệt + Thái Âm đắc:**
-- **MẤT PHÚ QUÝ**
-- Nữ giới **SINH NỞ KHÓ KHĂN**
-- Sức khỏe **KÉM**
-
-**Riêng Âm Dương HÃM ĐỊA:**
-- Lại nhờ Tuần Triệt mà **HÓA GIẢI** phần nào
-- Tuần Triệt **TĂNG SÁNG** cho Nhật Nguyệt hãm`,
+Riêng trường hợp Âm Dương ở Hãm địa thì lại nhờ Tuần Triệt mà hóa giải
+được phần nào — Tuần Triệt làm tăng sáng cho Nhật Nguyệt hãm.`,
   },
 
   {
@@ -814,22 +677,14 @@ PHÚC LỘC**.
     sao: ['Triệt'],
     ketHop: ['Thất Sát', 'Phá Quân', 'Tướng Quân'],
     doUuTien: 55,
-    tomTat: `**Triệt + Thất Sát / Phá Quân / Tướng Quân** — **MẤT UY QUYỀN**, nhiều va
-chạm.
+    tomTat: `Khi Triệt đi cùng Thất Sát, Phá Quân hoặc Tướng Quân, đương số
+mất uy quyền và gặp nhiều va chạm.
 
-**Triệt + Thất Sát:**
-- Như **LƯỠI GƯƠM BỊ ĐÁNH GÃY**
-- **MẤT ĐI UY LỰC**
-
-**Triệt + Phá Quân:**
-- **GIẢM TÍNH PHÁ PHÁCH**
-- Hội cùng Triệt sẽ **THẬN TRỌNG HƠN**
-- Nhưng vẫn **LẮM THĂNG TRẦM**
-
-**Triệt + Tướng Quân:**
-- Bị biến đổi thành **TÍNH NÓNG NẢY**
-- Dễ gây **XUNG ĐỘT**
-- Vướng **HỌA BẤT NGỜ**, nhất là nơi công cộng`,
+- Triệt đi với Thất Sát: như lưỡi gươm bị đánh gãy, mất đi uy lực
+- Triệt đi với Phá Quân: tính phá phách giảm, hội cùng Triệt thì thận
+  trọng hơn, song vẫn lắm thăng trầm
+- Triệt đi với Tướng Quân: bị biến đổi thành tính nóng nảy, dễ gây xung
+  đột, vướng họa bất ngờ — nhất là nơi công cộng`,
   },
 
   {
@@ -838,23 +693,18 @@ chạm.
     sao: ['Triệt'],
     ketHop: ['Cự Môn', 'Thiên Cơ', 'Tham Lang'],
     doUuTien: 55,
-    tomTat: `**Triệt + Cự Môn / Thiên Cơ / Tham Lang** — **BỚT THỊ PHI**, chuyển hóa thành
-trí tuệ.
+    tomTat: `Khi Triệt đi cùng Cự Môn, Thiên Cơ hoặc Tham Lang, đương số bớt
+thị phi và chuyển hóa cái lực ấy thành trí tuệ.
 
-**Triệt + Cự Môn:**
-- **BỚT TÍNH KHẨU NGHIỆP**
-- Dễ **THÀNH CÔNG TRONG NGHIÊN CỨU**
+- Triệt đi với Cự Môn: bớt tính khẩu nghiệp, dễ thành công trong nghiên
+  cứu
+- Triệt đi với Thiên Cơ: Thiên Cơ vốn hoạt bát hay lỡ miệng, gặp Triệt
+  trở nên thận trọng, sâu sắc
+- Triệt đi với Tham Lang: giảm đào hoa và hưởng lạc, đương số tập trung
+  trí tuệ và sự khéo léo, dễ đạt thành tựu nhờ biết kiềm chế bản thân
 
-**Triệt + Thiên Cơ:**
-- Thiên Cơ chủ **HOẠT BÁT, HAY LỠ MIỆNG**
-- Gặp Triệt: **THẬN TRỌNG, SÂU SẮC**
-
-**Triệt + Tham Lang:**
-- **GIẢM ĐÀO HOA, HƯỞNG LẠC**
-- Tập trung **TRÍ TUỆ, KHÉO LÉO**
-- Dễ đạt thành tựu nhờ biết **KIỀM CHẾ BẢN THÂN**
-
-**Lưu ý:** Tham + Triệt có thể **GIẢM THỌ** (xem bộ Tham giảm thọ).`,
+Lưu ý: Tham Lang đi với Triệt còn có thể giảm thọ — tham khảo thêm bộ
+"Tham Lang giảm thọ".`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -866,30 +716,31 @@ trí tuệ.
     title: 'Hóa giải Tuần Triệt - Tích phúc, kiên nhẫn, nắm thời cơ',
     sao: ['Tuần', 'Triệt'],
     doUuTien: 40,
-    tomTat: `**Hóa giải Tuần Triệt** — không phải xóa bỏ, mà là **CHUYỂN HÓA**.
+    tomTat: `Hóa giải Tuần Triệt không phải là xóa bỏ, mà là chuyển hóa.
 
-**Tinh thần chung:**
-- Biến **CẢN TRỞ** thành **RÈN LUYỆN**
-- Biến **CHẬM TRỄ** thành **TÍCH LŨY**
-- Đạt **THÀNH TỰU BỀN VỮNG** hơn
+Tinh thần chung: biến cản trở thành rèn luyện, biến chậm trễ thành tích
+lũy, từ đó đạt được thành tựu bền vững hơn.
 
-**Tích phúc, giải nghiệp:**
-- Tuần Triệt chủ **HAO HỤT**: muốn bù đắp phải **TÍCH CỰC GIEO PHÚC**
-- **HÀNH THIỆN TÍCH ĐỨC**
-- **HIẾU KÍNH CHA MẸ**, hòa thuận họ hàng
-- Tu dưỡng tâm linh: **NIỆM PHẬT, THIỀN, ĐỌC SÁCH ĐẠO LÝ**
-- Khi gặp hạn nặng: **LỄ CẦU AN, ĐI CHÙA CHIỀN**
+Về tích phúc, giải nghiệp:
 
-**Lối sống, cách hành xử:**
-- **KIÊN NHẪN**, biết "**CHẬM MÀ CHẮC**", tránh nóng vội
-- **CẨN TRỌNG NGÔN TỪ** để tránh thị phi (Cự Môn, Tham Lang)
-- **GIỮ GÌN SỨC KHỎE** nếu Triệt đóng Tật, Tài, Phúc
-- Phu Thê / Huynh Đệ / Phụ Mẫu: **NHƯỜNG NHỊN, GIỮ HÒA KHÍ**
+- Tuần Triệt chủ về hao hụt, vì vậy muốn bù đắp đương số phải tích cực
+  gieo phúc, hành thiện tích đức
+- Hiếu kính cha mẹ, hòa thuận họ hàng
+- Tu dưỡng tâm linh qua niệm Phật, thiền và đọc sách đạo lý
+- Khi gặp hạn nặng nên lễ cầu an, đi chùa chiền
 
-**Thời điểm nắm bắt cơ hội:**
-- Tuần Triệt **KHÔNG CHẶN ĐỨNG MÃI MÃI** mà chỉ ngăn trở **MỘT GIAI ĐOẠN**
-- Khi vận tốt và cát tinh chiếu: **MẠNH DẠN NẮM BẮT**
-- Như **CÁNH CỬA ĐÓNG NHƯNG KHÔNG KHÓA**
-- Chỉ cần **BIẾT CHỜ ĐỢI, GÕ ĐÚNG THỜI ĐIỂM** thì cửa sẽ mở`,
+Về lối sống và cách hành xử:
+
+- Kiên nhẫn, biết "chậm mà chắc", tránh nóng vội
+- Cẩn trọng ngôn từ để tránh thị phi (đặc biệt khi đi với Cự Môn,
+  Tham Lang)
+- Giữ gìn sức khỏe nếu Triệt đóng tại Tật, Tài hoặc Phúc
+- Trong các cung Phu Thê, Huynh Đệ, Phụ Mẫu thì nhường nhịn, giữ hòa
+  khí
+
+Về thời điểm nắm bắt cơ hội: Tuần Triệt không chặn đứng mãi mãi, chỉ
+ngăn trở một giai đoạn. Khi vận tốt và cát tinh chiếu, đương số nên
+mạnh dạn nắm bắt. Tuần Triệt giống như cánh cửa đóng nhưng không khóa —
+chỉ cần biết chờ đợi và gõ đúng thời điểm thì cửa sẽ mở.`,
   },
 ];

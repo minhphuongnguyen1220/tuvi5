@@ -42,26 +42,20 @@ export const luanGiai_ThaiPhu: DoanLuanGiai[] = [
     title: 'Thai Phụ - Phong Cáo - Cặp Bằng Sắc Quý Hiển',
     sao: ['Thai Phụ', 'Phong Cáo'],
     doUuTien: 35,
-    tomTat: `**Thai Phụ - Phong Cáo** — cặp **QUÝ TINH + VĂN TINH** chuyên về **BẰNG SẮC,
-ẤN TÍN, QUÝ HIỂN**.
+    tomTat: `**Thai Phụ** (Kim) cùng **Phong Cáo** (Thổ) là cặp Quý Tinh kết
+hợp Văn Tinh, chuyên về bằng sắc, ấn tín và quý hiển. Hai sao là phụ tinh bổ
+trợ về công danh, học hành — chủ về bằng cấp, khen thưởng, huân huy chương,
+mang ý nghĩa thành quả của một quá trình rèn luyện và phấn đấu.
 
-**Thai Phụ:** Kim. **Phong Cáo:** Thổ.
+Về quan hệ với Văn Tinh, hai sao là phụ tinh bổ trợ Văn Xương. Khi không có
+**Văn Khúc** trong tam hợp, Thai Phụ - Phong Cáo phò trợ thay; bản thân Văn
+Khúc không bao giờ có Thai Phụ - Phong Cáo hội chiếu hoặc đồng cung.
 
-**Đặc tính chung:**
-- **BẰNG SẮC, ẤN TÍN, QUÝ HIỂN**
-- Bổ trợ về **CÔNG DANH, HỌC HÀNH**
-- Chủ về **BẰNG CẤP, KHEN THƯỞNG, HUÂN HUY CHƯƠNG**
-- Mang ý nghĩa **THÀNH QUẢ** của quá trình **RÈN LUYỆN, PHẤN ĐẤU**
+Phân biệt giữa hai sao:
 
-**Quan hệ với Văn Tinh:**
-- Hai sao là **PHỤ TINH BỔ TRỢ** Văn Xương
-- Khi không có Văn Khúc trong tam hợp: Thai Phụ - Phong Cáo **PHÒ TRỢ THAY**
-- Văn Khúc **KHÔNG BAO GIỜ** có Thai Phụ - Phong Cáo hội chiếu / đồng cung
-
-**Phân biệt:**
-- **THAI PHỤ** = giấy khen, bằng cấp **TINH THẦN** (điềm đạm, khiêm tốn)
-- **PHONG CÁO** = thăng chức, **QUYỀN LỰC** (kiêu hãnh, phô trương) — giống
-  Hóa Quyền nhẹ`,
+- Thai Phụ là giấy khen, bằng cấp tinh thần — điềm đạm, khiêm tốn.
+- Phong Cáo là thăng chức, quyền lực — kiêu hãnh, phô trương; tựa như Hóa
+  Quyền nhẹ.`,
   },
 
   {
@@ -69,22 +63,15 @@ export const luanGiai_ThaiPhu: DoanLuanGiai[] = [
     title: 'Quy luật vị trí Thai Phụ - Phong Cáo (luôn tam hợp)',
     sao: ['Thai Phụ', 'Phong Cáo'],
     doUuTien: 32,
-    tomTat: `**Quy luật an sao Thai Phụ - Phong Cáo:**
+    tomTat: `Quy luật an sao của cặp Thai Phụ - Phong Cáo: hai sao luôn nằm
+trong tam hợp của nhau, kẹp **Văn Khúc** ở giữa, mỗi sao cách một cung và
+cùng vị trí đồng âm, đồng dương.
 
-**Thai Phụ + Phong Cáo LUÔN nằm TRONG TAM HỢP** của nhau:
-- Kẹp **VĂN KHÚC** ở giữa, mỗi sao **CÁCH 1 CUNG**
-- Cùng vị trí **ĐỒNG ÂM, ĐỒNG DƯƠNG**
-
-**Lý do (cụ Thiên Lương):**
-- **VĂN XƯƠNG** được người sáng lập tử vi **ƯU TIÊN HƠN**
-- Ở **VỊ THẾ CAO HƠN** Văn Khúc
-- Khi không có **VĂN KHÚC PHÒ TÁ** trong tam hợp: Thai Phụ - Phong Cáo
-  **PHÒ TRỢ THAY** (luôn nằm trong tam hợp với Văn Xương)
-
-**Hệ quả:**
-- Văn Khúc **KHÔNG BAO GIỜ** có Thai Phụ - Phong Cáo hội chiếu hoặc đồng
-  cung
-- Chỉ **VĂN XƯƠNG** được hưởng vinh dự này`,
+Theo cụ Thiên Lương, **Văn Xương** được người sáng lập tử vi ưu tiên hơn, ở
+vị thế cao hơn Văn Khúc. Khi không có Văn Khúc phò tá trong tam hợp thì Thai
+Phụ - Phong Cáo phò trợ thay (luôn nằm trong tam hợp với Văn Xương). Hệ quả
+là Văn Khúc không bao giờ có Thai Phụ - Phong Cáo hội chiếu hoặc đồng cung;
+chỉ Văn Xương mới được hưởng vinh dự này.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -97,14 +84,11 @@ export const luanGiai_ThaiPhu: DoanLuanGiai[] = [
     sao: ['Thai Phụ', 'Phong Cáo'],
     ketHop: ['Quốc Ấn'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ + Phong Cáo + Quốc Ấn** — kết quả **RẤT ĐẸP**.
+    tomTat: `Khi Thai Phụ, Phong Cáo gặp Quốc Ấn, kết quả rất đẹp. Khi đủ bộ
+Tứ Vinh (Thai Phụ, Phong Cáo, Ân Quang, Quốc Ấn), đương số sớm có công danh —
+trai hiển đạt, nữ lấy chồng làm lớn.
 
-**Bộ Tứ Vinh** (Thai Phụ + Phong Cáo + Quang Quý + Quốc Ấn):
-- Sớm có **CÔNG DANH**
-- Trai **HIỂN ĐẠT**
-- Nữ **LẤY CHỒNG LÀM LỚN**
-
-(Xem entries chuyên biệt cho từng cung Mệnh / Quan Lộc / Điền Trạch.)`,
+Xem các luận giải chuyên biệt cho từng cung Mệnh, Quan Lộc, Điền Trạch.`,
   },
 
   {
@@ -114,11 +98,9 @@ export const luanGiai_ThaiPhu: DoanLuanGiai[] = [
     cung: ['Mệnh', 'Quan Lộc'],
     ketHop: ['Quốc Ấn'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ + Phong Cáo + Quốc Ấn tại Mệnh hoặc Quan Lộc:**
-
-- **NHIỀU QUÝ HIỂN, ĐƯỢC TRỌNG DỤNG**
-- Là người **MANG ẤN**
-- Có **QUYỀN CAO CHỨC TRỌNG VÀ PHÚ QUÝ**`,
+    tomTat: `Khi Thai Phụ, Phong Cáo gặp Quốc Ấn tại Mệnh hoặc Quan Lộc, đương
+số nhiều quý hiển và được trọng dụng. Đây là cách "mang ấn", có quyền cao
+chức trọng và phú quý.`,
   },
 
   {
@@ -128,10 +110,8 @@ export const luanGiai_ThaiPhu: DoanLuanGiai[] = [
     cung: ['Điền Trạch'],
     ketHop: ['Quốc Ấn'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ + Phong Cáo + Quốc Ấn tại Điền Trạch:**
-
-- Có **NHIỀU ĐIỀN SẢN**
-- Được ban cấp ruộng đất, nhà cao cửa rộng`,
+    tomTat: `Khi Thai Phụ, Phong Cáo gặp Quốc Ấn tại Điền Trạch, đương số có
+nhiều điền sản, được ban cấp ruộng đất, nhà cao cửa rộng.`,
   },
 
   {
@@ -141,14 +121,9 @@ export const luanGiai_ThaiPhu: DoanLuanGiai[] = [
     cung: ['Mệnh'],
     ketHop: ['Quốc Ấn', 'Thiên Khôi', 'Văn Xương'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo ở Mệnh + Quốc Ấn + Thiên Khôi + Văn Xương hội họp**
-— **THI CỬ DỄ ĐẦU BẢNG**.
-
-**Đặc trưng:**
-- Thi cử dễ **ĐỖ ĐẦU BẢNG**
-- **KHOA BẢNG HIỂN ĐẠT**
-- Văn võ song toàn
-- Là cách quý nhất cho người đi thi cử, cầu danh`,
+    tomTat: `Khi Thai Phụ - Phong Cáo ở Mệnh hội cùng Quốc Ấn, Thiên Khôi và
+**Văn Xương**, đương số thi cử dễ đỗ đầu bảng. Khoa bảng hiển đạt, văn võ
+song toàn — đây là cách quý nhất cho người đi thi cử, cầu danh.`,
   },
 
   {
@@ -157,15 +132,10 @@ export const luanGiai_ThaiPhu: DoanLuanGiai[] = [
     sao: ['Thai Phụ', 'Phong Cáo'],
     ketHop: ['Văn Xương', 'Hóa Khoa', 'Hóa Quyền'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ + Phong Cáo + Văn Xương + Hóa Khoa + Hóa Quyền** — **VINH HIỂN
-TỘT ĐỈNH**.
-
-**Đặc trưng:**
-- Đỗ đạt cao nhất
-- Sự nghiệp **VINH HIỂN TỘT ĐỈNH**
-- Quyền cao chức trọng
-- Học vấn thâm sâu
-- Cộng hưởng cát tinh khoa bảng + quyền uy + bằng sắc`,
+    tomTat: `Khi Thai Phụ, Phong Cáo gặp **Văn Xương**, **Hóa Khoa** cùng
+**Hóa Quyền**, sự nghiệp đương số vinh hiển tột đỉnh — đỗ đạt cao nhất, quyền
+cao chức trọng, học vấn thâm sâu. Đây là cách cộng hưởng cát tinh khoa bảng
+với quyền uy và bằng sắc.`,
   },
 
   {
@@ -174,13 +144,9 @@ TỘT ĐỈNH**.
     sao: ['Thai Phụ', 'Phong Cáo'],
     ketHop: ['Thái Dương', 'Thái Âm'],
     doUuTien: 65,
-    tomTat: `**Thai Phụ + Phong Cáo + Thái Dương + Thái Âm** — **QUÝ CÁCH**.
-
-**Đặc trưng:**
-- Nhật Nguyệt sáng + Thai Phụ Phong Cáo = **QUÝ CÁCH**
-- Danh tiếng vang xa
-- Bằng cấp + ánh sáng tỏa rộng
-- Hợp người làm văn hóa, giáo dục, truyền thông cao cấp`,
+    tomTat: `Khi Thai Phụ, Phong Cáo hội cùng Thái Dương và Thái Âm sáng,
+hình thành quý cách: danh tiếng vang xa, bằng cấp đi cùng ánh sáng tỏa rộng.
+Đây là cách hợp với người làm văn hóa, giáo dục, truyền thông cao cấp.`,
   },
 
   {
@@ -189,12 +155,9 @@ TỘT ĐỈNH**.
     sao: ['Thai Phụ', 'Phong Cáo'],
     ketHop: ['Lộc Tồn', 'Quốc Ấn', 'Ân Quang'],
     doUuTien: 60,
-    tomTat: `**Thai Phụ + Phong Cáo + Lộc Tồn + Quốc Ấn + Quang Quý** — càng **TỐT ĐẸP**.
-
-**Đặc trưng:**
-- Tài lộc + quyền uy + bằng sắc + phúc tinh hội tụ
-- Đi với **Âm Dương** hay **Quan Phúc** cũng tốt
-- Cách cục **CỰC ĐẸP** cho mệnh quý`,
+    tomTat: `Khi Thai Phụ, Phong Cáo gặp Lộc Tồn, Quốc Ấn cùng Ân Quang, càng
+tốt đẹp — tài lộc, quyền uy, bằng sắc và phúc tinh hội tụ. Đi với Âm Dương
+hay Quan Phúc cũng tốt; là cách cục cực đẹp cho mệnh quý.`,
   },
 
   {
@@ -205,15 +168,10 @@ TỘT ĐỈNH**.
     chi: ['Thìn', 'Tuất', 'Sửu', 'Mùi'],
     ketHop: ['Mộ', 'Thai', 'Bát Tọa'],
     doUuTien: 65,
-    tomTat: `**Thai Phụ + Phong Cáo + Mộ + Thai + Bát Tọa tại Tứ Mộ Phúc Đức** — chủ
-**MỒ MẢ TỐT ĐẸP**, đắc lợi cho con cháu về sau.
-
-**Đặc trưng:**
-- Mồ mả tổ tiên **TỐT ĐẸP**
-- Phần âm yên ổn, phần dương đắc lợi
-- Con cháu **HƯỞNG PHÚC TRẠCH LÂU DÀI**
-- Dòng tộc nhiều người **CÔNG THÀNH DANH TOẠI**
-- Duy trì nếp sống **HIẾU HỌC**`,
+    tomTat: `Khi Thai Phụ, Phong Cáo gặp Mộ, Thai cùng Bát Tọa tại Phúc Đức ở
+Tứ Mộ, mồ mả tổ tiên đương số tốt đẹp, đắc lợi cho con cháu về sau. Phần âm
+yên ổn, phần dương đắc lợi; con cháu hưởng phúc trạch lâu dài. Dòng tộc nhiều
+người công thành danh toại, duy trì nếp sống hiếu học.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -226,22 +184,15 @@ TỘT ĐỈNH**.
     sao: ['Thai Phụ', 'Phong Cáo'],
     ketHop: ['Hỏa Tinh', 'Linh Tinh', 'Hóa Kỵ'],
     doUuTien: 55,
-    tomTat: `**Thai Phụ + Phong Cáo + Hỏa Tinh / Linh Tinh / Hóa Kỵ** — **TRẮC TRỞ
-CÔNG DANH SỰ NGHIỆP**.
+    tomTat: `Khi Thai Phụ, Phong Cáo gặp Hỏa Tinh, Linh Tinh hoặc **Hóa Kỵ**,
+công danh sự nghiệp đương số trắc trở. Học hành thi cử lận đận, công danh
+"lên thác xuống ghềnh"; dẫu tài giỏi vẫn khó tránh bước trắc trở. Khi gặp sát
+tinh, đương số dễ bị mang tiếng oan, gánh tai tiếng — danh thơm chưa kịp
+hưởng đã gặp điều tiếng bủa vây, rủi ro rình rập trong cuộc sống.
 
-**Đặc trưng:**
-- Học hành thi cử **LẬN ĐẬN**
-- Công danh "**LÊN THÁC XUỐNG GHỀNH**"
-- Dẫu **TÀI GIỎI** vẫn khó tránh **BƯỚC TRẮC TRỞ**
-- Gặp sát tinh dễ bị **MANG TIẾNG OAN, GÁNH TAI TIẾNG**
-- Danh thơm chưa kịp hưởng đã gặp **ĐIỀU TIẾNG BỦA VÂY**
-- **RỦI RO RÌNH RẬP** trong cuộc sống
-
-**Hóa giải:**
-- "**CÂY NGAY KHÔNG SỢ CHẾT ĐỨNG**" — bản chất Thai Phụ vốn THIỆN LÀNH
-- Không cần hóa giải cầu kỳ
-- Ăn ở **ĐỨC ĐỘ, BAO DUNG, KHIÊM TỐN**
-- Tích lũy phúc đức: biến **HUNG THÀNH CÁT**`,
+Về cách hóa giải, vốn bản chất Thai Phụ thiện lành — "cây ngay không sợ chết
+đứng" — nên không cần hóa giải cầu kỳ. Đương số cứ ăn ở đức độ, bao dung,
+khiêm tốn, tích lũy phúc đức là sẽ biến hung thành cát.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -254,26 +205,16 @@ CÔNG DANH SỰ NGHIỆP**.
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Thai Phụ - Phong Cáo thủ Mệnh** — **DANH CHỨC, HỌC HÀNH TỐT**.
+    tomTat: `Khi Thai Phụ - Phong Cáo thủ Mệnh, đương số là người có danh
+chức, học hành tốt và đỗ đạt cao. Đường công danh thăng tiến; có bằng cấp,
+huy chương, bằng khen — đặc biệt lợi cho việc thi cử và cầu danh.
 
-**Đặc trưng:**
-- Là người có **DANH CHỨC**
-- Học hành **TỐT**, có sự **ĐỖ ĐẠT CAO**
-- **THĂNG TIẾN** về công danh
-- Có **BẰNG CẤP, HUY CHƯƠNG, BẰNG KHEN**
-- Lợi ích cho việc **THI CỬ, CẦU DANH**
+Về tính nết khi Thai Phụ thủ Mệnh, đương số biết điều phải phép, nói năng mềm
+mỏng, dễ được lòng người trên kẻ dưới.
 
-**Tính nết** (Thai Phụ thủ Mệnh):
-- **BIẾT ĐIỀU PHẢI PHÉP**
-- Nói năng **MỀM MỎNG**
-- Dễ được lòng **NGƯỜI TRÊN, KẺ DƯỚI**
-
-**Phúc thọ:**
-- Thích **GIÚP ĐỜI GIÚP NGƯỜI**
-- Bản tính **NHÂN HẬU**
-- Đi đâu cũng được **QUÝ MẾN, KÍNH TRỌNG**
-- Hưởng **TUỔI THỌ DÀI LÂU**
-- Sống **AN YÊN** trong sự nể trọng của người đời`,
+Về phúc thọ, đương số thích giúp đời giúp người, bản tính nhân hậu, đi đâu
+cũng được quý mến và kính trọng. Đương số hưởng tuổi thọ dài lâu, sống an yên
+trong sự nể trọng của người đời.`,
   },
 
   {
@@ -282,22 +223,18 @@ CÔNG DANH SỰ NGHIỆP**.
     sao: ['Thai Phụ'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Thai Phụ thủ Mệnh** — đặc tính **RIÊNG** của Thai Phụ (khác Phong Cáo).
+    tomTat: `Đây là đặc tính riêng của Thai Phụ thủ Mệnh, khác với Phong Cáo.
 
-**Tính nết:**
-- Là người **KHOAN DUNG, HÒA NHÃ** với mọi người
-- Người **NHIỀU BẰNG CẤP, BẰNG KHEN**
-- Người hay có những **HÀNH ĐỘNG Ý NGHĨA** nên được khen thưởng, trao bằng
+Về tính nết, đương số là người khoan dung, hòa nhã với mọi người. Đương số
+nhiều bằng cấp, bằng khen, hay có những hành động ý nghĩa nên được khen
+thưởng và trao bằng.
 
-**Quy luật cặp đôi:**
-- **THAI PHỤ ở Mệnh: PHONG CÁO ở Tài**
-- Người hay được **KHEN THƯỞNG, TRAO TẶNG TIỀN**
-- Có thể **DÙNG BẰNG CẤP, HỌC VỊ ĐỂ KIẾM TIỀN**
+Về quy luật cặp đôi: khi Thai Phụ ở Mệnh thì Phong Cáo sẽ ở Tài. Đương số hay
+được khen thưởng, trao tặng tiền; có thể dùng bằng cấp, học vị để kiếm tiền.
 
-**So với Phong Cáo:**
-- Thai Phụ chỉ về **GIẤY KHEN, BẰNG SẮC ĐƠN THUẦN**
-- Mang giá trị **TINH THẦN** hơn vật chất
-- Toát lên **ĐIỀM ĐẠM, NHẸ NHÀNG, CAO THƯỢNG, KHIÊM TỐN**`,
+So với Phong Cáo, Thai Phụ chỉ về giấy khen, bằng sắc đơn thuần — mang giá
+trị tinh thần hơn vật chất, toát lên vẻ điềm đạm, nhẹ nhàng, cao thượng và
+khiêm tốn.`,
   },
 
   {
@@ -306,21 +243,14 @@ CÔNG DANH SỰ NGHIỆP**.
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo tại Phụ Mẫu** — cha mẹ **CÓ CHỨC VỊ, HỌC THỨC, BẰNG
-CẤP CAO**.
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Phụ Mẫu, cha mẹ đương số có chức vị,
+học thức, bằng cấp cao. Cha mẹ học thức uyên thâm, nhiều bằng cấp và giữ chức
+vị trong xã hội; hay được khen thưởng, vinh danh, thăng cấp, có nhiều bằng
+sắc và giấy công nhận.
 
-**Đặc trưng:**
-- Cha mẹ có **HỌC THỨC UYÊN THÂM**
-- Nhiều **BẰNG CẤP, GIỮ CHỨC VỊ** trong xã hội
-- Cha mẹ hay được **KHEN THƯỞNG, VINH DANH, THĂNG CẤP**
-- Người có **NHIỀU BẰNG SẮC, GIẤY CÔNG NHẬN**
-
-**Truyền thống dòng họ:**
-- Con cháu sinh ra **THỪA HƯỞNG TRUYỀN THỐNG HIẾU HỌC**
-- **NGHIÊM CẨN**, lấy **CON CHỮ LÀM ĐẦU**
-- Con cháu sau này **NHIỀU BẰNG CẤP, HỌC VỊ CAO**
-- Học hành chăm chỉ, thi cử đỗ đạt
-- Nối nghiệp làm **RẠNG DANH DÒNG HỌ**`,
+Về truyền thống dòng họ, con cháu sinh ra thừa hưởng truyền thống hiếu học,
+nghiêm cẩn, lấy con chữ làm đầu. Con cháu sau này nhiều bằng cấp, học vị cao;
+học hành chăm chỉ, thi cử đỗ đạt và nối nghiệp làm rạng danh dòng họ.`,
   },
 
   {
@@ -329,19 +259,14 @@ CẤP CAO**.
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo tại Phúc Đức** — ông bà tổ tiên **DANH CHỨC ĐỊA VỊ,
-ĐẠI THỌ, VINH HIỂN**.
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Phúc Đức, ông bà tổ tiên đương số có
+danh chức, địa vị, đại thọ và vinh hiển. Đương số sinh ra trong dòng họ nhiều
+người thành đạt, có truyền thống học tốt và nhiều người danh giá. Ông bà tổ
+tiên khi xưa mất dễ được phong danh, để lại tước vị truyền tới con cháu đời
+sau.
 
-**Đặc trưng:**
-- Ông bà tổ tiên có **DANH CHỨC ĐỊA VỊ, ĐẠI THỌ, VINH HIỂN**
-- Sinh ra trong dòng họ nhiều người **THÀNH ĐẠT, THÀNH DANH**
-- Có **TRUYỀN THỐNG HỌC TỐT**
-- Dòng tộc nhiều người **DANH GIÁ**
-- Ông bà tổ tiên khi xưa mất dễ được **PHONG DANH**
-- Để lại **TƯỚC VỊ TRUYỀN LẠI** tới con cháu đời sau
-
-**Cát cách đặc biệt:** + Mộ + Thai + Bát Tọa tại Tứ Mộ: mồ mả tốt đẹp,
-con cháu hưởng phúc trạch lâu dài.`,
+Cát cách đặc biệt: khi gặp thêm Mộ, Thai và Bát Tọa tại Tứ Mộ, mồ mả tốt
+đẹp, con cháu hưởng phúc trạch lâu dài.`,
   },
 
   {
@@ -350,15 +275,10 @@ con cháu hưởng phúc trạch lâu dài.`,
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo tại Điền Trạch** — có **ĐIỀN SẢN, BAN CẤP, TIỀN NHÂN
-ĐỂ LẠI**.
-
-**Đặc trưng:**
-- Có **ĐIỀN SẢN**
-- Người hay được **BAN CẤP, TẶNG ĐIỀN SẢN**
-- Hay có **CỦA CẢI CỦA TIỀN NHÂN ĐỂ LẠI**
-- Nhà treo nhiều **GIẤY KHEN, BẰNG KHEN, GIẢI THƯỞNG**
-- "**NGỒI MÁT ĂN BÁT VÀNG**"`,
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Điền Trạch, đương số có điền sản,
+hay được ban cấp, tặng điền sản; hay có của cải của tiền nhân để lại. Nhà
+treo nhiều giấy khen, bằng khen, giải thưởng — như cách "ngồi mát ăn bát
+vàng".`,
   },
 
   {
@@ -368,8 +288,8 @@ con cháu hưởng phúc trạch lâu dài.`,
     cung: ['Điền Trạch'],
     ketHop: ['Quốc Ấn'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ - Phong Cáo + Quốc Ấn tại Điền Trạch:** ban cấp điền
-sản ăn lộc, khẩn hoang. Nhà cửa, đất đai **ĐẤU THẦU ĐƯỢC**.`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Quốc Ấn tại Điền Trạch, đương số
+được ban cấp điền sản ăn lộc, khẩn hoang. Nhà cửa, đất đai đấu thầu được.`,
   },
 
   {
@@ -379,9 +299,9 @@ sản ăn lộc, khẩn hoang. Nhà cửa, đất đai **ĐẤU THẦU ĐƯỢC*
     cung: ['Điền Trạch'],
     ketHop: ['Quốc Ấn', 'Tử Vi', 'Thiên Phủ'],
     doUuTien: 72,
-    tomTat: `**Thai Phụ - Phong Cáo + Quốc Ấn + Tử Vi + Thiên Phủ tại Điền
-Trạch:** giàu có về điền sản, **NHÀ CAO CỬA RỘNG**. Người hay **BUÔN ĐẤT BUÔN
-CÁT** được.`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Quốc Ấn, Tử Vi, Thiên Phủ tại Điền
+Trạch, đương số giàu có về điền sản, nhà cao cửa rộng và hay buôn đất buôn
+cát được.`,
   },
 
   {
@@ -391,8 +311,8 @@ CÁT** được.`,
     cung: ['Điền Trạch'],
     ketHop: ['Phượng Các'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ - Phong Cáo + Phượng Các tại Điền Trạch:** nhà cao
-cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp.`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Phượng Các tại Điền Trạch, nhà cửa
+đương số cao rộng, đẹp đẽ khang trang, treo nhiều bằng cấp.`,
   },
 
   {
@@ -402,9 +322,9 @@ cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp.`,
     cung: ['Điền Trạch'],
     ketHop: ['Long Trì', 'Phượng Các'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ - Phong Cáo + Long Trì + Phượng Các tại Điền Trạch:**
-- Cuộc sống **AN CƯ LẠC NGHIỆP** từ sớm
-- Khu xóm xung quanh hầu hết là **NGƯỜI TRÍ THỨC, GIÀU CÓ**, an ninh yên ổn`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Long Trì cùng Phượng Các tại Điền
+Trạch, đương số an cư lạc nghiệp từ sớm. Khu xóm xung quanh hầu hết là người
+trí thức, giàu có, an ninh yên ổn.`,
   },
 
   {
@@ -413,21 +333,17 @@ cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp.`,
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Quan Lộc'],
     doUuTien: 80,
-    tomTat: `**Thai Phụ - Phong Cáo tại Quan Lộc** — **QUÝ HIỂN, ĐƯỢC TRỌNG DỤNG**.
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Quan Lộc, đương số rất quý hiển và
+được trọng dụng, có huy chương, tưởng lục. Công danh hiển đạt, gặp nhiều may
+mắn; đương số học lên cao, nhiều bằng cấp và sử dụng được vào công việc một
+cách hiệu quả — như cách "cá gặp nước". Khi ra đời, đương số được cấp trên
+trọng dụng và gặt hái nhiều thành tích.
 
-**Đặc trưng:**
-- Người **RẤT QUÝ HIỂN, ĐƯỢC TRỌNG DỤNG**
-- Có **HUY CHƯƠNG, TƯỞNG LỤC**
-- Công danh **HIỂN ĐẠT**, gặp nhiều may mắn
-- Người **HỌC LÊN CAO, NHIỀU BẰNG CẤP** sử dụng được
-- Hỗ trợ **HIỆU QUẢ** công việc
-- Như "**CÁ GẶP NƯỚC**"
-- Ra đời được **CẤP TRÊN TRỌNG DỤNG**, gặt hái nhiều **THÀNH TÍCH**
+Phân biệt vai trò hai sao tại Quan:
 
-**Phân biệt 2 sao tại Quan:**
-- **Thai Phụ:** chủ về **HUÂN HUY CHƯƠNG, KHEN THƯỞNG, BẰNG KHEN**
-- **Phong Cáo:** chủ về **THĂNG CẤP, THĂNG QUAN TIẾN CHỨC** + thích quyền
-  uy ra oai sử dụng chức vụ`,
+- Thai Phụ chủ về huân huy chương, khen thưởng, bằng khen.
+- Phong Cáo chủ về thăng cấp, thăng quan tiến chức — kèm tính thích quyền uy
+  ra oai, sử dụng chức vụ.`,
   },
 
   {
@@ -437,9 +353,8 @@ cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp.`,
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Tướng', 'Quốc Ấn'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo + Thiên Tướng + Quốc Ấn tại Quan Lộc:**
-- **RẤT QUÝ HIỂN, ĐƯỢC TRỌNG DỤNG**
-- Có **HUY CHƯƠNG, TƯỞNG LỤC**`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Thiên Tướng cùng Quốc Ấn tại Quan
+Lộc, đương số rất quý hiển, được trọng dụng và có huy chương, tưởng lục.`,
   },
 
   {
@@ -449,10 +364,9 @@ cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp.`,
     cung: ['Quan Lộc'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo + Hóa Kỵ tại Quan Lộc:**
-- Đường công danh **TRẮC TRỞ**
-- Phải qua **NHIỀU LẦN THI TRƯỢT** mới đỗ đạt
-- Hoặc danh hiệu **NHIỀU LẦN CỐ GẮNG** mới có`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp **Hóa Kỵ** tại Quan Lộc, đường công
+danh trắc trở: đương số phải qua nhiều lần thi trượt mới đỗ đạt, hoặc danh
+hiệu nhiều lần cố gắng mới có.`,
   },
 
   {
@@ -461,20 +375,16 @@ cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp.`,
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo tại Nô Bộc** — bạn bè **HỌC THỨC, QUÝ HIỂN**.
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Nô Bộc, đương số có nhiều bạn bè
+giúp đỡ — bạn bè là người học thức, nhiều bằng cấp, quý hiển; nhiều người có
+chức tước trong xã hội. Đương số được vây quanh bởi bạn bè hiền lương, học
+cao hiểu rộng, sống có nghĩa tình.
 
-**Đặc trưng:**
-- Có **NHIỀU BẠN BÈ GIÚP ĐỠ**
-- Bạn bè là người **HỌC THỨC, NHIỀU BẰNG CẤP, QUÝ HIỂN**
-- Nhiều người **CÓ CHỨC TƯỚC** trong xã hội
-- Vây quanh bởi bạn bè **HIỀN LƯƠNG, HỌC CAO HIỂU RỘNG**, sống có nghĩa tình
+Khi Phong Cáo gặp Thiên Quan hoặc Thiên Phúc, đương số có quý nhân giúp đỡ
+làm nên.
 
-**Phong Cáo + Thiên Quan / Thiên Phúc:**
-- Có **QUÝ NHÂN GIÚP ĐỠ LÀM NÊN**
-
-**Gặp Sát Hình Kỵ + Linh Tinh + Kình Dương + Địa Kiếp:**
-- Bạn bè **CHỐI BỎ TRÁCH NHIỆM**
-- Hoặc **TỪ MẶT NHAU** khi có mâu thuẫn`,
+Khi gặp nhóm Sát Hình Kỵ cùng Linh Tinh, Kình Dương, Địa Kiếp, bạn bè dễ chối
+bỏ trách nhiệm hoặc từ mặt nhau khi có mâu thuẫn.`,
   },
 
   {
@@ -484,10 +394,9 @@ cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp.`,
     cung: ['Mệnh'],
     ketHop: ['Thiên Lương', 'Thiên Tướng'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ - Phong Cáo (hội chiếu) + Thiên Lương / Thiên Tướng tại Mệnh:**
-
-- Dễ làm **THẦY GIÁO MÁT TAY**
-- Có nhiều **HỌC TRÒ HIỂN ĐẠT, XUẤT SẮC**`,
+    tomTat: `Khi Thai Phụ - Phong Cáo hội chiếu cùng Thiên Lương hoặc Thiên
+Tướng tại Mệnh, đương số dễ làm thầy giáo mát tay, có nhiều học trò hiển đạt
+và xuất sắc.`,
   },
 
   {
@@ -496,20 +405,14 @@ cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp.`,
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo tại Thiên Di** — ra ngoài gặp **QUÝ NHÂN**.
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Thiên Di, đương số ra ngoài gặp quý
+nhân giúp đỡ, ra ngoài lợi ích hơn ở nhà. Đi xa thường gặp may mắn, thuận lợi
+trong công danh và thi cử; được trao tặng nhiều bằng cấp, khen thưởng. Đương
+số thuận lợi trong việc đi xa, đi học xa, du học.
 
-**Đặc trưng:**
-- Ra ngoài gặp **QUÝ NHÂN GIÚP ĐỠ**
-- Ra ngoài **LỢI ÍCH HƠN Ở NHÀ**
-- Đi xa thường gặp **MAY MẮN, THUẬN LỢI** trong **CÔNG DANH, THI CỬ**
-- Được trao tặng nhiều **BẰNG CẤP, KHEN THƯỞNG**
-- Thuận lợi trong **ĐI XA, ĐI HỌC XA, DU HỌC**
-
-**Du học, lập nghiệp xứ người:**
-- Cách cục "**THIÊN THỜI - ĐỊA LỢI - NHÂN HÒA**"
-- Việc lớn **DỄ THÀNH**
-- Việc nhỏ **HANH THÔNG**
-- Đương số có **QUÝ TINH SOI LỐI**`,
+Về du học và lập nghiệp xứ người, đây là cách cục "thiên thời - địa lợi -
+nhân hòa": việc lớn dễ thành, việc nhỏ hanh thông; đương số có quý tinh soi
+lối.`,
   },
 
   {
@@ -519,10 +422,9 @@ cửa rộng, **ĐẸP ĐẼ KHANG TRANG**, nhiều bằng cấp.`,
     cung: ['Thiên Di'],
     ketHop: ['Thiên Khôi', 'Thiên Việt', 'Hoa Cái'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ - Phong Cáo + Thiên Khôi + Thiên Việt + Hoa Cái tại
-Thiên Di:**
-- Được **NGƯỜI ĐỜI NÂNG ĐỠ, DẪN DẮT**
-- "**THA HƯƠNG NƠI ĐẤT KHÁCH**" càng dễ phát triển`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Thiên Khôi, Thiên Việt cùng Hoa Cái
+tại Thiên Di, đương số được người đời nâng đỡ, dẫn dắt — càng tha hương nơi
+đất khách càng dễ phát triển.`,
   },
 
   {
@@ -531,16 +433,10 @@ Thiên Di:**
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo tại Tật Ách** — bệnh **TÌ VỊ, TIÊU HÓA**.
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Tật Ách, đương số dễ có bệnh về tì
+vị hoặc bộ phận tiêu hóa, cơ địa mẫn cảm.
 
-**Đặc trưng:**
-- Dễ có bệnh về **TÌ VỊ** hay **BỘ PHẬN TIÊU HÓA**
-- Cơ địa **MẪN CẢM**
-
-**Ngày chết:**
-- Dễ có **HUÂN HUY CHƯƠNG, KHEN THƯỞNG, TRUY TẶNG**
-
-`,
+Về ngày chết, đương số dễ được nhận huân huy chương, khen thưởng, truy tặng.`,
   },
 
   {
@@ -550,11 +446,10 @@ Thiên Di:**
     cung: ['Tật Ách'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Hóa Khoa'],
     doUuTien: 68,
-    tomTat: `**Thai Phụ - Phong Cáo tại Tật Ách + Tả Hữu / Hóa Khoa hội chiếu**
-(từ các cung tam hợp xung chiếu):
-
-- Lúc mất dễ nhận **HUÂN HUY CHƯƠNG, KHEN THƯỞNG, TRUY TẶNG**
-- Ra đi vinh quang được người đời tôn vinh`,
+    tomTat: `Khi Thai Phụ - Phong Cáo tại Tật Ách được **Tả Phù**, Hữu Bật
+hoặc **Hóa Khoa** hội chiếu (từ các cung tam hợp xung chiếu), lúc mất đương
+số dễ nhận huân huy chương, khen thưởng, truy tặng. Ra đi vinh quang, được
+người đời tôn vinh.`,
   },
 
   {
@@ -563,21 +458,15 @@ Thiên Di:**
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo tại Tài Bạch** — kiếm tiền bằng **HỌC VẤN**.
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Tài Bạch, đương số kiếm tiền bằng
+học vấn. Bản thân dễ có bằng cấp, học vị về ngành nghề liên quan tài chính và
+có thể sử dụng chính bằng cấp ấy để kiếm tiền. Đương số hay được khen thưởng,
+đoạt giải, trao tặng tiền; tiền tài đến từ lao động trí óc nhiều hơn sức vóc
+chân tay.
 
-**Đặc trưng:**
-- Bản thân dễ có **BẰNG CẤP, HỌC VỊ** ngành nghề liên quan **TÀI CHÍNH**
-- Có thể sử dụng **BẰNG CẤP, NGÀNH NGHỀ** mình học để kiếm tiền
-- Người hay được **KHEN THƯỞNG, ĐOẠT GIẢI, TRAO TẶNG TIỀN**
-- Tiền tài đến từ **LAO ĐỘNG TRÍ ÓC** nhiều hơn sức vóc chân tay
-
-**Cộng hưởng tam hợp tài quan:**
-- Khả năng **LÃNH ĐẠO**
-- Vươn tới nhiều **THÀNH CÔNG RỰC RỠ**
-- Nhờ **HỌC THỨC UYÊN THÂM** và **BẰNG CẤP CHUYÊN NGHIỆP**
-- Trí tuệ **SẮC SẢO**
-- Được giao **TRỌNG TRÁCH LỚN**
-- Năng lực **QUẢN LÝ TÀI CHÍNH** hiệu quả`,
+Về cộng hưởng tam hợp tài quan, đương số có khả năng lãnh đạo, vươn tới nhiều
+thành công rực rỡ nhờ học thức uyên thâm và bằng cấp chuyên nghiệp. Trí tuệ
+sắc sảo, được giao trọng trách lớn, năng lực quản lý tài chính hiệu quả.`,
   },
 
   {
@@ -586,15 +475,11 @@ Thiên Di:**
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Tử Tức'],
     doUuTien: 78,
-    tomTat: `**Thai Phụ - Phong Cáo tại Tử Tức** — con cái **HIỂN ĐẠT, QUÝ TỬ**.
-
-**Đặc trưng:**
-- Con cái **HIỂN ĐẠT**, có **CON QUÝ TỬ**
-- Con cái nhiều **BẰNG CẤP, HỌC VỊ**, có thể **HỌC LÊN CAO**
-- Đạt **NHIỀU THÀNH TÍCH, CHỨC DANH** trong cuộc đời
-- "**CON NHÀ NÒI**", có **TƯ CHẤT THÔNG MINH, SÁNG DẠ** từ bé
-- **BẰNG KHEN, TRAO THƯỞNG TREO KÍN NHÀ**
-- Càng siêng học, càng dễ có thành tích`,
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Tử Tức, con cái đương số hiển đạt,
+có con quý tử. Con cái nhiều bằng cấp, học vị, có thể học lên cao và đạt
+nhiều thành tích, chức danh trong cuộc đời. Đây là kiểu "con nhà nòi", có tư
+chất thông minh, sáng dạ từ bé. Bằng khen, trao thưởng treo kín nhà; càng
+siêng học, càng dễ có thành tích.`,
   },
 
   {
@@ -604,8 +489,8 @@ Thiên Di:**
     cung: ['Tử Tức'],
     ketHop: ['Thiên Quang'],
     doUuTien: 73,
-    tomTat: `**Thai Phụ - Phong Cáo + Thiên Quang tại Tử Tức:** con cái **HIỂN
-ĐẠT** đỉnh cao.`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Thiên Quang tại Tử Tức, con cái
+đương số hiển đạt đỉnh cao.`,
   },
 
   {
@@ -615,8 +500,8 @@ Thiên Di:**
     cung: ['Tử Tức'],
     ketHop: ['Thiên Quý'],
     doUuTien: 73,
-    tomTat: `**Thai Phụ - Phong Cáo + Thiên Quý tại Tử Tức:** con cái **HIỂN
-ĐẠT** đỉnh cao.`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Thiên Quý tại Tử Tức, con cái đương
+số hiển đạt đỉnh cao.`,
   },
 
   {
@@ -626,8 +511,8 @@ Thiên Di:**
     cung: ['Tử Tức'],
     ketHop: ['Quốc Ấn'],
     doUuTien: 73,
-    tomTat: `**Thai Phụ - Phong Cáo + Quốc Ấn tại Tử Tức:** con cái **HIỂN
-ĐẠT** đỉnh cao.`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Quốc Ấn tại Tử Tức, con cái đương
+số hiển đạt đỉnh cao.`,
   },
 
   {
@@ -637,8 +522,8 @@ Thiên Di:**
     cung: ['Tử Tức'],
     ketHop: ['Thiên Tướng'],
     doUuTien: 73,
-    tomTat: `**Thai Phụ - Phong Cáo + Thiên Tướng tại Tử Tức:** con cái **HIỂN
-ĐẠT** đỉnh cao.`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Thiên Tướng tại Tử Tức, con cái
+đương số hiển đạt đỉnh cao.`,
   },
 
   {
@@ -648,12 +533,9 @@ Thiên Di:**
     cung: ['Tử Tức'],
     ketHop: ['Hỏa Tinh'],
     doUuTien: 73,
-    tomTat: `**Thai Phụ - Phong Cáo + Hỏa Tinh tại Tử Tức:**
-- Con thường **ÍT GẮN BÓ**
-- **XA CÁCH** với cha mẹ
-- Cha mẹ **ÍT ĐƯỢC CON CHĂM SÓC**
-- Quan niệm xưa gọi là cách "**BẤT HIẾU**"
-- Hiện đại: mối quan hệ **THIẾU HÒA THUẬN**`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Hỏa Tinh tại Tử Tức, con thường ít
+gắn bó, xa cách với cha mẹ. Cha mẹ ít được con chăm sóc — quan niệm xưa gọi
+là cách "bất hiếu", nói theo cách hiện đại là mối quan hệ thiếu hòa thuận.`,
   },
 
   {
@@ -663,12 +545,9 @@ Thiên Di:**
     cung: ['Tử Tức'],
     ketHop: ['Linh Tinh'],
     doUuTien: 73,
-    tomTat: `**Thai Phụ - Phong Cáo + Linh Tinh tại Tử Tức:**
-- Con thường **ÍT GẮN BÓ**
-- **XA CÁCH** với cha mẹ
-- Cha mẹ **ÍT ĐƯỢC CON CHĂM SÓC**
-- Quan niệm xưa gọi là cách "**BẤT HIẾU**"
-- Hiện đại: mối quan hệ **THIẾU HÒA THUẬN**`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Linh Tinh tại Tử Tức, con thường ít
+gắn bó, xa cách với cha mẹ. Cha mẹ ít được con chăm sóc — quan niệm xưa gọi
+là cách "bất hiếu", nói theo cách hiện đại là mối quan hệ thiếu hòa thuận.`,
   },
 
   {
@@ -677,15 +556,10 @@ Thiên Di:**
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Thai Phụ - Phong Cáo tại Phu Thê** — vợ chồng **HỌC THỨC, NHIỀU BẰNG CẤP**.
-
-**Đặc trưng:**
-- Vợ chồng là người có **HỌC THỨC**, dễ **HỌC CAO**
-- Người có nhiều **BẰNG CẤP, CHỨC TƯỚC**
-- Người hôn phối **THUẬN LỢI** trong con đường **CÔNG DANH, KHOA BẢNG**
-- **NHIỀU THÀNH TỰU** trong cuộc đời
-- Hôn nhân **XỨNG LỨA VỪA ĐÔI**
-- Vợ chồng **THUẬN HÒA, GIỮ TRỌN ĐẠO NGHĨA**`,
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Phu Thê, vợ chồng đương số là người
+có học thức, dễ học cao, nhiều bằng cấp và chức tước. Người hôn phối thuận
+lợi trên đường công danh, khoa bảng, có nhiều thành tựu trong cuộc đời. Hôn
+nhân xứng lứa vừa đôi; vợ chồng thuận hòa, giữ trọn đạo nghĩa.`,
   },
 
   {
@@ -695,9 +569,9 @@ Thiên Di:**
     cung: ['Phu Thê'],
     ketHop: ['Thiên Khôi'],
     doUuTien: 73,
-    tomTat: `**Thai Phụ - Phong Cáo + Thiên Khôi tại Phu Thê:**
-- Người hôn phối có **HỌC VỊ CAO, TRÍ THỨC UYÊN BÁC**
-- Hỗ trợ đắc lực cho **ĐƯỜNG CÔNG DANH** của đương số`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Thiên Khôi tại Phu Thê, người hôn
+phối có học vị cao, trí thức uyên bác, hỗ trợ đắc lực cho đường công danh
+của đương số.`,
   },
 
   {
@@ -707,9 +581,9 @@ Thiên Di:**
     cung: ['Phu Thê'],
     ketHop: ['Thiên Việt'],
     doUuTien: 73,
-    tomTat: `**Thai Phụ - Phong Cáo + Thiên Việt tại Phu Thê:**
-- Người hôn phối có **HỌC VỊ CAO, TRÍ THỨC UYÊN BÁC**
-- Hỗ trợ đắc lực cho **ĐƯỜNG CÔNG DANH** của đương số`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Thiên Việt tại Phu Thê, người hôn
+phối có học vị cao, trí thức uyên bác, hỗ trợ đắc lực cho đường công danh
+của đương số.`,
   },
 
   {
@@ -719,9 +593,9 @@ Thiên Di:**
     cung: ['Phu Thê'],
     ketHop: ['Tả Phù'],
     doUuTien: 73,
-    tomTat: `**Thai Phụ - Phong Cáo + Tả Phù tại Phu Thê:**
-- Người hôn phối có **HỌC VỊ CAO, TRÍ THỨC UYÊN BÁC**
-- Hỗ trợ đắc lực cho **ĐƯỜNG CÔNG DANH** của đương số`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp **Tả Phù** tại Phu Thê, người hôn
+phối có học vị cao, trí thức uyên bác, hỗ trợ đắc lực cho đường công danh
+của đương số.`,
   },
 
   {
@@ -731,9 +605,9 @@ Thiên Di:**
     cung: ['Phu Thê'],
     ketHop: ['Hữu Bật'],
     doUuTien: 73,
-    tomTat: `**Thai Phụ - Phong Cáo + Hữu Bật tại Phu Thê:**
-- Người hôn phối có **HỌC VỊ CAO, TRÍ THỨC UYÊN BÁC**
-- Hỗ trợ đắc lực cho **ĐƯỜNG CÔNG DANH** của đương số`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Hữu Bật tại Phu Thê, người hôn phối
+có học vị cao, trí thức uyên bác, hỗ trợ đắc lực cho đường công danh của
+đương số.`,
   },
 
   {
@@ -743,10 +617,9 @@ Thiên Di:**
     cung: ['Phu Thê'],
     ketHop: ['Đào Hoa', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ - Phong Cáo + Đào Hoa + Lục Sát tại Phu Thê:**
-- Một trong hai dễ có suy nghĩ **NGOÀI LUỒNG**
-- "**MỘT LÒNG HAI DẠ**"
-- Thiếu sự **THỦY CHUNG**`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Đào Hoa cùng Lục Sát tại Phu Thê,
+một trong hai vợ chồng dễ có suy nghĩ ngoài luồng — cách "một lòng hai dạ",
+thiếu sự thủy chung.`,
   },
 
   {
@@ -755,18 +628,13 @@ Thiên Di:**
     sao: ['Thai Phụ', 'Phong Cáo'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Thai Phụ - Phong Cáo tại Huynh Đệ** — anh chị em **HỌC VẤN, BẰNG CẤP**.
+    tomTat: `Khi Thai Phụ - Phong Cáo tọa Huynh Đệ, anh chị em đương số đều
+là người có học vấn, học cao, nhiều bằng cấp, nhiều thành tựu — như câu "anh
+em như thể tay chân". Học vị đáng nể, anh chị em đảm nhiệm các vị trí lãnh
+đạo, quản lý cấp cao.
 
-**Đặc trưng:**
-- Anh chị em đều là người có **HỌC VẤN, HỌC CAO**
-- Nhiều **BẰNG CẤP, NHIỀU THÀNH TỰU**
-- "**ANH EM NHƯ THỂ TAY CHÂN**"
-- Học vị **ĐÁNG NỂ**
-- Đảm nhiệm các **VỊ TRÍ LÃNH ĐẠO, QUẢN LÝ CẤP CAO**
-
-**Không có cát tinh phù trợ:**
-- Dù có nhận được sự trợ giúp nhưng **KHÔNG ĐÁNG KỂ**
-- Dễ vì **VỊ TRÍ KHÁC BIỆT** mà mối quan hệ có nhiều **KHOẢNG CÁCH**`,
+Trường hợp không có cát tinh phù trợ, dù có nhận được sự trợ giúp nhưng không
+đáng kể; dễ vì vị trí khác biệt mà mối quan hệ có nhiều khoảng cách.`,
   },
 
   {
@@ -776,9 +644,9 @@ Thiên Di:**
     cung: ['Huynh Đệ'],
     ketHop: ['Tả Phù'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ - Phong Cáo + Tả Phù tại Huynh Đệ:**
-- Sự **GIÚP ĐỠ TỪ HÌNH ẢNH, BẰNG CẤP, ĐỊA VỊ** của anh chị
-- Trong lĩnh vực **CHUYÊN MÔN**`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp **Tả Phù** tại Huynh Đệ, đương số
+nhận được sự giúp đỡ từ hình ảnh, bằng cấp, địa vị của anh chị trong lĩnh vực
+chuyên môn.`,
   },
 
   {
@@ -788,9 +656,9 @@ Thiên Di:**
     cung: ['Huynh Đệ'],
     ketHop: ['Hữu Bật'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ - Phong Cáo + Hữu Bật tại Huynh Đệ:**
-- Sự **GIÚP ĐỠ TỪ HÌNH ẢNH, BẰNG CẤP, ĐỊA VỊ** của anh chị
-- Trong lĩnh vực **CHUYÊN MÔN**`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Hữu Bật tại Huynh Đệ, đương số nhận
+được sự giúp đỡ từ hình ảnh, bằng cấp, địa vị của anh chị trong lĩnh vực
+chuyên môn.`,
   },
 
   {
@@ -800,9 +668,9 @@ Thiên Di:**
     cung: ['Huynh Đệ'],
     ketHop: ['Thiên Khôi'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ - Phong Cáo + Thiên Khôi tại Huynh Đệ:**
-- Sự **GIÚP ĐỠ TỪ HÌNH ẢNH, BẰNG CẤP, ĐỊA VỊ** của anh chị
-- Trong lĩnh vực **CHUYÊN MÔN**`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Thiên Khôi tại Huynh Đệ, đương số
+nhận được sự giúp đỡ từ hình ảnh, bằng cấp, địa vị của anh chị trong lĩnh vực
+chuyên môn.`,
   },
 
   {
@@ -812,9 +680,9 @@ Thiên Di:**
     cung: ['Huynh Đệ'],
     ketHop: ['Thiên Việt'],
     doUuTien: 70,
-    tomTat: `**Thai Phụ - Phong Cáo + Thiên Việt tại Huynh Đệ:**
-- Sự **GIÚP ĐỠ TỪ HÌNH ẢNH, BẰNG CẤP, ĐỊA VỊ** của anh chị
-- Trong lĩnh vực **CHUYÊN MÔN**`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Thiên Việt tại Huynh Đệ, đương số
+nhận được sự giúp đỡ từ hình ảnh, bằng cấp, địa vị của anh chị trong lĩnh vực
+chuyên môn.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -826,21 +694,14 @@ Thiên Di:**
     title: 'Thai Phụ - Phong Cáo vào hạn',
     sao: ['Thai Phụ', 'Phong Cáo'],
     doUuTien: 50,
-    tomTat: `**Thai Phụ - Phong Cáo vào hạn** — **ĐẮC TÀI, ĐẮC DANH**.
+    tomTat: `Khi Thai Phụ - Phong Cáo vào hạn, đương số đắc tài và đắc danh —
+được tiếng khen, có huy chương; thuận lợi trong công danh, thi cử. Như cách
+"gặp thời đổi vận", đương số được đề danh bảng vàng, thuận lợi trong thi cử
+và đỗ đạt, hoặc thăng tiến mạnh mẽ trong công danh sự nghiệp.
 
-**Đặc trưng:**
-- **ĐẮC TÀI, ĐẮC DANH**
-- Được **TIẾNG KHEN, CÓ HUY CHƯƠNG**
-- **THUẬN LỢI** trong công danh, thi cử
-- "**GẶP THỜI ĐỔI VẬN**", được **ĐỀ DANH BẢNG VÀNG**
-- Thuận lợi trong **THI CỬ, ĐỖ ĐẠT**
-- Hoặc **THĂNG TIẾN MẠNH MẼ** trong công danh sự nghiệp
-
-**Đại vận / tiểu vận gặp:**
-- Báo hiệu **GIAI ĐOẠN HOÀNG KIM**
-- Cần **NẮM BẮT THỜI CƠ**
-- Trau dồi **KIẾN THỨC**, rèn luyện **KỸ NĂNG**
-- Mở rộng **MỐI QUAN HỆ XÃ HỘI**`,
+Khi đại vận hoặc tiểu vận gặp sao này, đó là báo hiệu giai đoạn hoàng kim.
+Đương số cần nắm bắt thời cơ, trau dồi kiến thức, rèn luyện kỹ năng và mở
+rộng mối quan hệ xã hội.`,
   },
 
   {
@@ -849,7 +710,7 @@ Thiên Di:**
     sao: ['Thai Phụ', 'Phong Cáo'],
     ketHop: ['Long Trì'],
     doUuTien: 45,
-    tomTat: `**Thai Phụ - Phong Cáo + Long Trì vào hạn:** sẽ được **THĂNG
-QUAN, TIẾN CHỨC**.`,
+    tomTat: `Khi Thai Phụ - Phong Cáo gặp Long Trì vào hạn, đương số sẽ được
+thăng quan, tiến chức.`,
   },
 ];

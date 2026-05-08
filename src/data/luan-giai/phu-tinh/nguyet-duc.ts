@@ -28,36 +28,26 @@ export const luanGiai_NguyetDuc: DoanLuanGiai[] = [
     title: 'Nguyệt Đức - Đức hạnh người đàn bà',
     sao: ['Nguyệt Đức'],
     doUuTien: 33,
-    tomTat: `**Nguyệt Đức** — phụ tinh **THIỆN TINH**, thuộc bộ **TỨ ĐỨC**.
+    tomTat: `**Nguyệt Đức** là phụ tinh thuộc nhóm Thiện Tinh, ngũ hành Hỏa, là một
+trong bốn sao của bộ Tứ Đức. Sao này được xem như đức hạnh của người đàn bà —
+chủ về sự trong sáng, đoan trang, đức độ và nhu thuận. Nguyệt Đức đi cùng các
+sao khác để khuyên nhủ, hóa giải, đưa đương số tới con đường tu tập, đạo hạnh
+và thoát khỏi ưu phiền.
 
-**Ngũ hành:** **Hỏa**.
+Về quy luật vị trí, Nguyệt Đức luôn đồng cung với sao Tử Phù — vị trí thứ 5
+của vòng Thái Tuế, và đứng trong tam hợp Đào Không Sát. Tử Phù chủ về thông
+minh, tài năng, khôn lanh, nhanh nhẹn nhưng cũng lắm tài nhiều tật, gặp không
+ít tai vạ và tật bệnh. Nguyệt Đức đi cùng có tác dụng chế hóa và khuyên nhủ
+sự bộc phát của Tử Phù.
 
-**Đặc tính:**
-- Là **ĐỨC HẠNH CỦA NGƯỜI ĐÀN BÀ**
-- Chủ về **TRONG SÁNG, RÕ RÀNG, ĐOAN TRANG, ĐỨC ĐỘ, NHU THUẬN**
-- Đi cùng để **KHUYÊN NHỦ, HÓA GIẢI**, đưa người ta tới **TU TẬP, ĐẠO HẠNH**
-  thoát khỏi ưu phiền
+Về tác dụng giải họa, Nguyệt Đức giải trừ tai ách, đem đến may mắn và hỷ sự.
+Nhờ tính Hỏa nhanh nên khả năng chế giải tới rất nhanh chóng. Vận hạn có
+Nguyệt Đức, đương số đang mắc bệnh sẽ phục hồi nhanh, sức khỏe cải thiện từng
+bước rõ rệt. Khi Tứ Đức hội đủ thì khả năng cứu giải mạnh nhất.
 
-**Quy luật vị trí:**
-- Nguyệt Đức **LUÔN ĐỒNG CUNG** sao **TỬ PHÙ** (vòng Thái Tuế vị trí 5)
-- Engine hardcode quy luật này
-- Đứng trong tam hợp **ĐÀO KHÔNG SÁT** của vòng Thái Tuế
--: Người **THÔNG MINH, TÀI NĂNG, KHÔN LANH, NHANH NHẸN**
-- Nhưng **LẮM TÀI NHIỀU TẬT**, gặp không ít **TAI VẠ VÀ TẬT BỆNH**
-- Nguyệt Đức đi cùng: **CHẾ HÓA, KHUYÊN NHỦ** sự bộc phát của Tử Phù
-
-**Tác dụng giải họa:**
-- Giải trừ **TAI ÁCH, MAY MẮN, HỶ SỰ**
-- Hỏa nhanh: **CHẾ GIẢI NHANH CHÓNG**
-- Vận hạn có Nguyệt Đức:
-  - Người mắc bệnh **PHỤC HỒI NHANH**
-  - Sức khỏe cải thiện **TỪNG BƯỚC RÕ RỆT**
-- Càng kết hợp Tứ Đức đầy đủ: **CỨU GIẢI MẠNH NHẤT**
-
-**Khả năng CHẾ Đào Hồng:**
-- Chế được **MỘT PHẦN** tính hoa nguyệt, dâm đãng của Đào Hồng
-- Hướng con người tới **GIÁ TRỊ PHẨM HẠNH**
-- Thu hút bằng **ĐOAN TRANG**, không lả lơi trêu cợt`,
+Nguyệt Đức còn có khả năng chế Đào Hoa, Hồng Loan: chế được một phần tính hoa
+nguyệt, dâm đãng của Đào Hồng để hướng đương số tới giá trị phẩm hạnh — thu
+hút bằng vẻ đoan trang chứ không lả lơi trêu cợt.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -70,15 +60,10 @@ export const luanGiai_NguyetDuc: DoanLuanGiai[] = [
     sao: ['Nguyệt Đức'],
     ketHop: ['Thiên Lương'],
     doUuTien: 65,
-    tomTat: `**Câu phú: "Thiên Lương, Nguyệt Đức chiếu kề / Một là đạo sĩ, hai là tăng
-nhân"**.
-
-**Đặc trưng:**
-- Người có **DUYÊN TU TẬP**
-- Thích **TÌM HIỂU TÂM LINH, PHẬT PHÁP**
-- Có thể trở thành **ĐẠO SĨ** hoặc **TĂNG NHÂN** (nhà sư)
-- Bản tính **TỪ BI, CỨU NHÂN ĐỘ THẾ**
-- Hợp các nghề liên quan **TÔN GIÁO, THIỀN, YOGA**`,
+    tomTat: `Câu phú nói: "Thiên Lương, Nguyệt Đức chiếu kề / Một là đạo sĩ,
+hai là tăng nhân". Đương số có duyên tu tập, thích tìm hiểu tâm linh và Phật
+pháp, có thể trở thành đạo sĩ hoặc tăng nhân. Bản tính từ bi, hướng tới cứu
+nhân độ thế; hợp các nghề liên quan tới tôn giáo, thiền định, yoga.`,
   },
 
   {
@@ -87,14 +72,10 @@ nhân"**.
     sao: ['Nguyệt Đức'],
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 55,
-    tomTat: `**Hạn gặp Nguyệt Đức + Đào Hoa + Hồng Loan** — gặp **GIAI NHÂN GIÚP ĐỠ** nên
-tình duyên.
-
-**Đặc trưng:**
-- Có **NGƯỜI LÀM MAI MỐI** thành vợ chồng
-- Hạn này có duyên **THÀNH HÔN**
-- Đào Hồng được Nguyệt Đức **CHẾ**: kết duyên đoan chính
-- Vợ chồng đẹp đôi`,
+    tomTat: `Hạn gặp Nguyệt Đức cùng Đào Hoa và Hồng Loan, đương số có giai
+nhân giúp đỡ nên tình duyên, có người làm mai mối thành vợ chồng. Đây là hạn
+có duyên thành hôn; Đào Hồng được Nguyệt Đức chế hóa nên kết duyên đoan chính,
+vợ chồng đẹp đôi.`,
   },
 
   {
@@ -104,13 +85,9 @@ tình duyên.
     cung: ['Tử Tức'],
     ketHop: ['Thiên Đồng'],
     doUuTien: 60,
-    tomTat: `**Nguyệt Đức + Thiên Đồng tại Tử Tức** — vợ chồng có **CON SỚM**.
-
-**Đặc trưng:**
-- Vợ chồng **CÓ CON SỚM**
-- Sinh nở **THUẬN LỢI**
-- Con cái **HÒA THUẬN, HIẾU THẢO**
-- Tổ ấm **RỘN RÀNG TIẾNG CƯỜI**`,
+    tomTat: `Khi Nguyệt Đức cùng Thiên Đồng tọa Tử Tức, vợ chồng đương số có
+con sớm, sinh nở thuận lợi. Con cái hòa thuận, hiếu thảo; tổ ấm rộn ràng tiếng
+cười.`,
   },
 
   {
@@ -120,15 +97,9 @@ tình duyên.
     cung: ['Phu Thê'],
     ketHop: ['Thiên Đức', 'Đào Hoa'],
     doUuTien: 65,
-    tomTat: `**Thiên Đức + Nguyệt Đức + Đào Hoa tại Phu Thê** — vợ chồng **ĐẸP ĐÔI, TƯƠNG
-ĐẮC**.
-
-**Đặc trưng:**
-- Vợ chồng **ĐẸP ĐÔI**
-- **TƯƠNG ĐẮC, HÒA HỢP**
-- Tứ Đức + Đào Hoa = **BỘ ĐOAN CHÍNH ĐẸP**
-- Tình cảm **BỀN CHẶT**
-- Nhân duyên **TRỜI BAN**`,
+    tomTat: `Khi **Thiên Đức**, Nguyệt Đức cùng Đào Hoa hội tụ tại Phu Thê, vợ
+chồng đẹp đôi và tương đắc, hòa hợp với nhau. Bộ Tứ Đức gặp Đào Hoa được xem
+là bộ đoan chính đẹp — tình cảm bền chặt, nhân duyên như trời ban.`,
   },
 
   {
@@ -138,14 +109,10 @@ tình duyên.
     cung: ['Điền Trạch'],
     ketHop: ['Tử Vi', 'Thiên Phủ', 'Thiên Đồng', 'Thiên Lương', 'Ân Quang', 'Thiên Quan'],
     doUuTien: 60,
-    tomTat: `**Nguyệt Đức + Tử Vi / Thiên Phủ / Thiên Đồng / Thiên Lương + Quang Quý +
-Quan Phúc tại Điền Trạch** — nhà thờ **PHẬT BÀ QUAN ÂM**.
-
-**Đặc trưng:**
-- Nhà thờ **PHẬT BÀ QUAN ÂM**
-- Gia đình có **TRUYỀN THỐNG TÂM LINH**
-- Mộ phần tổ tiên đặt gần **NƠI THỜ PHẬT BÀ QUAN ÂM**
-- Con cháu hưởng **PHÚC ẤM**`,
+    tomTat: `Khi Nguyệt Đức gặp Tử Vi, Thiên Phủ, Thiên Đồng hoặc Thiên Lương
+cùng Quang Quý, Quan Phúc tại Điền Trạch, đương số có nhà thờ Phật Bà Quan Âm.
+Gia đình mang truyền thống tâm linh; mộ phần tổ tiên đặt gần nơi thờ Phật Bà
+Quan Âm, con cháu nhờ vậy mà hưởng phúc ấm.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -158,30 +125,21 @@ Quan Phúc tại Điền Trạch** — nhà thờ **PHẬT BÀ QUAN ÂM**.
     sao: ['Nguyệt Đức'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Nguyệt Đức thủ Mệnh** — tâm lành, **QUÝ NHÂN PHÙ TRỢ**.
+    tomTat: `Khi Nguyệt Đức thủ Mệnh, đương số có tâm lành và được quý nhân
+phù trợ. Tính tình ôn hòa, nhân hậu, đức hạnh và đẹp nết; bản chất từ bi, hay
+giúp đỡ và làm phúc.
 
-**Tính tình chung:**
-- **ÔN HÒA, NHÂN HẬU, ĐỨC HẠNH, ĐẸP NẾT**
-- **TỪ BI, TỪ THIỆN**, hay giúp đỡ làm phúc
+Sao này đặc biệt hợp với nữ mệnh vì Nguyệt Đức vốn là đức hạnh của người đàn
+bà. Nữ mệnh có sao này thường đoan chính, dịu dàng, nết na — nhu mỳ, hiền hậu
+và ngay thẳng. Đương số khéo léo trong nữ công gia chánh, nội trợ, thêu thùa,
+có năng khiếu hội họa và âm nhạc, là vợ hiền dâu thảo.
 
-**Đặc biệt với NỮ MỆNH:**
-- **RẤT HỢP** — Nguyệt Đức là **ĐỨC HẠNH NGƯỜI ĐÀN BÀ**
-- Đoan chính, **DỊU DÀNG, NẾT NA**
-- **NHU MỲ, HIỀN HẬU, NGAY THẲNG**
-- Khéo léo trong **NỮ CÔNG GIA CHÁNH, NỘI TRỢ, THÊU THÙA**
-- Có **NĂNG KHIẾU HỘI HỌA, ÂM NHẠC**
-- Là **VỢ HIỀN, DÂU THẢO**
+Với nam mệnh, đương số có duyên với nữ giới và có quý nhân là người khác phái
+giúp đỡ. Bản thân thông minh, khéo tay, giỏi về nghệ thuật, hội họa và âm nhạc.
 
-**Đặc biệt với NAM MỆNH:**
-- Có **DUYÊN VỚI NỮ GIỚI**
-- Có **QUÝ NHÂN LÀ NGƯỜI KHÁC PHÁI** giúp đỡ
-- Bản thân **THÔNG MINH, KHÉO TAY**
-- Giỏi về **NGHỆ THUẬT, HỘI HỌA, ÂM NHẠC**
-
-**Khả năng giải hung:**
-- **GIẢI TRỪ TẬT ÁCH, TAI HỌA NHỎ**
-- Mang lại **MAY MẮN, HỶ SỰ**
-- Hội đủ **TỨ ĐỨC**: cứu giải càng mạnh, là **LÁ BÙA HỘ MỆNH**`,
+Về khả năng giải hung, Nguyệt Đức giải trừ tật ách, tai họa nhỏ, đem lại may
+mắn và hỷ sự. Khi hội đủ Tứ Đức thì sức cứu giải càng mạnh, được xem như lá
+bùa hộ mệnh cho đương số.`,
   },
 
   {
@@ -190,13 +148,9 @@ Quan Phúc tại Điền Trạch** — nhà thờ **PHẬT BÀ QUAN ÂM**.
     sao: ['Nguyệt Đức'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Nguyệt Đức tại Phụ Mẫu** — cha mẹ **NHÂN HẬU, HIỀN LÀNH**.
-
-**Đặc trưng:**
-- Cha mẹ **NHÂN HẬU, HIỀN LÀNH**
-- Sống **CÓ ĐẠO ĐỨC**
-- Hay **LÀM TỪ THIỆN, THÍCH TU TẬP**
-- Con cháu được hưởng **PHÚC LỚN**`,
+    tomTat: `Khi Nguyệt Đức tọa Phụ Mẫu, cha mẹ đương số nhân hậu, hiền lành,
+sống có đạo đức, hay làm từ thiện và thích tu tập. Con cháu nhờ thế được hưởng
+phúc lớn.`,
   },
 
   {
@@ -206,8 +160,8 @@ Quan Phúc tại Điền Trạch** — nhà thờ **PHẬT BÀ QUAN ÂM**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Địa Không'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Địa Không tại Phụ Mẫu:** cha mẹ thường có **DUYÊN
-TU TẬP**.`,
+    tomTat: `Khi Nguyệt Đức gặp Địa Không tại Phụ Mẫu, cha mẹ đương số thường
+có duyên tu tập.`,
   },
 
   {
@@ -217,8 +171,8 @@ TU TẬP**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Địa Kiếp tại Phụ Mẫu:** cha mẹ thường có **DUYÊN
-TU TẬP**.`,
+    tomTat: `Khi Nguyệt Đức gặp Địa Kiếp tại Phụ Mẫu, cha mẹ đương số thường
+có duyên tu tập.`,
   },
 
   {
@@ -228,8 +182,8 @@ TU TẬP**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Văn Xương'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Văn Xương tại Phụ Mẫu:** cha mẹ thường có **DUYÊN
-TU TẬP**.`,
+    tomTat: `Khi Nguyệt Đức gặp **Văn Xương** tại Phụ Mẫu, cha mẹ đương số
+thường có duyên tu tập.`,
   },
 
   {
@@ -239,8 +193,8 @@ TU TẬP**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Văn Khúc'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Văn Khúc tại Phụ Mẫu:** cha mẹ thường có **DUYÊN
-TU TẬP**.`,
+    tomTat: `Khi Nguyệt Đức gặp **Văn Khúc** tại Phụ Mẫu, cha mẹ đương số
+thường có duyên tu tập.`,
   },
 
   {
@@ -250,10 +204,9 @@ TU TẬP**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Hóa Kỵ tại Phụ Mẫu:**
-- Tình cảm cha mẹ - con cái có **NHIỀU VẤN ĐỀ KHÓ GIẢI QUYẾT**
-- Trong lòng còn thương nhưng **NGOÀI MẶT MÂU THUẪN**
-- Dứt áo ra đi vẫn **NẶNG LÒNG**`,
+    tomTat: `Khi Nguyệt Đức gặp **Hóa Kỵ** tại Phụ Mẫu, tình cảm cha mẹ - con
+cái có nhiều vấn đề khó giải quyết. Trong lòng đương số còn thương nhưng ngoài
+mặt vẫn mâu thuẫn; khi dứt áo ra đi thì lòng vẫn nặng trĩu.`,
   },
 
   {
@@ -263,10 +216,9 @@ TU TẬP**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Thiên Hình'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Thiên Hình tại Phụ Mẫu:**
-- Tình cảm cha mẹ - con cái có **NHIỀU VẤN ĐỀ KHÓ GIẢI QUYẾT**
-- Trong lòng còn thương nhưng **NGOÀI MẶT MÂU THUẪN**
-- Dứt áo ra đi vẫn **NẶNG LÒNG**`,
+    tomTat: `Khi Nguyệt Đức gặp Thiên Hình tại Phụ Mẫu, tình cảm cha mẹ - con
+cái có nhiều vấn đề khó giải quyết. Trong lòng đương số còn thương nhưng ngoài
+mặt vẫn mâu thuẫn; khi dứt áo ra đi thì lòng vẫn nặng trĩu.`,
   },
 
   {
@@ -275,13 +227,10 @@ TU TẬP**.`,
     sao: ['Nguyệt Đức'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `**Nguyệt Đức tại Phúc Đức** — điềm lành, **TỪ BI LƯƠNG THIỆN**.
-
-**Đặc trưng:**
-- Tâm tính trở nên **TỪ BI, LƯƠNG THIỆN**
-- Đương số sống **NHÂN NGHĨA, BIẾT TRƯỚC BIẾT SAU**
-- Dòng họ tổ tiên nhiều người **HIỀN LÀNH, NHÂN HẬU**, nhường nhịn nhau
-- Hay **LÀM PHÚC**`,
+    tomTat: `Khi Nguyệt Đức tọa Phúc Đức, đây là điềm lành báo về một tâm tính
+từ bi, lương thiện. Đương số sống nhân nghĩa, biết trước biết sau; dòng họ tổ
+tiên có nhiều người hiền lành, nhân hậu, biết nhường nhịn nhau và hay làm
+phúc.`,
   },
 
   {
@@ -291,10 +240,9 @@ TU TẬP**.`,
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Đức'],
     doUuTien: 73,
-    tomTat: `**Nguyệt Đức + Thiên Đức đồng cung tại Phúc Đức:**
-- Họ hàng **PHÚC HẬU**
-- Mồ mả **THUẬN VỊ**
-- Mồ mả tổ tiên đặt gần nơi **THỜ PHẬT BÀ QUAN ÂM**`,
+    tomTat: `Khi Nguyệt Đức cùng **Thiên Đức** đồng cung tại Phúc Đức, họ hàng
+đương số phúc hậu, mồ mả thuận vị. Mồ mả tổ tiên thường đặt gần nơi thờ Phật
+Bà Quan Âm.`,
   },
 
   {
@@ -304,10 +252,9 @@ TU TẬP**.`,
     cung: ['Phúc Đức'],
     ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 73,
-    tomTat: `**Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
-Đức) đầy đủ tại Phúc Đức:**
-- Phúc ấm càng **BỀN**
-- Đời sống tinh thần con cháu có **ĐIỂM TỰA VỮNG CHẮC**`,
+    tomTat: `Khi Nguyệt Đức hội đủ bộ Tứ Đức (Long Đức, Phúc Đức, Thiên Đức,
+Nguyệt Đức) tại Phúc Đức, phúc ấm tổ tiên càng bền. Đời sống tinh thần con
+cháu có điểm tựa vững chắc.`,
   },
 
   {
@@ -317,10 +264,9 @@ TU TẬP**.`,
     cung: ['Phúc Đức'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Địa Kiếp tại Phúc Đức:**
-- Dễ xảy ra **SAI LẦM, TỘI LỖI**
-- Hiện tượng **BIẾT SAI MỚI SỬA**
-- Việc nhận ra lỗi để **"QUAY ĐẦU LÀ BỜ"** vẫn tốt hơn mải mê đi sai`,
+    tomTat: `Khi Nguyệt Đức gặp Địa Kiếp tại Phúc Đức, đương số dễ xảy ra sai
+lầm, tội lỗi rồi mới biết sai mà sửa. Việc nhận ra lỗi để "quay đầu là bờ" vẫn
+tốt hơn mải mê đi trên đường sai.`,
   },
 
   {
@@ -330,10 +276,9 @@ TU TẬP**.`,
     cung: ['Phúc Đức'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Hóa Kỵ tại Phúc Đức:**
-- Dễ xảy ra **SAI LẦM, TỘI LỖI**
-- Hiện tượng **BIẾT SAI MỚI SỬA**
-- Việc nhận ra lỗi để **"QUAY ĐẦU LÀ BỜ"** vẫn tốt hơn mải mê đi sai`,
+    tomTat: `Khi Nguyệt Đức gặp **Hóa Kỵ** tại Phúc Đức, đương số dễ xảy ra
+sai lầm, tội lỗi rồi mới biết sai mà sửa. Việc nhận ra lỗi để "quay đầu là bờ"
+vẫn tốt hơn mải mê đi trên đường sai.`,
   },
 
   {
@@ -343,10 +288,9 @@ TU TẬP**.`,
     cung: ['Phúc Đức'],
     ketHop: ['Linh Tinh'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Linh Tinh tại Phúc Đức:**
-- Dễ xảy ra **SAI LẦM, TỘI LỖI**
-- Hiện tượng **BIẾT SAI MỚI SỬA**
-- Việc nhận ra lỗi để **"QUAY ĐẦU LÀ BỜ"** vẫn tốt hơn mải mê đi sai`,
+    tomTat: `Khi Nguyệt Đức gặp Linh Tinh tại Phúc Đức, đương số dễ xảy ra sai
+lầm, tội lỗi rồi mới biết sai mà sửa. Việc nhận ra lỗi để "quay đầu là bờ" vẫn
+tốt hơn mải mê đi trên đường sai.`,
   },
 
   {
@@ -355,13 +299,10 @@ TU TẬP**.`,
     sao: ['Nguyệt Đức'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Nguyệt Đức tại Điền Trạch** — đi đâu cũng có **NGƯỜI GIÚP ĐỠ** về nhà cửa.
-
-**Đặc trưng:**
-- Đi đâu cũng có **NGƯỜI GIÚP ĐỠ** về nhà cửa, nơi ăn chốn ở
-- Quan hệ **LÀNG XÓM LÁNG GIỀNG TỐT**, nhường nhịn nhau, ít tai tiếng
-- Người ăn gì, ở đâu cũng **CHẤP NHẬN ĐƯỢC**
-- **KHÔNG ĐÒI HỎI**, yêu cầu cao`,
+    tomTat: `Khi Nguyệt Đức tọa Điền Trạch, đương số đi đâu cũng có người giúp
+đỡ về nhà cửa, nơi ăn chốn ở. Quan hệ với làng xóm láng giềng tốt đẹp, biết
+nhường nhịn lẫn nhau và ít tai tiếng. Đương số ăn gì hay ở đâu đều chấp nhận
+được, không đòi hỏi hay yêu cầu cao.`,
   },
 
   {
@@ -371,10 +312,8 @@ TU TẬP**.`,
     cung: ['Điền Trạch'],
     ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
-Đức) đầy đủ tại Điền Trạch:**
-- Nhà cửa **THANH TỊNH**
-- Mang tính **TÂM LINH**`,
+    tomTat: `Khi Nguyệt Đức hội đủ bộ Tứ Đức (Long Đức, Phúc Đức, Thiên Đức,
+Nguyệt Đức) tại Điền Trạch, nhà cửa thanh tịnh và mang đậm tính tâm linh.`,
   },
 
   {
@@ -384,9 +323,9 @@ TU TẬP**.`,
     cung: ['Điền Trạch'],
     ketHop: ['Kình Dương'],
     doUuTien: 68,
-    tomTat: `**Nguyệt Đức + Kình Dương tại Điền Trạch:**
-- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
-- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+    tomTat: `Khi Nguyệt Đức gặp Kình Dương tại Điền Trạch, đương số phải trải
+qua rắc rối hoặc thị phi với hàng xóm; tuy vậy nhờ thế mà hai bên hiểu nhau và
+sống biết điều hơn.`,
   },
 
   {
@@ -396,9 +335,9 @@ TU TẬP**.`,
     cung: ['Điền Trạch'],
     ketHop: ['Đà La'],
     doUuTien: 68,
-    tomTat: `**Nguyệt Đức + Đà La tại Điền Trạch:**
-- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
-- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+    tomTat: `Khi Nguyệt Đức gặp Đà La tại Điền Trạch, đương số phải trải qua
+rắc rối hoặc thị phi với hàng xóm; tuy vậy nhờ thế mà hai bên hiểu nhau và
+sống biết điều hơn.`,
   },
 
   {
@@ -408,9 +347,9 @@ TU TẬP**.`,
     cung: ['Điền Trạch'],
     ketHop: ['Hỏa Tinh'],
     doUuTien: 68,
-    tomTat: `**Nguyệt Đức + Hỏa Tinh tại Điền Trạch:**
-- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
-- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+    tomTat: `Khi Nguyệt Đức gặp Hỏa Tinh tại Điền Trạch, đương số phải trải
+qua rắc rối hoặc thị phi với hàng xóm; tuy vậy nhờ thế mà hai bên hiểu nhau
+và sống biết điều hơn.`,
   },
 
   {
@@ -420,9 +359,9 @@ TU TẬP**.`,
     cung: ['Điền Trạch'],
     ketHop: ['Linh Tinh'],
     doUuTien: 68,
-    tomTat: `**Nguyệt Đức + Linh Tinh tại Điền Trạch:**
-- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
-- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+    tomTat: `Khi Nguyệt Đức gặp Linh Tinh tại Điền Trạch, đương số phải trải
+qua rắc rối hoặc thị phi với hàng xóm; tuy vậy nhờ thế mà hai bên hiểu nhau
+và sống biết điều hơn.`,
   },
 
   {
@@ -432,9 +371,9 @@ TU TẬP**.`,
     cung: ['Điền Trạch'],
     ketHop: ['Địa Không'],
     doUuTien: 68,
-    tomTat: `**Nguyệt Đức + Địa Không tại Điền Trạch:**
-- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
-- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+    tomTat: `Khi Nguyệt Đức gặp Địa Không tại Điền Trạch, đương số phải trải
+qua rắc rối hoặc thị phi với hàng xóm; tuy vậy nhờ thế mà hai bên hiểu nhau
+và sống biết điều hơn.`,
   },
 
   {
@@ -444,9 +383,9 @@ TU TẬP**.`,
     cung: ['Điền Trạch'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 68,
-    tomTat: `**Nguyệt Đức + Địa Kiếp tại Điền Trạch:**
-- Phải trải qua **RẮC RỐI HOẶC THỊ PHI** với hàng xóm
-- Nhưng nhờ đó **HIỂU NHAU VÀ SỐNG BIẾT ĐIỀU HƠN**`,
+    tomTat: `Khi Nguyệt Đức gặp Địa Kiếp tại Điền Trạch, đương số phải trải
+qua rắc rối hoặc thị phi với hàng xóm; tuy vậy nhờ thế mà hai bên hiểu nhau
+và sống biết điều hơn.`,
   },
 
   {
@@ -455,15 +394,9 @@ TU TẬP**.`,
     sao: ['Nguyệt Đức'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Nguyệt Đức tại Quan Lộc** — **MAY MẮN** trong công danh, có **LƯƠNG TÂM
-NGHỀ NGHIỆP**.
-
-**Đặc trưng:**
-- Thường gặp **MAY MẮN** trong công danh
-- Người có **LƯƠNG TÂM NGHỀ NGHIỆP**
-- Đạo đức cao
-- Làm việc với **CÁI TÂM**
-- Không **BON CHEN, THỦ ĐOẠN**`,
+    tomTat: `Khi Nguyệt Đức tọa Quan Lộc, đương số thường gặp may mắn trong
+công danh và là người có lương tâm nghề nghiệp. Đạo đức cao, làm việc với cái
+tâm chứ không bon chen hay dùng thủ đoạn.`,
   },
 
   {
@@ -473,10 +406,9 @@ NGHỀ NGHIỆP**.
     cung: ['Quan Lộc'],
     ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 73,
-    tomTat: `**Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
-Đức) đầy đủ tại Quan Lộc:**
-- Theo đuổi công việc liên quan **TÔN GIÁO, TÂM LINH**
-- Hoặc các ngành nghề **CỨU NGƯỜI, GIÚP ĐỜI**`,
+    tomTat: `Khi Nguyệt Đức hội đủ bộ Tứ Đức (Long Đức, Phúc Đức, Thiên Đức,
+Nguyệt Đức) tại Quan Lộc, đương số theo đuổi công việc liên quan tới tôn giáo,
+tâm linh hoặc các ngành nghề cứu người, giúp đời.`,
   },
 
   {
@@ -486,9 +418,8 @@ NGHỀ NGHIỆP**.
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Hình'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Thiên Hình tại Quan Lộc:**
-- Nên chọn **NGHỀ TÍCH PHÚC ĐỨC** để giảm tai họa
-- Bác sĩ, điều dưỡng, công an cứu hộ`,
+    tomTat: `Khi Nguyệt Đức gặp Thiên Hình tại Quan Lộc, đương số nên chọn
+nghề tích phúc đức để giảm tai họa — như bác sĩ, điều dưỡng, công an cứu hộ.`,
   },
 
   {
@@ -498,9 +429,8 @@ NGHỀ NGHIỆP**.
     cung: ['Quan Lộc'],
     ketHop: ['Kình Dương'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Kình Dương tại Quan Lộc:**
-- Nên chọn **NGHỀ TÍCH PHÚC ĐỨC** để giảm tai họa
-- Bác sĩ, điều dưỡng, công an cứu hộ`,
+    tomTat: `Khi Nguyệt Đức gặp Kình Dương tại Quan Lộc, đương số nên chọn
+nghề tích phúc đức để giảm tai họa — như bác sĩ, điều dưỡng, công an cứu hộ.`,
   },
 
   {
@@ -510,9 +440,9 @@ NGHỀ NGHIỆP**.
     cung: ['Quan Lộc'],
     ketHop: ['Hỏa Tinh'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Hỏa Tinh tại Quan Lộc:**
-- Nên chọn **NGHỀ TÍCH PHÚC ĐỨC** để giảm tai họa
-- Ví dụ: tài xế lái xe cấp cứu (Hỏa Tinh + nhanh + cứu người)`,
+    tomTat: `Khi Nguyệt Đức gặp Hỏa Tinh tại Quan Lộc, đương số nên chọn nghề
+tích phúc đức để giảm tai họa. Một ví dụ điển hình là tài xế lái xe cấp cứu —
+kết hợp tính nhanh của Hỏa Tinh với việc cứu người.`,
   },
 
   {
@@ -522,9 +452,8 @@ NGHỀ NGHIỆP**.
     cung: ['Quan Lộc'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Hóa Kỵ tại Quan Lộc:**
-- Nên chọn **NGHỀ TÍCH PHÚC ĐỨC** để giảm tai họa
-- Bác sĩ, điều dưỡng, công an cứu hộ`,
+    tomTat: `Khi Nguyệt Đức gặp **Hóa Kỵ** tại Quan Lộc, đương số nên chọn
+nghề tích phúc đức để giảm tai họa — như bác sĩ, điều dưỡng, công an cứu hộ.`,
   },
 
   {
@@ -533,18 +462,14 @@ NGHỀ NGHIỆP**.
     sao: ['Nguyệt Đức'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Nguyệt Đức tại Nô Bộc** — bạn bè **HIỀN LÀNH, NHÂN HẬU**.
+    tomTat: `Khi Nguyệt Đức tọa Nô Bộc, bè bạn cùng người làm, người giúp việc
+của đương số thường hiền lành, nhân hậu, biết nhường nhịn và giúp đỡ nhau.
+Đương số hay có nhân duyên được người nữ giới giúp đỡ; bạn tốt thường ít,
+nhưng đã quen rồi thì gắn bó lâu dài.
 
-**Đặc trưng:**
-- Bè bạn, người làm, người giúp việc thường **HIỀN LÀNH, NHÂN HẬU**
-- Nhường nhịn **GIÚP ĐỠ NHAU**
-- Hay có **NHÂN DUYÊN ĐƯỢC NGƯỜI NỮ GIỚI GIÚP ĐỠ**
-- Bạn tốt thường ít nhưng đã quen rồi thì **GẮN BÓ LÂU DÀI**
-
-**Khi đi cùng hung tinh:**
-- Bạn xấu **NHIỀU HƠN BẠN TỐT**
-- Nhưng nếu kết được bạn tốt thì **MỐI GIAO TÌNH RẤT BỀN LÂU**, có khả
-  năng đồng hành cùng nhau **ĐẾN GIÀ**`,
+Khi Nguyệt Đức đi cùng hung tinh, bạn xấu sẽ nhiều hơn bạn tốt. Tuy vậy nếu
+đương số kết được bạn tốt thì mối giao tình rất bền lâu, có khả năng đồng hành
+cùng nhau đến già.`,
   },
 
   {
@@ -553,13 +478,9 @@ NGHỀ NGHIỆP**.
     sao: ['Nguyệt Đức'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Nguyệt Đức tại Thiên Di** — ra ngoài **KHIÊM TỐN GIÚP ĐỠ NGƯỜI**.
-
-**Đặc trưng:**
-- Người ra ngoài thường **NHẸ NHÀNG, KHIÊM TỐN**
-- Giúp đỡ mọi người và cũng **ĐƯỢC MỌI NGƯỜI GIÚP ĐỠ**
-- Ra ngoài hay có **NHÂN DUYÊN VỚI NGƯỜI NỮ GIỚI** giúp đỡ
-- Có người **NHẬN LÀM MẸ NUÔI, ĐỠ ĐẦU**`,
+    tomTat: `Khi Nguyệt Đức tọa Thiên Di, đương số ra ngoài thường nhẹ nhàng,
+khiêm tốn — vừa giúp đỡ mọi người, vừa được mọi người giúp đỡ. Ra ngoài hay có
+nhân duyên với nữ giới giúp đỡ; có người nhận làm mẹ nuôi, đỡ đầu.`,
   },
 
   {
@@ -569,12 +490,10 @@ NGHỀ NGHIỆP**.
     cung: ['Thiên Di'],
     ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
-Đức) đầy đủ tại Thiên Di:**
-- Hay lui tới **NƠI TÂM LINH, TÍN NGƯỠNG**
-- Hoặc làm công việc thường xuyên đến **MÔI TRƯỜNG TÂM LINH**:
-  - Phóng viên thu thập thông tin văn hóa
-  - Nhà nghiên cứu tôn giáo`,
+    tomTat: `Khi Nguyệt Đức hội đủ bộ Tứ Đức (Long Đức, Phúc Đức, Thiên Đức,
+Nguyệt Đức) tại Thiên Di, đương số hay lui tới nơi tâm linh, tín ngưỡng. Có
+khi đương số làm công việc thường xuyên đến môi trường tâm linh — như phóng
+viên thu thập thông tin văn hóa, nhà nghiên cứu tôn giáo.`,
   },
 
   {
@@ -584,10 +503,9 @@ NGHỀ NGHIỆP**.
     cung: ['Thiên Di'],
     ketHop: ['Kình Dương'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Kình Dương tại Thiên Di:**
-- Dễ xảy ra **TAI NẠN BẤT NGỜ**
-- Vận số phải **NHỜ NGƯỜI CỨU GIÚP**
-- Cách "**NGHIỆP DUYÊN**" đưa đến sự kết nối nhưng không cát lợi`,
+    tomTat: `Khi Nguyệt Đức gặp Kình Dương tại Thiên Di, đương số dễ xảy ra
+tai nạn bất ngờ; vận số phải nhờ người cứu giúp. Đây là cách "nghiệp duyên"
+đưa đến sự kết nối nhưng không cát lợi.`,
   },
 
   {
@@ -597,10 +515,9 @@ NGHỀ NGHIỆP**.
     cung: ['Thiên Di'],
     ketHop: ['Thiên Hình'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Thiên Hình tại Thiên Di:**
-- Dễ xảy ra **TAI NẠN BẤT NGỜ**
-- Vận số phải **NHỜ NGƯỜI CỨU GIÚP**
-- Cách "**NGHIỆP DUYÊN**" đưa đến sự kết nối nhưng không cát lợi`,
+    tomTat: `Khi Nguyệt Đức gặp Thiên Hình tại Thiên Di, đương số dễ xảy ra
+tai nạn bất ngờ; vận số phải nhờ người cứu giúp. Đây là cách "nghiệp duyên"
+đưa đến sự kết nối nhưng không cát lợi.`,
   },
 
   {
@@ -609,19 +526,15 @@ NGHỀ NGHIỆP**.
     sao: ['Nguyệt Đức'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Nguyệt Đức tại Tật Ách** — giải trừ **TAI NẠN, BỆNH TẬT NHỎ**.
+    tomTat: `Khi Nguyệt Đức tọa Tật Ách, đương số có khả năng giải trừ tai
+nạn, bệnh tật nhỏ — sử dụng phước đức và may mắn để cứu chữa. Càng tích phúc
+nhiều, càng nhiều may mắn thoát tai họa; bệnh tật thì gặp được bác sĩ giỏi
+cứu chữa.
 
-**Đặc trưng:**
-- Có khả năng **GIẢI TRỪ** tai nạn, bệnh tật nhỏ
-- Sử dụng **PHƯỚC ĐỨC, MAY MẮN** để cứu chữa
-- Càng **TÍCH PHÚC NHIỀU**: càng nhiều may mắn thoát tai họa
-- Bệnh tật thì **GẶP BÁC SĨ GIỎI** cứu chữa
-
-**Đặc trưng tâm linh:**
-- Gặp tai họa hay được **NGƯỜI PHỤ NỮ CỨU GIÚP**
-- Đi chùa xin **ĐỨC BÀ QUAN ÂM** phù trì cứu giúp
-- Niềm tin "**ẨN GIẤU**" với tâm linh
-- Có thể ngoài mặt không công nhận, sâu bên trong là niềm tin sâu sắc`,
+Đặc trưng tâm linh tại cung này: khi gặp tai họa, đương số hay được người phụ
+nữ cứu giúp; thường đi chùa xin Đức Bà Quan Âm phù trì. Niềm tin tâm linh ở
+đây mang tính "ẩn giấu" — có thể ngoài mặt không công nhận nhưng sâu bên trong
+là niềm tin sâu sắc.`,
   },
 
   {
@@ -631,10 +544,9 @@ NGHỀ NGHIỆP**.
     cung: ['Tật Ách'],
     ketHop: ['Địa Không'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Địa Không tại Tật Ách:**
-- Hình thành **NIỀM TIN MÙ QUÁNG**
-- Tin vào **TÂM LINH CHỮA BỆNH** tốt hơn khoa học
-- Cần thận trọng`,
+    tomTat: `Khi Nguyệt Đức gặp Địa Không tại Tật Ách, đương số dễ hình thành
+niềm tin mù quáng — tin vào tâm linh chữa bệnh tốt hơn khoa học. Cần thận
+trọng.`,
   },
 
   {
@@ -644,10 +556,9 @@ NGHỀ NGHIỆP**.
     cung: ['Tật Ách'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Địa Kiếp tại Tật Ách:**
-- Hình thành **NIỀM TIN MÙ QUÁNG**
-- Tin vào **TÂM LINH CHỮA BỆNH** tốt hơn khoa học
-- Cần thận trọng`,
+    tomTat: `Khi Nguyệt Đức gặp Địa Kiếp tại Tật Ách, đương số dễ hình thành
+niềm tin mù quáng — tin vào tâm linh chữa bệnh tốt hơn khoa học. Cần thận
+trọng.`,
   },
 
   {
@@ -657,10 +568,9 @@ NGHỀ NGHIỆP**.
     cung: ['Tật Ách'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Hóa Kỵ tại Tật Ách:**
-- Hình thành **NIỀM TIN MÙ QUÁNG**
-- Tin vào **TÂM LINH CHỮA BỆNH** tốt hơn khoa học
-- Cần thận trọng`,
+    tomTat: `Khi Nguyệt Đức gặp **Hóa Kỵ** tại Tật Ách, đương số dễ hình thành
+niềm tin mù quáng — tin vào tâm linh chữa bệnh tốt hơn khoa học. Cần thận
+trọng.`,
   },
 
   {
@@ -669,15 +579,11 @@ NGHỀ NGHIỆP**.
     sao: ['Nguyệt Đức'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Nguyệt Đức tại Tài Bạch** — kiếm tiền **LƯƠNG THIỆN, KHÔNG TRANH ĐOẠT**.
-
-**Đặc trưng:**
-- Kiếm tiền **LƯƠNG THIỆN**
-- **KHÔNG THÍCH CẠNH TRANH, TRANH ĐẤU** vì tiền
-- Đôi khi sẵn sàng **CHẤP NHẬN THIỆT BƯỚC** nếu có tranh chấp
-- Hay dùng tiền đem đi **LÀM TỪ THIỆN, CÔNG ĐỨC**
-- Hay được **GIÚP ĐỠ HOẶC GẶP MAY** về tiền bạc
-- **KHÔNG CÓ VẤN ĐỀ KHÓ KHĂN** với tiền bạc`,
+    tomTat: `Khi Nguyệt Đức tọa Tài Bạch, đương số kiếm tiền lương thiện,
+không thích cạnh tranh hay tranh đấu vì tiền. Đôi khi đương số sẵn sàng chấp
+nhận thiệt bước nếu có tranh chấp; hay dùng tiền đem đi làm từ thiện, công
+đức. Đường tiền bạc thường hay được giúp đỡ hoặc gặp may, không có vấn đề
+khó khăn.`,
   },
 
   {
@@ -687,12 +593,11 @@ NGHỀ NGHIỆP**.
     cung: ['Tài Bạch'],
     ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
-Đức) đầy đủ tại Tài Bạch:**
-- Kiếm tiền có **YẾU TỐ TÂM LINH**
-- Người làm việc tâm linh cần **CÓ TÂM, CHỈN CHU, BIẾT NGHĨ CHO NGƯỜI KHÁC**
-- Dễ được **KÍNH TRỌNG, GIỚI THIỆU** nhiều mối làm ăn
-- Ví dụ: chuyên đi quay phim chụp ảnh đám ma, hướng dẫn viên du lịch tâm linh`,
+    tomTat: `Khi Nguyệt Đức hội đủ bộ Tứ Đức (Long Đức, Phúc Đức, Thiên Đức,
+Nguyệt Đức) tại Tài Bạch, đường tiền bạc của đương số có yếu tố tâm linh.
+Người làm việc tâm linh cần có tâm, chỉn chu và biết nghĩ cho người khác —
+nhờ vậy dễ được kính trọng và được giới thiệu nhiều mối làm ăn. Ví dụ: chuyên
+đi quay phim chụp ảnh đám ma, hướng dẫn viên du lịch tâm linh.`,
   },
 
   {
@@ -701,11 +606,8 @@ NGHỀ NGHIỆP**.
     sao: ['Nguyệt Đức'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Nguyệt Đức tại Tử Tức** — con cái **HÒA THUẬN, HIẾU THẢO**.
-
-**Đặc trưng:**
-- Con cái **HÒA THUẬN, HIẾU THẢO**
-- Biết lo cho cha mẹ, nhất là về **HẬU VẬN**`,
+    tomTat: `Khi Nguyệt Đức tọa Tử Tức, con cái đương số hòa thuận và hiếu
+thảo, biết lo cho cha mẹ — nhất là về hậu vận.`,
   },
 
   {
@@ -715,12 +617,10 @@ NGHỀ NGHIỆP**.
     cung: ['Tử Tức'],
     ketHop: ['Hỏa Tinh'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Hỏa Tinh tại Tử Tức:**
-- Thúc đẩy hiện tượng **XA CÁCH** trong mối quan hệ
-- Con cái từ nhỏ **KHÓ NUÔI**
-- Hoặc càng lớn càng **DẦN XA CÁCH** (đi học xa, làm ăn xa nhà)
-- Mặc dù con vẫn **BÁO ĐÁP CÔNG ƠN DƯỠNG DỤC**
-- Nhưng sự xa cách khiến cha mẹ **MANG NHIỀU TÂM TƯ NẶNG LÒNG**`,
+    tomTat: `Khi Nguyệt Đức gặp Hỏa Tinh tại Tử Tức, hiện tượng xa cách trong
+mối quan hệ cha mẹ - con cái bị thúc đẩy: con cái từ nhỏ khó nuôi, hoặc càng
+lớn càng dần xa cách (đi học xa, làm ăn xa nhà). Mặc dù con vẫn báo đáp công
+ơn dưỡng dục, nhưng sự xa cách khiến cha mẹ mang nhiều tâm tư nặng lòng.`,
   },
 
   {
@@ -729,22 +629,17 @@ NGHỀ NGHIỆP**.
     sao: ['Nguyệt Đức'],
     cung: ['Phu Thê'],
     doUuTien: 80,
-    tomTat: `**Nguyệt Đức tại Phu Thê** — **HỢP NHẤT** ở cung này, đức hạnh người vợ.
+    tomTat: `Nguyệt Đức hợp nhất ở cung Phu Thê vì là sao duyên nợ — báo hiệu
+vợ chồng có sự ràng buộc khó rời. Người hôn phối có nhan sắc, đứng đắn, nhẹ
+nhàng và điềm đạm; bản tính hiền lành, hay giúp đỡ người khác và được nhiều
+người quý mến.
 
-**Đặc trưng:**
-- Nguyệt Đức **HỢP NHẤT** ở Phu Thê vì là sao **DUYÊN NỢ**
-- Báo hiệu vợ chồng có sự **RÀNG BUỘC KHÓ RỜI**
-- Người hôn phối có **NHAN SẮC, ĐỨNG ĐẮN, NHẸ NHÀNG, ĐIỀM ĐẠM**
-- Người hôn phối **HIỀN LÀNH**, hay giúp đỡ người khác
-- Được **NHIỀU NGƯỜI QUÝ MẾN**
+Trong cuộc sống hôn nhân, người hôn phối thường là người chấp nhận nhún nhường
+để tránh mâu thuẫn, cãi vã.
 
-**Trong cuộc sống hôn nhân:**
-- Thường là người **CHẤP NHẬN NHÚN NHƯỜNG** để tránh mâu thuẫn, cãi vã
-
-**Đặc biệt cho NỮ MỆNH (cung Thê):**
-- Người vợ **NHU MỲ, HIỀN HẬU, DỊU DÀNG, ĐOAN CHÍNH, NGAY THẲNG**
-- Khéo léo **NỮ CÔNG GIA CHÁNH, NỘI TRỢ, THÊU THÙA**
-- Năng khiếu **HỘI HỌA, ÂM NHẠC**`,
+Đặc biệt với nữ mệnh (cung Thê), người vợ nhu mỳ, hiền hậu, dịu dàng, đoan
+chính và ngay thẳng. Đương số khéo léo trong nữ công gia chánh, nội trợ, thêu
+thùa, có năng khiếu hội họa và âm nhạc.`,
   },
 
   {
@@ -754,10 +649,9 @@ NGHỀ NGHIỆP**.
     cung: ['Phu Thê'],
     ketHop: ['Thiên Khôi', 'Thiên Việt', 'Văn Xương', 'Văn Khúc', 'Hóa Lộc'],
     doUuTien: 73,
-    tomTat: `**Nguyệt Đức + Thiên Khôi + Thiên Việt + Văn Xương + Văn Khúc +
-Hóa Lộc tại Phu Thê:**
-- Hôn nhân **BỀN VỮNG**
-- Tình nghĩa vợ chồng **SẮT SON**`,
+    tomTat: `Khi Nguyệt Đức gặp Thiên Khôi, Thiên Việt, **Văn Xương**, **Văn
+Khúc** cùng **Hóa Lộc** tại Phu Thê, hôn nhân bền vững, tình nghĩa vợ chồng
+sắt son.`,
   },
 
   {
@@ -767,10 +661,9 @@ Hóa Lộc tại Phu Thê:**
     cung: ['Phu Thê'],
     ketHop: ['Kình Dương'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Kình Dương tại Phu Thê:**
-- "**OAN GIA NGÕ HẸP**"
-- Đến với nhau nhiều khổ đau nhưng khó dứt
-- Như để **TRẢ MỘT MÓN NỢ TIỀN DUYÊN**`,
+    tomTat: `Khi Nguyệt Đức gặp Kình Dương tại Phu Thê, vợ chồng đương số
+mang cách "oan gia ngõ hẹp" — đến với nhau nhiều khổ đau nhưng khó dứt, như
+để trả một món nợ tiền duyên.`,
   },
 
   {
@@ -780,10 +673,9 @@ Hóa Lộc tại Phu Thê:**
     cung: ['Phu Thê'],
     ketHop: ['Đà La'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Đà La tại Phu Thê:**
-- "**OAN GIA NGÕ HẸP**"
-- Đến với nhau nhiều khổ đau nhưng khó dứt
-- Như để **TRẢ MỘT MÓN NỢ TIỀN DUYÊN**`,
+    tomTat: `Khi Nguyệt Đức gặp Đà La tại Phu Thê, vợ chồng đương số mang
+cách "oan gia ngõ hẹp" — đến với nhau nhiều khổ đau nhưng khó dứt, như để
+trả một món nợ tiền duyên.`,
   },
 
   {
@@ -793,10 +685,9 @@ Hóa Lộc tại Phu Thê:**
     cung: ['Phu Thê'],
     ketHop: ['Hỏa Tinh'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Hỏa Tinh tại Phu Thê:**
-- "**OAN GIA NGÕ HẸP**"
-- Đến với nhau nhiều khổ đau nhưng khó dứt
-- Như để **TRẢ MỘT MÓN NỢ TIỀN DUYÊN**`,
+    tomTat: `Khi Nguyệt Đức gặp Hỏa Tinh tại Phu Thê, vợ chồng đương số mang
+cách "oan gia ngõ hẹp" — đến với nhau nhiều khổ đau nhưng khó dứt, như để
+trả một món nợ tiền duyên.`,
   },
 
   {
@@ -806,10 +697,9 @@ Hóa Lộc tại Phu Thê:**
     cung: ['Phu Thê'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Địa Kiếp tại Phu Thê:**
-- "**OAN GIA NGÕ HẸP**"
-- Đến với nhau nhiều khổ đau nhưng khó dứt
-- Như để **TRẢ MỘT MÓN NỢ TIỀN DUYÊN**`,
+    tomTat: `Khi Nguyệt Đức gặp Địa Kiếp tại Phu Thê, vợ chồng đương số mang
+cách "oan gia ngõ hẹp" — đến với nhau nhiều khổ đau nhưng khó dứt, như để
+trả một món nợ tiền duyên.`,
   },
 
   {
@@ -819,10 +709,9 @@ Hóa Lộc tại Phu Thê:**
     cung: ['Phu Thê'],
     ketHop: ['Địa Không'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Địa Không tại Phu Thê:**
-- "**OAN GIA NGÕ HẸP**"
-- Đến với nhau nhiều khổ đau nhưng khó dứt
-- Như để **TRẢ MỘT MÓN NỢ TIỀN DUYÊN**`,
+    tomTat: `Khi Nguyệt Đức gặp Địa Không tại Phu Thê, vợ chồng đương số mang
+cách "oan gia ngõ hẹp" — đến với nhau nhiều khổ đau nhưng khó dứt, như để
+trả một món nợ tiền duyên.`,
   },
 
   {
@@ -831,12 +720,8 @@ Hóa Lộc tại Phu Thê:**
     sao: ['Nguyệt Đức'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Nguyệt Đức tại Huynh Đệ** — anh chị em **THUẬN HÒA, GIÚP ĐỠ NHAU**.
-
-**Đặc trưng:**
-- Anh chị em **THUẬN HÒA**
-- Hay **GIÚP ĐỠ LẪN NHAU**
-- Biết **YÊU THƯƠNG, ĐÙM BỌC NHAU**`,
+    tomTat: `Khi Nguyệt Đức tọa Huynh Đệ, anh chị em đương số thuận hòa, hay
+giúp đỡ lẫn nhau, biết yêu thương và đùm bọc nhau.`,
   },
 
   {
@@ -846,10 +731,9 @@ Hóa Lộc tại Phu Thê:**
     cung: ['Huynh Đệ'],
     ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 70,
-    tomTat: `**Nguyệt Đức + Tứ Đức (Long Đức / Phúc Đức / Thiên Đức / Nguyệt
-Đức) đầy đủ tại Huynh Đệ:**
-- Anh em có người **HƯỚNG ĐẠO**
-- Thích **TU HÀNH, LÀM VIỆC THIỆN** để tích phúc đức`,
+    tomTat: `Khi Nguyệt Đức hội đủ bộ Tứ Đức (Long Đức, Phúc Đức, Thiên Đức,
+Nguyệt Đức) tại Huynh Đệ, anh em đương số có người hướng đạo, thích tu hành
+và làm việc thiện để tích phúc đức.`,
   },
 
   {
@@ -859,8 +743,8 @@ Hóa Lộc tại Phu Thê:**
     cung: ['Huynh Đệ'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 68,
-    tomTat: `**Nguyệt Đức + sát tinh (Tứ Sát) tại Huynh Đệ:**
-- Anh em lại trở thành **GÁNH NẶNG**
-- Muốn giúp nhưng lại thành **LÀM PHIỀN, GÂY LIÊN LỤY**`,
+    tomTat: `Khi Nguyệt Đức gặp bộ Tứ Sát (Kình Dương, Đà La, Hỏa Tinh, Linh
+Tinh) tại Huynh Đệ, anh em đương số lại trở thành gánh nặng — muốn giúp đỡ
+nhưng kết cục lại làm phiền và gây liên lụy.`,
   },
 ];
