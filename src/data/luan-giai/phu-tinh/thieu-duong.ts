@@ -14,48 +14,43 @@ export const luanGiai_ThieuDuong: DoanLuanGiai[] = [
     title: 'Thiếu Dương - Đặc tính chung',
     sao: ['Thiếu Dương'],
     doUuTien: 32,
-    tomTat: `**Thiếu Dương** — phụ tinh **THIỆN TINH** trong **vòng Thái Tuế**, vị trí thứ **2**
-(ngay sau Thái Tuế).
+    tomTat: `**Thiếu Dương** là phụ tinh thuộc nhóm Thiện Tinh trong vòng Thái
+Tuế, đứng ngay sau Thái Tuế ở vị trí thứ hai. Sao này hành Hỏa, hóa khí là
+Thiện Tinh, được hình tượng hóa như một mặt trời nhỏ soi sáng vạn vật.
 
-**Ngũ hành:** **Hỏa**.
+Tố chất nổi bật:
 
-**Hóa khí:** **Thiện Tinh**.
+- Thông minh, nổi trội, tài năng bộc lộ ra ngoài
+- Ai trông thấy ánh sáng của sao này đều dễ sinh lòng yêu thích, hâm mộ
+- Mang đặc tính dương — luôn nổi bật và chủ động
 
-**Hình tượng:** được ví như **MỘT MẶT TRỜI NHỎ** soi sáng mọi thứ:
-- Tố chất **THÔNG MINH**, **NỔI TRỘI**, bộc lộ ra ngoài
-- Ai thấy được ánh sáng của Thiếu Dương đều **YÊU THÍCH, HÂM MỘ**
-- Mang **đặc tính DƯƠNG** — luôn nổi bật, chủ động
+Vị thế trong vòng Thái Tuế khá đặc biệt: bên cạnh Thiếu Dương luôn có Thiên
+Không (Thái Bạch Kim Tinh) — vị thần can gián, dạy bảo khi sao này đi sai
+đường hoặc vượt quyền vua Thái Tuế. Tam hợp lại đi cùng Đào Hoa và Kiếp Sát.
+Bộ tứ đức Long Đức, Phúc Đức, Thiên Đức, Nguyệt Đức cũng luôn chiếu về cung
+Thiếu Dương theo quy luật an sao cố định.
 
-**Vị thế trong vòng Thái Tuế:**
-- **Bên cạnh LUÔN có Thiên Không** (Thái Bạch Kim Tinh) — vị thần **CAN GIÁN, DẠY
-  BẢO** Thiếu Dương khi sai đường hoặc **vượt quyền vua** (Thái Tuế)
-- Tam hợp với **Đào Hoa** và **Kiếp Sát**
+Nhờ vị thế đó, sao này có khả năng gia tăng phúc thọ, cứu khốn phò nguy,
+tiêu trừ nhiều bệnh tật và tai họa cho đương số.`,
+    chiTiet: `Thiếu Dương vốn là sao mang hai mặt rõ rệt.
 
-**Bộ TỨ ĐỨC LUÔN CHIẾU:** Long Đức, Phúc Đức, Thiên Đức, Nguyệt Đức **luôn
-chiếu** về cung Thiếu Dương — do quy luật an sao cố định.
+Mặt tốt:
 
-**Đặc tính:** **GIA TĂNG PHÚC THỌ, CỨU KHỐN PHÒ NGUY, TIÊU TRỪ NHIỀU BỆNH TẬT,
-TAI HỌA**.`,
-    chiTiet: `**Bản chất 2 mặt:**
+- Đương số có nhiều tài năng và khả năng cứu giải mạnh
+- Nhân hậu, ưa làm việc thiện
+- Có cơ duyên giác ngộ về tâm linh
 
-**Mặt tốt:**
-- **NHIỀU TÀI NĂNG**
-- Khả năng **CỨU GIẢI** mạnh
-- **NHÂN HẬU, từ thiện**
-- Có **CƠ DUYÊN GIÁC NGỘ** tâm linh
+Mặt xấu:
 
-**Mặt xấu:**
-- **LẮM TÀI MÀ NHIỀU TẬT**
-- Nếu không cẩn thận sẽ **MẮC SAI LẦM LỚN** và phải **HỐI TIẾC** (do Thiên Không
-  đi cùng)
-- Tính lạc quan quá: tự đẩy bản thân vào **NGHỊCH CẢNH**
+- Lắm tài mà nhiều tật
+- Nếu không cẩn thận sẽ mắc sai lầm lớn rồi phải hối tiếc — do Thiên Không
+  luôn đi cùng để cảnh tỉnh
+- Tính lạc quan quá mức đôi khi tự đẩy đương số vào nghịch cảnh
 
-**Đặc trưng tam hợp Thiếu Dương + Thiên Không + Đào Hoa + Kiếp Sát:**
-- **BÙNG LÊN NHANH CHÓNG**
-- Nổi trội, **ĐA TÀI**
-- Nhưng **lắm tật**, nhiều **tai họa** đi kèm
-
-- TRÁI NGƯỢC hoàn toàn với tam hợp **Âm Long Trực** ôn hòa nhường nhịn.`,
+Tam hợp Thiếu Dương + Thiên Không + Đào Hoa + Kiếp Sát là một bộ rất đặc
+trưng: bùng lên nhanh chóng, nổi trội, đa tài, song lắm tật và kéo theo
+nhiều tai họa. Bộ này trái ngược hoàn toàn với tam hợp Âm Long Trực ôn hòa
+nhường nhịn của Thiếu Âm.`,
   },
 
   {
@@ -64,15 +59,13 @@ TAI HỌA**.`,
     sao: ['Thiếu Dương'],
     ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Không (LUÔN đi cùng) cùng TỨ ĐỨC chiếu** (Long Đức + Phúc Đức + Thiên Đức + Nguyệt Đức):
+    tomTat: `Khi Thiếu Dương đi cùng Thiên Không (vốn luôn cận kề) và bộ Tứ Đức
+chiếu — Long Đức, Phúc Đức, Thiên Đức, Nguyệt Đức — đương số có nhiều cơ
+duyên giác ngộ về tâm linh, ưa tìm hiểu Phật pháp và mang thiên hướng hành
+thiện tích đức, gieo phúc giúp người.
 
-**Cơ duyên TÂM LINH:**
-- Người có **NHIỀU CƠ DUYÊN GIÁC NGỘ**
-- **Thích tìm hiểu** về **TÂM LINH, PHẬT PHÁP**
-- Có thiên hướng **HÀNH THIỆN, TÍCH ĐỨC**, gieo phúc giúp người
-
-- Đây là cách cục **TÂM LINH ĐẸP** — người Thiếu Dương dù không xuất gia thì
-cũng dễ trở thành **CƯ SỸ**, ưa nghiên cứu **đạo lý**.`,
+Đây là cách cục tâm linh đẹp: dù không xuất gia, đương số cũng dễ trở thành
+cư sỹ, ưa nghiên cứu đạo lý.`,
   },
 
   {
@@ -81,7 +74,9 @@ cũng dễ trở thành **CƯ SỸ**, ưa nghiên cứu **đạo lý**.`,
     sao: ['Thiếu Dương'],
     ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức', 'Ân Quang'],
     doUuTien: 65,
-    tomTat: `**Thiếu Dương + Ân Quang:** thiện tâm càng rõ, dễ trở thành **người DẪN DẮT TINH THẦN** cho cộng đồng nhỏ.`,
+    tomTat: `Khi Ân Quang góp mặt cùng bộ Thiếu Dương + Thiên Không + Tứ Đức,
+thiện tâm của đương số càng rõ nét, dễ trở thành người dẫn dắt tinh thần
+cho một cộng đồng nhỏ.`,
   },
 
   {
@@ -90,7 +85,9 @@ cũng dễ trở thành **CƯ SỸ**, ưa nghiên cứu **đạo lý**.`,
     sao: ['Thiếu Dương'],
     ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức', 'Thiên Quý'],
     doUuTien: 65,
-    tomTat: `**Thiếu Dương + Thiên Quý:** thiện tâm càng rõ, dễ trở thành **người DẪN DẮT TINH THẦN** cho cộng đồng nhỏ.`,
+    tomTat: `Khi Thiên Quý góp mặt cùng bộ Thiếu Dương + Thiên Không + Tứ Đức,
+thiện tâm của đương số càng rõ nét, dễ trở thành người dẫn dắt tinh thần
+cho một cộng đồng nhỏ.`,
   },
 
   {
@@ -99,7 +96,9 @@ cũng dễ trở thành **CƯ SỸ**, ưa nghiên cứu **đạo lý**.`,
     sao: ['Thiếu Dương'],
     ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức', 'Thiên Quan'],
     doUuTien: 65,
-    tomTat: `**Thiếu Dương + Thiên Quan:** thiện tâm càng rõ, dễ trở thành **người DẪN DẮT TINH THẦN** cho cộng đồng nhỏ.`,
+    tomTat: `Khi Thiên Quan góp mặt cùng bộ Thiếu Dương + Thiên Không + Tứ Đức,
+thiện tâm của đương số càng rõ nét, dễ trở thành người dẫn dắt tinh thần
+cho một cộng đồng nhỏ.`,
   },
 
   {
@@ -108,7 +107,9 @@ cũng dễ trở thành **CƯ SỸ**, ưa nghiên cứu **đạo lý**.`,
     sao: ['Thiếu Dương'],
     ketHop: ['Thiên Không', 'Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức', 'Thiên Phúc'],
     doUuTien: 65,
-    tomTat: `**Thiếu Dương + Thiên Phúc:** thiện tâm càng rõ, dễ trở thành **người DẪN DẮT TINH THẦN** cho cộng đồng nhỏ.`,
+    tomTat: `Khi Thiên Phúc góp mặt cùng bộ Thiếu Dương + Thiên Không + Tứ Đức,
+thiện tâm của đương số càng rõ nét, dễ trở thành người dẫn dắt tinh thần
+cho một cộng đồng nhỏ.`,
   },
 
   {
@@ -117,20 +118,16 @@ cũng dễ trở thành **CƯ SỸ**, ưa nghiên cứu **đạo lý**.`,
     sao: ['Thiếu Dương'],
     cung: ['Mệnh', 'Tật Ách'],
     doUuTien: 50,
-    tomTat: `**Thiếu Dương là một SAO GIẢI MẠNH:**
+    tomTat: `Thiếu Dương được xếp vào nhóm sao Giải mạnh: có khả năng giải trừ
+tai nạn và bệnh tật ở mức nhỏ, hiệu quả cứu giải tương đương bộ Tứ Đức gồm
+Long Đức, Phúc Đức, Thiên Đức và Nguyệt Đức. Cùng nhóm Giải Tinh với Thiếu
+Dương còn có Thiếu Âm, Thiên Giải, Địa Giải, Giải Thần, Thiên Quan, Thiên
+Phúc, Quang Quý, Tả Hữu, Sinh Vượng.
 
-**Khả năng:**
-- **GIẢI TRỪ tai nạn, bệnh tật NHỎ**
-- Hiệu quả **CỨU GIẢI tương đương Tứ Đức** (Long Đức + Phúc Đức + Thiên Đức +
-  Nguyệt Đức)
-- Cùng nhóm **GIẢI TINH** với Thiếu Âm, Thiên Giải, Địa Giải, Giải Thần, Thiên
-  Quan, Thiên Phúc, Quang Quý, Tả Hữu, Sinh Vượng
-
-**Tuy nhiên - TỰ NỖ LỰC:**
-Bản chất Thiếu Dương là sự **NỖ LỰC**:
-- Bản mệnh phải **TỰ MÌNH CHÚ TÂM** vào sức khỏe
-- **CHỦ ĐỘNG THAY ĐỔI** thói quen sinh hoạt
--: Mới cải thiện được bệnh trạng`,
+Tuy vậy, bản chất Thiếu Dương là sự nỗ lực — đương số phải tự mình chú tâm
+vào sức khỏe và chủ động thay đổi thói quen sinh hoạt thì bệnh trạng mới
+được cải thiện. Sao này không "cứu hộ" thụ động mà đòi hỏi người trong cuộc
+phải tự vận động.`,
   },
 
   {
@@ -139,7 +136,8 @@ Bản chất Thiếu Dương là sự **NỖ LỰC**:
     sao: ['Thiếu Dương'],
     ketHop: ['Địa Không'],
     doUuTien: 45,
-    tomTat: `**Thiếu Dương + Địa Không:** sự cố gắng như **CÔNG DÃ TRÀNG** — nỗ lực nhiều mà hiệu quả chẳng bao nhiêu.`,
+    tomTat: `Khi Thiếu Dương gặp Địa Không, sự cố gắng của đương số chẳng khác
+nào "công dã tràng" — nỗ lực nhiều mà hiệu quả thu về chẳng được bao nhiêu.`,
   },
 
   {
@@ -148,7 +146,8 @@ Bản chất Thiếu Dương là sự **NỖ LỰC**:
     sao: ['Thiếu Dương'],
     ketHop: ['Địa Kiếp'],
     doUuTien: 45,
-    tomTat: `**Thiếu Dương + Địa Kiếp:** sự cố gắng như **CÔNG DÃ TRÀNG** — nỗ lực nhiều mà hiệu quả chẳng bao nhiêu.`,
+    tomTat: `Khi Thiếu Dương gặp Địa Kiếp, sự cố gắng của đương số chẳng khác
+nào "công dã tràng" — nỗ lực nhiều mà hiệu quả thu về chẳng được bao nhiêu.`,
   },
 
   {
@@ -157,22 +156,15 @@ Bản chất Thiếu Dương là sự **NỖ LỰC**:
     sao: ['Thiếu Dương'],
     chi: ['Dần', 'Mão', 'Thìn', 'Tỵ', 'Ngọ'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương ĐẮC ĐỊA tại Dần, Mão, Thìn, Tỵ, Ngọ** — theo các vị trí đắc
-địa của **Thái Dương**.
+    tomTat: `Thiếu Dương **đắc địa** tại Dần, Mão, Thìn, Tỵ, Ngọ — theo cùng các
+vị trí đắc địa của Thái Dương. Chỉ khi đắc địa, sao này mới thực sự có ý
+nghĩa và phát huy hết tác dụng. Khi rơi vào **hãm địa**, Thiếu Dương trở nên
+gần như vô dụng, cần được Thái Dương đi cùng để bổ trợ thêm.
 
-**CHỈ KHI ĐẮC ĐỊA, sao này MỚI có ý nghĩa**, phát huy hết tác dụng.
-
-**Hãm địa:** trở nên **VÔ DỤNG**, cần **đi cùng Thái Dương** để được **bổ
-trợ thêm**.
-
-**Vị trí ĐẸP NHẤT:**
-**Thiếu Dương đắc địa + đồng cung Thái Dương** kết hợp với
-**Thiếu Âm đắc địa + đồng cung Thái Âm**:
-- Ý nghĩa **CỰC RỰC RỠ** — như **MẶT TRỜI và MẶT TRĂNG** đều **CÓ ĐÔI**, cùng
-**TỎA SÁNG SONG SONG**.
-
-**Nếu chỉ HỘI CHIẾU (không đồng cung):** vẫn **SÁNG LẠN**, nhưng không bằng
-vị trí đồng cung đắc địa.`,
+Vị trí đẹp nhất là khi Thiếu Dương đắc địa đồng cung Thái Dương, kết hợp với
+Thiếu Âm đắc địa đồng cung Thái Âm — ý nghĩa cực kỳ rực rỡ, như mặt trời và
+mặt trăng đều có đôi cùng tỏa sáng song song. Nếu chỉ hội chiếu (không đồng
+cung) thì cách vẫn sáng lạn, song không thể bằng vị trí đồng cung đắc địa.`,
   },
 
   {
@@ -181,20 +173,17 @@ vị trí đồng cung đắc địa.`,
     sao: ['Thiếu Dương'],
     ketHop: ['Thái Dương'],
     doUuTien: 78,
-    tomTat: `**Thiếu Dương + Thái Dương** (đồng cung hoặc hội chiếu):
+    tomTat: `Khi Thiếu Dương đi cùng Thái Dương (đồng cung hoặc hội chiếu),
+đương số thông minh tột bậc, nổi danh trong lĩnh vực của mình và tiếng tăm
+vươn xa.
 
-**Đặc trưng:**
-- **THÔNG MINH TỘT BẬC**
-- **NỔI DANH**, nhiều người biết đến
-- **Danh tiếng vươn xa**
+Đắc cách đẹp nhất là khi Thái Dương ở **Miếu** hoặc **Vượng** lại có thêm
+Hóa Quyền, Hóa Khoa, Hóa Lộc cùng cát tinh hội tụ: sự nghiệp vững vàng, học
+vấn cao, danh tiếng nổi trội trong chuyên môn, đặc biệt thuận lợi cho việc
+xuất ngoại, học hành và mở rộng quan hệ xã hội.
 
-**Đắc cách đẹp nhất:** Thiếu Dương + **Thái Dương MIẾU VƯỢNG**:
-- Thêm **Hóa Quyền / Hóa Khoa / Hóa Lộc + Cát Tinh**: sự nghiệp **VỮNG VÀNG**
-- Học vấn cao, danh tiếng **NỔI TRỘI** trong lĩnh vực chuyên môn
-- Đặc biệt tốt cho **xuất ngoại, học hành**, mở rộng quan hệ xã hội
-
-- Đây là cách **TĂNG CƯỜNG** sức mạnh của Thái Dương — Thiếu Dương như "**mặt
-trời con**" làm sáng tỏ "**mặt trời mẹ**" Thái Dương.`,
+Đây là cách tăng cường sức mạnh của Thái Dương — Thiếu Dương đóng vai "mặt
+trời con" làm sáng tỏ thêm cho "mặt trời mẹ".`,
   },
 
   {
@@ -203,28 +192,20 @@ trời con**" làm sáng tỏ "**mặt trời mẹ**" Thái Dương.`,
     sao: ['Thiếu Dương'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Thiếu Dương thủ Mệnh:**
+    tomTat: `Khi Thiếu Dương thủ Mệnh, đương số trí óc thông tuệ, tính tình
+vui vẻ, hòa nhã, nhân hậu và hay làm việc thiện — chẳng khác nào ánh mặt
+trời sưởi ấm vạn vật. Khí chất ấm áp, sẵn lòng giúp đỡ người khác là nét
+nổi bật.
 
-**Tính cách nổi bật:**
-- **TRÍ ÓC THÔNG TUỆ**
-- **VUI VẺ, HÒA NHÃ, NHÂN HẬU, TỪ THIỆN**
-- Giống như **ÁNH MẶT TRỜI SƯỞI ẤM VẠN VẬT**
-- Khí chất **ẤM ÁP**, hay **GIÚP ĐỠ NGƯỜI KHÁC**
+Đi đâu đương số cũng được người thương kẻ mến, dễ tạo thiện cảm dù chỉ mới
+gặp gỡ. Bản tính chăm chỉ, kỷ luật cao, suy nghĩ tích cực; tựa như một mặt
+trời nhỏ tỏa sáng đến mọi người và được nhiều người mến mộ, quý mến.
 
-**Đặc trưng:**
-- Đi đâu cũng được **NGƯỜI THƯƠNG KẺ MẾN**
-- **Dễ tạo thiện cảm** dù chỉ mới gặp gỡ
-- **CHĂM CHỈ, KỶ LUẬT CAO**, suy nghĩ **TÍCH CỰC**
-- Tựa như **mặt trời nhỏ** tỏa sáng đến cho mọi người
-- Được **NHIỀU NGƯỜI MẾN MỘ, QUÝ MẾN**
-
-**Điểm yếu:**
-- Đôi khi vì **LẠC QUAN QUÁ MỨC** mà tự **đẩy bản thân vào NGHỊCH CẢNH**
-- Nhờ sự **SÁNG SUỐT và NGHỊ LỰC**, thường tìm ra **xoay chuyển cục diện vào
-  PHÚT CHÓT**
-
-**Ý nghĩa nhân hậu** tương tự ý nghĩa của **Tứ Đức** (do Thiếu Dương luôn
-có Tứ Đức chiếu về).`,
+Điểm yếu của đương số là đôi khi vì lạc quan quá mức mà tự đẩy bản thân vào
+nghịch cảnh; tuy vậy nhờ sự sáng suốt và nghị lực, đương số thường tìm ra
+cách xoay chuyển cục diện vào phút chót. Ý nghĩa nhân hậu của Mệnh này
+tương tự ý nghĩa của bộ Tứ Đức — vốn luôn chiếu về Thiếu Dương theo quy
+luật an sao.`,
   },
 
   {
@@ -233,18 +214,14 @@ có Tứ Đức chiếu về).`,
     sao: ['Thiếu Dương'],
     ketHop: ['Đào Hoa'],
     doUuTien: 65,
-    tomTat: `**Thiếu Dương + Đào Hoa đồng cung:**
+    tomTat: `Khi Thiếu Dương đồng cung Đào Hoa, đương số được nhiều người khác
+giới mến mộ, song duyên tình lại đa đoan và lắm khi dở dang — yêu nhiều, dở
+dang nhiều.
 
-**Đặc trưng:**
-- **NHIỀU NGƯỜI KHÁC GIỚI MẾN MỘ**
-- **NHIỀU DUYÊN TÌNH DỞ DANG**
-- **Đa đoan duyên tình** — yêu nhiều, dở dang nhiều
-
-- Vì Thiếu Dương vốn đã thu hút (mặt trời nhỏ): khi cộng thêm Đào Hoa: **đào
-hoa CỘNG HƯỞNG**, mất kiểm soát.
-
-Nếu thuộc tam hợp Thiếu Dương + Thiên Không + Đào Hoa + Kiếp Sát: tài hoa
-nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**.`,
+Sở dĩ như vậy vì Thiếu Dương vốn đã thu hút như một mặt trời nhỏ; khi cộng
+thêm Đào Hoa thì sức hút cộng hưởng, vượt khỏi tầm kiểm soát. Nếu thuộc tam
+hợp Thiếu Dương + Thiên Không + Đào Hoa + Kiếp Sát thì tài hoa nhưng lắm
+tật, duyên tình thường có kết cục không may.`,
   },
 
   {
@@ -253,10 +230,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     sao: ['Thiếu Dương'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương tại Phụ Mẫu:**
-- Cha mẹ **KHÔN NGOAN, NHÂN HẬU, TỪ THIỆN**
-- **CÓ TAY NGHỀ KHÉO**
-- Sống thiện, biết **đối nhân xử thế**: được mọi người **QUÝ MẾN**`,
+    tomTat: `Khi Thiếu Dương cư Phụ Mẫu, cha mẹ của đương số là người khôn
+ngoan, nhân hậu, ưa làm việc thiện và có tay nghề khéo. Sống thiện và biết
+đối nhân xử thế nên cha mẹ được mọi người quý mến.`,
   },
 
   {
@@ -266,7 +242,10 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phụ Mẫu'],
     ketHop: ['Đào Hoa'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Đào Hoa tại Phụ Mẫu:** một trong hai người làm về **NGHỆ THUẬT, THẨM MỸ, KIẾN TRÚC**, **DANH TIẾNG LẪY LỪNG**, được nhiều người yêu mến, hâm mộ. Cha mẹ có người **ĐÀO HOA**, **NỔI TIẾNG bên ngoài**.`,
+    tomTat: `Khi Thiếu Dương đi cùng Đào Hoa tại Phụ Mẫu, một trong hai đấng
+sinh thành của đương số làm về nghệ thuật, thẩm mỹ hoặc kiến trúc, danh
+tiếng lẫy lừng và được nhiều người yêu mến, hâm mộ — cha mẹ có người đào
+hoa, nổi tiếng bên ngoài.`,
   },
 
   {
@@ -276,7 +255,10 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phụ Mẫu'],
     ketHop: ['Hồng Loan'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Hồng Loan tại Phụ Mẫu:** một trong hai người làm về **NGHỆ THUẬT, THẨM MỸ, KIẾN TRÚC**, **DANH TIẾNG LẪY LỪNG**, được nhiều người yêu mến, hâm mộ. Cha mẹ có người **ĐÀO HOA**, **NỔI TIẾNG bên ngoài**.`,
+    tomTat: `Khi Thiếu Dương đi cùng Hồng Loan tại Phụ Mẫu, một trong hai đấng
+sinh thành của đương số làm về nghệ thuật, thẩm mỹ hoặc kiến trúc, danh
+tiếng lẫy lừng và được nhiều người yêu mến, hâm mộ — cha mẹ có người đào
+hoa, nổi tiếng bên ngoài.`,
   },
 
   {
@@ -286,7 +268,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phụ Mẫu'],
     ketHop: ['Thiên Không'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Không tại Phụ Mẫu:** cha mẹ có **DUYÊN GIÁC NGỘ** về **TÂM LINH, PHẬT PHÁP**. Thích **HÀNH THIỆN TÍCH ĐỨC**, gieo phúc giúp người.`,
+    tomTat: `Khi Thiếu Dương đi cùng Thiên Không tại Phụ Mẫu, cha mẹ của đương
+số có duyên giác ngộ về tâm linh, Phật pháp; thích hành thiện tích đức và
+gieo phúc giúp người.`,
   },
 
   {
@@ -296,7 +280,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phụ Mẫu'],
     ketHop: ['Ân Quang'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Ân Quang tại Phụ Mẫu:** cha mẹ có **DUYÊN GIÁC NGỘ** về **TÂM LINH, PHẬT PHÁP**. Thích **HÀNH THIỆN TÍCH ĐỨC**, gieo phúc giúp người.`,
+    tomTat: `Khi Thiếu Dương đi cùng Ân Quang tại Phụ Mẫu, cha mẹ của đương số
+có duyên giác ngộ về tâm linh, Phật pháp; thích hành thiện tích đức và gieo
+phúc giúp người.`,
   },
 
   {
@@ -306,7 +292,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phụ Mẫu'],
     ketHop: ['Thiên Quý'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Quý tại Phụ Mẫu:** cha mẹ có **DUYÊN GIÁC NGỘ** về **TÂM LINH, PHẬT PHÁP**. Thích **HÀNH THIỆN TÍCH ĐỨC**, gieo phúc giúp người.`,
+    tomTat: `Khi Thiếu Dương đi cùng Thiên Quý tại Phụ Mẫu, cha mẹ của đương số
+có duyên giác ngộ về tâm linh, Phật pháp; thích hành thiện tích đức và gieo
+phúc giúp người.`,
   },
 
   {
@@ -316,7 +304,8 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phụ Mẫu'],
     ketHop: ['Hỏa Tinh'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Hỏa Tinh tại Phụ Mẫu:** mối quan hệ trở nên **XA CÁCH**, cha mẹ có phần **VÔ TÂM** với mình.`,
+    tomTat: `Khi Thiếu Dương đi cùng Hỏa Tinh tại Phụ Mẫu, mối quan hệ giữa
+đương số và cha mẹ trở nên xa cách; cha mẹ có phần vô tâm với đương số.`,
   },
 
   {
@@ -326,7 +315,8 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phụ Mẫu'],
     ketHop: ['Linh Tinh'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Linh Tinh tại Phụ Mẫu:** mối quan hệ trở nên **XA CÁCH**, cha mẹ có phần **VÔ TÂM** với mình.`,
+    tomTat: `Khi Thiếu Dương đi cùng Linh Tinh tại Phụ Mẫu, mối quan hệ giữa
+đương số và cha mẹ trở nên xa cách; cha mẹ có phần vô tâm với đương số.`,
   },
 
   {
@@ -335,14 +325,12 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     sao: ['Thiếu Dương'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương tại Phúc Đức:** phúc phần **VỮNG CHÃI**:
-- Trong dòng họ **PHÁT MỒ PHÁT MẢ NAM NHÂN**
-- Có **người làm to, có chức quyền**
+    tomTat: `Khi Thiếu Dương đóng tại Phúc Đức, phúc phần của đương số vững
+chãi: dòng họ phát mồ phát mả nam nhân, có người làm to và có chức quyền.
 
-**Đặc điểm THIÊN KHÔNG đi cùng:**
-- Dù phúc đẹp nhưng đương số **KHÔNG ĐƯỢC HƯỞNG NHIỀU may mắn tổ tiên** để lại
-- Phải **TỰ TÔN BỒI, XÂY ĐẮP THÊM**
-- Người thường **LY HƯƠNG TỔ NGHIỆP**, **CƯỚI VỢ CƯỚI CHỒNG NƠI PHƯƠNG XA**`,
+Tuy vậy do Thiên Không luôn đi cùng nên dù phúc đẹp, đương số không được
+hưởng nhiều may mắn từ tổ tiên để lại — phải tự tôn bồi, xây đắp thêm.
+Đương số thường ly hương tổ nghiệp, dựng vợ gả chồng nơi phương xa.`,
   },
 
   {
@@ -352,7 +340,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Đồng', 'Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Đồng + Hóa Kỵ tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức gặp Thiên Đồng cùng Hóa Kỵ, đương số
+dễ rơi vào cảnh "sướng trước khổ sau" — một lần phát phúc lớn nhưng về sau
+lại gặp nhiều xui rủi.`,
   },
 
   {
@@ -362,7 +352,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Đồng', 'Thiên Hình'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Đồng + Thiên Hình tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức gặp Thiên Đồng cùng Thiên Hình, đương
+số dễ rơi vào cảnh "sướng trước khổ sau" — một lần phát phúc lớn nhưng về
+sau lại gặp nhiều xui rủi.`,
   },
 
   {
@@ -372,7 +364,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Lương', 'Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Lương + Hóa Kỵ tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức gặp Thiên Lương cùng Hóa Kỵ, đương số
+dễ rơi vào cảnh "sướng trước khổ sau" — một lần phát phúc lớn nhưng về sau
+lại gặp nhiều xui rủi.`,
   },
 
   {
@@ -382,7 +376,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Lương', 'Thiên Hình'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Lương + Thiên Hình tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức gặp Thiên Lương cùng Thiên Hình, đương
+số dễ rơi vào cảnh "sướng trước khổ sau" — một lần phát phúc lớn nhưng về
+sau lại gặp nhiều xui rủi.`,
   },
 
   {
@@ -392,7 +388,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Việt', 'Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Việt + Hóa Kỵ tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức gặp Thiên Việt cùng Hóa Kỵ, đương số
+dễ rơi vào cảnh "sướng trước khổ sau" — một lần phát phúc lớn nhưng về sau
+lại gặp nhiều xui rủi.`,
   },
 
   {
@@ -402,7 +400,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Việt', 'Thiên Hình'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Việt + Thiên Hình tại Phúc Đức:** dễ rơi vào cảnh "**SƯỚNG TRƯỚC KHỔ SAU**" — một lần phát phúc lớn nhưng về sau lại gặp **NHIỀU XUI RỦI**.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức gặp Thiên Việt cùng Thiên Hình, đương
+số dễ rơi vào cảnh "sướng trước khổ sau" — một lần phát phúc lớn nhưng về
+sau lại gặp nhiều xui rủi.`,
   },
 
   {
@@ -412,7 +412,8 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phúc Đức'],
     ketHop: ['Ân Quang'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Ân Quang tại Phúc Đức:** dòng họ nhiều người **HIỀN LƯƠNG**, có **DUYÊN GIÁC NGỘ** và **THỜ PHẬT**.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức đi cùng Ân Quang, dòng họ của đương số
+có nhiều người hiền lương, nhiều duyên giác ngộ và thờ Phật.`,
   },
 
   {
@@ -422,7 +423,8 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Quý'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Quý tại Phúc Đức:** dòng họ nhiều người **HIỀN LƯƠNG**, có **DUYÊN GIÁC NGỘ** và **THỜ PHẬT**.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức đi cùng Thiên Quý, dòng họ của đương
+số có nhiều người hiền lương, nhiều duyên giác ngộ và thờ Phật.`,
   },
 
   {
@@ -433,7 +435,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     ketHop: ['Tả Phù', 'Thái Dương'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Tả Phù + Thái Dương sáng tại Phúc Đức:** thời điểm đương số ra đời cũng là lúc **HỌ HÀNG VƯỢNG PHÁT** — phúc phần gia đình **HƯNG THỊNH**, con cháu dựng vợ gả chồng ổn định.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức đi cùng Tả Phù và Thái Dương sáng,
+thời điểm đương số ra đời cũng là lúc họ hàng vượng phát — phúc phần gia
+đình hưng thịnh, con cháu dựng vợ gả chồng ổn định.`,
   },
 
   {
@@ -444,7 +448,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     ketHop: ['Hữu Bật', 'Thái Dương'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Hữu Bật + Thái Dương sáng tại Phúc Đức:** thời điểm đương số ra đời cũng là lúc **HỌ HÀNG VƯỢNG PHÁT** — phúc phần gia đình **HƯNG THỊNH**, con cháu dựng vợ gả chồng ổn định.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức đi cùng Hữu Bật và Thái Dương sáng,
+thời điểm đương số ra đời cũng là lúc họ hàng vượng phát — phúc phần gia
+đình hưng thịnh, con cháu dựng vợ gả chồng ổn định.`,
   },
 
   {
@@ -455,7 +461,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     ketHop: ['Thiên Khôi', 'Thái Dương'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Khôi + Thái Dương sáng tại Phúc Đức:** thời điểm đương số ra đời cũng là lúc **HỌ HÀNG VƯỢNG PHÁT** — phúc phần gia đình **HƯNG THỊNH**, con cháu dựng vợ gả chồng ổn định.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức đi cùng Thiên Khôi và Thái Dương sáng,
+thời điểm đương số ra đời cũng là lúc họ hàng vượng phát — phúc phần gia
+đình hưng thịnh, con cháu dựng vợ gả chồng ổn định.`,
   },
 
   {
@@ -466,7 +474,9 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     ketHop: ['Thiên Việt', 'Thái Dương'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Việt + Thái Dương sáng tại Phúc Đức:** thời điểm đương số ra đời cũng là lúc **HỌ HÀNG VƯỢNG PHÁT** — phúc phần gia đình **HƯNG THỊNH**, con cháu dựng vợ gả chồng ổn định.`,
+    tomTat: `Khi Thiếu Dương cư Phúc Đức đi cùng Thiên Việt và Thái Dương sáng,
+thời điểm đương số ra đời cũng là lúc họ hàng vượng phát — phúc phần gia
+đình hưng thịnh, con cháu dựng vợ gả chồng ổn định.`,
   },
 
   {
@@ -475,14 +485,11 @@ nhưng **LẮM TẬT** — duyên tình thường có **kết cục KHÔNG MAY**
     sao: ['Thiếu Dương'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương tại Điền Trạch:**
-- Nhà cửa **THUẬN LỢI**
-- Đi đâu cũng được **GIÚP ĐỠ về NHÀ CỬA**, nơi ăn chốn ở
-- **KHÔNG PHẢI LO LẮNG** về nơi ăn chốn ở
+    tomTat: `Khi Thiếu Dương cư Điền Trạch, đương số có nhà cửa thuận lợi: đi
+đâu cũng được giúp đỡ về nhà cửa, không phải lo lắng về nơi ăn chốn ở.
 
-**Mặt vất vả:**
-Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**TAY TRẮNG DỰNG CƠ
-ĐỒ**".`,
+Mặt vất vả là Thiếu Dương cũng đem lại không ít gian truân, đương số thường
+phải "tay trắng dựng cơ đồ" mới có được sản nghiệp ổn định.`,
   },
 
   {
@@ -492,7 +499,8 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     cung: ['Điền Trạch'],
     ketHop: ['Đào Hoa'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Đào Hoa tại Điền Trạch:** **SỚM CÓ NHÀ CÓ CỬA** từ khi còn trẻ.`,
+    tomTat: `Khi Thiếu Dương cư Điền Trạch đi cùng Đào Hoa, đương số sớm có
+nhà có cửa từ khi còn trẻ.`,
   },
 
   {
@@ -502,7 +510,8 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     cung: ['Điền Trạch'],
     ketHop: ['Tử Vi'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Tử Vi tại Điền Trạch:** nhà dễ **RƯỚC PHẬT VỀ THỜ**.`,
+    tomTat: `Khi Thiếu Dương cư Điền Trạch đi cùng Tử Vi, nhà của đương số dễ
+rước Phật về thờ.`,
   },
 
   {
@@ -512,7 +521,8 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     cung: ['Điền Trạch'],
     ketHop: ['Thiên Phủ'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Phủ tại Điền Trạch:** nhà dễ **RƯỚC PHẬT VỀ THỜ**.`,
+    tomTat: `Khi Thiếu Dương cư Điền Trạch đi cùng Thiên Phủ, nhà của đương số
+dễ rước Phật về thờ.`,
   },
 
   {
@@ -522,7 +532,8 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     cung: ['Điền Trạch'],
     ketHop: ['Ân Quang'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Ân Quang tại Điền Trạch:** nhà dễ **RƯỚC PHẬT VỀ THỜ**.`,
+    tomTat: `Khi Thiếu Dương cư Điền Trạch đi cùng Ân Quang, nhà của đương số
+dễ rước Phật về thờ.`,
   },
 
   {
@@ -532,7 +543,8 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     cung: ['Điền Trạch'],
     ketHop: ['Thiên Quý'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Quý tại Điền Trạch:** nhà dễ **RƯỚC PHẬT VỀ THỜ**.`,
+    tomTat: `Khi Thiếu Dương cư Điền Trạch đi cùng Thiên Quý, nhà của đương số
+dễ rước Phật về thờ.`,
   },
 
   {
@@ -542,7 +554,8 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     cung: ['Điền Trạch'],
     ketHop: ['Thiên Khôi'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Khôi tại Điền Trạch:** càng **ỨNG NGHIỆM** — điền trạch dồi dào.`,
+    tomTat: `Khi Thiếu Dương cư Điền Trạch đi cùng Thiên Khôi, ý nghĩa điền
+trạch dồi dào càng thêm ứng nghiệm cho đương số.`,
   },
 
   {
@@ -552,7 +565,8 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     cung: ['Điền Trạch'],
     ketHop: ['Thiên Việt'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Việt tại Điền Trạch:** càng **ỨNG NGHIỆM** — điền trạch dồi dào.`,
+    tomTat: `Khi Thiếu Dương cư Điền Trạch đi cùng Thiên Việt, ý nghĩa điền
+trạch dồi dào càng thêm ứng nghiệm cho đương số.`,
   },
 
   {
@@ -563,7 +577,8 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     ketHop: ['Thái Dương'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thái Dương miếu vượng tại Điền Trạch:** càng **ỨNG NGHIỆM** — điền trạch dồi dào.`,
+    tomTat: `Khi Thiếu Dương cư Điền Trạch đi cùng Thái Dương ở **Miếu** hoặc
+**Vượng**, ý nghĩa điền trạch dồi dào càng thêm ứng nghiệm cho đương số.`,
   },
 
   {
@@ -573,7 +588,8 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     cung: ['Điền Trạch'],
     ketHop: ['Hóa Lộc'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Hóa Lộc hội chiếu tại Điền Trạch:** từ **TRUNG VẬN trở đi** mới gây dựng được cơ ngơi **VỮNG VÀNG**, hậu vận **AN NHÀN**.`,
+    tomTat: `Khi Thiếu Dương cư Điền Trạch có Hóa Lộc hội chiếu, từ trung vận
+trở đi đương số mới gây dựng được cơ ngơi vững vàng, hậu vận an nhàn.`,
   },
 
   {
@@ -583,7 +599,8 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     cung: ['Điền Trạch'],
     ketHop: ['Lộc Tồn'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Lộc Tồn hội chiếu tại Điền Trạch:** từ **TRUNG VẬN trở đi** mới gây dựng được cơ ngơi **VỮNG VÀNG**, hậu vận **AN NHÀN**.`,
+    tomTat: `Khi Thiếu Dương cư Điền Trạch có Lộc Tồn hội chiếu, từ trung vận
+trở đi đương số mới gây dựng được cơ ngơi vững vàng, hậu vận an nhàn.`,
   },
 
   {
@@ -592,16 +609,13 @@ Thiếu Dương cũng đem lại không ít **VẤT VẢ**, thường phải "**
     sao: ['Thiếu Dương'],
     cung: ['Quan Lộc'],
     doUuTien: 80,
-    tomTat: `**Thiếu Dương tại Quan Lộc:**
-- **SỰ NGHIỆP, CÔNG DANH SÁNG LẠN**
-- **HAY GẶP MAY**
-- Có **LƯƠNG TÂM nghề nghiệp**
-- Sự nghiệp dễ **PHẤT** nhờ **danh tiếng**
-- Đi làm được **NHIỀU NGƯỜI MẾN MỘ**
-- Lời nói có **SỨC LAN TỎA**: công việc hanh thông
+    tomTat: `Khi Thiếu Dương đóng tại Quan Lộc, sự nghiệp và công danh của
+đương số sáng lạn, hay gặp may mắn. Đương số có lương tâm nghề nghiệp, sự
+nghiệp dễ phất lên nhờ danh tiếng; đi làm được nhiều người mến mộ và lời
+nói có sức lan tỏa nên công việc hanh thông.
 
-**Yếu tố LAN TỎA:** công việc có yếu tố **PHỔ CẬP RỘNG, LAN TỎA LỚN** — nhiều
-người **QUÝ MẾN, HÂM MỘ**.`,
+Yếu tố lan tỏa là điểm đặc trưng: công việc của đương số thường mang tính
+phổ cập rộng, tầm ảnh hưởng lớn — nhiều người quý mến, hâm mộ.`,
   },
 
   {
@@ -611,7 +625,9 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Đào Hoa'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương + Đào Hoa tại Quan Lộc:** dễ làm nghề về **LÀM ĐẸP, KIẾN TRÚC, THẨM MỸ**, thiết kế thời trang, MC, người nổi tiếng.`,
+    tomTat: `Khi Thiếu Dương cư Quan Lộc đi cùng Đào Hoa, đương số dễ làm các
+nghề thuộc lĩnh vực làm đẹp, kiến trúc, thẩm mỹ, thiết kế thời trang, dẫn
+chương trình hoặc nghề của người nổi tiếng.`,
   },
 
   {
@@ -621,7 +637,9 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Hồng Loan'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương + Hồng Loan tại Quan Lộc:** dễ làm nghề về **LÀM ĐẸP, KIẾN TRÚC, THẨM MỸ**, thiết kế thời trang, MC, người nổi tiếng.`,
+    tomTat: `Khi Thiếu Dương cư Quan Lộc đi cùng Hồng Loan, đương số dễ làm
+các nghề thuộc lĩnh vực làm đẹp, kiến trúc, thẩm mỹ, thiết kế thời trang,
+dẫn chương trình hoặc nghề của người nổi tiếng.`,
   },
 
   {
@@ -631,7 +649,9 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Đồng'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương + Thiên Đồng tại Quan Lộc:** dễ làm nghề về **LÀM ĐẸP, KIẾN TRÚC, THẨM MỸ**, thiết kế thời trang, MC, người nổi tiếng.`,
+    tomTat: `Khi Thiếu Dương cư Quan Lộc đi cùng Thiên Đồng, đương số dễ làm
+các nghề thuộc lĩnh vực làm đẹp, kiến trúc, thẩm mỹ, thiết kế thời trang,
+dẫn chương trình hoặc nghề của người nổi tiếng.`,
   },
 
   {
@@ -642,7 +662,8 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     ketHop: ['Thái Dương', 'Hóa Quyền'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương + Thái Dương miếu vượng + Hóa Quyền tại Quan Lộc:** ĐẮC CÁCH — sự nghiệp **VỮNG VÀNG**.`,
+    tomTat: `Khi Thiếu Dương cư Quan Lộc đi cùng Thái Dương ở **Miếu** hoặc
+**Vượng** và Hóa Quyền, đương số đắc cách — sự nghiệp vững vàng.`,
   },
 
   {
@@ -653,7 +674,8 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     ketHop: ['Thái Dương', 'Hóa Khoa'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương + Thái Dương miếu vượng + Hóa Khoa tại Quan Lộc:** ĐẮC CÁCH — sự nghiệp **VỮNG VÀNG**.`,
+    tomTat: `Khi Thiếu Dương cư Quan Lộc đi cùng Thái Dương ở **Miếu** hoặc
+**Vượng** và Hóa Khoa, đương số đắc cách — sự nghiệp vững vàng.`,
   },
 
   {
@@ -664,7 +686,8 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     ketHop: ['Thái Dương', 'Hóa Lộc'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương + Thái Dương miếu vượng + Hóa Lộc tại Quan Lộc:** ĐẮC CÁCH — sự nghiệp **VỮNG VÀNG**.`,
+    tomTat: `Khi Thiếu Dương cư Quan Lộc đi cùng Thái Dương ở **Miếu** hoặc
+**Vượng** và Hóa Lộc, đương số đắc cách — sự nghiệp vững vàng.`,
   },
 
   {
@@ -674,7 +697,9 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Kiếp Sát'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương + Kiếp Sát tại Quan Lộc:** Công danh **TRẮC TRỞ** — dễ lâm vào cảnh "**VẠN KIẾP BẤT PHỤC**". Sự nghiệp nhiều phen **THĂNG TRẦM**, "**nay thịnh mai suy**".`,
+    tomTat: `Khi Thiếu Dương cư Quan Lộc đi cùng Kiếp Sát, công danh của đương
+số trắc trở, dễ lâm vào cảnh "vạn kiếp bất phục"; sự nghiệp nhiều phen thăng
+trầm, "nay thịnh mai suy".`,
   },
 
   {
@@ -684,7 +709,9 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương + Hóa Kỵ tại Quan Lộc:** Công danh **TRẮC TRỞ** — dễ lâm vào cảnh "**VẠN KIẾP BẤT PHỤC**". Sự nghiệp nhiều phen **THĂNG TRẦM**, "**nay thịnh mai suy**".`,
+    tomTat: `Khi Thiếu Dương cư Quan Lộc đi cùng Hóa Kỵ, công danh của đương
+số trắc trở, dễ lâm vào cảnh "vạn kiếp bất phục"; sự nghiệp nhiều phen
+thăng trầm, "nay thịnh mai suy".`,
   },
 
   {
@@ -694,7 +721,9 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Hình'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương + Thiên Hình tại Quan Lộc:** Công danh **TRẮC TRỞ** — dễ lâm vào cảnh "**VẠN KIẾP BẤT PHỤC**". Sự nghiệp nhiều phen **THĂNG TRẦM**, "**nay thịnh mai suy**".`,
+    tomTat: `Khi Thiếu Dương cư Quan Lộc đi cùng Thiên Hình, công danh của
+đương số trắc trở, dễ lâm vào cảnh "vạn kiếp bất phục"; sự nghiệp nhiều
+phen thăng trầm, "nay thịnh mai suy".`,
   },
 
   {
@@ -703,10 +732,9 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     sao: ['Thiếu Dương'],
     cung: ['Nô Bộc'],
     doUuTien: 72,
-    tomTat: `**Thiếu Dương tại Nô Bộc:**
-- Bè bạn, người làm, người giúp việc **GIỎI GIANG, NHÂN HẬU**
-- Nhiều người là **NAM NHÂN**, **NỔI TIẾNG**
-- Bạn bè **CHĂM CHỈ, BIẾT LO TOAN**`,
+    tomTat: `Khi Thiếu Dương đóng tại Nô Bộc, bè bạn cùng người làm, người giúp
+việc của đương số đều giỏi giang và nhân hậu. Trong đó nhiều người là nam
+nhân, có tiếng tăm; bạn bè chăm chỉ và biết lo toan.`,
   },
 
   {
@@ -716,7 +744,8 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Nô Bộc'],
     ketHop: ['Đào Hoa'],
     doUuTien: 67,
-    tomTat: `**Thiếu Dương + Đào Hoa tại Nô Bộc:** người dễ có **TÌNH NHÂN BÊN NGOÀI**, **HÔN NHÂN dễ DANG DỞ NHIỀU LẦN**.`,
+    tomTat: `Khi Thiếu Dương cư Nô Bộc đi cùng Đào Hoa, đương số dễ có tình
+nhân bên ngoài; hôn nhân cũng dễ dang dở nhiều lần.`,
   },
 
   {
@@ -726,7 +755,10 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Nô Bộc'],
     ketHop: ['Kiếp Sát'],
     doUuTien: 67,
-    tomTat: `**Thiếu Dương + Kiếp Sát tại Nô Bộc:** Bạn bè dễ rơi vào cảnh "**NHIỆT TÌNH CỘNG NGU DỐT THÀNH PHÁ HOẠI**". Sự **GIÚP ĐỠ** từ người khác chẳng khác nào "**GẬY ÔNG ĐẬP LƯNG ÔNG**". Lợi chưa thấy mà **HẠI ĐÃ CHẤT CHỒNG**.`,
+    tomTat: `Khi Thiếu Dương cư Nô Bộc đi cùng Kiếp Sát, bạn bè của đương số
+dễ rơi vào cảnh "nhiệt tình cộng ngu dốt thành phá hoại"; sự giúp đỡ nhận
+được chẳng khác nào "gậy ông đập lưng ông" — lợi chưa thấy mà hại đã chất
+chồng.`,
   },
 
   {
@@ -736,7 +768,9 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Nô Bộc'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 67,
-    tomTat: `**Thiếu Dương + Hóa Kỵ tại Nô Bộc:** Bạn bè dễ rơi vào cảnh "**NHIỆT TÌNH CỘNG NGU DỐT THÀNH PHÁ HOẠI**". Sự **GIÚP ĐỠ** từ người khác chẳng khác nào "**GẬY ÔNG ĐẬP LƯNG ÔNG**". Lợi chưa thấy mà **HẠI ĐÃ CHẤT CHỒNG**.`,
+    tomTat: `Khi Thiếu Dương cư Nô Bộc đi cùng Hóa Kỵ, bạn bè của đương số dễ
+rơi vào cảnh "nhiệt tình cộng ngu dốt thành phá hoại"; sự giúp đỡ nhận được
+chẳng khác nào "gậy ông đập lưng ông" — lợi chưa thấy mà hại đã chất chồng.`,
   },
 
   {
@@ -746,7 +780,10 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Nô Bộc'],
     ketHop: ['Thiên Hình'],
     doUuTien: 67,
-    tomTat: `**Thiếu Dương + Thiên Hình tại Nô Bộc:** Bạn bè dễ rơi vào cảnh "**NHIỆT TÌNH CỘNG NGU DỐT THÀNH PHÁ HOẠI**". Sự **GIÚP ĐỠ** từ người khác chẳng khác nào "**GẬY ÔNG ĐẬP LƯNG ÔNG**". Lợi chưa thấy mà **HẠI ĐÃ CHẤT CHỒNG**.`,
+    tomTat: `Khi Thiếu Dương cư Nô Bộc đi cùng Thiên Hình, bạn bè của đương số
+dễ rơi vào cảnh "nhiệt tình cộng ngu dốt thành phá hoại"; sự giúp đỡ nhận
+được chẳng khác nào "gậy ông đập lưng ông" — lợi chưa thấy mà hại đã chất
+chồng.`,
   },
 
   {
@@ -755,12 +792,10 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     sao: ['Thiếu Dương'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương tại Thiên Di:**
-- Thiếu Dương mang **TÍNH ĐỘNG** (giống Thái Dương): **THÚC ĐẨY ĐI XA**, hoạt
-  động bên ngoài nhiều
-- Ra ngoài **KHIÊM TỐN**, hay **GẶP QUÝ NHÂN GIÚP ĐỠ**
-- Cách cư xử **CỞI MỞ, LẠC QUAN**: dễ **TẠO CẢM TÌNH**
-- Người ra ngoài **HAY ĐI XA**`,
+    tomTat: `Khi Thiếu Dương đóng tại Thiên Di, sao này phát huy tính động
+giống Thái Dương — thúc đẩy đương số đi xa, hoạt động bên ngoài nhiều. Ra
+ngoài đương số khiêm tốn, hay gặp quý nhân giúp đỡ; cách cư xử cởi mở, lạc
+quan nên dễ tạo cảm tình. Đương số thường có nhiều dịp đi xa.`,
   },
 
   {
@@ -770,7 +805,8 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Thiên Di'],
     ketHop: ['Đào Hoa'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Đào Hoa tại Thiên Di:** ra ngoài **NỔI TIẾNG**, nhiều người khác giới **HÂM MỘ**.`,
+    tomTat: `Khi Thiếu Dương cư Thiên Di đi cùng Đào Hoa, đương số ra ngoài
+nổi tiếng và được nhiều người khác giới hâm mộ.`,
   },
 
   {
@@ -780,7 +816,8 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     cung: ['Thiên Di'],
     ketHop: ['Hồng Loan'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Hồng Loan tại Thiên Di:** ra ngoài **NỔI TIẾNG**, nhiều người khác giới **HÂM MỘ**.`,
+    tomTat: `Khi Thiếu Dương cư Thiên Di đi cùng Hồng Loan, đương số ra ngoài
+nổi tiếng và được nhiều người khác giới hâm mộ.`,
   },
 
   {
@@ -791,7 +828,10 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     ketHop: ['Thái Dương', 'Hóa Lộc'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thái Dương miếu vượng + Hóa Lộc tại Thiên Di:** như "**HỔ MỌC THÊM CÁNH**" — **HỌC VẤN CAO**, **DANH TIẾNG NỔI TRỘI** trong lĩnh vực chuyên môn. Tốt cho **XUẤT NGOẠI, HỌC HÀNH**, mở rộng quan hệ xã hội.`,
+    tomTat: `Khi Thiếu Dương cư Thiên Di đi cùng Thái Dương ở **Miếu** hoặc
+**Vượng** và Hóa Lộc, cách như "hổ mọc thêm cánh" — đương số học vấn cao,
+danh tiếng nổi trội trong chuyên môn, đặc biệt thuận lợi cho việc xuất
+ngoại, học hành và mở rộng quan hệ xã hội.`,
   },
 
   {
@@ -802,7 +842,10 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     ketHop: ['Thái Dương', 'Hóa Khoa'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thái Dương miếu vượng + Hóa Khoa tại Thiên Di:** như "**HỔ MỌC THÊM CÁNH**" — **HỌC VẤN CAO**, **DANH TIẾNG NỔI TRỘI** trong lĩnh vực chuyên môn. Tốt cho **XUẤT NGOẠI, HỌC HÀNH**, mở rộng quan hệ xã hội.`,
+    tomTat: `Khi Thiếu Dương cư Thiên Di đi cùng Thái Dương ở **Miếu** hoặc
+**Vượng** và Hóa Khoa, cách như "hổ mọc thêm cánh" — đương số học vấn cao,
+danh tiếng nổi trội trong chuyên môn, đặc biệt thuận lợi cho việc xuất
+ngoại, học hành và mở rộng quan hệ xã hội.`,
   },
 
   {
@@ -813,7 +856,10 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     ketHop: ['Thái Dương', 'Hóa Quyền'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thái Dương miếu vượng + Hóa Quyền tại Thiên Di:** như "**HỔ MỌC THÊM CÁNH**" — **HỌC VẤN CAO**, **DANH TIẾNG NỔI TRỘI** trong lĩnh vực chuyên môn. Tốt cho **XUẤT NGOẠI, HỌC HÀNH**, mở rộng quan hệ xã hội.`,
+    tomTat: `Khi Thiếu Dương cư Thiên Di đi cùng Thái Dương ở **Miếu** hoặc
+**Vượng** và Hóa Quyền, cách như "hổ mọc thêm cánh" — đương số học vấn cao,
+danh tiếng nổi trội trong chuyên môn, đặc biệt thuận lợi cho việc xuất
+ngoại, học hành và mở rộng quan hệ xã hội.`,
   },
 
   {
@@ -822,17 +868,14 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     sao: ['Thiếu Dương'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Thiếu Dương tại Tật Ách:**
-- Có khả năng **HÓA GIẢI** tai nạn và bệnh tật **NHỎ**
-- Hiệu quả **CỨU GIẢI tương đương Tứ Đức**
+    tomTat: `Khi Thiếu Dương đóng tại Tật Ách, đương số có khả năng hóa giải
+tai nạn và bệnh tật ở mức nhỏ, hiệu quả cứu giải tương đương Tứ Đức.
 
-**Bệnh có thể gặp:**
-- **BỆNH MẮT** — đặc biệt **MẮT TRÁI**
-- **BỆNH THẦN KINH** (giống Thái Dương)
-
-**Bản chất tự nỗ lực:**
-- Bản mệnh phải **TỰ MÌNH CHÚ TÂM** vào sức khỏe
-- **CHỦ ĐỘNG THAY ĐỔI** thói quen sinh hoạt`,
+Những bệnh có thể gặp phải gồm bệnh về mắt — đặc biệt là mắt trái — và bệnh
+thần kinh, tương tự bệnh chứng do Thái Dương gây ra. Bản chất của Thiếu
+Dương là sự nỗ lực, vì thế đương số phải tự mình chú tâm vào sức khỏe và
+chủ động thay đổi thói quen sinh hoạt thì sao này mới phát huy được khả
+năng cứu giải.`,
   },
 
   {
@@ -842,8 +885,9 @@ người **QUÝ MẾN, HÂM MỘ**.`,
     ketHop: ['Địa Không', 'Địa Kiếp'],
     cung: ['Tật Ách'],
     doUuTien: 73,
-    tomTat: `**Thiếu Dương + Địa Không + Địa Kiếp tại Tật Ách:** sự cố gắng
-như **CÔNG DÃ TRÀNG** — nỗ lực nhiều mà hiệu quả **chẳng bao nhiêu**.`,
+    tomTat: `Khi Thiếu Dương cư Tật Ách đi cùng Địa Không và Địa Kiếp, sự cố
+gắng của đương số chẳng khác nào "công dã tràng" — nỗ lực nhiều mà hiệu quả
+thu về chẳng được bao nhiêu.`,
   },
 
   {
@@ -852,24 +896,22 @@ như **CÔNG DÃ TRÀNG** — nỗ lực nhiều mà hiệu quả **chẳng bao 
     sao: ['Thiếu Dương', 'Thiếu Âm'],
     ketHop: ['Hóa Khoa'],
     doUuTien: 78,
-    tomTat: `**Thiếu Dương + Thiếu Âm + Hóa Khoa** (đồng cung hoặc xung chiếu):
+    tomTat: `Khi Thiếu Dương cùng Thiếu Âm và Hóa Khoa hội tụ (đồng cung hoặc
+xung chiếu), đương số có một bộ sao gia tăng phúc thọ, cứu khốn phò nguy và
+giải trừ nhiều bệnh tật, tai họa.
 
-- Bộ sao **GIA TĂNG PHÚC THỌ**, **CỨU KHỐN PHÒ NGUY**, **GIẢI TRỪ NHIỀU BỆNH
-TẬT, TAI HỌA**.
+Đặc trưng của bộ này:
 
-**Đặc trưng:**
-- Đương số gặp **đại nạn cũng có thể QUA KHỎI**
-- Bệnh nặng **DỄ HÓA NHẸ**
-- Có **DUYÊN gặp THẦY GIỎI THUỐC HAY**
-- Khả năng **TỰ HỒI PHỤC** cao
+- Gặp đại nạn cũng có thể qua khỏi
+- Bệnh nặng dễ hóa nhẹ
+- Có duyên gặp thầy giỏi thuốc hay
+- Khả năng tự hồi phục cao
 
-- Một trong những bộ **GIẢI MẠNH NHẤT** trong tử vi — kết hợp:
-- **Âm tính** (Thiếu Âm — ẩn chứa, ôn hòa)
-- **Dương tính** (Thiếu Dương — chủ động, nhân hậu)
-- **Khoa tinh** (Hóa Khoa — Đệ Nhất Giải Thần)
-
-- Đặc biệt tốt khi vào **HẠN BỆNH** hoặc **HẠN ĐAU OM** — gia tăng khả năng
-**SỐNG SÓT**.`,
+Đây là một trong những bộ giải mạnh nhất trong tử vi nhờ kết hợp được ba
+yếu tố: âm tính ẩn chứa và ôn hòa của Thiếu Âm, dương tính chủ động và
+nhân hậu của Thiếu Dương, cùng Hóa Khoa — vốn được coi là Đệ Nhất Giải
+Thần. Bộ này đặc biệt tốt khi đương số bước vào hạn bệnh hoặc hạn đau ốm,
+giúp gia tăng khả năng sống sót.`,
   },
 
   {
@@ -878,25 +920,19 @@ TẬT, TAI HỌA**.
     sao: ['Thiếu Dương'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương tại Tài Bạch:**
-- Mang tính **VƯỢNG**
-- Tuy phải **VẤT VẢ** trong việc kiếm tiền nhưng **KHÔNG đến mức TÚNG THIẾU**
-- Hay đem tiền **ĐI LÀM TỪ THIỆN, CÔNG ĐỨC**
-- Người **KHÔNG CÓ vấn đề khó khăn** với tiền bạc
+    tomTat: `Khi Thiếu Dương đóng tại Tài Bạch, sao này mang tính vượng. Đương
+số tuy phải vất vả trong việc kiếm tiền nhưng không đến mức túng thiếu, hay
+đem tiền đi làm từ thiện và công đức; nhìn chung không gặp vấn đề khó khăn
+với tiền bạc.
 
-**Mặt khó:**
-- Khi gặp khó khăn dễ rơi vào **"CHÁY TÚI"**
-- Thậm chí bị **DỒN ĐẾN CẢNH KHỐN CÙNG**
+Mặt khó là khi gặp khó khăn, đương số dễ rơi vào cảnh "cháy túi", thậm chí
+bị dồn đến cảnh khốn cùng. Tuy vậy con đường tài lộc của đương số có đặc
+trưng "trong nguy có cơ" — càng trong nguy khó càng ló cơ may. Khi nhiều
+người chật vật mưu sinh thì đương số lại có thể xoay sở, tìm được nguồn lợi
+và biến nghịch cảnh thành cơ hội.
 
-**Đặc trưng "trong nguy có cơ":**
-- Báo hiệu con đường tài lộc "**CÀNG TRONG NGUY KHÓ CÀNG LÓ CƠ MAY**"
-- Khi nhiều người **CHẬT VẬT MƯU SINH**, bản thân lại có thể **XOAY SỞ** và
-  tìm được **NGUỒN LỢI**, biến **NGHỊCH CẢNH thành CƠ HỘI**
-
-Khi có thêm nhiều **Tài Tinh**:
-- Người có **CHUYÊN MÔN TÀI CHÍNH**
-- Kiếm tiền có yếu tố **NƯỚC NGOÀI**
-- **ĐẦU TƯ vào THỊ TRƯỜNG TÀI CHÍNH QUỐC TẾ**`,
+Khi có thêm nhiều Tài Tinh, đương số thường có chuyên môn về tài chính,
+kiếm tiền có yếu tố nước ngoài và đầu tư vào thị trường tài chính quốc tế.`,
   },
 
   {
@@ -906,7 +942,8 @@ Khi có thêm nhiều **Tài Tinh**:
     ketHop: ['Hóa Lộc'],
     cung: ['Tài Bạch'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Hóa Lộc tại Tài Bạch:** **CÀNG TỐT**.`,
+    tomTat: `Khi Thiếu Dương cư Tài Bạch đi cùng Hóa Lộc, tài lộc của đương số
+càng tốt thêm.`,
   },
 
   {
@@ -916,8 +953,8 @@ Khi có thêm nhiều **Tài Tinh**:
     ketHop: ['Thiên Mã'],
     cung: ['Tài Bạch'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Mã tại Tài Bạch** (Lộc Mã giao trì):
-**CÀNG TỐT**.`,
+    tomTat: `Khi Thiếu Dương cư Tài Bạch đi cùng Thiên Mã (cách Lộc Mã giao
+trì), tài lộc của đương số càng tốt thêm.`,
   },
 
   {
@@ -926,12 +963,10 @@ Khi có thêm nhiều **Tài Tinh**:
     sao: ['Thiếu Dương'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Thiếu Dương tại Tử Tức:**
-- Chủ sự **HƯỞNG PHÚC TỪ CON CÁI**
-- Con cái **HÒA THUẬN, HIẾU THẢO**
-- **DỄ SINH CON TRAI**
-- Con cái **THÔNG MINH, NHANH NHẸN, HOẠT NÁO**, **DỄ NỔI TIẾNG**
-- Tự giác, **KỶ LUẬT CAO**, ít để cha mẹ phải nhắc nhở nhiều`,
+    tomTat: `Khi Thiếu Dương đóng tại Tử Tức, đương số được hưởng phúc từ con
+cái. Con cái hòa thuận, hiếu thảo và đương số dễ sinh con trai. Các con
+thông minh, nhanh nhẹn, hoạt náo, dễ nổi tiếng; bản tính tự giác, kỷ luật
+cao nên ít để cha mẹ phải nhắc nhở nhiều.`,
   },
 
   {
@@ -941,8 +976,8 @@ Khi có thêm nhiều **Tài Tinh**:
     ketHop: ['Đà La'],
     cung: ['Tử Tức'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Đà La tại Tử Tức** (sao cứng đầu): tính khí con
-trở nên **ƯƠNG BƯỚNG**.`,
+    tomTat: `Khi Thiếu Dương cư Tử Tức đi cùng Đà La (vốn là sao cứng đầu),
+tính khí con cái của đương số trở nên ương bướng.`,
   },
 
   {
@@ -952,10 +987,10 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Linh Tinh'],
     cung: ['Tử Tức'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Linh Tinh tại Tử Tức:**
-- Mối quan hệ dễ rơi vào "**BẰNG MẶT KHÔNG BẰNG LÒNG**"
-- Mâu thuẫn **TÍCH TỤ**: khi bùng phát, con cái có thể **BỎ NHÀ ĐI**
-- Để lại nhiều **PHIỀN MUỘN** cho cha mẹ`,
+    tomTat: `Khi Thiếu Dương cư Tử Tức đi cùng Linh Tinh, mối quan hệ với con
+cái dễ rơi vào cảnh "bằng mặt không bằng lòng": mâu thuẫn tích tụ ngấm ngầm,
+khi bùng phát thì con cái có thể bỏ nhà đi, để lại nhiều phiền muộn cho cha
+mẹ.`,
   },
 
   {
@@ -965,11 +1000,9 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Tả Phù'],
     cung: ['Tử Tức'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Tả Phù tại Tử Tức:**
-- Con cái giữ được **KHÍ CHẤT CHÍNH TRỰC** của bậc **QUÂN TỬ**
-- **SÁNG TRÍ HIỀN TÂM**
-- Biết **CƯ XỬ PHẢI PHÉP**
-- Trở thành **ĐIỂM TỰA cho gia đình**`,
+    tomTat: `Khi Thiếu Dương cư Tử Tức đi cùng Tả Phù, con cái của đương số
+giữ được khí chất chính trực của bậc quân tử: sáng trí hiền tâm, biết cư xử
+phải phép và sau này trở thành điểm tựa cho gia đình.`,
   },
 
   {
@@ -979,11 +1012,9 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Hữu Bật'],
     cung: ['Tử Tức'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Hữu Bật tại Tử Tức:**
-- Con cái giữ được **KHÍ CHẤT CHÍNH TRỰC** của bậc **QUÂN TỬ**
-- **SÁNG TRÍ HIỀN TÂM**
-- Biết **CƯ XỬ PHẢI PHÉP**
-- Trở thành **ĐIỂM TỰA cho gia đình**`,
+    tomTat: `Khi Thiếu Dương cư Tử Tức đi cùng Hữu Bật, con cái của đương số
+giữ được khí chất chính trực của bậc quân tử: sáng trí hiền tâm, biết cư xử
+phải phép và sau này trở thành điểm tựa cho gia đình.`,
   },
 
   {
@@ -993,11 +1024,9 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Thiên Khôi'],
     cung: ['Tử Tức'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Khôi tại Tử Tức:**
-- Con cái giữ được **KHÍ CHẤT CHÍNH TRỰC** của bậc **QUÂN TỬ**
-- **SÁNG TRÍ HIỀN TÂM**
-- Biết **CƯ XỬ PHẢI PHÉP**
-- Trở thành **ĐIỂM TỰA cho gia đình**`,
+    tomTat: `Khi Thiếu Dương cư Tử Tức đi cùng Thiên Khôi, con cái của đương
+số giữ được khí chất chính trực của bậc quân tử: sáng trí hiền tâm, biết cư
+xử phải phép và sau này trở thành điểm tựa cho gia đình.`,
   },
 
   {
@@ -1007,11 +1036,9 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Thiên Việt'],
     cung: ['Tử Tức'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Việt tại Tử Tức:**
-- Con cái giữ được **KHÍ CHẤT CHÍNH TRỰC** của bậc **QUÂN TỬ**
-- **SÁNG TRÍ HIỀN TÂM**
-- Biết **CƯ XỬ PHẢI PHÉP**
-- Trở thành **ĐIỂM TỰA cho gia đình**`,
+    tomTat: `Khi Thiếu Dương cư Tử Tức đi cùng Thiên Việt, con cái của đương
+số giữ được khí chất chính trực của bậc quân tử: sáng trí hiền tâm, biết cư
+xử phải phép và sau này trở thành điểm tựa cho gia đình.`,
   },
 
   {
@@ -1020,21 +1047,18 @@ trở nên **ƯƠNG BƯỚNG**.`,
     sao: ['Thiếu Dương'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Thiếu Dương tại Phu Thê:** đời sống vợ chồng **THIẾU YÊN BÌNH**.
+    tomTat: `Khi Thiếu Dương đóng tại Phu Thê, đời sống vợ chồng của đương số
+thiếu yên bình.
 
-**Đặc trưng người hôn phối:**
-- Có **NHAN SẮC**, **ĐỨNG ĐẮN**
-- Dễ có giai đoạn **MỘ ĐẠO**, thích tìm hiểu **TÂM LINH PHẬT PHÁP**
+Người hôn phối có nhan sắc, đứng đắn, dễ có giai đoạn mộ đạo và thích tìm
+hiểu tâm linh, Phật pháp. Theo quy luật xa quê, vợ chồng của đương số dễ
+phải xa quê, cách quán; đáng chú ý là sau khi kết hôn, công danh của đương
+số phát triển hơn trước.
 
-**Quy luật XA QUÊ:**
-- Vợ chồng dễ **XA QUÊ, CÁCH QUÁN**
-- **Lấy nhau xong CÔNG DANH** của đương số **PHÁT TRIỂN HƠN**
-
-**Thuận lợi với NỮ MỆNH:** người bạn đời thường **CHÍNH TRỰC**, sống có
-**NGHĨA CÓ TÌNH**:
-- Sự **CỨNG RẮN** của đối phương đôi khi tạo **CẢM GIÁC GÒ BÓ**
-- Nếu biết **KHÉO LÉO DỰA VÀO CHỒNG**, **NƯƠNG NHỜ ĐÚNG LÚC**: cuộc sống gia
-  đình **trong ấm ngoài êm**`,
+Cách này thuận lợi với nữ mệnh — người bạn đời thường chính trực, sống có
+nghĩa có tình. Sự cứng rắn của đối phương đôi khi tạo cảm giác gò bó, song
+nếu nữ mệnh biết khéo léo dựa vào chồng và nương nhờ đúng lúc thì cuộc sống
+gia đình trong ấm ngoài êm.`,
   },
 
   {
@@ -1044,11 +1068,9 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Hỏa Tinh'],
     cung: ['Phu Thê'],
     doUuTien: 73,
-    tomTat: `**Thiếu Dương + Hỏa Tinh tại Phu Thê:**
-- Dễ **LẤY CHỒNG XA**
-- Thậm chí **LẤY NGƯỜI NƯỚC NGOÀI**
-- Kết hôn phải cố gắng "**NHẬP GIA TÙY TỤC**" nơi quê chồng với nhiều **TẬP
-  QUÁN LẠ LẪM**`,
+    tomTat: `Khi Thiếu Dương cư Phu Thê đi cùng Hỏa Tinh, đương số dễ lấy
+chồng xa, thậm chí lấy người nước ngoài. Sau khi kết hôn, đương số phải cố
+gắng nhập gia tùy tục nơi quê chồng với nhiều tập quán lạ lẫm.`,
   },
 
   {
@@ -1058,11 +1080,9 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Linh Tinh'],
     cung: ['Phu Thê'],
     doUuTien: 73,
-    tomTat: `**Thiếu Dương + Linh Tinh tại Phu Thê:**
-- Dễ **LẤY CHỒNG XA**
-- Thậm chí **LẤY NGƯỜI NƯỚC NGOÀI**
-- Kết hôn phải cố gắng "**NHẬP GIA TÙY TỤC**" nơi quê chồng với nhiều **TẬP
-  QUÁN LẠ LẪM**`,
+    tomTat: `Khi Thiếu Dương cư Phu Thê đi cùng Linh Tinh, đương số dễ lấy
+chồng xa, thậm chí lấy người nước ngoài. Sau khi kết hôn, đương số phải cố
+gắng nhập gia tùy tục nơi quê chồng với nhiều tập quán lạ lẫm.`,
   },
 
   {
@@ -1072,11 +1092,9 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Thái Dương'],
     cung: ['Phu Thê'],
     doUuTien: 73,
-    tomTat: `**Thiếu Dương + Thái Dương tại Phu Thê:**
-- Dễ **LẤY CHỒNG XA**
-- Thậm chí **LẤY NGƯỜI NƯỚC NGOÀI**
-- Kết hôn phải cố gắng "**NHẬP GIA TÙY TỤC**" nơi quê chồng với nhiều **TẬP
-  QUÁN LẠ LẪM**`,
+    tomTat: `Khi Thiếu Dương cư Phu Thê đi cùng Thái Dương, đương số dễ lấy
+chồng xa, thậm chí lấy người nước ngoài. Sau khi kết hôn, đương số phải cố
+gắng nhập gia tùy tục nơi quê chồng với nhiều tập quán lạ lẫm.`,
   },
 
   {
@@ -1086,11 +1104,9 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Cự Môn'],
     cung: ['Phu Thê'],
     doUuTien: 73,
-    tomTat: `**Thiếu Dương + Cự Môn tại Phu Thê:**
-- Dễ **LẤY CHỒNG XA**
-- Thậm chí **LẤY NGƯỜI NƯỚC NGOÀI**
-- Kết hôn phải cố gắng "**NHẬP GIA TÙY TỤC**" nơi quê chồng với nhiều **TẬP
-  QUÁN LẠ LẪM**`,
+    tomTat: `Khi Thiếu Dương cư Phu Thê đi cùng Cự Môn, đương số dễ lấy chồng
+xa, thậm chí lấy người nước ngoài. Sau khi kết hôn, đương số phải cố gắng
+nhập gia tùy tục nơi quê chồng với nhiều tập quán lạ lẫm.`,
   },
 
   {
@@ -1100,7 +1116,8 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Văn Xương'],
     cung: ['Phu Thê'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Văn Xương tại Phu Thê:** vẫn thành **CÁCH ĐẸP**.`,
+    tomTat: `Khi Thiếu Dương cư Phu Thê đi cùng Văn Xương, cách cục vẫn thành
+cách đẹp cho đương số.`,
   },
 
   {
@@ -1110,7 +1127,8 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Văn Khúc'],
     cung: ['Phu Thê'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Văn Khúc tại Phu Thê:** vẫn thành **CÁCH ĐẸP**.`,
+    tomTat: `Khi Thiếu Dương cư Phu Thê đi cùng Văn Khúc, cách cục vẫn thành
+cách đẹp cho đương số.`,
   },
 
   {
@@ -1120,7 +1138,8 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Thiên Khôi'],
     cung: ['Phu Thê'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Khôi tại Phu Thê:** vẫn thành **CÁCH ĐẸP**.`,
+    tomTat: `Khi Thiếu Dương cư Phu Thê đi cùng Thiên Khôi, cách cục vẫn thành
+cách đẹp cho đương số.`,
   },
 
   {
@@ -1130,7 +1149,8 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Thiên Việt'],
     cung: ['Phu Thê'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương + Thiên Việt tại Phu Thê:** vẫn thành **CÁCH ĐẸP**.`,
+    tomTat: `Khi Thiếu Dương cư Phu Thê đi cùng Thiên Việt, cách cục vẫn thành
+cách đẹp cho đương số.`,
   },
 
   {
@@ -1139,16 +1159,15 @@ trở nên **ƯƠNG BƯỚNG**.`,
     sao: ['Thiếu Dương'],
     cung: ['Huynh Đệ'],
     doUuTien: 70,
-    tomTat: `**Thiếu Dương tại Huynh Đệ:**
-- Anh chị em **HÒA THUẬN**, **HAY GIÚP ĐỠ LẪN NHAU**
-- **DỄ CÓ ANH EM TRAI** hơn chị em gái (đặc tính tương đồng Thái Dương —
-  tượng trưng nam giới)
+    tomTat: `Khi Thiếu Dương đóng tại Huynh Đệ, anh chị em của đương số hòa
+thuận, hay giúp đỡ lẫn nhau và đương số thường có anh em trai nhiều hơn
+chị em gái — do Thiếu Dương mang đặc tính tương đồng với Thái Dương, tượng
+trưng cho nam giới.
 
-**Đặc trưng quan hệ anh em:**
-- **SÒNG PHẲNG**, "**có vay có trả, có ơn tất báo**"
-- Nếu biết **HẾT LÒNG GIÚP ĐỠ** thì sau này cũng dễ **NHẬN LẠI** sự tương trợ
-- Trong hành xử làm việc gì cũng **MINH BẠCH**, "**QUANG MINH CHÍNH ĐẠI**"
-- **KHÔNG ƯA VÒNG VO** hay **giấu giếm sau lưng**`,
+Quan hệ anh em trong cách này khá sòng phẳng, "có vay có trả, có ơn tất
+báo": nếu đương số biết hết lòng giúp đỡ thì sau này cũng dễ nhận lại sự
+tương trợ. Trong hành xử, anh em đương số làm việc gì cũng minh bạch, quang
+minh chính đại, không ưa vòng vo hay giấu giếm sau lưng.`,
   },
 
   {
@@ -1158,8 +1177,9 @@ trở nên **ƯƠNG BƯỚNG**.`,
     ketHop: ['Kình Dương'],
     cung: ['Huynh Đệ'],
     doUuTien: 65,
-    tomTat: `**Thiếu Dương + Kình Dương tại Huynh Đệ:** anh chị em hay **Ỷ
-vào MÌNH TÀI GIỎI** hơn người mà trở nên **KIÊU CĂNG, NGẠO MẠN**.`,
+    tomTat: `Khi Thiếu Dương cư Huynh Đệ đi cùng Kình Dương, anh chị em của
+đương số hay ỷ vào việc mình tài giỏi hơn người mà trở nên kiêu căng, ngạo
+mạn.`,
   },
 
   {
@@ -1169,8 +1189,8 @@ vào MÌNH TÀI GIỎI** hơn người mà trở nên **KIÊU CĂNG, NGẠO MẠ
     ketHop: ['Hỏa Tinh'],
     cung: ['Huynh Đệ'],
     doUuTien: 65,
-    tomTat: `**Thiếu Dương + Hỏa Tinh tại Huynh Đệ:** anh chị em hay **Ỷ vào
-MÌNH TÀI GIỎI** hơn người mà trở nên **KIÊU CĂNG, NGẠO MẠN**.`,
+    tomTat: `Khi Thiếu Dương cư Huynh Đệ đi cùng Hỏa Tinh, anh chị em của đương
+số hay ỷ vào việc mình tài giỏi hơn người mà trở nên kiêu căng, ngạo mạn.`,
   },
 
   {
@@ -1178,30 +1198,34 @@ MÌNH TÀI GIỎI** hơn người mà trở nên **KIÊU CĂNG, NGẠO MẠN**.`
     title: 'Lời khuyên cho người Thiếu Dương',
     sao: ['Thiếu Dương'],
     doUuTien: 35,
-    tomTat: `**Thiếu Dương là Thiện tinh** — vừa là **"ÁNH SÁNG PHỤ" BỔ TRỢ**, vừa là
-**PHÉP THỬ** để học cách **dung hòa, giữ sự công bằng và thẳng thắn**.
+    tomTat: `Thiếu Dương là sao Thiện tinh — vừa là một thứ "ánh sáng phụ" bổ
+trợ, vừa là phép thử để đương số học cách dung hòa, giữ sự công bằng và
+thẳng thắn trong cách sống.
 
-**Điểm mạnh:**
-- **THÔNG MINH, NHÂN HẬU**
-- **NỔI TRỘI**, được nhiều người yêu mến
-- Khả năng **CỨU GIẢI** mạnh
-- **LẠC QUAN, TÍCH CỰC**
+Điểm mạnh của đương số:
 
-**Điểm yếu:**
-- **LẮM TÀI MÀ NHIỀU TẬT** (do tam hợp với Thiên Không + Đào Hoa + Kiếp Sát)
-- **LẠC QUAN QUÁ** dễ tự **rước họa**
-- **Đào hoa** dễ làm **dở dang** duyên tình
+- Thông minh, nhân hậu
+- Nổi trội, được nhiều người yêu mến
+- Khả năng cứu giải mạnh
+- Lạc quan, tích cực
 
-**Bí quyết phát huy Thiếu Dương:**
-- **GIỮ KHÍ CHẤT chính trực** của Tứ Đức luôn chiếu
-- **TÌM HIỂU TÂM LINH, PHẬT PHÁP** — sẽ giúp **trí tuệ thêm sâu sắc**
-- **CẨN THẬN** với **đào hoa** — không để **ánh sáng của mình thu hút sai người**
-- **KHÔNG vượt quyền** — luôn **kính trên nhường dưới**
-- **KIỀM CHẾ tính nổi trội** quá mức — nhường cho người khác có **không gian tỏa
-  sáng**
+Điểm yếu cần lưu ý:
 
-- Khi biết **DUNG HÒA** giữa **DƯƠNG TÍNH NỔI TRỘI** và **TÂM LINH HƯỚNG NỘI**,
-Thiếu Dương trở thành **NGỌN ĐUỐC dẫn lối** cho cả mình và những người xung
-quanh.`,
+- Lắm tài mà nhiều tật, do tam hợp với Thiên Không, Đào Hoa và Kiếp Sát
+- Lạc quan quá độ dễ tự rước họa
+- Đào hoa dễ làm dở dang duyên tình
+
+Bí quyết để phát huy tối đa Thiếu Dương:
+
+- Giữ khí chất chính trực của bộ Tứ Đức luôn chiếu
+- Tìm hiểu tâm linh, Phật pháp để trí tuệ thêm sâu sắc
+- Cẩn thận với đào hoa, không để ánh sáng của mình thu hút sai người
+- Không vượt quyền, luôn kính trên nhường dưới
+- Kiềm chế tính nổi trội quá mức, nhường cho người khác có không gian tỏa
+  sáng
+
+Khi biết dung hòa giữa dương tính nổi trội bên ngoài và tâm linh hướng nội
+bên trong, Thiếu Dương sẽ trở thành ngọn đuốc dẫn lối cho cả đương số và
+những người xung quanh.`,
   },
 ];
