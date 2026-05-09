@@ -27,32 +27,23 @@ export const luanGiai_TruongSinh: DoanLuanGiai[] = [
     title: 'Trường Sinh - Đặc tính chung',
     sao: ['Trường Sinh'],
     doUuTien: 32,
-    tomTat: `**Trường Sinh** — phụ tinh **THIỆN TINH**, sao **ĐẦU TIÊN** của Vòng Trường
-Sinh 12 sao.
+    tomTat: `**Trường Sinh** là phụ tinh thuộc hàng thiện tinh, đứng đầu Vòng
+Trường Sinh 12 sao. Ngũ hành Thủy.
 
-**Ngũ hành:** **Thủy**.
+Trong bộ Thiên - Địa - Nhân, Trường Sinh đại diện cho vòng Địa Lợi (Thiên
+thời ứng vào vòng Thái Tuế, Nhân hòa ứng vào vòng Lộc Tồn). Sao này mang
+đặc tính phúc thọ, sinh khí và thịnh vượng, biểu thị sự sinh sôi nảy nở,
+mới hình thành — tinh khiết, trong sáng và phát triển. Đặc trưng nổi bật
+nhất là gia tăng tính chất các sao trong cùng cung.
 
-**Vị trí trong Thiên-Địa-Nhân:**
-- **Vòng Địa** (Địa Lợi)
-- Thiên thời = vòng Thái Tuế / Nhân hòa = vòng Lộc Tồn
+Vai trò đặc biệt của Trường Sinh là một hệ số khuếch đại: như "hệ số kích
+thích" làm tăng cường, bổ sung ý nghĩa của sao đi kèm. Tốt thì càng tốt
+(với cát tinh), xấu thì càng xấu (với sát tinh, hung tinh) — vì vậy phải
+xét kỹ sao đồng cung mới đoán được tốt hay xấu.
 
-**Đặc tính:**
-- **Phúc thọ, sinh khí, thịnh vượng**
-- **GIA TĂNG TÍNH CHẤT** các sao trong cùng cung
-- Biểu thị **SỰ SINH SÔI, NẢY NỞ, MỚI HÌNH THÀNH**
-- Tinh khiết trong sáng và phát triển
-
-**VAI TRÒ ĐẶC BIỆT - HỆ SỐ KHUẾCH ĐẠI:**
-- Như "**hệ số kích thích**" làm tăng cường, bổ sung ý nghĩa sao đi kèm
-- **TỐT: càng TỐT** (cát tinh)
-- **XẤU: càng XẤU** (sát tinh, hung tinh)
-- Cần xét kỹ sao đồng cung mới đoán được tốt/xấu
-
-**Tượng trưng Sinh-Lão-Bệnh-Tử:**
-- Trường Sinh = **MỚI SINH RA** — sinh linh mới chào đời
-- Mang ý nghĩa **MAY MẮN, VUI VẺ, NGHỊ LỰC**
-
-**Tên gọi tắt:** "**Sinh**".`,
+Trong tượng Sinh - Lão - Bệnh - Tử, Trường Sinh ứng với cảnh "mới sinh ra",
+sinh linh mới chào đời, mang ý nghĩa may mắn, vui vẻ và nghị lực. Tên gọi
+tắt: "Sinh".`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -65,22 +56,22 @@ Sinh 12 sao.
     sao: ['Trường Sinh'],
     ketHop: ['Đế Vượng', 'Mộ'],
     doUuTien: 60,
-    tomTat: `**Trường Sinh LUÔN tam hợp Đế Vượng và Mộ** — quy luật bắt buộc trong vòng
-Trường Sinh.
+    tomTat: `Trường Sinh luôn tam hợp với Đế Vượng và Mộ — quy luật bắt buộc
+trong vòng Trường Sinh, tạo cách **Sinh - Vượng - Mộ**.
 
-**Cách "SINH VƯỢNG MỘ":**
-- **Trường Sinh** (cung 1) = sinh khí khởi đầu
-- **Đế Vượng** (cung 5) = đỉnh cao thịnh vượng
-- **Mộ** (cung 9) = chôn cất, kết tụ
+Ý nghĩa từng cung trong cách:
 
-**Ý nghĩa tổng thể:**
-- 3 sao tam hợp tạo **VÒNG TUẦN HOÀN** sinh - phát - kết
-- Ảnh hưởng tới **SỨC SỐNG, SỰ NGHIỆP, TÀI LỘC** lớn
-- Khi 3 cung này tốt (nhiều cát tinh): cuộc đời **HƯNG THỊNH BỀN VỮNG**
-- Khi xấu (nhiều sát tinh): tai họa lan tỏa cả 3 cung
+- Trường Sinh (cung 1) là sinh khí khởi đầu
+- Đế Vượng (cung 5) là đỉnh cao thịnh vượng
+- Mộ (cung 9) là chôn cất, kết tụ
 
-**Câu phú nổi tiếng:** **"Khá khen cung Phúc nhà ngươi / Trường Sinh,
-Đế Vượng lắm người thành danh"**.`,
+Ba sao tam hợp tạo thành vòng tuần hoàn sinh - phát - kết, ảnh hưởng lớn
+đến sức sống, sự nghiệp và tài lộc của đương số. Khi cả ba cung này tốt
+(nhiều cát tinh hội tụ), cuộc đời đương số hưng thịnh bền vững; ngược lại
+khi xấu (nhiều sát tinh), tai họa lan tỏa cả ba cung.
+
+Câu phú nổi tiếng: "Khá khen cung Phúc nhà ngươi / Trường Sinh, Đế Vượng
+lắm người thành danh".`,
   },
 
   {
@@ -88,26 +79,23 @@ Trường Sinh.
     title: 'Trường Sinh - Vai trò KHUẾCH ĐẠI tốt-xấu',
     sao: ['Trường Sinh'],
     doUuTien: 60,
-    tomTat: `**Trường Sinh là HỆ SỐ KHUẾCH ĐẠI** — đặc trưng quan trọng nhất phải nắm.
+    tomTat: `Vai trò khuếch đại là đặc trưng quan trọng nhất phải nắm khi
+luận về Trường Sinh. Bản thân sao này không có giá trị tốt - xấu độc lập
+mà phụ thuộc hoàn toàn vào sao đồng cung: cát tinh đi cùng Trường Sinh thì
+tính tốt được nhân lên gấp bội, sát tinh đi cùng thì tai họa cũng tăng
+cường mạnh mẽ.
 
-**Cơ chế:**
-- KHÔNG có giá trị TỐT-XẤU độc lập
-- Phụ thuộc vào sao đồng cung
-- **CÁT TINH + Sinh**: tính tốt được nhân lên gấp bội
-- **SÁT TINH + Sinh**: tai họa tăng cường mạnh mẽ
+Khi đồng cung cát tinh (Tử Vi, Thiên Phủ, Thiên Lương, Lộc Tồn, Hóa Khoa,
+Thiên Khôi, Thiên Việt, Ân Quang, Thiên Quý...), Trường Sinh tăng phúc thọ,
+tài lộc và con cái cho đương số; có lợi cho việc sinh nở (đặc biệt khi đi
+cùng Long Trì, Phượng Các, Thai), đồng thời mở ra cơ hội thăng tiến.
 
-**Khi đồng cung CÁT TINH** (Tử Vi, Thiên Phủ, Thiên Lương, Lộc Tồn,
-Hóa Khoa, Khôi Việt, Quang Quý...):
-- Tăng **PHÚC THỌ, TÀI LỘC, CON CÁI**
-- Có lợi cho **SINH NỞ** (như Long Phượng, Thai)
-- Mở ra cơ hội **THĂNG TIẾN**
+Khi đồng cung sát bại tinh (Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa
+Không, Địa Kiếp, Hóa Kỵ...), Trường Sinh lại gia tăng độ liều lĩnh và
+những tính xấu của các sao này, làm tăng nhiều nguy cơ bất lợi cho đương
+số — bệnh tật, công danh và tài lộc đều bị triết giảm.
 
-**Khi đồng cung SÁT BẠI TINH** (Kình Đà, Hỏa Linh, Không Kiếp, Kỵ...):
-- Gia tăng **ĐỘ LIỀU LĨNH**, tính xấu của chúng
-- Tăng nhiều **NGUY CƠ BẤT LỢI** cho đương số
-- Bệnh tật, công danh, tài lộc đều bị triết giảm
-
-**Khi luận đoán:** Bắt buộc **XÉT KỸ SAO ĐỒNG CUNG** trước khi kết luận
+Khi luận đoán, bắt buộc phải xét kỹ sao đồng cung trước khi kết luận
 Trường Sinh tốt hay xấu.`,
   },
 
@@ -121,23 +109,18 @@ Trường Sinh tốt hay xấu.`,
     sao: ['Trường Sinh'],
     ketHop: ['Thiên Mã'],
     doUuTien: 60,
-    tomTat: `**Câu phú nổi tiếng:** **"MÃ NGỘ TRƯỜNG SINH - THANH VÂN ĐẮC LỘ"**.
+    tomTat: `Câu phú nổi tiếng: **"Mã ngộ Trường Sinh - Thanh vân đắc lộ"**.
 
-**Ý nghĩa:**
-- Thiên Mã + Trường Sinh đồng cung: đường mây xanh đắc lộ
-- Vận hội **MAY MẮN VỀ NHIỀU MẶT**
-- Đường công danh thuận buồm xuôi gió
+Khi Thiên Mã đồng cung Trường Sinh, đường mây xanh đắc lộ — đương số gặp
+vận hội may mắn về nhiều mặt, đường công danh thuận buồm xuôi gió.
 
-**Đặc trưng người có cách này:**
-- **NĂNG ĐỘNG, NHIỆT HUYẾT**
-- Song hành cùng **MAY MẮN ĐÚNG THỜI**
-- Công danh dễ dàng **TIẾN ĐẠT**
-- Tài lộc **GIA TĂNG**
-- Công việc **THÀNH TỰU**
+Đặc trưng của người có cách này là năng động, nhiệt huyết, song hành cùng
+may mắn đúng thời. Công danh dễ tiến đạt, tài lộc gia tăng và công việc
+thành tựu.
 
-**Đã có bộ này tại file thien-ma.ts** — đây là 1 trong 9 cách Thiên Mã
-nổi tiếng (Phù Dư Mã, Thư Hùng Mã, Chiến Mã, Mã Khốc Khách, Phù Thi Mã,
-Chiết Túc Mã, Tử Mã, **Mã ngộ Trường Sinh**).`,
+Bộ này đã được mô tả tại file thien-ma.ts — đây là một trong chín cách
+Thiên Mã nổi tiếng (Phù Dư Mã, Thư Hùng Mã, Chiến Mã, Mã Khốc Khách, Phù
+Thi Mã, Chiết Túc Mã, Tử Mã, **Mã ngộ Trường Sinh**).`,
   },
 
   {
@@ -146,22 +129,15 @@ Chiết Túc Mã, Tử Mã, **Mã ngộ Trường Sinh**).`,
     sao: ['Trường Sinh'],
     ketHop: ['Tử Vi', 'Thiên Phủ'],
     doUuTien: 55,
-    tomTat: `**Trường Sinh + Tử Vi / Thiên Phủ đồng cung** — người ở **THẾ BỀ TRÊN, PHÚ
-QUÝ, PHƯỚC THIỆN**.
+    tomTat: `Khi Trường Sinh đồng cung Tử Vi hoặc Thiên Phủ, đương số ở thế
+bề trên, phú quý và phước thiện. Đặc trưng tính cách là bao dung, quảng
+đại, dễ tha thứ và không câu chấp.
 
-**Đặc trưng:**
-- **BAO DUNG, QUẢNG ĐẠI**
-- **DỄ THA THỨ, KHÔNG CÂU CHẤP**
+Nếu cách này không gặp sát bại tinh, đương số dễ là người có chức tước, vai
+vế trong xã hội, đứng đầu một tập đoàn hoặc tập thể, lãnh đạo có khí chất.
 
-**Nếu KHÔNG gặp sát bại tinh:**
-- Dễ là người có **CHỨC TƯỚC, VAI VẾ** trong xã hội
-- **ĐỨNG ĐẦU** một tập đoàn, tập thể
-- Lãnh đạo có khí chất
-
-**Phân tích:**
-- Tử Vi = Đế tinh
-- Thiên Phủ = Tài Khố tinh
-- + Trường Sinh khuếch đại: cách bậc đại nhân`,
+Phân tích bộ sao: Tử Vi là Đế tinh, Thiên Phủ là Tài Khố tinh, được Trường
+Sinh khuếch đại tạo nên cách bậc đại nhân.`,
   },
 
   {
@@ -171,19 +147,16 @@ QUÝ, PHƯỚC THIỆN**.
     cung: ['Phúc Đức'],
     ketHop: ['Đế Vượng'],
     doUuTien: 70,
-    tomTat: `**Câu phú nổi tiếng:**
+    tomTat: `Câu phú nổi tiếng: "Khá khen cung Phúc nhà ngươi / Trường Sinh,
+Đế Vượng lắm người thành danh".
 
-> **"Khá khen cung Phúc nhà ngươi**
-> **Trường Sinh, Đế Vượng lắm người thành danh"**
+Khi Trường Sinh đồng cung Đế Vượng tại Phúc Đức, đây là cách cực đẹp.
+Dòng họ đương số chắc chắn có người hiển đạt; bản thân chủ mệnh được hưởng
+phúc lộc lâu dài, con cháu hưng thịnh.
 
-**Ý nghĩa:**
-- **Trường Sinh + Đế Vượng đồng cung** tại Phúc Đức: cách CỰC ĐẸP
-- Dòng họ chắc chắn có **NGƯỜI HIỂN ĐẠT**
-- Chủ mệnh hưởng **PHÚC LỘC LÂU DÀI**
-- Con cháu **HƯNG THỊNH**
-
-**Quy luật:** Trường Sinh và Đế Vượng vốn là 2 trong cách "Sinh-Vượng-Mộ"
-tam hợp — khi cả 2 đồng cung ở Phúc Đức là cách hiếm gặp đặc biệt đẹp.`,
+Quy luật của cách này nằm ở chỗ Trường Sinh và Đế Vượng vốn là hai trong
+ba sao của tam hợp Sinh - Vượng - Mộ. Khi cả hai cùng đóng tại Phúc Đức,
+đó là cách hiếm gặp đặc biệt đẹp.`,
   },
 
   {
@@ -193,21 +166,21 @@ tam hợp — khi cả 2 đồng cung ở Phúc Đức là cách hiếm gặp đ
     cung: ['Điền Trạch'],
     ketHop: ['Hóa Lộc', 'Lộc Tồn', 'Thiên Mã'],
     doUuTien: 60,
-    tomTat: `**Trường Sinh tại Điền Trạch + Hóa Lộc / Lộc Tồn / Thiên Mã / Thái Âm /
-Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT ĐẠT**.
+    tomTat: `Khi Trường Sinh tại Điền Trạch hội cùng Hóa Lộc, Lộc Tồn, Thiên
+Mã, Thái Âm hoặc Tham Lang, đương số có duyên với buôn bán và kinh doanh
+bất động sản phát đạt.
 
-**Phân tích bộ sao:**
-- **Trường Sinh** = sinh khí tại Điền (đất đai dồi dào)
-- **Lộc Tồn / Hóa Lộc** = tài tinh hợp BĐS
-- **Thiên Mã** = di chuyển kinh doanh
-- **Thái Âm** = sao chủ điền sản, tài bên trong
-- **Tham Lang** = đào hoa kinh doanh năng động
+Phân tích bộ sao:
 
-**Đặc trưng:**
-- Có **DUYÊN VỚI ĐẤT ĐAI**
-- Nhà cửa, ruộng vườn **DỒI DÀO**
-- Buôn bán, kinh doanh BĐS **PHÁT ĐẠT**
-- Nơi ở/làm việc **KHANG TRANG, HIỆN ĐẠI**, đông người qua lại`,
+- Trường Sinh đem sinh khí vào cung Điền, đất đai dồi dào
+- Lộc Tồn, Hóa Lộc là tài tinh hợp với bất động sản
+- Thiên Mã chủ về di chuyển kinh doanh
+- Thái Âm là sao chủ điền sản, tài bên trong
+- Tham Lang đem đào hoa kinh doanh năng động
+
+Đương số có duyên với đất đai, nhà cửa và ruộng vườn dồi dào, buôn bán và
+kinh doanh bất động sản phát đạt. Nơi ở và làm việc thường khang trang
+hiện đại, đông người qua lại.`,
   },
 
   {
@@ -217,21 +190,19 @@ Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT 
     cung: ['Quan Lộc'],
     ketHop: ['Hóa Khoa', 'Thiên Khôi'],
     doUuTien: 60,
-    tomTat: `**Trường Sinh tại Quan Lộc + Hóa Khoa + Khôi Việt + Quang Quý** — sự nghiệp
-**RỰC RỠ ĐỈNH CAO DANH VỌNG**.
+    tomTat: `Khi Trường Sinh tại Quan Lộc hội cùng Hóa Khoa, Thiên Khôi, Thiên
+Việt, Ân Quang và Thiên Quý, sự nghiệp đương số rực rỡ, có thể vươn tới
+đỉnh cao danh vọng.
 
-**Phân tích bộ sao:**
-- **Trường Sinh** = sinh khí, nhiệt huyết khuếch đại
-- **Hóa Khoa** = khoa bảng, danh tiếng
-- **Khôi Việt** = Thiên Ất Quý Nhân
-- **Quang Quý** = phúc tinh quý nhân (đấng linh thiêng)
+Phân tích bộ sao:
 
-**Đặc trưng:**
-- Sự nghiệp **RỰC RỠ**
-- Có khả năng vươn tới **ĐỈNH CAO DANH VỌNG**
-- Mở ra nhiều cơ hội **THĂNG TIẾN**
-- Như "**dòng sinh khí bồi đắp**" cho công danh
-- Ít bế tắc, dễ đạt **THÀNH TỰU LỚN**`,
+- Trường Sinh tạo sinh khí, nhiệt huyết khuếch đại
+- Hóa Khoa chủ khoa bảng, danh tiếng
+- Thiên Khôi, Thiên Việt là Thiên Ất Quý Nhân
+- Ân Quang, Thiên Quý là phúc tinh quý nhân, đấng linh thiêng
+
+Đương số mở ra nhiều cơ hội thăng tiến, được dòng sinh khí bồi đắp cho
+công danh nên ít bế tắc, dễ đạt thành tựu lớn.`,
   },
 
   {
@@ -240,15 +211,11 @@ Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT 
     sao: ['Trường Sinh'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 50,
-    tomTat: `**Trường Sinh + Kình Dương + Đà La** — **SỨC KHỎE SUY YẾU**.
+    tomTat: `Khi Trường Sinh đi cùng Kình Dương và Đà La, sức khỏe đương số
+suy yếu — sinh khí bị hung sát khắc chế.
 
-**Đặc trưng:**
-- Sinh khí **BỊ HUNG SÁT KHẮC CHẾ**
-- Đương số mắc bệnh tật **TRIỀN MIÊN**
-- Cơ thể **SUY YẾU**, khí lực cạn dần
-- Bệnh **TÁI ĐI TÁI LẠI**
-- Làm **GIẢM THỌ MỆNH**
-- Thân thể chẳng được an yên`,
+Đương số mắc bệnh tật triền miên, cơ thể suy yếu và khí lực cạn dần. Bệnh
+tái đi tái lại, làm giảm thọ mệnh; thân thể chẳng được an yên.`,
   },
 
   {
@@ -258,10 +225,10 @@ Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT 
     cung: ['Tật Ách'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 55,
-    tomTat: `**Trường Sinh + Kình Dương + Đà La tại Tật Ách** — đặc biệt nguy hiểm:
-- Đặc tính **DỒI DÀO, NẢY NỞ** chuyển thành tiêu cực
-- Bệnh không bao giờ hết, **PHÁT SINH LIÊN TỤC**
-- Bệnh tật và tai họa nối tiếp nhau`,
+    tomTat: `Khi Trường Sinh đi cùng Kình Dương và Đà La tại Tật Ách, cách cục
+đặc biệt nguy hiểm: đặc tính dồi dào, nảy nở của Trường Sinh chuyển thành
+tiêu cực — bệnh không bao giờ hết, phát sinh liên tục, bệnh tật và tai họa
+nối tiếp nhau.`,
   },
 
   {
@@ -270,18 +237,14 @@ Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT 
     sao: ['Trường Sinh'],
     ketHop: ['Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 50,
-    tomTat: `**Trường Sinh + Hỏa Tinh + Linh Tinh** — **CÔNG DANH TRẮC TRỞ**.
+    tomTat: `Khi Trường Sinh đi cùng Hỏa Tinh và Linh Tinh, công danh đương
+số trắc trở. Con đường công danh khó khăn, đương số vất vả hết mình với
+công việc nhưng thành quả nhận lại không tương xứng.
 
-**Đặc trưng:**
-- Con đường công danh **KHÓ KHĂN**
-- Chủ mệnh **VẤT VẢ, HẾT MÌNH** với công việc
-- Nhưng thành quả nhận lại **KHÔNG TƯƠNG XỨNG**
+Cảnh báo: cách này còn vướng kiện tụng, thị phi và bị kẻ tiểu nhân hãm hại.
 
-**Cảnh báo:**
-- Thậm chí vướng **KIỆN TỤNG, THỊ PHI**
-- Bị **KẺ TIỂU NHÂN HÃM HẠI**
-
-**Hóa giải:** Cần Tử Vi/Phủ/Lương/Đồng + Tả Hữu + Khôi Việt giải bớt.`,
+Để hóa giải, cần Tử Vi, Thiên Phủ, Thiên Lương, Thiên Đồng đi cùng Tả Phù,
+Hữu Bật, Thiên Khôi, Thiên Việt giải bớt.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -294,27 +257,20 @@ Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT 
     sao: ['Trường Sinh'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Trường Sinh thủ Mệnh** — tướng mạo **TO LỚN, KHỎE MẠNH, TRÀN ĐẦY SỨC SỐNG**.
+    tomTat: `Khi Trường Sinh thủ Mệnh, đương số có tướng mạo to lớn, khỏe
+mạnh, tràn đầy sức sống. Tầm vóc to lớn, sức khỏe tốt, tinh thần năng nổ
+nhiệt huyết cao và có triển vọng sống lâu sống thọ.
 
-**Tướng mạo:**
-- **TẦM VÓC TO LỚN**, sức khỏe tốt
-- Tinh thần **NĂNG NỔ, NHIỆT HUYẾT CAO**
-- Triển vọng **SỐNG LÂU, SỐNG THỌ**
+Tính cách độ lượng, nhân từ, quảng đại — Trường Sinh vốn là quý tinh và
+thiện tinh, làm tăng phúc thọ, tài lộc, con cái cho đương số. Cách này còn
+có lợi cho việc sinh nở, đặc biệt khi đi cùng Long Trì, Phượng Các và Thai.
 
-**Tính cách:**
-- **ĐỘ LƯỢNG, NHÂN TỪ, QUẢNG ĐẠI**
-- Là **QUÝ TINH, THIỆN TINH**
-- Tăng **PHÚC THỌ, TÀI LỘC, CON CÁI**
-- Có lợi cho **SINH NỞ** (đặc biệt khi đi cùng Long Phượng, Thai)
+Hậu vận của đương số rất đẹp: càng về già càng may mắn, thọ trường và con
+cháu sum vầy.
 
-**Hậu vận đẹp:**
-- Càng về già càng **MAY MẮN**
-- Đương số **THỌ TRƯỜNG**
-- Con cháu **SUM VẦY**
-
-**Cảnh báo - khuếch đại tính xấu:**
-- Khi đồng cung sát bại tinh: tăng **ĐỘ LIỀU LĨNH, TÍNH XẤU**
-- Trở nên **HẤP TẤP**, dễ gây tai họa cho bản thân`,
+Cảnh báo về vai trò khuếch đại tính xấu: khi đồng cung sát bại tinh, Trường
+Sinh làm tăng độ liều lĩnh và tính xấu — đương số trở nên hấp tấp, dễ tự
+chuốc tai họa cho bản thân.`,
   },
 
   {
@@ -323,20 +279,12 @@ Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT 
     sao: ['Trường Sinh'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Trường Sinh tại Phụ Mẫu** — dấu hiệu **CÁT LÀNH** cho cha mẹ.
+    tomTat: `Khi Trường Sinh đóng tại Phụ Mẫu, đây là dấu hiệu cát lành cho
+cha mẹ đương số. Cha mẹ có sức khỏe tốt, tinh thần năng động, tính tình
+chịu khó ít khi uể oải và tuổi thọ cao.
 
-**Đặc trưng:**
-- Cha mẹ có **SỨC KHỎE TỐT**
-- Tinh thần **NĂNG ĐỘNG**
-- Tính tình **CHỊU KHÓ**, ít khi uể oải
-- **TUỔI THỌ CAO**
-
-**Tấm gương cho con cái:**
-- **CẦN CÙ, NGHỊ LỰC**
-- Sức sống **DỒI DÀO**
-
-**Đương số được hưởng:**
-- Nguồn **SINH KHÍ và PHÚC THỌ** từ cha mẹ`,
+Cha mẹ là tấm gương cần cù, nghị lực và sức sống dồi dào cho con cái. Nhờ
+đó, đương số được hưởng nguồn sinh khí cùng phúc thọ từ cha mẹ.`,
   },
 
   {
@@ -345,23 +293,16 @@ Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT 
     sao: ['Trường Sinh'],
     cung: ['Phúc Đức'],
     doUuTien: 80,
-    tomTat: `**Trường Sinh tại Phúc Đức** — vị trí **HỢP CÁCH**, **PHƯỚC KHÍ DÀY**.
+    tomTat: `Phúc Đức là vị trí hợp cách của Trường Sinh — phước khí dày dặn.
+Dòng họ đương số nhiều người sống thọ, mồ mả tổ tiên kết phát, hậu duệ được
+che chở phù trì.
 
-**Đặc trưng:**
-- Dòng họ nhiều người **SỐNG THỌ**
-- **MỒ MẢ TỔ TIÊN KẾT PHÁT**
-- Hậu duệ được **CHE CHỞ, PHÙ TRÌ**
+Bản thân đương số tâm tính thiện lương, hưởng phúc phần từ quá khứ và biết
+vun bồi phúc đức cho thế hệ sau.
 
-**Đương số:**
-- Tâm tính **THIỆN LƯƠNG**
-- Hưởng phúc phần từ quá khứ
-- Biết **VUN BỒI PHÚC ĐỨC** cho thế hệ sau
-
-**Câu phú đặc biệt khi đồng cung Đế Vượng:**
-> **"Khá khen cung Phúc nhà ngươi**
-> **Trường Sinh, Đế Vượng lắm người thành danh"**
-
-- Dòng họ chắc chắn có **NGƯỜI HIỂN ĐẠT**.`,
+Đặc biệt khi đồng cung **Đế Vượng**, ứng câu phú: "Khá khen cung Phúc nhà
+ngươi / Trường Sinh, Đế Vượng lắm người thành danh" — dòng họ chắc chắn có
+người hiển đạt.`,
   },
 
   {
@@ -370,21 +311,14 @@ Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT 
     sao: ['Trường Sinh'],
     cung: ['Điền Trạch'],
     doUuTien: 76,
-    tomTat: `**Trường Sinh tại Điền Trạch** — của tiền, đất đai **DỒI DÀO**.
+    tomTat: `Khi Trường Sinh cư Điền Trạch, của tiền và đất đai của đương số
+dồi dào, có duyên với đất đai; nhà cửa và ruộng vườn cũng dồi dào tương xứng.
 
-**Đặc trưng:**
-- Có **DUYÊN VỚI ĐẤT ĐAI**
-- Nhà cửa và ruộng vườn **DỒI DÀO**
+Khi hội cùng các tài tinh (Hóa Lộc, Lộc Tồn, Thiên Mã, Thái Âm, Tham Lang),
+đương số có duyên với buôn bán và kinh doanh bất động sản, phát đạt mạnh.
 
-**Hội tài tinh (Hóa Lộc, Lộc Tồn, Thiên Mã, Thái Âm, Tham Lang):**
-- Duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN**
-- Phát đạt mạnh
-
-**Nơi ở/làm việc:**
-- **KHANG TRANG, RỘNG LỚN**
-- **SẠCH SẼ, ĐÔNG ĐÚC, HIỆN ĐẠI**
-- Gia trạch **HƯNG THỊNH**
-- Thuận lợi tích lũy tài sản cố định`,
+Nơi ở và làm việc khang trang, rộng lớn, sạch sẽ, đông đúc và hiện đại.
+Gia trạch hưng thịnh, thuận lợi cho việc tích lũy tài sản cố định.`,
   },
 
   {
@@ -393,21 +327,14 @@ Tham Lang** — duyên với **BUÔN BÁN, KINH DOANH BẤT ĐỘNG SẢN PHÁT 
     sao: ['Trường Sinh'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Trường Sinh tại Quan Lộc** — đương số **NHIỆT HUYẾT, NĂNG NỔ** trong công
-việc.
+    tomTat: `Khi Trường Sinh tại Quan Lộc, đương số nhiệt huyết và năng nổ
+trong công việc. Sự nghiệp dễ phát triển, mở ra nhiều cơ hội thăng tiến —
+như dòng sinh khí bồi đắp cho công danh nên ít bế tắc, dễ đạt thành tựu
+lớn và có thể lên đỉnh cao.
 
-**Đặc trưng:**
-- Sự nghiệp dễ **PHÁT TRIỂN**
-- Mở ra nhiều cơ hội **THĂNG TIẾN**
-- Như **DÒNG SINH KHÍ BỒI ĐẮP** cho công danh
-- Ít bế tắc, dễ đạt **THÀNH TỰU LỚN**
-- Có thể lên **ĐỈNH CAO**
-
-**Hội Hóa Khoa + Khôi Việt + Quang Quý:**
-- Sự nghiệp **RỰC RỠ**
-- Đỉnh cao **DANH VỌNG**
-
-Nhiệt huyết năng nổ trong công việc: tạo thành **THÀNH TỰU LỚN**.`,
+Khi hội cùng Hóa Khoa, Thiên Khôi, Thiên Việt, Ân Quang và Thiên Quý, sự
+nghiệp đương số rực rỡ, vươn tới đỉnh cao danh vọng. Nhiệt huyết năng nổ
+trong công việc tạo thành thành tựu lớn.`,
   },
 
   {
@@ -416,19 +343,14 @@ Nhiệt huyết năng nổ trong công việc: tạo thành **THÀNH TỰU LỚN
     sao: ['Trường Sinh'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Trường Sinh tại Nô Bộc** — **LẮM BẠN NHIỀU BÈ**, bạn bè nhiều người **THÀNH ĐẠT**.
+    tomTat: `Khi Trường Sinh tại Nô Bộc, đương số lắm bạn nhiều bè, trong số
+ấy có nhiều người thành đạt. Đương số giao du rộng rãi, cuộc đời được phát
+triển nhờ bạn bè giúp đỡ; nhiều bạn có vị trí cao trong xã hội.
 
-**Đặc trưng:**
-- **GIAO DU RỘNG RÃI**
-- Cuộc đời được **PHÁT TRIỂN** nhờ bạn bè giúp đỡ
-- Nhiều bạn có **VỊ TRÍ CAO** trong xã hội
+Khi hội cát tinh, bạn bè, đồng nghiệp và cấp dưới hỗ trợ đương số mạnh mẽ.
 
-**Cát tinh hội:** Bạn bè, đồng nghiệp, cấp dưới **HỖ TRỢ MẠNH**.
-
-**Sát tinh hội (Không Kiếp + Kình Đà + Cự Kỵ):**
-- Mối quan hệ **BẤT LỢI**
-- Gây **HAO TỐN**
-- Lôi kéo vào **RẮC RỐI**`,
+Khi hội sát tinh (Địa Không, Địa Kiếp, Kình Dương, Đà La, Cự Môn, Hóa Kỵ),
+mối quan hệ trở nên bất lợi, gây hao tốn và lôi đương số vào những rắc rối.`,
   },
 
   {
@@ -437,17 +359,13 @@ Nhiệt huyết năng nổ trong công việc: tạo thành **THÀNH TỰU LỚN
     sao: ['Trường Sinh'],
     cung: ['Thiên Di'],
     doUuTien: 76,
-    tomTat: `**Trường Sinh tại Thiên Di** — ra ngoài **NHIỀU MAY MẮN**, dễ thành công.
+    tomTat: `Khi Trường Sinh cư Thiên Di, đương số ra ngoài nhiều may mắn,
+dễ thành công. Đặc trưng có chút nghịch lý: ở nhà thì lười, nhưng khi ra
+ngoài và sống xa gia đình thì lại rất chăm chỉ.
 
-**Đặc trưng nghịch lý:**
-- Ở nhà thì **LƯỜI**
-- Ra ngoài, sống xa gia đình thì **RẤT CHĂM CHỈ**
-
-**Vận may:**
-- Dễ **GẶT HÁI THÀNH CÔNG**
-- Vợ dễ **TO BÉO**, gia đình **CÓ ĐIỀU KIỆN**
-
-**Mở ra nhiều thuận lợi** trong quá trình **LÀM ĂN, LẬP NGHIỆP XA QUÊ**.`,
+Vận may cho phép đương số dễ gặt hái thành công; vợ thường to béo, gia đình
+có điều kiện. Cách này mở ra nhiều thuận lợi cho quá trình làm ăn và lập
+nghiệp xa quê.`,
   },
 
   {
@@ -456,24 +374,18 @@ Nhiệt huyết năng nổ trong công việc: tạo thành **THÀNH TỰU LỚN
     sao: ['Trường Sinh'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Trường Sinh tại Tật Ách** — **BẤT LỢI**, đặc tính dồi dào nảy nở chuyển
-thành tiêu cực.
+    tomTat: `Tật Ách là vị trí ngoại lệ của Trường Sinh — bất lợi vì đặc tính
+dồi dào nảy nở chuyển thành tiêu cực, khuếch đại bệnh tật cho đương số.
 
-**Đặc trưng:**
-- Bệnh tật **NHIỀU VÀ LÂU KHỎI**
-- Đặc tính "**DỒI DÀO, ĐÂM TRỒI NẨY NỞ**": bệnh **KHÔNG BAO GIỜ HẾT**
-- Bệnh tật và tai họa **LIÊN TỤC PHÁT SINH**
+Bệnh của đương số nhiều và lâu khỏi; đặc tính "dồi dào, đâm trồi nẩy nở"
+khiến bệnh không bao giờ hết, bệnh tật và tai họa liên tục phát sinh.
 
-**Sát tinh hội (Không Kiếp + Kình Đà + Cự Kỵ):**
-- Càng dễ mắc **BỆNH LÂU NGÀY**, khó dứt điểm
+Khi hội sát tinh (Địa Không, Địa Kiếp, Kình Dương, Đà La, Cự Môn, Hóa Kỵ),
+đương số càng dễ mắc bệnh lâu ngày, khó dứt điểm.
 
-**Sao GIẢI - hóa giải:**
-- **Hóa Khoa, Thiên Quan, Thiên Phúc**
-- **Khôi Việt, Quang Quý**
-- **Tuần - Triệt**
-- Tai họa được hóa giải, bệnh tật dần suy giảm.
-
-Đây là **VỊ TRÍ NGOẠI LỆ** của Trường Sinh — vì khuếch đại bệnh tật.`,
+Sao giải hóa: **Hóa Khoa**, Thiên Quan, Thiên Phúc, Thiên Khôi, Thiên Việt,
+Ân Quang, Thiên Quý cùng Tuần - Triệt giúp tai họa được hóa giải, bệnh tật
+dần suy giảm.`,
   },
 
   {
@@ -482,19 +394,13 @@ thành tiêu cực.
     sao: ['Trường Sinh'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `**Trường Sinh tại Tài Bạch** — nguồn kiếm tiền **LUÔN DỒI DÀO**.
+    tomTat: `Khi Trường Sinh cư Tài Bạch, nguồn kiếm tiền của đương số luôn
+dồi dào — hết tiền chỗ này lại có chỗ khác, tiền bạc luôn nảy nở sinh sôi.
+Đương số không bao giờ phải lo hết tiền, hết lại có, hiếm khi rơi vào cảnh
+túng thiếu.
 
-**Đặc trưng:**
-- Hết tiền chỗ này lại có chỗ khác
-- Tiền bạc **LUÔN NẢY NỞ SINH SÔI**
-- **KHÔNG BAO GIỜ LO HẾT TIỀN**, hết lại có
-- Hiếm khi rơi vào **TÚNG THIẾU**
-
-**Cách cục thuận lợi cho:**
-- **TÍCH LŨY**
-- **LÀM ĂN, ĐẦU TƯ**
-- Của cải có xu hướng **TĂNG TRƯỞNG**
-- Tạo sự **AN TÂM TÀI CHÍNH** cả cuộc đời`,
+Cách cục này thuận lợi cho việc tích lũy, làm ăn và đầu tư; của cải có
+xu hướng tăng trưởng, tạo cảm giác an tâm tài chính suốt cả cuộc đời.`,
   },
 
   {
@@ -503,15 +409,12 @@ thành tiêu cực.
     sao: ['Trường Sinh'],
     cung: ['Tử Tức'],
     doUuTien: 76,
-    tomTat: `**Trường Sinh tại Tử Tức** — **ĐÔNG CON CÁI**, con cái **KHỎE MẠNH, NĂNG ĐỘNG**.
+    tomTat: `Khi Trường Sinh đóng tại Tử Tức, đương số đông con cái; con cái
+khỏe mạnh, năng động, mang lại niềm vui cho gia đình. Sau khi sinh con,
+vợ chồng làm ăn thường phát đạt hơn.
 
-**Đặc trưng:**
-- Con cái mang lại **NIỀM VUI** cho gia đình
-- Đẻ con xong vợ chồng **LÀM ĂN PHÁT ĐẠT** hơn
-
-**Biểu tượng:**
-- **NỐI DÀI HUYẾT MẠCH**
-- **HƯNG THỊNH GIA ĐẠO**`,
+Về biểu tượng, cách này nói lên sự nối dài huyết mạch và hưng thịnh gia đạo
+cho đương số.`,
   },
 
   {
@@ -520,16 +423,12 @@ thành tiêu cực.
     sao: ['Trường Sinh'],
     cung: ['Phu Thê'],
     doUuTien: 76,
-    tomTat: `**Trường Sinh tại Phu Thê** — người hôn phối **KHỎE MẠNH, SỐNG THỌ**.
+    tomTat: `Khi Trường Sinh đóng tại Phu Thê, người hôn phối của đương số
+khỏe mạnh và sống thọ. Nhà vợ hoặc nhà chồng có điều kiện, khá giả; sau
+khi cưới, công việc và của cải của đương số đi lên, phát triển tốt hơn.
 
-**Đặc trưng:**
-- Nhà vợ/chồng **CÓ ĐIỀU KIỆN**, khá giả
-- Cưới vợ/chồng xong: công việc và của cải **ĐI LÊN, PHÁT TRIỂN TỐT HƠN**
-
-**Cách cục:**
-- Sự nghiệp **KHỞI SẮC** sau hôn nhân
-- Tài vận **THUẬN LỢI**
-- Của cải **NGÀY CÀNG TÍCH LŨY**`,
+Cách cục cụ thể: sự nghiệp khởi sắc sau hôn nhân, tài vận thuận lợi, của
+cải ngày càng tích lũy.`,
   },
 
   {
@@ -538,17 +437,12 @@ thành tiêu cực.
     sao: ['Trường Sinh'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Trường Sinh tại Huynh Đệ** — anh em **ĐÔNG VUI, SUNG TÚC**.
+    tomTat: `Khi Trường Sinh đóng tại Huynh Đệ, anh em đương số đông vui và
+sung túc, gắn bó với nhau và tạo thành chỗ dựa cho nhau; nhà cửa sung túc.
 
-**Đặc trưng:**
-- Anh em **GẮN BÓ**, tạo thành **CHỖ DỰA** cho nhau
-- Nhà sung túc
+Khi hội cát tinh, anh em hòa thuận.
 
-**Cát tinh hội:**
-- Anh em **HÒA THUẬN**
-
-**Sát tinh hội (Không Kiếp + Kình Đà + Cự Môn + Hóa Kỵ):**
-- Dễ nảy sinh **MÂU THUẪN**
-- Gây **PHIỀN LỤY**`,
+Khi hội sát tinh (Địa Không, Địa Kiếp, Kình Dương, Đà La, Cự Môn, Hóa Kỵ),
+anh em dễ nảy sinh mâu thuẫn và gây phiền lụy cho nhau.`,
   },
 ];

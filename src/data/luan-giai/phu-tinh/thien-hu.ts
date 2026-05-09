@@ -14,28 +14,20 @@ export const luanGiai_ThienHu: DoanLuanGiai[] = [
     title: 'Thiên Hư - Đặc tính chung',
     sao: ['Thiên Hư'],
     doUuTien: 32,
-    tomTat: `**Thiên Hư** — phụ tinh **BẠI TINH**.
+    tomTat: `**Thiên Hư** là phụ tinh thuộc nhóm bại tinh, ngũ hành Thủy, hóa
+khí thành bại tinh trong tử vi. Theo quy luật an sao của engine, Thiên Hư
+luôn đồng cung với Tuế Phá; đồng thời tam hợp với Tang Môn và Điếu Khách —
+một vòng tam hợp mang tính chống đối, ít có khả năng xây dựng. Sao này còn
+có quan hệ rất mật thiết với Thiên Khốc, hai sao đứng chung tạo thành bộ
+**Khốc Hư** quen thuộc.
 
-**Ngũ hành:** **Thủy**.
+Vai trò chính của Thiên Hư là gây thêm cản trở, reo rắc tâm lý hoang mang
+lo lắng, đồng thời mang tới nỗi u buồn nặng tâm tư cho cung sao đóng. Vì
+thuộc hành Thủy nên sao có tính thấm xuống — biểu hiện ở tình cảm ủy mị, u
+sầu, khép kín và nội tâm.
 
-**Hóa khí:** **Bại Tinh**.
-
-**Quy luật an sao:**
-- **LUÔN đồng cung với TUẾ PHÁ** (hardcode trong engine)
-- Tam hợp với **Tang Môn + Điếu Khách** — vòng tam hợp **CHỐNG ĐỐI**, tính
-  xây dựng KHÔNG cao
-- Quan hệ **mật thiết** với **THIÊN KHỐC** — tạo bộ **KHỐC HƯ**
-
-**Vai trò:**
-- Gây thêm **CẢN TRỞ**
-- **REO RẮC tâm lý HOANG MANG, LO LẮNG**
-- **U BUỒN, NẶNG TÂM TƯ**
-
-**Đặc tính HÀNH THỦY:**
-Có tính **THẤM XUỐNG**: chủ về **TÌNH CẢM ỦY MỊ, U SẦU, KHÉP KÍN, NỘI TÂM**.
-
-**Đặc tính:** **CẢN TRỞ, KÊU THAN, TRÁCH MÓC, OÁN HẬN, PHIỀN NÃO, KHỔ ĐAU,
-XUI XẺO**.`,
+Tóm lại, đặc tính của Thiên Hư xoay quanh: cản trở, kêu than, trách móc,
+oán hận, phiền não, khổ đau và xui xẻo.`,
   },
 
   {
@@ -44,28 +36,23 @@ XUI XẺO**.`,
     sao: ['Thiên Khốc', 'Thiên Hư'],
     chi: ['Tý', 'Ngọ'],
     doUuTien: 85,
-    tomTat: `**Khốc Hư Tý Ngọ - tiền bần hậu phú** (câu phú nổi tiếng):
+    tomTat: `Câu phú nổi tiếng "**Khốc Hư Tý Ngọ, tiền bần hậu phú**" mô tả
+chính cách cục này: khi Thiên Khốc và Thiên Hư đứng chung tại cung Tý hoặc
+Ngọ — cả hai đều đắc địa.
 
-> "**Khốc Hư Tý Ngọ, tiền bần hậu phú.**"
+Đặc trưng của đương số có cách này:
 
-**Khi Thiên Khốc + Thiên Hư đứng chung tại cung TÝ hoặc NGỌ - ĐẮC ĐỊA:**
+- Tuổi trẻ vất vả, gian lao
+- Nhờ nghị lực phi thường và phấn đấu không mệt mỏi mà tiến tới thành công,
+  vinh quang xứng đáng
 
-**Đặc trưng:**
-- **TUỔI TRẺ VẤT VẢ, GIAN LAO**
-- Nhờ **NGHỊ LỰC PHI THƯỜNG**
-- **PHẤN ĐẤU không mệt mỏi**
--: Tiến tới **THÀNH CÔNG, VINH QUANG XỨNG ĐÁNG**
+Triết lý của cách rất sâu: tiếng khóc, kêu than, oán hận thuở thiếu thời
+dần biến thành tiếng cười, tiếng vui đùa và hò reo về sau. Đây chính là
+kiểu "trước khổ sau sướng" — gian nan trở thành bàn đạp để vượt số mệnh,
+càng gặp thử thách càng thêm bản lĩnh.
 
-**Triết lý:**
-- **TIẾNG KHÓC, KÊU THAN, OÁN HẬN** dần trở thành **TIẾNG CƯỜI, TIẾNG VUI ĐÙA,
-  HÒ REO**
-- Cách "**TRƯỚC KHỔ SAU SƯỚNG**"
-- **GIAN NAN làm BÀN ĐẠP** để **VƯỢT SỐ MỆNH**
-- Càng gặp **GIAN NAN càng thêm BẢN LĨNH**
-
-- Đây là **CÁCH ĐẸP NHẤT** của bộ Khốc Hư — biến **bại tinh thành quý cách**.
-
-Ý nghĩa càng **RÕ RỆT** nếu đi kèm với các **CÁT TINH** khác.`,
+Đây là cách đẹp nhất của bộ **Khốc Hư**, biến bại tinh thành quý cách. Ý
+nghĩa càng rõ rệt khi đi kèm với các cát tinh khác.`,
   },
 
   {
@@ -73,20 +60,19 @@ XUI XẺO**.`,
     title: 'Khốc Hư trong Lục Bại Tinh',
     sao: ['Thiên Khốc', 'Thiên Hư'],
     doUuTien: 50,
-    tomTat: `**Bộ KHỐC HƯ** = Thiên Khốc + Thiên Hư — một trong **LỤC BẠI TINH** quan
-trọng:
+    tomTat: `Bộ **Khốc Hư** (Thiên Khốc + Thiên Hư) là một trong sáu Lục Bại
+Tinh quan trọng của tử vi, gồm: Tiểu Hao, Đại Hao, Thiên Khốc, Thiên Hư,
+Tang Môn và Bạch Hổ.
 
-**LỤC BẠI TINH** = Tiểu Hao + Đại Hao + Thiên Khốc + Thiên Hư + Tang Môn +
-Bạch Hổ.
+Xét riêng từng sao trong cặp đôi này:
 
-**Đặc trưng cặp đôi:**
-- **Thiên Khốc:** chủ **TIẾNG KHÓC**, **buồn rầu, rầu rĩ**
-- **Thiên Hư:** chủ **CẢN TRỞ, ƯU PHIỀN**, kêu than oán hận
-- **Đứng chung** = **NƯỚC MẮT + TIẾNG KÊU THAN** — bộ buồn nhất tử vi
+- Thiên Khốc chủ về tiếng khóc, sự buồn rầu, rầu rĩ
+- Thiên Hư chủ về cản trở, ưu phiền, kêu than oán hận
 
-**Trừ trường hợp đắc địa Tý/Ngọ** (tiền bần hậu phú):
-- Bộ này thường **GIEO RẮC NỖI BUỒN** cho cung sao đó đóng
-- Cần **CÁT TINH HÓA GIẢI** mới giảm bớt`,
+Khi đứng chung, hai sao tạo thành cảnh "nước mắt cộng tiếng kêu than" —
+được xem là bộ buồn nhất trong tử vi. Trừ trường hợp đắc địa tại Tý/Ngọ
+(đã thành cách "tiền bần hậu phú"), bộ này thường gieo rắc nỗi buồn cho
+cung mà sao đóng, cần có cát tinh hóa giải mới giảm bớt.`,
   },
 
   {
@@ -95,15 +81,11 @@ Bạch Hổ.
     sao: ['Thiên Hư'],
     cung: ['Mệnh'],
     doUuTien: 45,
-    tomTat: `**Thiên Hư thủ Mệnh - Tướng mạo:**
-
-**Đặc điểm bên ngoài:**
-- **DA XANH XAO**
-- **MẮT có QUẦNG ĐEN/THÂM**
-- **DIỆN MẠO BUỒN TẺ**, mặt **THIẾU KHÍ SẮC**
-- **MẮT KÉM THẦN**, hay **TRÔNG XUỐNG**, không trông xa
-- Toát lên vẻ **TRẦM MẶC**, ít cười
-- Gương mặt **NHỢT NHẠT**, mắt **không có hồn**`,
+    tomTat: `Khi Thiên Hư thủ Mệnh, đương số thường có dáng vẻ bên ngoài khá
+đặc trưng: da xanh xao, mắt có quầng đen hoặc thâm, diện mạo buồn tẻ, gương
+mặt thiếu khí sắc. Đôi mắt kém thần, hay trông xuống chứ không trông xa,
+toàn thân toát lên vẻ trầm mặc, ít cười. Gương mặt nhợt nhạt, ánh mắt như
+không có hồn.`,
   },
 
   {
@@ -112,19 +94,14 @@ Bạch Hổ.
     sao: ['Thiên Hư'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Thiên Hư thủ Mệnh - tính tình:**
+    tomTat: `Khi Thiên Hư thủ Mệnh, tâm lý đương số nghiêng hẳn về phía u
+buồn ủy mị, hay phiền muộn, mang nét bi quan yếm thế. Đương số đãng trí,
+nghĩ đâu quên đó, hay giật mình hốt hoảng và hoang mang. Cảnh "ăn không
+ngon, ngủ không yên" diễn ra thường xuyên — lúc nào cũng nơm nớp lo lắng
+một điều gì đó.
 
-**Tâm lý:**
-- **U BUỒN, ỦY MỊ, ỦY SẦU**, hay **PHIỀN MUỘN**
-- **BI QUAN, YẾM THẾ**
-- **ĐÃNG TRÍ**, nghĩ đâu quên đó
-- Hay **GIẬT MÌNH HỐT HOẢNG, HOANG MANG**
-- **"ĂN KHÔNG NGON, NGỦ KHÔNG YÊN"**
-- Lúc nào cũng **NƠM NỚP LO LẮNG**
-
-**Lời nói:**
-- Thích **KÊU THAN, KỂ LỂ, CẰN NHẰN**
-- Đôi khi hay **ĂN NÓI SAI NGOA**`,
+Về lời nói, đương số thích kêu than, kể lể và cằn nhằn; đôi khi còn ăn nói
+sai ngoa.`,
   },
 
   {
@@ -133,10 +110,10 @@ Bạch Hổ.
     cung: ['Mệnh'],
     trangThai: ['Hãm'],
     doUuTien: 75,
-    tomTat: `**Thiên Hư Hãm địa tại Mệnh - phúc thọ:**
-- Sao chủ **CẢN TRỞ, KHỐN KHỔ, ĐAU BUỒN** trong tâm hồn
-- **XUI XẺO dưới nhiều hình thức**
-- Có thể **YỂU**`,
+    tomTat: `Khi Thiên Hư **Hãm** địa tại Mệnh, sao này phát huy mặt xấu
+nhiều nhất: chủ về cản trở, khốn khổ, đau buồn trong tâm hồn, đồng thời
+gieo rắc xui xẻo dưới nhiều hình thức. Trường hợp nặng, đương số có thể
+yểu mệnh.`,
   },
 
   {
@@ -145,10 +122,9 @@ Bạch Hổ.
     cung: ['Mệnh'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Điếu Khách', 'Cự Môn'],
     doUuTien: 72,
-    tomTat: `**Thiên Hư tại Mệnh + Không Kiếp / Điếu Khách / Cự Môn:**
-- **SUỐT ĐỜI BI AI**
-- Lúc nào cũng **đau buồn, than khóc, tiếc thương**
-- Vì **bệnh tật, vì TANG TÓC**`,
+    tomTat: `Khi Thiên Hư tại Mệnh đi cùng Địa Không, Địa Kiếp, Điếu Khách
+hoặc Cự Môn, đương số rơi vào cảnh suốt đời bi ai — lúc nào cũng đau buồn,
+than khóc, tiếc thương vì bệnh tật hoặc tang tóc trong nhà.`,
   },
 
   {
@@ -159,20 +135,16 @@ Bạch Hổ.
     chi: ['Tý', 'Ngọ'],
     ketHop: ['Thiên Khốc'],
     doUuTien: 82,
-    tomTat: `**Thiên Hư + Thiên Khốc đắc địa tại TÝ hoặc NGỌ + Mệnh:**
+    tomTat: `Khi Thiên Hư cùng Thiên Khốc đắc địa tại Tý hoặc Ngọ và đóng
+Mệnh, đương số là người có chí lớn, văn tài lỗi lạc — đặc biệt sở trường
+hùng biện. Lời nói đanh thép, hùng hồn; có khiếu hoạt động chính trị rõ
+nét.
 
-**Đặc trưng:**
-- Người có **CHÍ LỚN**
-- **VĂN TÀI LỖI LẠC**, nhất là **TÀI HÙNG BIỆN**
-- Nói năng **ĐANH THÉP, HÙNG HỒN**
-- Có **KHIẾU HOẠT ĐỘNG CHÍNH TRỊ**
+Cuộc đời đương số thường vất vả khổ đau buổi đầu, gặp nhiều cảnh trớ trêu;
+song chính những thử thách ấy lại làm điểm bật, hun đúc ý chí vững vàng để
+chiến thắng số phận.
 
-**Cuộc đời:**
-- Tuổi trẻ thường **VẤT VẢ, KHỔ ĐAU**, gặp nhiều cảnh **TRỚ TRÊU**
-- Nhưng nhờ đó làm **ĐIỂM BẬT**, có **Ý CHÍ VỮNG VÀNG** để **CHIẾN THẮNG SỐ
-  PHẬN**
-
-Đây là cách **HÓA GIẢI TỐT NHẤT** của Thiên Hư — biến **u sầu thành nội lực**.`,
+Đây là cách hóa giải tốt nhất của Thiên Hư — biến u sầu thành nội lực.`,
   },
 
   {
@@ -181,18 +153,15 @@ Bạch Hổ.
     sao: ['Thiên Khốc', 'Thiên Hư'],
     ketHop: ['Thất Sát', 'Phá Quân'],
     doUuTien: 78,
-    tomTat: `**Khốc Hư + Thất Sát đắc địa** hoặc **Khốc Hư + Phá Quân đắc địa** (đồng cung):
+    tomTat: `Khi bộ **Khốc Hư** đồng cung với Thất Sát đắc địa hoặc với Phá
+Quân đắc địa, đương số trở thành người quyền cao chức trọng, uy danh lừng
+lẫy, được thiên hạ nể phục cả về uy lẫn tài.
 
-**Đặc trưng:**
-- Người có **QUYỀN CAO CHỨC TRỌNG**
-- **UY DANH LỪNG LẪY**
-- Được **THIÊN HẠ NỂ PHỤC** vì **UY và TÀI**
+Đây là cách biến bại tinh thành quyền tinh — Khốc Hư khi gặp võ tướng
+(Sát/Phá) đắc địa thì quyền lực nổi bật.
 
-- Đây là cách **BIẾN BẠI TINH thành QUYỀN TINH** — bộ Khốc Hư khi gặp **võ
-tướng (Sát/Phá)** đắc địa thì **quyền lực nổi bật**.
-
-**Lưu ý:** Sát/Phá phải **ĐẮC ĐỊA** mới thành cách. Nếu hãm địa thì lại càng
-**hung dữ thêm**.`,
+Lưu ý: Sát/Phá phải đắc địa mới thành cách. Nếu Sát/Phá hãm địa thì cách
+trở nên hung dữ thêm.`,
   },
 
   {
@@ -201,11 +170,10 @@ tướng (Sát/Phá)** đắc địa thì **quyền lực nổi bật**.
     sao: ['Thiên Hư'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Thiên Hư tại Phụ Mẫu:**
-- Cha mẹ **VẤT VẢ**
-- Là người hay **BẤT BÌNH**, gặp **NGHỊCH CẢNH**
-- Hay **ĐỨNG LÊN ĐẤU TRANH** trong công việc lẫn đời sống
-- Cha mẹ hay **Ủ RŨ, Ủ SẦU**, **THAN KHỔ** trước những bất công`,
+    tomTat: `Khi Thiên Hư đóng Phụ Mẫu, cha mẹ đương số là người vất vả, hay
+bất bình, gặp nghịch cảnh và thường đứng lên đấu tranh trong cả công việc
+lẫn đời sống. Cha mẹ hay ủ rũ, ủ sầu, than khổ trước những bất công gặp
+phải.`,
   },
 
   {
@@ -215,8 +183,8 @@ tướng (Sát/Phá)** đắc địa thì **quyền lực nổi bật**.
     chi: ['Tý', 'Ngọ'],
     ketHop: ['Thiên Khốc'],
     doUuTien: 72,
-    tomTat: `**Khốc Hư Tý/Ngọ tại Phụ Mẫu:** cha mẹ **TUỔI TRẺ VẤT VẢ**, **về già
-THÀNH CÔNG MỸ MÃN**.`,
+    tomTat: `Khi bộ **Khốc Hư** đắc tại Tý/Ngọ trong cung Phụ Mẫu, cha mẹ
+đương số tuổi trẻ vất vả nhưng về già thành công mỹ mãn.`,
   },
 
   {
@@ -225,8 +193,9 @@ THÀNH CÔNG MỸ MÃN**.`,
     cung: ['Phụ Mẫu'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh'],
     doUuTien: 70,
-    tomTat: `**Thiên Hư tại Phụ Mẫu + Sát Tinh:** cha mẹ dễ **NÓNG NẢY, BẢO THỦ**,
-gia đình **THIẾU HÒA KHÍ**, dẫn đến cảnh **LY TÁN, GÓA BỤA**.`,
+    tomTat: `Khi Thiên Hư tại Phụ Mẫu gặp thêm sát tinh (Kình Dương, Đà La,
+Hỏa Tinh, Linh Tinh), cha mẹ dễ nóng nảy, bảo thủ; gia đình thiếu hòa khí,
+dẫn đến cảnh ly tán hoặc góa bụa.`,
   },
 
   {
@@ -235,8 +204,8 @@ gia đình **THIẾU HÒA KHÍ**, dẫn đến cảnh **LY TÁN, GÓA BỤA**.`,
     sao: ['Thiên Hư'],
     cung: ['Phúc Đức'],
     doUuTien: 70,
-    tomTat: `**Thiên Hư tại Phúc Đức:** ảnh hưởng phúc phần dòng họ — biểu hiện rõ
-theo trạng thái đắc / hãm.`,
+    tomTat: `Khi Thiên Hư đóng Phúc Đức, sao ảnh hưởng tới phúc phần dòng họ
+— biểu hiện rõ rệt theo trạng thái đắc hoặc hãm cụ thể.`,
   },
 
   {
@@ -245,11 +214,9 @@ theo trạng thái đắc / hãm.`,
     cung: ['Phúc Đức'],
     trangThai: ['Hãm'],
     doUuTien: 75,
-    tomTat: `**Thiên Hư Hãm địa tại Phúc Đức:**
-- **GIẢM THỌ**
-- Có **ÂM HỒN BÁO OÁN**
-- Trong dòng họ nhiều người **VẤT VẢ, KHÔNG MAY MẮN**
-- Hay gặp **HOÀN CẢNH TRỚ TRÊU**, gây **bất mãn, buồn khổ**`,
+    tomTat: `Khi Thiên Hư **Hãm** địa tại Phúc Đức, đương số bị giảm thọ;
+trong dòng họ có âm hồn báo oán, nhiều người thân vất vả không may mắn,
+hay gặp hoàn cảnh trớ trêu sinh ra bất mãn buồn khổ.`,
   },
 
   {
@@ -258,10 +225,9 @@ theo trạng thái đắc / hãm.`,
     cung: ['Phúc Đức'],
     chi: ['Tý', 'Ngọ'],
     doUuTien: 72,
-    tomTat: `**Thiên Hư Đắc địa Tý/Ngọ tại Phúc Đức:**
-- **MỒ MẢ PHÁT ĐẠT**
-- **PHÚC DÀY**
-- Dòng họ có nhiều người **THÀNH CÔNG**`,
+    tomTat: `Khi Thiên Hư **Đắc** địa tại Tý hoặc Ngọ trong cung Phúc Đức,
+mồ mả nhà đương số phát đạt, phúc dày, dòng họ có nhiều người thành
+công.`,
   },
 
   {
@@ -270,12 +236,10 @@ theo trạng thái đắc / hãm.`,
     sao: ['Thiên Hư'],
     cung: ['Điền Trạch'],
     doUuTien: 72,
-    tomTat: `**Thiên Hư tại Điền Trạch:**
-- **KHÓ KIẾM TIỀN**, **HAO TÀI**
-- Hay **LO ÂU, SẦU BI** vì tiền bạc, của cải
-- Nhà thường hay **HỎNG CỬA CỔNG**
-- **CÔNG NĂNG và THIẾT KẾ KHÔNG HỢP LÝ**: gây khó chịu cho người ở
-- **ĐẤT Ở XẤU**, dễ phải có lần **BÁN NHÀ, BÁN ĐẤT**`,
+    tomTat: `Khi Thiên Hư đóng Điền Trạch, đương số khó kiếm tiền, hao tài,
+luôn lo âu sầu bi vì tiền bạc của cải. Nhà cửa hay hỏng cửa cổng; công năng
+và thiết kế không hợp lý, gây khó chịu cho người ở. Đất ở thường xấu, dễ
+phải có lần bán nhà bán đất trong đời.`,
   },
 
   {
@@ -284,8 +248,8 @@ theo trạng thái đắc / hãm.`,
     cung: ['Điền Trạch'],
     chi: ['Tý', 'Ngọ'],
     doUuTien: 70,
-    tomTat: `**Thiên Hư Đắc địa Tý/Ngọ tại Điền Trạch:** **TIỀN BẦN HẬU PHÚ** —
-trước nghèo sau giàu.`,
+    tomTat: `Khi Thiên Hư **Đắc** địa tại Tý/Ngọ trong cung Điền Trạch, đương
+số ứng cách "tiền bần hậu phú" — trước nghèo sau giàu.`,
   },
 
   {
@@ -294,9 +258,9 @@ trước nghèo sau giàu.`,
     cung: ['Điền Trạch'],
     ketHop: ['Ân Quang', 'Thiên Quý', 'Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 70,
-    tomTat: `**Thiên Hư tại Điền Trạch + Cát Tinh (Quang Quý / Tả Hữu / Khôi Việt):**
-- Đất đai về sau **GIA TĂNG PHÚC KHÍ**
-- Gia đình **HƯNG THỊNH**`,
+    tomTat: `Khi Thiên Hư tại Điền Trạch gặp các cát tinh Ân Quang, Thiên
+Quý, Tả Phù, Hữu Bật, Thiên Khôi hoặc Thiên Việt, đất đai về sau gia tăng
+phúc khí và gia đình hưng thịnh.`,
   },
 
   {
@@ -305,17 +269,14 @@ trước nghèo sau giàu.`,
     sao: ['Thiên Hư'],
     cung: ['Quan Lộc'],
     doUuTien: 75,
-    tomTat: `**Thiên Hư tại Quan Lộc:**
-- Công việc hay gặp **CẢNH BẤT CÔNG, CẢN TRỞ**
-- Gây **BUỒN KHỔ, SẦU BI**
-- Cùng Tuế Phá (đồng cung): dễ **THUA THIỆT, ĐỨNG SAU**
-- Sinh **PHẪN UẤT, KHÓ CHỊU, BẤT BÌNH** mà không biết kêu than với ai
+    tomTat: `Khi Thiên Hư đóng Quan Lộc, công việc của đương số hay gặp cảnh
+bất công và cản trở, sinh buồn khổ sầu bi. Vì luôn đồng cung Tuế Phá, đương
+số dễ thua thiệt, đứng sau người khác; trong lòng phẫn uất, khó chịu, bất
+bình mà không biết kêu than với ai.
 
-**Nghề phù hợp:**
-- **HỘI CHỮ THẬP ĐỎ**
-- **BÁC SỸ TÂM LÝ**
-- **BAN TANG LỄ**
-- Các công việc liên quan đến **việc buồn**, **hoàn cảnh khó khăn**`,
+Về định hướng nghề nghiệp, đương số phù hợp các công việc liên quan đến
+việc buồn và hoàn cảnh khó khăn — như Hội Chữ Thập Đỏ, bác sỹ tâm lý, ban
+tang lễ.`,
   },
 
   {
@@ -324,9 +285,8 @@ trước nghèo sau giàu.`,
     cung: ['Quan Lộc'],
     chi: ['Tý', 'Ngọ'],
     doUuTien: 72,
-    tomTat: `**Thiên Hư Đắc địa Tý/Ngọ tại Quan Lộc:**
-- **TUỔI TRẺ VẤT VẢ**, về sau **THÀNH CÔNG, THÀNH ĐẠT**
-- Làm được **ĐẠI SỰ**`,
+    tomTat: `Khi Thiên Hư **Đắc** địa tại Tý/Ngọ trong cung Quan Lộc, đương
+số tuổi trẻ vất vả, về sau thành công thành đạt và làm được đại sự.`,
   },
 
   {
@@ -335,11 +295,9 @@ trước nghèo sau giàu.`,
     sao: ['Thiên Hư'],
     cung: ['Nô Bộc'],
     doUuTien: 70,
-    tomTat: `**Thiên Hư tại Nô Bộc:**
-- Hay bị bạn bè, đồng nghiệp, cấp dưới **NÓI XẤU**, **KHÔNG THÀNH THẬT**
-- **Không được bạn em ưa**
-- Hay có **BẤT ĐỒNG, KHÓ CHỊU** với nhau
-- Hay phải **KÊU THAN vì bạn bè**`,
+    tomTat: `Khi Thiên Hư đóng Nô Bộc, đương số hay bị bạn bè, đồng nghiệp
+hoặc cấp dưới nói xấu sau lưng, không thành thật trong giao tiếp; quan hệ
+thường có bất đồng và khó chịu, đương số hay phải kêu than vì bạn bè.`,
   },
 
   {
@@ -348,9 +306,9 @@ trước nghèo sau giàu.`,
     cung: ['Nô Bộc'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La', 'Thiên Hình'],
     doUuTien: 67,
-    tomTat: `**Thiên Hư tại Nô Bộc + Không / Địa Kiếp / Kình Đà / Hình Sát:** quan
-hệ bạn bè, đồng nghiệp nhiều **THỊ PHI**, khó giữ tình cảm bền chặt — bạn bè
-**PHẢN BỘI, LỢI DỤNG, LỪA GẠT**.`,
+    tomTat: `Khi Thiên Hư tại Nô Bộc gặp Địa Không, Địa Kiếp, Kình Dương, Đà
+La hoặc Thiên Hình, quan hệ bạn bè và đồng nghiệp nhiều thị phi, khó giữ
+được tình cảm bền chặt — bạn bè dễ phản bội, lợi dụng, lừa gạt.`,
   },
 
   {
@@ -359,9 +317,9 @@ hệ bạn bè, đồng nghiệp nhiều **THỊ PHI**, khó giữ tình cảm b
     cung: ['Nô Bộc'],
     ketHop: ['Ân Quang', 'Thiên Quý', 'Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 67,
-    tomTat: `**Thiên Hư tại Nô Bộc + Ân Quang / Thiên Quý / Tả Hữu / Khôi Việt:**
-bạn bè, đồng nghiệp lúc đầu có **HIỂU LẦM** nhưng về sau lại trở thành **CHỖ
-DỰA ĐẮC LỰC**.`,
+    tomTat: `Khi Thiên Hư tại Nô Bộc gặp Ân Quang, Thiên Quý, Tả Phù, Hữu
+Bật, Thiên Khôi hoặc Thiên Việt, bạn bè và đồng nghiệp lúc đầu có hiểu lầm
+nhưng về sau lại trở thành chỗ dựa đắc lực cho đương số.`,
   },
 
   {
@@ -370,10 +328,9 @@ DỰA ĐẮC LỰC**.`,
     sao: ['Thiên Hư'],
     cung: ['Thiên Di'],
     doUuTien: 72,
-    tomTat: `**Thiên Hư tại Thiên Di:**
-- Khi ra ngoài hay gặp cảnh **BẤT BÌNH, BẤT ĐỒNG, KHÓ CHỊU**
-- Nhiều người **CHỐNG ĐỐI** lại
-- Sinh **ƯU BUỒN, BỰC TỨC, KÊU THAN**`,
+    tomTat: `Khi Thiên Hư đóng Thiên Di, lúc đương số ra ngoài hay gặp cảnh
+bất bình, bất đồng và khó chịu; nhiều người chống đối lại mình, dễ sinh ưu
+buồn, bực tức và kêu than.`,
   },
 
   {
@@ -382,10 +339,9 @@ DỰA ĐẮC LỰC**.`,
     cung: ['Thiên Di'],
     chi: ['Tý', 'Ngọ'],
     doUuTien: 70,
-    tomTat: `**Thiên Hư Đắc địa Tý/Ngọ tại Thiên Di:**
-- **TUỔI TRẺ ra ngoài, đi làm xa VẤT VẢ**
-- Về sau **THÀNH CÔNG, THÀNH ĐẠT**
-- Làm được **ĐẠI SỰ**`,
+    tomTat: `Khi Thiên Hư **Đắc** địa tại Tý/Ngọ trong cung Thiên Di, tuổi
+trẻ đương số ra ngoài đi làm xa vất vả, nhưng về sau thành công thành đạt
+và làm được đại sự.`,
   },
 
   {
@@ -394,13 +350,11 @@ DỰA ĐẮC LỰC**.`,
     sao: ['Thiên Hư'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Thiên Hư tại Tật Ách:**
-- Hay phải **KÊU THAN, BUỒN KHỔ** về bệnh tật, tai họa
-- Khi **CHẾT có nhiều người KHÓC THƯƠNG**
+    tomTat: `Khi Thiên Hư đóng Tật Ách, đương số hay phải kêu than buồn khổ
+về bệnh tật và tai họa; lúc nhắm mắt cũng có nhiều người khóc thương.
 
-**Vì Thiên Hư LUÔN đi cùng Tuế Phá:**
-- Người dễ bị **RỤNG RĂNG SỚM**
-- **Răng XẤU, SÂU RĂNG, MỌC LỆCH**`,
+Vì Thiên Hư luôn đi cùng Tuế Phá, đương số còn dễ bị rụng răng sớm — răng
+xấu, sâu răng, mọc lệch.`,
   },
 
   {
@@ -409,10 +363,10 @@ DỰA ĐẮC LỰC**.`,
     cung: ['Tật Ách'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La', 'Linh Tinh', 'Hỏa Tinh'],
     doUuTien: 72,
-    tomTat: `**Thiên Hư tại Tật Ách + Không Kiếp / Kình Đà / Linh Hỏa:**
-- Dễ mắc bệnh **THẦN KINH, TIM MẠCH, TIÊU HÓA** hoặc **bệnh NAN Y**
-- Khổ sở về **răng miệng**
-- Gặp **TAI NẠN, MỔ XẺ NHIỀU LẦN**`,
+    tomTat: `Khi Thiên Hư tại Tật Ách gặp Địa Không, Địa Kiếp, Kình Dương, Đà
+La, Linh Tinh hoặc Hỏa Tinh, đương số dễ mắc bệnh thần kinh, tim mạch, tiêu
+hóa hoặc bệnh nan y; khổ sở về răng miệng, gặp tai nạn và phải mổ xẻ nhiều
+lần.`,
   },
 
   {
@@ -421,11 +375,10 @@ DỰA ĐẮC LỰC**.`,
     sao: ['Thiên Hư'],
     cung: ['Tài Bạch'],
     doUuTien: 72,
-    tomTat: `**Thiên Hư tại Tài Bạch:**
-- Tiền bạc **KHÔNG ĐƯỢC HANH THÔNG**
-- Luôn có việc **PHẢI TIÊU PHA**, hoàn cảnh đưa đến
-- Hay **BUỒN KHỔ, U SẦU vì TIỀN NONG**
-- Hay gặp **BẤT TRẮC, BẤT CÔNG** trong việc kiếm tiền`,
+    tomTat: `Khi Thiên Hư đóng Tài Bạch, đường tiền bạc của đương số không
+được hanh thông; luôn có việc phải tiêu pha do hoàn cảnh đưa đến. Đương số
+hay buồn khổ u sầu vì tiền nong, hay gặp bất trắc và bất công trong việc
+kiếm tiền.`,
   },
 
   {
@@ -434,7 +387,8 @@ DỰA ĐẮC LỰC**.`,
     cung: ['Tài Bạch'],
     chi: ['Tý', 'Ngọ'],
     doUuTien: 70,
-    tomTat: `**Thiên Hư Đắc địa Tý/Ngọ (Khốc Hư) tại Tài Bạch:** **TIỀN BẦN HẬU PHÚ**.`,
+    tomTat: `Khi Thiên Hư **Đắc** địa tại Tý/Ngọ (cách **Khốc Hư**) trong
+cung Tài Bạch, đương số ứng cách "tiền bần hậu phú".`,
   },
 
   {
@@ -443,9 +397,9 @@ DỰA ĐẮC LỰC**.`,
     cung: ['Tài Bạch'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `**Thiên Hư tại Tài Bạch + Không Kiếp / Hóa Kỵ:**
-- Dễ **PHÁ SẢN, TRẮNG TAY**
-- Hoặc phải **trải qua nhiều lần MẤT MÁT** mới giữ được chút tài sản`,
+    tomTat: `Khi Thiên Hư tại Tài Bạch gặp Địa Không, Địa Kiếp hoặc Hóa Kỵ,
+đương số dễ phá sản trắng tay, hoặc phải trải qua nhiều lần mất mát mới
+giữ được chút tài sản.`,
   },
 
   {
@@ -454,14 +408,11 @@ DỰA ĐẮC LỰC**.`,
     sao: ['Thiên Hư'],
     cung: ['Tử Tức'],
     doUuTien: 72,
-    tomTat: `**Thiên Hư tại Tử Tức:**
-- Người **SINH CON KHÓ NUÔI**
-- **SINH NHIỀU NUÔI ÍT**
-- **ĐẺ MẤT CON, SÁT CON**
-- Hay **BUỒN KHỔ, SẦU BI** về chuyện con cái
-- Con cái **không như mong đợi**, hay gây khó chịu cho đương số
-- Con cái từ nhỏ đã **CHỐNG ĐỐI**, làm điều **TRÁI NGƯỢC**, hay **KHÓC ĂN VẠ**
-- **Răng thường KHÔNG ĐẸP**`,
+    tomTat: `Khi Thiên Hư đóng Tử Tức, đương số sinh con khó nuôi, sinh
+nhiều mà nuôi được ít, có khi đẻ mất con hoặc sát con; hay buồn khổ sầu bi
+về chuyện con cái. Con cái không được như mong đợi, hay gây khó chịu cho
+đương số. Từ nhỏ con đã hay chống đối, làm điều trái ngược, hay khóc ăn
+vạ, răng thường không đẹp.`,
   },
 
   {
@@ -470,9 +421,8 @@ DỰA ĐẮC LỰC**.`,
     cung: ['Tử Tức'],
     chi: ['Tý', 'Ngọ'],
     doUuTien: 70,
-    tomTat: `**Thiên Hư Đắc địa Tý/Ngọ tại Tử Tức:**
-- **TUỔI TRẺ VẤT VẢ với con cái**
-- Về già **ĐƯỢC NHỜ**`,
+    tomTat: `Khi Thiên Hư **Đắc** địa tại Tý/Ngọ trong cung Tử Tức, đương số
+tuổi trẻ vất vả vì con cái nhưng về già được nhờ.`,
   },
 
   {
@@ -481,12 +431,10 @@ DỰA ĐẮC LỰC**.`,
     sao: ['Thiên Hư'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Thiên Hư tại Phu Thê:**
-- Vợ chồng hay **BẤT ĐỒNG QUAN ĐIỂM**
-- "**Nay giận mai hờn**", hay **KHÓC LÓC KÊU THAN**
-- Thích **BẮT BẺ**
-- **Buồn khổ, than vãn** chuyện hôn nhân
-- Nhân duyên **TRẮC TRỞ buổi đầu**, ăn ở với nhau **CÓ NƯỚC MẮT**`,
+    tomTat: `Khi Thiên Hư đóng Phu Thê, vợ chồng đương số hay bất đồng quan
+điểm, nay giận mai hờn, hay khóc lóc kêu than và thích bắt bẻ. Đương số
+buồn khổ than vãn chuyện hôn nhân; nhân duyên trắc trở buổi đầu, ăn ở với
+nhau có nước mắt.`,
   },
 
   {
@@ -495,8 +443,8 @@ DỰA ĐẮC LỰC**.`,
     cung: ['Phu Thê'],
     ketHop: ['Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
     doUuTien: 72,
-    tomTat: `**Thiên Hư tại Phu Thê + Kình Đà / Không Kiếp / Hóa Kỵ:** vợ chồng
-**XUNG KHẮC**.`,
+    tomTat: `Khi Thiên Hư tại Phu Thê gặp thêm Kình Dương, Đà La, Địa Không,
+Địa Kiếp hoặc Hóa Kỵ, vợ chồng xung khắc nhau.`,
   },
 
   {
@@ -505,9 +453,9 @@ DỰA ĐẮC LỰC**.`,
     cung: ['Phu Thê'],
     chi: ['Tý', 'Ngọ'],
     doUuTien: 72,
-    tomTat: `**Thiên Hư Đắc địa Tý/Ngọ tại Phu Thê:**
-- Vợ chồng **VẤT VẢ, BẤT ĐỒNG thời gian đầu**
-- Càng về sau càng **YÊN ẤM và THÀNH ĐẠT**`,
+    tomTat: `Khi Thiên Hư **Đắc** địa tại Tý/Ngọ trong cung Phu Thê, vợ
+chồng đương số vất vả và bất đồng thời gian đầu, nhưng càng về sau càng
+yên ấm và thành đạt.`,
   },
 
   {
@@ -516,9 +464,8 @@ DỰA ĐẮC LỰC**.`,
     sao: ['Thiên Hư'],
     cung: ['Huynh Đệ'],
     doUuTien: 70,
-    tomTat: `**Thiên Hư tại Huynh Đệ:**
-- Hay phải **BUỒN RẦU** chuyện anh chị em
-- Anh chị em dễ **BẤT HÒA**`,
+    tomTat: `Khi Thiên Hư đóng Huynh Đệ, đương số hay phải buồn rầu vì
+chuyện anh chị em — anh chị em dễ bất hòa với nhau.`,
   },
 
   {
@@ -526,17 +473,18 @@ DỰA ĐẮC LỰC**.`,
     title: 'Khốc Hư vào hạn - đắc địa lợi 5 năm đầu',
     sao: ['Thiên Khốc', 'Thiên Hư'],
     doUuTien: 55,
-    tomTat: `**Khốc Hư vào hạn - chỉ LỢI nếu ĐẮC ĐỊA:**
+    tomTat: `Khi bộ **Khốc Hư** vào hạn, tác dụng chỉ thực sự có lợi nếu sao
+**Đắc** địa.
 
-**Đắc địa (Tý/Ngọ):**
-- **Đại hạn:** chỉ **THỊNH trong 5 NĂM đầu**
-- **Tiểu hạn:** chỉ **THỊNH NỬA NĂM ĐẦU**
-- Thời gian sau hết hiệu lực
+Trường hợp Khốc Hư đắc địa tại Tý/Ngọ:
 
-**Hãm địa:**
-- Là giai đoạn gặp nhiều **BẤT MÃN, NGHỊCH CẢNH**
-- Phải **KÊU THAN, U SẦU**
-- Cuộc sống **buồn rầu, mất phương hướng**`,
+- Vào đại hạn: chỉ thịnh trong năm năm đầu
+- Vào tiểu hạn: chỉ thịnh nửa năm đầu
+- Sau đó hết hiệu lực
+
+Trường hợp Khốc Hư **Hãm** địa: đây là giai đoạn đương số gặp nhiều bất
+mãn nghịch cảnh, phải kêu than u sầu, cuộc sống buồn rầu mất phương
+hướng.`,
   },
 
   {
@@ -545,8 +493,9 @@ DỰA ĐẮC LỰC**.`,
     sao: ['Thiên Khốc', 'Thiên Hư'],
     ketHop: ['Tang Môn'],
     doUuTien: 50,
-    tomTat: `**Khốc Hư + Tang Môn vào hạn:** dễ gặp **CHUYỆN TANG TÓC** hoặc
-**biến cố lớn, chuyện buồn thấm thía** trong năm đó.`,
+    tomTat: `Khi bộ **Khốc Hư** đi cùng Tang Môn vào hạn, đương số dễ gặp
+chuyện tang tóc trong nhà, hoặc biến cố lớn cùng những chuyện buồn thấm
+thía trong năm đó.`,
   },
 
   {
@@ -554,26 +503,24 @@ DỰA ĐẮC LỰC**.`,
     title: 'Lời khuyên cho người Thiên Hư',
     sao: ['Thiên Hư'],
     doUuTien: 35,
-    tomTat: `**Thiên Hư biểu hiện những lúc KHÓ KHĂN, TRẮC TRỞ** hoặc **THẤT BẠI tạm
-thời** — khiến đương số **bất an, mất niềm tin** hoặc **chán nản**.
+    tomTat: `Thiên Hư biểu hiện những lúc khó khăn trắc trở hoặc thất bại
+tạm thời — khiến đương số bất an, mất niềm tin hoặc chán nản.
 
-**Yếu điểm:**
-- **U BUỒN, ỦY MỊ**
-- **HOANG MANG, đãng trí**
-- **KÊU THAN, kể lể**
-- **BI QUAN, yếm thế**
+Yếu điểm cần lưu ý:
 
-**Để hóa giải:**
-- **DUY TRÌ THÁI ĐỘ CẨN TRỌNG**
-- **CHẬM RÃI** trong quyết định
-- **KHÉO LÉO** trong quan hệ với mọi người xung quanh
-- **HỌC CÁCH THÍCH NGHI** với thay đổi
-- **GIỮ BÌNH TĨNH** trước nghịch cảnh
-- **TÍCH CỰC TÌM KIẾM SỰ GIÚP ĐỠ** khi cần
-- Xây dựng **THÓI QUEN LÀNH MẠNH**
-- Giữ **TINH THẦN LẠC QUAN** và **KIÊN NHẪN**
+- U buồn, ủy mị
+- Hoang mang, đãng trí
+- Kêu than, kể lể
+- Bi quan, yếm thế
 
-- Khi tu dưỡng đúng cách, Thiên Hư có thể chuyển biến **KHÓ KHĂN thành CƠ HỘI
-TRƯỞNG THÀNH** — đặc biệt khi đắc Tý/Ngọ thì cách "**tiền bần hậu phú**" sẽ phát.`,
+Để hóa giải, đương số nên duy trì thái độ cẩn trọng, chậm rãi trong quyết
+định và khéo léo trong quan hệ với mọi người xung quanh. Học cách thích
+nghi với thay đổi, giữ bình tĩnh trước nghịch cảnh và tích cực tìm kiếm sự
+giúp đỡ khi cần. Xây dựng thói quen lành mạnh, giữ tinh thần lạc quan và
+kiên nhẫn lâu dài.
+
+Khi tu dưỡng đúng cách, Thiên Hư có thể chuyển biến khó khăn thành cơ hội
+trưởng thành — đặc biệt khi đắc Tý/Ngọ thì cách "tiền bần hậu phú" sẽ
+phát.`,
   },
 ];
