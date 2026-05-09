@@ -12,46 +12,43 @@ export const luanGiai_VanKhuc: DoanLuanGiai[] = [
     title: 'Văn Khúc - Đặc tính chung',
     sao: ['Văn Khúc'],
     doUuTien: 30,
-    tomTat: `**Văn Khúc** thuộc bộ **Lục Cát Tinh**, là **Văn Tinh + Phúc Tinh**,
-ngũ hành **Thủy**.
+    tomTat: `**Văn Khúc** thuộc bộ Lục Cát Tinh, vừa là **Văn tinh** vừa là Phúc
+tinh, ngũ hành Thủy. Sao này chủ về học vấn, khoa bảng và tài năng nghệ thuật.
 
-**Đặc tính:** chủ về **học vấn, khoa bảng, tài năng nghệ thuật**.
+Vị trí miếu hãm:
 
-**Vị trí miếu hãm:**
-- **Đắc địa:** Thìn, Tuất, Sửu, Mùi, Tỵ, Hợi
-- **Hãm địa:** Tý, Dần, Ngọ, Thân
+- Đắc địa: Thìn, Tuất, Sửu, Mùi, Tỵ, Hợi
+- Hãm địa: Tý, Dần, Ngọ, Thân
 
-Vì là **hành Thủy**: mang **tính đào hoa**, khác Văn Xương (hành Kim).
-Cảm xúc dễ thay đổi, **yêu đương phong lưu**.`,
+Vì là hành Thủy, Văn Khúc mang sẵn tính đào hoa — khác với Văn Xương hành Kim:
+cảm xúc của đương số có Văn Khúc dễ thay đổi, có khuynh hướng yêu đương phong
+lưu.`,
 
-    chiTiet: `## So sánh Văn Xương vs Văn Khúc
+    chiTiet: `So sánh **Văn Xương** và **Văn Khúc** — hai văn tinh thường đi cùng
+nhau nhưng bản chất khác biệt:
 
-| Đặc điểm | Văn Xương | Văn Khúc |
-|---|---|---|
-| **Ngũ hành** | Kim | **Thủy** |
-| **Tính chất** | Chính trực, học vấn | **Đa cảm, đào hoa** |
-| **Năng khiếu** | Văn chương, hùng biện | **Nghệ thuật, thủ công** |
-| **Vị trí miếu hãm** | Đắc Thìn/Tuất/Sửu/Mùi/Tỵ/Hợi; Hãm Tý/Dần/Ngọ/Thân | Cùng |
+- Văn Xương ngũ hành Kim, mang tính chính trực và học vấn, năng khiếu thiên về
+  văn chương cùng hùng biện
+- Văn Khúc ngũ hành Thủy, mang tính đa cảm và đào hoa, năng khiếu thiên về
+  nghệ thuật và thủ công
 
-- Cả hai cùng đắc/hãm tại các cung giống nhau, nhưng **bản chất khác**:
-- Văn Xương = ngay thẳng, chính trực
-- Văn Khúc = đa tình, đào hoa, dễ lay động trước cái đẹp
+Cả hai cùng đắc địa tại Thìn, Tuất, Sửu, Mùi, Tỵ, Hợi và cùng hãm tại Tý, Dần,
+Ngọ, Thân — vị trí miếu hãm trùng nhau nhưng phong cách thể hiện khác hẳn: Văn
+Xương ngay thẳng chính trực, còn Văn Khúc đa tình, đào hoa và dễ lay động trước
+cái đẹp.
 
-## Cặp Xương Khúc
+Khi Văn Xương đi cùng Văn Khúc thành cặp **Xương Khúc**, đó là biểu trưng cho
+tài học vấn, văn chương và nghệ thuật. Cách Xương Khúc giáp Mệnh hoặc đồng cung
+rất quý: đương số thông minh tài năng, thi cử đỗ đạt cao.
 
-Văn Xương + Văn Khúc = bộ **"Xương Khúc"** — biểu trưng cho **tài học vấn,
-văn chương, nghệ thuật**.
+Về vận trình của đương số có Văn Khúc:
 
-**Xương Khúc giáp Mệnh** hoặc **đồng cung**: cách rất quý, thông minh tài
-năng, đỗ đạt cao.
-
-## Vận trình
-
-- **Sự nghiệp:** phù hợp **văn học, nghệ thuật, thủ công, mỹ nghệ, ngôn ngữ**
-- **Duyên vận:** vợ chồng **"môn đăng hộ đối"**, có học thức, hòa thuận
-- **Tài lộc:** kiếm tiền bằng **trí tuệ, học vấn**, có kiến thức **kinh tế** áp
-  dụng vào thực tiễn
-- **Phúc thọ:** dễ bệnh **tình ái**; hãm hoặc gặp sát tinh: **bệnh nan y khó chữa**`,
+- Sự nghiệp phù hợp văn học, nghệ thuật, thủ công, mỹ nghệ và ngôn ngữ
+- Duyên vận có vợ chồng "môn đăng hộ đối", cùng học thức và sống hòa thuận
+- Tài lộc đến từ trí tuệ và học vấn; đương số có kiến thức kinh tế áp dụng
+  được vào thực tiễn
+- Phúc thọ cần lưu ý: dễ mắc bệnh tình ái, nếu Văn Khúc hãm hoặc gặp sát tinh
+  có thể vướng bệnh nan y khó chữa`,
   },
 
   // ============================================================
@@ -63,35 +60,35 @@ năng, đỗ đạt cao.
     sao: ['Văn Khúc'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Văn Khúc cư Mệnh:** vẻ ngoài **thanh tú, điển trai, thanh lịch, thư
-sinh**.
+    tomTat: `Văn Khúc cư Mệnh khiến đương số có vẻ ngoài thanh tú, điển trai,
+thanh lịch, mang phong thái thư sinh.
 
-Tính cách: đam mê đèn sách, **cẩn thận, thông minh**, "trên thông thiên văn,
-dưới tường địa lý", **tự giác cao**. Tài năng về **văn chương, mỹ thuật, âm
-nhạc, khiếu ăn nói**.
+Về tính cách, đương số đam mê đèn sách, cẩn thận, thông minh, có thể "trên
+thông thiên văn, dưới tường địa lý" và rất tự giác trong học hành. Tài năng
+thiên về văn chương, mỹ thuật, âm nhạc và khiếu ăn nói.
 
-Không gặp hung sát tinh: **thẳng thắn, chính trực, bảo vệ lẽ phải**, không lọc lừa.
+Khi không gặp hung sát tinh, đương số là người thẳng thắn, chính trực, biết
+bảo vệ lẽ phải và không lọc lừa.
 
-Vì hành Thủy + tính nghệ thuật cao: **rất đa cảm**, dễ lay động trước cái đẹp
-- **đào hoa tiềm ẩn**, tình cảm dễ thay đổi, **yêu đương phong lưu**.`,
+Tuy nhiên, vì hành Thủy cộng với tính nghệ thuật cao, đương số rất đa cảm, dễ
+lay động trước cái đẹp — đào hoa tiềm ẩn, tình cảm dễ thay đổi, có khuynh hướng
+yêu đương phong lưu.`,
 
-    chiTiet: `## Tính tình
+    chiTiet: `Về tính tình: đương số thông minh, có học thức, hoạt bát, có năng
+khiếu sắc bén về văn chương, mỹ thuật, âm nhạc và nhiều lĩnh vực khác.
 
-**Thông minh, có học thức, hoạt bát**, có **năng khiếu sắc bén** về văn chương,
-mỹ thuật, âm nhạc và nhiều lĩnh vực khác.
+Về công danh tài lộc, vai trò của trạng thái sao rất rõ rệt:
 
-## Công danh tài lộc
+- Khi **Văn Khúc đắc địa**, bộ sao mang ý nghĩa phú quý, hiển đạt, phúc thọ
+  rất có giá trị
+- Có thêm Lộc Tồn, tài năng đương số xuất chúng
+- Có thêm Vũ Khúc, tài năng kiêm cả văn võ, đương số có uy danh lừng lẫy và
+  giàu sang
+- Cách giáp Mệnh cũng tốt, song đương số đắc thời nhờ hoàn cảnh bên ngoài
+  nhiều hơn là tài năng tự thân
 
-**Văn Khúc đắc địa:** bộ sao **phú quý, hiển đạt, phúc thọ rất có giá trị**.
-- Khi có **Lộc Tồn:** tài năng **xuất chúng**
-- Khi có **Vũ Khúc:** tài năng kiêm nhiếp **văn võ**, có **uy danh lừng lẫy** và giàu sang
-
-**Giáp Mệnh** cũng tốt — nhưng đắc thời nhờ **hoàn cảnh bên ngoài** nhiều hơn
-là tài năng của chính mình.
-
-**Văn Khúc hãm địa:**
-- **Khốn khổ**, phải bỏ làng lập nghiệp ở xa
-- **Có tật, bị tai họa**, hoặc **yểu tử**`,
+Khi **Văn Khúc hãm địa**, vận đời của đương số trở nên xấu rõ rệt: khốn khổ,
+phải bỏ làng lập nghiệp ở xa, có tật hoặc gặp tai họa, có khi yểu tử.`,
   },
 
   {
@@ -101,10 +98,9 @@ là tài năng của chính mình.
     cung: ['Mệnh'],
     gioiTinh: 'Nữ',
     doUuTien: 75,
-    tomTat: `**Văn Khúc thủ Mệnh — nữ mệnh:**
-- **DUYÊN DÁNG, NHAN SẮC XINH ĐẸP**
-- Phong thái **ĐOAN TRANG**
-- Đa cảm, lãng mạn, dễ lay động trước cái đẹp`,
+    tomTat: `Nữ mệnh có Văn Khúc thủ Mệnh thường duyên dáng, nhan sắc xinh đẹp,
+phong thái đoan trang. Đương số đa cảm, lãng mạn và rất dễ lay động trước cái
+đẹp.`,
   },
 
   {
@@ -116,10 +112,10 @@ là tài năng của chính mình.
     gioiTinh: 'Nữ',
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 73,
-    tomTat: `**Văn Khúc HÃM + sát tinh tại Mệnh — nữ mệnh:**
-- Có thể là **gái giang hồ**
-- **KHẮC CHỒNG, TI TIỆN**
-- **Dâm đãng**, u buồn vì gia đạo`,
+    tomTat: `Nữ mệnh có Văn Khúc **Hãm** lại gặp thêm Kình Dương, Đà La, Hỏa
+Tinh, Linh Tinh, Địa Không hoặc Địa Kiếp tại Mệnh, đương số có thể rơi vào số
+gái giang hồ, khắc chồng, ti tiện, dâm đãng — cuộc đời thường u buồn vì gia
+đạo.`,
   },
 
   // ============================================================
@@ -130,7 +126,8 @@ là tài năng của chính mình.
     title: 'Văn Khúc - Bộ sao TỐT',
     sao: ['Văn Khúc'],
     doUuTien: 50,
-    tomTat: `**Bộ sao tốt của Văn Khúc**.`,
+    tomTat: `Tổng quan các bộ sao tốt của Văn Khúc — chi tiết từng cách cục được
+trình bày trong các luận giải phía sau.`,
   },
 
   {
@@ -139,7 +136,8 @@ là tài năng của chính mình.
     sao: ['Văn Khúc'],
     ketHop: ['Hóa Khoa'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Hóa Khoa:** **thi đỗ dễ và cao**, có **văn bằng cao**.`,
+    tomTat: `Khi Văn Khúc hội cùng Hóa Khoa, đương số thi đỗ dễ dàng và đỗ cao,
+đạt được văn bằng cao trong học vấn.`,
   },
 
   {
@@ -148,8 +146,8 @@ là tài năng của chính mình.
     sao: ['Văn Khúc'],
     ketHop: ['Hóa Khoa', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Hóa Khoa + Thiên Khôi + Thiên Việt:** **khoa giáp
-tột đỉnh**, thông minh xuất chúng, được trọng dụng đắc thời.`,
+    tomTat: `Khi Văn Khúc hội cùng Hóa Khoa, Thiên Khôi và Thiên Việt, đương số
+đắc cách khoa giáp tột đỉnh — thông minh xuất chúng, được trọng dụng đắc thời.`,
   },
 
   {
@@ -159,8 +157,9 @@ tột đỉnh**, thông minh xuất chúng, được trọng dụng đắc thờ
     ketHop: ['Hóa Khoa', 'Thiên Khôi', 'Thiên Việt', 'Thái Dương', 'Thái Âm'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Hóa Khoa + Khôi Việt + Nhật Nguyệt sáng:** tài năng
-đạt **mức quốc tế**.`,
+    tomTat: `Khi Văn Khúc hội cùng Hóa Khoa, Thiên Khôi, Thiên Việt và có Nhật
+Nguyệt sáng, tài năng của đương số đạt mức quốc tế — danh tiếng vượt khỏi biên
+giới quốc gia.`,
   },
 
   {
@@ -170,8 +169,9 @@ tột đỉnh**, thông minh xuất chúng, được trọng dụng đắc thờ
     ketHop: ['Thái Dương'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Thái Dương sáng:** **lịch duyệt, học rộng, biết
-nhiều**.`,
+    tomTat: `Khi Văn Khúc gặp Thái Dương sáng (Miếu, Vượng hoặc Đắc), đương số
+là người lịch duyệt, học rộng và biết nhiều — kiến thức rộng khắp, ứng đối linh
+hoạt.`,
   },
 
   {
@@ -180,7 +180,8 @@ nhiều**.`,
     sao: ['Văn Khúc'],
     ketHop: ['Thiên Lương'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Thiên Lương:** **quý hiển, có uy danh lớn**.`,
+    tomTat: `Khi Văn Khúc hội cùng Thiên Lương, đương số quý hiển và có uy danh
+lớn trong xã hội.`,
   },
 
   {
@@ -189,8 +190,8 @@ nhiều**.`,
     sao: ['Văn Khúc'],
     ketHop: ['Thiên Cơ'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Thiên Cơ:** **khéo léo, tinh xảo về thủ công và
-ngôn ngữ**.`,
+    tomTat: `Khi Văn Khúc hội cùng Thiên Cơ, đương số khéo léo, tinh xảo về thủ
+công và có biệt tài về ngôn ngữ.`,
   },
 
   {
@@ -199,8 +200,8 @@ ngôn ngữ**.`,
     sao: ['Văn Khúc'],
     ketHop: ['Vũ Khúc'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Vũ Khúc** (cách **"Lưỡng Khúc"**): tài năng **văn
-võ**, lừng lẫy.`,
+    tomTat: `Khi Văn Khúc hội cùng Vũ Khúc, đương số đắc cách **"Lưỡng Khúc"** —
+tài năng văn võ song toàn, tiếng tăm lừng lẫy.`,
   },
 
   {
@@ -209,8 +210,8 @@ võ**, lừng lẫy.`,
     sao: ['Văn Khúc'],
     ketHop: ['Vũ Khúc', 'Tả Phù', 'Hữu Bật'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Vũ Khúc + Tả Phù / Hữu Bật:** **phú quý song toàn**,
-hiển vinh về võ.`,
+    tomTat: `Khi Văn Khúc hội cùng Vũ Khúc và Tả Phù hoặc Hữu Bật, đương số phú
+quý song toàn, được hiển vinh về đường võ nghiệp.`,
   },
 
   // ============================================================
@@ -221,7 +222,8 @@ hiển vinh về võ.`,
     title: 'Văn Khúc - Bộ sao XẤU',
     sao: ['Văn Khúc'],
     doUuTien: 50,
-    tomTat: `**Bộ sao xấu của Văn Khúc**.`,
+    tomTat: `Tổng quan các bộ sao xấu của Văn Khúc — chi tiết từng cách cục được
+trình bày trong các luận giải phía sau.`,
   },
 
   {
@@ -231,8 +233,8 @@ hiển vinh về võ.`,
     ketHop: ['Liêm Trinh'],
     chi: ['Sửu', 'Mùi', 'Mão', 'Dậu'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Liêm Trinh tại Sửu / Mùi / Mão / Dậu:** **giảm
-thọ**.`,
+    tomTat: `Khi Văn Khúc hội cùng Liêm Trinh tại các cung Sửu, Mùi, Mão hoặc
+Dậu, đương số bị giảm thọ.`,
   },
 
   {
@@ -241,8 +243,9 @@ thọ**.`,
     sao: ['Văn Khúc'],
     ketHop: ['Tuần', 'Triệt'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Tuần / Triệt:** thi cử **lận đận, dang dở, gián
-đoạn**, công danh chật vật, phải tha phương, bị tù tội, **yểu tử**.`,
+    tomTat: `Khi Văn Khúc bị Tuần hoặc Triệt án ngữ, đương số thi cử lận đận,
+dang dở và gián đoạn; công danh chật vật, có thể phải tha phương, vướng tù tội,
+thậm chí yểu tử.`,
   },
 
   {
@@ -251,8 +254,9 @@ thọ**.`,
     sao: ['Văn Khúc'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Hóa Kỵ:** thi cử **lận đận, dang dở, gián đoạn**,
-công danh chật vật, phải tha phương, bị tù tội, **yểu tử**.`,
+    tomTat: `Khi Văn Khúc hội cùng **Hóa Kỵ**, đương số thi cử lận đận, dang dở
+và gián đoạn; công danh chật vật, có thể phải tha phương, vướng tù tội, thậm
+chí yểu tử.`,
   },
 
   {
@@ -261,8 +265,9 @@ công danh chật vật, phải tha phương, bị tù tội, **yểu tử**.`,
     sao: ['Văn Khúc'],
     ketHop: ['Phá Quân'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Phá Quân đồng cung:** thi cử **lận đận, dang dở,
-gián đoạn**, công danh chật vật, phải tha phương, bị tù tội, **yểu tử**.`,
+    tomTat: `Khi Văn Khúc đồng cung với Phá Quân, đương số thi cử lận đận, dang
+dở và gián đoạn; công danh chật vật, có thể phải tha phương, vướng tù tội,
+thậm chí yểu tử.`,
   },
 
   {
@@ -271,8 +276,8 @@ gián đoạn**, công danh chật vật, phải tha phương, bị tù tội, *
     sao: ['Văn Khúc'],
     ketHop: ['Thiên Riêu'],
     doUuTien: 45,
-    tomTat: `**Văn Khúc + Thiên Riêu:** **lãng mạn, rất xinh đẹp** (đào hoa
-quá mức, lụy tình).`,
+    tomTat: `Khi Văn Khúc hội cùng Thiên Riêu, đương số rất lãng mạn và xinh
+đẹp, song dễ rơi vào đào hoa quá mức và lụy tình.`,
   },
 
   // ============================================================
@@ -283,19 +288,19 @@ quá mức, lụy tình).`,
     title: 'Cách Xương Khúc - Văn Xương + Văn Khúc',
     sao: ['Văn Khúc', 'Văn Xương'],
     doUuTien: 60,
-    tomTat: `**Cách Xương Khúc:** Văn Xương + Văn Khúc đi cùng nhau (đồng cung,
-giáp Mệnh, hoặc hội chiếu).
+    tomTat: `Khi **Văn Xương** và Văn Khúc đi cùng nhau — đồng cung, giáp Mệnh
+hoặc hội chiếu — đương số đắc cách **Xương Khúc**, biểu trưng cho học vấn và
+văn nghệ.
 
-**Khoa giáp tột đỉnh** khi đi với:
-- **Hóa Khoa + Thiên Khôi + Thiên Việt:** thông minh xuất chúng, có **tài thao
-  lược**, được trọng dụng đắc thời
+Khi cách Xương Khúc đi với Hóa Khoa cùng Thiên Khôi, Thiên Việt, đương số đạt
+khoa giáp tột đỉnh: thông minh xuất chúng, có tài thao lược và được trọng dụng
+đắc thời.
 
-**Đi cùng Vũ Khúc** = cách **"Lưỡng Khúc"** — văn võ song toàn:
-- Có **quyền uy, quyết đoán**
-- Có **trí tuệ, danh tiếng, tài lộc thịnh vượng**
+Khi đi cùng Vũ Khúc, ta có cách "Lưỡng Khúc" văn võ song toàn — đương số có
+quyền uy, quyết đoán đồng thời có trí tuệ, danh tiếng và tài lộc thịnh vượng.
 
-Dù Nhật Nguyệt hãm địa, **Xương Khúc vẫn giúp thành công sớm** nhờ thông minh
-và chăm chỉ.`,
+Một điểm đáng lưu ý: dù Nhật Nguyệt hãm địa, Xương Khúc vẫn giúp đương số thành
+công sớm nhờ thông minh và chăm chỉ.`,
   },
 
   {
@@ -305,8 +310,8 @@ và chăm chỉ.`,
     ketHop: ['Thái Dương', 'Thái Âm'],
     trangThai: ['Miếu', 'Vượng', 'Đắc'],
     doUuTien: 55,
-    tomTat: `**Xương Khúc + Nhật Nguyệt sáng:** tài năng đạt **mức QUỐC TẾ**,
-dễ **nổi danh**.`,
+    tomTat: `Khi cặp Xương Khúc gặp Nhật Nguyệt sáng (Miếu, Vượng hoặc Đắc),
+tài năng của đương số đạt tầm quốc tế và dễ nổi danh.`,
   },
 
   // ============================================================
@@ -318,11 +323,11 @@ dễ **nổi danh**.`,
     sao: ['Văn Khúc'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Văn Khúc tại Phụ Mẫu:** cha mẹ là người **có học thức**, yêu thích
-**nghệ thuật, văn chương**, **sống tình cảm, dễ xúc động**.
+    tomTat: `Văn Khúc cư Phụ Mẫu cho thấy cha mẹ của đương số là người có học
+thức, yêu thích nghệ thuật và văn chương, sống tình cảm và dễ xúc động.
 
-Chủ mệnh được sinh ra trong **gia đình gia giáo**, **thừa hưởng tri thức** từ
-cha mẹ, có **điều kiện thuận lợi để học tập và rèn luyện**.`,
+Đương số được sinh ra trong gia đình gia giáo, thừa hưởng tri thức từ cha mẹ
+và có điều kiện thuận lợi để học tập, rèn luyện.`,
   },
 
   // ============================================================
@@ -334,10 +339,11 @@ cha mẹ, có **điều kiện thuận lợi để học tập và rèn luyện*
     sao: ['Văn Khúc'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `**Văn Khúc tại Phúc Đức:** gia tộc có **truyền thống hiếu học**,
-nhiều người **đỗ đạt cao, có bằng cấp**.
+    tomTat: `Văn Khúc cư Phúc Đức cho thấy gia tộc của đương số có truyền thống
+hiếu học, nhiều người đỗ đạt cao và có bằng cấp.
 
-Đương số thừa hưởng **khả năng nghiên cứu, tinh thần ham học** của dòng họ.`,
+Đương số thừa hưởng được khả năng nghiên cứu cùng tinh thần ham học của dòng
+họ.`,
   },
 
   {
@@ -347,9 +353,9 @@ nhiều người **đỗ đạt cao, có bằng cấp**.
     cung: ['Phúc Đức'],
     ketHop: ['Văn Xương'],
     doUuTien: 73,
-    tomTat: `**Văn Khúc + Văn Xương tại Phúc Đức:** nền tảng và phúc phần
-càng **dồi dào**. Tổ tiên có **"mồ yên mả đẹp"**, trên mộ thường có **câu đối,
-câu thơ**.`,
+    tomTat: `Khi Văn Khúc hội cùng **Văn Xương** tại Phúc Đức, nền tảng và phúc
+phần của đương số càng dồi dào. Tổ tiên có "mồ yên mả đẹp", trên mộ thường có
+câu đối hoặc câu thơ.`,
   },
 
   {
@@ -359,9 +365,9 @@ câu thơ**.`,
     cung: ['Phúc Đức'],
     ketHop: ['Hóa Khoa'],
     doUuTien: 73,
-    tomTat: `**Văn Khúc + Hóa Khoa tại Phúc Đức:** nền tảng và phúc phần càng
-**dồi dào**. Tổ tiên có **"mồ yên mả đẹp"**, trên mộ thường có **câu đối, câu
-thơ**.`,
+    tomTat: `Khi Văn Khúc hội cùng Hóa Khoa tại Phúc Đức, nền tảng và phúc phần
+của đương số càng dồi dào. Tổ tiên có "mồ yên mả đẹp", trên mộ thường có câu
+đối hoặc câu thơ.`,
   },
 
   {
@@ -371,9 +377,9 @@ thơ**.`,
     cung: ['Phúc Đức'],
     ketHop: ['Thiên Khôi', 'Thiên Việt'],
     doUuTien: 73,
-    tomTat: `**Văn Khúc + Thiên Khôi / Thiên Việt tại Phúc Đức:** nền tảng và
-phúc phần càng **dồi dào**. Tổ tiên có **"mồ yên mả đẹp"**, trên mộ thường có
-**câu đối, câu thơ**.`,
+    tomTat: `Khi Văn Khúc hội cùng Thiên Khôi hoặc Thiên Việt tại Phúc Đức, nền
+tảng và phúc phần của đương số càng dồi dào. Tổ tiên có "mồ yên mả đẹp", trên
+mộ thường có câu đối hoặc câu thơ.`,
   },
 
   {
@@ -383,9 +389,9 @@ phúc phần càng **dồi dào**. Tổ tiên có **"mồ yên mả đẹp"**, t
     cung: ['Phúc Đức'],
     ketHop: ['Quốc Ấn'],
     doUuTien: 73,
-    tomTat: `**Văn Khúc + Quốc Ấn tại Phúc Đức:** nền tảng và phúc phần càng
-**dồi dào**. Tổ tiên có **"mồ yên mả đẹp"**, trên mộ thường có **câu đối, câu
-thơ**.`,
+    tomTat: `Khi Văn Khúc hội cùng Quốc Ấn tại Phúc Đức, nền tảng và phúc phần
+của đương số càng dồi dào. Tổ tiên có "mồ yên mả đẹp", trên mộ thường có câu
+đối hoặc câu thơ.`,
   },
 
   // ============================================================
@@ -397,11 +403,11 @@ thơ**.`,
     sao: ['Văn Khúc'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Văn Khúc tại Điền Trạch:** nhà của đương số **đẹp, có tính nghệ
-thuật**, **nhiều sách, tranh ảnh, bằng khen**.
+    tomTat: `Văn Khúc cư Điền Trạch cho thấy nhà của đương số đẹp, có tính nghệ
+thuật, nhiều sách vở, tranh ảnh và bằng khen.
 
-Thường ở **khu vực có dân trí cao**: hàng xóm láng giềng cũng là **người có
-học thức, văn hóa**.`,
+Đương số thường ở khu vực có dân trí cao — hàng xóm láng giềng phần nhiều cũng
+là người có học thức và văn hóa.`,
   },
 
   // ============================================================
@@ -413,13 +419,14 @@ học thức, văn hóa**.`,
     sao: ['Văn Khúc'],
     cung: ['Quan Lộc'],
     doUuTien: 80,
-    tomTat: `**Văn Khúc tại Quan Lộc:** phù hợp các nghề liên quan **văn học,
-nghệ thuật, thủ công, mỹ nghệ, ngôn ngữ**.
+    tomTat: `Văn Khúc cư Quan Lộc khiến đương số phù hợp với các nghề liên quan
+đến văn học, nghệ thuật, thủ công, mỹ nghệ và ngôn ngữ.
 
-**Học hỏi nhanh**, thích tìm hiểu kiến thức mới: mở rộng vốn sống và tri thức.
+Đương số học hỏi nhanh, thích tìm hiểu kiến thức mới — nhờ vậy mở rộng được
+vốn sống và tri thức.
 
-Có **nhiều bằng cấp**, biết vận dụng kiến thức vào công việc: dễ **nổi danh**,
-đạt nhiều **thành tựu lớn**.`,
+Việc có nhiều bằng cấp cộng với khả năng vận dụng kiến thức vào công việc giúp
+đương số dễ nổi danh và đạt được nhiều thành tựu lớn.`,
   },
 
   // ============================================================
@@ -431,11 +438,11 @@ Có **nhiều bằng cấp**, biết vận dụng kiến thức vào công việ
     sao: ['Văn Khúc'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Văn Khúc tại Nô Bộc:** bạn bè đồng nghiệp là **người có học thức,
-tài nghệ**, có khả năng **giúp đỡ trong học tập và công việc**.
+    tomTat: `Văn Khúc cư Nô Bộc cho thấy bạn bè đồng nghiệp của đương số là
+người có học thức, có tài nghệ, thường giúp đỡ được trong học tập và công việc.
 
-Vì Văn Khúc mang **tính đào hoa**: giữa chủ mệnh và bạn bè đồng nghiệp **dễ
-nảy sinh tình cảm**: cần lưu ý tránh các tình huống khó xử.`,
+Vì Văn Khúc mang sẵn tính đào hoa, giữa đương số và bạn bè đồng nghiệp dễ nảy
+sinh tình cảm — cần lưu ý để tránh các tình huống khó xử về sau.`,
   },
 
   // ============================================================
@@ -447,11 +454,12 @@ nảy sinh tình cảm**: cần lưu ý tránh các tình huống khó xử.`,
     sao: ['Văn Khúc'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Văn Khúc tại Thiên Di:** ra ngoài có khả năng **ngoại giao tốt**,
-được nhiều người **quý mến, giúp đỡ** — đặc biệt là **người khác giới**.
+    tomTat: `Văn Khúc cư Thiên Di khiến đương số ra ngoài có khả năng ngoại
+giao tốt, được nhiều người quý mến và giúp đỡ — đặc biệt là người khác giới.
 
-Thường đến những nơi có **văn hóa**, gặp được **người giỏi**: "đi một ngày đàng,
-học một sàng khôn", **mở mang kiến thức và nhân duyên**.`,
+Đương số thường lui tới những nơi có văn hóa và gặp được người giỏi: theo lẽ
+"đi một ngày đàng, học một sàng khôn", đương số mở mang được kiến thức lẫn nhân
+duyên.`,
   },
 
   // ============================================================
@@ -463,11 +471,11 @@ học một sàng khôn", **mở mang kiến thức và nhân duyên**.`,
     sao: ['Văn Khúc'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Văn Khúc tại Tật Ách là vị trí KHÔNG TỐT:** chủ về **bệnh tật
-liên quan đến tình ái**.
+    tomTat: `Văn Khúc tại Tật Ách là vị trí không tốt: cung này chủ về bệnh tật
+liên quan đến tình ái nơi đương số.
 
-**Hãm địa hoặc + Linh Tinh / Hỏa Tinh / Không Kiếp / Hóa Kỵ:** dễ mắc các
-**bệnh nan y, bệnh khó chữa**.`,
+Khi Văn Khúc hãm địa, hoặc gặp thêm Linh Tinh, Hỏa Tinh, Địa Không, Địa Kiếp
+hay **Hóa Kỵ**, đương số dễ mắc các bệnh nan y và bệnh khó chữa.`,
   },
 
   // ============================================================
@@ -479,13 +487,14 @@ liên quan đến tình ái**.
     sao: ['Văn Khúc'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `**Văn Khúc tại Tài Bạch:** kiếm tiền bằng **trí tuệ, học vấn** hoặc
-các nghề **văn chương, nghệ thuật**.
+    tomTat: `Văn Khúc cư Tài Bạch cho thấy đương số kiếm tiền bằng trí tuệ, học
+vấn hoặc các nghề văn chương, nghệ thuật.
 
-Biết **nghiên cứu sâu về tài chính**, có **kiến thức kinh tế áp dụng vào thực tiễn**.
+Đương số biết nghiên cứu sâu về tài chính, có kiến thức kinh tế áp dụng được
+vào thực tiễn.
 
-Có xu hướng **chi tiêu và đầu tư** nhiều cho **làm đẹp, nghệ thuật**, và cả
-**vấn đề yêu đương tình cảm bên ngoài**.`,
+Mặt khác, đương số có xu hướng chi tiêu và đầu tư nhiều cho việc làm đẹp, cho
+nghệ thuật, và cả cho các vấn đề yêu đương tình cảm bên ngoài.`,
   },
 
   // ============================================================
@@ -497,7 +506,7 @@ Có xu hướng **chi tiêu và đầu tư** nhiều cho **làm đẹp, nghệ t
     sao: ['Văn Khúc'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Văn Khúc tại Tử Tức:** đương số **có đông con**.`,
+    tomTat: `Văn Khúc cư Tử Tức cho thấy đương số có đông con.`,
   },
 
   {
@@ -507,8 +516,8 @@ Có xu hướng **chi tiêu và đầu tư** nhiều cho **làm đẹp, nghệ t
     cung: ['Tử Tức'],
     ketHop: ['Văn Xương'],
     doUuTien: 70,
-    tomTat: `**Văn Khúc + Văn Xương tại Tử Tức:** con cái **thông minh, chăm
-chỉ**, có năng khiếu về **học tập và nghệ thuật**.`,
+    tomTat: `Khi Văn Khúc hội cùng **Văn Xương** tại Tử Tức, con cái của đương
+số thông minh, chăm chỉ và có năng khiếu về học tập cũng như nghệ thuật.`,
   },
 
   {
@@ -518,8 +527,9 @@ chỉ**, có năng khiếu về **học tập và nghệ thuật**.`,
     cung: ['Tử Tức'],
     ketHop: ['Thiên Khôi', 'Thiên Việt'],
     doUuTien: 70,
-    tomTat: `**Văn Khúc + Thiên Khôi / Thiên Việt tại Tử Tức:** con cái
-**thông minh, chăm chỉ**, có năng khiếu về **học tập và nghệ thuật**.`,
+    tomTat: `Khi Văn Khúc hội cùng Thiên Khôi hoặc Thiên Việt tại Tử Tức, con
+cái của đương số thông minh, chăm chỉ và có năng khiếu về học tập cũng như
+nghệ thuật.`,
   },
 
   // ============================================================
@@ -531,13 +541,13 @@ chỉ**, có năng khiếu về **học tập và nghệ thuật**.`,
     sao: ['Văn Khúc'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Văn Khúc tại Phu Thê:** vợ chồng **"môn đăng hộ đối"**, có **học
-thức, sống hòa thuận**.
+    tomTat: `Văn Khúc cư Phu Thê cho thấy vợ chồng "môn đăng hộ đối", cùng học
+thức và sống hòa thuận.
 
-Người hôn phối có **thiên hướng nghệ thuật, ham học hỏi**, có khả năng **học
-lên cao**.
+Người hôn phối của đương số có thiên hướng nghệ thuật, ham học hỏi và có khả
+năng học lên cao.
 
-Đương số trong tình cảm là người **giàu cảm xúc**.`,
+Bản thân đương số trong tình cảm là người giàu cảm xúc, đắm say khi yêu.`,
   },
 
   // ============================================================
@@ -549,13 +559,13 @@ lên cao**.
     sao: ['Văn Khúc'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Văn Khúc tại Huynh Đệ:** gia đình **đông anh chị em**, dễ có người
-**thành danh, tài hoa, phong lưu**.
+    tomTat: `Văn Khúc cư Huynh Đệ cho thấy gia đình đương số đông anh chị em,
+trong đó dễ có người thành danh, tài hoa và phong lưu.
 
-Anh chị em thường đi theo con đường **học hành, nghệ thuật, văn chương**: tạo
-**truyền thống hiếu học** cho gia đình.
+Anh chị em thường đi theo con đường học hành, nghệ thuật, văn chương — tạo
+nên truyền thống hiếu học cho gia đình.
 
-Đương số được **thừa hưởng nhiều** từ môi trường tích cực đó.`,
+Đương số thừa hưởng được nhiều giá trị tốt đẹp từ môi trường tích cực đó.`,
   },
 
   // ============================================================
@@ -568,14 +578,12 @@ Anh chị em thường đi theo con đường **học hành, nghệ thuật, vă
     cung: ['Mệnh'],
     chi: ['Tỵ', 'Hợi'],
     doUuTien: 88,
-    tomTat: `**Văn Khúc + Liêm Trinh tại Tỵ / Hợi** = cách **CỰC XẤU**:
+    tomTat: `Khi Văn Khúc hội cùng Liêm Trinh tại Tỵ hoặc Hợi, đương số rơi vào
+cách cực xấu: giảm thọ, hay gặp tai họa và tù tội, có thể yểu tử.
 
-- **Giảm thọ**
-- Hay **tai họa, tù tội**
-- **Yểu tử**
-
-Đặc biệt khi đi cùng **Tuần / Triệt / Hóa Kỵ / Phá Quân:** học hành thi cử **lận
-đận**, công danh chật vật, phải **tha phương**, **tù tội, yểu tử**.`,
+Đặc biệt khi cách này lại đi cùng Tuần, Triệt, **Hóa Kỵ** hoặc Phá Quân, đương
+số học hành thi cử lận đận, công danh chật vật, phải tha phương, vướng tù tội
+và yểu tử.`,
   },
 
   {
@@ -587,9 +595,8 @@ Anh chị em thường đi theo con đường **học hành, nghệ thuật, vă
     gioiTinh: 'Nữ',
     ketHop: ['Thiên Riêu'],
     doUuTien: 80,
-    tomTat: `**Văn Khúc + Liêm Trinh + Thiên Riêu tại Tỵ / Hợi — nữ mệnh:**
-- Thêm **ĐÀO HOA, ĐA TÌNH**
-- Xinh đẹp lãng mạn nhưng **LỤY TÌNH**
-- Thích **tâm linh, tín ngưỡng**`,
+    tomTat: `Nữ mệnh có Văn Khúc hội cùng Liêm Trinh và Thiên Riêu tại Tỵ hoặc
+Hợi mang thêm sắc thái đào hoa và đa tình: đương số xinh đẹp, lãng mạn nhưng
+lụy tình, đồng thời thường thích các chủ đề tâm linh và tín ngưỡng.`,
   },
 ];

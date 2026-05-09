@@ -32,36 +32,29 @@ export const luanGiai_Thai: DoanLuanGiai[] = [
     title: 'Thai - Đặc tính chung',
     sao: ['Thai'],
     doUuTien: 33,
-    tomTat: `**Thai** — phụ tinh **DÂM TINH + TÁI SINH**, vị trí **THỨ 11** vòng Trường
-Sinh.
+    tomTat: `**Thai** thuộc vòng Trường Sinh, đứng ở vị trí thứ 11 — một dâm
+tinh kiêm tái sinh tinh, ngũ hành Thổ. Sao mang khí phong lưu khoái lạc, sắc
+dục u mê, đồng thời chủ về sinh nở và tái sinh thêm mới. Đương số có Thai tọa
+thủ thường thiếu tự tin, dễ bị lừa gạt; sao này còn chủ chuyện thụ thai và
+sinh nở của con người.
 
-**Ngũ hành:** **Thổ**.
+Về vai trò trong vòng Trường Sinh, sau giai đoạn Tuyệt tan biến hết thì Thai
+là mầm sống mới bắt đầu xuất hiện, chuẩn bị cho một chu kỳ mới. Đây là giai
+đoạn sơ sinh — bào thai còn trong bụng mẹ, yếu ớt cần được bảo vệ, đại diện
+cho mảnh đất yếu ớt chưa định hình và phụ thuộc hoàn toàn vào yếu tố bên
+ngoài.
 
-**Đặc tính:**
-- **PHONG LƯU, KHOÁI LẠC**
-- **SẮC DỤC, U MÊ**
-- **SINH NỞ, TÁI SINH** thêm mới
-- **THIẾU TỰ TIN, DỄ BỊ LỪA GẠT**
-- Chủ sự **THỤ THAI, SINH NỞ**
+Trên cơ thể, Thai liên kết với bốn bộ phận: rốn, âm hộ, cổ tử cung và bào
+thai. Đây là những bộ phận sinh sản gắn kết với phụ nữ nhiều nhất, song cũng
+mang ý nghĩa với sinh lý của cả hai giới.
 
-**Vai trò:**
-- Sau "**TUYỆT**" tan biến hết: "**THAI**" là MẦM SỐNG MỚI bắt đầu xuất hiện
-- Chuẩn bị cho **1 CHU KỲ MỚI**
-- Giai đoạn **SƠ SINH** - bào thai trong bụng mẹ - **YẾU ỚT** cần bảo vệ
-- Đại diện **MẢNH ĐẤT YẾU ỚT** chưa định hình
-- **PHỤ THUỘC HOÀN TOÀN** vào yếu tố bên ngoài
+So với Thiên Riêu, Thai và Thiên Riêu đều là dâm tinh nhưng khác về sắc thái:
 
-**4 bộ phận cơ thể liên kết:**
-- **RỐN, ÂM HỘ, CỔ TỬ CUNG, BÀO THAI**
-- Bộ phận **SINH SẢN** ở phụ nữ gắn kết nhiều nhất
-- Cũng có ý nghĩa với **SINH LÝ CỦA CẢ 2 GIỚI**
+- Thiên Riêu thiên về tình yêu mê muội ở mặt cảm xúc.
+- Thai thiên về ham muốn thể xác, sa đọa nặng hơn.
 
-**KHÁC Thiên Riêu:**
-- **Thiên Riêu** = tình yêu **MÊ MUỘI VỀ CẢM XÚC**
-- **Thai** = ham muốn **THỂ XÁC, SA ĐỌA NẶNG HƠN**
-
-**Cảnh báo:** Khi sao Thai gặp **TUẦN TRIỆT** án ngữ hay nhiều sát bại tinh
-- con sinh ra dễ **THIẾU THÁNG, SINH KHÓ, ỐM YẾU QUẶT QUẸO**.`,
+Cảnh báo: khi sao Thai gặp Tuần Triệt án ngữ hoặc nhiều sát bại tinh hội tụ,
+con sinh ra dễ thiếu tháng, sinh khó, ốm yếu quặt quẹo.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -74,18 +67,12 @@ Sinh.
     sao: ['Thai'],
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 60,
-    tomTat: `**Thai + Đào Hoa / Hồng Loan** — sự ham thích **ÁI TÌNH** cả về **VẬT CHẤT
-VÀ TINH THẦN**.
+    tomTat: `Khi Thai gặp Đào Hoa hoặc Hồng Loan, đương số ham thích ái tình
+cả về vật chất lẫn tinh thần. Chủ mệnh thường coi thường đạo lý, lấy việc
+yêu, cho và hưởng làm lạc thú ở đời.
 
-**Đặc trưng:**
-- Sự ham thích ái tình về **VẬT CHẤT** và **TINH THẦN**
-- **COI THƯỜNG ĐẠO LÝ**
-- Lấy việc **YÊU, CHO VÀ HƯỞNG** làm lạc thú ở đời
-
-**Hệ quả:**
-- Đời sống tình cảm **PHÓNG TÚNG**
-- Ham mê **THÚ VUI XÁC THỊT**
-- Dễ rơi vào **MỐI QUAN HỆ NGOÀI LUỒNG**`,
+Hệ quả là đời sống tình cảm phóng túng, ham mê thú vui xác thịt, dễ rơi vào
+mối quan hệ ngoài luồng.`,
   },
 
   {
@@ -94,14 +81,9 @@ VÀ TINH THẦN**.
     sao: ['Thai'],
     ketHop: ['Văn Xương', 'Văn Khúc'],
     doUuTien: 55,
-    tomTat: `**Thai + Văn Xương + Văn Khúc** — người thích sự **LÃNG MẠN**, có tính **DÂM
-DẬT, DỤC TÍNH CAO**.
-
-**Đặc trưng:**
-- Thích **LÃNG MẠN, BAY BỔNG**
-- Tính **DÂM DẬT** rõ
-- **DỤC TÍNH CAO**
-- Văn chương ướt át, thường viết về **TÌNH ÁI DỤC**`,
+    tomTat: `Khi Thai đi cùng Văn Xương và Văn Khúc, đương số là người ưa
+lãng mạn bay bổng, mang sẵn tính dâm dật và dục tính cao. Văn chương cũng
+ướt át, thường viết về tình ái và dục vọng.`,
   },
 
   {
@@ -110,18 +92,10 @@ DẬT, DỤC TÍNH CAO**.
     sao: ['Thai'],
     ketHop: ['Thiên Riêu'],
     doUuTien: 60,
-    tomTat: `**Thai + Thiên Riêu** — tính **DÂM DẬT MẠNH**, sinh lý cao dễ dẫn đến **BỆNH
-HOẠN**.
-
-**Đặc trưng:**
-- Tính **DÂM DẬT MẠNH**
-- **SINH LÝ CAO**
-- Dễ dẫn đến **BỆNH HOẠN**
-- Bộ Thai-Riêu là 2 dâm tinh + bộ phận sinh dục cộng hưởng
-
-**Hệ quả:**
-- Phong tình bệnh hoa liễu
-- Quan hệ phóng túng: bệnh tình dục`,
+    tomTat: `Khi Thai gặp Thiên Riêu, đương số mang tính dâm dật mạnh, sinh
+lý cao và dễ dẫn đến bệnh hoạn. Bộ Thai-Riêu là hai dâm tinh cùng bộ phận
+sinh dục cộng hưởng, nên hệ quả thường thấy là phong tình bệnh hoa liễu, các
+quan hệ phóng túng kéo theo bệnh tình dục.`,
   },
 
   {
@@ -130,15 +104,12 @@ HOẠN**.
     sao: ['Thai'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 60,
-    tomTat: `**Thai + Địa Không + Địa Kiếp** — bị **HIẾP DÂM** dẫn đến **HOANG THAI**, dễ
-**PHÁ THAI, SẨY THAI, HƯ THAI**.
+    tomTat: `Khi Thai gặp Địa Không và Địa Kiếp, đương số có nguy cơ bị
+hiếp dâm dẫn đến hoang thai, dễ rơi vào cảnh phá thai, sẩy thai hay hư
+thai. Đây cũng là trường hợp ứng vào sự bạo dâm.
 
-**Đặc trưng:**
-- Bị **HIẾP DÂM** dẫn đến **CÓ HOANG THAI**
-- Dễ **PHÁ THAI, SẨY THAI, HƯ THAI**
-- Cũng là trường hợp **BẠO DÂM**
-
-(Xem entries chuyên biệt cho cung Tử Tức + nữ mệnh.)`,
+Các trường hợp chuyên biệt cho cung Tử Tức và nữ mệnh được tách thành luận
+giải riêng.`,
   },
 
   {
@@ -148,9 +119,9 @@ HOẠN**.
     ketHop: ['Địa Không', 'Địa Kiếp'],
     gioiTinh: 'Nữ',
     doUuTien: 55,
-    tomTat: `**Thai + Địa Không + Địa Kiếp - Nữ mệnh:** đặc biệt nguy hiểm với
-phụ nữ — nguy cơ bị hiếp dâm dẫn đến hoang thai, hoặc tự nguyện trong quan
-hệ rồi bị bỏ rơi.`,
+    tomTat: `Với nữ mệnh, bộ Thai cùng Địa Không và Địa Kiếp đặc biệt nguy
+hiểm: đương số đối mặt với nguy cơ bị hiếp dâm dẫn đến hoang thai, hoặc tự
+nguyện trong quan hệ rồi bị bỏ rơi.`,
   },
 
   {
@@ -160,13 +131,9 @@ hệ rồi bị bỏ rơi.`,
     cung: ['Tử Tức'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Thai + Địa Không + Địa Kiếp tại Tử Tức** — bất lợi mang thai, dễ trụy
-thai, sát con.
-
-**Đặc trưng:**
-- **BẤT LỢI** trong quá trình mang thai
-- **TRỤY THAI, SẨY THAI, SINH NỞ KHÓ KHĂN**
-- Con thường **CHẾT TRONG QUÁ TRÌNH SINH NỞ**, hoặc **SÁT CON**`,
+    tomTat: `Khi Thai cùng Địa Không và Địa Kiếp tọa thủ Tử Tức, đương số bất
+lợi trong quá trình mang thai: dễ trụy thai, sẩy thai và sinh nở khó khăn.
+Con thường chết trong quá trình sinh nở, hoặc rơi vào cảnh sát con.`,
   },
 
   {
@@ -175,16 +142,12 @@ thai, sát con.
     sao: ['Thai'],
     ketHop: ['Phục Binh', 'Đế Vượng', 'Thiên Tướng'],
     doUuTien: 60,
-    tomTat: `**Thai + Phục Binh + Đế Vượng + Thiên Tướng** — vướng vào **LƯỚI TÌNH ĐAU
-KHỔ**.
+    tomTat: `Khi Thai hội đủ Phục Binh, Đế Vượng và Thiên Tướng, đương số
+vướng vào lưới tình đau khổ — là người thất tiết, từng bị cưỡng bức hoặc có
+tư thông, tức quan hệ vụng trộm.
 
-**Đặc trưng:**
-- Vướng vào **LƯỚI TÌNH ĐAU KHỔ**
-- Là người **THẤT TIẾT**
-- Bị **CƯỠNG BỨC**
-- Có **TƯ THÔNG** (quan hệ vụng trộm)
-
-(Xem entries chuyên biệt cho từng cung Phu Thê / Huynh Đệ.)`,
+Các trường hợp chuyên biệt cho từng cung Phu Thê và Huynh Đệ được tách
+thành luận giải riêng.`,
   },
 
   {
@@ -194,10 +157,9 @@ KHỔ**.
     cung: ['Phu Thê'],
     ketHop: ['Phục Binh', 'Đế Vượng', 'Thiên Tướng'],
     doUuTien: 70,
-    tomTat: `**Thai + Phục Binh + Đế Vượng + Thiên Tướng tại Phu Thê:**
-- Đương số dễ có con **TRƯỚC HÔN NHÂN**
-- Hoặc có **CON RIÊNG** rồi mới lấy nhau
-- Con cái có **TẬT BẨM SINH**`,
+    tomTat: `Khi bộ Thai cùng Phục Binh, Đế Vượng và Thiên Tướng tọa thủ Phu
+Thê, đương số dễ có con trước hôn nhân, hoặc có con riêng rồi mới lấy nhau,
+con cái mang tật bẩm sinh.`,
   },
 
   {
@@ -207,9 +169,9 @@ KHỔ**.
     cung: ['Huynh Đệ'],
     ketHop: ['Phục Binh', 'Đế Vượng', 'Thiên Tướng'],
     doUuTien: 70,
-    tomTat: `**Thai + Phục Binh + Đế Vượng + Thiên Tướng tại Huynh Đệ:**
-- Có anh chị em **DỊ BÀO, HƯ HỎNG**
-- Gặp các vấn đề **TAI NẠN TRINH TIẾT**`,
+    tomTat: `Khi bộ Thai cùng Phục Binh, Đế Vượng và Thiên Tướng tọa thủ
+Huynh Đệ, đương số có anh chị em dị bào, hư hỏng, dễ gặp các vấn đề tai nạn
+trinh tiết.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -222,15 +184,12 @@ KHỔ**.
     sao: ['Thai'],
     ketHop: ['Mộc Dục', 'Long Trì', 'Phượng Các'],
     doUuTien: 55,
-    tomTat: `**Thai + Mộc Dục + Long Trì + Phượng Các** — là hạn **SINH ĐẺ, CÓ TIN VUI**.
+    tomTat: `Khi Thai gặp Mộc Dục cùng Long Trì và Phượng Các, đương số gặp
+hạn sinh đẻ và có tin vui — thêm thành viên mới trong gia đình, phúc khí
+hưng vượng.
 
-**Đặc trưng:**
-- Hạn **SINH ĐẺ, CÓ TIN VUI**
-- Thêm **THÀNH VIÊN MỚI** trong gia đình
-- Phúc khí **HƯNG VƯỢNG**
-
-**Cảnh báo:** Sao Thai gặp **ĐỊA KIẾP** thì sinh con khó hoặc thai có **DỊ
-TẬT BẨM SINH**.`,
+Cảnh báo: nếu sao Thai gặp Địa Kiếp, đương số sinh con khó hoặc thai có dị
+tật bẩm sinh.`,
   },
 
   {
@@ -239,14 +198,9 @@ TẬT BẨM SINH**.`,
     sao: ['Thai'],
     ketHop: ['Thanh Long', 'Thiên Hỷ'],
     doUuTien: 60,
-    tomTat: `**Thai + Thanh Long + Thiên Hỷ** — có thai **SINH RA CON ĐẸP, TỐT LÀNH**.
-
-**Đặc trưng:**
-- Sinh ra **CON ĐẸP, TỐT LÀNH**
-- Quá trình sinh nở **THUẬN LỢI**
-- Mẹ tròn con vuông
-- Gia đình **YÊN ẤM**, hỷ sự nối tiếp hỷ sự
-- Là điềm **ĐẠI CÁT** cho việc con cái`,
+    tomTat: `Khi Thai đi cùng Thanh Long và Thiên Hỷ, đương số mang thai sinh
+ra con đẹp và tốt lành. Quá trình sinh nở thuận lợi, mẹ tròn con vuông; gia
+đình yên ấm, hỷ sự nối tiếp hỷ sự. Đây là điềm đại cát cho việc con cái.`,
   },
 
   {
@@ -256,12 +210,9 @@ TẬT BẨM SINH**.`,
     cung: ['Tử Tức'],
     ketHop: ['Nguyệt Đức'],
     doUuTien: 55,
-    tomTat: `**Thai + Nguyệt Đức tại Tử Tức** — **CON CẦU TỰ MỚI CÓ**.
-
-**Đặc trưng:**
-- Bản mệnh phải **THÀNH TÂM CẦU TỰ** mới mong sinh được quý tử
-- Khó có con tự nhiên
-- Cần đến chùa khấn nguyện, làm phúc tích đức`,
+    tomTat: `Khi Thai cùng Nguyệt Đức tọa thủ Tử Tức, đương số phải thành
+tâm cầu tự mới mong sinh được quý tử — khó có con tự nhiên, cần đến chùa
+khấn nguyện và làm phúc tích đức.`,
   },
 
   {
@@ -270,12 +221,9 @@ TẬT BẨM SINH**.`,
     sao: ['Thai'],
     ketHop: ['Thái Dương', 'Thái Âm'],
     doUuTien: 55,
-    tomTat: `**Thai + Thái Dương + Thái Âm** — có **CON SINH ĐÔI**, hoặc **CON DỊ BÀO**.
-
-**Đặc trưng:**
-- Có **CON SINH ĐÔI**
-- Hoặc **CON DỊ BÀO** (cùng cha khác mẹ / cùng mẹ khác cha)
-- Bộ Nhật Nguyệt + Thai = mang thai đôi`,
+    tomTat: `Khi Thai gặp Thái Dương cùng Thái Âm, đương số có con sinh đôi,
+hoặc con dị bào — cùng cha khác mẹ, hoặc cùng mẹ khác cha. Bộ Nhật Nguyệt
+cộng Thai mang ý mang thai đôi.`,
   },
 
   {
@@ -284,13 +232,10 @@ TẬT BẨM SINH**.`,
     sao: ['Thai'],
     ketHop: ['Cô Thần', 'Quả Tú'],
     doUuTien: 55,
-    tomTat: `**Thai + Cô Thần + Quả Tú** — **GIẢM SỐ LƯỢNG CON CÁI**.
-
-**Đặc trưng:**
-- **GIẢM SỐ LƯỢNG** con cái
-- Cô-Quả là cặp ám tinh chế giảm sinh nở
-- Thai + Cô-Quả = ít con muộn con
-- Đặc biệt nặng với đương số đã có sẵn Cô-Quả ở vị trí khác`,
+    tomTat: `Khi Thai gặp Cô Thần và Quả Tú, số lượng con cái của đương số
+giảm đi rõ rệt. Cô Thần Quả Tú là cặp ám tinh chế giảm sinh nở, nên Thai
+cộng Cô Quả thành ít con, muộn con. Tình trạng đặc biệt nặng với đương số
+đã có sẵn Cô Thần Quả Tú ở vị trí khác.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -303,38 +248,29 @@ TẬT BẨM SINH**.`,
     sao: ['Thai'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Thai thủ Mệnh** — **NHU CẦU SINH LÝ + TÌNH DỤC CAO**, ham mê sắc dục.
+    tomTat: `Khi Thai thủ Mệnh, đương số có nhu cầu sinh lý và tình dục cao,
+ham mê sắc dục.
 
-**Cơ thể:**
-- Thai liên kết với **RỐN, ÂM HỘ, CỔ TỬ CUNG, BÀO THAI**
-- Có ý nghĩa về **VẤN ĐỀ SINH LÝ** của cả 2 giới (không chỉ nữ)
+Về cơ thể, Thai liên kết với rốn, âm hộ, cổ tử cung và bào thai, đồng thời
+mang ý nghĩa về vấn đề sinh lý của cả hai giới chứ không riêng nữ.
 
-**Tính tình:**
-- **HAM MÊ CÁC THÚ VUI**
-- **NHẸ DẠ DỄ TIN NGƯỜI**
-- **DỄ BỊ LÔI KÉO**
-- Tính cách **KHÔNG QUYẾT ĐOÁN**
-- **ĐAM MÊ SẮC DỤC**
-- **KHÓ LÀM NÊN CÔNG DANH**, thi cử khó đỗ đạt
-- Đại diện cho **NHU CẦU SINH LÝ CAO**
-- Chủ về **GIAO HỢP XÁC THỊT** giữa nam và nữ
-- **HAM MÊ SẮC DỤC, MÊ GÁI MÊ TRAI**
+Về tính tình, đương số ham mê các thú vui, nhẹ dạ dễ tin người và dễ bị
+lôi kéo. Tính cách không quyết đoán, đam mê sắc dục, vì thế khó làm nên
+công danh, thi cử khó đỗ đạt. Sao này đại diện cho nhu cầu sinh lý cao,
+chủ về giao hợp xác thịt giữa nam và nữ; chủ mệnh thường ham mê sắc dục,
+mê gái mê trai.
 
-**Tình yêu:**
-- KHÔNG tìm kiếm **TÌNH YÊU ĐÍCH THỰC** đúng nghĩa hòa hợp tâm hồn
-- Chỉ chú trọng **THỎA MÃN NHU CẦU SINH LÝ, DÂM DẬT, THẤP HÈN**
-- Phải thỏa mãn cả khía cạnh **VẬT CHẤT**
-- Khi nhu cầu sinh lý quá cao: ảnh hưởng **THỂ CHẤT VÀ TÂM HỒN**
+Về tình yêu, đương số không tìm kiếm tình yêu đích thực đúng nghĩa hòa hợp
+tâm hồn mà chỉ chú trọng thỏa mãn nhu cầu sinh lý, dâm dật, thấp hèn, đồng
+thời phải thỏa mãn cả khía cạnh vật chất. Khi nhu cầu sinh lý quá cao, cả
+thể chất lẫn tâm hồn đều bị ảnh hưởng. So với Thiên Riêu, Thai nặng về sự
+sa đọa nhiều hơn.
 
-**So sánh với Thiên Riêu:** Thai NẶNG về sự **SA ĐỌA** nhiều hơn Riêu.
-
-**Câu phú "Thai lâm Mệnh vi đa học thiểu thành":**
-- Hay **LƯỠNG LỰ, CẢ THÈM CHÓNG CHÁN**
-- Cái gì cũng muốn học nhưng **KHÔNG KIÊN TRÌ**
-- **DỄ THAY ĐỔI** khi có cái mới hay hơn xuất hiện
-- Hay **BỎ NGANG GIỮA CHỪNG**
-- Việc học nhiều nhưng **KẾT QUẢ KHÔNG TRỌN VẸN**
-- Sự nghiệp "**CÔNG DÃ TRÀNG**", làm nhiều mà ít nên chuyện`,
+Về câu phú "Thai lâm Mệnh vi đa học thiểu thành", đương số hay lưỡng lự,
+cả thèm chóng chán; cái gì cũng muốn học nhưng không kiên trì, dễ thay đổi
+khi có cái mới hay hơn xuất hiện và hay bỏ ngang giữa chừng. Việc học nhiều
+nhưng kết quả không trọn vẹn; sự nghiệp công dã tràng, làm nhiều mà ít nên
+chuyện.`,
   },
 
   {
@@ -343,20 +279,14 @@ TẬT BẨM SINH**.`,
     sao: ['Thai'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Thai tại Phụ Mẫu** — bố mẹ **KHÔNG KIÊN ĐỊNH**, có con trước hôn nhân.
+    tomTat: `Khi Thai cư Phụ Mẫu, bố mẹ của đương số mang tính cách không
+kiên định, dễ tin người và dễ bị người khác lừa. Đương số mang số có con
+trước hôn nhân. Bố mẹ sống thiên về cảm xúc, hay mềm lòng cả tin và quyết
+định theo cảm tính.
 
-**Đặc trưng:**
-- Bố mẹ là người **TÍNH CÁCH KHÔNG KIÊN ĐỊNH**
-- **DỄ TIN NGƯỜI**, dễ bị người khác **LỪA**
-- Số có **CON TRƯỚC HÔN NHÂN**
-- Sống thiên về **CẢM XÚC**, hay **MỀM LÒNG, CẢ TIN**
-- Quyết định theo **CẢM TÍNH**
-
-**Hội thêm Đào Hoa, Hồng Loan, Hình Riêu, Không Kiếp, Hóa Kỵ:**
-- Bố mẹ có tính **ĐÀO HOA, LĂNG NHĂNG**
-- Dễ có **MỐI QUAN HỆ NGOÀI LUỒNG**
-- Bố mẹ dễ **LY TÁN**
-- Có người **THỨ BA CHEN NGANG**`,
+Hội thêm Đào Hoa, Hồng Loan, Thiên Hình, Thiên Riêu, Địa Không, Địa Kiếp
+hoặc Hóa Kỵ, bố mẹ có tính đào hoa lăng nhăng, dễ có mối quan hệ ngoài
+luồng, dễ ly tán và có người thứ ba chen ngang.`,
   },
 
   {
@@ -365,23 +295,16 @@ TẬT BẨM SINH**.`,
     sao: ['Thai'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Thai tại Phúc Đức** — phúc phần **CHƯA PHÁT**, gốc rễ tổ tiên chưa vững.
+    tomTat: `Khi Thai cư Phúc Đức, phúc phần của đương số chưa phát, gốc rễ
+tổ tiên chưa vững. Phúc phần và mồ mả tổ tiên chưa được khai phát, đương số
+cần chú trọng chăm sóc quan tâm đến mồ mả, làm việc thiện nhiều để tích
+phước đức. Trong gia tộc thường có người chửa hoang, có con rơi bên ngoài.
 
-**Đặc trưng:**
-- **PHÚC PHẦN, MỒ MẢ TỔ TIÊN CHƯA ĐƯỢC PHÁT**
-- Cần **CHÚ TRỌNG CHĂM SÓC, QUAN TÂM** đến mồ mả
-- **LÀM VIỆC THIỆN NHIỀU** để tích nhiều phước đức
-- Trong gia tộc có người **CHỬA HOANG**, có **CON RƠI BÊN NGOÀI**
+Lời khuyên: con cháu trong tộc cần chuyên tâm tích đức, chăm lo hương khói
+và mồ mả tổ tiên cẩn thận để giữ vận khí, bồi đắp phúc phần.
 
-**Lời khuyên:**
-- Con cháu trong tộc cần **CHUYÊN TÂM TÍCH ĐỨC**
-- **CHĂM LO HƯƠNG KHÓI, MỒ MẢ TỔ TIÊN** cẩn thận
-- Để giữ **VẬN KHÍ**, bồi đắp **PHÚC PHẦN**
-
-**Hội Không Kiếp, Hóa Kỵ, Thiên Riêu:**
-- Dòng họ dễ vướng **THỊ PHI**
-- Gia đạo **LỤC ĐỤC**
-- **THIẾU SỰ HÒA THUẬN**`,
+Khi hội thêm Địa Không, Địa Kiếp, Hóa Kỵ hoặc Thiên Riêu, dòng họ dễ vướng
+thị phi, gia đạo lục đục, thiếu sự hòa thuận.`,
   },
 
   {
@@ -390,23 +313,16 @@ TẬT BẨM SINH**.`,
     sao: ['Thai'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Thai tại Điền Trạch** — nơi ở **TÁI ĐỊNH CƯ, HAY THAY ĐỔI**.
+    tomTat: `Khi Thai cư Điền Trạch, nơi ở của đương số thường mang tính
+tái định cư, hay thay đổi. Nơi ở thường là các khu tái định cư hoặc đất
+nghĩa trang nghĩa địa được xây dựng lên; gần nhà thường có tụ điểm ăn chơi
+hoặc gần bệnh viện phụ sản. Tính cách dễ thay đổi và lưỡng lự khiến đương
+số thường xuyên phải đổi nhà ở, đổi cơ quan làm việc, bất ổn trong chuyện
+nhà cửa và đất đai.
 
-**Đặc trưng:**
-- Nơi ở thường là các khu **TÁI ĐỊNH CƯ**
-- Đất ở là **ĐẤT NGHĨA TRANG, NGHĨA ĐỊA** xây dựng lên
-- Gần nhà thường có **TỤ ĐIỂM ĂN CHƠI**, gần **BỆNH VIỆN PHỤ SẢN**
-- Tính cách **DỄ THAY ĐỔI, LƯỠNG LỰ**
-- Thường xuyên phải **THAY ĐỔI NHÀ Ở, CƠ QUAN LÀM VIỆC**
-- **BẤT ỔN** trong chuyện nhà cửa, đất đai
-
-**Cát tinh nâng đỡ:**
-- Vẫn có cơ hội tích lũy **ĐẤT ĐAI CÓ GIÁ TRỊ**
-
-**Sát tinh hội:**
-- Đề phòng **TRANH CHẤP**
-- Gặp **PHONG THỦY BẤT LỢI**
-- **KHÔNG THỂ YÊN ỔN** dài lâu`,
+Khi có cát tinh nâng đỡ, đương số vẫn có cơ hội tích lũy đất đai có giá
+trị. Ngược lại nếu sát tinh hội tụ, cần đề phòng tranh chấp, gặp phong
+thủy bất lợi, không thể yên ổn dài lâu.`,
   },
 
   {
@@ -415,24 +331,16 @@ TẬT BẨM SINH**.`,
     sao: ['Thai'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Thai tại Quan Lộc** — công danh **GIẢM ĐÀ TIẾN THÂN**, hay lưỡng lự.
+    tomTat: `Khi Thai cư Quan Lộc, con đường công danh của đương số giảm đà
+tiến thân, hay lưỡng lự và khó đưa ra quyết định khi có nhiều cơ hội đến.
+Cách sống "đứng núi này trông núi nọ" khiến chủ mệnh thấy gì cũng muốn thử
+nhưng nhanh nản; làm nhiều cũng khó bền, dậm chân tại chỗ.
 
-**Đặc trưng:**
-- Con đường công danh **GIẢM ĐÀ TIẾN THÂN**
-- Hay có tính **LƯỠNG LỰ**
-- **KHÓ KHĂN** trong việc đưa ra **QUYẾT ĐỊNH** khi có nhiều cơ hội đến
-- Cách sống "**ĐỨNG NÚI NÀY TRÔNG NÚI NỌ**"
-- Thấy gì cũng muốn thử nhưng **NHANH NẢN**
-- Làm nhiều cũng **KHÓ BỀN**, **DẬM CHÂN TẠI CHỖ**
+Hội thêm các sao phúc thiện như Quang Quý, Thiên Phúc, Thiên Đức, đương
+số có số làm việc liên quan đến sinh nở: bác sĩ phụ sản, hộ sinh, bà đỡ.
 
-**Hội thêm sao phúc thiện** (Quang Quý, Thiên Phúc, Thiên Đức):
-- Số làm việc liên quan đến **SINH NỞ**
-- **BÁC SĨ PHỤ SẢN, HỘ SINH, BÀ ĐỠ**
-
-**Hội nhiều sát bại tinh:**
-- Dễ liên quan đến **MẶT TRÁI XÃ HỘI**
-- Có **MỐI TÌNH CẢM NGOÀI LUỒNG**
-- Sự nghiệp dễ vướng **TAI TIẾNG**`,
+Hội nhiều sát bại tinh, đương số dễ liên quan đến mặt trái xã hội, có
+mối tình cảm ngoài luồng, sự nghiệp dễ vướng tai tiếng.`,
   },
 
   {
@@ -441,19 +349,14 @@ TẬT BẨM SINH**.`,
     sao: ['Thai'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Thai tại Nô Bộc** — bạn bè **HAY THAY ĐỔI**, không bền lâu.
+    tomTat: `Khi Thai cư Nô Bộc, đương số hay thay đổi bạn bè, tình bạn
+không thân thiết bền lâu. Đương số có đông anh chị em, là những người khá
+giả, có địa vị tài chính tốt và tốt tính. Tính tình dễ kết giao nhưng khó
+gắn bó sâu sắc, dễ nảy sinh hiểu lầm hoặc rạn nứt.
 
-**Đặc trưng:**
-- Đương số hay **THAY ĐỔI BẠN BÈ**
-- Tình bạn **KHÔNG THÂN THIẾT BỀN LÂU**
-- Đông anh chị em - những người **KHÁ GIẢ, CÓ ĐỊA VỊ TÀI CHÍNH TỐT**, là
-  người **TỐT TÍNH**
-- Tính tình dễ kết giao nhưng khó **GẮN BÓ SÂU SẮC**
-- Dễ nảy sinh **HIỂU LẦM HOẶC RẠN NỨT**
-
-**Hội Đào Hoa, Riêu, Kỵ, Không Kiếp:**
-- Dễ rơi vào tình trạng **NGOẠI TÌNH SAU KHI KẾT HÔN**
-- Mối quan hệ chuyển biến **TIÊU CỰC**`,
+Hội Đào Hoa, Thiên Riêu, Hóa Kỵ, Địa Không hoặc Địa Kiếp, đương số dễ
+rơi vào tình trạng ngoại tình sau khi kết hôn, mối quan hệ chuyển biến
+tiêu cực.`,
   },
 
   {
@@ -462,21 +365,16 @@ TẬT BẨM SINH**.`,
     sao: ['Thai'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Thai tại Thiên Di** — dễ vướng **TÌNH MỘT ĐÊM**, quan hệ ngắn hạn.
+    tomTat: `Khi Thai cư Thiên Di, đương số dễ vướng vào tình một đêm và
+các mối quan hệ ngắn hạn. Chủ mệnh dễ rơi vào, cuốn vào những mối quan
+hệ tình dục ngắn hạn.
 
-**Đặc trưng:**
-- Dễ rơi vào, cuốn vào các **MỐI QUAN HỆ TÌNH DỤC NGẮN HẠN**
-- **TÌNH MỘT ĐÊM**
+Khi bản thân có Đế Vượng tọa thủ, đương số mang ngoại hình xinh đẹp hấp
+dẫn, thân hình đẫy đà, ra ngoài có nhiều người thích, có sức hút mạnh và
+dễ dính vào tình ái sắc dục.
 
-**Bản thân có Đế Vượng tọa thủ:**
-- Đương số có **NGOẠI HÌNH XINH ĐẸP HẤP DẪN**
-- **THÂN HÌNH ĐẪY ĐÀ**
-- Ra ngoài có **NHIỀU NGƯỜI THÍCH**
-- Có **SỨC HÚT MẠNH**
-- Dễ **DÍNH VÀO TÌNH ÁI, SẮC DỤC**
-
-**Cảnh báo:** Những chuyện ái tình thể xác hoặc các mối quan hệ không
-trong sạch có thể nảy sinh bất cứ lúc nào.`,
+Cảnh báo: những chuyện ái tình thể xác hoặc các mối quan hệ không trong
+sạch có thể nảy sinh bất cứ lúc nào.`,
   },
 
   {
@@ -485,23 +383,16 @@ trong sạch có thể nảy sinh bất cứ lúc nào.`,
     sao: ['Thai'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Thai tại Tật Ách** — bệnh **ĐƯỜNG SINH DỤC**, sinh đẻ khó khăn.
+    tomTat: `Khi Thai cư Tật Ách, đương số dễ mắc các bệnh liên quan đến
+đường sinh dục, sinh đẻ khó khăn và sinh con ra có dị tật. Vấn đề sức
+khỏe sinh sản đặc biệt nặng ở phái nữ — khó thụ thai, dễ sảy thai hoặc
+thai yếu.
 
-**Đặc trưng:**
-- Dễ mắc các bệnh liên quan đến **ĐƯỜNG SINH DỤC**
-- **SINH ĐẺ KHÓ KHĂN**
-- Sinh con ra có **DỊ TẬT**
-- Vấn đề **SỨC KHỎE SINH SẢN**, đặc biệt phái nữ
-- **KHÓ THỤ THAI**, dễ **SẢY THAI** hoặc thai yếu
+Khi đồng cung Địa Không, Địa Kiếp hoặc Hóa Kỵ, đương số dễ bị bệnh
+buồng trứng và tử cung, rối loạn nội tiết, ảnh hưởng khả năng sinh sản
+lâu dài.
 
-**Đồng cung Không Kiếp, Hóa Kỵ:**
-- Dễ bị bệnh **BUỒNG TRỨNG, TỬ CUNG**
-- **RỐI LOẠN NỘI TIẾT**
-- Ảnh hưởng **KHẢ NĂNG SINH SẢN** lâu dài
-
-**Mặt nhẹ:**
-- Hay bị **ỐM VẶT**
-- Nhưng **MAU KHỎI**`,
+Mặt nhẹ, đương số hay bị ốm vặt nhưng mau khỏi.`,
   },
 
   {
@@ -510,22 +401,15 @@ trong sạch có thể nảy sinh bất cứ lúc nào.`,
     sao: ['Thai'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Thai tại Tài Bạch** — tài chính **KHÔNG ỔN ĐỊNH**, công việc thay đổi.
+    tomTat: `Khi Thai cư Tài Bạch, tài chính của đương số không ổn định,
+công việc thường thay đổi, tiền đến rồi lại đi và khó tích lũy lâu dài.
 
-**Đặc trưng:**
-- **KHÔNG ỔN ĐỊNH** về mặt tài chính
-- Công việc **THƯỜNG THAY ĐỔI**
-- Tiền **ĐẾN RỒI LẠI ĐI**
-- **KHÓ TÍCH LŨY** lâu dài
+Hội Đào Hoa, Thiên Riêu, Hóa Kỵ, Địa Không hoặc Địa Kiếp, đương số dễ
+mang tiền tiêu xài cho nhu cầu giải trí và thỏa mãn sắc dục, thậm chí
+dùng thân xác để kiếm tiền.
 
-**Hội Đào Hoa, Riêu, Kỵ, Không Kiếp:**
-- Dễ mang tiền **TIÊU XÀI** cho:
-  - **NHU CẦU GIẢI TRÍ**
-  - **THỎA MÃN SẮC DỤC**
-- **DÙNG THÂN XÁC ĐỂ KIẾM TIỀN**
-
-**Lời khuyên:** Cần biết **GIỮ MÌNH** trước cám dỗ, tránh vì phút nông nổi
-mà đánh đổi sự ổn định lâu dài.`,
+Lời khuyên: đương số cần biết giữ mình trước cám dỗ, tránh vì phút nông
+nổi mà đánh đổi sự ổn định lâu dài.`,
   },
 
   {
@@ -534,16 +418,17 @@ mà đánh đổi sự ổn định lâu dài.`,
     sao: ['Thai'],
     cung: ['Tử Tức'],
     doUuTien: 78,
-    tomTat: `**Thai tại Tử Tức** — thử thách về **SINH SẢN VÀ NUÔI DƯỠNG CON CÁI**.
+    tomTat: `Khi Thai cư Tử Tức, đương số đối mặt với nhiều thử thách về
+sinh sản và nuôi dưỡng con cái. Các bộ kết hợp tại cung này:
 
-**Bộ kết hợp tại Tử Tức:**
-- **Thai + Không Kiếp** = bất lợi mang thai, **TRỤY THAI, SẨY THAI, SINH NỞ
-  KHÓ KHĂN**, con thường chết trong sinh nở hoặc **SÁT CON**
-- **Thai + Nguyệt Đức** = **CON CẦU TỰ MỚI CÓ**
-- **Thai + Nhật Nguyệt** = có **CON SINH ĐÔI**, **CON DỊ BÀO**
-- **Thai + Cô Thần + Quả Tú** = **GIẢM SỐ LƯỢNG** con cái
-- **Thai + Phục Binh + Đế Vượng + Thiên Tướng** = có con riêng rồi mới lập
-  gia đình, có con dị bào`,
+- Thai cùng Địa Không và Địa Kiếp: bất lợi mang thai, trụy thai, sẩy
+  thai, sinh nở khó khăn; con thường chết trong sinh nở hoặc lâm cảnh
+  sát con.
+- Thai cùng Nguyệt Đức: con cầu tự mới có.
+- Thai cùng Thái Dương và Thái Âm: có con sinh đôi hoặc con dị bào.
+- Thai cùng Cô Thần và Quả Tú: giảm số lượng con cái.
+- Thai cùng Phục Binh, Đế Vượng và Thiên Tướng: có con riêng rồi mới
+  lập gia đình, có con dị bào.`,
   },
 
   {
@@ -552,25 +437,19 @@ mà đánh đổi sự ổn định lâu dài.`,
     sao: ['Thai'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Thai tại Phu Thê** — người hôn phối **PHONG LƯU TÀI TỬ**, thích vui chơi.
+    tomTat: `Khi Thai cư Phu Thê, người hôn phối của đương số là kẻ phong
+lưu tài tử, thích vui chơi văn nghệ và thích tụ tập. Bạn đời dễ bị cuốn
+theo thú vui tiệc tùng hoặc các mối quan hệ ngoài xã hội.
 
-**Đặc trưng:**
-- Người hôn phối **THÍCH VUI CHƠI, VĂN NGHỆ**
-- **THÍCH TỤ TẬP**
-- Người **PHONG LƯU TÀI TỬ**
-- Dễ bị cuốn theo **THÚ VUI TIỆC TÙNG**
-- Hoặc **MỐI QUAN HỆ NGOÀI XÃ HỘI**
+Các bộ kết hợp tại cung này:
 
-**Bộ kết hợp tại Phu Thê:**
-- **Thai + Đào Hoa + Thiên Riêu** = **TIỀN DÂM HẬU THÚ**, xu hướng **HƯỞNG
-  THỤ TÌNH DỤC**, ăn nằm với nhau rồi mới cưới, vợ chồng lẳng lơ, **NGOẠI
-  TÌNH**
-- **Thai + Phục Binh + Đế Vượng + Thiên Tướng** = mệnh dễ có **CON TRƯỚC
-  HÔN NHÂN**, có **CON RIÊNG** rồi mới lấy nhau, con cái có **TẬT BẨM SINH**
+- Thai cùng Đào Hoa và Thiên Riêu: tiền dâm hậu thú, xu hướng hưởng thụ
+  tình dục, ăn nằm với nhau rồi mới cưới, vợ chồng lẳng lơ và ngoại tình.
+- Thai cùng Phục Binh, Đế Vượng và Thiên Tướng: đương số dễ có con trước
+  hôn nhân, có con riêng rồi mới lấy nhau, con cái mang tật bẩm sinh.
 
-**Mặt trái:**
-- Nguy cơ **NGOẠI TÌNH**
-- Hôn nhân **ĐỔ VỠ** nếu thiếu bao dung và cam kết`,
+Mặt trái là nguy cơ ngoại tình và hôn nhân đổ vỡ nếu thiếu bao dung và
+cam kết.`,
   },
 
   {
@@ -579,20 +458,17 @@ mà đánh đổi sự ổn định lâu dài.`,
     sao: ['Thai'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Thai tại Huynh Đệ** — có **ANH CHỊ EM DỊ BÀO, NUÔI, SINH ĐÔI**.
+    tomTat: `Khi Thai cư Huynh Đệ, đương số có anh chị em sinh đôi, anh chị
+em nuôi hoặc anh chị em dị bào. Mối quan hệ gia đình có phần phức tạp; dễ
+gặp tình huống có con riêng từ mối quan hệ trước, hoặc có anh em nuôi
+không cùng huyết thống.
 
-**Đặc trưng:**
-- Có **ANH CHỊ EM SINH ĐÔI**
-- **ANH CHỊ EM NUÔI**
-- **ANH CHỊ EM DỊ BÀO**
-- Mối quan hệ gia đình có phần **PHỨC TẠP**
-- Dễ gặp tình huống có **CON RIÊNG** từ mối quan hệ trước
-- Hoặc **ANH EM NUÔI** không cùng huyết thống
+Bộ kết hợp:
 
-**Bộ kết hợp:**
-- **Thai + Phục Binh + Đế Vượng + Thiên Tướng** = anh chị em **DỊ BÀO, HƯ
-  HỎNG**, vấn đề **TAI NẠN TRINH TIẾT**
-- **Thai + Đào Hoa** = anh chị em xu hướng **DÂM DẬT, LĂNG LOÀN, CHỬA HOANG**`,
+- Thai cùng Phục Binh, Đế Vượng và Thiên Tướng: anh chị em dị bào, hư
+  hỏng, dễ vướng vấn đề tai nạn trinh tiết.
+- Thai cùng Đào Hoa: anh chị em mang xu hướng dâm dật, lăng loàn, chửa
+  hoang.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -604,23 +480,18 @@ mà đánh đổi sự ổn định lâu dài.`,
     title: 'Hóa giải sao Thai - Giai đoạn ươm mầm',
     sao: ['Thai'],
     doUuTien: 40,
-    tomTat: `**Hóa giải sao Thai** — Thai nằm giữa **TUYỆT** và **DƯỠNG** — là giai đoạn
-**ƯƠM MẦM** chuẩn bị cho bứt phá.
+    tomTat: `Sao Thai nằm giữa Tuyệt và Dưỡng — là giai đoạn ươm mầm chuẩn
+bị cho bứt phá, không mang tính xấu tuyệt đối mà là thời gian chuẩn bị cho
+giai đoạn phát triển về sau.
 
-**Bản chất:**
-- Thai **KHÔNG MANG TÍNH XẤU TUYỆT ĐỐI**
-- Là giai đoạn **ƯƠM MẦM** chuẩn bị cho **BỨT PHÁ VỀ SAU**
+Đương số gặp Thai cần lưu ý không vội vàng hành động khi tâm chưa ổn và
+dự định còn mơ hồ; nên tạm gác lại những chuyện như đầu tư, cưới hỏi hay
+ra quyết định trọng đại nếu chưa có cát tinh hỗ trợ. Đây là thời điểm
+thích hợp để tập trung rèn luyện bản thân, chăm sóc sức khỏe, phục hồi và
+chuẩn bị cho chu kỳ phát triển kế tiếp.
 
-**Cần lưu ý:**
-- **KHÔNG VỘI VÀNG HÀNH ĐỘNG** khi tâm chưa ổn, dự định còn mơ hồ
-- **TẠM GÁC LẠI** những chuyện như đầu tư, cưới hỏi, ra quyết định trọng
-  đại nếu chưa có cát tinh hỗ trợ
-- **TẬP TRUNG RÈN LUYỆN BẢN THÂN**, chăm sóc sức khỏe
-- Thai = thời điểm thích hợp để **PHỤC HỒI**, chuẩn bị cho chu kỳ phát
-  triển kế tiếp
-
-**Ví dụ:** Người vừa nghỉ việc 5 năm văn phòng (hạn Tuyệt): trong hạn
-Thai nảy sinh ý định chuyển hướng viết lách, học nghề tay trái — âm thầm
-theo đuổi sẽ gặt hái thành quả tương lai.`,
+Ví dụ: một người vừa nghỉ việc văn phòng năm năm — đó là hạn Tuyệt. Trong
+hạn Thai kế tiếp, người ấy nảy sinh ý định chuyển hướng viết lách hoặc
+học một nghề tay trái; âm thầm theo đuổi sẽ gặt hái thành quả ở tương lai.`,
   },
 ];
