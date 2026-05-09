@@ -4,8 +4,10 @@ import { useState } from 'react';
 import FormLapLaSo from '@/components/FormLapLaSo';
 import LaSo from '@/components/LaSo';
 import LuanGiaiCung from '@/components/LuanGiaiCung';
+import MucLucCung from '@/components/MucLucCung';
 import { lapLaSo } from '@/core/tuvi/lap-la-so';
 import type { LaSo as LaSoType, ThongTinSinh } from '@/core/tuvi/types';
+import { idCuaCung } from '@/lib/slug-cung';
 
 export default function Home() {
   const [laSo, setLaSo] = useState<LaSoType | null>(null);
@@ -50,9 +52,15 @@ export default function Home() {
               <p className="text-sm text-stone-600">
                 Phần luận giải tóm tắt miễn phí. Đọc chi tiết → đăng ký tài khoản (sẽ có ở G4).
               </p>
+              <MucLucCung cacCung={laSo.cacCung} />
               <div className="grid gap-4">
                 {laSo.cacCung.map(cung => (
-                  <LuanGiaiCung key={cung.chi} cung={cung} gioiTinh={laSo.thongTinSinh.gioiTinh} />
+                  <LuanGiaiCung
+                    key={cung.chi}
+                    id={idCuaCung(cung.ten)}
+                    cung={cung}
+                    gioiTinh={laSo.thongTinSinh.gioiTinh}
+                  />
                 ))}
               </div>
             </section>

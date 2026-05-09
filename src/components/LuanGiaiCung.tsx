@@ -11,14 +11,19 @@ import { VIET_TAT_TRANG_THAI } from '@/lib/trang-thai-chinh-tinh';
 interface Props {
   cung: CungTrongLaSo;
   gioiTinh?: GioiTinh;
+  /** ID dùng cho anchor scroll-to từ mục lục */
+  id?: string;
 }
 
-export default function LuanGiaiCung({ cung, gioiTinh }: Props) {
+export default function LuanGiaiCung({ cung, gioiTinh, id }: Props) {
   const danhSach = timLuanGiaiCuaCung(cung, gioiTinh);
   const danhSachSao: Sao[] = [...cung.saoChinh, ...cung.saoPhu];
 
   return (
-    <section className="bg-white border border-amber-200 rounded-lg p-4 space-y-3">
+    <section
+      id={id}
+      className="bg-white border border-amber-200 rounded-lg p-4 space-y-3 scroll-mt-4"
+    >
       <header className="flex items-baseline justify-between border-b border-amber-100 pb-2">
         <h3 className="text-lg font-bold text-amber-900">
           Cung {cung.ten} {cung.laThan && <span className="text-sm text-amber-600">(Thân)</span>}
