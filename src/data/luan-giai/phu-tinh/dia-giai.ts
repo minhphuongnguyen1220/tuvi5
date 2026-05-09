@@ -23,27 +23,24 @@ export const luanGiai_DiaGiai: DoanLuanGiai[] = [
     title: 'Địa Giải - Đặc tính chung',
     sao: ['Địa Giải'],
     doUuTien: 32,
-    tomTat: `**Địa Giải** — phụ tinh **PHÚC THIỆN TINH**, an theo **tháng sinh**.
+    tomTat: `**Địa Giải** là phụ tinh thuộc nhóm Phúc Thiện Tinh, ngũ hành Thổ,
+an theo tháng sinh. Tên sao mang ý nghĩa "sự trợ giúp từ đất" — những thế
+lực gần gũi với con người như thần linh, thổ công, thổ địa luôn âm thầm che
+chở đương số.
 
-**Ngũ hành:** **Thổ**.
+Sao này tựa như tấm bùa hộ mệnh giúp đương số vượt qua khó khăn, giảm nhẹ
+tai ương, hóa hung thành cát; đồng thời tăng phúc phần và thọ lộc.
 
-**Tên gọi:** Địa = đất, Giải = tháo gỡ: **SỰ TRỢ GIÚP TỪ ĐẤT**, các thế
-lực gần gũi với con người: **THẦN LINH, THỔ CÔNG, THỔ ĐỊA**.
+Khác biệt với Thiên Giải:
 
-**Đặc tính:**
-- Như **TẤM BÙA HỘ MỆNH** giúp vượt qua khó khăn
-- Giảm nhẹ **TAI ƯƠNG**, hóa hung thành cát
-- Tăng phúc phần, thọ lộc
+- Tướng mạo thấp người, hơi mập (Thiên Giải cao ráo, trắng hồng)
+- Trợ giúp đến từ môi trường gần gũi như đất, thổ địa — khác Thiên Giải vốn
+  từ trên cao
+- Hợp với phương pháp chữa trị tự nhiên, năng lượng từ môi trường lành mạnh
 
-**Khác Thiên Giải:**
-- Tướng **THẤP NGƯỜI, HƠI MẬP** (Thiên Giải cao ráo trắng hồng)
-- Trợ giúp đến từ **MÔI TRƯỜNG GẦN GŨI** (đất, thổ địa) khác Thiên Giải từ
-  trên cao
-- Hợp với **PHƯƠNG PHÁP CHỮA TRỊ TỰ NHIÊN**, năng lượng từ môi trường lành mạnh
-
-**Lưu ý:** Vì Địa Giải và Thiên Giải KHÔNG bao giờ đồng cung: việc hóa
-giải chỉ ở mức **TƯƠNG ĐỐI**. Cần tích đức, làm việc thiện mới chuyển họa
-thành phúc trọn vẹn.`,
+Vì Địa Giải và Thiên Giải không bao giờ đồng cung, việc hóa giải chỉ ở mức
+tương đối. Đương số cần tích đức, làm việc thiện thì mới chuyển họa thành
+phúc trọn vẹn.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -56,27 +53,20 @@ thành phúc trọn vẹn.`,
     sao: ['Địa Giải'],
     cung: ['Mệnh'],
     doUuTien: 76,
-    tomTat: `**Địa Giải thủ Mệnh** — chủ nhân lá số giàu **LÒNG NHÂN ÁI**, may mắn,
-**GIẢI ÁCH**.
+    tomTat: `Khi Địa Giải thủ Mệnh, đương số là người giàu lòng nhân ái, gặp
+nhiều may mắn và có khả năng giải ách tự nhiên.
 
-**Tướng mạo:**
-- **THẤP NGƯỜI, HƠI MẬP**
-- Tướng mạo **HIỀN LÀNH, NHẸ NHÀNG**
-- Dễ được lòng người khác
+Về tướng mạo, đương số thường thấp người, hơi mập, dáng vẻ hiền lành nhẹ
+nhàng nên dễ được lòng người khác. Tính tình hòa nhã, từ tốn, sống có đức,
+thích làm việc thiện và luôn sẵn sàng giúp đỡ người xung quanh.
 
-**Tính tình:**
-- **HÒA NHÃ, TỪ TỐN**
-- Sống **CÓ ĐỨC**, thích **LÀM VIỆC THIỆN**
-- Luôn sẵn sàng **GIÚP ĐỠ NGƯỜI KHÁC**
+Sao này như biểu tượng của sự che chở từ thần linh, thổ địa: tai ương và
+bệnh tật được giảm trừ, phúc phần cùng thọ lộc đều được vun đắp thêm.
 
-**Phúc thọ:**
-- Như biểu tượng của **SỰ GIÚP ĐỠ TỪ THẦN LINH, THỔ ĐỊA**
-- Giảm trừ **TAI ƯƠNG, BỆNH TẬT**
-- Tăng thêm **PHÚC PHẦN, THỌ LỘC**
-
-**Hạn chế:** Vì không hội tụ với Thiên Giải: hóa giải chỉ **TƯƠNG ĐỐI**.
-Khi gặp vận xấu, nếu thiếu cát tinh khác phối hợp, vẫn phải gánh chịu ít
-nhiều khổ ải. Cần **TÍCH ĐỨC, LÀM VIỆC THIỆN** để chuyển họa thành phúc.`,
+Tuy nhiên, vì không hội tụ với Thiên Giải, khả năng hóa giải chỉ tương đối.
+Khi gặp vận xấu, nếu thiếu cát tinh khác phối hợp, đương số vẫn phải gánh
+chịu ít nhiều khổ ải. Cần tích đức và làm việc thiện để chuyển họa thành
+phúc.`,
   },
 
   {
@@ -85,18 +75,13 @@ nhiều khổ ải. Cần **TÍCH ĐỨC, LÀM VIỆC THIỆN** để chuyển h
     sao: ['Địa Giải'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Địa Giải tại Phụ Mẫu** — cha mẹ là người **HIỀN LÀNH, SỐNG CÓ ĐẠO ĐỨC**.
+    tomTat: `Khi Địa Giải tại Phụ Mẫu, cha mẹ của đương số là người hiền
+lành, sống có đạo đức, tính cách ôn hòa nhẹ nhàng.
 
-**Đặc trưng:**
-- Tính cách **ÔN HÒA, NHẸ NHÀNG**
-- Có **TÀI SẢN, KINH TẾ VỮNG**
-- Biết **LO XA**
-- Hay **LÀM VIỆC THIỆN** để con cháu không phải gặp điều xấu
-
-**Phúc thọ cha mẹ:**
-- Sống **THỌ**, ít bệnh tật
-- Có **QUÝ NHÂN PHÙ TRỢ**
-- Tấm lòng nhân hậu chính là **GỐC RỄ** giúp phúc phần cả gia đình bền lâu`,
+Cha mẹ thường có tài sản và kinh tế vững vàng, biết lo xa, hay làm việc
+thiện để con cháu không phải gặp điều xấu. Nhờ tấm lòng nhân hậu, các bậc
+sinh thành sống thọ, ít bệnh tật và có quý nhân phù trợ — đây cũng là gốc
+rễ giúp phúc phần cả gia đình bền lâu.`,
   },
 
   {
@@ -105,17 +90,14 @@ nhiều khổ ải. Cần **TÍCH ĐỨC, LÀM VIỆC THIỆN** để chuyển h
     sao: ['Địa Giải'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Địa Giải tại Phúc Đức** — dòng họ nhiều người **HIỀN LÀNH, TỐT TÍNH**, hay
-**GIÚP ĐỠ, HỖ TRỢ NHAU**.
+    tomTat: `Khi Địa Giải tại Phúc Đức, dòng họ của đương số có nhiều người
+hiền lành, tốt tính, hay giúp đỡ và hỗ trợ lẫn nhau.
 
-**Đặc trưng đặc biệt - GIAO THOA VỚI ĐẤT:**
-- Tinh thần dễ **GIAO THOA VỚI ĐẤT**
-- Dễ **CẢM NHẬN ĐƯỢC NĂNG LƯỢNG** môi trường xung quanh
-- Cảm nhận năng lượng **TIÊU CỰC, TÍCH CỰC**
-- Có khả năng nhạy cảm với địa khí, phong thủy
-
-Đây là đặc trưng riêng của Địa Giải so với Thiên Giải — Địa thuộc Thổ
-nên có duyên với đất.`,
+Đặc trưng riêng của Địa Giải tại đây là khả năng giao thoa với đất: tinh
+thần đương số dễ cảm nhận được năng lượng môi trường xung quanh, phân biệt
+được những trường khí tích cực hay tiêu cực, đồng thời nhạy cảm với địa khí
+và phong thủy. Đây là điểm khác biệt rõ rệt so với Thiên Giải, bởi Địa Giải
+thuộc Thổ nên có duyên với đất.`,
   },
 
   {
@@ -124,22 +106,19 @@ nên có duyên với đất.`,
     sao: ['Địa Giải'],
     cung: ['Điền Trạch'],
     doUuTien: 70,
-    tomTat: `**Địa Giải tại Điền Trạch** — **KHÔNG HỢP**, đặc tính "giải" làm tiêu tán,
-hao hụt một phần tài sản.
+    tomTat: `Khi Địa Giải tại Điền Trạch, đặc tính "giải" làm tiêu tán và
+hao hụt một phần tài sản của đương số. Đây là vị trí không hợp.
 
-**Mức độ:**
-- Mất mát ở mức **VỪA PHẢI**
-- Không khiến cuộc sống lâm vào cảnh **LAO ĐAO, TÚNG THIẾU**
+Mức độ mất mát ở vào hàng vừa phải, không khiến cuộc sống lâm vào cảnh lao
+đao túng thiếu.
 
-**Mặt tích cực bất ngờ:**
-- Trong một số trường hợp, tính tán giúp **LỌC BỚT NĂNG LƯỢNG XẤU** trong
-  nơi ở
-- **XẢ ĐỘC ĐỂ THANH LỌC**
-- "**CÓ TÁN MỚI CÓ TỤ**", mất mát trước được lợi sau
-- Giảm âm khí trong nhà
+Mặt tích cực bất ngờ là trong một số trường hợp, tính tán giúp lọc bớt năng
+lượng xấu trong nơi ở, "xả độc để thanh lọc". Theo quy luật "có tán mới có
+tụ", mất mát trước sẽ được lợi sau, đồng thời âm khí trong nhà cũng giảm
+bớt.
 
-**Lưu ý:** Không nên lập **BÀN THỜ THẦN LINH, THỔ ĐỊA** tại nơi ở, cửa
-hàng — dễ làm hao tán thêm.`,
+Đương số không nên lập bàn thờ thần linh, thổ địa tại nơi ở hay cửa hàng,
+vì dễ làm hao tán thêm.`,
   },
 
   {
@@ -148,21 +127,16 @@ hàng — dễ làm hao tán thêm.`,
     sao: ['Địa Giải'],
     cung: ['Quan Lộc'],
     doUuTien: 75,
-    tomTat: `**Địa Giải tại Quan Lộc** — **MAY MẮN, HỖ TRỢ** trong sự nghiệp.
+    tomTat: `Khi Địa Giải tại Quan Lộc, đương số nhận được nhiều may mắn và
+sự hỗ trợ trong sự nghiệp.
 
-**Đặc trưng:**
-- Được mọi người xung quanh **GIÚP ĐỠ**
-- Bệnh tật, tai họa được **GIẢM CHẾ**
-- Việc **THI CỬ, XIN VIỆC, THĂNG CHỨC** đều **MAY MẮN**
-- Tranh tài, thi đua gặp **THUẬN LỢI**
+Mọi người xung quanh sẵn lòng giúp đỡ; bệnh tật, tai họa đều được giảm chế.
+Việc thi cử, xin việc, thăng chức đều thuận lợi, tranh tài thi đua cũng gặp
+nhiều cơ may. Có thể nói đương số "được thời, được thế, được lòng người" —
+dù gặp chông gai cũng dễ vượt qua.
 
-"Được thời, được thế, được lòng người": dù gặp chông gai cũng **DỄ
-VƯỢT QUA**.
-
-**Hợp nghề:**
-- **THẦY THUỐC, BÁC SĨ**
-- **GIÁO VIÊN**
-- Công việc **GIÚP NGƯỜI, CỨU NGƯỜI**`,
+Vị trí này hợp với những nghề mang tính chất giúp người, cứu người như thầy
+thuốc, bác sĩ hay giáo viên.`,
   },
 
   {
@@ -171,19 +145,15 @@ VƯỢT QUA**.
     sao: ['Địa Giải'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Địa Giải tại Nô Bộc** — đương số thường có **QUÝ NHÂN BÊN MÌNH**, sẵn sàng
-giúp đỡ cả vật chất lẫn tinh thần.
+    tomTat: `Khi Địa Giải tại Nô Bộc, đương số thường có quý nhân bên mình,
+sẵn sàng giúp đỡ cả vật chất lẫn tinh thần.
 
-**Đặc trưng:**
-- Bạn bè, cộng sự đa phần là người **NGAY THẲNG, CHÂN THÀNH**
-- Sống **CÓ TÌNH CÓ NGHĨA**
-- Luôn sẵn sàng **HỖ TRỢ KHI CẦN**
+Bạn bè và cộng sự đa phần là người ngay thẳng, chân thành, sống có tình có
+nghĩa và luôn sẵn sàng hỗ trợ khi cần.
 
-**Lưu ý:**
-- "Chọn bạn mà chơi" vẫn cần nhớ
-- Trong các mối quan hệ liên quan đến **TIỀN BẠC, LÀM ĂN** nên **TỈNH TÁO,
-  KHÉO LÉO**
-- Tránh để **LÒNG TỐT BỊ LỢI DỤNG**`,
+Dù vậy, câu "chọn bạn mà chơi" vẫn cần ghi nhớ. Trong các mối quan hệ liên
+quan đến tiền bạc, làm ăn, đương số nên tỉnh táo và khéo léo để tránh để
+lòng tốt bị lợi dụng.`,
   },
 
   {
@@ -192,19 +162,16 @@ giúp đỡ cả vật chất lẫn tinh thần.
     sao: ['Địa Giải'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Địa Giải tại Thiên Di** — đi xa thường gặp **MAY MẮN**, được **QUÝ NHÂN
-GIÚP ĐỠ**.
+    tomTat: `Khi Địa Giải tại Thiên Di, đương số đi xa thường gặp may mắn và
+được quý nhân giúp đỡ.
 
-**Đặc trưng:**
-- Đi **CÔNG TÁC, XUẤT HÀNH, DU LỊCH**, thay đổi môi trường sống đều nhận
-  được sự hỗ trợ **ÂM THẦM** từ người khác
-- **LỠ ĐƯỜNG** lại có người cho đi nhờ
-- **THẤT NGHIỆP** ra ngoài lại tìm được cơ hội mới
+Mỗi lần đi công tác, xuất hành, du lịch hay thay đổi môi trường sống, đương
+số đều nhận được sự hỗ trợ âm thầm từ người khác: lỡ đường lại có người cho
+đi nhờ, thất nghiệp ra ngoài lại tìm được cơ hội mới.
 
-**Hạn chế:**
-- Địa Giải chỉ giúp **GIẢI PHẦN NÀO** tai ách
-- Không thể **TRỪ SẠCH MỌI VẬN ĐEN**
-- Cần giữ thái độ **CẨN TRỌNG**, sống tử tế để "gieo nhân lành gặt quả tốt"`,
+Tuy vậy, Địa Giải chỉ giúp giải phần nào tai ách chứ không thể trừ sạch mọi
+vận đen. Đương số cần giữ thái độ cẩn trọng, sống tử tế để "gieo nhân lành
+gặt quả tốt".`,
   },
 
   {
@@ -213,17 +180,16 @@ GIÚP ĐỠ**.
     sao: ['Địa Giải'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Địa Giải tại Tật Ách** — **HỢP CÁCH**, giải trừ bệnh tật.
+    tomTat: `Khi Địa Giải tại Tật Ách, sao này hợp cách và có tác dụng giải
+trừ bệnh tật cho đương số.
 
-**Đặc trưng:**
-- Khi đối mặt với bệnh tật, tai ương: dễ có cơ may **GẶP THẦY THUỐC GIỎI**
-- Tìm được phương pháp chữa trị **PHÙ HỢP**
+Khi đối mặt với bệnh tật hay tai ương, đương số dễ có cơ may gặp được thầy
+thuốc giỏi và tìm được phương pháp chữa trị phù hợp.
 
-**Hợp phương pháp ĐỊA - TỪ ĐẤT MÀ RA:**
-- Vốn mang tính **"ĐỊA"** (từ đất mà ra)
-- Rất hợp với **PHƯƠNG PHÁP CHỮA TRỊ CÓ NGUỒN GỐC TỰ NHIÊN**
-- Hợp **NĂNG LƯỢNG TỪ MÔI TRƯỜNG SỐNG LÀNH MẠNH**
-- Hợp **ĐÔNG Y, NAM DƯỢC, THẢO MỘC**, các phương pháp dùng dược liệu tự nhiên`,
+Vốn mang tính "địa" — từ đất mà ra — Địa Giải đặc biệt hợp với những phương
+pháp chữa trị có nguồn gốc tự nhiên, cùng năng lượng từ môi trường sống lành
+mạnh. Đông y, nam dược, thảo mộc cùng các phương pháp dùng dược liệu tự
+nhiên đều phát huy hiệu quả tốt cho đương số.`,
   },
 
   {
@@ -232,18 +198,15 @@ GIÚP ĐỠ**.
     sao: ['Địa Giải'],
     cung: ['Tài Bạch'],
     doUuTien: 70,
-    tomTat: `**Địa Giải tại Tài Bạch** — **KHÔNG HỢP**, làm **TIÊU HAO** một phần của cải.
+    tomTat: `Khi Địa Giải tại Tài Bạch, sao này không hợp và làm tiêu hao một
+phần của cải của đương số.
 
-**Mức độ:**
-- Không nghiêm trọng đến mức **TRẮNG TAY, NGHÈO TÚNG**
-- Tiền bạc **ĐẾN RỒI LẠI ĐI**
+Mức độ tiêu hao không nghiêm trọng đến mức trắng tay nghèo túng; tiền bạc
+chỉ "đến rồi lại đi". Đa phần là chi tiền để giải hạn, làm phước — mất tiền
+nhưng tránh được họa. Câu "của đi thay người" rất đúng với đương số có Địa
+Giải tại Tài Bạch.
 
-**Cách thức:**
-- Đa phần là **CHI TIỀN ĐỂ GIẢI HẠN, LÀM PHƯỚC**
-- Mất tiền nhưng **TRÁNH ĐƯỢC HỌA**
-- **"CỦA ĐI THAY NGƯỜI"** — câu nói đúng với người có Địa Giải tại Tài Bạch
-
-**Lời khuyên:** Không nên tiếc tiền để giải quyết những rắc rối khi vận
+Vì vậy, đương số không nên tiếc tiền để giải quyết những rắc rối khi vận
 hạn — đây là cách đơn giản và thuận tiện nhất.`,
   },
 
@@ -253,17 +216,13 @@ hạn — đây là cách đơn giản và thuận tiện nhất.`,
     sao: ['Địa Giải'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Địa Giải tại Tử Tức** — những **TAI ÁCH KHI SINH NỞ** sẽ được **HÓA GIẢI**.
+    tomTat: `Khi Địa Giải tại Tử Tức, những tai ách khi sinh nở của đương số
+sẽ được hóa giải; các vấn đề trong mối quan hệ với con cái cũng được giảm
+nhẹ dần. Đương số dễ sinh con, con cái khỏe mạnh.
 
-**Đặc trưng:**
-- Vấn đề trong **MỐI QUAN HỆ VỚI CON CÁI** sẽ được giải trừ
-- Dễ sinh con, con cái khỏe mạnh
-
-**Lưu ý quan trọng:**
-- Tính "GIẢI" của sao này cũng là **TÍN HIỆU** cho thấy mối quan hệ **ẮT CÓ
-  VẤN ĐỀ**
-- Phải xem thêm **HUNG SÁT TINH** cùng cung để nhận định mức độ
-- Cần tìm hướng giải quyết phù hợp`,
+Tuy nhiên, tính "giải" của sao này cũng là tín hiệu cho thấy mối quan hệ
+ắt có vấn đề tiềm ẩn. Cần xem thêm hung sát tinh cùng cung để nhận định
+mức độ và tìm hướng giải quyết phù hợp.`,
   },
 
   {
@@ -272,17 +231,13 @@ hạn — đây là cách đơn giản và thuận tiện nhất.`,
     sao: ['Địa Giải'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Địa Giải tại Phu Thê** — giúp vợ chồng **BỚT CÃI VÃ**, hóa giải dần dần
-những mâu thuẫn.
+    tomTat: `Khi Địa Giải tại Phu Thê, sao này giúp vợ chồng đương số bớt cãi
+vã, hóa giải dần dần những mâu thuẫn — như "tháo nút thắt" trong mối quan
+hệ.
 
-**Đặc trưng:**
-- "**THÁO NÚT THẮT**" trong mối quan hệ vợ chồng
-- Hóa giải mâu thuẫn từ từ
-
-**Điều kiện để hôn nhân thuận hòa:**
-- Vợ chồng cần **CHỦ ĐỘNG CÙNG NHAU NHÌN NHẬN VẤN ĐỀ**
-- Cả hai phải **NHÚN NHƯỜNG, SẺ CHIA**
-- Địa Giải chỉ "tháo nút" khi đôi bên hợp tác`,
+Để hôn nhân thực sự thuận hòa, hai vợ chồng cần chủ động cùng nhau nhìn
+nhận vấn đề, biết nhún nhường và sẻ chia. Địa Giải chỉ phát huy tác dụng
+"tháo nút" khi đôi bên cùng hợp tác.`,
   },
 
   {
@@ -291,12 +246,10 @@ những mâu thuẫn.
     sao: ['Địa Giải'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Địa Giải tại Huynh Đệ** — anh chị em **HIỀN LÀNH, NHÂN HẬU**, dễ gặp may,
-ít bệnh tật.
+    tomTat: `Khi Địa Giải tại Huynh Đệ, anh chị em của đương số là những
+người hiền lành nhân hậu, dễ gặp may và ít bệnh tật.
 
-**Đặc trưng:**
-- Quan hệ trong gia đình **HÒA HỢP**
-- **TƯƠNG THÂN TƯƠNG ÁI**
-- Sẵn sàng **HỖ TRỢ, GIÚP ĐỠ NHAU**`,
+Quan hệ trong gia đình hòa hợp, các thành viên tương thân tương ái và sẵn
+sàng hỗ trợ giúp đỡ lẫn nhau.`,
   },
 ];

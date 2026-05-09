@@ -19,33 +19,23 @@ export const luanGiai_ThienSu: DoanLuanGiai[] = [
     title: 'Thiên Sứ - Đặc tính chung (cố định tại Tật Ách)',
     sao: ['Thiên Sứ'],
     doUuTien: 32,
-    tomTat: `**Thiên Sứ** — phụ tinh **HUNG TINH**, "SỨ GIẢ NHÀ TRỜI".
+    tomTat: `**Thiên Sứ** là phụ tinh hung tinh, ngũ hành Thủy, được mệnh danh
+là "Sứ giả nhà Trời" — chữ "Thiên" nghĩa là Trời, chữ "Sứ" nghĩa là Sứ
+Giả.
 
-**Ngũ hành:** **Thủy**.
+Theo quy luật bắt buộc của tử vi (engine hardcode), Thiên Sứ luôn cố
+định tại cung Tật Ách trên lá số. Việc cố định này mang ý nghĩa biểu
+tượng sâu xa: ai sinh ra cũng đều phải chết, và khi chết đi thì luôn có
+Sứ giả nhà Trời về đưa đi — cung Tật Ách chính là nơi an bài quy luật
+sinh tử ấy.
 
-**Tên gọi:**
-- "**Thiên**" = Trời
-- "**Sứ**" = Sứ Giả
--: **THIÊN SỨ** = **SỨ GIẢ NHÀ TRỜI**
+Đặc tính của Thiên Sứ là hao tán, tai nạn, trở ngại; thị phi, khẩu
+thiệt, quan tụng; buồn thảm và xui xẻo, mang lại tang thương, bệnh tật,
+tai họa cho đương số khi vào hạn.
 
-**QUY LUẬT BẮT BUỘC:** LUÔN cố định tại cung **TẬT ÁCH** (engine hardcode).
-
-**Ý nghĩa biểu tượng:**
-- Cố định ở Tật Ách: ngụ ý:
-  - Ai sinh ra cũng đều phải **CHẾT**
-  - Khi chết đi luôn có **SỨ GIẢ NHÀ TRỜI** về đưa đi
-
-**Đặc tính:**
-- **Hao tán, tai nạn, trở ngại**
-- **Thị phi, khẩu thiệt, quan tụng**
-- Buồn thảm, xui xẻo, không may
-- Mang lại tang thương, bệnh tật, tai họa
-
-**Vai trò:**
-- Là sao **HUNG TINH NHỎ**
-- **CHỈ DÙNG XEM HẠN** (đặc biệt tiểu hạn)
-- KHÔNG có ý nghĩa nhiều trên toàn cuộc đời
-- Cùng Thiên Thương (cố định Nô) tạo bộ **THƯƠNG SỨ**`,
+Tuy nhiên, Thiên Sứ chỉ là hung tinh nhỏ và chỉ dùng để xem hạn (đặc
+biệt là tiểu hạn), không có ý nghĩa nhiều trên toàn cuộc đời. Cùng với
+Thiên Thương cố định tại Nô, hai sao tạo thành bộ **Thương Sứ**.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -58,27 +48,21 @@ export const luanGiai_ThienSu: DoanLuanGiai[] = [
     sao: ['Thiên Sứ'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Thiên Sứ cố định cung Tật Ách** — biểu tượng quy luật **SINH-TỬ** không
-thể thay đổi.
+    tomTat: `Thiên Sứ cố định tại Tật Ách là biểu tượng cho quy luật sinh tử
+không thể thay đổi — con người sinh ra ai cũng phải đối diện với bệnh
+tật, và cuối cùng đều có "sứ giả nhà Trời" dẫn đi khi số mệnh kết thúc.
 
-**Đặc tính:**
-- Đại diện cho **QUY LUẬT BẤT BIẾN**:
-  - Con người sinh ra ai cũng phải đối diện **BỆNH TẬT**
-  - Cuối cùng sẽ có **"SỨ GIẢ NHÀ TRỜI"** dẫn đi khi số mệnh kết thúc
+Trên toàn cuộc đời, sao này không phải lúc nào cũng đem lại họa hại;
+nhiều khi nó chỉ đóng vai trò như lời nhắc nhở đương số gìn giữ sức
+khỏe.
 
-**Trên toàn cuộc đời:**
-- KHÔNG phải lúc nào cũng đem lại họa hại
-- Như **LỜI NHẮC NHỞ** về việc gìn giữ sức khỏe
+Khi vào hạn — đặc biệt khi tại Tật Ách có thêm hung sát tinh hội tụ —
+Thiên Sứ phát huy đầy đủ tính chất xấu của mình: đau ốm triền miên,
+tinh thần bất an, tai ương ập đến bất ngờ.
 
-**Khi vào hạn (đặc biệt tại Tật Ách + hung sát tinh):**
-- Phát huy tính chất XẤU
-- Đau ốm **TRIỀN MIÊN**
-- Tinh thần **BẤT AN**
-- Tai ương **BẤT NGỜ**
-
-**Cùng "Lưới Trời":**
-- Thiên Sứ + Thiên Thương + Thiên La + Địa Võng
--: 4 sao "lưới trời" cố định trên lá số`,
+Cùng với Thiên Thương, Thiên La (cố định Thìn) và Địa Võng (cố định
+Tuất), Thiên Sứ tạo thành một trong bốn sao "lưới trời" cố định trên lá
+số.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -91,19 +75,19 @@ thể thay đổi.
     sao: ['Thiên Sứ'],
     ketHop: ['Thiên Cơ', 'Cự Môn', 'Thiên Hình'],
     doUuTien: 55,
-    tomTat: `**Thiên Sứ + Thiên Cơ + Cự Môn + Thiên Hình vào hạn** — **KIỆN TỤNG**.
+    tomTat: `Khi Thiên Sứ gặp đủ Thiên Cơ, **Cự Môn** và **Thiên Hình** vào
+hạn, đương số dễ vướng vào kiện tụng, tranh chấp pháp lý — hao tán cả
+tiền bạc lẫn danh dự.
 
-**Đặc trưng:**
-- Vướng vào **KIỆN TỤNG, TRANH CHẤP PHÁP LÝ**
-- Hao tán **TIỀN BẠC VÀ DANH DỰ**
+Phân tích bộ sao này cho thấy mỗi sao đóng một vai trò:
 
-**Phân tích bộ sao:**
-- **Cự Môn** = sao thị phi khẩu thiệt
-- **Thiên Hình** = sát phạt pháp luật
-- **Thiên Cơ** = mưu kế tính toán
-- **Thiên Sứ** = hung tinh kích hoạt
+- Cự Môn là sao thị phi, khẩu thiệt
+- Thiên Hình là sao sát phạt, pháp luật
+- Thiên Cơ là mưu kế, tính toán
+- Thiên Sứ là hung tinh kích hoạt cả bộ
 
-**Hóa giải:** Cần Tử Vi, Thiên Phủ, Lương, Đồng đi cùng giảm bớt.`,
+Để hóa giải, cần Tử Vi, Thiên Phủ, Thiên Lương, Thiên Đồng đi cùng để
+giảm bớt tính sát.`,
   },
 
   {
@@ -112,18 +96,17 @@ thể thay đổi.
     sao: ['Thiên Sứ'],
     ketHop: ['Thái Tuế'],
     doUuTien: 60,
-    tomTat: `**Thiên Sứ + Thái Tuế vào hạn** — **CHẾT** nếu đại hạn xấu.
+    tomTat: `Khi Thiên Sứ gặp **Thái Tuế** vào hạn, nếu đại hạn cũng xấu thì
+đương số có nguy cơ chết.
 
-**Đặc trưng:**
-- Đại vận xấu + tiểu vận có Sứ + Thái Tuế: hung họa **RÕ RỆT**
-- Đương số dễ gặp **BIẾN CỐ LỚN VỀ SỨC KHỎE**
+Đại vận xấu cộng thêm tiểu vận có Sứ và Thái Tuế khiến hung họa rõ rệt,
+đương số dễ gặp biến cố lớn về sức khỏe.
 
-**Phòng tránh:**
-- Chủ động **CHĂM SÓC THÂN THỂ**
-- **THĂM KHÁM KỊP THỜI**
-- Tránh hoạt động nguy hiểm
+Để phòng tránh, đương số cần chủ động chăm sóc thân thể, thăm khám kịp
+thời và tránh các hoạt động nguy hiểm.
 
-**Hóa giải:** Cần sao giải mạnh (Tử Phủ Lương Đồng + Quan Phúc + Tuần Triệt).`,
+Để hóa giải, cần sao giải mạnh hội tụ — Tử Phủ Lương Đồng, Quan Phúc,
+Tuần Triệt.`,
   },
 
   {
@@ -132,20 +115,19 @@ thể thay đổi.
     sao: ['Thiên Sứ'],
     ketHop: ['Thiên Không', 'Lưu Hà', 'Kình Dương'],
     doUuTien: 65,
-    tomTat: `**Thiên Sứ + Thiên Không + Lưu Hà + Kình Dương đồng chiếu vào hạn** —
-**CHẾT**.
+    tomTat: `Khi Thiên Sứ cùng Thiên Không, Lưu Hà và Kình Dương đồng chiếu
+vào hạn, đương số có nguy cơ chết — đây là một trong các cách cực xấu
+nhất khi luận hạn về tử vong.
 
-**Đặc trưng:**
-- Bộ sao mang tính **HUNG HIỂM NẶNG NỀ**
-- Tổn hại **NGHIÊM TRỌNG** sức khỏe và **TÍNH MẠNG**
+Bộ sao mang tính hung hiểm nặng nề, tổn hại nghiêm trọng cả sức khỏe
+lẫn tính mạng. Phân tích từng thành phần:
 
-**Phân tích:**
-- **Thiên Không** = sao trống không, hủy diệt
-- **Lưu Hà** = thủy tai, sát phạt
-- **Kình Dương** = dao kéo, sát thương
-- **Thiên Sứ** = sứ giả nhà Trời
+- Thiên Không là sao trống không, hủy diệt
+- Lưu Hà là sao thủy tai, sát phạt
+- Kình Dương là sao dao kéo, sát thương
+- Thiên Sứ là sứ giả nhà Trời
 
-**Là một trong các cách CỰC XẤU nhất** khi luận hạn về tử vong.`,
+Bốn sao kết hợp khiến cách cục trở nên cực kỳ nguy hiểm.`,
   },
 
   {
@@ -154,20 +136,19 @@ thể thay đổi.
     sao: ['Thiên Sứ'],
     ketHop: ['Tang Môn', 'Bạch Hổ'],
     doUuTien: 60,
-    tomTat: `**Thiên Sứ + Tang Môn + Bạch Hổ vào hạn** — **CÓ TANG**.
+    tomTat: `Khi Thiên Sứ gặp Tang Môn và Bạch Hổ vào hạn, đó là điềm có
+tang. Bộ sao này báo hiệu nỗi đau tang tóc — bệnh tật hoặc mất mát nặng
+nề trong gia đình; tang có thể xảy ra cho người thuộc cung mà bộ sao
+đóng.
 
-**Đặc trưng:**
-- Báo hiệu **NỖI ĐAU TANG TÓC**
-- Bệnh tật hoặc **MẤT MÁT NẶNG NỀ** trong gia đình
-- Tại cung nào: tang có thể xảy ra cho **NGƯỜI THUỘC CUNG ĐÓ**
+Phân tích cấu trúc bộ sao:
 
-**Phân tích:**
-- **Tang Môn** = sao tang sự
-- **Bạch Hổ** = trục Tang-Hổ kiếp nghiệp (đối xung)
-- **Thiên Sứ** = sứ giả nhà Trời kích hoạt
+- Tang Môn là sao tang sự
+- Bạch Hổ tạo trục Tang - Hổ kiếp nghiệp đối xung
+- Thiên Sứ là sứ giả nhà Trời kích hoạt cả bộ
 
-**Cách đoán:** Tùy vị trí cung khác trong lá số: suy đoán **AI là người
-gặp nạn** và **biến cố xảy ra ở đâu**.`,
+Cách đoán: tùy vị trí cung khác trong lá số mà suy đoán ai là người
+gặp nạn và biến cố xảy ra ở đâu.`,
   },
 
   {
@@ -177,21 +158,18 @@ gặp nạn** và **biến cố xảy ra ở đâu**.`,
     chi: ['Tý'],
     ketHop: ['Kình Dương', 'Đà La', 'Thái Tuế'],
     doUuTien: 65,
-    tomTat: `**Thiên Sứ tại Tý + Kình Dương + Đà La + Thái Tuế vào nhị hạn** — **CHẾT**.
+    tomTat: `Khi Thiên Sứ tại Tý gặp đủ Kình Dương, Đà La và Thái Tuế cùng
+vào nhị hạn, đương số có nguy cơ chết.
 
-**Đặc trưng:**
-- "Nhị hạn" = cả **ĐẠI HẠN + TIỂU HẠN** cùng phạm
-- Cách cục **CỰC XẤU**
-- Dễ ứng nghiệm với sự kiện, tình huống **NGUY HIỂM TÍNH MẠNG**
+"Nhị hạn" là cảnh cả đại hạn và tiểu hạn cùng phạm — cách cục cực xấu,
+dễ ứng nghiệm với các sự kiện, tình huống nguy hiểm tính mạng. Nếu
+không có cát tinh chủ hóa giải, đương số khó qua khỏi — đây là một
+trong các cách chết rõ rệt nhất trong tử vi.
 
-**Cảnh báo:**
-- Nếu không có sao cát tinh chủ hóa giải: khó qua khỏi
-- Là một trong các cách **CHẾT** rõ rệt nhất trong tử vi
+Vị trí Tý đặc biệt nguy hiểm vì:
 
-**Vị trí Tý là đặc biệt** vì:
-- Tý là cung Thủy
-- Thiên Sứ Thủy + cung Thủy: tăng tính sát thủy
-- Thêm Kình Đà sát + Thái Tuế kích hạn`,
+- Tý là cung Thủy, cùng hành với Sứ nên tăng tính sát thủy
+- Thêm Kình Đà sát và Thái Tuế kích hạn, mức độ càng dữ dội`,
   },
 
   {
@@ -200,20 +178,18 @@ gặp nạn** và **biến cố xảy ra ở đâu**.`,
     sao: ['Thiên Sứ'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 65,
-    tomTat: `**Thiên Sứ gặp Lục Sát Tinh** — **CHẾT**, mức độ nguy hại **CHỒNG CHẤT**.
+    tomTat: `Khi Thiên Sứ gặp Lục Sát Tinh, mức độ nguy hại chồng chất —
+đương số có nguy cơ chết. Lục Sát Tinh gồm:
 
-**Lục Sát Tinh:**
-- **Kình Dương + Đà La** (Cát Sát)
-- **Hỏa Tinh + Linh Tinh** (Hỏa Sát)
-- **Địa Không + Địa Kiếp** (Không Kiếp)
+- Kình Dương và Đà La (Cát Sát)
+- Hỏa Tinh và Linh Tinh (Hỏa Sát)
+- Địa Không và Địa Kiếp (Không Kiếp)
 
-**Đặc trưng:**
-- Càng hội nhiều hung tinh: biến cố càng lớn
-- Cần cẩn trọng về **SỨC KHỎE**
-- Khó khăn, trở ngại có thể xảy đến
+Càng hội nhiều hung tinh, biến cố càng lớn — đương số cần cẩn trọng về
+sức khỏe vì khó khăn, trở ngại có thể ập đến bất cứ lúc nào.
 
-**Cảnh báo:** Đây là một trong các cách **CHẾT** nguy hiểm nhất khi luận
-hạn — cần kiểm tra kỹ phúc tinh và sao giải.`,
+Đây là một trong các cách chết nguy hiểm nhất khi luận hạn — cần kiểm
+tra kỹ phúc tinh và sao giải trước khi kết luận.`,
   },
 
   {
@@ -222,19 +198,14 @@ hạn — cần kiểm tra kỹ phúc tinh và sao giải.`,
     sao: ['Thiên Sứ'],
     ketHop: ['Kình Dương', 'Đà La'],
     doUuTien: 55,
-    tomTat: `**Thiên Sứ + Kình Dương + Đà La** — **DỮ**.
+    tomTat: `Thiên Sứ gặp Kình Dương và Đà La là cách dữ — bộ sát tinh nặng
+cùng Thiên Sứ tạo nên tai họa lớn cho đương số.
 
-**Đặc trưng:**
-- Bộ sát tinh nặng cùng Thiên Sứ
-- Tai họa lớn
+May mắn là cách này có thể giải hiệu quả bằng Tử Vi, Thiên Đồng hoặc
+Thiên Lương.
 
-**Hóa giải HIỆU QUẢ:** Cách này CÓ THỂ GIẢI bằng:
-- **Tử Vi**
-- **Thiên Đồng**
-- **Thiên Lương**
-
-**Lưu ý:** Khi gặp **Tử/Đồng/Lương** đồng cung hoặc tam hợp: tai họa
-chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
+Khi gặp **Tử / Đồng / Lương** đồng cung hoặc tam hợp, tai họa được
+chuyển thành chấn động nhỏ, không đến mức nguy mạng.`,
   },
 
   {
@@ -243,18 +214,15 @@ chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
     sao: ['Thiên Sứ'],
     ketHop: ['Văn Xương'],
     doUuTien: 50,
-    tomTat: `**Thiên Sứ + Văn Xương vào hạn** — **KHOA TRƯỜNG, THI CỬ LẬN ĐẬN**.
+    tomTat: `Khi Thiên Sứ gặp **Văn Xương** vào hạn, đương số gặp cảnh khoa
+trường, thi cử lận đận. Học hành và thi cử không đạt kỳ vọng, kết quả
+không được như mong muốn, khoa cử trắc trở.
 
-**Đặc trưng:**
-- Học hành, thi cử **KHÔNG ĐẠT KỲ VỌNG**
-- Kết quả không được như mong muốn
-- Khoa cử trắc trở
+Văn Xương vốn là sao chủ thi cử khoa bảng, nhưng khi bị Thiên Sứ — hung
+tinh kích hoạt — đi cùng thì tính tốt vốn có sẽ bị phá.
 
-**Phân tích:**
-- **Văn Xương** = sao chủ thi cử khoa bảng
-- **Thiên Sứ** = hung tinh kích hoạt: phá tính tốt của Văn Xương
-
-**Hóa giải:** Cần Khôi Việt + Hóa Khoa + Tả Hữu hội chiếu bù đắp.`,
+Để hóa giải cần Khôi Việt, Hóa Khoa, Tả Hữu hội chiếu để bù đắp lại
+phần khuyết.`,
   },
 
   {
@@ -263,16 +231,14 @@ chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
     sao: ['Thiên Sứ'],
     chi: ['Tý', 'Dần'],
     doUuTien: 60,
-    tomTat: `**Thiên Sứ tại Tý hoặc Dần** — **ĐỘC**, vị trí xấu nhất.
+    tomTat: `Thiên Sứ tại Tý hoặc Dần là vị trí độc nhất — xấu nhất trên lá
+số. Tại hai vị trí này, tính độc của Thiên Sứ phát huy mạnh mẽ nhất do:
 
-**Đặc trưng:**
-- Vị trí Tý và Dần phát huy mạnh nhất tính độc của Thiên Sứ
+- Tý là cung Thủy, cùng hành với Sứ nên tăng độc
+- Dần thuộc Tứ Sinh, kích hoạt biến động
 
-**Lưu ý:**
-- Tý là cung Thủy - cùng hành với Sứ: tăng độc
-- Dần là Tứ Sinh - kích hoạt biến động
-
-**Khi luận:** Cần đặc biệt cảnh giác trong vận hạn.`,
+Khi luận, cần đặc biệt cảnh giác đối với đương số có Thiên Sứ nằm tại
+hai vị trí này trong các vận hạn.`,
   },
 
   {
@@ -281,11 +247,11 @@ chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
     sao: ['Thiên Sứ'],
     chi: ['Tý', 'Mão', 'Thìn', 'Ngọ', 'Mùi'],
     doUuTien: 55,
-    tomTat: `**Thiên Sứ tại Tý / Mão / Thìn / Ngọ / Mùi** — họa đến **MAU**.
+    tomTat: `Thiên Sứ tại Tý, Mão, Thìn, Ngọ hoặc Mùi là những vị trí khiến
+họa đến mau với đương số.
 
-**Đặc trưng:**
-- Tại các vị trí này, Thiên Sứ phát tác **NHANH** khi vào hạn
-- Cảnh báo cần đề phòng tai họa **BẤT NGỜ**`,
+Tại các vị trí này, Thiên Sứ phát tác rất nhanh khi vào hạn — đương số
+cần đề phòng tai họa bất ngờ ngay từ đầu vận.`,
   },
 
   {
@@ -294,18 +260,12 @@ chuyển thành **chấn động nhỏ**, không đến mức nguy mạng.`,
     sao: ['Thiên Sứ'],
     ketHop: ['Kình Dương', 'Hỏa Tinh', 'Thiên Riêu', 'Cự Môn'],
     doUuTien: 55,
-    tomTat: `**Thiên Sứ + Kình Dương + Hỏa Tinh + Thiên Riêu + Cự Môn vào hạn** —
-**HẠI CỦA, HẠI NGƯỜI**.
+    tomTat: `Khi Thiên Sứ gặp đủ Kình Dương, Hỏa Tinh, Thiên Riêu và Cự Môn
+vào hạn, đương số rơi vào cảnh "hại của, hại người". Tổ hợp này gây hao
+tán tiền bạc, tổn hại người thân, lại bị ghen ghét đố kỵ và sinh thị
+phi — hao tổn cả vật chất lẫn tinh thần.
 
-**Đặc trưng:**
-- Hao tán **TIỀN BẠC**
-- Tổn hại **NGƯỜI THÂN**
-- Bị **GHEN GHÉT, ĐỐ KỴ**, sinh thị phi
-- Hao tổn **VẬT CHẤT VÀ TINH THẦN**
-
-**Hóa giải:**
-- Giữ tâm hòa nhã
-- Tránh tranh chấp, lời nói
-- Cát tinh đồng cung sẽ giảm bớt tác họa`,
+Để hóa giải, đương số cần giữ tâm hòa nhã, tránh tranh chấp và lời nói
+gây xích mích; nếu có cát tinh đồng cung sẽ giảm bớt tác họa đáng kể.`,
   },
 ];

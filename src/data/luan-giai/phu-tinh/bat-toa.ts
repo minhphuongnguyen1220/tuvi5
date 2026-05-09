@@ -27,24 +27,22 @@ export const luanGiai_BatToa: DoanLuanGiai[] = [
     title: 'Bát Tọa - Đặc tính riêng (Mộc, cửa ngõ bề thế)',
     sao: ['Bát Tọa'],
     doUuTien: 33,
-    tomTat: `**Bát Tọa** — phụ tinh **CÁT TINH**, đặc tính RIÊNG khác Tam Thai.
+    tomTat: `**Bát Tọa** là phụ tinh thuộc nhóm cát tinh, có những đặc tính
+riêng khác với Tam Thai. Ngũ hành Mộc (trong khi Tam Thai thuộc Thủy).
 
-**Ngũ hành:** **Mộc** (khác Tam Thai = Thủy).
+Hình tượng đặc trưng của Bát Tọa là chiếc xe sang cùng cửa ngõ bề thế, môn
+hộ — tượng trưng cho vị thế, sự công nhận và phong thái đĩnh đạc của đương
+số trong xã hội.
 
-**Hình tượng riêng:**
-- **CHIẾC XE SANG** + **CỬA NGÕ BỀ THẾ**, môn hộ
-- Tượng trưng cho **VỊ THẾ, SỰ CÔNG NHẬN, PHONG THÁI ĐĨNH ĐẠC** trong xã
-  hội
+Mang bản chất hành Mộc, Bát Tọa đem đến sự tăng trưởng, ổn định và phúc lộc,
+làm tốt đẹp cho bất kỳ cung nào nó tọa thủ.
 
-**Bản chất hành Mộc:**
-- Mang đến **TĂNG TRƯỞNG, ỔN ĐỊNH, PHÚC LỘC**
-- Làm tốt đẹp cho bất kỳ cung nào nó tọa thủ
+Khi so sánh với Tam Thai:
 
-**So với Tam Thai:**
-- Tam Thai = quyền uy CẤP CAO (vầng trán)
-- Bát Tọa = chiếc xe sang, cửa ngõ bề thế (cái cằm)
-- Tam Thai nghiêng về **DANH TIẾNG, ĐỊA VỊ**
-- Bát Tọa nghiêng về **VẬT CHẤT, PHƯƠNG TIỆN, MÔN HỘ**`,
+- Tam Thai biểu trưng cho quyền uy cấp cao (vầng trán), nghiêng về danh
+  tiếng và địa vị
+- **Bát Tọa** biểu trưng cho chiếc xe sang và cửa ngõ bề thế (cái cằm),
+  nghiêng về vật chất, phương tiện và môn hộ`,
   },
 
   {
@@ -53,31 +51,28 @@ export const luanGiai_BatToa: DoanLuanGiai[] = [
     sao: ['Bát Tọa'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Bát Tọa thủ Mệnh** — đặc tính **RIÊNG** của Bát Tọa (khác Tam Thai).
+    tomTat: `Khi Bát Tọa thủ Mệnh, đương số mang những đặc tính riêng (khác
+với Tam Thai).
 
-**Hình thể:**
-- Bát Tọa tượng trưng cho **CÁI CẰM**
-- **CHIẾC CẰM ĐẦY ĐẶN, NỞ NANG**
-- Tạo nên nét **PHÚC HẬU, QUÝ PHÁI**
-- Dáng điệu **KHOAN THAI, BỆ VỆ, TỪ TỐN, BÌNH TĨNH**
+Về hình thể, Bát Tọa tượng trưng cho cái cằm: đương số có chiếc cằm đầy
+đặn, nở nang, tạo nên nét phúc hậu quý phái. Dáng điệu khoan thai, bệ vệ,
+từ tốn và bình tĩnh.
 
-**Tính tình:**
-- Người **KHÔN NGOAN, NHÂN HẬU**
-- Có **PHONG THÁI BẬC QUYỀN QUÝ**
-- Yêu thích cuộc sống **THANH NHÀN**
-- Không ham **TRANH ĐẤU, BON CHEN** với đời
-- "**DĨ HÒA VI QUÝ**"
-- Luôn giữ thái độ **HÒA NHÃ, KHOAN DUNG**
+Tính tình đương số khôn ngoan, nhân hậu, mang phong thái bậc quyền quý.
+Đương số yêu thích cuộc sống thanh nhàn, không ham tranh đấu hay bon chen
+với đời, lấy "dĩ hòa vi quý" làm phương châm và luôn giữ thái độ hòa nhã,
+khoan dung.
 
-**Công danh:**
-- Hội nhiều cát tinh: **THÀNH ĐẠT, ĐỊA VỊ CAO**, nhiều thành tựu vẻ vang
-- Đơn thủ: người **AN PHẬN, BÌNH YÊN**, không cao sang nhưng không vất vả
+Về công danh:
 
-**Gặp nhiều sát bại tinh:**
-- Ưu điểm Bát Tọa **BỊ LU MỜ**
-- Trở nên **LƯỜI BIẾNG, TÂM LÝ Ỷ LẠI**
-- **THIẾU CHÍ TIẾN THỦ**
-- Khó làm nên **NGHIỆP LỚN**`,
+- Hội nhiều cát tinh, đương số thành đạt, đạt địa vị cao và có nhiều thành
+  tựu vẻ vang
+- Đơn thủ, đương số sống an phận, bình yên — tuy không cao sang nhưng cũng
+  không vất vả
+
+Khi gặp nhiều sát bại tinh, ưu điểm của Bát Tọa bị lu mờ: đương số trở nên
+lười biếng, mang tâm lý ỷ lại, thiếu chí tiến thủ, vì vậy khó làm nên
+nghiệp lớn.`,
   },
 
   {
@@ -86,25 +81,20 @@ export const luanGiai_BatToa: DoanLuanGiai[] = [
     sao: ['Bát Tọa'],
     cung: ['Điền Trạch'],
     doUuTien: 78,
-    tomTat: `**Bát Tọa tại Điền Trạch** — đặc trưng RIÊNG: **CỬA NGÕ, MÔN HỘ + PHƯƠNG
-TIỆN SANG TRỌNG**.
+    tomTat: `Khi Bát Tọa tại Điền Trạch, sao này mang đặc trưng riêng về cửa
+ngõ, môn hộ cùng phương tiện sang trọng cho đương số.
 
-**Hình tượng đặc trưng:**
-- Bát Tọa tượng trưng cho **CỬA NGÕ, MÔN HỘ**
-- **PHƯƠNG TIỆN ĐI LẠI SANG TRỌNG**
-- Khác Tam Thai (chủ về nhà cửa khang trang chung) - Bát Tọa nhấn mạnh
-  **CỬA NGÕ + XE CỘ**
+Hình tượng tại đây là cửa ngõ và môn hộ kết hợp với phương tiện đi lại sang
+trọng. Khác với Tam Thai vốn chủ về nhà cửa khang trang nói chung, Bát Tọa
+nhấn mạnh phần cửa ngõ và xe cộ.
 
-**Đặc trưng:**
-- Mang lại **MAY MẮN LỚN** về nhà cửa, đất đai
-- Đương số dễ có **NHÀ CAO CỬA RỘNG, BỀ THẾ, KHANG TRANG**
-- Việc mua bán, tạo dựng điền sản **DỄ DÀNG THUẬN LỢI**
-- Được **THỪA HƯỞNG** hoặc được người khác **GIÚP ĐỠ**
+Sao này mang lại may mắn lớn về nhà cửa và đất đai cho đương số: dễ có nhà
+cao cửa rộng, bề thế khang trang. Việc mua bán hay tạo dựng điền sản đều
+dễ dàng, thuận lợi; đương số có thể được thừa hưởng hoặc nhận giúp đỡ từ
+người khác.
 
-**Vị trí nhà:**
-- Nhà cửa thường ở nơi **ĐÔNG NGƯỜI**
-- Có **XE CỘ, PHƯƠNG TIỆN ĐI LẠI GIÁ TRỊ**
-- Cổng ngõ to đẹp, thể hiện vị thế`,
+Nhà cửa của đương số thường tọa lạc ở nơi đông người, có xe cộ và phương
+tiện đi lại giá trị, cổng ngõ to đẹp thể hiện vị thế.`,
   },
 
   {
@@ -113,19 +103,16 @@ TIỆN SANG TRỌNG**.
     sao: ['Bát Tọa'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Bát Tọa tại Tật Ách** — khi bệnh dễ **GẶP ĐƯỢC THẦY GIỎI** cứu chữa.
+    tomTat: `Khi Bát Tọa tại Tật Ách, đương số khi mắc bệnh dễ gặp được thầy
+giỏi cứu chữa.
 
-**Đặc trưng:**
-- Có khả năng **GIẢI TRỪ TAI ƯƠNG, BỆNH TẬT NHỎ**
-- Giảm thiểu **NGUY HIỂM**
-- Biến **HỌA LỚN THÀNH NHỎ, BỆNH NẶNG THÀNH NHẸ**
+Sao này có khả năng giải trừ tai ương cùng các bệnh tật nhỏ, giảm thiểu
+nguy hiểm và biến họa lớn thành nhỏ, bệnh nặng thành nhẹ.
 
-**Đặc biệt:**
-- Khi bị bệnh dễ **GẶP THẦY, GẶP THUỐC** cứu chữa
-- Được **CHẨN ĐOÁN ĐÚNG**, điều trị hiệu quả
+Đặc biệt khi bị bệnh, đương số dễ gặp thầy gặp thuốc, được chẩn đoán đúng
+và điều trị hiệu quả.
 
-**Khi qua đời:**
-- Cũng **NHẸ NHÀNG, THANH THẢN**
-- Được **NHIỀU NGƯỜI QUYỀN QUÝ** đến thăm viếng`,
+Đến khi qua đời, đương số cũng ra đi nhẹ nhàng, thanh thản, được nhiều
+người quyền quý đến thăm viếng.`,
   },
 ];
