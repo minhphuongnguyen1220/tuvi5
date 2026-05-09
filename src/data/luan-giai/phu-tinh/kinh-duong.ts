@@ -12,38 +12,34 @@ export const luanGiai_KinhDuong: DoanLuanGiai[] = [
     title: 'Kình Dương - Đặc tính chung',
     sao: ['Kình Dương'],
     doUuTien: 30,
-    tomTat: `**Kình Dương** (tên khác: **Dương Nhận**) thuộc bộ **Lục Sát Tinh**,
-ngũ hành **Kim** (Dương Kim đới Hỏa).
+    tomTat: `**Kình Dương** (còn gọi là Dương Nhận) thuộc bộ Lục Sát Tinh, ngũ
+hành Kim — là Dương Kim đới Hỏa. Hóa khí của sao là Hình Tinh và Hung Tinh,
+nên đặc tính chính nằm ở sát phạt, cô đơn, bần hàn, bệnh tật và tai nạn.
 
-**Hóa khí:** **Hình Tinh, Hung Tinh**.
+Vị trí miếu hãm:
 
-**Đặc tính:** **sát phạt, cô đơn, bần hàn, bệnh tật, tai nạn**.
+- **Đắc** địa
+  - Thìn, Tuất, Sửu, Mùi
+- **Hãm** địa
+  - Tý, Ngọ, Mão, Dậu, Dần, Thân, Tỵ, Hợi
 
-**Vị trí miếu hãm:**
-- **Đắc địa:** Thìn, Tuất, Sửu, Mùi
-- **Hãm địa:** Tý, Ngọ, Mão, Dậu, Dần, Thân, Tỵ, Hợi
+Người xưa ví Kình Dương như "thanh gươm bén để giữa trời" — đương số biết
+dùng thì mở đường công danh, dùng không khéo thì gây tai họa cho chính
+mình.`,
 
-Người xưa ví Kình Dương như **"thanh gươm bén để giữa trời"** — biết dùng thì
-mở đường công danh, dùng không khéo thì gây tai họa.`,
+    chiTiet: `Kình Dương đứng cùng Đà La tạo thành bộ "Kình Đà" — luôn kèm
+hai bên sao Lộc Tồn để canh giữ Lộc Tồn.
 
-    chiTiet: `## Bộ sao đôi Kình Đà
+Trong tử vi, Kình Dương là một trong sáu sao của bộ Lục Sát Tinh:
 
-Kình Dương + **Đà La** = bộ **"Kình Đà"** — luôn đứng kèm hai bên sao **Lộc Tồn**
-để **canh giữ Lộc Tồn**.
-
-## Lục Sát Tinh
-
-Kình Dương là một trong **6 sao của bộ Lục Sát Tinh**:
 - Kình Dương, Đà La (bộ Kình Đà)
 - Địa Không, Địa Kiếp (bộ Không Kiếp)
 - Linh Tinh, Hỏa Tinh (bộ Linh Hỏa)
 
-- Gọi tắt là **"Kình Đà Không Kiếp Linh Hỏa"**.
+Sáu sao này gọi tắt là "Kình Đà Không Kiếp Linh Hỏa".
 
-## Cách "Hung Tinh độc thủ"
-
-Nếu Kình Dương tọa thủ tại cung **Vô Chính Diệu** (không có chính tinh): gọi
-là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạnh mẽ.`,
+Khi Kình Dương tọa thủ tại cung Vô Chính Diệu (không có chính tinh), gọi
+là cách "Hung Tinh độc thủ" — tính chất hung tinh phát huy mạnh mẽ nhất.`,
   },
 
   // ============================================================
@@ -55,7 +51,8 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     sao: ['Kình Dương'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Kình Dương cư Mệnh:** thân hình **cao to, thô kệch**, da xám, **lộ hầu, lộ nhãn**. Dáng đi **lệch vai, hơi gù**.`,
+    tomTat: `Đương số có Kình Dương tọa thủ Mệnh thường có thân hình cao to
+thô kệch, da xám, lộ hầu lộ nhãn; dáng đi lệch vai, hơi gù.`,
   },
 
   {
@@ -65,7 +62,8 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     cung: ['Mệnh'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `**Kình Dương ĐẮC địa cư Mệnh:** thần thái **uy nghi, vạm vỡ như tướng quân**.`,
+    tomTat: `Khi Kình Dương **Đắc** địa cư Mệnh, thần thái đương số uy nghi
+và vạm vỡ như tướng quân.`,
   },
 
   // ============================================================
@@ -77,7 +75,8 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     sao: ['Kình Dương'],
     cung: ['Mệnh'],
     doUuTien: 85,
-    tomTat: `**Kình Dương cư Mệnh:** tính cách chịu ảnh hưởng từ trạng thái sao.`,
+    tomTat: `Tính cách của đương số có Kình Dương cư Mệnh chịu ảnh hưởng
+mạnh từ trạng thái sao đắc hay hãm.`,
   },
 
   {
@@ -87,7 +86,10 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     cung: ['Mệnh'],
     chi: ['Thìn', 'Tuất', 'Sửu', 'Mùi'],
     doUuTien: 85,
-    tomTat: `**Kình Dương ĐẮC địa Mệnh (Thìn/Tuất/Sửu/Mùi):** **dũng cảm, cương nghị, hành động, nói ít làm nhiều**. Hơi nóng nảy nhưng **rất thẳng thắn** — "cây ngay không sợ chết đứng".`,
+    tomTat: `Khi Kình Dương **Đắc** địa cư Mệnh tại Thìn, Tuất, Sửu hoặc Mùi,
+đương số dũng cảm, cương nghị, quen hành động và "nói ít làm nhiều". Tính
+hơi nóng nảy nhưng rất thẳng thắn, đúng theo kiểu "cây ngay không sợ chết
+đứng".`,
   },
 
   {
@@ -97,7 +99,9 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     cung: ['Mệnh'],
     trangThai: ['Hãm'],
     doUuTien: 85,
-    tomTat: `**Kình Dương HÃM Mệnh:** **nóng nảy, bướng bỉnh, trí tuệ kém**, "việc bé xé ra to": dễ **vướng tranh cãi, tự chuốc họa**.`,
+    tomTat: `Khi Kình Dương **Hãm** địa cư Mệnh, đương số nóng nảy, bướng
+bỉnh, trí tuệ kém phần sáng suốt và hay "việc bé xé ra to" — dễ vướng
+tranh cãi và tự chuốc họa cho mình.`,
   },
 
   // ============================================================
@@ -109,7 +113,8 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     sao: ['Kình Dương'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Kình Dương cư Mệnh - tài lộc:** phải **tự thân lao lực** mới có tiền, ít hưởng phúc lộc sẵn có.`,
+    tomTat: `Về tài lộc, đương số có Kình Dương cư Mệnh phải tự thân lao lực
+mới có tiền, ít hưởng được phúc lộc sẵn có từ tổ tiên hay người khác.`,
   },
 
   {
@@ -120,7 +125,10 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 78,
-    tomTat: `**Kình Dương ĐẮC Mệnh + cát tinh:** phù hợp **võ nghiệp, quân sự, công an, cứu hộ**, hoặc nghề liên quan **dao kéo, mổ xẻ** (bác sĩ phẫu thuật).`,
+    tomTat: `Khi Kình Dương **Đắc** địa cư Mệnh có Tả Phù, Hữu Bật, Văn
+Xương, Văn Khúc, Thiên Khôi hoặc Thiên Việt đi cùng, đương số phù hợp với
+võ nghiệp, quân sự, công an, cứu hộ — hoặc nghề liên quan đến dao kéo và
+mổ xẻ như bác sĩ phẫu thuật.`,
   },
 
   {
@@ -130,7 +138,9 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     cung: ['Mệnh'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `**Kình Dương HÃM Mệnh:** dễ dính **hung nghiệp**, làm nghề nặng nhọc lao lực chân tay. Công việc **không bền**, phải thay đổi thường xuyên.`,
+    tomTat: `Khi Kình Dương **Hãm** địa cư Mệnh, đương số dễ dính vào hung
+nghiệp, làm những nghề nặng nhọc lao lực chân tay. Công việc không bền,
+phải thay đổi thường xuyên.`,
   },
 
   {
@@ -140,7 +150,8 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     cung: ['Mệnh'],
     ketHop: ['Linh Tinh', 'Hỏa Tinh', 'Kiếp Sát'],
     doUuTien: 75,
-    tomTat: `**Kình Dương Mệnh + Linh / Hỏa / Kiếp Sát:** tiền hao tán, dễ gặp **họa nguy hiểm tính mạng**.`,
+    tomTat: `Kình Dương cư Mệnh gặp Linh Tinh, Hỏa Tinh hoặc Kiếp Sát khiến
+tiền của đương số hao tán; càng dễ gặp họa nguy hiểm tới tính mạng.`,
   },
 
   {
@@ -150,7 +161,9 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     cung: ['Mệnh'],
     ketHop: ['Tuần', 'Triệt', 'Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 72,
-    tomTat: `**Kình Dương Mệnh + Tuần / Triệt / cát tinh:** giảm bớt phần hung.`,
+    tomTat: `Kình Dương cư Mệnh gặp Tuần, Triệt hoặc các cát tinh Tả Phù,
+Hữu Bật, Văn Xương, Văn Khúc, Thiên Khôi, Thiên Việt sẽ giảm bớt phần hung
+của sao này.`,
   },
 
   // ============================================================
@@ -162,7 +175,8 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     sao: ['Kình Dương'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Kình Dương cư Mệnh:** tính **liều lĩnh, hấp tấp** thường gây tai họa.`,
+    tomTat: `Đương số có Kình Dương cư Mệnh thường liều lĩnh, hấp tấp — đây
+chính là gốc của những tai họa lặp đi lặp lại trong đời.`,
   },
 
   {
@@ -172,7 +186,8 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     cung: ['Mệnh'],
     chi: ['Ngọ'],
     doUuTien: 82,
-    tomTat: `**Kình Dương Mệnh tại Ngọ:** đặc biệt nguy hiểm — dễ **chết yểu, tai nạn bất ngờ, tàn tật**.`,
+    tomTat: `Khi Kình Dương cư Mệnh tại Ngọ, hung tính đặc biệt nguy hiểm —
+đương số dễ chết yểu, gặp tai nạn bất ngờ hoặc tàn tật.`,
   },
 
   {
@@ -182,7 +197,8 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     cung: ['Mệnh'],
     chi: ['Mão', 'Dậu'],
     doUuTien: 82,
-    tomTat: `**Kình Dương Mệnh tại Mão / Dậu:** có khả năng **phá sản, lao khổ**.`,
+    tomTat: `Khi Kình Dương cư Mệnh tại Mão hoặc Dậu, đương số có khả năng
+phá sản và sống cuộc đời lao khổ.`,
   },
 
   // ============================================================
@@ -193,12 +209,12 @@ là cách **"Hung Tinh độc thủ"** — tính chất hung tinh phát huy mạ
     title: 'Kình Dương + Linh/Hỏa Tinh - Thân thể dị tật',
     sao: ['Kình Dương', 'Linh Tinh', 'Hỏa Tinh'],
     doUuTien: 60,
-    tomTat: `**Kình Dương + Linh Tinh + Hỏa Tinh:** đương số phải chịu cảnh
-**thương tật, hình khắc thân thể**.
+    tomTat: `Khi Kình Dương đứng cùng Linh Tinh và Hỏa Tinh, đương số phải
+chịu cảnh thương tật, hình khắc thân thể.
 
-Chấn thương thường đến từ **dao kéo, điện lửa, súng đạn, tai nạn bất ngờ**.
-
-Cuộc đời **nghèo khó, vất vả**, ít nhận được sự giúp đỡ.`,
+Chấn thương thường đến từ dao kéo, điện lửa, súng đạn hay những tai nạn
+bất ngờ. Cuộc đời nghèo khó, vất vả và ít nhận được sự giúp đỡ từ người
+khác.`,
   },
 
   // ============================================================
@@ -209,11 +225,12 @@ Cuộc đời **nghèo khó, vất vả**, ít nhận được sự giúp đỡ.
     title: 'Kình Dương + Không Kiếp/Phục Binh - Côn đồ đạo tặc',
     sao: ['Kình Dương', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 60,
-    tomTat: `**Kình Dương + Địa Không + Địa Kiếp + Phục Binh:** dễ bị lôi kéo
-vào **thị phi, va chạm**, hoặc sa chân vào con đường **côn đồ, đạo tặc**.
+    tomTat: `Kình Dương đi cùng Địa Không, Địa Kiếp và Phục Binh khiến đương
+số dễ bị lôi kéo vào thị phi, va chạm — hoặc sa chân vào con đường côn
+đồ, đạo tặc.
 
-Thường hành **nghề sát sinh**, có trường hợp vì nông nổi mà **vướng vào vòng
-lao lý**.`,
+Đương số thường hành nghề sát sinh; có trường hợp vì nông nổi mà vướng
+vào vòng lao lý.`,
   },
 
   // ============================================================
@@ -224,9 +241,9 @@ lao lý**.`,
     title: 'Kình Dương + Thiên Hình/Riêu/Kiếp Sát - Sát chồng/vợ',
     sao: ['Kình Dương', 'Thiên Hình', 'Thiên Riêu'],
     doUuTien: 60,
-    tomTat: `**Kình Dương + Thiên Hình + Thiên Riêu + Kiếp Sát:** đời sống hôn nhân **trắc trở**.
-
-Đương số và bạn đời khó tìm tiếng nói chung, thường xuyên **cãi vã, xung đột**: dễ dẫn đến **ly hôn**.`,
+    tomTat: `Kình Dương đi cùng Thiên Hình, Thiên Riêu và Kiếp Sát khiến đời
+sống hôn nhân của đương số trắc trở. Hai vợ chồng khó tìm được tiếng nói
+chung, thường xuyên cãi vã và xung đột — dễ dẫn đến ly hôn.`,
   },
 
   {
@@ -235,7 +252,8 @@ lao lý**.`,
     sao: ['Kình Dương', 'Thiên Hình', 'Thiên Riêu'],
     gioiTinh: 'Nữ',
     doUuTien: 62,
-    tomTat: `**Kình Dương + Hình Riêu + Kiếp Sát (Nữ mệnh):** **SÁT CHỒNG**.`,
+    tomTat: `Nữ mệnh có Kình Dương đi cùng Thiên Hình, Thiên Riêu và Kiếp
+Sát mang số sát chồng.`,
   },
 
   {
@@ -244,7 +262,8 @@ lao lý**.`,
     sao: ['Kình Dương', 'Thiên Hình', 'Thiên Riêu'],
     gioiTinh: 'Nam',
     doUuTien: 62,
-    tomTat: `**Kình Dương + Hình Riêu + Kiếp Sát (Nam mệnh):** **SÁT VỢ**.`,
+    tomTat: `Nam mệnh có Kình Dương đi cùng Thiên Hình, Thiên Riêu và Kiếp
+Sát mang số sát vợ.`,
   },
 
   // ============================================================
@@ -255,12 +274,13 @@ lao lý**.`,
     title: 'Kình Dương + Thái Tuế/Điếu Khách - Xa cách cha mẹ',
     sao: ['Kình Dương', 'Thái Tuế', 'Điếu Khách'],
     doUuTien: 55,
-    tomTat: `**Kình Dương + Thái Tuế + Điếu Khách:** thường **xa cách song thân**.
+    tomTat: `Kình Dương đi cùng Thái Tuế và Điếu Khách khiến đương số xa
+cách song thân:
 
-- Có người vì **cha mẹ mất sớm**
-- Có người phải **tha hương cầu thực**, bôn ba khắp chốn
+- Có người vì cha mẹ mất sớm
+- Có người phải tha hương cầu thực, bôn ba khắp chốn
 
-Tình cảm gia đình dễ **sứt mẻ, lạnh nhạt**.`,
+Tình cảm gia đình vì thế dễ sứt mẻ, lạnh nhạt.`,
   },
 
   // ============================================================
@@ -272,7 +292,8 @@ Tình cảm gia đình dễ **sứt mẻ, lạnh nhạt**.`,
     sao: ['Kình Dương', 'Thiên Hình'],
     chi: ['Ngọ'],
     doUuTien: 65,
-    tomTat: `**Kình Dương + Thiên Hình tại Ngọ:** cách **CỰC HUNG** — **bị tù**.`,
+    tomTat: `Kình Dương đi cùng Thiên Hình tại Ngọ là cách cực hung — đương
+số bị tù.`,
   },
 
   {
@@ -282,7 +303,9 @@ Tình cảm gia đình dễ **sứt mẻ, lạnh nhạt**.`,
     chi: ['Ngọ'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 60,
-    tomTat: `**Kình Dương + Thiên Hình tại Ngọ + Lục Sát:** có thể **CHẾT** trong thời gian này.`,
+    tomTat: `Kình Dương đi cùng Thiên Hình tại Ngọ kèm thêm bộ Lục Sát (Kình
+Dương, Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp) là cách rất xấu —
+đương số có thể chết trong thời gian này.`,
   },
 
   // ============================================================
@@ -293,10 +316,9 @@ Tình cảm gia đình dễ **sứt mẻ, lạnh nhạt**.`,
     title: 'Kình Dương + Vũ Khúc + Phá Quân - Bị hại vì tiền',
     sao: ['Kình Dương', 'Vũ Khúc', 'Phá Quân'],
     doUuTien: 55,
-    tomTat: `**Kình Dương + Vũ Khúc + Phá Quân:** **bị khốn hại vì tiền**.
-
-Tài lộc tan tác, vướng vào tranh chấp tiền bạc, có thể bị lừa lọc hoặc liên
-lụy về tài chính.`,
+    tomTat: `Kình Dương đi cùng Vũ Khúc và Phá Quân khiến đương số bị khốn
+hại vì tiền: tài lộc tan tác, vướng vào tranh chấp tiền bạc; có thể bị
+lừa lọc hoặc liên lụy về tài chính.`,
   },
 
   // ============================================================
@@ -307,14 +329,16 @@ lụy về tài chính.`,
     title: 'Kình Dương - Lời khuyên hóa giải',
     sao: ['Kình Dương'],
     doUuTien: 40,
-    tomTat: `**Chìa khóa hóa giải Kình Dương: KIÊN NHẪN và NHÚN NHƯỜNG.**
+    tomTat: `Chìa khóa hóa giải Kình Dương nằm ở hai chữ kiên nhẫn và nhún
+nhường:
 
-- Rèn **tính kiên nhẫn**, tránh **cố chấp / hiếu thắng quá mức**
-- Khi gặp rắc rối, giữ **thái độ ôn hòa**, xử lý bằng **lý trí**
-- Chọn **nghề phù hợp:** võ nghiệp, quân đội, công an, kỹ thuật, **phẫu thuật**
-  - biến "dao" thành công cụ tạo thành tựu
-- Chú ý **an toàn đi lại**, tránh **va chạm dao kéo, xe cộ, điện lửa**
-- Tham gia **thể thao, rèn luyện thân thể**: giải tỏa nóng nảy, giảm thương tật`,
+- Rèn tính kiên nhẫn, tránh cố chấp hay hiếu thắng quá mức
+- Khi gặp rắc rối, giữ thái độ ôn hòa và xử lý bằng lý trí
+- Chọn nghề phù hợp như võ nghiệp, quân đội, công an, kỹ thuật, phẫu
+  thuật — biến "dao" thành công cụ tạo thành tựu
+- Chú ý an toàn đi lại, tránh va chạm dao kéo, xe cộ, điện lửa
+- Tham gia thể thao và rèn luyện thân thể để giải tỏa nóng nảy, đồng thời
+  giảm nguy cơ thương tật`,
   },
 
   // ============================================================
@@ -326,7 +350,8 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Phụ Mẫu'],
     doUuTien: 78,
-    tomTat: `**Kình Dương tại Phụ Mẫu:** ảnh hưởng đến quan hệ với cha mẹ.`,
+    tomTat: `Kình Dương tại Phụ Mẫu ảnh hưởng đến quan hệ giữa đương số với
+cha mẹ.`,
   },
 
   {
@@ -336,7 +361,10 @@ lụy về tài chính.`,
     cung: ['Phụ Mẫu'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `**Kình Dương HÃM Phụ Mẫu:** cha mẹ **nóng nảy, dễ xung đột**, có thể **ly tán** hoặc **một người đoản mệnh**. Vướng nghề **sát sinh, lao động nặng nhọc**. Con cái thiệt thòi tình cảm, **phải sớm tự lập**.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Phụ Mẫu, cha mẹ đương số nóng nảy
+và dễ xung đột với nhau, có thể ly tán hoặc một người đoản mệnh. Bố mẹ
+thường vướng nghề sát sinh hoặc lao động nặng nhọc. Đương số thiệt thòi
+tình cảm và phải sớm tự lập.`,
   },
 
   {
@@ -346,7 +374,10 @@ lụy về tài chính.`,
     cung: ['Phụ Mẫu'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `**Kình Dương ĐẮC Phụ Mẫu:** cha mẹ **chính trực, có uy quyền** — theo nghề **quân đội, công an, võ nghiệp**, hoặc **dao kéo cứu người**. Nhà có **nề nếp, gia phong rõ ràng**, nhờ vậy con cái trưởng thành sớm.`,
+    tomTat: `Khi Kình Dương **Đắc** địa tại Phụ Mẫu, cha mẹ đương số chính
+trực và có uy quyền — thường theo nghề quân đội, công an, võ nghiệp hoặc
+"dao kéo cứu người". Nhà có nề nếp gia phong rõ ràng, nhờ đó con cái
+trưởng thành sớm.`,
   },
 
   // ============================================================
@@ -358,7 +389,8 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Kình Dương tại Phúc Đức:** ảnh hưởng đến phúc đức dòng họ.`,
+    tomTat: `Kình Dương tại Phúc Đức ảnh hưởng đến phúc đức dòng họ của
+đương số.`,
   },
 
   {
@@ -368,7 +400,9 @@ lụy về tài chính.`,
     cung: ['Phúc Đức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Kình Dương HÃM Phúc Đức:** họ hàng **ly tán**, thiếu gắn kết. Trong gia tộc có người **yểu mệnh, tàn tật, tai nạn**. Mồ mả tổ tiên **xuống cấp, nứt vỡ**: cần sửa sang.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Phúc Đức, họ hàng đương số ly tán và
+thiếu gắn kết. Trong gia tộc có người yểu mệnh, tàn tật hoặc gặp tai nạn.
+Mồ mả tổ tiên xuống cấp, nứt vỡ — cần sửa sang.`,
   },
 
   {
@@ -378,7 +412,10 @@ lụy về tài chính.`,
     cung: ['Phúc Đức'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `**Kình Dương ĐẮC Phúc Đức:** gia tộc **uy nghi**, mồ mả tổ tiên khang trang, đặt nơi **long mạch, gần miếu đình, tượng đá**. Người trong họ **cứng cỏi, hiên ngang, có uy tín** — danh giá gia tộc được giữ vững.`,
+    tomTat: `Khi Kình Dương **Đắc** địa tại Phúc Đức, gia tộc đương số uy
+nghi; mồ mả tổ tiên khang trang, đặt nơi long mạch, gần miếu đình hay
+tượng đá. Người trong họ cứng cỏi, hiên ngang và có uy tín — danh giá
+gia tộc được giữ vững.`,
   },
 
   // ============================================================
@@ -390,7 +427,8 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Kình Dương tại Điền Trạch:** ảnh hưởng đến nhà cửa, đất đai.`,
+    tomTat: `Kình Dương tại Điền Trạch ảnh hưởng đến nhà cửa và đất đai của
+đương số.`,
   },
 
   {
@@ -400,7 +438,10 @@ lụy về tài chính.`,
     cung: ['Điền Trạch'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Kình Dương HÃM Điền Trạch:** phải **sửa sang tu bổ nhà cửa** thường xuyên. Đất **méo mó không cân đối**, dễ mua nhầm chỗ có **cốt, mồ mả** hoặc **phạm phong thủy**. Thành viên nóng tính, hay cãi vã.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Điền Trạch, đương số phải sửa sang
+tu bổ nhà cửa thường xuyên. Đất méo mó, không cân đối; dễ mua nhầm chỗ
+có cốt, mồ mả hoặc phạm phong thủy. Thành viên trong nhà nóng tính, hay
+cãi vã.`,
   },
 
   {
@@ -410,7 +451,10 @@ lụy về tài chính.`,
     cung: ['Điền Trạch'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `**Kình Dương ĐẮC Điền Trạch:** nhà cửa **khang trang, bền vững** dù đôi lần thay đổi mới ổn định. Gia trạch gần **đền chùa, nghĩa trang, tượng voi quỳ** nhưng nhờ phúc phần nên ít bị ảnh hưởng xấu. Gia đình **kỷ luật, nề nếp**.`,
+    tomTat: `Khi Kình Dương **Đắc** địa tại Điền Trạch, nhà cửa đương số
+khang trang, bền vững dù phải đôi lần thay đổi mới ổn định. Gia trạch
+thường gần đền chùa, nghĩa trang hay tượng voi quỳ — nhưng nhờ phúc phần
+nên ít bị ảnh hưởng xấu. Gia đình kỷ luật và nề nếp.`,
   },
 
   // ============================================================
@@ -422,7 +466,8 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Quan Lộc'],
     doUuTien: 80,
-    tomTat: `**Kình Dương tại Quan Lộc:** ảnh hưởng đến công danh sự nghiệp.`,
+    tomTat: `Kình Dương tại Quan Lộc ảnh hưởng đến công danh và sự nghiệp
+của đương số.`,
   },
 
   {
@@ -432,7 +477,10 @@ lụy về tài chính.`,
     cung: ['Quan Lộc'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `**Kình Dương HÃM Quan Lộc:** công danh bị cản trở — như **"voi quỳ chặn cửa công môn"**, nỗ lực nhiều mà thành quả không tương xứng. Phải **thay đổi nghề liên tục**, ít khi đạt vị trí cao.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Quan Lộc, công danh của đương số bị
+cản trở — tựa như "voi quỳ chặn cửa công môn", nỗ lực nhiều mà thành quả
+không tương xứng. Đương số phải thay đổi nghề liên tục và ít khi đạt vị
+trí cao.`,
   },
 
   {
@@ -442,7 +490,8 @@ lụy về tài chính.`,
     cung: ['Quan Lộc'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `**Kình Dương ĐẮC Quan Lộc:** theo **võ nghiệp, quân đội, công an** hoặc nghề cần **sức mạnh, kỷ luật**.`,
+    tomTat: `Khi Kình Dương **Đắc** địa tại Quan Lộc, đương số phù hợp theo
+võ nghiệp, quân đội, công an hoặc nghề cần sức mạnh và kỷ luật.`,
   },
 
   {
@@ -452,7 +501,8 @@ lụy về tài chính.`,
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Mã'],
     doUuTien: 75,
-    tomTat: `**Kình Dương Quan Lộc + Thiên Mã:** **võ tướng giữ trọng trách lớn nơi biên cương**.`,
+    tomTat: `Kình Dương tại Quan Lộc có Thiên Mã đi cùng giúp đương số trở
+thành võ tướng giữ trọng trách lớn nơi biên cương.`,
   },
 
   {
@@ -462,7 +512,8 @@ lụy về tài chính.`,
     cung: ['Quan Lộc'],
     ketHop: ['Tử Vi', 'Thiên Phủ'],
     doUuTien: 75,
-    tomTat: `**Kình Dương Quan Lộc + Tử Vi / Thiên Phủ:** chuyển hướng **kinh doanh, buôn bán phát đạt**.`,
+    tomTat: `Kình Dương tại Quan Lộc gặp Tử Vi hoặc Thiên Phủ giúp đương số
+chuyển hướng sang kinh doanh, buôn bán phát đạt.`,
   },
 
   // ============================================================
@@ -474,7 +525,8 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Kình Dương tại Nô Bộc:** ảnh hưởng đến quan hệ bạn bè, đồng nghiệp.`,
+    tomTat: `Kình Dương tại Nô Bộc ảnh hưởng đến quan hệ của đương số với
+bạn bè và đồng nghiệp.`,
   },
 
   {
@@ -484,7 +536,8 @@ lụy về tài chính.`,
     cung: ['Nô Bộc'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Kình Dương HÃM Nô Bộc:** bạn bè đồng nghiệp **bướng bỉnh**, thường **xung đột, ẩu đả**.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Nô Bộc, bạn bè và đồng nghiệp của
+đương số bướng bỉnh, thường xung đột và ẩu đả với nhau.`,
   },
 
   {
@@ -494,7 +547,9 @@ lụy về tài chính.`,
     cung: ['Nô Bộc'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Thiên Riêu'],
     doUuTien: 73,
-    tomTat: `**Kình Dương Nô Bộc + Không Kiếp / Thiên Riêu:** dễ **bị phản bội, hãm hại** — "nuôi ong tay áo, nuôi cáo trong nhà".`,
+    tomTat: `Kình Dương tại Nô Bộc gặp Địa Không, Địa Kiếp hoặc Thiên Riêu
+khiến đương số dễ bị phản bội, hãm hại — đúng cảnh "nuôi ong tay áo, nuôi
+cáo trong nhà".`,
   },
 
   {
@@ -504,7 +559,10 @@ lụy về tài chính.`,
     cung: ['Nô Bộc'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `**Kình Dương ĐẮC Nô Bộc:** bạn bè đồng nghiệp xuất thân **quân đội, công an**, nghề liên quan **sức mạnh, kỷ luật, võ nghiệp** — **thẳng thắn, nghĩa khí**, sẵn sàng giúp đỡ.`,
+    tomTat: `Khi Kình Dương **Đắc** địa tại Nô Bộc, bạn bè và đồng nghiệp
+của đương số phần nhiều xuất thân từ quân đội, công an hoặc nghề liên
+quan đến sức mạnh, kỷ luật, võ nghiệp. Họ thẳng thắn, nghĩa khí, sẵn sàng
+giúp đỡ khi cần.`,
   },
 
   // ============================================================
@@ -516,7 +574,8 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Thiên Di'],
     doUuTien: 78,
-    tomTat: `**Kình Dương tại Thiên Di:** ảnh hưởng đến đi xa, ra ngoài.`,
+    tomTat: `Kình Dương tại Thiên Di ảnh hưởng đến chuyện đi xa và ra ngoài
+của đương số.`,
   },
 
   {
@@ -526,7 +585,10 @@ lụy về tài chính.`,
     cung: ['Thiên Di'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `**Kình Dương HÃM Thiên Di:** ra ngoài dễ vướng **cãi vã, thị phi, kiện tụng**. Nguy cơ **tai nạn xe cộ, súng đạn, điện lửa, ẩu đả**. Công việc nặng nhọc nhưng thành quả không như mong muốn.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Thiên Di, đương số ra ngoài dễ vướng
+cãi vã, thị phi và kiện tụng. Nguy cơ tai nạn xe cộ, súng đạn, điện lửa
+hay ẩu đả luôn rình rập. Công việc nặng nhọc nhưng thành quả không như
+mong muốn.`,
   },
 
   {
@@ -537,7 +599,9 @@ lụy về tài chính.`,
     trangThai: ['Hãm'],
     ketHop: ['Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
     doUuTien: 75,
-    tomTat: `**Kình Dương HÃM Thiên Di + nhiều hung tinh:** dễ bị **lừa, phản bội**.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Thiên Di gặp thêm nhiều hung tinh
+như Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp hay Hóa Kỵ, đương số
+dễ bị lừa và bị phản bội.`,
   },
 
   {
@@ -547,7 +611,9 @@ lụy về tài chính.`,
     cung: ['Thiên Di'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 80,
-    tomTat: `**Kình Dương ĐẮC Thiên Di:** thể hiện **bản lĩnh khi ra ngoài** — có **uy tín, được trọng vọng**, **quý nhân phù trợ**. Buôn bán dễ phát tài khi hợp tác cùng chí hướng.`,
+    tomTat: `Khi Kình Dương **Đắc** địa tại Thiên Di, đương số thể hiện được
+bản lĩnh khi ra ngoài — có uy tín, được trọng vọng và gặp quý nhân phù
+trợ. Buôn bán dễ phát tài khi hợp tác cùng người chí hướng.`,
   },
 
   // ============================================================
@@ -559,7 +625,7 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Kình Dương tại Tật Ách:** ảnh hưởng đến sức khỏe.`,
+    tomTat: `Kình Dương tại Tật Ách ảnh hưởng đến sức khỏe của đương số.`,
   },
 
   {
@@ -569,7 +635,9 @@ lụy về tài chính.`,
     cung: ['Tật Ách'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `**Kình Dương HÃM Tật Ách:** sức khỏe **suy yếu**, dễ mắc **bệnh nặng khó chữa** hoặc tai nạn **dao kéo, máy móc, súng đạn, điện lửa**.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Tật Ách, sức khỏe của đương số suy
+yếu; dễ mắc bệnh nặng khó chữa hoặc gặp tai nạn từ dao kéo, máy móc, súng
+đạn, điện lửa.`,
   },
 
   {
@@ -580,7 +648,10 @@ lụy về tài chính.`,
     trangThai: ['Hãm'],
     ketHop: ['Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
     doUuTien: 75,
-    tomTat: `**Kình Dương HÃM Tật Ách + sát bại tinh:** **bệnh hiểm nghèo, phẫu thuật nhiều lần**, dễ vướng **kiện tụng, hình tù** vì tai họa thân thể.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Tật Ách gặp thêm sát bại tinh như
+Đà La, Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp hay Hóa Kỵ, đương số mắc
+bệnh hiểm nghèo phải phẫu thuật nhiều lần; dễ vướng kiện tụng, hình tù do
+tai họa thân thể.`,
   },
 
   {
@@ -590,7 +661,10 @@ lụy về tài chính.`,
     cung: ['Tật Ách'],
     ketHop: ['Thiên Lương', 'Thiên Y', 'Ân Quang', 'Thiên Quý', 'Bác Sĩ'],
     doUuTien: 75,
-    tomTat: `**Kình Dương Tật Ách + Thiên Lương / Thiên Y / Quang Quý / Bác Sĩ:** **chuyển nguy thành an** — sức khỏe **dẻo dai, hồi phục nhanh**. Có thể làm **bác sĩ ngoại khoa, châm cứu**, nghề y học cứu người.`,
+    tomTat: `Kình Dương tại Tật Ách gặp Thiên Lương, Thiên Y, Ân Quang,
+Thiên Quý hoặc Bác Sĩ giúp đương số chuyển nguy thành an — sức khỏe dẻo
+dai, hồi phục nhanh. Đương số có thể làm bác sĩ ngoại khoa, châm cứu hay
+nghề y học cứu người.`,
   },
 
   // ============================================================
@@ -602,7 +676,7 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `**Kình Dương tại Tài Bạch:** ảnh hưởng đến tài lộc.`,
+    tomTat: `Kình Dương tại Tài Bạch ảnh hưởng đến tài lộc của đương số.`,
   },
 
   {
@@ -613,7 +687,10 @@ lụy về tài chính.`,
     trangThai: ['Hãm'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Kiếp Sát'],
     doUuTien: 78,
-    tomTat: `**Kình Dương HÃM Tài Bạch + Không Kiếp / Kiếp Sát:** tài vận bất ổn, dễ **mất mát, phá tán** do **đầu tư sai lầm hoặc bị lừa gạt**. Lao động chân tay nặng nhọc, vất vả mà **tiền bạc khó giữ**.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Tài Bạch gặp Địa Không, Địa Kiếp hay
+Kiếp Sát, tài vận của đương số bất ổn — dễ mất mát, phá tán do đầu tư sai
+lầm hoặc bị lừa gạt. Đương số lao động chân tay nặng nhọc, vất vả mà tiền
+bạc khó giữ.`,
   },
 
   {
@@ -623,7 +700,10 @@ lụy về tài chính.`,
     cung: ['Tài Bạch'],
     ketHop: ['Tử Vi', 'Thiên Phủ', 'Lộc Tồn', 'Hóa Lộc'],
     doUuTien: 75,
-    tomTat: `**Kình Dương Tài Bạch + Tử Vi / Thiên Phủ / Lộc Tồn / Hóa Lộc:** trở thành **người buôn bán lớn, kinh doanh mạnh tay**. Kiếm tiền từ ngành **kim loại, cơ khí, giải phẫu, dao kéo** — duyên phát tài đến trong biến động.`,
+    tomTat: `Kình Dương tại Tài Bạch gặp Tử Vi, Thiên Phủ, Lộc Tồn hoặc Hóa
+Lộc giúp đương số trở thành người buôn bán lớn, kinh doanh mạnh tay. Tiền
+bạc đến từ ngành kim loại, cơ khí, giải phẫu, dao kéo — duyên phát tài
+thường đến trong biến động.`,
   },
 
   // ============================================================
@@ -635,7 +715,8 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Kình Dương tại Tử Tức:** ảnh hưởng đến con cái.`,
+    tomTat: `Kình Dương tại Tử Tức ảnh hưởng đến đường con cái của đương
+số.`,
   },
 
   {
@@ -645,7 +726,9 @@ lụy về tài chính.`,
     cung: ['Tử Tức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Kình Dương HÃM Tử Tức:** con cái **bướng bỉnh quá mức**, hay cãi cha mẹ, **sức khỏe kém**, **duyên phận mỏng** — sinh nhiều nuôi ít. Con lớn **xa cách**, không phụng dưỡng.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Tử Tức, con cái đương số bướng bỉnh
+quá mức, hay cãi cha mẹ; sức khỏe kém, duyên phận mỏng — sinh nhiều nuôi
+ít. Con khi lớn xa cách, không phụng dưỡng cha mẹ.`,
   },
 
   {
@@ -655,7 +738,9 @@ lụy về tài chính.`,
     cung: ['Tử Tức'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `**Kình Dương ĐẮC Tử Tức:** con cái **chí tiến thủ, sớm tự lập, thông minh, bản lĩnh**: cha mẹ tự hào. Tuy đôi khi bướng bỉnh "cứng đầu khó dạy", nhưng **càng lớn càng hiếu nghĩa**.`,
+    tomTat: `Khi Kình Dương **Đắc** địa tại Tử Tức, con cái đương số có chí
+tiến thủ, sớm tự lập, thông minh và bản lĩnh — cha mẹ tự hào. Tuy đôi khi
+"cứng đầu khó dạy", nhưng càng lớn càng hiếu nghĩa.`,
   },
 
   // ============================================================
@@ -667,7 +752,7 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Phu Thê'],
     doUuTien: 80,
-    tomTat: `**Kình Dương tại Phu Thê:** ảnh hưởng đến hôn nhân.`,
+    tomTat: `Kình Dương tại Phu Thê ảnh hưởng đến hôn nhân của đương số.`,
   },
 
   {
@@ -677,7 +762,10 @@ lụy về tài chính.`,
     cung: ['Phu Thê'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `**Kình Dương HÃM Phu Thê:** hôn nhân **trắc trở**, vợ chồng xung đột: **ly thân, ly hôn, tái giá**. Bạn đời mắc **bệnh, thương tích, kiện tụng**. Tình cảm dễ "đồng sàng dị mộng".`,
+    tomTat: `Khi Kình Dương **Hãm** tại Phu Thê, hôn nhân của đương số trắc
+trở; vợ chồng xung đột dẫn đến ly thân, ly hôn hoặc tái giá. Bạn đời mắc
+bệnh, thương tích hay vướng kiện tụng. Tình cảm dễ rơi vào cảnh "đồng
+sàng dị mộng".`,
   },
 
   {
@@ -688,7 +776,10 @@ lụy về tài chính.`,
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     ketHop: ['Tử Vi', 'Thiên Phủ', 'Lộc Tồn'],
     doUuTien: 78,
-    tomTat: `**Kình Dương ĐẮC Phu Thê + Tử Vi / Thiên Phủ / Lộc Tồn:** bạn đời **mạnh mẽ, quả cảm, sự nghiệp thành công**. Vợ chồng ban đầu khắc khẩu nhưng **càng về sau càng nhường nhịn, hỗ trợ nhau**: hôn nhân bền lâu, con cái hưởng phúc.`,
+    tomTat: `Khi Kình Dương **Đắc** địa tại Phu Thê có Tử Vi, Thiên Phủ hoặc
+Lộc Tồn đi cùng, bạn đời của đương số mạnh mẽ, quả cảm và sự nghiệp thành
+công. Hai vợ chồng ban đầu khắc khẩu nhưng càng về sau càng nhường nhịn,
+hỗ trợ nhau — hôn nhân bền lâu, con cái hưởng phúc.`,
   },
 
   // ============================================================
@@ -700,7 +791,8 @@ lụy về tài chính.`,
     sao: ['Kình Dương'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Kình Dương tại Huynh Đệ:** ảnh hưởng đến anh chị em.`,
+    tomTat: `Kình Dương tại Huynh Đệ ảnh hưởng đến quan hệ của đương số với
+anh chị em.`,
   },
 
   {
@@ -710,7 +802,10 @@ lụy về tài chính.`,
     cung: ['Huynh Đệ'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Kình Dương HÃM Huynh Đệ:** anh chị em **lận đận**, có người **bệnh tật, tai nạn, yểu mệnh**. Quan hệ **xung đột, bất hòa**, "mạnh ai nấy sống". Thậm chí có người trở thành **gánh nặng**, làm khổ lụy nhau.`,
+    tomTat: `Khi Kình Dương **Hãm** tại Huynh Đệ, anh chị em đương số lận
+đận; có người bệnh tật, tai nạn hoặc yểu mệnh. Quan hệ xung đột, bất hòa,
+"mạnh ai nấy sống". Thậm chí có người trở thành gánh nặng, làm khổ lụy
+nhau.`,
   },
 
   {
@@ -720,6 +815,8 @@ lụy về tài chính.`,
     cung: ['Huynh Đệ'],
     trangThai: ['Đắc', 'Vượng', 'Miếu'],
     doUuTien: 78,
-    tomTat: `**Kình Dương ĐẮC Huynh Đệ:** anh chị em **mạnh mẽ, cương nghị**. Tuy khắc khẩu nhưng **trong lòng thương nhau**, sẵn sàng hỗ trợ khi khó khăn. Mỗi người có sự nghiệp riêng.`,
+    tomTat: `Khi Kình Dương **Đắc** địa tại Huynh Đệ, anh chị em đương số
+mạnh mẽ, cương nghị. Tuy khắc khẩu nhưng trong lòng vẫn thương nhau, sẵn
+sàng hỗ trợ khi khó khăn. Mỗi người có sự nghiệp riêng.`,
   },
 ];

@@ -21,25 +21,20 @@ export const luanGiai_ThienQuan: DoanLuanGiai[] = [
     title: 'Thiên Quan - Đặc tính chung',
     sao: ['Thiên Quan'],
     doUuTien: 32,
-    tomTat: `**Thiên Quan** — phụ tinh **PHÚC TINH + THIỆN TINH**, tên gọi đầy đủ:
-**"THIÊN QUAN QUÝ NHÂN"**.
+    tomTat: `**Thiên Quan** — phụ tinh thuộc nhóm Phúc tinh và Thiện tinh, tên
+gọi đầy đủ là "Thiên Quan Quý Nhân", ngũ hành Hỏa, an theo hàng Can của tuổi.
 
-**Ngũ hành:** **Hỏa**.
+Về tính cách, Thiên Quan mang khí chất ôn hòa, hòa nhã, thiên về sự yên bình
+và ở ẩn. Đương số có sao này thường không muốn bon chen cạnh tranh, vì vậy
+cũng ít có kẻ thù hay người ghen ghét.
 
-**Đặc tính riêng:**
-- Tính cách **ÔN HÒA, HÒA NHÃ**
-- Thích **YÊN BÌNH, Ở ẨN**, không muốn bon chen, cạnh tranh
-- Ít có kẻ thủ, người ghen ghét
+Vai trò chính của Thiên Quan là cứu khốn phò nguy, gia tăng phúc thọ; giải
+trừ bệnh tật, tai họa, hung nguy. Sao này đi cùng ác sát tinh không có hại,
+cư cung nào cũng chế khắc giải trừ tai nạn, hội với sao nào cũng tốt.
 
-**Vai trò:**
-- **CỨU KHỐN PHÒ NGUY**, gia tăng phúc thọ
-- **GIẢI TRỪ BỆNH TẬT, TAI HỌA, HUNG NGUY**
-- Đi với ác sát tinh **KHÔNG CÓ HẠI**
-- Cư cung nào cũng **CHẾ KHẮC, GIẢI TRỪ** tai nạn họa hại
-- Hội với sao nào cũng **TỐT**
-
-**Khác Thiên Phúc:** Thiên Phúc thiên về **TỪ THIỆN, ĐI GIÚP ĐỠ**, mong
-đem hạnh phúc đến mọi người — Thiên Quan thiên về **AN ẨN**, hòa nhã.`,
+So với Thiên Phúc (thiên về từ thiện, đi giúp đỡ, mong đem hạnh phúc đến mọi
+người), Thiên Quan thiên về an ẩn, hòa nhã — giữ mình hơn là chủ động ra
+giúp người.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -51,63 +46,54 @@ export const luanGiai_ThienQuan: DoanLuanGiai[] = [
     title: 'Bộ Quan Phúc - Đặc tính chung',
     sao: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 60,
-    tomTat: `**Bộ Quan Phúc** (Thiên Quan + Thiên Phúc) — **CẶP QUÝ NHÂN PHÚC THIỆN
-TINH** quan trọng:
-- **THIÊN QUAN QUÝ NHÂN** + **THIÊN PHÚC QUÝ NHÂN**
-- An theo **HÀNG CAN** của tuổi
+    tomTat: `Bộ **Quan Phúc** gồm **Thiên Quan Quý Nhân** và **Thiên Phúc Quý
+Nhân** — cặp quý nhân phúc thiện tinh quan trọng, đều an theo hàng Can của
+tuổi.
 
-**Đặc tính chung:**
-- **Phúc tinh, Thiện tinh** — chủ về cứu khốn phò nguy, gia tăng phúc thọ
-- **GIẢI TRỪ BỆNH TẬT, TAI HỌA, HUNG NGUY**
-- Đi với ác sát tinh **KHÔNG CÓ HẠI**
-- Cư cung nào cũng **CHẾ KHẮC giải trừ** tai nạn
-- Hội với sao nào cũng **TỐT cả**
+Đặc tính chung của bộ này là phúc tinh kiêm thiện tinh, chủ về cứu khốn phò
+nguy, gia tăng phúc thọ; giải trừ bệnh tật, tai họa, hung nguy. Đi với ác
+sát tinh cũng không có hại, cư cung nào cũng chế khắc giải trừ tai nạn, hội
+với sao nào cũng tốt cả.
 
-**Yếu tố THIÊN do TRỜI SẮP ĐẶT:**
-- Phúc đức không tự dưng mà có — là **NHÂN QUẢ** từ tổ tiên + tiền kiếp
-- Đến kiếp này được thừa hưởng: **"QUẢ ĐÃ CHÍN"**
-- Con người KHÓ NẮM GIỮ, KIỂM SOÁT — chỉ đến do **TU TẬP, LÀM PHÚC** từ
-  nhiều kiếp
+Quan Phúc là yếu tố thiên do trời sắp đặt — phúc đức không tự dưng mà có, mà
+là nhân quả từ tổ tiên cùng tiền kiếp tích tụ, đến kiếp này được thừa hưởng
+như "quả đã chín". Con người khó nắm giữ kiểm soát phần này; nó chỉ đến do
+tu tập, làm phúc qua nhiều kiếp.
 
-**Vị trí HỢP NHẤT:** Quan Phúc tọa thủ tại **Mệnh, Thân, Phúc, Thiên Di,
-Tật Ách** — đắc cách nhất.
+Vị trí hợp nhất của bộ này là Mệnh, cung an Thân, Phúc Đức, Thiên Di và Tật
+Ách — đắc cách nhất. Ý nghĩa giáo dục của Quan Phúc là hướng đương số tới tu
+tập, từ thiện, làm phúc — tiếp tục con đường tôn bồi phước đức; nếu chỉ
+dùng mà không gieo thêm "hạt giống tốt" thì mãi rồi cũng sẽ hết.`,
+    chiTiet: `## Bản chất Quan Phúc khác hẳn các sao Giải khác
 
-**Ý nghĩa giáo dục:** Hướng con người tới **TU TẬP, TỪ THIỆN, LÀM PHÚC**
-— tiếp tục con đường tôn bồi phước đức, nếu chỉ dùng mà không gieo thêm
-"hạt giống tốt" thì mãi rồi cũng sẽ hết.`,
-    chiTiet: `## Bộ Quan Phúc - Triết lý "Quả đã chín" và sự tiếp nối
+Trong tử vi có nhiều sao giải họa như Tứ Đức, Thiên Giải, Địa Giải, Giải
+Thần, Quang Quý, song Quan Phúc đặc biệt ở chỗ nguồn gốc giúp đỡ.
 
-### Bản chất Quan Phúc khác hẳn các sao Giải khác
+- Tả Phù, Hữu Bật là sự giúp đỡ của người đời.
+- **Ân Quang**, **Thiên Quý** là sự giúp đỡ của đấng linh thiêng trong hiện
+  tại.
+- Quan Phúc là sự giúp đỡ thiên ban từ tổ tiên và tiền kiếp.
 
-Trong tử vi có nhiều **SAO GIẢI** (Tứ Đức, Thiên Giải, Địa Giải, Giải Thần,
-Quang Quý...) nhưng **QUAN PHÚC** đặc biệt ở chỗ:
+## Sao "quả đã chín"
 
-- **Tả Hữu** = sự giúp đỡ của **NGƯỜI ĐỜI**
-- **Quang Quý** = sự giúp đỡ của **ĐẤNG LINH THIÊNG TRONG HIỆN TẠI**
-- **Quan Phúc** = sự giúp đỡ của **THIÊN BAN từ TỔ TIÊN + TIỀN KIẾP**
+Quan Phúc đại diện cho phước đức đã tích tụ từ nhiều kiếp. Tổ tiên hành
+thiện tích đức để lại cho con cháu; bản thân tiền kiếp đã tu tập nên kiếp
+này được hưởng quả.
 
-### Sao "Quả đã chín"
+## Vì sao phải tiếp tục tu tập
 
-Quan Phúc đại diện cho phước đức **ĐÃ TÍCH TỤ TỪ NHIỀU KIẾP**:
-- Tổ tiên đã hành thiện, tích đức: để lại cho con cháu
-- Bản thân tiền kiếp đã tu tập: kiếp này hưởng quả
+Nếu chỉ dùng mà không tiếp tục gieo thêm hạt giống tốt thì phước báo cũng
+có giới hạn — sẽ hết. Con cháu mất chỗ dựa âm đức, tự bản thân tiền kiếp sau
+cũng nghèo phước.
 
-### Vì sao phải tiếp tục tu tập
+Đây là điều khiến Quan Phúc vượt trội so với các sao giải khác: ngoài cứu
+giải hiện tại, còn nhắc nhở hành thiện cho tương lai.
 
-Nếu chỉ DÙNG mà không tiếp tục GIEO thêm hạt giống tốt thì:
-- Phước báo cũng có giới hạn — sẽ hết
-- Con cháu mất chỗ dựa âm đức
-- Tự bản thân tiền kiếp sau cũng nghèo phước
+## Mức độ giải họa phụ thuộc vào tu tập
 
-- Đây là điều khiến Quan Phúc **VƯỢT TRỘI** so với các sao Giải khác:
-ngoài CỨU GIẢI hiện tại, còn **NHẮC NHỞ HÀNH THIỆN cho tương lai**.
-
-### Mức độ giải họa phụ thuộc vào TU TẬP
-
-- Mệnh có Quan Phúc nhưng **KHÔNG TU**: giải họa hạn chế
-- Mệnh có Quan Phúc + **CHỊU KHÓ TU TẬP, LÀM PHÚC TỪ SỚM**: khả năng cứu
-  giải càng MẠNH, càng LỚN
-- Đây là sự khác biệt độc đáo của Quan Phúc — sao Giải có "điều kiện".`,
+Mệnh có Quan Phúc nhưng không tu thì giải họa hạn chế. Mệnh có Quan Phúc lại
+chịu khó tu tập, làm phúc từ sớm thì khả năng cứu giải càng mạnh, càng lớn.
+Đây là sự khác biệt độc đáo của Quan Phúc — sao giải có "điều kiện".`,
   },
 
   {
@@ -115,21 +101,18 @@ ngoài CỨU GIẢI hiện tại, còn **NHẮC NHỞ HÀNH THIỆN cho tương 
     title: 'Phân biệt Thiên Quan (ở ẩn) vs Thiên Phúc (đi giúp đỡ)',
     sao: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 50,
-    tomTat: `**Phân biệt vai trò Thiên Quan vs Thiên Phúc** trong cặp Quan Phúc:
+    tomTat: `Tuy cùng là cặp Quan Phúc, hai sao này có vai trò khác nhau rõ rệt.
 
-**THIÊN QUAN** — thiên về **AN ẨN, HÒA NHÃ**:
-- Tính cách **ÔN HÒA**, thích sự yên bình, ở ẩn
-- **KHÔNG MUỐN BON CHEN**, cạnh tranh
-- Ít có kẻ thù, người ghen ghét
-- Phúc khí thiên về **GIỮ MÌNH**, an thân lập mệnh
+**Thiên Quan** thiên về an ẩn, hòa nhã. Tính cách ôn hòa, thích sự yên bình
+và ở ẩn, không muốn bon chen cạnh tranh, ít có kẻ thù hay người ghen ghét.
+Phúc khí của Thiên Quan thiên về giữ mình, an thân lập mệnh.
 
-**THIÊN PHÚC** — thiên về **TỪ THIỆN, GIÚP ĐỠ**:
-- Xu hướng **TỪ THIỆN CAO**
-- Thích **ĐI GIÚP ĐỠ, HỖ TRỢ** người khác
-- Mong muốn **ĐEM LẠI HẠNH PHÚC** đến cho mọi người
-- Phúc khí thiên về **HÀNH ĐỘNG**, lan tỏa thiện lương
+**Thiên Phúc** thiên về từ thiện, giúp đỡ. Xu hướng từ thiện cao, thích đi
+giúp đỡ hỗ trợ người khác, mong đem lại hạnh phúc cho mọi người. Phúc khí
+của Thiên Phúc thiên về hành động, lan tỏa thiện lương.
 
-**Khi đồng cung**: cả hai mặt được kết hợp: vừa giữ mình vừa giúp người.`,
+Khi cả hai đồng cung, đương số có cả hai mặt được kết hợp: vừa giữ mình vừa
+giúp người.`,
   },
 
   {
@@ -137,17 +120,17 @@ ngoài CỨU GIẢI hiện tại, còn **NHẮC NHỞ HÀNH THIỆN cho tương 
     title: 'Câu phú: Thiên Nguyệt Đức Giải Thần tàng + Quan Phúc trừ hung',
     sao: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 50,
-    tomTat: `**Câu phú nổi tiếng:**
-> **"Thiên Nguyệt Đức, Giải Thần tàng**
-> **Cùng là Quan Phúc một làng trừ hung"**
+    tomTat: `Sách vở có câu phú:
 
-**Ý nghĩa:** Liệt kê các sao GIẢI HỌA TRỪ HUNG mạnh:
-- **Thiên Đức + Nguyệt Đức** (bộ Tứ Đức)
-- **Giải Thần** (luôn đồng cung Phượng Các)
-- **Thiên Quan + Thiên Phúc** (Quan Phúc)
+> "Thiên Nguyệt Đức, Giải Thần tàng
+> Cùng là Quan Phúc một làng trừ hung"
 
-**Quan Phúc đứng ngang hàng** với Tứ Đức và Giải Thần về khả năng giải họa
-— đây là sự khẳng định địa vị của bộ này trong nhóm sao Giải.`,
+Câu này liệt kê các sao giải họa trừ hung mạnh nhất: Thiên Đức cùng Nguyệt
+Đức (bộ Tứ Đức), Giải Thần (luôn đồng cung Phượng Các), và Thiên Quan cùng
+Thiên Phúc.
+
+Quan Phúc đứng ngang hàng với Tứ Đức và Giải Thần về khả năng giải họa — đây
+là sự khẳng định địa vị của bộ này trong nhóm sao giải.`,
   },
 
   {
@@ -155,21 +138,20 @@ ngoài CỨU GIẢI hiện tại, còn **NHẮC NHỞ HÀNH THIỆN cho tương 
     title: 'Câu phú: Quý nhân bất nhập Quý hương nan giải hung tinh',
     sao: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 55,
-    tomTat: `**Câu phú quan trọng:**
-> **"Quí nhân bất nhập Quí hương**
-> **Nan giải hung tinh chi hoạch nhiễu"**
+    tomTat: `Câu phú quan trọng trong tử vi:
 
-**Dịch nghĩa:** Mệnh, Thân có hung tinh quấy nhiễu — nếu **KHÔNG CÓ
-QUÝ NHÂN HỘI HỢP** thì khó thoát được tai ương họa hại.
+> "Quí nhân bất nhập Quí hương
+> Nan giải hung tinh chi hoạch nhiễu"
 
-**Quý Nhân ở đây gồm 4 sao:**
-- **Thiên Quan + Thiên Phúc** (Quan Phúc Quý Nhân)
-- **Thiên Khôi + Thiên Việt** (Thiên Ất Quý Nhân)
+Dịch nghĩa: Mệnh, Thân của đương số có hung tinh quấy nhiễu — nếu không có
+quý nhân hội hợp thì khó thoát được tai ương họa hại.
 
-**Ý nghĩa thực tế:**
-- Mệnh xấu, Hạn xấu: cần Quý Nhân hội tụ mới giải được
-- Đây là **TIÊU CHUẨN VÀNG** để xét lá số có thoát hung không
-- Thiếu Quý Nhân: tai ương khó tránh dù có sao Giải khác`,
+Quý nhân ở đây gồm bốn sao: Thiên Quan cùng Thiên Phúc (Quan Phúc Quý Nhân),
+và Thiên Khôi cùng Thiên Việt (Thiên Ất Quý Nhân).
+
+Trong thực tế, khi đương số có Mệnh xấu hoặc Hạn xấu, cần quý nhân hội tụ
+mới giải được. Đây là tiêu chuẩn vàng để xét lá số có thoát hung không —
+thiếu quý nhân thì tai ương khó tránh dù có sao giải khác.`,
   },
 
   {
@@ -178,21 +160,20 @@ QUÝ NHÂN HỘI HỢP** thì khó thoát được tai ương họa hại.
     sao: ['Thiên Quan', 'Thiên Phúc'],
     cung: ['Mệnh', 'Phúc Đức', 'Thiên Di', 'Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Quan Phúc tọa thủ tại Mệnh, cung an thân, Phúc Đức, Thiên Di, Tật Ách**
-— 5 vị trí **HỢP CÁCH NHẤT** của bộ này.
+    tomTat: `Bộ Quan Phúc tọa thủ tại Mệnh, cung an Thân, Phúc Đức, Thiên Di
+hoặc Tật Ách là năm vị trí hợp cách nhất.
 
-**Vì sao 5 cung này hợp:**
-- **Mệnh** — cứu giải hung họa cho bản thân
-- **Cung an thân** — bảo vệ phần thực hành cuộc đời (chủ hậu vận)
-- **Phúc Đức** — tăng phúc trạch dòng họ, mộ phần
-- **Thiên Di** — ra ngoài có quý nhân, gặp môi trường thiện lành
-- **Tật Ách** — bệnh tật tai họa được hóa giải
+Mỗi cung phát huy một mặt riêng: tại Mệnh thì cứu giải hung họa cho bản
+thân; tại cung an Thân thì bảo vệ phần thực hành cuộc đời, chủ hậu vận; tại
+Phúc Đức thì tăng phúc trạch dòng họ và mộ phần; tại Thiên Di thì khi ra
+ngoài có quý nhân, gặp môi trường thiện lành; tại Tật Ách thì bệnh tật tai
+họa được hóa giải.
 
-**Tại các cung khác:** vẫn tốt nhưng không đắc cách như 5 cung trên.
+Tại các cung khác, Quan Phúc vẫn tốt nhưng không đắc cách bằng năm cung trên.
 
-**Mức độ cứu giải tăng:** Mệnh xấu hay Vận xấu thì Quan Phúc tại Tật vẫn
-có thể chết yểu — vì Mệnh quan trọng hơn Tật. Càng tu tập, làm phúc từ sớm
-thì khả năng cứu giải càng mạnh.`,
+Cần lưu ý: nếu Mệnh xấu hay Vận xấu thì Quan Phúc tại Tật Ách vẫn có thể
+khiến đương số chết yểu — vì Mệnh quan trọng hơn Tật. Càng tu tập, làm phúc
+từ sớm thì khả năng cứu giải càng mạnh.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -205,17 +186,15 @@ thì khả năng cứu giải càng mạnh.`,
     sao: ['Thiên Quan', 'Thiên Phúc'],
     ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 55,
-    tomTat: `**Quan Phúc + Tứ Đức** (Thiên Đức + Nguyệt Đức + Long Đức + Phúc Đức) —
-**LÒNG NHÂN HẬU NHÂN LÊN GẤP NHIỀU LẦN**.
+    tomTat: `Khi Quan Phúc gặp đủ Tứ Đức (Thiên Đức, Nguyệt Đức, Long Đức,
+Phúc Đức), lòng nhân hậu của đương số nhân lên gấp nhiều lần.
 
-**Đặc trưng:**
-- Chủ mệnh luôn **SỐNG VÌ NGƯỜI KHÁC**
-- Ưu tiên **VIỆC CHUNG hơn việc riêng**
-- Sẵn sàng **HY SINH LỢI ÍCH CÁ NHÂN** để giúp đỡ những người xung quanh
-- Đức độ tột đỉnh
+Đương số luôn sống vì người khác, ưu tiên việc chung hơn việc riêng, sẵn
+sàng hy sinh lợi ích cá nhân để giúp đỡ những người xung quanh — đức độ tột
+đỉnh.
 
-**Đây là cách AN LÀNH NHẤT** trong tử vi cho người mệnh phúc thiện —
-hội tụ tất cả sao Giải mạnh nhất.`,
+Đây là cách an lành nhất trong tử vi cho mệnh phúc thiện, hội tụ tất cả sao
+giải mạnh nhất.`,
   },
 
   {
@@ -224,19 +203,17 @@ hội tụ tất cả sao Giải mạnh nhất.`,
     sao: ['Thiên Quan', 'Thiên Phúc'],
     ketHop: ['Thiên Y', 'Thiên Tướng'],
     doUuTien: 60,
-    tomTat: `**Quan Phúc + Thiên Y + Thiên Tướng + Tả Phù + Hữu Bật** — **THẦY THUỐC,
-LƯƠNG Y CHỮA BỆNH GIỎI MÁT TAY**.
+    tomTat: `Khi Quan Phúc gặp Thiên Y, Thiên Tướng, Tả Phù và Hữu Bật, đương
+số có cách thầy thuốc, lương y chữa bệnh giỏi mát tay.
 
-**Phân tích bộ sao:**
-- **Quan Phúc**: tâm phúc thiện, cứu người
-- **Thiên Y**: chuyên môn y học
-- **Thiên Tướng**: vị trí ấn (uy tín nghề)
-- **Tả Hữu**: được người đời tin cậy
+Mỗi sao đảm nhận một vai: Quan Phúc cho tâm phúc thiện cứu người, Thiên Y
+mang chuyên môn y học, Thiên Tướng tượng trưng cho vị trí ấn (uy tín nghề),
+Tả Phù cùng Hữu Bật khiến đương số được người đời tin cậy.
 
-**Bộ này còn có biến thể: Thiên Tướng + Riêu + Y + Quan Phúc** = bác sỹ
-rất mát tay — Thiên Riêu thêm sự tinh tế, nhạy bén trong chẩn bệnh.
+Bộ này còn có biến thể Thiên Tướng cùng Thiên Riêu, Thiên Y và Quan Phúc —
+bác sỹ rất mát tay; **Thiên Riêu** thêm sự tinh tế, nhạy bén trong chẩn bệnh.
 
-**Hợp nghề:** thầy thuốc, bác sỹ, lương y, châm cứu, đông y.`,
+Hợp nghề thầy thuốc, bác sỹ, lương y, châm cứu, đông y.`,
   },
 
   {
@@ -245,19 +222,16 @@ rất mát tay — Thiên Riêu thêm sự tinh tế, nhạy bén trong chẩn b
     sao: ['Thiên Quan', 'Thiên Phúc'],
     ketHop: ['Thiên Cơ', 'Thái Âm'],
     doUuTien: 60,
-    tomTat: `**Quan Phúc + bộ Cơ Nguyệt Đồng Lương** — **LƯƠNG Y, NGƯỜI HẢO TÂM, PHÚC
-THIỆN, CÔNG TÁC XÃ HỘI**.
+    tomTat: `Khi Quan Phúc gặp bộ Cơ Nguyệt Đồng Lương (Thiên Cơ, Thái Âm,
+Thiên Đồng, Thiên Lương) — bộ chính tinh thiện đẹp — đương số là lương y,
+người hảo tâm, phúc thiện, công tác xã hội.
 
-**Phân tích:**
-- **Cơ Nguyệt Đồng Lương** = bộ chính tinh thiện đẹp (Thiên Cơ + Thái Âm +
-  Thiên Đồng + Thiên Lương)
-- Thêm Quan Phúc: tăng tính phúc thiện cứu người
+Quan Phúc cộng vào tăng tính phúc thiện cứu người. Hướng nghiệp phù hợp gồm:
 
-**Hướng nghiệp:**
-- **Lương y** chữa bệnh
-- **Hảo tâm** quyên tặng từ thiện
-- **Công tác xã hội**, hội chữ thập đỏ
-- **Nghề có tính nhân đạo cao**`,
+- Lương y chữa bệnh
+- Hảo tâm quyên tặng từ thiện
+- Công tác xã hội, hội chữ thập đỏ
+- Các nghề có tính nhân đạo cao`,
   },
 
   {
@@ -267,21 +241,16 @@ THIỆN, CÔNG TÁC XÃ HỘI**.
     chi: ['Mão', 'Dậu'],
     ketHop: ['Tử Vi', 'Tham Lang'],
     doUuTien: 60,
-    tomTat: `**Quan Phúc + Tử Vi + Tham Lang + Địa Không + Địa Kiếp đồng cung Mão/Dậu**
-— **NGƯỜI ĐI TU, CỨU ĐỘ ĐƯỢC NHIỀU NGƯỜI**.
+    tomTat: `Khi Quan Phúc gặp Tử Vi cùng Tham Lang và Địa Không, Địa Kiếp đồng
+cung Mão hoặc Dậu — cách "đào hoa phạm chủ" thường là cách dâm dật, song
+Không Kiếp đồng cung phá Đào Hoa, biến cách thành tu hành giác ngộ. Quan
+Phúc làm tăng thiện tâm và khả năng giác ngộ.
 
-**Phân tích:**
-- **Tử Tham Mão/Dậu** = "Đào Hoa Phạm Chủ" — thường là cách dâm dật
-- **Không Kiếp** đồng cung phá Đào Hoa: biến thành **TU HÀNH, GIÁC NGỘ**
-- Quan Phúc làm tăng **THIỆN TÂM, KHẢ NĂNG GIÁC NGỘ**
+Đương số là người tu hành, học đạo, có khả năng giác ngộ cao. Dùng con đường
+tu hành để cứu độ, giúp đỡ nhiều người. Sự hiện diện của đương số mang lại
+yên bình cho những người bên cạnh.
 
-**Đặc trưng:**
-- Là người **TU HÀNH, HỌC ĐẠO**
-- Khả năng **GIÁC NGỘ CAO**
-- Dùng con đường tu hành để **CỨU ĐỘ, GIÚP ĐỠ NHIỀU NGƯỜI**
-- Sự hiện diện của đương số mang lại **YÊN BÌNH** cho những người bên cạnh
-
-Đây là cách **HÓA GIẢI ĐẸP NHẤT** của Tử Tham Mão/Dậu.`,
+Đây là cách hóa giải đẹp nhất của Tử Tham Mão/Dậu.`,
   },
 
   {
@@ -290,15 +259,15 @@ THIỆN, CÔNG TÁC XÃ HỘI**.
     sao: ['Thiên Quan', 'Thiên Phúc'],
     ketHop: ['Tả Phù', 'Hữu Bật'],
     doUuTien: 50,
-    tomTat: `**Quan Phúc + Tả Phù + Hữu Bật** — **LÒNG THIỆN BIẾN THÀNH HÀNH ĐỘNG CỤ THỂ**.
+    tomTat: `Khi Quan Phúc gặp Tả Phù, Hữu Bật, lòng thiện của đương số biến
+thành hành động cụ thể.
 
-**Đặc trưng:**
-- Tích cực tham gia **HOẠT ĐỘNG XÃ HỘI, TỪ THIỆN**
-- Có khả năng **QUY TỤ, KÊU GỌI** mọi người cùng làm việc tốt
-- Lòng thiện không chỉ là cảm xúc mà thành **HÀNH ĐỘNG cụ thể**
+Đương số tích cực tham gia hoạt động xã hội, từ thiện; có khả năng quy tụ,
+kêu gọi mọi người cùng làm việc tốt. Lòng thiện không chỉ là cảm xúc mà
+thành hành động cụ thể.
 
-**Phân tích:** Tả Hữu là "trợ tinh" — biến tính chất bên trong (Quan Phúc
-phúc thiện) thành thực hành bên ngoài.`,
+Tả Hữu vốn là trợ tinh — biến tính chất bên trong (Quan Phúc phúc thiện)
+thành thực hành bên ngoài.`,
   },
 
   {
@@ -307,19 +276,14 @@ phúc thiện) thành thực hành bên ngoài.`,
     sao: ['Thiên Quan', 'Thiên Phúc'],
     ketHop: ['Văn Xương', 'Văn Khúc'],
     doUuTien: 50,
-    tomTat: `**Quan Phúc + Văn Xương + Văn Khúc** — **KIẾN THỨC UYÊN THÂM, LỜI NÓI CÓ
-SỨC THUYẾT PHỤC**.
+    tomTat: `Khi Quan Phúc gặp **Văn Xương** cùng **Văn Khúc**, đương số có
+kiến thức uyên thâm và lời nói đầy sức thuyết phục.
 
-**Đặc trưng:**
-- Có **KIẾN THỨC SÂU RỘNG**
-- **LỜI NÓI THUYẾT PHỤC**
-- Dùng sự thông minh, hiểu biết để **KHUYÊN RĂN, CẢM HÓA** người khác
-- Hướng đến những điều **THIỆN LÀNH**
+Đương số biết dùng sự thông minh, hiểu biết để khuyên răn, cảm hóa người
+khác hướng đến những điều thiện lành.
 
-**Hợp nghề:**
-- Diễn giả, giáo viên, tu sỹ giảng pháp
-- Tác giả sách self-help, sách đạo
-- Người truyền cảm hứng thiện lương`,
+Hợp nghề: diễn giả, giáo viên, tu sỹ giảng pháp, tác giả sách self-help hay
+sách đạo, người truyền cảm hứng thiện lương.`,
   },
 
   {
@@ -329,18 +293,14 @@ SỨC THUYẾT PHỤC**.
     cung: ['Huynh Đệ'],
     ketHop: ['Ân Quang', 'Thiên Quý'],
     doUuTien: 55,
-    tomTat: `**Quan Phúc + Quang Quý + Dưỡng tại Huynh Đệ** — **DỄ CÓ ANH CHỊ EM NUÔI,
-KẾT NGHĨA**.
+    tomTat: `Khi Quan Phúc đi cùng **Ân Quang**, **Thiên Quý** và sao Dưỡng
+(thuộc Vòng Tràng Sinh) tại Huynh Đệ, đương số dễ có anh chị em nuôi, kết
+nghĩa.
 
-**Phân tích bộ sao:**
-- **Quan Phúc**: thiện duyên, tâm linh
-- **Quang Quý**: phúc tinh quý nhân
-- **Dưỡng** (sao trong Vòng Tràng Sinh): nuôi dưỡng
-
-**Đặc trưng:**
-- Tình thân **KHĂNG KHÍT** chẳng khác gì máu mủ
-- Anh chị em ruột + nuôi cùng tu tập, làm thiện
-- Đại gia đình lan tỏa năng lượng tốt lành`,
+Phân tích bộ sao: Quan Phúc cho thiện duyên tâm linh, Quang Quý là phúc tinh
+quý nhân, Dưỡng đem lại tính chất nuôi dưỡng. Tình thân khăng khít chẳng
+khác gì máu mủ; anh chị em ruột cùng anh chị em nuôi cùng tu tập, làm thiện;
+đại gia đình lan tỏa năng lượng tốt lành.`,
   },
 
   {
@@ -349,17 +309,15 @@ KẾT NGHĨA**.
     sao: ['Thiên Quan', 'Thiên Phúc'],
     ketHop: ['Thiên Hình', 'Hóa Kỵ'],
     doUuTien: 45,
-    tomTat: `**Quan Phúc + Thiên Hình + Đại Hao + Hóa Kỵ + Thiên Đồng hãm** — người
-**HAY THAY ĐỔI TÍNH TÌNH, ƯA THÍCH ĐỒNG BÓNG KHÔNG CHÁN**.
+    tomTat: `Khi Quan Phúc gặp Thiên Hình, Đại Hao, **Hóa Kỵ** cùng Thiên Đồng
+hãm địa, đương số hay thay đổi tính tình, ưa thích đồng bóng không chán.
 
-**Phân tích:**
-- Quan Phúc thiện duyên + sát tinh phá: biến tâm linh thành **ĐỒNG BÓNG**
-- Đặc biệt khi hội với **THIÊN ĐỒNG HÃM**: mê tín, thay đổi vô thường
+Quan Phúc thiện duyên gặp sát tinh phá thì biến tâm linh thành đồng bóng;
+đặc biệt khi hội thêm Thiên Đồng hãm, đương số dễ mê tín, thay đổi vô
+thường.
 
-**Cảnh báo:**
-- Dễ bị lừa bởi đồng cô, đồng cậu giả
-- Tâm trí bất ổn, dễ tin vào tà phái
-- Cần học hỏi đúng phái chính thống`,
+Cảnh báo: dễ bị lừa bởi đồng cô, đồng cậu giả; tâm trí bất ổn, dễ tin vào
+tà phái — cần học hỏi đúng phái chính thống.`,
   },
 
   {
@@ -367,21 +325,17 @@ KẾT NGHĨA**.
     title: 'Quan Phúc vào hạn - Hạn cần giải',
     sao: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 50,
-    tomTat: `**Quan Phúc vào hạn** — hai mặt cần lưu ý.
+    tomTat: `Quan Phúc vào hạn có hai mặt cần lưu ý.
 
-**Mặt tích cực:**
-- Hạn thích **ĐI VÀO TU TẬP**
-- **LÀM VIỆC THIỆN NGUYỆN, TỪ THIỆN**
-- Tâm trí hướng về đạo nghĩa
+Mặt tích cực: hạn này thích hợp đi vào tu tập, làm việc thiện nguyện và từ
+thiện; tâm trí đương số hướng về đạo nghĩa.
 
-**Mặt cảnh báo:**
-- Hạn dễ có **VƯỚNG MẮC, TAI HỌA** nên mới có Quan Phúc đi cùng để hóa giải
-- Quan Phúc thường xuất hiện ở những hạn cần **CỨU GIẢI**
+Mặt cảnh báo: hạn dễ có vướng mắc, tai họa nên Quan Phúc mới đi cùng để hóa
+giải. Quan Phúc thường xuất hiện ở những hạn cần cứu giải.
 
-**Cách dụng:**
-- Cần **TU TẬP, CHĂM LÀM PHÚC** trong giai đoạn này
-- Khả năng hóa giải sẽ **MẠNH HƠN** khi tâm hướng thiện
-- Nếu không tu thì Quan Phúc chỉ giải được phần nào`,
+Cách dụng: cần tu tập, chăm làm phúc trong giai đoạn này; khả năng hóa giải
+sẽ mạnh hơn khi tâm hướng thiện. Nếu không tu thì Quan Phúc chỉ giải được
+phần nào.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -394,26 +348,21 @@ KẾT NGHĨA**.
     sao: ['Thiên Quan'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Thiên Quan thủ Mệnh** — vị trí **HỢP CÁCH**, mang trong mình **LÁ BÙA
-BẢO VỆ** giảm trừ tai họa, hóa giải bệnh tật.
+    tomTat: `Thiên Quan thủ Mệnh là vị trí **hợp cách**: đương số mang trong
+mình lá bùa bảo vệ giảm trừ tai họa, hóa giải bệnh tật.
 
-**Tướng hình:**
-- Diện mạo **DỄ NHÌN, HIỀN HẬU, ÔN HÒA**
-- **ĐÔI MẮT SÁNG**, hiền hòa
-- **ĐÔI TAI DÀY, DÁI TAI DÀI** phúc hậu
-- Cử chỉ **TỪ TỐN, ĐIỀM ĐẠM, NHẸ NHÀNG** (không vội vàng hấp tấp)
+Về tướng hình, đương số có diện mạo dễ nhìn, hiền hậu, ôn hòa; đôi mắt sáng
+hiền hòa, đôi tai dày dái tai dài phúc hậu; cử chỉ từ tốn, điềm đạm, nhẹ
+nhàng — không vội vàng hấp tấp.
 
-**Tính cách:**
-- **Thiện tâm, nhân hậu, hiền lành, đức độ**
-- Hay **LÀM VIỆC THIỆN**, cứu giúp người
-- **TÍN NGƯỠNG CAO**, tin tưởng nơi Phật Trời
-- Có **CĂN DUYÊN TU TẬP**, có thể đắc quả
-- Tính cách **ÔN HÒA, Ở ẨN**, không bon chen: ít kẻ thù
+Về tính cách, đương số thiện tâm, nhân hậu, hiền lành, đức độ; hay làm việc
+thiện cứu giúp người; tín ngưỡng cao, tin tưởng nơi Phật Trời, có căn duyên
+tu tập và có thể đắc quả. Tính cách ôn hòa, ở ẩn, không bon chen — vì vậy
+ít kẻ thù.
 
-**Phúc thọ:**
-- **CỨU GIẢI tai họa, giảm hung nguy, giảm bệnh tật**
-- Càng **TU NHÂN TÍCH ĐỨC**: phước thọ càng tăng
-- Tác dụng **NGANG TỨ ĐỨC, GIẢI THẦN** trong giải họa`,
+Về phúc thọ, Thiên Quan tại Mệnh giúp cứu giải tai họa, giảm hung nguy và
+giảm bệnh tật. Đương số càng tu nhân tích đức thì phước thọ càng tăng — tác
+dụng ngang Tứ Đức, Giải Thần trong việc giải họa.`,
   },
 
   {
@@ -422,22 +371,16 @@ BẢO VỆ** giảm trừ tai họa, hóa giải bệnh tật.
     sao: ['Thiên Quan'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Thiên Quan tại Phụ Mẫu** — cha mẹ **LỄ NGHĨA, HIỀN HẬU**, hay từ thiện.
+    tomTat: `Thiên Quan tại Phụ Mẫu cho cha mẹ của đương số là người lễ nghĩa,
+hiền hậu, hay từ thiện và được mọi người quý mến, kính trọng. Đó cũng là
+người ngộ đạo, thích tìm hiểu Phật pháp, tâm linh, tin nhân quả.
 
-**Đặc trưng:**
-- Cha mẹ là người **HIỀN HẬU, TỪ THIỆN**, được mọi người **QUÝ MẾN, KÍNH
-  TRỌNG**
-- Người **NGỘ ĐẠO**, thích tìm hiểu **PHẬT PHÁP, TÂM LINH**, tin nhân quả
+Khi có Tả Phù, Hữu Bật hội cát, cha mẹ càng hiền từ, chuẩn mực, sống có
+nghĩa có tình; tin nhân quả, có duyên tìm hiểu đạo pháp; tích âm đức để lại
+phúc phần cho con cháu.
 
-**Cát tinh hội (Tả Phù - Hữu Bật):**
-- Cha mẹ **HIỀN TỪ, CHUẨN MỰC**
-- Sống có nghĩa có tình: được mọi người quý trọng
-- Tin nhân quả, có duyên tìm hiểu **ĐẠO PHÁP**
-- Tích **ÂM ĐỨC** để lại phúc phần cho con cháu
-
-**Đương số được hưởng:**
-- **PHÚC LỘC** cha mẹ để lại bằng **ÂM ĐỨC** hay **DƯƠNG ĐỨC**
-- Sinh ra trong sự **GIÁO DỤC ĐÚNG ĐẮN, HƯỚNG THIỆN**`,
+Đương số nhờ vậy được hưởng phúc lộc cha mẹ để lại bằng âm đức hoặc dương
+đức, sinh ra trong sự giáo dục đúng đắn, hướng thiện.`,
   },
 
   {
@@ -446,24 +389,17 @@ BẢO VỆ** giảm trừ tai họa, hóa giải bệnh tật.
     sao: ['Thiên Quan'],
     cung: ['Phúc Đức'],
     doUuTien: 80,
-    tomTat: `**Thiên Quan thủ Phúc Đức** — vị trí **HỢP CÁCH**, ông bà tổ tiên đa số là
-người **LƯƠNG THIỆN, CÓ CĂN TU HÀNH**.
+    tomTat: `Thiên Quan thủ Phúc Đức là vị trí **hợp cách**. Ông bà tổ tiên của
+đương số đa số là người lương thiện, có căn tu hành, để lại phúc nền bền
+vững cho con cháu. Phần mộ thường được an táng ở nơi đẹp, yên ổn, đôi khi
+gắn với chùa chiền hoặc gửi cốt tại nơi cửa Phật.
 
-**Đặc trưng:**
-- Để lại **PHÚC NỀN BỀN VỮNG** cho con cháu
-- Phần mộ thường được an táng ở **NƠI ĐẸP, YÊN ỔN**
-- Đôi khi gắn với **CHÙA CHIỀN** hoặc gửi cốt tại nơi cửa Phật
+Bản mệnh nhờ vậy được hưởng phúc đức, may mắn của tổ tiên ông bà để lại; có
+nhiều việc phải tiếp tục tôn bồi và có căn duyên tu tập tại kiếp này.
 
-**Bản mệnh được hưởng:**
-- **PHÚC ĐỨC, MAY MẮN** của tổ tiên ông bà để lại
-- Có nhiều việc phải tiếp tục **TÔN BỒI**
-- Có **CĂN DUYÊN TU TẬP** tại kiếp này
-
-**Cát tinh hội (Văn Xương - Văn Khúc, Tam Thai - Bát Tọa, Hóa Lộc, Hóa
-Quyền):**
-- Càng khẳng định dòng họ có người **ĐỖ ĐẠT**
-- **DANH THƠM LƯU TRUYỀN**
-- Phúc ấm lan tỏa đến đời sau`,
+Khi cát tinh hội (Văn Xương, Văn Khúc, Tam Thai, Bát Tọa, Hóa Lộc, Hóa
+Quyền), càng khẳng định dòng họ có người đỗ đạt, danh thơm lưu truyền, phúc
+ấm lan tỏa đến đời sau.`,
   },
 
   {
@@ -472,25 +408,20 @@ Quyền):**
     sao: ['Thiên Quan'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Thiên Quan tại Điền Trạch** — ở nhà có người **THÍCH TU TẬP, RƯỚC PHẬT
-VỀ THỜ**.
+    tomTat: `Thiên Quan tại Điền Trạch cho thấy trong nhà có người thích tu
+tập, rước Phật về thờ.
 
-**Đặc trưng:**
-- Nhà cửa **SẠCH SẼ, GỌN GÀNG, NGĂN NẮP, QUI CỦ**
-- Sống ôn hòa, hay giúp đỡ hàng xóm láng giềng: được nhiều người **QUÝ MẾN**
-- Cuộc sống **HÔN NHÂN GIA ĐÌNH HẠNH PHÚC, BỀN LÂU**
-- Mọi thành viên **HÒA THUẬN, LỄ NGHĨA, CÓ PHÉP TẮC**
+Đặc trưng: nhà cửa sạch sẽ, gọn gàng, ngăn nắp, qui củ; sống ôn hòa, hay
+giúp đỡ hàng xóm láng giềng nên được nhiều người quý mến. Cuộc sống hôn nhân
+gia đình hạnh phúc, bền lâu; mọi thành viên hòa thuận, lễ nghĩa, có phép
+tắc.
 
-**Cát tinh hội (Thiên Phúc, Long Trì - Phượng Các):**
-- Nhà cửa **KHANG TRANG, NGĂN NẮP**
-- Có **BÀN THỜ PHẬT** hoặc rước tượng Phật về thờ phụng
-- Gia đạo **ÊM ẤM, THUẬN HÒA**
+Khi cát tinh hội (Thiên Phúc, Long Trì, Phượng Các), nhà cửa khang trang,
+ngăn nắp; có bàn thờ Phật hoặc rước tượng Phật về thờ phụng; gia đạo êm ấm
+thuận hòa.
 
-**Tâm tính:**
-- Tấm lòng **RỘNG RÃI**
-- Sẵn sàng **HIẾN ĐẤT ĐAI** cho việc nghĩa
-- Đứng ra **LẬP HỘI TỪ THIỆN**
-- Coi việc tích phúc như bổn phận tự nhiên`,
+Về tâm tính, đương số có tấm lòng rộng rãi, sẵn sàng hiến đất đai cho việc
+nghĩa, đứng ra lập hội từ thiện; coi việc tích phúc như bổn phận tự nhiên.`,
   },
 
   {
@@ -499,23 +430,20 @@ VỀ THỜ**.
     sao: ['Thiên Quan'],
     cung: ['Quan Lộc'],
     doUuTien: 75,
-    tomTat: `**Thiên Quan tại Quan Lộc** — trong công việc hay **GIÚP ĐỠ NGƯỜI KHÁC**
-và cũng được mọi người giúp đỡ lại.
+    tomTat: `Thiên Quan tại Quan Lộc khiến trong công việc đương số hay giúp
+đỡ người khác và cũng được mọi người giúp đỡ lại.
 
-**Hướng nghiệp:**
-- Công việc có **TÍNH NHÂN ĐẠO CAO**:
-  - **Hội chữ thập đỏ, thiện nguyện, tổ chức cứu trợ**
-  - **Thầy giáo, bác sỹ**
-- Hoặc chí ít là người **LƯƠNG THIỆN**, không cạnh tranh, chơi xấu ai
+Hướng nghiệp phù hợp là công việc có tính nhân đạo cao như hội chữ thập đỏ,
+thiện nguyện, tổ chức cứu trợ, thầy giáo, bác sỹ; hoặc chí ít là người lương
+thiện, không cạnh tranh hay chơi xấu ai.
 
-**Cát tinh hội (Thiên Cơ - Thiên Lương, Tử Vi, Thiên Đồng):**
-- Dễ liên quan đến **TU HÀNH**
-- Làm trong bang **HỘ TRÌ TAM BẢO**
-- Hoặc đi tu, làm việc trong **CƠ QUAN TỪ THIỆN, NHÂN SINH**
+Khi cát tinh hội (Thiên Cơ, Thiên Lương, Tử Vi, Thiên Đồng), đương số dễ
+liên quan đến tu hành, làm trong bang hộ trì Tam Bảo, hoặc đi tu, làm việc
+trong cơ quan từ thiện, nhân sinh.
 
-**Vận may:** Trong công danh, sự nghiệp, học tập hay được **MAY MẮN, CÓ
-NGƯỜI GIÚP ĐỠ** — mức độ tùy thuộc vào **PHÚC PHẦN sẵn có** và những "nhân
-tốt" mà bản thân đã gieo.`,
+Về vận may trong công danh, sự nghiệp, học tập, đương số hay được may mắn,
+có người giúp đỡ — mức độ tùy thuộc vào phúc phần sẵn có và những "nhân tốt"
+mà bản thân đã gieo.`,
   },
 
   {
@@ -524,21 +452,16 @@ tốt" mà bản thân đã gieo.`,
     sao: ['Thiên Quan'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Thiên Quan tại Nô Bộc** — có **DUYÊN CHƠI VỚI BẠN BÈ TỐT** hoặc các
-**BẠN ĐỒNG TU**.
+    tomTat: `Thiên Quan tại Nô Bộc cho đương số có duyên chơi với bạn bè tốt
+hoặc các bạn đồng tu.
 
-**Đặc trưng:**
-- Cơ hội **HỌC HỎI CÁC BẬC CHÂN TU ĐẮC ĐẠO**
-- Bạn bè, đồng nghiệp, cấp dưới là người **GIẢN DỊ, TỐT BỤNG, TIN CẬY**
-- Có thể **GIÚP ĐỠ, HỖ TRỢ NHIỀU** được cho đương số
+Đương số có cơ hội học hỏi các bậc chân tu đắc đạo. Bạn bè, đồng nghiệp, cấp
+dưới đều là người giản dị, tốt bụng, tin cậy, có thể giúp đỡ hỗ trợ nhiều
+được cho đương số.
 
-**Hoạt động xã hội:**
-- Hay tham gia **CỨU TẾ, HỖ TRỢ CHỮ THẬP ĐỎ**
-- Cùng bạn bè làm các hoạt động cộng đồng
-
-**Vai trò bạn bè:**
-- Vừa là **TRI KỶ**
-- Vừa là **KIM CHỈ NAM** trong hành trình sống tâm linh`,
+Về hoạt động xã hội, đương số hay tham gia cứu tế, hỗ trợ chữ thập đỏ, cùng
+bạn bè làm các hoạt động cộng đồng. Bạn bè vừa là tri kỷ, vừa là kim chỉ nam
+trong hành trình sống tâm linh.`,
   },
 
   {
@@ -547,27 +470,19 @@ tốt" mà bản thân đã gieo.`,
     sao: ['Thiên Quan'],
     cung: ['Thiên Di'],
     doUuTien: 78,
-    tomTat: `**Thiên Quan thủ Thiên Di** — vị trí **HỢP CÁCH**, ra ngoài hay **LÀM PHÚC,
-GIÚP ĐỠ** người khác.
+    tomTat: `Thiên Quan thủ Thiên Di là vị trí **hợp cách**: ra ngoài đương số
+hay làm phúc, giúp đỡ người khác.
 
-**Tính cách ra ngoài:**
-- **ĐIỀM ĐẠM, NHẸ NHÀNG, KHOAN DUNG**
-- Không gây hận thù với ai bao giờ
+Tính cách ra ngoài điềm đạm, nhẹ nhàng, khoan dung — không gây hận thù với
+ai bao giờ. Trên đường đời hay gặp quý nhân giúp đỡ, dễ gặp cơ may đến những
+nơi an lành, thường gặp thuận lợi tốt đẹp, dễ gặp thiên thời địa lợi nhân
+hòa.
 
-**Đường đời:**
-- Hay gặp **QUÝ NHÂN GIÚP ĐỠ**
-- Dễ gặp cơ may đến **NHỮNG NƠI AN LÀNH**
-- Thường gặp **THUẬN LỢI TỐT ĐẸP**
-- Dễ gặp **THIÊN THỜI ĐỊA LỢI NHÂN HÒA**
+Về môi trường sống, đương số hay ở trong môi trường người thiện lành, thích
+tu tập; tâm trí lúc nào cũng nhẹ nhàng, an yên, ít gặp sự cạnh tranh kèn cựa.
 
-**Môi trường:**
-- Hay ở trong môi trường **NGƯỜI THIỆN LÀNH, THÍCH TU TẬP**
-- Tâm trí lúc nào cũng **NHẸ NHÀNG, AN YÊN**
-- Ít gặp sự cạnh tranh, kèn cựa
-
-**Khi gặp khó khăn:**
-- Chỉ cần **GIỮ TÂM SÁNG** và hành thiện: tai ương được hóa giải
-- May mắn đến vào lúc then chốt, "GẶP THẦY GẶP THUỐC"`,
+Khi gặp khó khăn, chỉ cần giữ tâm sáng và hành thiện thì tai ương được hóa
+giải; may mắn đến vào lúc then chốt — "gặp thầy gặp thuốc".`,
   },
 
   {
@@ -576,25 +491,20 @@ GIÚP ĐỠ** người khác.
     sao: ['Thiên Quan'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Thiên Quan thủ Tật Ách** — mang ý nghĩa **CỨU GIẢI MẠNH MẼ**.
+    tomTat: `Thiên Quan thủ Tật Ách mang ý nghĩa cứu giải mạnh mẽ.
 
-**Đặc trưng:**
-- Khi hoạn nạn hoặc gặp cảnh hiểm nguy: thường được **THẦN LINH PHÙ HỘ**
-  hoặc **QUÝ NHÂN TRỢ GIÚP**
-- Người có thói quen **TÍCH ĐỨC HÀNH THIỆN** càng dễ vượt qua
-- Bệnh tật, tai ương: **BIẾN HUNG THÀNH CÁT**
+Khi đương số hoạn nạn hoặc gặp cảnh hiểm nguy, thường được thần linh phù hộ
+hoặc quý nhân trợ giúp; người có thói quen tích đức hành thiện càng dễ vượt
+qua. Bệnh tật, tai ương biến hung thành cát.
 
-**Hình tượng đặc biệt - tang sự:**
-- Trong **TANG SỰ NGÀY CHẾT** có:
-  - **THẦY CHÙA ĐƯA LINH**
-  - **DÂU THẢO RỂ HIỀN** đưa tiễn
-  - **CHÙA CHIỀN, SƯ TĂNG HỘ NIỆM**
-- Quan Phúc có hình tượng là **NGƯỜI TU HÀNH, NHÀ SƯ, TU SỸ**
-- Tạo nên sự **THANH THẢN** cho hành trình cuối đời
+Hình tượng đặc biệt của Quan Phúc thường thấy trong tang sự ngày chết: thầy
+chùa đưa linh, dâu thảo rể hiền đưa tiễn, chùa chiền và sư tăng hộ niệm.
+Quan Phúc có hình tượng là người tu hành, nhà sư, tu sỹ — tạo nên sự thanh
+thản cho hành trình cuối đời.
 
-**Cảnh báo:** Tật Ách không phải vị trí mạnh nhất — nếu bản cung hoặc
-vận hạn xấu thì vẫn có thể chết yểu. Càng tu tập, làm phúc từ sớm thì khả
-năng cứu giải càng mạnh.`,
+Cảnh báo: Tật Ách không phải vị trí mạnh nhất — nếu bản cung hoặc vận hạn
+xấu thì vẫn có thể chết yểu. Càng tu tập, làm phúc từ sớm thì khả năng cứu
+giải càng mạnh.`,
   },
 
   {
@@ -603,25 +513,22 @@ năng cứu giải càng mạnh.`,
     sao: ['Thiên Quan'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Thiên Quan tại Tài Bạch** — người có **TÂM HƯỚNG THIỆN** trong việc sử
-dụng của cải.
+    tomTat: `Thiên Quan tại Tài Bạch cho đương số có tâm hướng thiện trong
+việc sử dụng của cải.
 
-**Đặc trưng:**
-- Hay **DÙNG TIỀN BỐ THÍ, CÚNG DƯỜNG**
-- Sử dụng tiền bạc vào mục đích **LƯƠNG THIỆN, XÃ HỘI**
-- Có thể **CHO TIỀN CỦA**, đôi khi cả gia tài sự nghiệp để làm từ thiện
-- Coi tiền bạc như **PHƯƠNG TIỆN GIEO PHÚC**: chẳng nề hà khi cho đi
+Đương số hay dùng tiền bố thí, cúng dường; sử dụng tiền bạc vào mục đích
+lương thiện, xã hội; có thể cho tiền của, đôi khi cả gia tài sự nghiệp để
+làm từ thiện. Đương số coi tiền bạc như phương tiện gieo phúc — chẳng nề hà
+khi cho đi.
 
-**"Thí Vô Úy" - từ thiện từ tâm:**
-- Là những người dám bố thí **MÃNH ĐẤT CÔNG VIÊN, THƯ VIỆN**...
-- Phải có Quan Phúc trong **MỆNH-THÂN và TÀI-ĐIỀN** (xung hoặc giáp hợp)
-- **KHÔNG CẦN DANH HÃO**, không cần công trạng
+Có cách "thí vô úy" — từ thiện từ tâm — nghĩa là dám bố thí mảnh đất công
+viên, thư viện... Cách này cần Quan Phúc trong Mệnh - Thân và Tài - Điền
+(xung hoặc giáp hợp), không cần danh hão, không cần công trạng.
 
-**Cách kiếm tiền:**
-- **LƯƠNG THIỆN, KHÔNG GIAN DỐI**
-- Không ưa cạnh tranh, kèn cựa
-- "Ở hiền gặp lành": đôi khi may mắn về tiền bạc, được người giúp đỡ
-- Đặc biệt **Quan + Phúc + Giải Thần đồng cung**: giải ách, mở lối quý nhân`,
+Cách kiếm tiền của đương số lương thiện, không gian dối; không ưa cạnh tranh
+kèn cựa — "ở hiền gặp lành" nên đôi khi may mắn về tiền bạc, được người giúp
+đỡ. Đặc biệt khi Thiên Quan, Thiên Phúc và Giải Thần đồng cung thì giải ách,
+mở lối quý nhân.`,
   },
 
   {
@@ -630,18 +537,16 @@ dụng của cải.
     sao: ['Thiên Quan'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Thiên Quan tại Tử Tức** — con cái **HIỀN LÀNH, HIẾU THUẬN**, sau lớn
-thành người **TỬ TẾ**.
+    tomTat: `Thiên Quan tại Tử Tức cho con cái của đương số hiền lành, hiếu
+thuận, sau lớn thành người tử tế.
 
-**Đặc trưng:**
-- Về già được con cái **HIẾU THUẬN CHĂM LO PHỤNG DƯỠNG**
-- Con cái có đứa **THÍCH TU TẬP, TU HÀNH**
-- Hay thích **LÀM THIỆN NGUYỆN, CỨU TRỢ** hoàn cảnh khó khăn
+Về già, đương số được con cái hiếu thuận chăm lo phụng dưỡng. Con cái có
+đứa thích tu tập, tu hành; hay thích làm thiện nguyện, cứu trợ hoàn cảnh
+khó khăn.
 
-**Sát bại tinh hội:**
-- **KHÓ CÓ CON**, phải đi **CẦU TỰ** mới có
-- Hội thêm đất **DƯỠNG**: dễ có **CON NUÔI**
-- Như sự bù đắp của trời cho duyên làm cha mẹ`,
+Khi sát bại tinh hội, đương số khó có con, phải đi cầu tự mới có; nếu hội
+thêm đất Dưỡng thì dễ có con nuôi — như sự bù đắp của trời cho duyên làm
+cha mẹ.`,
   },
 
   {
@@ -650,20 +555,18 @@ thành người **TỬ TẾ**.
     sao: ['Thiên Quan'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Thiên Quan tại Phu Thê** — bạn đời **HIỀN LÀNH, TỐT TÍNH, CÓ LÒNG TỪ
-THIỆN** — chí ít là người chồng/vợ đã có **DUYÊN LÀNH TỪ TIỀN KIẾP**.
+    tomTat: `Thiên Quan tại Phu Thê cho bạn đời của đương số hiền lành, tốt
+tính, có lòng từ thiện — chí ít là người chồng hoặc vợ đã có duyên lành từ
+tiền kiếp.
 
-**Đặc trưng:**
-- Vợ chồng **HÒA HỢP, BIẾT NHƯỜNG NHỊN**
-- Sống với nhau **CÓ TÌNH NGHĨA, BỀN LÂU**
-- Người hôn phối là người **TÍN TÂM**, thích tu tập, tìm hiểu tâm linh, tin
-  nhân quả
+Vợ chồng hòa hợp, biết nhường nhịn, sống với nhau có tình nghĩa, bền lâu.
+Người hôn phối là người tín tâm, thích tu tập, tìm hiểu tâm linh, tin nhân
+quả.
 
-**Khả năng HÓA GIẢI ĐẶC BIỆT:**
-- Dù cung Phu Thê có **ĐÀO HOA, KHÔNG KIẾP, THIÊN HÌNH** vẫn thường **AN
-  LÀNH KHÔNG ĐỔ VỠ** và **KHÔNG ĐAU KHỔ**
-- Dù gặp khó khăn cũng có **QUÝ NHÂN GIÚP ĐỠ** hay giải bày
-- Đây là một trong **KHẢ NĂNG HÓA GIẢI MẠNH NHẤT** của Quan Phúc`,
+Khả năng hóa giải đặc biệt: dù cung Phu Thê có Đào Hoa, Địa Không, Địa Kiếp,
+Thiên Hình, đương số vẫn thường an lành không đổ vỡ và không đau khổ. Dù
+gặp khó khăn cũng có quý nhân giúp đỡ hay giải bày — đây là một trong những
+khả năng hóa giải mạnh nhất của Quan Phúc.`,
   },
 
   {
@@ -672,19 +575,15 @@ THIỆN** — chí ít là người chồng/vợ đã có **DUYÊN LÀNH TỪ TI
     sao: ['Thiên Quan'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Thiên Quan tại Huynh Đệ** — anh chị em **HÒA THUẬN, TÌNH NGHĨA**, luôn
-giúp đỡ nhau **TẬN TÌNH VÔ ĐIỀU KIỆN**.
+    tomTat: `Thiên Quan tại Huynh Đệ cho anh chị em của đương số hòa thuận,
+tình nghĩa, luôn giúp đỡ nhau tận tình vô điều kiện. Trong số đó có người
+thích tu tập, tìm hiểu Phật pháp — lan tỏa năng lượng tốt lành đến cả gia
+đình.
 
-**Đặc trưng:**
-- Anh chị em có người **THÍCH TU TẬP, TÌM HIỂU PHẬT PHÁP**
-- Lan tỏa năng lượng tốt lành đến cả gia đình
+Khi Tả Phù, Hữu Bật cát hội, anh chị em càng gắn bó, đỡ nâng nhau, keo sơn;
+trong số đó có người sớm bén duyên tu tập.
 
-**Cát tinh hội (Tả Phù - Hữu Bật):**
-- Anh chị em **GẮN BÓ, ĐỠ NÂNG NHAU, KEO SƠN**
-- Trong số đó có người **SỚM BÉN DUYÊN TU TẬP**
-
-**Đồng cung Quang Quý hoặc Dưỡng:**
-- Dễ có **ANH CHỊ EM NUÔI**
-- Tình thân **KHĂNG KHÍT** chẳng khác gì máu mủ`,
+Khi đồng cung **Ân Quang**, **Thiên Quý** hoặc đất Dưỡng, đương số dễ có
+anh chị em nuôi — tình thân khăng khít chẳng khác gì máu mủ.`,
   },
 ];

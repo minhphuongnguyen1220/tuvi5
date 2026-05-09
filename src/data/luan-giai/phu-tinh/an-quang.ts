@@ -25,25 +25,19 @@ export const luanGiai_AnQuang: DoanLuanGiai[] = [
     title: 'Ân Quang - Đặc tính chung',
     sao: ['Ân Quang'],
     doUuTien: 32,
-    tomTat: `**Ân Quang** — phụ tinh **PHÚC TINH** + **QUÝ TINH**, an theo vị trí
-**Văn Xương**.
+    tomTat: `**Ân Quang** — phụ tinh thuộc nhóm Phúc tinh và Quý tinh, an theo
+vị trí Văn Xương, ngũ hành Mộc.
 
-**Ngũ hành:** **Mộc**.
+Đặc tính của Ân Quang là nhân hậu, từ thiện, may mắn, gặp thời, đem lại sự
+tốt lành. Sao này cứu khốn phò nguy, giải trừ bệnh tật tai họa, đem lại
+phúc thọ, chế hóa tính dâm đãng của Đào Hồng.
 
-**Đặc tính:**
-- **Nhân hậu, từ thiện, may mắn, gặp thời, đem lại sự tốt lành**
-- **CỨU KHỔN PHÒ NGUY**, giải trừ bệnh tật tai họa
-- Đem lại **PHÚC THỌ**
-- **CHẾ HÓA tính dâm đãng** của Đào Hồng
+Vai trò đặc biệt của Ân Quang là sự giúp đỡ của đấng linh thiêng — khác Tả
+Phù, Hữu Bật vốn là sự giúp đỡ của người đời. Sao này gặp sao hung cũng
+không có hại; tọa thủ tại bất kỳ cung nào đều mang lại tốt lành, phúc thọ.
 
-**Vai trò đặc biệt:**
-- Là **SỰ GIÚP ĐỠ CỦA ĐẤNG LINH THIÊNG** (khác Tả Hữu là sự giúp đỡ của
-  người đời)
-- Gặp sao hung cũng **KHÔNG CÓ HẠI**
-- Tọa thủ tại bất kỳ cung nào đều mang lại **TỐT LÀNH, PHÚC THỌ**
-
-**Hướng nghiệp:** Ân Quang thiên về **VẬT CHẤT** — dễ làm **THẦY GIÁO,
-THẦY LANG**, các nghề có thiện tính cao.`,
+Về hướng nghiệp, Ân Quang thiên về vật chất — đương số dễ làm thầy giáo,
+thầy lang, các nghề có thiện tính cao.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -55,27 +49,24 @@ THẦY LANG**, các nghề có thiện tính cao.`,
     title: 'Bộ Quang Quý - Đặc tính chung của cặp đôi',
     sao: ['Ân Quang', 'Thiên Quý'],
     doUuTien: 55,
-    tomTat: `**Bộ Quang Quý** (Ân Quang + Thiên Quý) — **CẶP ĐÔI PHÚC THIỆN TINH** quan
-trọng nhất của tử vi:
+    tomTat: `Bộ **Quang Quý** gồm **Ân Quang** và **Thiên Quý** — cặp đôi phúc
+thiện tinh quan trọng nhất của tử vi.
 
-**Đặc tính chung:**
-- **Phúc tinh, Quý tinh** — chủ về nhân hậu, từ thiện, may mắn, gặp thời
-- **CỨU KHỔN PHÒ NGUY** — giải trừ bệnh tật, tai họa
-- Đem lại **PHÚC THỌ**
-- **CHẾ HÓA Đào Hồng** — giảm tính dâm đãng hoa nguyệt
-- Gặp sao hung cũng **KHÔNG CÓ HẠI**
+Đặc tính chung của bộ này là phúc tinh kiêm quý tinh, chủ về nhân hậu, từ
+thiện, may mắn, gặp thời. Quang Quý cứu khốn phò nguy, giải trừ bệnh tật,
+tai họa và đem lại phúc thọ; chế hóa Đào Hồng — giảm tính dâm đãng hoa
+nguyệt; gặp sao hung cũng không có hại.
 
-**Là SỰ GIÚP ĐỠ CỦA ĐẤNG LINH THIÊNG** (Tả Hữu = sự giúp đỡ của người đời).
+Bộ này là sự giúp đỡ của đấng linh thiêng (so với Tả Hữu là sự giúp đỡ của
+người đời).
 
-**Quy luật an sao:**
-- Ân Quang an theo **VĂN XƯƠNG**, Thiên Quý an theo **VĂN KHÚC**
-- Đồng cung tại **Sửu/Mùi** (đắc cách nhất)
-- Xung chiếu tại **Thìn/Tuất**
-- Tam hợp chiếu tại **Mão/Dậu/Tỵ/Hợi**
-- Đứng riêng lẻ tại **Tý/Ngọ/Dần/Thân**
+Về quy luật an sao, Ân Quang an theo Văn Xương, Thiên Quý an theo Văn Khúc.
+Hai sao đồng cung tại Sửu hoặc Mùi (đắc cách nhất), xung chiếu tại Thìn
+hoặc Tuất, tam hợp chiếu tại Mão, Dậu, Tỵ, Hợi, và đứng riêng lẻ tại Tý,
+Ngọ, Dần, Thân.
 
-**Phù trì Nhật Nguyệt** — như Xương Khúc, Quang Quý phù trì cho Thái
-Dương Thái Âm, đặc biệt hợp với Nhật Nguyệt sáng.`,
+Như Văn Xương cùng Văn Khúc, Quang Quý cũng phù trì cho Thái Dương Thái Âm,
+đặc biệt hợp với Nhật Nguyệt sáng.`,
   },
 
   {
@@ -83,19 +74,17 @@ Dương Thái Âm, đặc biệt hợp với Nhật Nguyệt sáng.`,
     title: 'Phân biệt Ân Quang (vật chất) vs Thiên Quý (tinh thần)',
     sao: ['Ân Quang', 'Thiên Quý'],
     doUuTien: 50,
-    tomTat: `**Phân biệt vai trò Ân Quang vs Thiên Quý** trong cặp Quang Quý:
+    tomTat: `Tuy cùng là cặp Quang Quý, hai sao có vai trò khác nhau rõ rệt.
 
-**ÂN QUANG** — Mộc — thiên về **VẬT CHẤT**:
-- Tại Mệnh dễ làm **THẦY GIÁO, THẦY LANG**
-- Hưởng phúc thiên về tài lộc, công danh hữu hình
-- Giúp đỡ cụ thể, thực tế
+**Ân Quang** thuộc Mộc, thiên về vật chất. Tại Mệnh, đương số dễ làm thầy
+giáo, thầy lang; hưởng phúc thiên về tài lộc, công danh hữu hình; giúp đỡ
+cụ thể, thực tế.
 
-**THIÊN QUÝ** — Thổ — thiên về **TINH THẦN**:
-- Tại Mệnh dễ làm **CÔNG CHỨC**
-- Hưởng phúc thiên về tâm linh, bình an, danh tiếng
-- Giúp đỡ về đạo nghĩa, tu dưỡng
+**Thiên Quý** thuộc Thổ, thiên về tinh thần. Tại Mệnh, đương số dễ làm công
+chức; hưởng phúc thiên về tâm linh, bình an, danh tiếng; giúp đỡ về đạo
+nghĩa, tu dưỡng.
 
-**Khi đồng cung tại Sửu/Mùi**: cả hai mặt vật chất + tinh thần đều viên
+Khi đồng cung tại Sửu hoặc Mùi, cả hai mặt vật chất và tinh thần đều viên
 mãn — đây là điều khiến cặp Sửu/Mùi đắc cách nhất.`,
   },
 
@@ -105,24 +94,26 @@ mãn — đây là điều khiến cặp Sửu/Mùi đắc cách nhất.`,
     sao: ['Ân Quang', 'Thiên Quý'],
     chi: ['Sửu', 'Mùi'],
     doUuTien: 88,
-    tomTat: `**Quang Quý đồng cung Sửu/Mùi** — vị trí **ĐẮC CÁCH NHẤT** của bộ này.
+    tomTat: `Quang Quý đồng cung tại Sửu hoặc Mùi là vị trí **đắc cách** nhất
+của bộ này — sách vở ghi "Quang Quý miếu địa tại Sửu Mùi".
 
-**Đặc trưng:**
-- Sách vở ghi: **"Quang Quý miếu địa tại Sửu Mùi"**
-- Là cung **THỔ** — đất trung dung kết phát phúc khí
-- Chủ về **ĐẠI KHOA** — gặp cát tinh thì học giỏi, công danh hiển đạt
-- **Hưởng ÂN HUỆ TRỜI BAN**, hay gặp may mắn
-- Gặp khó khăn có người giúp đỡ
-- Thường có **TÍN NGƯỠNG**, tin vào đấng thiêng liêng
+Sửu, Mùi là cung Thổ — đất trung dung kết phát phúc khí. Tại đây, Quang Quý
+chủ về đại khoa: gặp cát tinh thì học giỏi, công danh hiển đạt. Đương số
+hưởng ân huệ trời ban, hay gặp may mắn; gặp khó khăn có người giúp đỡ;
+thường có tín ngưỡng, tin vào đấng thiêng liêng.
 
-**Câu phú:** **"Quý Ân Sửu Mùi hạn cầu - Đường mây gặp bước cao sâu cửu
-trùng"** — vào hạn tại bản cung cầu công danh đỗ đạt cao.
+Câu phú lưu truyền:
 
-**Đặc biệt:** Chỉ riêng vị trí này mới có cách **GIÁP QUANG GIÁP QUÝ** —
-cách đẹp nhưng yếu hơn đồng cung trực tiếp.
+> "Quý Ân Sửu Mùi hạn cầu
+> Đường mây gặp bước cao sâu cửu trùng"
 
-**Khả năng giải họa:** Tại Sửu/Mùi giải được hung tinh tọa thủ tại các
-cung nhị hợp tương ứng.`,
+— vào hạn tại bản cung cầu công danh đỗ đạt cao.
+
+Đặc biệt, chỉ riêng vị trí này mới có cách **giáp Quang giáp Quý** — cách
+đẹp nhưng yếu hơn đồng cung trực tiếp.
+
+Khả năng giải họa: tại Sửu, Mùi, Quang Quý giải được hung tinh tọa thủ tại
+các cung nhị hợp tương ứng.`,
   },
 
   {
@@ -131,22 +122,19 @@ cung nhị hợp tương ứng.`,
     sao: ['Ân Quang', 'Thiên Quý'],
     chi: ['Thìn', 'Tuất'],
     doUuTien: 82,
-    tomTat: `**Quang Quý xung chiếu Thìn/Tuất** — vị trí **TỨ MỘ**, khả năng giải họa
-cực mạnh.
+    tomTat: `Quang Quý xung chiếu tại Thìn, Tuất là vị trí Tứ Mộ, khả năng giải
+họa cực mạnh.
 
-**Đặc trưng:**
-- Tại Tứ Mộ (Thìn/Tuất) hai sao này **RẤT MẠNH MẼ**
-- Có tác dụng **CỨU GIẢI** ngay cả các hung tinh hạng nặng như **Địa Không,
-  Địa Kiếp** đóng đồng cung
+Tại Tứ Mộ, hai sao này rất mạnh mẽ, có tác dụng cứu giải ngay cả các hung
+tinh hạng nặng như Địa Không, Địa Kiếp đóng đồng cung.
 
-**Cách giải hung tinh:**
-- Tại Thìn/Tuất gặp **Không hoặc Kiếp** đồng cung hoặc hợp chiếu
-  **GIẢI HẦU HẾT TAI HỌA**
-- Có thêm **Kình Đà hãm địa** chiếu về cũng không sao
-- Có thêm **Hình Riêu cả bộ** với Không/Kiếp: giảm rất nhiều tai họa
-  nhưng không hết
+Cụ thể về cách giải hung tinh:
 
-`,
+- Tại Thìn, Tuất gặp Địa Không hoặc Địa Kiếp đồng cung hoặc hợp chiếu, Quang
+  Quý giải hầu hết tai họa.
+- Có thêm Kình Dương, Đà La hãm địa chiếu về cũng không sao.
+- Có thêm Thiên Hình, Thiên Riêu cả bộ đi cùng Không Kiếp thì giảm rất nhiều
+  tai họa nhưng không hết.`,
   },
 
   {
@@ -155,9 +143,8 @@ cực mạnh.
     sao: ['Ân Quang', 'Thiên Quý'],
     chi: ['Mão', 'Dậu'],
     doUuTien: 75,
-    tomTat: `**Quang Quý tại Mão / Dậu**:
-
-Có người cho rằng đắc tại Mão / Dậu — vẫn giữ được phẩm chất phúc tinh tốt.`,
+    tomTat: `Quang Quý tại Mão hoặc Dậu — có người cho rằng đắc tại đây, vẫn
+giữ được phẩm chất phúc tinh tốt.`,
   },
 
   {
@@ -165,27 +152,29 @@ Có người cho rằng đắc tại Mão / Dậu — vẫn giữ được phẩ
     title: 'Quang Quý - Khả năng giải họa chi tiết',
     sao: ['Ân Quang', 'Thiên Quý'],
     doUuTien: 60,
-    tomTat: `**Quang Quý GIẢI HỌA RẤT MẠNH** — đặc biệt khi thủ tại cung và đi đủ bộ.
+    tomTat: `Quang Quý giải họa rất mạnh, đặc biệt khi thủ tại cung và đi đủ
+bộ.
 
-**Mức độ giải họa theo thế đứng:**
-- **Đủ bộ thủ tại Thìn/Tuất/Sửu/Mùi**: mạnh mẽ nhất, giải hầu hết
-- **Đồng cung tại Sửu/Mùi**: giải được Hình Riêu Không Kiếp đủ bộ
-  thủ chiếu
-- **Tam hợp chiếu**: giải hung tinh hãm địa cả bộ chiếu, kể cả Kình Đà
-- **Đơn thủ** (chỉ 1 sao): hiệu lực **YẾU ĐI NHIỀU**
-- **Cách giáp Quang giáp Quý**: hầu như **KHÔNG có tác động** giải họa
-  khi trong cung có hung tinh hãm địa thủ
+Mức độ giải họa thay đổi theo thế đứng:
 
-**Giải được:**
-- Giải **Kình Dương hãm** tại Tý/Ngọ/Mão/Dậu
-- Giải **Không Kiếp Kình Đà Hỏa Linh Hình Riêu** (sát tinh hạng nặng)
-- Đồng cung giải được **Hình Riêu Không Kiếp ĐỦ BỘ thủ chiếu**
+- Đủ bộ thủ tại Thìn, Tuất, Sửu, Mùi: mạnh mẽ nhất, giải hầu hết.
+- Đồng cung tại Sửu, Mùi: giải được Hình Riêu Không Kiếp đủ bộ thủ chiếu.
+- Tam hợp chiếu: giải hung tinh hãm địa cả bộ chiếu, kể cả Kình Đà.
+- Đơn thủ (chỉ có một sao): hiệu lực yếu đi nhiều.
+- Cách giáp Quang giáp Quý: hầu như không có tác động giải họa khi trong
+  cung có hung tinh hãm địa thủ.
 
-**KHÔNG giải được:**
-- Cách **2 đời chồng/vợ** do **Tả Hữu tại Phu Thê** (không phải hung tinh
-  tác họa)
-- **THỊ PHI do Tuế Đà Kỵ** gây ra (không giải mạnh được)
-- Đơn thủ không giải được **Kình cư Ngọ + Hình Riêu tam hợp**`,
+Quang Quý giải được Kình Dương hãm tại Tý, Ngọ, Mão, Dậu; giải Địa Không,
+Địa Kiếp, Kình Dương, Đà La, Hỏa Tinh, Linh Tinh, Thiên Hình, Thiên Riêu —
+nhóm sát tinh hạng nặng. Khi đồng cung, bộ này còn giải được Hình Riêu Không
+Kiếp đủ bộ thủ chiếu.
+
+Tuy nhiên, có những trường hợp Quang Quý không giải được:
+
+- Cách hai đời chồng/vợ do Tả Phù, Hữu Bật tại Phu Thê (vì không phải hung
+  tinh tác họa).
+- Thị phi do Thái Tuế, Đà La, **Hóa Kỵ** gây ra (không giải mạnh được).
+- Đơn thủ không giải được Kình cư Ngọ cùng Hình Riêu tam hợp.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -198,14 +187,14 @@ Có người cho rằng đắc tại Mão / Dậu — vẫn giữ được phẩ
     sao: ['Ân Quang', 'Thiên Quý'],
     ketHop: ['Thai Phụ'],
     doUuTien: 55,
-    tomTat: `**Quang Quý + Thai Cáo** (Thai Phụ + Phong Cáo) — gọi là **"TỨ VINH"**
-(vinh hiển): **DỄ HIỂN ĐẠT**.
+    tomTat: `Quang Quý đi cùng Thai Phụ, Phong Cáo gọi là cách **Tứ Vinh**
+(vinh hiển) — đương số dễ hiển đạt.
 
-**Câu phú:** **"Thai Phụ Quang Quý sớm có công danh"** — trai thì hiển
+Câu phú lưu truyền: "Thai Phụ Quang Quý sớm có công danh" — trai thì hiển
 đạt, gái thì lấy chồng làm lớn.
 
-Bộ này phát rất sớm về **CÔNG DANH**, có cả **PHẨM TƯỚC** (Thai Cáo) và
-**PHÚC ĐỨC** (Quang Quý): vinh hiển toàn diện.`,
+Bộ này phát rất sớm về công danh, có cả phẩm tước (Thai Cáo) lẫn phúc đức
+(Quang Quý) — vinh hiển toàn diện.`,
   },
 
   {
@@ -214,24 +203,22 @@ Bộ này phát rất sớm về **CÔNG DANH**, có cả **PHẨM TƯỚC** (Th
     sao: ['Ân Quang', 'Thiên Quý'],
     ketHop: ['Thanh Long'],
     doUuTien: 55,
-    tomTat: `**Quang Quý + Tả Hữu + Thanh Long + Khôi Việt + Hoa Cái + Hồng Loan** —
-**THƯỢNG CÁCH**, chức vị lớn.
+    tomTat: `Khi Quang Quý hội Tả Phù, Hữu Bật, Thanh Long, Thiên Khôi, Thiên
+Việt, Hoa Cái và Hồng Loan — cách **thượng cách**, chức vị lớn.
 
-**Câu phú nổi tiếng:** **"Quý Ân Thanh Việt Cái Hồng - TRAI CẬN CỬU
-TRÙNG, NỮ TÁC CUNG PHI"**.
+Câu phú nổi tiếng:
 
-**Ý nghĩa:**
-- **Trai**: cận cửu trùng (gần vua) — bậc đại thần, cận thần
-- **Nữ**: tác cung phi — cao quý trong cung đình hoặc lấy chồng địa vị tột đỉnh
+> "Quý Ân Thanh Việt Cái Hồng
+> Trai cận cửu trùng, nữ tác cung phi"
 
-**Phân tích bộ sao:**
-- **Quang Quý**: phúc đức, sự che chở của trời
-- **Tả Hữu**: sự nâng đỡ của người đời
-- **Thanh Long**: long khí cao quý
-- **Khôi Việt**: Thiên Ất Quý Nhân
-- **Hoa Cái**: tâm linh phẩm cách
-- **Hồng Loan**: dung mạo phúc khí
-- Hội tụ cả **PHÚC + QUÝ + LỘC + DUYÊN** ở mức tột đỉnh.`,
+Trai thì cận cửu trùng (gần vua), bậc đại thần, cận thần; nữ thì tác cung
+phi — cao quý trong cung đình hoặc lấy chồng địa vị tột đỉnh.
+
+Phân tích vai trò mỗi sao trong bộ: Quang Quý đem phúc đức và sự che chở
+của trời; Tả Phù, Hữu Bật là sự nâng đỡ của người đời; Thanh Long mang long
+khí cao quý; Thiên Khôi cùng Thiên Việt là Thiên Ất Quý Nhân; Hoa Cái thêm
+phẩm cách tâm linh; Hồng Loan đem dung mạo phúc khí. Hội tụ cả phúc, quý,
+lộc, duyên ở mức tột đỉnh.`,
   },
 
   {
@@ -241,13 +228,12 @@ TRÙNG, NỮ TÁC CUNG PHI"**.
     chi: ['Thìn', 'Tuất'],
     ketHop: ['Thiên Cơ', 'Thiên Lương'],
     doUuTien: 55,
-    tomTat: `**Quang Quý + Thiên Cơ + Thiên Lương đồng cung Thìn/Tuất** — **ĐẠI QUÝ,
-LÀM NÊN**.
+    tomTat: `Quang Quý gặp Thiên Cơ và Thiên Lương đồng cung Thìn hoặc Tuất là
+cách **đại quý, làm nên**.
 
-**Phân tích:**
-- Cách **Cơ Lương Thìn/Tuất** đã đẹp (chính tinh hợp cách Tứ Mộ)
-- Thêm Quang Quý đắc địa Tứ Mộ: tăng cả **TRÍ TUỆ + PHÚC THỌ + QUÝ NHÂN**
-- Đường công danh thuận buồm xuôi gió, làm nên việc lớn`,
+Cách Cơ Lương Thìn/Tuất đã đẹp (chính tinh hợp cách Tứ Mộ). Thêm Quang Quý
+đắc địa Tứ Mộ thì tăng cả trí tuệ, phúc thọ và quý nhân — đường công danh
+thuận buồm xuôi gió, đương số làm nên việc lớn.`,
   },
 
   {
@@ -257,14 +243,12 @@ LÀM NÊN**.
     chi: ['Sửu', 'Mùi'],
     ketHop: ['Thiên Khôi'],
     doUuTien: 60,
-    tomTat: `**Quang Quý + Khôi Việt đồng cung Sửu/Mùi** — **ĐẠI QUÝ, LÀM NÊN**.
+    tomTat: `Quang Quý đi cùng Thiên Khôi, Thiên Việt đồng cung Sửu hoặc Mùi —
+cách **đại quý, làm nên**.
 
-**Phân tích:**
-- Quang Quý đắc cách Sửu/Mùi
-- Khôi Việt = **Thiên Ất Quý Nhân** = Quý Nhân tột đỉnh
-- Hai cặp Quý Nhân (linh thiêng + người đời) hội tụ tại đất Thổ: **PHÚC
-  ĐẠI THẶNG**
-- Đỗ đại khoa, làm quan đến chức cao`,
+Quang Quý đắc cách tại Sửu, Mùi; Khôi Việt là Thiên Ất Quý Nhân — quý nhân
+tột đỉnh. Hai cặp quý nhân (linh thiêng và người đời) hội tụ tại đất Thổ:
+phúc đại thặng. Đương số đỗ đại khoa, làm quan đến chức cao.`,
   },
 
   {
@@ -273,13 +257,11 @@ LÀM NÊN**.
     sao: ['Ân Quang', 'Thiên Quý'],
     ketHop: ['Thiên Tướng'],
     doUuTien: 55,
-    tomTat: `**Quang Quý + Thiên Tướng đồng cung** — **ĐẠI QUÝ, LÀM NÊN TO**.
+    tomTat: `Quang Quý gặp Thiên Tướng đồng cung là cách **đại quý, làm nên to**.
 
-**Phân tích:**
-- Thiên Tướng = sao **ẤN** (con dấu, quyền lực)
-- Quang Quý = quý nhân phù trợ
-- Cách **"PHÚC ẤM ĐỚI ẤN"** — vừa có quyền lực vừa có phúc trạch dày
-- Sự nghiệp lớn lao, phúc lộc dồi dào`,
+Thiên Tướng là sao Ấn (con dấu, quyền lực); Quang Quý là quý nhân phù trợ —
+hợp thành cách "phúc ấm đới ấn", vừa có quyền lực vừa có phúc trạch dày. Sự
+nghiệp của đương số lớn lao, phúc lộc dồi dào.`,
   },
 
   {
@@ -290,16 +272,15 @@ LÀM NÊN**.
     chi: ['Ngọ'],
     ketHop: ['Tả Phù', 'Thiên Lương'],
     doUuTien: 60,
-    tomTat: `**Quang Quý + Tả Hữu + Thiên Lương cư Ngọ** — **VĂN VÕ TOÀN TÀI**.
+    tomTat: `Quang Quý đi cùng Tả Phù, Hữu Bật và Thiên Lương cư Ngọ — đương
+số **văn võ toàn tài**.
 
-**Phân tích:**
-- **Thiên Lương cư Ngọ** vốn là cách đẹp (Lương đắc địa)
-- Thêm Tả Hữu phò trợ
-- Thêm Quang Quý làm phúc tinh
-- **VĂN VÕ TOÀN TÀI**, vừa giỏi học hành vừa giỏi binh nghiệp.
+Thiên Lương cư Ngọ vốn là cách đẹp (Lương đắc địa). Thêm Tả Phù, Hữu Bật phò
+trợ, lại thêm Quang Quý làm phúc tinh — đương số vừa giỏi học hành vừa giỏi
+binh nghiệp.
 
-**Lưu ý:** Thiên Lương ở chỗ khác (không phải Ngọ) cũng tốt nhưng không
-đạt mức "văn võ toàn tài" như tại Ngọ.`,
+Lưu ý: Thiên Lương ở chỗ khác (không phải Ngọ) cũng tốt, nhưng không đạt
+mức "văn võ toàn tài" như tại Ngọ.`,
   },
 
   {
@@ -308,15 +289,12 @@ LÀM NÊN**.
     sao: ['Ân Quang', 'Thiên Quý'],
     ketHop: ['Thiên Phúc', 'Hóa Quyền'],
     doUuTien: 55,
-    tomTat: `**Quang Quý + Thiên Phúc + Hóa Quyền + Hóa Lộc** — **LÀM LỚN**.
+    tomTat: `Quang Quý gặp Thiên Phúc, Hóa Quyền và Hóa Lộc — đương số **làm lớn**.
 
-**Phân tích bộ sao:**
-- **Quang Quý**: phúc tinh quý nhân
-- **Thiên Phúc**: phúc tinh + quý tinh
-- **Hóa Quyền**: quyền lực thực tế
-- **Hóa Lộc**: tài lộc thực tế
-- Hội tụ đủ **PHÚC + QUÝ + QUYỀN + LỘC**: đường công danh tột đỉnh, có
-địa vị cao trong xã hội.`,
+Bộ sao hội tụ đủ bốn yếu tố: Quang Quý là phúc tinh quý nhân, Thiên Phúc là
+phúc tinh kiêm quý tinh, Hóa Quyền cho quyền lực thực tế, **Hóa Lộc** cho
+tài lộc thực tế — phúc, quý, quyền, lộc đầy đủ. Đường công danh tột đỉnh,
+đương số có địa vị cao trong xã hội.`,
   },
 
   {
@@ -326,13 +304,11 @@ LÀM NÊN**.
     chi: ['Sửu', 'Mùi'],
     ketHop: ['Thiên Hỷ'],
     doUuTien: 55,
-    tomTat: `**Quang Quý + Thiên Hỷ tại Sửu/Mùi** — **CÔNG THÀNH DANH TOẠI**, được người
-giúp đỡ.
+    tomTat: `Quang Quý gặp Thiên Hỷ tại Sửu hoặc Mùi — đương số **công thành
+danh toại**, được người giúp đỡ.
 
-**Phân tích:**
-- Quang Quý đắc Sửu/Mùi (đại khoa)
-- Thiên Hỷ tại Tứ Mộ: hỷ sự, may mắn
-- Đường công danh thuận lợi, gặp niềm vui song hành với danh vọng.`,
+Quang Quý đắc cách Sửu, Mùi (đại khoa); Thiên Hỷ tại Tứ Mộ chủ hỷ sự, may
+mắn. Đường công danh thuận lợi, niềm vui đi song hành với danh vọng.`,
   },
 
   {
@@ -341,16 +317,15 @@ giúp đỡ.
     sao: ['Ân Quang', 'Thiên Quý'],
     ketHop: ['Kình Dương'],
     doUuTien: 45,
-    tomTat: `**Quang Quý gặp Tứ Sát** (Kình Dương + Đà La + Hỏa Tinh + Linh Tinh) —
-**PHÚC LỘC KÉM ĐI**.
+    tomTat: `Khi Quang Quý gặp Tứ Sát (Kình Dương, Đà La, Hỏa Tinh, Linh Tinh)
+thì phúc lộc kém đi.
 
-**Phân tích:**
-- Tứ Sát đông đảo cản trở phúc tinh
-- Quang Quý vẫn giải họa nhưng không phát triển được tốt nhất
-- Phúc khí bị triết giảm
-- Cuộc đời vẫn an ổn nhưng khó hiển đạt lớn
+Tứ Sát đông đảo cản trở phúc tinh; Quang Quý vẫn giải họa nhưng không phát
+triển được tốt nhất, phúc khí bị triết giảm. Cuộc đời đương số vẫn an ổn
+nhưng khó hiển đạt lớn.
 
-**Hóa giải:** Vị trí đắc cách của Quang Quý phần nào bù đắp.`,
+Hóa giải: vị trí đắc cách của Quang Quý (Sửu, Mùi, Thìn, Tuất) phần nào bù
+đắp cho thế bị Tứ Sát quấy phá.`,
   },
 
   {
@@ -359,13 +334,12 @@ giúp đỡ.
     sao: ['Ân Quang', 'Thiên Quý'],
     ketHop: ['Thái Dương'],
     doUuTien: 50,
-    tomTat: `**Quang Quý phù trì Thái Dương / Thái Âm** — bộ phù trợ rất hợp.
+    tomTat: `Quang Quý phù trì Thái Dương, Thái Âm — bộ phù trợ rất hợp.
 
-**Phân tích:**
-- Xương Khúc là bộ phù trì mạnh mẽ cho Nhật Nguyệt
-- Quang Quý cũng phù trì cho Nhật Nguyệt **HỢP HƠN CÁC SAO KHÁC**
-- Nhật Nguyệt sáng + Quang Quý: tăng phúc khí, danh vọng vang xa
-- Đặc biệt khi Nhật Nguyệt đắc địa`,
+Văn Xương cùng Văn Khúc là bộ phù trì mạnh mẽ cho Nhật Nguyệt, song Quang
+Quý cũng phù trì cho Nhật Nguyệt hợp hơn các sao khác. Khi Nhật Nguyệt sáng
+hội Quang Quý, đương số tăng phúc khí, danh vọng vang xa — đặc biệt khi Nhật
+Nguyệt đắc địa.`,
   },
 
   {
@@ -373,23 +347,25 @@ giúp đỡ.
     title: 'Quang Quý vào hạn',
     sao: ['Ân Quang', 'Thiên Quý'],
     doUuTien: 50,
-    tomTat: `**Quang Quý vào hạn** — **GIẢI RẤT LỚN TAI HỌA** xảy ra. Mưu cầu công
-danh có lợi, **THI ĐỖ** (nhất là tại Sửu/Mùi).
+    tomTat: `Quang Quý vào hạn giải rất lớn tai họa xảy ra; mưu cầu công danh
+có lợi, đương số thi đỗ — nhất là tại Sửu, Mùi.
 
-**Câu phú:** **"Quý Ân Sửu Mùi hạn cầu - Đường mây gặp bước cao sâu
-cửu trùng"**.
+Câu phú lưu truyền:
 
-**Hạn đại vận có Quang Quý 50-60 tuổi:**
-- Cuộc sống **ÊM ĐỀM, MAY MẮN, AN NHÀN**
-- Hướng tới **BÌNH YÊN, HƯỚNG THIỆN, TU TÂM HỌC ĐẠO**
-- Tránh xa cạnh tranh, không mưu cầu vật chất hay địa vị
+> "Quý Ân Sửu Mùi hạn cầu
+> Đường mây gặp bước cao sâu cửu trùng"
 
-**Hạn ở mọi tuổi:**
-- **Sự nghiệp:** dễ gặp người nâng đỡ, được tin tưởng, giao dự án quan trọng
-- **Tài chính:** nguồn thu ngoài dự kiến (thưởng, hợp đồng lớn, đầu tư
-  sinh lời)
-- **Học hành:** gặp thầy giỏi, môi trường thuận, cơ hội học bổng
-- **Gia đạo:** quan hệ hòa thuận, mở rộng giao thiệp tốt`,
+Trong hạn đại vận có Quang Quý quãng 50-60 tuổi, cuộc sống của đương số êm
+đềm, may mắn, an nhàn; hướng tới bình yên, hướng thiện, tu tâm học đạo;
+tránh xa cạnh tranh, không mưu cầu vật chất hay địa vị.
+
+Ở mọi tuổi nói chung, hạn Quang Quý có những biểu hiện:
+
+- Sự nghiệp: dễ gặp người nâng đỡ, được tin tưởng, được giao dự án quan trọng.
+- Tài chính: có nguồn thu ngoài dự kiến (thưởng, hợp đồng lớn, đầu tư sinh
+  lời).
+- Học hành: gặp thầy giỏi, môi trường thuận, có cơ hội học bổng.
+- Gia đạo: quan hệ hòa thuận, mở rộng giao thiệp tốt.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -402,33 +378,30 @@ cửu trùng"**.
     sao: ['Ân Quang'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Ân Quang thủ Mệnh** — lá số của người **"GẶP HUNG HÓA CÁT"**, cuộc sống
-hiếm khi rơi vào bế tắc lâu dài.
+    tomTat: `Ân Quang thủ Mệnh là lá số của người "gặp hung hóa cát" — cuộc
+sống đương số hiếm khi rơi vào bế tắc lâu dài.
 
-**Tướng hình:**
-- Gương mặt **PHÚC HẬU, SÁNG SỦA**, dễ tạo thiện cảm ngay từ lần gặp đầu
-- Dáng vẻ điềm đạm, cử chỉ từ tốn, chừng mực
-- Dễ được tin tưởng và kính trọng
+Về tướng hình, đương số có gương mặt phúc hậu, sáng sủa, dễ tạo thiện cảm
+ngay từ lần gặp đầu; dáng vẻ điềm đạm, cử chỉ từ tốn, chừng mực; dễ được
+tin tưởng và kính trọng.
 
-**Tính cách:**
-- **Tâm hồn phúc thiện, ăn hiền ở lành, có thiện tâm, nhân hậu**, hay giúp người
-- **Thông minh, ôn hòa, vui vẻ, trọng ân nghĩa**
-- Đối xử có tình nghĩa, có trước có sau, không lọc lừa bội phản
-- Cư xử tình nghĩa với bạn bè, hiếu đễ với cha mẹ, chung thủy với vợ chồng
+Về tính cách, đương số tâm hồn phúc thiện, ăn hiền ở lành, có thiện tâm,
+nhân hậu, hay giúp người; thông minh, ôn hòa, vui vẻ, trọng ân nghĩa; đối
+xử có tình nghĩa, có trước có sau, không lọc lừa bội phản; cư xử tình nghĩa
+với bạn bè, hiếu đễ với cha mẹ, chung thủy với vợ chồng.
 
-**Cát tinh hội (Tả Hữu, Thiên Quan, Thiên Phúc):**
-- Hợp thành **"ĐOÀN PHÚC TINH"**
-- Hậu thuẫn mạnh mẽ từ các mối quan hệ bạn bè, xã hội
+Khi cát tinh hội (Tả Phù, Hữu Bật, Thiên Quan, Thiên Phúc), Ân Quang hợp
+thành "đoàn phúc tinh" — đương số được hậu thuẫn mạnh mẽ từ các mối quan hệ
+bạn bè, xã hội.
 
-**Phúc thọ:**
-- Giảm nhẹ bệnh tật, vận xui, **TUỔI THỌ DÀI**
-- Khi gặp hoạn nạn dễ được trả ơn, có người cứu giúp
-- Lâm bệnh thường gặp **BÁC SĨ GIỎI, PHƯƠNG THUỐC HỢP**: nhanh hồi phục
+Về phúc thọ, Ân Quang tại Mệnh giúp giảm nhẹ bệnh tật, vận xui; tuổi thọ
+dài; khi gặp hoạn nạn dễ được trả ơn, có người cứu giúp; lâm bệnh thường
+gặp bác sĩ giỏi, phương thuốc hợp nên nhanh hồi phục.
 
-**Cảnh báo:** Cần học cách **ĐẶT RANH GIỚI**, giữ tỉnh táo — không bị
-lợi dụng lòng tốt khi quá tin người hoặc ngại va chạm.
+Cảnh báo: đương số cần học cách đặt ranh giới, giữ tỉnh táo — không bị lợi
+dụng lòng tốt khi quá tin người hoặc ngại va chạm.
 
-**Thường được người ưa quý chuộng** dù không làm lớn.`,
+Dù đương số không làm lớn, vẫn thường được người ưa quý chuộng.`,
   },
 
   {
@@ -437,16 +410,15 @@ lợi dụng lòng tốt khi quá tin người hoặc ngại va chạm.
     sao: ['Ân Quang'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Ân Quang tại Phụ Mẫu** — gia đình **YÊN ẤM**, cha mẹ **HIỀN LƯƠNG, PHÚC
-ĐỨC**, là chỗ dựa vững chắc về cả tinh thần lẫn vật chất.
+    tomTat: `Ân Quang tại Phụ Mẫu cho gia đình yên ấm, cha mẹ hiền lương, phúc
+đức — là chỗ dựa vững chắc về cả tinh thần lẫn vật chất.
 
-**Đặc trưng:**
-- Mối quan hệ với cha mẹ **HÀI HÒA**, hiếm khi có mâu thuẫn lớn
-- Có thể có **BỐ MẸ NUÔI** hoặc người **ĐỠ ĐẦU**
-- Đối xử tốt với cha mẹ, được cha mẹ thương yêu
+Mối quan hệ giữa đương số và cha mẹ hài hòa, hiếm khi có mâu thuẫn lớn.
+Đương số có thể có bố mẹ nuôi hoặc người đỡ đầu; đối xử tốt với cha mẹ và
+được cha mẹ thương yêu.
 
-**Khi cung Phụ Mẫu gặp sao xấu:** Ân Quang vẫn giúp **GIẢM THIỂU XUNG ĐỘT**
-và giữ gìn sự gắn kết trong gia đình.`,
+Khi cung Phụ Mẫu gặp sao xấu, Ân Quang vẫn giúp giảm thiểu xung đột và giữ
+gìn sự gắn kết trong gia đình.`,
   },
 
   {
@@ -455,21 +427,18 @@ và giữ gìn sự gắn kết trong gia đình.`,
     sao: ['Ân Quang'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Ân Quang tại Phúc Đức** — được **THẦN LINH CHE CHỞ**, hưởng nhiều phúc
-đức từ gia tiên.
+    tomTat: `Ân Quang tại Phúc Đức cho đương số được thần linh che chở, hưởng
+nhiều phúc đức từ gia tiên.
 
-**Đặc trưng:**
-- Cuộc sống **NHẸ GÁNH** hơn người, **TUỔI THỌ CAO**, tâm an mệnh vững
-- Dòng họ **THỊNH VƯỢNG**, nhiều người **HIỀN LƯƠNG, HƯỚNG THIỆN**
-- Có người làm các nghề **Y HỌC** (thầy thuốc, giáo viên)
+Cuộc sống nhẹ gánh hơn người, tuổi thọ cao, tâm an mệnh vững. Dòng họ thịnh
+vượng, nhiều người hiền lương, hướng thiện; có người làm các nghề y học như
+thầy thuốc, giáo viên.
 
-**Tâm linh:**
-- Người gìn giữ truyền thống, sống **HIẾU LỄ** với gia tộc tổ tiên
-- **MỒ MẢ DÒNG HỌ** được chăm lo chu toàn: trở thành điểm tựa tâm linh
-  bền vững
-- Khi chết được người **HIẾN ĐẤT**
+Về mặt tâm linh, đương số là người gìn giữ truyền thống, sống hiếu lễ với
+gia tộc tổ tiên; mồ mả dòng họ được chăm lo chu toàn, trở thành điểm tựa
+tâm linh bền vững. Khi đương số chết, lại được người hiến đất.
 
-Phúc phần gia tiên tích nhờ tôn chỉ sống có **ĐẠO NGHĨA** suốt cuộc đời.`,
+Phúc phần gia tiên tích nhờ tôn chỉ sống có đạo nghĩa suốt cuộc đời.`,
   },
 
   {
@@ -478,20 +447,16 @@ Phúc phần gia tiên tích nhờ tôn chỉ sống có **ĐẠO NGHĨA** suố
     sao: ['Ân Quang'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Ân Quang tại Điền Trạch** — có **LỘC VỚI NHÀ CỬA, ĐẤT ĐAI**.
+    tomTat: `Ân Quang tại Điền Trạch cho đương số có lộc với nhà cửa, đất đai.
 
-**Đặc trưng:**
-- Đất đai **THỪA HƯỞNG TỪ TỔ TIÊN**
-- Có **NGƯỜI HIẾN ĐẤT, GIÚP XÂY NHÀ** trong quá trình sinh sống
-- Hưởng thừa tự của người trong họ
+Đất đai thừa hưởng từ tổ tiên; trong quá trình sinh sống có người hiến đất,
+giúp xây nhà; đương số hưởng thừa tự của người trong họ.
 
-**Cát tinh hội (sao tài lộc):**
-- Khả năng **KINH DOANH, ĐẦU TƯ BẤT ĐỘNG SẢN** thành công cao
-- Tăng thêm nguồn thu đáng kể
+Khi cát tinh hội (sao tài lộc), khả năng kinh doanh, đầu tư bất động sản
+thành công cao, thêm nguồn thu đáng kể.
 
-**Tâm tính:**
-- Sẵn sàng **QUYÊN GÓP** tài sản, đất đai để giúp đỡ cộng đồng
-- Phúc phần luôn **DỒI DÀO**, hiếm khi rơi vào sa cơ thất thế`,
+Về tâm tính, đương số sẵn sàng quyên góp tài sản, đất đai để giúp đỡ cộng
+đồng — phúc phần luôn dồi dào, hiếm khi rơi vào sa cơ thất thế.`,
   },
 
   {
@@ -500,20 +465,17 @@ Phúc phần gia tiên tích nhờ tôn chỉ sống có **ĐẠO NGHĨA** suố
     sao: ['Ân Quang'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Ân Quang tại Tật Ách** — như **TẤM LÁ CHẮN BẢO VỆ**, giúp giảm bớt rủi
-ro về bệnh tật và tai ương.
+    tomTat: `Ân Quang tại Tật Ách như tấm lá chắn bảo vệ, giúp đương số giảm
+bớt rủi ro về bệnh tật và tai ương.
 
-**Đặc trưng:**
-- **ÍT BỆNH TẬT, TAI HỌA**
-- Đau ốm gặp **THẦY GIỎI, THUỐC HAY**
+Đương số ít bệnh tật, tai họa; đau ốm gặp thầy giỏi, thuốc hay.
 
-**Khi có sao xấu (Bệnh Phù, Địa Kiếp):**
-- Ân Quang giúp **GIẢM MỨC ĐỘ NẶNG**
-- Gặp đúng thầy thuốc, phương pháp điều trị hiệu quả
-- Nhờ đó vượt qua biến cố
+Khi có sao xấu (Bệnh Phù, Địa Kiếp), Ân Quang giúp giảm mức độ nặng — đương
+số gặp đúng thầy thuốc, phương pháp điều trị hiệu quả, nhờ đó vượt qua biến
+cố.
 
-**Cuộc sống nhìn chung ÍT BỊ BIẾN CỐ NGHIÊM TRỌNG đeo bám** — nếu có,
-phần đa **GẶP DỮ HÓA LÀNH**.`,
+Cuộc sống nhìn chung ít bị biến cố nghiêm trọng đeo bám; nếu có thì phần đa
+gặp dữ hóa lành.`,
   },
 
   {
@@ -522,21 +484,17 @@ phần đa **GẶP DỮ HÓA LÀNH**.`,
     sao: ['Ân Quang'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Ân Quang tại Nô Bộc** — **MỐI QUAN HỆ XÃ HỘI THUẬN LỢI**.
+    tomTat: `Ân Quang tại Nô Bộc cho đương số có mối quan hệ xã hội thuận lợi.
 
-**Đặc trưng:**
-- Bạn bè, cộng sự **GIÚP ĐỠ TẬN TÌNH**
-- Có **CẤP DƯỚI TRUNG THÀNH**, đối tác lâu dài
-- Đối xử có nghĩa với bạn bè, lấy chí thành mà đãi người
-- Có **TÔI TỚ ĐẮC LỰC**
+Bạn bè, cộng sự giúp đỡ tận tình; đương số có cấp dưới trung thành, đối tác
+lâu dài; đối xử có nghĩa với bạn bè, lấy chí thành mà đãi người; có tôi tớ
+đắc lực.
 
-**Trong kinh doanh:**
-- Dễ xây dựng **MẠNG LƯỚI QUAN HỆ VỮNG MẠNH**
-- Có nhiều khách hàng tiềm năng
+Trong kinh doanh, đương số dễ xây dựng mạng lưới quan hệ vững mạnh, có
+nhiều khách hàng tiềm năng.
 
-**Đi cùng Thiên Quý: bộ Quang Quý:**
-- Bạn bè, cộng sự không chỉ giúp đỡ
-- Còn **MỞ RA NHỮNG CƠ HỘI LỚN** trong sự nghiệp`,
+Khi đi cùng **Thiên Quý** thành bộ Quang Quý, bạn bè và cộng sự không chỉ
+giúp đỡ mà còn mở ra những cơ hội lớn trong sự nghiệp.`,
   },
 
   {
@@ -545,21 +503,17 @@ phần đa **GẶP DỮ HÓA LÀNH**.`,
     sao: ['Ân Quang'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Ân Quang tại Thiên Di** — **MAY MẮN, THUẬN LỢI** khi đi xa, đi công tác,
-mở rộng mối quan hệ xã hội.
+    tomTat: `Ân Quang tại Thiên Di cho đương số may mắn, thuận lợi khi đi xa,
+đi công tác, mở rộng mối quan hệ xã hội.
 
-**Đặc trưng:**
-- Ra xã hội hay gặp **HÊN MAY**, được người giúp đỡ
-- **GIẢI RẤT NHIỀU TAI HỌA**
-- Có **BẠN HỮU TỐT**
+Ra xã hội đương số hay gặp hên may, được người giúp đỡ; giải rất nhiều tai
+họa; có bạn hữu tốt.
 
-**Trên đường công tác / du học / lập nghiệp xa:**
-- Thường gặp **QUÝ NHÂN**
-- Mở ra cơ hội ở môi trường mới
+Trên đường công tác, du học hoặc lập nghiệp xa, đương số thường gặp quý
+nhân, mở ra cơ hội ở môi trường mới.
 
-**Đi cùng Thiên Quý: bộ Quang Quý:**
-- Cơ hội từ bên ngoài **CÀNG LỚN**
-- Có thể mở ra **BƯỚC NGOẶT LỚN** trong sự nghiệp hoặc cuộc sống`,
+Khi đi cùng **Thiên Quý** thành bộ Quang Quý, cơ hội từ bên ngoài càng lớn
+— có thể mở ra bước ngoặt lớn trong sự nghiệp hoặc cuộc sống.`,
   },
 
   {
@@ -568,24 +522,19 @@ mở rộng mối quan hệ xã hội.
     sao: ['Ân Quang'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Ân Quang tại Quan Lộc** — một trong những **VỊ TRÍ TỐT NHẤT** cho sự
-nghiệp.
+    tomTat: `Ân Quang tại Quan Lộc là một trong những vị trí **hợp cách** nhất
+cho sự nghiệp.
 
-**Đặc trưng:**
-- Dễ được **LÃNH ĐẠO TÍN NHIỆM**
-- Cơ hội **PHÁT TRIỂN LỚN**
-- Được người trên **GIÚP ĐỠ, CHE CHỞ**
-- Hay giúp đỡ đồng nghiệp, lấy chí thành mà đãi người
+Đương số dễ được lãnh đạo tín nhiệm, có cơ hội phát triển lớn, được người
+trên giúp đỡ che chở; bản thân đương số cũng hay giúp đỡ đồng nghiệp, lấy
+chí thành mà đãi người.
 
-**Tính cách trong công việc:**
-- **KHÔNG ƯA CẠNH TRANH, KÈN CỰA**
-- Không bao giờ làm điều ác hay bất nhân để đạt mục đích
-- Luôn được mọi người **TIN TƯỞNG, NGƯỠNG MỘ**
+Trong công việc, đương số không ưa cạnh tranh, kèn cựa; không bao giờ làm
+điều ác hay bất nhân để đạt mục đích — luôn được mọi người tin tưởng,
+ngưỡng mộ.
 
-**Hợp cách - Nghề nghiệp đẹp:**
-- **THẦY THUỐC, BÁC SĨ, THẦY GIÁO**
-- **CÔNG TÁC XÃ HỘI, TỪ THIỆN**
--: Dễ đạt **THÀNH CÔNG BỀN VỮNG**, được người đời kính trọng`,
+Hợp với các nghề: thầy thuốc, bác sĩ, thầy giáo, công tác xã hội, từ thiện
+— đương số dễ đạt thành công bền vững, được người đời kính trọng.`,
   },
 
   {
@@ -594,24 +543,19 @@ nghiệp.
     sao: ['Ân Quang'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Ân Quang tại Tài Bạch** — gặp nhiều **VẬN MAY VỀ TIỀN BẠC, TÀI CHÍNH**.
+    tomTat: `Ân Quang tại Tài Bạch cho đương số gặp nhiều vận may về tiền bạc,
+tài chính.
 
-**Đặc trưng:**
-- Khả năng **CÂN ĐỐI THU CHI** ổn định
-- Hiếm khi rơi vào cảnh thiếu thốn kéo dài
-- Nghèo túng có người giúp đỡ
-- Có thể được hưởng **DI SẢN**
-- Hay giúp đỡ người nghèo
+Đương số có khả năng cân đối thu chi ổn định, hiếm khi rơi vào cảnh thiếu
+thốn kéo dài; lúc nghèo túng có người giúp đỡ; có thể được hưởng di sản;
+hay giúp đỡ người nghèo.
 
-**Cát tinh hội (Hóa Lộc, Lộc Tồn):**
-- Vận may càng **THỊNH VƯỢNG**
-- Dễ thăng tiến, đầu tư thành công
-- Được người quen giới thiệu cơ hội tốt
+Khi cát tinh hội (Hóa Lộc, Lộc Tồn), vận may càng thịnh vượng — dễ thăng
+tiến, đầu tư thành công, được người quen giới thiệu cơ hội tốt.
 
-**Sát tinh hội (Hóa Kỵ, Kình Dương):**
-- May mắn bị cản trở
-- Ân Quang **GIẢM THIỂU THIỆT HẠI** nhưng không loại bỏ rủi ro hoàn toàn
-- Cần thận trọng với dự án tài chính mạo hiểm`,
+Khi sát tinh hội (**Hóa Kỵ**, Kình Dương), may mắn bị cản trở; Ân Quang giảm
+thiểu thiệt hại nhưng không loại bỏ rủi ro hoàn toàn — đương số cần thận
+trọng với dự án tài chính mạo hiểm.`,
   },
 
   {
@@ -620,18 +564,15 @@ nghiệp.
     sao: ['Ân Quang'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Ân Quang tại Tử Tức** — **CON CÁI HIẾU THẢO, DỄ NUÔI DẠY**.
+    tomTat: `Ân Quang tại Tử Tức cho con cái của đương số hiếu thảo, dễ nuôi
+dạy.
 
-**Đặc trưng:**
-- **THƯƠNG CON**, có **CON SANG QUÝ**
-- Con cái **HIẾU ĐỄ** với cha mẹ và được cha mẹ thương yêu
-- Có thể **LẬP CON NUÔI** để làm phúc
-- Ít khi gặp xung đột lớn hay mâu thuẫn nghiêm trọng giữa các thế hệ
+Đương số thương con, có con sang quý; con cái hiếu đễ với cha mẹ và được cha
+mẹ thương yêu; có thể lập con nuôi để làm phúc; ít khi gặp xung đột lớn hay
+mâu thuẫn nghiêm trọng giữa các thế hệ.
 
-**Đi cùng Thiên Quý + sao phúc tinh:**
-- Con cái không chỉ hiếu thuận
-- Còn **MANG LẠI VẬN MAY** cho cha mẹ
-- Có thể **THÀNH ĐẠT** và hỗ trợ gia đình`,
+Khi đi cùng **Thiên Quý** và sao phúc tinh, con cái không chỉ hiếu thuận mà
+còn mang lại vận may cho cha mẹ, có thể thành đạt và hỗ trợ gia đình.`,
   },
 
   {
@@ -640,25 +581,20 @@ nghiệp.
     sao: ['Ân Quang'],
     cung: ['Phu Thê'],
     doUuTien: 76,
-    tomTat: `**Ân Quang tại Phu Thê** — **HÔN NHÂN HÒA THUẬN, HẠNH PHÚC**.
+    tomTat: `Ân Quang tại Phu Thê cho hôn nhân hòa thuận, hạnh phúc.
 
-**Đặc trưng:**
-- Lấy **VỢ CHỒNG QUÝ**, vợ chồng **ÂN ÁI HÒA THUẬN**
-- Vợ chồng **XỨNG LỨA VỪA ĐÔI**
-- Dù trải qua sóng gió vẫn **MỘT LÒNG SẮT SON**
+Đương số lấy được vợ hoặc chồng quý; vợ chồng ân ái hòa thuận, xứng lứa vừa
+đôi; dù trải qua sóng gió vẫn một lòng sắt son.
 
-**Hóa giải nghiệp vợ chồng:**
-- Là **BỘ SAO HÓA GIẢI NGHIỆP** vợ chồng
-- Dù có xung khắc thế nào, cuối cùng cả hai vẫn **Ở CẠNH NHAU ĐẾN GIÀ**
+Đây là bộ sao hóa giải nghiệp vợ chồng: dù có xung khắc thế nào, cuối cùng
+cả hai vẫn ở cạnh nhau đến già.
 
-**Cát tinh hội (sao tài lộc, quyền quý):**
-- Hôn nhân mang lại **LỢI ÍCH KINH TẾ**
-- Tạo điều kiện tốt cho công việc, địa vị của đôi bên
+Khi cát tinh hội (sao tài lộc, quyền quý), hôn nhân mang lại lợi ích kinh
+tế, tạo điều kiện tốt cho công việc, địa vị của đôi bên. Khi sát tinh hội,
+Ân Quang giúp giảm nhẹ xung đột.
 
-**Sát tinh hội:** Ân Quang giúp **GIẢM NHẸ XUNG ĐỘT**.
-
-**LƯU Ý đặc biệt:** Quang Quý KHÔNG giải được cách **2 ĐỜI CHỒNG/VỢ**
-do **Tả Hữu tại Phu Thê** gây ra (vì không phải hung tinh tác họa).`,
+Lưu ý đặc biệt: Quang Quý không giải được cách hai đời chồng/vợ do Tả Phù,
+Hữu Bật tại Phu Thê gây ra (vì không phải hung tinh tác họa).`,
   },
 
   {
@@ -667,17 +603,14 @@ do **Tả Hữu tại Phu Thê** gây ra (vì không phải hung tinh tác họa
     sao: ['Ân Quang'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Ân Quang tại Huynh Đệ** — **SỰ GẮN KẾT, YÊU THƯƠNG** giữa anh chị em.
+    tomTat: `Ân Quang tại Huynh Đệ cho sự gắn kết, yêu thương giữa anh chị em.
 
-**Đặc trưng:**
-- Đối xử với anh chị em **CÓ TÌNH NGHĨA**
-- Anh chị em **HÒA THUẬN, GIÚP ĐỠ LẪN NHAU** (đặc biệt khi đồng cung và
-  không gặp hung tinh hoặc Tuế Đà Kỵ)
-- Có khả năng có **ANH CHỊ EM KẾT NGHĨA, CHỊ EM NUÔI**
-- Hỗ trợ về **TINH THẦN VÀ TÀI CHÍNH** khi cần thiết
+Đương số đối xử với anh chị em có tình nghĩa; anh chị em hòa thuận, giúp đỡ
+lẫn nhau (đặc biệt khi đồng cung và không gặp hung tinh hoặc Thái Tuế, Đà
+La, **Hóa Kỵ**); có khả năng có anh chị em kết nghĩa, chị em nuôi; hỗ trợ
+nhau về tinh thần và tài chính khi cần thiết.
 
-**Trường hợp anh chị em thành đạt:**
-- Chính là **QUÝ NHÂN QUAN TRỌNG**
-- Mở ra cơ hội lớn cho đương số`,
+Trường hợp anh chị em thành đạt, họ chính là quý nhân quan trọng của đương
+số, mở ra cơ hội lớn.`,
   },
 ];

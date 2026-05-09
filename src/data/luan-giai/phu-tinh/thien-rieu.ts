@@ -26,30 +26,24 @@ export const luanGiai_ThienRieu: DoanLuanGiai[] = [
     title: 'Thiên Riêu - Đặc tính chung',
     sao: ['Thiên Riêu'],
     doUuTien: 32,
-    tomTat: `**Thiên Riêu** — phụ tinh **DÂM TINH + ÁM TINH + BẠI TINH**, an theo
-**tháng sinh**.
+    tomTat: `**Thiên Riêu** là phụ tinh mang ba thuộc tính cùng lúc — Dâm Tinh,
+Ám Tinh và Bại Tinh — được an theo tháng sinh, ngũ hành Thủy.
 
-**Ngũ hành:** **Thủy**.
+Đặc tính của sao thiên về phong lưu khoái lạc, chơi bời, a dua, dễ tin và mờ
+ám. Khí Thủy khiến đương số mang nét u buồn, đa sầu đa cảm và lãng mạn. Vì
+khởi từ Sửu — nơi giao hoan đất trời — sao chủ về ham muốn nhục dục. Hình
+tượng đặc trưng là lông tóc nhiều, ứng với nhu cầu sinh lý cao.
 
-**Đặc tính:**
-- **Phong lưu khoái lạc, chơi bời, a dua, dễ tin, mờ ám**
-- Thủy: **U BUỒN, ĐA SẦU, ĐA CẢM, LÃNG MẠN**
-- Khởi từ **SỬU** (giao hoan đất trời): ham muốn **NHỤC DỤC**
+Vị trí của Thiên Riêu cho khác biệt rõ rệt:
 
-**Hình tượng:** LÔNG TÓC nhiều — đặc điểm nhu cầu sinh lý cao.
+- **Đắc** địa tại Dần, Mão, Thân, Dậu: thông minh, sắc bén, khôn ngoan, kín
+  đáo
+- **Hãm** địa tại các cung còn lại: bộc lộ phong lưu, dâm dục, chơi bời
 
-**Vị trí - khác biệt rõ rệt:**
-- **ĐẮC ĐỊA Dần/Mão/Thân/Dậu**: thông minh, sắc bén, khôn ngoan, kín đáo
-- **HÃM ĐỊA** các cung còn lại: bộc lộ phong lưu, dâm dục, chơi bời
-
-**Là 1 trong 3 sao TAM ÁM:** Riêu - Đà La - Hóa Kỵ: mê tín tâm linh
-đồng bóng, dễ bị ma tà ám.
-
-**Quy luật:**
-- **LUÔN ĐỒNG CUNG Thiên Y** (engine hardcode)
-- **LUÔN TAM HỢP Thiên Hình**: bộ Riêu-Y-Hình
-
-**Cản trở:** đặc biệt cản sự sáng sủa của **NHẬT NGUYỆT**.`,
+Thiên Riêu cùng Đà La và Hóa Kỵ tạo thành bộ Tam Ám: đương số mê tín tâm linh
+đồng bóng, dễ bị ma tà ám. Theo quy luật engine, sao luôn đồng cung với Thiên
+Y và luôn tam hợp Thiên Hình tạo thành bộ Riêu-Y-Hình. Sao đặc biệt cản trở
+sự sáng sủa của Nhật Nguyệt.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -61,24 +55,23 @@ export const luanGiai_ThienRieu: DoanLuanGiai[] = [
     title: 'Bộ Riêu-Y - Hai thái cực Bệnh & Thuốc cân bằng',
     sao: ['Thiên Riêu', 'Thiên Y'],
     doUuTien: 60,
-    tomTat: `**Bộ Riêu-Y** (Thiên Riêu + Thiên Y đồng cung) — **HAI THÁI CỰC** đối xứng:
+    tomTat: `Bộ Riêu-Y gồm Thiên Riêu và Thiên Y đồng cung là hai thái cực đối
+xứng trong tử vi. Cả hai sao cùng khởi tại Sửu — giao hoan đất trời, thủy
+triều cao nhất, lúc con người cần ấm áp. Thiên Riêu được xem là "bệnh của
+nhà trời" với phong tình sắc dục và tính ám tinh; Thiên Y là "thuốc của nhà
+trời" với khí thanh khiết, có khả năng chữa bệnh và cứu giải.
 
-**Triết lý cân bằng:**
-- Cả 2 sao cùng khởi tại **Sửu** (giao hoan đất trời, thủy triều cao nhất,
-  con người cần ấm áp)
-- **THIÊN RIÊU** = **BỆNH CỦA NHÀ TRỜI** (phong tình sắc dục, ám tinh)
-- **THIÊN Y** = **THUỐC CỦA NHÀ TRỜI** (thanh khiết, chữa bệnh, cứu giải)
+Quy luật cân bằng theo vị trí của bộ Riêu-Y:
 
-**Quy luật cân bằng theo vị trí:**
-- ⚖️ **HÃM ĐỊA**: đòn cân nghiêng về **THIÊN RIÊU** (tác họa dâm dục)
-  - Khả năng cứu giải của Thiên Y còn yếu
-  - Đặc tính phong lưu, dâm đãng, ám tinh bộc phát mạnh
-- ⚖️ **ĐẮC ĐỊA** (Dần/Mão/Thân/Dậu): đòn cân nghiêng về **THIÊN Y**
-  - Đặc tính y học, y dược lấn át
-  - Dục tính Riêu vẫn còn nhưng được Y **GIẤU KÍN**, kín đáo không lộ ra
+- Tại **Hãm** địa, đòn cân nghiêng về Thiên Riêu — tác họa dâm dục lấn át.
+  Khả năng cứu giải của Thiên Y còn yếu, đặc tính phong lưu, dâm đãng và ám
+  tinh bộc phát mạnh.
+- Tại **Đắc** địa Dần, Mão, Thân, Dậu, đòn cân nghiêng về Thiên Y. Đặc tính
+  y học, y dược của Thiên Y lấn át; dục tính của Thiên Riêu vẫn còn nhưng
+  được Thiên Y giấu kín, kín đáo không lộ ra.
 
-**Như sen mọc trong bùn** — đắc địa không mất ý nghĩa dâm dục, chỉ là
-khôn khéo che giấu.`,
+Như sen mọc trong bùn, đắc địa không khiến đương số mất đi ý nghĩa dâm dục
+của Thiên Riêu, chỉ là khôn khéo che giấu mà thôi.`,
   },
 
   {
@@ -87,23 +80,21 @@ khôn khéo che giấu.`,
     sao: ['Thiên Riêu', 'Thiên Y'],
     ketHop: ['Thiên Hình'],
     doUuTien: 60,
-    tomTat: `**Bộ RIÊU-Y-HÌNH** — Thiên Riêu + Thiên Y luôn đồng cung, Thiên Hình luôn
-tam hợp.
+    tomTat: `Bộ Riêu-Y-Hình gồm Thiên Riêu và Thiên Y luôn đồng cung, Thiên
+Hình luôn tam hợp. Vai trò ba sao trong bộ:
 
-**Vai trò 3 sao:**
-- **THIÊN Y** = **THUỐC, Y HỌC**, kiến thức chuyên môn
-- **THIÊN RIÊU** = **THẢO DƯỢC**, sự tinh tế, nhạy bén
-- **THIÊN HÌNH** = **CHÂM CỨU, BẤM HUYỆT, DAO KÉO** (kỷ luật trong điều trị)
+- Thiên Y tượng trưng cho thuốc và y học, kiến thức chuyên môn
+- Thiên Riêu tượng trưng cho thảo dược, sự tinh tế và nhạy bén
+- Thiên Hình tượng trưng cho châm cứu, bấm huyệt, dao kéo — thể hiện kỷ
+  luật trong điều trị
 
-**Khi đắc địa cả bộ:**
-- Có thể trở thành **Y SĨ, DƯỢC SĨ RẤT GIỎI**, chuyên môn cao
-- **Bác sỹ phẫu thuật** dùng dao kéo cứu chữa
-- **Thầy lang** châm cứu bấm huyệt
+Khi đắc địa cả bộ, đương số có thể trở thành y sĩ, dược sĩ rất giỏi với
+chuyên môn cao, là bác sĩ phẫu thuật dùng dao kéo cứu chữa hoặc thầy lang
+châm cứu bấm huyệt.
 
-**Hệ quả khi đóng bất kỳ cung nào:**
-- Thể chất của cung đó **YẾU ỚT**
-- Thường xuyên đau yếu lặt vặt
-- Hoặc bị bệnh mãn tính phải điều trị thuốc men`,
+Hệ quả khi bộ này đóng tại bất kỳ cung nào là thể chất của cung đó yếu ớt:
+đương số thường xuyên đau yếu lặt vặt, hoặc bị bệnh mãn tính phải điều trị
+thuốc men.`,
   },
 
   {
@@ -112,12 +103,10 @@ tam hợp.
     sao: ['Thiên Riêu', 'Thiên Y'],
     ketHop: ['Thiên Hình', 'Thiên Lương', 'Thiên Tướng', 'Phúc Đức', 'Hóa Khoa', 'Ân Quang', 'Thiên Quý'],
     doUuTien: 65,
-    tomTat: `**Bộ Riêu-Y-Hình hội cát tinh** (Thiên Lương / Thiên Tướng / Phúc Đức /
-Hóa Khoa / Quang Quý):
-- Cẩn thận, ưa sạch sẽ, tỷ mỉ
-- Đầu óc **PHÂN TÍCH RÕ RÀNG, CHI LY**
-- Năng khiếu cao về **Y DƯỢC, THUỐC MEN, THẢO DƯỢC**
-- Chăm sóc bệnh nhân **RẤT MÁT TAY**`,
+    tomTat: `Khi bộ Riêu-Y-Hình hội cát tinh — Thiên Lương, Thiên Tướng, Phúc
+Đức, Hóa Khoa hay Quang Quý — đương số có tính cẩn thận, ưa sạch sẽ và tỷ
+mỉ. Đầu óc phân tích rõ ràng, chi ly. Đương số có năng khiếu cao về y dược,
+thuốc men và thảo dược; chăm sóc bệnh nhân rất mát tay.`,
   },
 
   {
@@ -126,26 +115,17 @@ Hóa Khoa / Quang Quý):
     sao: ['Thiên Riêu'],
     ketHop: ['Đà La', 'Hóa Kỵ'],
     doUuTien: 55,
-    tomTat: `**Bộ TAM ÁM** — Thiên Riêu + Đà La + Hóa Kỵ — 3 sao **ÁM TINH** lớn nhất
-trong tử vi.
+    tomTat: `Bộ Tam Ám gồm Thiên Riêu, Đà La và Hóa Kỵ — ba ám tinh lớn nhất
+trong tử vi. Bộ này chủ về ám tật, mờ ám và sự không may mắn; đương số có dục
+vọng cao và rất kỵ khi đi cùng Thái Âm hay Thái Dương vì cản sáng Nhật Nguyệt.
 
-**Tính chất tác họa:**
-- Chủ về **ÁM TẬT, MỜ ÁM, KHÔNG MAY MẮN**
-- Dục vọng cao
-- Rất kỵ khi đi cùng **THÁI ÂM, THÁI DƯƠNG** (cản sáng Nhật Nguyệt)
+Ở mặt tâm linh, đương số mang tâm lý đồng bóng và mê tín cao, hay đi lễ bái
+chùa đền, xem tử vi, bói toán; một số nghiên cứu khoa học dự đoán. Đương số
+có linh cảm và trực giác tốt, hay mơ ứng nghiệm và có thể hành nghề tâm linh.
 
-**Tâm linh đồng bóng:**
-- Tâm lý **ĐỒNG BÓNG VÀ MÊ TÍN CAO**
-- Hay đi **LỄ BÁI CHÙA ĐỀN, XEM TỬ VI, BÓI TOÁN**
-- Một số nghiên cứu **KHOA HỌC DỰ ĐOÁN**
-- Có **LINH CẢM, TRỰC GIÁC TỐT**, hay mơ ứng nghiệm
-- Có thể **HÀNH NGHỀ TÂM LINH**
-
-**Khi hội đủ Tam Ám:**
-- Tính chất tâm linh **MẠNH MẼ**, khó kiểm soát
-- Đôi khi dễ bị **MA TÀ ÁM**, đi theo phá hoại
-- Đầu óc thần kinh có vấn đề
-- Dễ trở nên **ĐIÊN DẠI**`,
+Khi hội đủ Tam Ám, tính chất tâm linh trở nên mạnh mẽ và khó kiểm soát: đôi
+khi đương số dễ bị ma tà ám, đi theo phá hoại; đầu óc thần kinh có vấn đề và
+dễ trở nên điên dại.`,
   },
 
   {
@@ -154,20 +134,18 @@ trong tử vi.
     sao: ['Thiên Riêu'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 80,
-    tomTat: `**Thiên Riêu ĐẮC ĐỊA tại Dần / Mão / Thân / Dậu** — vị trí đẹp nhất.
+    tomTat: `Khi **Thiên Riêu** ở **Đắc** địa tại Dần, Mão, Thân hoặc Dậu —
+vị trí đẹp nhất của sao — đương số trở nên thông minh, khôn ngoan, kín kẽ;
+có cơ mưu, học thuật cao thâm và uyên bác. Dáng vẻ phong lưu, thích đến nơi
+ăn chơi vũ trường hộp đêm. Đúng nghĩa "sen mọc trong bùn", sắc dục của đương
+số được giấu kín, không lộ ra.
 
-**Đặc trưng:**
-- **THÔNG MINH, KHÔN NGOAN, KÍN KẼ**
-- Có **CƠ MƯU, HỌC THUẬT CAO THÂM, UYÊN BÁC**
-- Dáng vẻ **PHONG LƯU**, thích đến nơi ăn chơi vũ trường hộp đêm
-- "Như **SEN MỌC TRONG BÙN**" — sắc dục được giấu kín, không lộ ra
+Cần lưu ý rằng Thiên Riêu đắc địa vẫn không mất đi ý nghĩa dâm dục — chỉ là
+được giấu kín, biến thành sự khôn khéo và kín đáo.
 
-**Lưu ý:** Riêu đắc địa **VẪN KHÔNG MẤT** ý nghĩa dâm dục — chỉ là
-được giấu kín, biến thành sự khôn khéo, kín đáo.
-
-**Tài năng:**
-- Thông minh, có sở thích **TÌM HIỂU NGHỀ THUỐC, CHÂM CỨU**, cứu chữa người
-- Hội nhiều phúc thiện tinh: trở thành **THẦY THUỐC, DƯỢC SỸ GIỎI**`,
+Về tài năng, đương số thông minh, có sở thích tìm hiểu nghề thuốc, châm cứu,
+cứu chữa người. Khi hội nhiều phúc thiện tinh, đương số trở thành thầy thuốc,
+dược sĩ giỏi.`,
   },
 
   {
@@ -178,24 +156,19 @@ trong tử vi.
     gioiTinh: 'Nữ',
     ketHop: ['Thiên Hình'],
     doUuTien: 70,
-    tomTat: `**Câu phú nổi tiếng cảnh báo nữ mệnh:**
+    tomTat: `Câu phú nổi tiếng cảnh báo nữ mệnh có Thiên Riêu cùng Thiên Hình:
 
-> **"Hình, Riêu phận gái long đong**
-> **Ví không lộn chồng ắt cũng phản phu"**
+> "Hình, Riêu phận gái long đong
+> Ví không lộn chồng ắt cũng phản phu"
 
-**Ý nghĩa:**
-- Phụ nữ Mệnh có **Hình + Riêu**: đường tình duyên **LẬN ĐẬN**
-- Hoặc **TÁI HÔN, ĐỔI CHỒNG**
-- Hoặc **PHẢN PHU** (lừa dối chồng, ngoại tình)
+Ý nghĩa câu phú là nữ mệnh có Hình và Riêu tại Mệnh thì đường tình duyên lận
+đận, hoặc tái hôn đổi chồng, hoặc phản phu — lừa dối chồng, ngoại tình.
 
-**Cảnh báo:** Đây là cách cục NỮ rất xấu, đặc biệt khi cùng:
-- Đào Hoa, Hồng Loan
-- Kình Đà, Hóa Kỵ
-- Linh Tinh, Hỏa Tinh
-- Không Kiếp
+Đây là cách cục nữ rất xấu, đặc biệt khi đi cùng Đào Hoa, Hồng Loan, Kình
+Dương, Đà La, Hóa Kỵ, Linh Tinh, Hỏa Tinh, Địa Không hay Địa Kiếp.
 
-**Hóa giải:** Tu thân, tăng đạo đức, có sao Phúc Thiện đi cùng (Quan
-Phúc, Quang Quý, Tứ Đức): giảm bớt tác họa.`,
+Hóa giải bằng cách tu thân, tăng đạo đức; có sao phúc thiện đi cùng như Thiên
+Quan, Thiên Phúc, Quang Quý hay Tứ Đức sẽ giảm bớt tác họa.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -208,19 +181,17 @@ Phúc, Quang Quý, Tứ Đức): giảm bớt tác họa.`,
     sao: ['Thiên Riêu'],
     ketHop: ['Thiên Cơ', 'Thiên Lương'],
     doUuTien: 60,
-    tomTat: `**Thiên Riêu (đắc) + Thiên Cơ + Thiên Lương + Tả Phù Hữu Bật + Bác Sỹ** —
-**THẦY THUỐC DANH GIÁ CAO TAY**.
+    tomTat: `Khi Thiên Riêu đắc địa hội cùng Thiên Cơ, Thiên Lương, Tả Phù, Hữu
+Bật và Bác Sỹ, đương số trở thành thầy thuốc danh giá cao tay. Phân tích bộ
+sao này:
 
-**Phân tích bộ sao:**
-- **Thiên Cơ** + **Thiên Lương** = bộ chính tinh thiện (bác sỹ, lương y)
-- **Tả Hữu** = trợ tinh được người tin cậy
-- **Bác Sỹ** = sao chuyên môn y học (vòng Lộc Tồn)
-- **Thiên Riêu đắc địa** = thảo dược, tinh tế nhạy bén
+- Thiên Cơ và Thiên Lương là bộ chính tinh thiện thuộc tính bác sĩ, lương y
+- Tả Phù và Hữu Bật là trợ tinh được người tin cậy
+- Bác Sỹ là sao chuyên môn y học thuộc vòng Lộc Tồn
+- Thiên Riêu đắc địa tượng trưng cho thảo dược, tinh tế và nhạy bén
 
-**Đặc trưng:**
-- **DANH GIÁ CAO TAY**
-- Mát tay chữa bệnh
-- Được nhiều người tìm đến`,
+Đương số nổi danh là thầy thuốc cao tay, mát tay chữa bệnh, được nhiều người
+tìm đến.`,
   },
 
   {
@@ -229,22 +200,18 @@ Phúc, Quang Quý, Tứ Đức): giảm bớt tác họa.`,
     sao: ['Thiên Riêu'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Tử Phù'],
     doUuTien: 55,
-    tomTat: `**Thiên Riêu + Tả Hữu + Hình Kỵ + Lưỡng Phù** (Tử Phù + Trực Phù) —
-**THẦY PHÙ THỦY RẤT GIỎI**.
+    tomTat: `Khi Thiên Riêu hội Tả Phù, Hữu Bật, Thiên Hình, Hóa Kỵ và lưỡng
+phù gồm Tử Phù cùng Trực Phù, đương số trở thành thầy phù thủy rất giỏi.
+Phân tích bộ sao:
 
-**Phân tích:**
-- **Tử Phù + Trực Phù** = lưỡng phù trong vòng Thái Tuế
-- **Hình + Kỵ** = bùa chú
-- **Thiên Riêu** = ám tinh, tâm linh
-- **Tả Hữu** = trợ lực
+- Tử Phù và Trực Phù là lưỡng phù trong vòng Thái Tuế
+- Thiên Hình cùng Hóa Kỵ tượng trưng cho bùa chú
+- Thiên Riêu là ám tinh, mang tính tâm linh
+- Tả Phù và Hữu Bật là trợ lực
 
-**Đặc trưng:**
-- Hành nghề **PHÙ THỦY, ĐỒNG CỐT, THẦY PHÁP**
-- Có khả năng **TÂM LINH MẠNH**
-- Cao tay, nổi tiếng
-
-**Hội Khôi Việt + Long Phượng + Thiên Đồng:** thành **THẦY PHÁP CAO TAY,
-NỔI TIẾNG**.`,
+Đương số hành nghề phù thủy, đồng cốt, thầy pháp; có khả năng tâm linh mạnh,
+cao tay và nổi tiếng. Khi hội thêm Thiên Khôi, Thiên Việt, Long Trì, Phượng
+Các và Thiên Đồng, đương số thành thầy pháp cao tay nổi tiếng.`,
   },
 
   {
@@ -253,16 +220,12 @@ NỔI TIẾNG**.`,
     sao: ['Thiên Riêu'],
     ketHop: ['Văn Xương', 'Văn Khúc'],
     doUuTien: 55,
-    tomTat: `**Thiên Riêu + Văn Xương + Văn Khúc + Thiên Cơ** — bị **DÀY VÒ VÌ NHU CẦU
-SINH LÝ**, ám ảnh sinh lý rất nặng.
+    tomTat: `Khi Thiên Riêu hội cùng Văn Xương, Văn Khúc và Thiên Cơ, đương số
+bị dày vò vì nhu cầu sinh lý — ám ảnh sinh lý rất nặng. Đương số có khuynh
+hướng sáng tác vần thơ dâm tình kiểu Hồ Xuân Hương và hết sức dâm đãng.
 
-**Đặc trưng:**
-- **NHU CẦU SINH LÝ BỊ ÁM ẢNH** rất nặng
-- Có khuynh hướng **SÁNG TÁC VẦN THƠ DÂM TÌNH** kiểu **HỒ XUÂN HƯƠNG**
-- Hết sức **DÂM ĐÃNG**
-
-**Phân tích:** Văn Xương + Văn Khúc + Thiên Cơ vốn là bộ thông minh tài
-văn: khi gặp Thiên Riêu, tài văn chuyển thành thơ ca dâm tình ẩn ý.`,
+Bộ Văn Xương, Văn Khúc cùng Thiên Cơ vốn là bộ thông minh tài văn; khi gặp
+Thiên Riêu, tài văn của đương số chuyển thành thơ ca dâm tình ẩn ý.`,
   },
 
   {
@@ -271,20 +234,19 @@ văn: khi gặp Thiên Riêu, tài văn chuyển thành thơ ca dâm tình ẩn 
     sao: ['Thiên Riêu'],
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 55,
-    tomTat: `**Thiên Riêu + Hóa Kỵ + Đà La + Cự Môn + Linh Hỏa + Kình Đà + Không Kiếp +
-Đào Hồng** — vừa **LẲNG LƠ, VỪA DÂM ĐÃNG**, dù trai hay gái, dù có hay
-chưa có gia đình.
+    tomTat: `Khi Thiên Riêu hội Hóa Kỵ, Đà La, Cự Môn, Linh Tinh, Hỏa Tinh,
+Kình Dương, Địa Không, Địa Kiếp cùng Đào Hoa, Hồng Loan, đương số vừa lẳng
+lơ vừa dâm đãng — bất kể trai hay gái, có hay chưa có gia đình. Yếu tố ngoại
+tình và đa mang rất nặng, với nhiều hạng người và trong mọi hoàn cảnh.
 
-**Đặc trưng:**
-- Yếu tố **NGOẠI TÌNH, ĐA MANG** rất nặng
-- Với **NHIỀU HẠNG NGƯỜI**, trong **MỌI HOÀN CẢNH**
+Các bộ kết hợp khác cùng tính chất:
 
-**Các bộ kết hợp khác cùng tính chất:**
-- **Riêu + Đồng**: thay cũ đổi mới về sinh lý, có gia đình thì ngoại tình
-- **Riêu + Thai**: rất dâm dục, có **CON RIÊNG**
-- **Riêu + Khúc Xương**: người có **TÁNH DÂM DẬT**
-- **Riêu đắc địa + Lưu Hà**: thông minh, công việc trôi chảy, có
-  **TÍNH DÂM NGẦM**`,
+- Thiên Riêu cùng Thiên Đồng: đương số thay cũ đổi mới về sinh lý, có gia
+  đình thì ngoại tình
+- Thiên Riêu cùng Thai: rất dâm dục, có con riêng
+- Thiên Riêu cùng Văn Khúc, Văn Xương: đương số có tánh dâm dật
+- Thiên Riêu đắc địa cùng Lưu Hà: thông minh, công việc trôi chảy, có tính
+  dâm ngầm`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -297,20 +259,16 @@ chưa có gia đình.
     sao: ['Thiên Riêu'],
     cung: ['Mệnh'],
     doUuTien: 75,
-    tomTat: `**Thiên Riêu thủ Mệnh** — người **HAM VUI, THÍCH CHƠI BỜI, PHÓNG ĐÃNG**.
+    tomTat: `Khi **Thiên Riêu** thủ Mệnh, đương số ham vui, thích chơi bời và
+phóng đãng. Cơ thể nhiều lông, đa mao — cả nam lẫn nữ — ứng với đặc điểm nhu
+cầu sinh lý cao.
 
-**Cơ thể:** **NHIỀU LÔNG, ĐA MAO** (nam và nữ) — đặc điểm nhu cầu sinh
-lý cao.
+Về tính cách, đương số dễ tin người, nhẹ dạ, tính tình không dứt khoát; khó
+cầu công danh và thi cử.
 
-**Tính cách:**
-- **DỄ TIN NGƯỜI, NHẸ DẠ**
-- Tính tình **KHÔNG DỨT KHOÁT**
-- Khó cầu công danh, thi cử
-
-**Bệnh lý:**
-- Bệnh về **BỘ PHẬN SINH DỤC** (lậu, liệt dương, teo...)
-- Nhu cầu sinh lý cao, đầu óc luôn **GIẰNG CO NỘI TÂM**
-- Dễ bị **BỆNH ÂM, THẦN KINH, VONG ÁM**`,
+Về bệnh lý, đương số dễ mắc bệnh ở bộ phận sinh dục như lậu, liệt dương, teo;
+nhu cầu sinh lý cao khiến đầu óc luôn giằng co nội tâm. Đương số cũng dễ bị
+bệnh âm, thần kinh và vong ám.`,
   },
 
   {
@@ -319,13 +277,12 @@ lý cao.
     cung: ['Mệnh'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu Đắc địa Dần/Mão/Thân/Dậu tại Mệnh:**
-- **CƠ MƯU, HỌC THUẬT UYÊN BÁC**
-- Dáng vẻ **PHONG LƯU**
-- Thích chơi bời nhưng kín đáo
+    tomTat: `Khi Thiên Riêu **Đắc** địa tại Dần, Mão, Thân hoặc Dậu thủ Mệnh,
+đương số có cơ mưu, học thuật uyên bác; dáng vẻ phong lưu, thích chơi bời
+nhưng kín đáo.
 
-**Hợp nghề (đắc địa):** Y dược, Spa, làm tóc, bác sỹ phụ khoa nam khoa,
-hành nghề tâm linh.`,
+Đắc địa hợp với các nghề như y dược, spa, làm tóc, bác sĩ phụ khoa - nam
+khoa, hành nghề tâm linh.`,
   },
 
   {
@@ -334,10 +291,9 @@ hành nghề tâm linh.`,
     cung: ['Mệnh'],
     trangThai: ['Hãm'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu Hãm địa tại Mệnh:**
-- **THÂM ĐỘC, ĐA NGHI, GIỎI ỨNG PHÓ**
-- Dung mạo đẹp đẽ, **THÍCH DÂM DỤC**
-- Phần nhiều vì **CHUYỆN SẮC DỤC** mà mang họa, **PHÁ GIA BẠI SẢN**`,
+    tomTat: `Khi Thiên Riêu **Hãm** địa thủ Mệnh, đương số trở nên thâm độc, đa
+nghi, giỏi ứng phó. Dung mạo đẹp đẽ và thích dâm dục; phần nhiều vì chuyện
+sắc dục mà mang họa, phá gia bại sản.`,
   },
 
   {
@@ -347,8 +303,8 @@ hành nghề tâm linh.`,
     trangThai: ['Hãm'],
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu Hãm địa + Đào Hồng tại Mệnh:** đặc tính dâm dục, sa ngã
-**càng nặng** — phá gia bại sản.`,
+    tomTat: `Khi Thiên Riêu **Hãm** địa đi cùng Đào Hoa và Hồng Loan tại Mệnh,
+đặc tính dâm dục cùng sa ngã của đương số càng nặng — phá gia bại sản.`,
   },
 
   {
@@ -357,7 +313,7 @@ hành nghề tâm linh.`,
     cung: ['Mệnh'],
     gioiTinh: 'Nữ',
     doUuTien: 70,
-    tomTat: `**Thiên Riêu thủ Mệnh - Nữ mệnh - câu phú:**
+    tomTat: `Khi Thiên Riêu thủ Mệnh nữ, ứng với câu phú:
 
 > "Hình Riêu phận gái long đong / Ví không lộn chồng ắt cũng phản phu".`,
   },
@@ -368,15 +324,12 @@ hành nghề tâm linh.`,
     sao: ['Thiên Riêu'],
     cung: ['Phụ Mẫu'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu tại Phụ Mẫu** — cha mẹ **TAY NGHỀ KHÉO**, sống bằng nghề liên
-quan đến **SÔNG NƯỚC**.
+    tomTat: `Khi **Thiên Riêu** đóng tại Phụ Mẫu, cha mẹ của đương số có tay
+nghề khéo, sống bằng nghề liên quan đến sông nước. Cha mẹ có tài về nghệ
+thuật, mỹ thuật, có hoa tay.
 
-**Đặc trưng:**
-- Có tài về **NGHỆ THUẬT, MỸ THUẬT**, có **HOA TAY**
-
-**Tâm linh:**
-- Cha mẹ thích chuyện **TÂM LINH, BÓI TOÁN, XEM TỬ VI**
-- Hay đi **HẦU ĐỒNG, ĐỀN CHÙA**`,
+Về tâm linh, cha mẹ thích chuyện tâm linh, bói toán, xem tử vi; hay đi hầu
+đồng và lễ đền chùa.`,
   },
 
   {
@@ -385,10 +338,9 @@ quan đến **SÔNG NƯỚC**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp', 'Đào Hoa'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu tại Phụ Mẫu + Sát bại tinh + Đào hoa:**
-- **GIẢM DUYÊN** cha mẹ
-- Cha mẹ dễ có **NGƯỜI BÊN NGOÀI**
-- Cha mẹ thường **ĂN NẰM TRƯỚC, CƯỚI SAU**`,
+    tomTat: `Khi Thiên Riêu tại Phụ Mẫu hội sát bại tinh cùng đào hoa, duyên
+giữa đương số và cha mẹ giảm; cha mẹ dễ có người bên ngoài, thường ăn nằm
+trước rồi cưới sau.`,
   },
 
   {
@@ -398,9 +350,9 @@ quan đến **SÔNG NƯỚC**.
     trangThai: ['Đắc'],
     ketHop: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu Đắc địa + phúc thiện tinh tại Phụ Mẫu:**
-- Cha mẹ làm **DƯỢC SỸ, THẦY THUỐC** cứu người
-- Hoặc nghề **CẮT TÓC, SPA**`,
+    tomTat: `Khi Thiên Riêu **Đắc** địa hội phúc thiện tinh tại Phụ Mẫu, cha
+mẹ của đương số làm dược sĩ, thầy thuốc cứu người, hoặc theo nghề cắt tóc,
+spa.`,
   },
 
   {
@@ -409,18 +361,16 @@ quan đến **SÔNG NƯỚC**.
     sao: ['Thiên Riêu'],
     cung: ['Phúc Đức'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu tại Phúc Đức** — dòng họ **NỮ LẬN ĐẬN** tình duyên, **NAM
-PHONG LƯU**.
+    tomTat: `Khi **Thiên Riêu** đóng tại Phúc Đức, dòng họ của đương số có nữ
+lận đận tình duyên và nam phong lưu.
 
-**Đặc trưng dòng họ:**
-- **Nữ trong dòng họ:** lận đận tình duyên chồng con, **CÓ ÁC TẬT, CHẾT NON,
-  CÔ ĐỘC**
-- **Nam trong dòng họ:** phóng đãng phong lưu, đi xa, **CÓ TÀI NGHỆ ĐẶC BIỆT**
+Đặc trưng dòng họ thể hiện rõ:
 
-**Tâm linh dòng họ:**
-- Dòng họ có người làm **THẦY BÀ, TÂM LINH**
-- **TRUYỀN THỪA** lại tới đời mình
-- Bản thân dễ có **GIÁC QUAN TÂM LINH** mạnh`,
+- Nữ trong dòng họ lận đận tình duyên chồng con; có ác tật, chết non, cô độc
+- Nam trong dòng họ phóng đãng phong lưu, đi xa, có tài nghệ đặc biệt
+
+Về tâm linh, dòng họ có người làm thầy bà, hành nghề tâm linh, truyền thừa
+lại tới đời đương số. Bản thân đương số dễ có giác quan tâm linh mạnh.`,
   },
 
   {
@@ -429,10 +379,9 @@ PHONG LƯU**.
     cung: ['Phúc Đức'],
     trangThai: ['Đắc'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu Đắc địa tại Phúc Đức:**
-- Có **PHÚC LỚN**, được tổ tiên phù hộ
-- **LINH ỨNG** mỗi khi mong cầu cứu giúp
-- Mồ mả có **CÂY CỎ MỌC UM TÙM, XANH TỐT**, dễ có **MỒ KẾT** linh thiêng`,
+    tomTat: `Khi Thiên Riêu **Đắc** địa tại Phúc Đức, đương số có phúc lớn,
+được tổ tiên phù hộ; mỗi khi mong cầu cứu giúp đều linh ứng. Mồ mả của tổ
+tiên có cây cỏ mọc um tùm, xanh tốt; dễ có mồ kết linh thiêng.`,
   },
 
   {
@@ -441,21 +390,15 @@ PHONG LƯU**.
     sao: ['Thiên Riêu'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Thiên Riêu tại Điền Trạch** — nhà ở gần **NƠI TÂM LINH, ĐỀN CHÙA MIẾU MẠO**.
+    tomTat: `Khi **Thiên Riêu** đóng tại Điền Trạch, nhà ở của đương số gần
+nơi tâm linh, đền chùa miếu mạo. Nhà dễ có vong linh cư ngụ bên trong; nếu
+hội thêm sao tâm linh khác, đương số dễ mở đền mở phủ tại nhà.
 
-**Đặc trưng:**
-- Nhà dễ có **VONG LINH** cư ngụ bên trong
-- Người dễ **MỞ ĐỀN MỞ PHỦ** tại nhà nếu hội thêm sao tâm linh khác
+Về đặc điểm nhà cửa, nhà thường ở nơi ẩm ướt, cây cỏ mọc um tùm, trông cổ
+quái và ma mị.
 
-**Đặc điểm nhà cửa:**
-- Thường ở nơi **ẨM ƯỚT**
-- **CÂY CỎ MỌC UM TÙM**
-- Trông **CỔ QUÁI, MA MỊ**
-
-**Xung quanh:**
-- Gần nơi **ĂN CHƠI HƯỞNG THỤ**
-- Hay xảy ra nhiều **TỆ NẠN XÃ HỘI**
-- Nhiều cảnh **GIA ĐÌNH LỤC ĐỤC, BỒ BỊCH, PHẢN BỘI**`,
+Khu vực xung quanh nhà thường gần nơi ăn chơi hưởng thụ, hay xảy ra nhiều tệ
+nạn xã hội; nhiều cảnh gia đình lục đục, bồ bịch, phản bội.`,
   },
 
   {
@@ -464,11 +407,12 @@ PHONG LƯU**.
     sao: ['Thiên Riêu'],
     cung: ['Quan Lộc'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu tại Quan Lộc** — bản chất ám tinh **CẢN TRỞ, PHÁ HOẠI** công
-danh, học tập. Chỉ đẹp khi **ĐẮC ĐỊA**.
+    tomTat: `Khi **Thiên Riêu** đóng tại Quan Lộc, bản chất ám tinh của sao
+cản trở và phá hoại công danh, học tập của đương số. Sao chỉ đẹp khi **Đắc**
+địa.
 
-**Tâm linh:**
-- Có thể là người làm nghề **TÂM LINH, XEM BÓI, XEM TỬ VI, THẦY PHÁP**`,
+Về tâm linh, đương số có thể là người hành nghề tâm linh, xem bói, xem tử
+vi, làm thầy pháp.`,
   },
 
   {
@@ -477,8 +421,8 @@ danh, học tập. Chỉ đẹp khi **ĐẮC ĐỊA**.
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Hình'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu + Thiên Hình tại Quan Lộc** (không có cát tinh): **NGHỀ
-LÀM TÓC, SPA**.`,
+    tomTat: `Khi Thiên Riêu đi cùng Thiên Hình tại Quan Lộc mà không có cát
+tinh, đương số hợp với nghề làm tóc, spa.`,
   },
 
   {
@@ -488,8 +432,8 @@ LÀM TÓC, SPA**.`,
     trangThai: ['Đắc'],
     ketHop: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu Đắc địa + phúc thiện tinh tại Quan Lộc:** **THẦY THUỐC,
-BÁC SỸ NAM KHOA, PHỤ KHOA, SINH DỤC**.`,
+    tomTat: `Khi Thiên Riêu **Đắc** địa hội phúc thiện tinh tại Quan Lộc, đương
+số làm thầy thuốc, bác sĩ nam khoa, phụ khoa, sinh dục.`,
   },
 
   {
@@ -498,8 +442,9 @@ BÁC SỸ NAM KHOA, PHỤ KHOA, SINH DỤC**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Khôi', 'Thiên Việt', 'Tả Phù', 'Hữu Bật', 'Long Trì', 'Phượng Các', 'Thiên Đồng'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu tại Quan Lộc + Khôi Việt + Tả Hữu + Long Phượng + Thiên
-Đồng:** **THẦY PHÁP CAO TAY, NỔI TIẾNG**.`,
+    tomTat: `Khi Thiên Riêu tại Quan Lộc hội Thiên Khôi, Thiên Việt, Tả Phù,
+Hữu Bật, Long Trì, Phượng Các và Thiên Đồng, đương số trở thành thầy pháp
+cao tay nổi tiếng.`,
   },
 
   {
@@ -508,9 +453,8 @@ BÁC SỸ NAM KHOA, PHỤ KHOA, SINH DỤC**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Đào Hoa', 'Hồng Loan', 'Thiên Hỷ'],
     doUuTien: 68,
-    tomTat: `**Thiên Riêu tại Quan Lộc + đào hoa tinh:**
-- Được quý mến
-- Dễ phát sinh **TÌNH CẢM NGOÀI LUỒNG** tại nơi làm việc`,
+    tomTat: `Khi Thiên Riêu tại Quan Lộc đi cùng đào hoa tinh, đương số được
+quý mến nhưng dễ phát sinh tình cảm ngoài luồng tại nơi làm việc.`,
   },
 
   {
@@ -519,13 +463,12 @@ BÁC SỸ NAM KHOA, PHỤ KHOA, SINH DỤC**.`,
     sao: ['Thiên Riêu'],
     cung: ['Nô Bộc'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu tại Nô Bộc** — bè bạn, người giúp việc **NAY Ở MAI ĐI**, ham
-chơi nhưng **CÓ TÀI NGHỆ ĐẶC BIỆT**.
+    tomTat: `Khi **Thiên Riêu** đóng tại Nô Bộc, bè bạn và người giúp việc của
+đương số nay ở mai đi, ham chơi nhưng có tài nghệ đặc biệt.
 
-**Tâm linh:**
-- Bạn bè nhiều **THẦY ĐỒNG, CÔ ĐỒNG**
-- Nhiều người quan tâm **TÂM LINH, BÓI TOÁN**
-- Bản thân hay làm công việc liên quan giới tâm linh, thờ cúng`,
+Về tâm linh, bạn bè của đương số có nhiều thầy đồng, cô đồng và những người
+quan tâm tâm linh, bói toán; bản thân đương số hay làm công việc liên quan
+giới tâm linh, thờ cúng.`,
   },
 
   {
@@ -534,10 +477,9 @@ chơi nhưng **CÓ TÀI NGHỆ ĐẶC BIỆT**.
     cung: ['Nô Bộc'],
     trangThai: ['Hãm'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu Hãm địa tại Nô Bộc:**
-- Bạn bè, đồng nghiệp **ĂN CHƠI, TRÁC TÁNG**
-- Dễ có **QUAN HỆ NGOÀI LUỒNG** với bạn bè khác giới
-- **TÌNH MỘT ĐÊM**`,
+    tomTat: `Khi Thiên Riêu **Hãm** địa tại Nô Bộc, bạn bè và đồng nghiệp của
+đương số ăn chơi, trác táng. Đương số dễ có quan hệ ngoài luồng với bạn bè
+khác giới, sa vào tình một đêm.`,
   },
 
   {
@@ -547,9 +489,9 @@ chơi nhưng **CÓ TÀI NGHỆ ĐẶC BIỆT**.
     trangThai: ['Đắc'],
     ketHop: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu Đắc địa + phúc thiện tinh tại Nô Bộc:**
-- Bạn bè nhiều **THẦY THUỐC, BÁC SỸ GIỎI**
-- Mát tay, bốc thuốc chữa bệnh tốt`,
+    tomTat: `Khi Thiên Riêu **Đắc** địa hội phúc thiện tinh tại Nô Bộc, bạn bè
+của đương số có nhiều thầy thuốc, bác sĩ giỏi, mát tay bốc thuốc chữa bệnh
+tốt.`,
   },
 
   {
@@ -558,14 +500,11 @@ chơi nhưng **CÓ TÀI NGHỆ ĐẶC BIỆT**.
     sao: ['Thiên Riêu'],
     cung: ['Thiên Di'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu tại Thiên Di** — ra ngoài **KHÔNG CÓ NƠI CHỐN CỐ ĐỊNH**, đa nghệ.
-
-**Đặc trưng:**
-- Hay thích tới những **NƠI ĂN CHƠI, NHỤC DỤC**
-- Nhiều mối quan hệ **KHÔNG LÀNH MẠNH**
-- **TÌNH MỘT ĐÊM**
-- Dễ có **MA TÀ, VONG** theo về
-- Thích đi **XEM BÓI TOÁN, ĐỀN CHÙA**`,
+    tomTat: `Khi **Thiên Riêu** đóng tại Thiên Di, đương số ra ngoài không có
+nơi chốn cố định, đa nghệ. Đương số hay thích tới những nơi ăn chơi, nhục
+dục; có nhiều mối quan hệ không lành mạnh và sa vào tình một đêm. Khi đi xa
+cũng dễ có ma tà, vong theo về. Đương số thích đi xem bói toán và lễ đền
+chùa.`,
   },
 
   {
@@ -574,9 +513,8 @@ chơi nhưng **CÓ TÀI NGHỆ ĐẶC BIỆT**.
     cung: ['Thiên Di'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Đào Hoa', 'Hồng Loan'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu tại Thiên Di + Sát tinh + đào hoa:**
-- Vướng tình một đêm
-- Mối quan hệ sắc dục thiếu lành mạnh`,
+    tomTat: `Khi Thiên Riêu tại Thiên Di hội sát tinh và đào hoa, đương số
+vướng tình một đêm cùng các mối quan hệ sắc dục thiếu lành mạnh.`,
   },
 
   {
@@ -585,10 +523,9 @@ chơi nhưng **CÓ TÀI NGHỆ ĐẶC BIỆT**.
     cung: ['Thiên Di'],
     ketHop: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu tại Thiên Di + Quan Phúc (Thiên Quan, Thiên Phúc):**
-- Thường tới nơi **CHÙA CHIỀN**
-- Nghiên cứu **HUYỀN HỌC**
-- Vẫn nhạy cảm với trường khí âm`,
+    tomTat: `Khi Thiên Riêu tại Thiên Di đi cùng Thiên Quan và Thiên Phúc,
+đương số thường tới nơi chùa chiền, nghiên cứu huyền học, song vẫn nhạy cảm
+với trường khí âm.`,
   },
 
   {
@@ -597,22 +534,17 @@ chơi nhưng **CÓ TÀI NGHỆ ĐẶC BIỆT**.
     sao: ['Thiên Riêu'],
     cung: ['Tật Ách'],
     doUuTien: 76,
-    tomTat: `**Thiên Riêu tại Tật Ách** — bệnh tật liên quan **MÁU HUYẾT, BỘ PHẬN SINH
-DỤC**.
+    tomTat: `Khi **Thiên Riêu** đóng tại Tật Ách, bệnh tật của đương số liên
+quan đến máu huyết và bộ phận sinh dục; bệnh tật sinh ra do quan hệ tình dục
+bừa bãi. Đương số dễ mắc bệnh âm, bệnh tâm linh, có liên quan đến ma tà;
+thần kinh và sức khỏe không ổn định.
 
-**Đặc trưng:**
-- Bệnh tật sinh ra do **QUAN HỆ TÌNH DỤC BỪA BÃI**
-- Dễ mắc **BỆNH ÂM, BỆNH TÂM LINH**
-- Liên quan **MA TÀ**
-- **THẦN KINH VÀ SỨC KHỎE KHÔNG ỔN ĐỊNH**
+Đặc biệt khi sao Hãm địa, nhu cầu sinh lý của đương số rất cao và hay có đấu
+tranh dữ dội bên trong nội tâm về vấn đề này, dẫn đến trạng thái tự ám thị
+hoặc cô lập nội tâm.
 
-**Đặc biệt khi hãm địa:**
-- Nhu cầu sinh lý cao
-- Hay có **ĐẤU TRANH DỮ DỘI** bên trong nội tâm về vấn đề này
-- Trạng thái **TỰ ÁM THỊ** hoặc **CÔ LẬP NỘI TÂM**
-
-**Hóa giải:** Cần giữ **CHỪNG MỰC** trong lối sống, tránh để dục vọng
-chi phối tâm trí.`,
+Hóa giải bằng cách giữ chừng mực trong lối sống, tránh để dục vọng chi phối
+tâm trí.`,
   },
 
   {
@@ -621,20 +553,16 @@ chi phối tâm trí.`,
     sao: ['Thiên Riêu'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Thiên Riêu tại Tài Bạch** — tài lộc **RA VÀO THẤT THƯỜNG**.
+    tomTat: `Khi **Thiên Riêu** đóng tại Tài Bạch, tài lộc của đương số ra vào
+thất thường. Đương số ưa thích cờ bạc, trò chơi giải trí, nghệ thuật; hoặc
+phát tài qua nghề thuốc, nghề thầy giáo.
 
-**Đặc trưng:**
-- Ưa thích **CỜ BẠC, TRÒ CHƠI GIẢI TRÍ, NGHỆ THUẬT**
-- Hoặc nghề **THUỐC, THẦY GIÁO** phát tài
+Về mặt tiêu cực, đương số dễ tốn tiền cho chuyện trai gái, cờ bạc, ăn chơi,
+hút sắc, có thể làm các ngành nghề liên quan mảng trái xã hội.
 
-**Tiêu cực:**
-- **TỐN TIỀN** cho chuyện **TRAI GÁI, CỜ BẠC, ĂN CHƠI, HÚT SẮC**
-- Có thể làm ngành nghề liên quan mảng **TRÁI XÃ HỘI**
-
-**Tâm linh:**
-- Hay tiêu tốn tiền cho chuyện **TÂM LINH, XEM BÓI, GIẢI HẠN**
-- Hoặc ngược lại làm **THẦY ĐỒNG, THẦY PHÁP, THẦY BÓI** kiếm tiền từ chuyện
-  tâm linh`,
+Về tâm linh, đương số hay tiêu tốn tiền cho chuyện tâm linh, xem bói, giải
+hạn; hoặc ngược lại làm thầy đồng, thầy pháp, thầy bói để kiếm tiền từ
+chuyện tâm linh.`,
   },
 
   {
@@ -643,14 +571,11 @@ chi phối tâm trí.`,
     sao: ['Thiên Riêu'],
     cung: ['Tử Tức'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu tại Tử Tức** — **SINH NỞ KHÓ KHĂN**, hoặc khó nuôi con, hoặc
-**CÓ CON RIÊNG** của vợ/chồng.
+    tomTat: `Khi **Thiên Riêu** đóng tại Tử Tức, đương số sinh nở khó khăn,
+hoặc khó nuôi con, hoặc có con riêng của vợ, chồng. Con cái của đương số hay
+chơi bời.
 
-**Đặc trưng:**
-- Con cái hay **CHƠI BỜI**
-
-**Tâm linh:**
-- Con cái hay tin vào **TÂM LINH, BÓI TOÁN**`,
+Về tâm linh, con cái của đương số hay tin vào tâm linh, bói toán.`,
   },
 
   {
@@ -659,10 +584,9 @@ chi phối tâm trí.`,
     cung: ['Tử Tức'],
     trangThai: ['Hãm'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu Hãm địa tại Tử Tức:**
-- Con cái sau dễ **CHƠI BỜI, PHÁ TÁN**
-- Có đứa **BỎ NHÀ THEO TRAI/THEO GÁI**
-- Lăng nhăng tình cảm`,
+    tomTat: `Khi Thiên Riêu **Hãm** địa tại Tử Tức, con cái của đương số sau
+dễ chơi bời, phá tán; có đứa bỏ nhà theo trai hoặc theo gái, lăng nhăng tình
+cảm.`,
   },
 
   {
@@ -671,9 +595,8 @@ chi phối tâm trí.`,
     cung: ['Tử Tức'],
     trangThai: ['Đắc'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu Đắc địa tại Tử Tức:**
-- Con cái **TRƯỞNG THÀNH, THÔNG MINH**
-- Có đứa làm **THẦY THUỐC, BÁC SỸ**`,
+    tomTat: `Khi Thiên Riêu **Đắc** địa tại Tử Tức, con cái của đương số trưởng
+thành, thông minh; có đứa làm thầy thuốc, bác sĩ.`,
   },
 
   {
@@ -682,8 +605,8 @@ chi phối tâm trí.`,
     cung: ['Tử Tức'],
     ketHop: ['Linh Tinh', 'Hỏa Tinh', 'Đà La', 'Hóa Kỵ', 'Thiên Đồng'],
     doUuTien: 68,
-    tomTat: `**Thiên Riêu tại Tử Tức + Linh Hỏa + Riêu Đà Kỵ + Thiên Đồng:** có đứa
-**NẶNG CĂN**, dễ thần kinh có vấn đề.`,
+    tomTat: `Khi Thiên Riêu tại Tử Tức hội Linh Tinh, Hỏa Tinh, Đà La, Hóa Kỵ
+và Thiên Đồng, đương số có đứa con nặng căn, dễ có vấn đề về thần kinh.`,
   },
 
   {
@@ -692,10 +615,10 @@ chi phối tâm trí.`,
     sao: ['Thiên Riêu'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Thiên Riêu tại Phu Thê** — người hôn phối **NHIỀU LÔNG TÓC, NHU CẦU SINH
-LÝ CAO**, thường dễ **ĂN CƠM TRƯỚC KẺNG**.
+    tomTat: `Khi **Thiên Riêu** đóng tại Phu Thê, người hôn phối của đương số
+nhiều lông tóc, nhu cầu sinh lý cao, thường dễ ăn cơm trước kẻng.
 
-**Tâm linh:** Người hôn phối thích chuyện **TÂM LINH, BÓI TOÁN**, đi đền
+Về tâm linh, người hôn phối thích chuyện tâm linh, bói toán, hay đi đền
 chùa.`,
   },
 
@@ -705,9 +628,8 @@ chùa.`,
     cung: ['Phu Thê'],
     trangThai: ['Đắc'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu Đắc địa tại Phu Thê:**
-- Vợ chồng **ƯA THÍCH VUI CHƠI, VĂN NGHỆ**
-- **PHONG LƯU TÀI TỬ**`,
+    tomTat: `Khi Thiên Riêu **Đắc** địa tại Phu Thê, vợ chồng đương số ưa thích
+vui chơi, văn nghệ; là cặp phong lưu tài tử.`,
   },
 
   {
@@ -717,8 +639,8 @@ chùa.`,
     trangThai: ['Đắc'],
     ketHop: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu Đắc địa + phúc thiện tinh tại Phu Thê:** có người làm
-**THẦY THUỐC, BÁC SỸ GIỎI**.`,
+    tomTat: `Khi Thiên Riêu **Đắc** địa hội phúc thiện tinh tại Phu Thê, đương
+số có người bạn đời làm thầy thuốc, bác sĩ giỏi.`,
   },
 
   {
@@ -727,10 +649,9 @@ chùa.`,
     cung: ['Phu Thê'],
     trangThai: ['Hãm'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu Hãm địa tại Phu Thê:**
-- "**ÔNG ĂN CHẢ, BÀ ĂN NEM**"
-- Đặc biệt khi có sát bại tinh + đào hoa tinh đi cùng: khó bền duyên
-- Cả vợ cả chồng đều có **TÌNH NHÂN BÊN NGOÀI**`,
+    tomTat: `Khi Thiên Riêu **Hãm** địa tại Phu Thê, vợ chồng đương số rơi vào
+cảnh "ông ăn chả, bà ăn nem". Đặc biệt khi có sát bại tinh đi cùng đào hoa
+tinh, duyên vợ chồng khó bền — cả vợ cả chồng đều có tình nhân bên ngoài.`,
   },
 
   {
@@ -739,12 +660,9 @@ chùa.`,
     sao: ['Thiên Riêu'],
     cung: ['Huynh Đệ'],
     doUuTien: 73,
-    tomTat: `**Thiên Riêu tại Huynh Đệ** — dễ có **ANH CHỊ EM DỊ BÀO** hoặc **ANH CHỊ EM
-NUÔI**.
-
-**Đặc trưng:**
-- Trong anh chị em có người **PHONG LƯU TÀI TỬ**
-- Có người **BỎ NHÀ THEO TRAI/GÁI**, ăn chơi lang bạt`,
+    tomTat: `Khi **Thiên Riêu** đóng tại Huynh Đệ, đương số dễ có anh chị em
+dị bào hoặc anh chị em nuôi. Trong anh chị em có người phong lưu tài tử;
+cũng có người bỏ nhà theo trai hoặc theo gái, ăn chơi lang bạt.`,
   },
 
   {
@@ -754,9 +672,8 @@ NUÔI**.
     trangThai: ['Đắc'],
     ketHop: ['Thiên Quan', 'Thiên Phúc'],
     doUuTien: 70,
-    tomTat: `**Thiên Riêu Đắc địa + phúc thiện tinh tại Huynh Đệ:**
-- Anh chị em **GIỎI**
-- Có người làm **THẦY THUỐC, BÁC SỸ NỔI TIẾNG**`,
+    tomTat: `Khi Thiên Riêu **Đắc** địa hội phúc thiện tinh tại Huynh Đệ, anh
+chị em của đương số giỏi giang; có người làm thầy thuốc, bác sĩ nổi tiếng.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -768,23 +685,21 @@ NUÔI**.
     title: 'Thiên Riêu vào hạn - Các bộ tai họa',
     sao: ['Thiên Riêu'],
     doUuTien: 50,
-    tomTat: `**Thiên Riêu vào hạn** — người **GIÀ KHÔNG SỐNG LÂU**, **TRẺ HAY QUẤY**.
+    tomTat: `Khi **Thiên Riêu** vào hạn, người già không sống lâu, trẻ hay
+quấy. Các bộ kết hợp tai họa thường gặp:
 
-**Các bộ kết hợp tai họa:**
+- Riêu cùng Phá Toái: ốm đau, khẩu thiệt
+- Riêu cùng Thai: dễ có con riêng
+- Riêu cùng Tham Lang và Hóa Kỵ: tai nạn sông nước, khẩu thiệt, kiện tụng,
+  lo buồn
+- Riêu cùng Địa Không, Địa Kiếp và Thai: chửa hoang, bị hiếp dâm, bị bắt ép
+  làm nghề mãi dâm
+- Riêu cùng Thái Dương, Đà La và Hóa Kỵ: đau mắt nặng, đau yếu, hao tài; có
+  quan chức thì bị truất giáng
+- Riêu cùng Thiên Hình và Bệnh: bệnh phù
+- Riêu cùng Thiên Hình, Bệnh và Địa Không, Địa Kiếp: bệnh phong tình như
+  lậu, bệnh xã hội
 
-1. **Riêu + Phá Toái**: ốm đau, **KHẨU THIỆT**
-2. **Riêu + Thai**: dễ có **CON RIÊNG**
-3. **Riêu + Tham Lang + Hóa Kỵ**: tai nạn **SÔNG NƯỚC**, khẩu thiệt,
-   kiện tụng, lo buồn
-4. **Riêu + Không Kiếp + Thai**: **CHỬA HOANG, BỊ HIẾP DÂM**, bị bắt ép
-   làm nghề **MÃI DÂM**
-5. **Riêu + Thái Dương + Đà La + Hóa Kỵ**: đau **MẮT NẶNG**, đau yếu, hao
-   tài, có quan chức bị **TRUẤT GIÁNG**
-6. **Riêu + Thiên Hình + Bệnh**: **BỆNH PHÙ**
-7. **Riêu + Thiên Hình + Bệnh + Không Kiếp**: **BỆNH PHONG TÌNH** (lậu,
-   bệnh xã hội)
-
-**Lưu ý hạn hãm địa:** Hạn liên quan nhiều tới **NHỤC DỤC, XÁC THỊT,
-ĂN CHƠI**.`,
+Hạn ở hãm địa liên quan nhiều tới nhục dục, xác thịt và ăn chơi.`,
   },
 ];

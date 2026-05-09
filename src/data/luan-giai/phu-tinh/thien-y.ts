@@ -24,34 +24,28 @@ export const luanGiai_ThienY: DoanLuanGiai[] = [
     title: 'Thiên Y - Đặc tính chung',
     sao: ['Thiên Y'],
     doUuTien: 32,
-    tomTat: `**Thiên Y** — phụ tinh **TÙY TINH**, an theo **tháng sinh**.
+    tomTat: `**Thiên Y** là phụ tinh thuộc nhóm Tùy Tinh, an theo tháng sinh,
+ngũ hành Thủy. Chiết tự "Y" mang nghĩa sức khỏe, chữa bệnh, thầy thuốc và
+thuốc men; ghép với "Thiên" thành Thiên Y — phúc đức may mắn, sự che chở và
+cứu chữa tốt nhất mà ông trời ban cho đương số.
 
-**Ngũ hành:** **Thủy**.
+Đặc tính cốt lõi của sao là sạch sẽ vệ sinh, có thiên hướng giỏi nghề thuốc
+và y dược, mang ý nghĩa cứu giải bệnh tật.
 
-**Tên gọi:**
-- "**Y**" = sức khỏe, chữa bệnh, thầy thuốc, thuốc men
-- "**Thiên Y**" = phúc đức may mắn, sự **CHE CHỞ, CỨU CHỮA TỐT NHẤT** mà
-  ông trời ban cho
+Trong cặp Riêu-Y, Thiên Y đóng vai trò "thuốc của nhà trời", cân bằng với
+Thiên Riêu vốn là "bệnh nhà trời":
 
-**Đặc tính:**
-- **SẠCH SẼ, VỆ SINH**
-- **GIỎI VỀ NGHỀ THUỐC, Y DƯỢC**
-- **CỨU GIẢI BỆNH TẬT**
+- Khi **Đắc địa**, Thiên Y bộc lộ rõ thiên hướng y học, lấn át Riêu, dục
+  tính được giấu kín
+- Khi **Hãm địa**, khả năng cứu giải yếu đi, để Riêu lấn át
 
-**Vai trò trong cặp Riêu-Y:**
-- Là **THUỐC CỦA NHÀ TRỜI** (cân bằng với Thiên Riêu = bệnh nhà Trời)
-- Khi **ĐẮC ĐỊA**: bộc lộ y học, lấn át Riêu, dục tính được giấu kín
-- Khi **HÃM ĐỊA**: khả năng cứu giải yếu, Riêu lấn át
+Trong bộ Riêu-Y-Hình tam hợp, ba sao tạo thành bộ y dược chuyên môn — Thiên
+Y là thuốc, Thiên Riêu là thảo dược, Thiên Hình là dao kéo châm cứu.
 
-**Vai trò trong bộ Riêu-Y-Hình tam hợp:**
-- Y = thuốc, Riêu = thảo dược, Hình = dao kéo châm cứu
-- Bộ y dược chuyên môn
-
-**Rất kỵ sát tinh:**
-- Khi gặp sát tinh: tư chất thầy thuốc bị mờ tối, **LÀM LIỀU, LÀM ẨU**
-- **DỐT về trình độ**, lương tâm và trách nhiệm nghề nghiệp không cao
-- Sát tinh làm giảm sự **MÁT TAY** và cơ duyên cứu độ
-- Trường hợp xấu: sức khỏe kém, dễ **MẤT SỚM** vì bệnh tật`,
+Thiên Y rất kỵ sát tinh: khi gặp sát tinh, tư chất thầy thuốc của đương số
+bị mờ tối, dễ làm liều làm ẩu, dốt về trình độ, lương tâm và trách nhiệm
+nghề nghiệp không cao. Sát tinh còn làm giảm sự mát tay và cơ duyên cứu
+độ; trường hợp xấu, sức khỏe đương số kém, dễ mất sớm vì bệnh tật.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -64,18 +58,14 @@ export const luanGiai_ThienY: DoanLuanGiai[] = [
     sao: ['Thiên Y'],
     ketHop: ['Thiên Tướng', 'Thiên Quan'],
     doUuTien: 60,
-    tomTat: `**Thiên Y + Thiên Tướng + Thiên Quan + Thiên Phúc** — **LƯƠNG Y, THẦY THUỐC
-GIỎI MÁT TAY** như **BIỂN THƯỚC**.
+    tomTat: `Khi **Thiên Y** hội cùng Thiên Tướng và bộ Thiên Quan, Thiên Phúc,
+đương số trở thành lương y, thầy thuốc giỏi mát tay sánh ngang Biển Thước.
 
-**Phân tích bộ sao:**
-- **Thiên Y**: chuyên môn y dược
-- **Thiên Tướng**: vị trí ấn (uy tín nghề)
-- **Quan Phúc**: tâm phúc thiện, được trời ban phúc
-
-**Đặc trưng:**
-- Là thầy thuốc **CỨU NHIỀU NGƯỜI**
-- Danh tiếng **LƯU TRUYỀN HẬU THẾ** (như Biển Thước - thầy thuốc nổi tiếng
-  Trung Hoa cổ)`,
+Phân tích bộ sao: Thiên Y đảm trách chuyên môn y dược, Thiên Tướng đem đến
+vị trí ấn tín tạo uy tín nghề, còn Quan Phúc cho tâm phúc thiện và phúc
+trời ban. Hợp lực ba yếu tố này khiến đương số là thầy thuốc cứu nhiều
+người, danh tiếng lưu truyền hậu thế đúng như Biển Thước — thầy thuốc nổi
+tiếng Trung Hoa cổ.`,
   },
 
   {
@@ -84,18 +74,13 @@ GIỎI MÁT TAY** như **BIỂN THƯỚC**.
     sao: ['Thiên Y'],
     ketHop: ['Thiên Tướng', 'Thiên Hình'],
     doUuTien: 60,
-    tomTat: `**Thiên Y + Thiên Tướng + Thiên Hình (hay Kiếp Sát)** — **BÁC SỸ GIẢI PHẪU
-GIỎI** như **HOA ĐÀ**.
+    tomTat: `Khi **Thiên Y** đi cùng Thiên Tướng và Thiên Hình (hoặc Kiếp Sát),
+đương số là bác sỹ giải phẫu giỏi như Hoa Đà.
 
-**Phân tích:**
-- **Thiên Y**: y học
-- **Thiên Tướng**: ấn tín, uy nghi
-- **Thiên Hình** hoặc **Kiếp Sát**: dao kéo, mổ xẻ, sát phạt
-
-**Đặc trưng:**
-- Bác sỹ **PHẪU THUẬT** giỏi
-- Như Hoa Đà - thần y mổ xẻ thời Tam Quốc
-- Tay nghề mổ xẻ chuyên nghiệp, cứu sống nhiều người`,
+Phân tích bộ sao: Thiên Y giữ phần y học, Thiên Tướng cho ấn tín và uy
+nghi, Thiên Hình hoặc Kiếp Sát đại diện cho dao kéo, mổ xẻ và sát phạt.
+Tổng hòa lại đương số thành bác sỹ phẫu thuật giỏi sánh với Hoa Đà — thần
+y mổ xẻ thời Tam Quốc — tay nghề chuyên nghiệp, cứu sống nhiều người.`,
   },
 
   {
@@ -104,19 +89,15 @@ GIỎI** như **HOA ĐÀ**.
     sao: ['Thiên Y'],
     ketHop: ['Thái Dương', 'Thái Âm'],
     doUuTien: 55,
-    tomTat: `**Thiên Y + Thái Dương / Thái Âm + Thiên Quan + Thiên Phúc** — **BÁC SỸ
-CHIẾU ĐIỆN, NHÃN KHOA** hoặc **THẦN KINH**.
+    tomTat: `Khi **Thiên Y** kết hợp Thái Dương hoặc Thái Âm cùng Thiên Quan,
+Thiên Phúc, đương số phát triển theo hướng bác sỹ chiếu điện, nhãn khoa
+hoặc thần kinh.
 
-**Phân tích:**
-- **Nhật / Nguyệt** = ánh sáng: **CHIẾU ĐIỆN** (X-quang, MRI, siêu âm)
-- Thái Dương cũng chủ về **MẮT**: nhãn khoa
-- Cũng chủ về **THẦN KINH** (não bộ, hệ thần kinh)
-- **Quan Phúc** đảm bảo tâm phúc thiện cứu người
-
-**Hợp nghề:**
-- **Bác sỹ chẩn đoán hình ảnh** (X-quang, MRI, siêu âm)
-- **Bác sỹ nhãn khoa**
-- **Bác sỹ thần kinh**`,
+Phân tích: Nhật và Nguyệt biểu trưng cho ánh sáng — tương ứng với chiếu
+điện như X-quang, MRI, siêu âm. Thái Dương cũng chủ về mắt nên hợp nhãn
+khoa, đồng thời chủ về thần kinh, não bộ và hệ thần kinh. Quan Phúc đảm
+bảo tâm phúc thiện cứu người. Cách cục này hợp với các nghề bác sỹ chẩn
+đoán hình ảnh, bác sỹ nhãn khoa và bác sỹ thần kinh.`,
   },
 
   {
@@ -125,17 +106,13 @@ CHIẾU ĐIỆN, NHÃN KHOA** hoặc **THẦN KINH**.
     sao: ['Thiên Y'],
     ketHop: ['Thiên Tướng', 'Thai'],
     doUuTien: 55,
-    tomTat: `**Thiên Y + Thiên Tướng + Thai** — **BÁC SỸ PHỤ KHOA, ĐỠ ĐẺ**.
+    tomTat: `Khi **Thiên Y** đi cùng Thiên Tướng và Thai, đương số hợp với
+nghề bác sỹ phụ khoa, đỡ đẻ.
 
-**Phân tích:**
-- **Thiên Y**: y học
-- **Thiên Tướng**: ấn tín nghề
-- **Thai** (đất Thai trong Tràng Sinh): **BÀO THAI, MANG THAI**
-
-**Hợp nghề:**
-- **BÁC SỸ TRỊ BỆNH ĐÀN BÀ**
-- **CHỬA ĐẺ, ĐỠ ĐẺ**
-- **PHỤ KHOA, SẢN KHOA**`,
+Phân tích: Thiên Y mang chuyên môn y học, Thiên Tướng đem ấn tín nghề, còn
+Thai (đất Thai trong Tràng Sinh) chủ về bào thai và mang thai. Bộ sao này
+đẩy đương số đến những lĩnh vực bác sỹ trị bệnh đàn bà, chửa đẻ, đỡ đẻ,
+phụ khoa và sản khoa.`,
   },
 
   {
@@ -144,18 +121,15 @@ CHIẾU ĐIỆN, NHÃN KHOA** hoặc **THẦN KINH**.
     sao: ['Thiên Y'],
     ketHop: ['Thiên Cơ', 'Thái Âm', 'Thiên Đồng', 'Thiên Lương'],
     doUuTien: 55,
-    tomTat: `**Thiên Y + bộ Cơ Nguyệt Đồng Lương** — **Y SỸ GIỎI**.
+    tomTat: `Khi **Thiên Y** kết hợp với bộ Cơ Nguyệt Đồng Lương, đương số là
+y sỹ giỏi.
 
-**Phân tích:**
-- **Cơ Nguyệt Đồng Lương** = bộ chính tinh thiện đẹp (đặc biệt **Thiên Lương**
-  là **THỌ TINH**)
-- Bộ này vốn hợp các nghề **Y DƯỢC, GIÁO DỤC, CỨU NGƯỜI**
-- Thêm Thiên Y: tăng cường chuyên môn y học
-
-**Hợp nghề:**
-- Y sỹ chuyên môn cao
-- Lương y chữa bệnh
-- Đặc biệt **Đông y**, **YHCT** (Lương + Cơ là bộ trí tuệ thiện lương)`,
+Cơ Nguyệt Đồng Lương vốn là bộ chính tinh thiện đẹp, đặc biệt Thiên Lương
+là Thọ Tinh, hợp các nghề y dược, giáo dục và cứu người. Khi thêm Thiên Y,
+chuyên môn y học của đương số được tăng cường rõ rệt. Đương số thường
+thành y sỹ chuyên môn cao, lương y chữa bệnh, đặc biệt phù hợp Đông y và
+y học cổ truyền — vì Thiên Lương cùng Thiên Cơ vốn là bộ trí tuệ thiện
+lương.`,
   },
 
   {
@@ -164,19 +138,18 @@ CHIẾU ĐIỆN, NHÃN KHOA** hoặc **THẦN KINH**.
     sao: ['Thiên Y'],
     ketHop: ['Thiên Riêu'],
     doUuTien: 55,
-    tomTat: `**Thiên Y + Thiên Riêu (đồng cung luôn)** — chuyên khoa **BỘ PHẬN SINH DỤC**.
+    tomTat: `Vì **Thiên Y** luôn đồng cung với **Thiên Riêu**, đương số có
+chuyên khoa hướng về bộ phận sinh dục. Thiên Riêu chủ về dục tính và bộ
+phận sinh dục, Thiên Y chủ về chuyên môn y học; hợp lại tạo nên hướng bác
+sỹ nam khoa, phụ khoa và sinh sản.
 
-**Đặc trưng:**
-- Riêu chủ về **DỤC TÍNH, BỘ PHẬN SINH DỤC**
-- Y chủ về chuyên môn y học
-- Hợp lại: **BÁC SỸ NAM KHOA, PHỤ KHOA, SINH SẢN**
+Quy tắc chung của Thiên Y là: tùy theo bộ sao y khoa đi liền với bộ phận
+cơ thể nào thì y sỹ sẽ chuyên khoa về bộ phận đó. Cụ thể:
 
-**Quy tắc chung:** Tùy theo bộ sao y khoa đi liền với **BỘ PHẬN CƠ THỂ
-NÀO** thì y sỹ sẽ **CHUYÊN KHOA** về bộ phận đó:
-- Y + Nhật/Nguyệt: mắt, thần kinh
-- Y + Tướng + Thai: phụ khoa
-- Y + Riêu: sinh dục
-- Y + Hình: phẫu thuật`,
+- Thiên Y cùng Nhật hoặc Nguyệt: hướng về mắt, thần kinh
+- Thiên Y cùng Thiên Tướng và Thai: hướng phụ khoa
+- Thiên Y cùng Thiên Riêu: hướng sinh dục
+- Thiên Y cùng Thiên Hình: hướng phẫu thuật`,
   },
 
   {
@@ -185,20 +158,17 @@ NÀO** thì y sỹ sẽ **CHUYÊN KHOA** về bộ phận đó:
     sao: ['Thiên Y'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 55,
-    tomTat: `**Thiên Y + Địa Không / Địa Kiếp** — trong đời y sỹ phải có lần **SƠ SUẤT
-LÀM CHẾT NGƯỜI**.
+    tomTat: `Khi **Thiên Y** đồng cung Địa Không hoặc Địa Kiếp, trong đời y sỹ
+phải có lần sơ suất làm chết người — đây là cách rất xấu cho người làm
+nghề y.
 
-**Cảnh báo:**
-- Là cách rất xấu cho người làm nghề y
-- Sát tinh phá đi sự mát tay
-- Có thể vướng **TAI TIẾNG NGHỀ NGHIỆP** lớn
-- Hoặc bị **KIỆN TỤNG, CHỊU TRÁCH NHIỆM** y đức
+Sát tinh phá đi sự mát tay vốn có của Thiên Y, khiến đương số có thể
+vướng tai tiếng nghề nghiệp lớn, hoặc bị kiện tụng và phải chịu trách
+nhiệm về y đức.
 
-**Hóa giải:**
-- Cần **HỌC HÀNH KỸ LƯỠNG**, không làm liều
-- **THẬN TRỌNG** trong từng ca
-- Tránh nghề **PHẪU THUẬT** nếu có cách này
-- Tu thân tích đức thường xuyên`,
+Hóa giải: đương số cần học hành kỹ lưỡng, không làm liều, thận trọng
+trong từng ca; tránh nghề phẫu thuật nếu mang cách này, đồng thời tu
+thân tích đức thường xuyên.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -211,16 +181,12 @@ LÀM CHẾT NGƯỜI**.
     sao: ['Thiên Y'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Thiên Y thủ Mệnh** — người **CẨN THẬN, TỶ MỶ, ƯA SẠCH SẼ**, có năng khiếu
-**Y DƯỢC**.
+    tomTat: `Đương số có **Thiên Y** thủ Mệnh thường cẩn thận, tỷ mỷ và ưa
+sạch sẽ, mang sẵn năng khiếu y dược.
 
-**Tướng mạo:**
-- **NHIỀU LÔNG TÓC** (đặc điểm Thiên Riêu đồng cung)
-
-**Tính cách:**
-- **CẨN THẬN, TỶ MỶ, GỌN GÀNG, NGĂN NẮP**
-- Năng khiếu **Y DƯỢC, THUỐC MEN**
-- Tiếp cận lĩnh vực **CHĂM SÓC SỨC KHỎE**`,
+Về tướng mạo, đương số nhiều lông tóc — đây là đặc điểm do Thiên Riêu đồng
+cung mang lại. Tính cách cẩn thận, tỷ mỷ, gọn gàng và ngăn nắp; sẵn năng
+khiếu y dược, thuốc men và dễ tiếp cận lĩnh vực chăm sóc sức khỏe.`,
   },
 
   {
@@ -230,13 +196,13 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Mệnh'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 80,
-    tomTat: `**Thiên Y ĐẮC tại Mệnh (Dần/Mão/Thân/Dậu):**
-- Khỏe mạnh, **DA DẺ HỒNG HÀO**, đầy sức sống
-- Có thể làm người mẫu, chuyên gia chăm sóc sức khỏe, vận động viên thể hình
-- Học hành **THÔNG TUỆ**, học ít biết nhiều
-- Thích **Y DƯỢC, TỬ VI, LÝ SỐ**
-- Thích **KHÁM PHÁ, ẨN DẬT, HOÀI CỔ**
-- Hợp **THẦY THUỐC, BÁC SỸ MÁT TAY**`,
+    tomTat: `Khi **Thiên Y** Đắc địa tại Mệnh ở Dần, Mão, Thân hoặc Dậu, đương
+số khỏe mạnh, da dẻ hồng hào và đầy sức sống — có thể làm người mẫu,
+chuyên gia chăm sóc sức khỏe hoặc vận động viên thể hình.
+
+Học hành thông tuệ, học ít biết nhiều; sở thích thiên về y dược, tử vi,
+lý số, đồng thời ưa khám phá, ẩn dật và hoài cổ. Đương số rất hợp nghề
+thầy thuốc, bác sỹ với đôi tay mát.`,
   },
 
   {
@@ -246,12 +212,10 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Mệnh'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `**Thiên Y HÃM tại Mệnh:**
-- Tướng mạo **XANH XAO, THIẾU SỨC SỐNG**, gầy ốm
-- Bị **DỤC TÍNH RIÊU** lấn át, khó phát triển
-- Có ý thức **PHÒNG CHỮA BỆNH**
-- Trong đời phải có thời gian dài liên tục **DÙNG THUỐC**
-- Có **BỆNH HIỂM**`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Mệnh, đương số có tướng mạo xanh xao,
+thiếu sức sống, gầy ốm; bị dục tính của Thiên Riêu lấn át nên khó phát
+triển. Đương số có ý thức phòng chữa bệnh, song trong đời phải có thời
+gian dài liên tục dùng thuốc, dễ mang bệnh hiểm.`,
   },
 
   {
@@ -260,7 +224,8 @@ LÀM CHẾT NGƯỜI**.
     sao: ['Thiên Y'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Thiên Y tại Phụ Mẫu** — đắc địa cha mẹ thông minh khỏe mạnh.`,
+    tomTat: `**Thiên Y** tại Phụ Mẫu — khi đắc địa, cha mẹ đương số thông minh
+và khỏe mạnh.`,
   },
 
   {
@@ -270,11 +235,10 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Phụ Mẫu'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 78,
-    tomTat: `**Thiên Y ĐẮC tại Phụ Mẫu (Dần/Mão/Thân/Dậu):**
-- Cha mẹ có người làm **Y DƯỢC, THẦY THUỐC, BÁC SỸ**
-- **GIỎI GIANG, THÔNG MINH**
-- **SỨC KHỎE TỐT**
-- Biết quan tâm chăm sóc sức khỏe cho cả gia đình`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Phụ Mẫu ở Dần, Mão, Thân hoặc
+Dậu, cha mẹ đương số có người làm trong y dược — có thể là thầy thuốc hoặc
+bác sỹ. Cha mẹ giỏi giang, thông minh, sức khỏe tốt và biết quan tâm chăm
+sóc sức khỏe cho cả gia đình.`,
   },
 
   {
@@ -284,11 +248,10 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Phụ Mẫu'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Thiên Y HÃM tại Phụ Mẫu:**
-- Cha mẹ hay **ỐM ĐAU, BỆNH TẬT**
-- Phải **DÙNG THUỐC MEN**, khám chữa nhiều
-- Sát bại tinh hội: **GIẢM THỌ** cha mẹ
-- Hoặc cha mẹ có **NGƯỜI THỨ BA** bên ngoài (do Thiên Riêu đồng cung)`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Phụ Mẫu, cha mẹ đương số hay ốm đau
+bệnh tật, phải dùng thuốc men và khám chữa nhiều. Nếu sát bại tinh hội
+thêm, tuổi thọ cha mẹ giảm sút; hoặc cha mẹ có người thứ ba bên ngoài —
+hệ quả của Thiên Riêu đồng cung.`,
   },
 
   {
@@ -298,7 +261,8 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Hỏa Tinh', 'Linh Tinh', 'Bệnh Phù'],
     doUuTien: 70,
-    tomTat: `**Thiên Y Phụ Mẫu + Không Kiếp + Hỏa Linh + Bệnh Phù:** tuổi thọ cha mẹ càng dễ giảm sút.`,
+    tomTat: `Khi **Thiên Y** tại Phụ Mẫu hội thêm Địa Không, Địa Kiếp, Hỏa
+Tinh, Linh Tinh hoặc Bệnh Phù, tuổi thọ cha mẹ đương số càng dễ giảm sút.`,
   },
 
   {
@@ -307,7 +271,8 @@ LÀM CHẾT NGƯỜI**.
     sao: ['Thiên Y'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Thiên Y tại Phúc Đức** — dòng họ tổ tiên có nhiều người làm trong **NGÀNH Y DƯỢC**.`,
+    tomTat: `**Thiên Y** tại Phúc Đức — dòng họ tổ tiên đương số có nhiều
+người làm trong ngành y dược.`,
   },
 
   {
@@ -317,12 +282,11 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Phúc Đức'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 78,
-    tomTat: `**Thiên Y ĐẮC tại Phúc Đức (Dần/Mão/Thân/Dậu):**
-- Con cháu **HỌC HÀNH TỐT**
-- Hay **CỨU GIÚP NGƯỜI**, làm việc thiện
-- Được ông bà tổ tiên **PHÙ TRÌ** cho **MAY MẮN, SỨC KHỎE**
-- Ốm đau có **THẦY THUỐC CỨU**
-- Gia đình người hôn phối có người làm **Y DƯỢC**`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Phúc Đức ở Dần, Mão, Thân hoặc
+Dậu, con cháu trong dòng họ đương số học hành tốt, hay cứu giúp người và
+làm việc thiện. Đương số được ông bà tổ tiên phù trì cho may mắn và sức
+khỏe; ốm đau có thầy thuốc cứu, gia đình người hôn phối cũng có người làm
+y dược.`,
   },
 
   {
@@ -332,10 +296,9 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Phúc Đức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Thiên Y HÃM tại Phúc Đức:**
-- Dòng họ nhiều người hay **ỐM ĐAU BỆNH TẬT**
-- Có thể **DI TRUYỀN** tới đương số
-- Tâm thiện giảm sút (vì lo chuyện cá nhân)`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Phúc Đức, dòng họ đương số có nhiều
+người hay ốm đau bệnh tật, có thể di truyền tới chính đương số. Tâm thiện
+cũng giảm sút vì lo chuyện cá nhân nhiều hơn.`,
   },
 
   {
@@ -344,7 +307,8 @@ LÀM CHẾT NGƯỜI**.
     sao: ['Thiên Y'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Thiên Y tại Điền Trạch** — đất gần **BỆNH VIỆN, TRẠM XÁ, NHÀ THUỐC**.`,
+    tomTat: `**Thiên Y** tại Điền Trạch — đất ở của đương số gần bệnh viện,
+trạm xá hoặc nhà thuốc.`,
   },
 
   {
@@ -354,10 +318,9 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Điền Trạch'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 78,
-    tomTat: `**Thiên Y ĐẮC tại Điền Trạch (Dần/Mão/Thân/Dậu):**
-- Nhà xung quanh có nhiều **THẦY THUỐC, BÁC SỸ** chữa bệnh
-- **THỔ NHƯỠNG** tốt
-- Nhiều người **KHỎE MẠNH, THÔNG MINH**`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Điền Trạch ở Dần, Mão, Thân hoặc
+Dậu, nhà cửa xung quanh có nhiều thầy thuốc, bác sỹ chữa bệnh. Thổ nhưỡng
+khu vực tốt, người ở quanh khỏe mạnh và thông minh.`,
   },
 
   {
@@ -367,12 +330,10 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Điền Trạch'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Thiên Y HÃM tại Điền Trạch:**
-- Nơi ở hay xảy ra **ỐM ĐAU, BỆNH TẬT**
-- Dễ có **MA TÀ ÁM** (Thiên Riêu)
-- Đất phải thờ
-- Xung quanh dễ xảy ra **BỆNH DỊCH TRUYỀN NHIỄM** lây lan
-- Nhà cửa có nguy cơ trở thành **"TÂM DỊCH"** để có thầy thuốc đến cứu giải`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Điền Trạch, nơi ở của đương số hay
+xảy ra ốm đau bệnh tật, dễ bị ma tà ám do ảnh hưởng Thiên Riêu — đất phải
+thờ. Xung quanh dễ xảy ra bệnh dịch truyền nhiễm lây lan; nhà cửa có nguy
+cơ trở thành "tâm dịch" để có thầy thuốc đến cứu giải.`,
   },
 
   {
@@ -381,11 +342,9 @@ LÀM CHẾT NGƯỜI**.
     sao: ['Thiên Y'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Thiên Y tại Quan Lộc** — ngành nghề liên quan **THUỐC MEN, Y DƯỢC, Y HỌC**.
-
-**Hợp nghề:**
-- **THUỐC MEN, Y DƯỢC, Y HỌC**
-- **TỔ CHỨC THIỆN NGUYỆN, CHỮ THẬP ĐỎ**`,
+    tomTat: `**Thiên Y** tại Quan Lộc — sự nghiệp đương số gắn liền với thuốc
+men, y dược và y học. Ngoài các nghề y khoa trực tiếp, đương số cũng hợp
+với tổ chức thiện nguyện, chữ thập đỏ và các hoạt động cứu người.`,
   },
 
   {
@@ -395,9 +354,8 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Quan Lộc'],
     chi: ['Mão', 'Dậu', 'Dần', 'Thân'],
     doUuTien: 80,
-    tomTat: `**Thiên Y ĐẮC tại Quan Lộc (Mão/Dậu/Dần/Thân):**
-- Nghề nghiệp **HIỂN VINH**
-- **ĐƯỢC NGƯỜI ĐỜI BIẾT TIẾNG**`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Quan Lộc ở Mão, Dậu, Dần hoặc
+Thân, nghề nghiệp đương số hiển vinh và được người đời biết tiếng.`,
   },
 
   {
@@ -407,10 +365,10 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Quan Lộc'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Thiên Y Quan Lộc + sát tinh (Kình Đà / Hỏa Linh / Không Kiếp):**
-- Làm các công tác **GIÁN TIẾP, PHỤ TRỢ** trong ngành y
-- Quản lý hành chính, cấp cứu, kinh doanh
-- Hoặc **TRỒNG CÂY DƯỢC LIỆU, DƯỢC PHẨM**`,
+    tomTat: `Khi **Thiên Y** tại Quan Lộc bị sát tinh như Kình Dương, Đà La,
+Hỏa Tinh, Linh Tinh, Địa Không hoặc Địa Kiếp đánh phá, đương số làm các
+công tác gián tiếp và phụ trợ trong ngành y — quản lý hành chính, cấp
+cứu, kinh doanh — hoặc chuyển sang trồng cây dược liệu, dược phẩm.`,
   },
 
   {
@@ -420,7 +378,8 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Quan Lộc'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Thiên Y Quan Lộc + Không Kiếp:** Trong đời y sỹ phải có lần **SƠ SUẤT LÀM CHẾT NGƯỜI**.`,
+    tomTat: `Khi **Thiên Y** tại Quan Lộc đi cùng Địa Không hoặc Địa Kiếp,
+trong đời y sỹ đương số phải có lần sơ suất làm chết người.`,
   },
 
   {
@@ -430,10 +389,9 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Quan Lộc'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Thiên Y HÃM tại Quan Lộc:**
-- Công việc liên quan nhiều tới **BỆNH TẬT, BỆNH HOẠN**
-- Môi trường làm việc **ĐỘC HẠI**
-- Suy giảm sức khỏe của đương số`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Quan Lộc, công việc của đương số liên
+quan nhiều tới bệnh tật, bệnh hoạn, môi trường làm việc độc hại — dẫn tới
+suy giảm sức khỏe của chính đương số.`,
   },
 
   {
@@ -442,7 +400,8 @@ LÀM CHẾT NGƯỜI**.
     sao: ['Thiên Y'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Thiên Y tại Nô Bộc** — đắc địa bạn bè nhiều người làm **NGÀNH Y DƯỢC**.`,
+    tomTat: `**Thiên Y** tại Nô Bộc — khi đắc địa, bạn bè đương số nhiều người
+làm trong ngành y dược.`,
   },
 
   {
@@ -452,9 +411,9 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Nô Bộc'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 78,
-    tomTat: `**Thiên Y ĐẮC tại Nô Bộc (Dần/Mão/Thân/Dậu):**
-- Bạn bè **THÔNG MINH, CẨN THẬN, CHỈN CHU**
-- Bản thân ốm đau có **NGƯỜI QUAN TÂM, CHĂM SÓC**`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Nô Bộc ở Dần, Mão, Thân hoặc
+Dậu, bạn bè đương số thông minh, cẩn thận và chỉn chu. Khi đương số ốm
+đau, luôn có người quan tâm, chăm sóc tận tình.`,
   },
 
   {
@@ -464,10 +423,10 @@ LÀM CHẾT NGƯỜI**.
     cung: ['Nô Bộc'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Thiên Y HÃM tại Nô Bộc:**
-- Bạn bè đồng nghiệp **SỨC KHỎE KÉM**, hay ốm đau
-- Đây có thể là người **THẦY THUỐC, BÁC SỸ** với cung Nô đóng vai
-  **BỆNH NHÂN** cần cứu giúp`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Nô Bộc, bạn bè đồng nghiệp của đương
+số sức khỏe kém, hay ốm đau. Cũng có cách hiểu khác: chính đương số là
+người thầy thuốc, bác sỹ — còn cung Nô Bộc đóng vai bệnh nhân cần cứu
+giúp.`,
   },
 
   {
@@ -478,9 +437,8 @@ LÀM CHẾT NGƯỜI**.
     trangThai: ['Hãm'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 75,
-    tomTat: `**Thiên Y HÃM Nô Bộc + sát bại tinh:**
-- Bạn bè ăn chơi chác tán
-- Nhiều **BỆNH TẬT**`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Nô Bộc hội thêm sát bại tinh, bạn bè
+đương số ăn chơi chác tán và nhiều bệnh tật.`,
   },
 
   {
@@ -489,8 +447,8 @@ LÀM CHẾT NGƯỜI**.
     sao: ['Thiên Y'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Thiên Y tại Thiên Di** — đắc địa ra ngoài **MAY MẮN**, ốm đau có **NGƯỜI
-HỖ TRỢ**.`,
+    tomTat: `**Thiên Y** tại Thiên Di — khi đắc địa, đương số ra ngoài hay
+gặp may mắn, ốm đau có người hỗ trợ.`,
   },
 
   {
@@ -500,11 +458,10 @@ HỖ TRỢ**.`,
     cung: ['Thiên Di'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 78,
-    tomTat: `**Thiên Y ĐẮC tại Thiên Di (Dần/Mão/Thân/Dậu):**
-- Đi xa hay được gặp **MAY MẮN**
-- Ra ngoài tới môi trường liên quan **NGÀNH Y DƯỢC**
-- Quen nhiều **BÁC SỸ, THẦY THUỐC**
-- Biết **TỰ CHĂM SÓC** bản thân, **TỰ LẬP TỐT**`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Thiên Di ở Dần, Mão, Thân hoặc
+Dậu, đương số đi xa hay được gặp may mắn, ra ngoài tới môi trường liên
+quan ngành y dược, quen nhiều bác sỹ và thầy thuốc. Đương số biết tự
+chăm sóc bản thân và tự lập tốt.`,
   },
 
   {
@@ -514,10 +471,10 @@ HỖ TRỢ**.`,
     cung: ['Thiên Di'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Thiên Y HÃM tại Thiên Di:**
-- Ra ngoài hay bị **ỐM ĐAU, BỆNH TẬT**
-- Ăn chơi chác tán dễ bị **LÂY BỆNH TRUYỀN NHIỄM XÃ HỘI**
-- Đặc biệt rõ rệt khi hội thêm **SÁT BẠI TINH**`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Thiên Di, đương số ra ngoài hay bị ốm
+đau bệnh tật. Lối sống ăn chơi chác tán dễ khiến đương số bị lây bệnh
+truyền nhiễm xã hội — biểu hiện đặc biệt rõ rệt khi hội thêm sát bại
+tinh.`,
   },
 
   {
@@ -526,11 +483,9 @@ HỖ TRỢ**.`,
     sao: ['Thiên Y'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Thiên Y tại Tật Ách** — đắc địa giải trừ bớt **BỆNH TẬT, TAI ÁCH**.
-
-**Đặc tính bệnh (Thủy):**
-- Liên quan **MÁU HUYẾT**
-- **HỆ THỐNG TIÊU HÓA, THẬN**`,
+    tomTat: `**Thiên Y** tại Tật Ách — khi đắc địa, đương số được giải trừ
+bớt bệnh tật và tai ách. Vì Thiên Y mang ngũ hành Thủy, đặc tính bệnh
+liên quan máu huyết, hệ tiêu hóa và thận.`,
   },
 
   {
@@ -540,10 +495,9 @@ HỖ TRỢ**.`,
     cung: ['Tật Ách'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 80,
-    tomTat: `**Thiên Y ĐẮC tại Tật Ách (Dần/Mão/Thân/Dậu):**
-- **ỐM ĐAU LÀ CÓ THUỐC CHỮA**
-- Khả năng giải trừ đến từ **Ý THỨC TỰ CHĂM SÓC** bản thân
-- Giảm trừ được bệnh tật`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Tật Ách ở Dần, Mão, Thân hoặc
+Dậu, đương số ốm đau là có thuốc chữa. Khả năng giải trừ phần lớn đến từ
+ý thức tự chăm sóc bản thân, nhờ vậy giảm trừ được bệnh tật.`,
   },
 
   {
@@ -553,10 +507,9 @@ HỖ TRỢ**.`,
     cung: ['Tật Ách'],
     trangThai: ['Hãm'],
     doUuTien: 80,
-    tomTat: `**Thiên Y HÃM tại Tật Ách:**
-- Sức khỏe thường **KHÔNG TỐT**
-- Hay ốm đau, bệnh tật **KÉO DÀI**
-- Phải **DÙNG THUỐC MEN ĐIỀU TRỊ** đi cùng`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Tật Ách, sức khỏe đương số thường
+không tốt, hay ốm đau và bệnh tật kéo dài, phải dùng thuốc men điều trị
+liên tục.`,
   },
 
   {
@@ -565,7 +518,8 @@ HỖ TRỢ**.`,
     sao: ['Thiên Y'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Thiên Y tại Tài Bạch** — đắc địa kiếm tiền từ **NGÀNH Y, CHĂM SÓC SỨC KHỎE**.`,
+    tomTat: `**Thiên Y** tại Tài Bạch — khi đắc địa, đương số kiếm tiền từ
+ngành y và lĩnh vực chăm sóc sức khỏe.`,
   },
 
   {
@@ -575,10 +529,9 @@ HỖ TRỢ**.`,
     cung: ['Tài Bạch'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 78,
-    tomTat: `**Thiên Y ĐẮC tại Tài Bạch (Dần/Mão/Thân/Dậu):**
-- Kiếm tiền từ **NGÀNH Y DƯỢC**
-- **CHÂM CỨU, CHĂM SÓC SỨC KHỎE**
-- **SPA, HUẤN LUYỆN VIÊN THỂ HÌNH**`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Tài Bạch ở Dần, Mão, Thân hoặc
+Dậu, đương số kiếm tiền từ ngành y dược, châm cứu, chăm sóc sức khỏe, hoặc
+các nghề liên quan như spa và huấn luyện viên thể hình.`,
   },
 
   {
@@ -588,9 +541,8 @@ HỖ TRỢ**.`,
     cung: ['Tài Bạch'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Thiên Y HÃM tại Tài Bạch:**
-- Hay **TIÊU TỐN NHIỀU TIỀN** cho chuyện ốm đau và thuốc men
-- "Của đi vì bệnh"`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Tài Bạch, đương số hay tiêu tốn nhiều
+tiền cho chuyện ốm đau và thuốc men — đúng câu "của đi vì bệnh".`,
   },
 
   {
@@ -599,7 +551,8 @@ HỖ TRỢ**.`,
     sao: ['Thiên Y'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Thiên Y tại Tử Tức** — đắc địa con cái **KHỎE MẠNH, THÔNG MINH**, sau theo nghề y.`,
+    tomTat: `**Thiên Y** tại Tử Tức — khi đắc địa, con cái đương số khỏe mạnh,
+thông minh và sau này có người theo nghề y.`,
   },
 
   {
@@ -609,9 +562,9 @@ HỖ TRỢ**.`,
     cung: ['Tử Tức'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 78,
-    tomTat: `**Thiên Y ĐẮC tại Tử Tức (Dần/Mão/Thân/Dậu):**
-- Con cái **KHỎE MẠNH, THÔNG MINH, TỰ LẬP TỐT**
-- Sau này có đứa theo **NGHỀ Y DƯỢC, CHĂM SÓC SỨC KHỎE**`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Tử Tức ở Dần, Mão, Thân hoặc
+Dậu, con cái đương số khỏe mạnh, thông minh và tự lập tốt. Sau này thường
+có đứa theo nghề y dược hoặc lĩnh vực chăm sóc sức khỏe.`,
   },
 
   {
@@ -621,7 +574,8 @@ HỖ TRỢ**.`,
     cung: ['Tử Tức'],
     ketHop: ['Thiên Lương', 'Thiên Tướng'],
     doUuTien: 70,
-    tomTat: `**Thiên Y Tử Tức + Thiên Lương + Thiên Tướng:** **TÂM TÍNH LƯƠNG THIỆN**, thích giúp người.`,
+    tomTat: `Khi **Thiên Y** tại Tử Tức hội thêm Thiên Lương và Thiên Tướng,
+con cái đương số tâm tính lương thiện và thích giúp người.`,
   },
 
   {
@@ -631,9 +585,8 @@ HỖ TRỢ**.`,
     cung: ['Tử Tức'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Thiên Y HÃM tại Tử Tức:**
-- Con cái hay **ỐM ĐAU, BỆNH TẬT**
-- Phải **ĐIỀU TRỊ THUỐC MEN LIÊN TỤC**`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Tử Tức, con cái đương số hay ốm đau
+bệnh tật, phải điều trị thuốc men liên tục.`,
   },
 
   {
@@ -642,7 +595,8 @@ HỖ TRỢ**.`,
     sao: ['Thiên Y'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Thiên Y tại Phu Thê** — đắc địa người hôn phối **THÔNG MINH, ĐẢM ĐANG**.`,
+    tomTat: `**Thiên Y** tại Phu Thê — khi đắc địa, người hôn phối của đương
+số thông minh và đảm đang.`,
   },
 
   {
@@ -652,10 +606,10 @@ HỖ TRỢ**.`,
     cung: ['Phu Thê'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 78,
-    tomTat: `**Thiên Y ĐẮC tại Phu Thê (Dần/Mão/Thân/Dậu):**
-- Vợ chồng là người **THÔNG MINH, CHỈN CHU, ĐẢM ĐANG, CẨN THẬN**
-- Biết **QUAN TÂM CHĂM SÓC GIA ĐÌNH**, đặc biệt là **SỨC KHỎE**
-- Người hôn phối dễ làm trong **NGÀNH Y DƯỢC**`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Phu Thê ở Dần, Mão, Thân hoặc
+Dậu, vợ chồng đương số là người thông minh, chỉn chu, đảm đang và cẩn
+thận. Bạn đời biết quan tâm chăm sóc gia đình, đặc biệt về sức khỏe, và
+dễ làm trong ngành y dược.`,
   },
 
   {
@@ -665,10 +619,9 @@ HỖ TRỢ**.`,
     cung: ['Phu Thê'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Thiên Y HÃM tại Phu Thê:**
-- Người hôn phối hay **ỐM ĐAU, BỆNH TẬT**
-- Phải **ĐIỀU TRỊ THUỐC MEN** nhiều
-- Hội nhiều sát bại tinh: **GIẢM THỌ** duyên vợ chồng`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Phu Thê, người hôn phối hay ốm đau
+bệnh tật, phải điều trị thuốc men nhiều. Nếu hội thêm nhiều sát bại tinh,
+duyên vợ chồng giảm thọ.`,
   },
 
   {
@@ -677,7 +630,8 @@ HỖ TRỢ**.`,
     sao: ['Thiên Y'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Thiên Y tại Huynh Đệ** — đắc địa anh chị em **GIỎI GIANG**.`,
+    tomTat: `**Thiên Y** tại Huynh Đệ — khi đắc địa, anh chị em đương số giỏi
+giang.`,
   },
 
   {
@@ -687,10 +641,9 @@ HỖ TRỢ**.`,
     cung: ['Huynh Đệ'],
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     doUuTien: 78,
-    tomTat: `**Thiên Y ĐẮC tại Huynh Đệ (Dần/Mão/Thân/Dậu):**
-- Anh chị em **GIỎI GIANG**
-- Có người làm trong **NGÀNH Y DƯỢC**
-- Hồi nhỏ dễ được anh chị **QUÝ MẾN, CHĂM SÓC** cẩn thận`,
+    tomTat: `Khi **Thiên Y** **Đắc địa** tại Huynh Đệ ở Dần, Mão, Thân hoặc
+Dậu, anh chị em đương số giỏi giang, có người làm trong ngành y dược. Hồi
+nhỏ đương số dễ được anh chị quý mến, chăm sóc cẩn thận.`,
   },
 
   {
@@ -700,9 +653,8 @@ HỖ TRỢ**.`,
     cung: ['Huynh Đệ'],
     trangThai: ['Hãm'],
     doUuTien: 78,
-    tomTat: `**Thiên Y HÃM tại Huynh Đệ:**
-- Anh chị em hay bị **ỐM ĐAU, THƯƠNG TẬT**
-- Phải **ĐIỀU TRỊ, THUỐC MEN LIÊN TỤC**`,
+    tomTat: `Khi **Thiên Y** **Hãm** tại Huynh Đệ, anh chị em đương số hay bị
+ốm đau, thương tật và phải điều trị thuốc men liên tục.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -714,16 +666,12 @@ HỖ TRỢ**.`,
     title: 'Thiên Y vào hạn',
     sao: ['Thiên Y'],
     doUuTien: 50,
-    tomTat: `**Thiên Y vào hạn** — dễ **ỐM ĐAU**, phải chạy chữa thầy thuốc.
+    tomTat: `Khi **Thiên Y** vào hạn, đương số dễ ốm đau và phải chạy chữa
+thầy thuốc. Vì Thiên Riêu luôn đi đôi cùng Thiên Y, có khi đương số gặp
+bệnh về bộ phận sinh dục — tiểu tiện, phong tình, bệnh đàn bà.
 
-**Đặc trưng:**
-- Vì Thiên Riêu **LUÔN ĐI ĐÔI** với Thiên Y
-- Có khi gặp **BỆNH VỀ BỘ PHẬN SINH DỤC** (tiểu tiện, phong tình, bệnh đàn bà)
-
-**Phải đề phòng:**
-- **ĐAU YẾU, GIỮ GÌN SỨC KHỎE**
-- Có thể bản thân bị bệnh
-- Hoặc người thân bị bệnh: cần chăm sóc, điều trị, trông nom`,
+Đương số phải đề phòng đau yếu, giữ gìn sức khỏe; có thể bản thân bị bệnh
+hoặc người thân bị bệnh và cần được chăm sóc, điều trị, trông nom.`,
   },
 
   {
@@ -732,7 +680,8 @@ HỖ TRỢ**.`,
     sao: ['Thiên Y'],
     ketHop: ['Tham Lang', 'Thiên Đồng'],
     doUuTien: 55,
-    tomTat: `**Thiên Y hạn + Tham Lang + Thiên Đồng:** đề phòng **BỆNH XÃ HỘI** do **TỬU SẮC PHONG TÌNH**.`,
+    tomTat: `Khi hạn **Thiên Y** đi cùng Tham Lang và Thiên Đồng, đương số
+phải đề phòng bệnh xã hội do tửu sắc phong tình.`,
   },
 
   {
@@ -742,10 +691,9 @@ HỖ TRỢ**.`,
     chi: ['Dần', 'Mão', 'Thân', 'Dậu'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 55,
-    tomTat: `**Thiên Y đắc địa hạn + cát tinh trợ lực:**
-- Người trong ngành y dễ **LẬP CÔNG DANH**
-- Cứu nhiều người
-- Thăng tiến`,
+    tomTat: `Khi hạn **Thiên Y** đắc địa hội thêm cát tinh trợ lực như Tả Phù,
+Hữu Bật, Văn Xương, Văn Khúc, Thiên Khôi hoặc Thiên Việt, người trong
+ngành y dễ lập công danh, cứu nhiều người và thăng tiến.`,
   },
 
   {
@@ -754,8 +702,8 @@ HỖ TRỢ**.`,
     sao: ['Thiên Y'],
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 55,
-    tomTat: `**Thiên Y hạn + sát tinh:**
-- Vướng vào **TAI TIẾNG NGHỀ NGHIỆP**
-- Sức khỏe bị giảm sút`,
+    tomTat: `Khi hạn **Thiên Y** đi cùng sát tinh như Kình Dương, Đà La, Hỏa
+Tinh, Linh Tinh, Địa Không hoặc Địa Kiếp, đương số dễ vướng vào tai tiếng
+nghề nghiệp và sức khỏe bị giảm sút.`,
   },
 ];
