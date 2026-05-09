@@ -12,9 +12,9 @@ export default function MucLucCung({ cacCung }: Props) {
       className="bg-amber-50 border border-amber-200 rounded-lg p-4"
     >
       <h3 className="text-base font-bold text-amber-900 mb-2">MỤC LỤC</h3>
-      <ol className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-4 gap-y-1 text-sm list-decimal list-inside marker:text-amber-700">
+      <ol className="columns-2 sm:columns-3 lg:columns-4 gap-x-4 text-sm list-decimal list-inside marker:text-amber-700">
         {cacCung.map(cung => (
-          <li key={cung.chi}>
+          <li key={cung.chi} className="break-inside-avoid">
             <a
               href={`#${idCuaCung(cung.ten)}`}
               className="text-amber-800 hover:text-amber-950 hover:underline"
