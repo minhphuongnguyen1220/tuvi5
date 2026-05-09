@@ -21,31 +21,25 @@ export const luanGiai_QuaTu: DoanLuanGiai[] = [
     title: 'Quả Tú - Đặc tính chung',
     sao: ['Quả Tú'],
     doUuTien: 32,
-    tomTat: `**Quả Tú** — phụ tinh **ÁM TINH**, an theo **nhóm 3 chi** năm sinh.
+    tomTat: `**Quả Tú** là phụ tinh thuộc nhóm Ám Tinh, mang ngũ hành Thổ. Sao
+được an theo nhóm 3 chi năm sinh (do engine xử lý) và thường được gọi tắt là
+"Quả".
 
-**Ngũ hành:** **Thổ**.
+Đặc tính cốt lõi của sao xoay quanh sự cô độc, khép kín và nỗi u buồn trong
+nội tâm. Đương số có Quả Tú thường kín đáo, ít bộc lộ mặt tốt ra ngoài; dáng
+vẻ trầm lặng, ít nói, khó hòa nhập với tập thể.
 
-**Tên gọi rút gọn:** "**Quả**".
+So với Cô Thần — vốn thiên về tách biệt khỏi tập thể — Quả Tú lại nghiêng về
+nội tâm trầm mặc. Quy luật cơ bản của sao là luôn tam hợp hội chiếu với **Cô
+Thần**. Câu "nam kỵ Cô, nữ kỵ Quả" cho thấy Quả Tú phát tác mạnh nhất với nữ
+mệnh, đặc biệt kỵ chồng và cha.
 
-**Đặc tính:**
-- Chủ về sự **CÔ ĐỘC, KHÉP KÍN, U BUỒN** trong nội tâm
-- **KÍN ĐÁO**, ít bộc lộ mặt tốt ra ngoài
-- Dáng vẻ **TRẦM LẶNG, ÍT NÓI**, khó hòa nhập với tập thể
+Về tâm linh, Quả Tú đóng tại Phúc Đức ám chỉ trong nhà có "bà cô tổ" linh
+thiêng phù trì — tức người nữ trong họ mất sớm khi còn trẻ.
 
-**Khác Cô Thần:**
-- **CÔ THẦN** = thiên về **TÁCH BIỆT KHỎI TẬP THỂ**
-- **QUẢ TÚ** = thiên về **NỘI TÂM TRẦM MẶC**
-
-**Quy luật cơ bản:**
-- LUÔN tam hợp hội chiếu **Cô Thần**
-- "**NAM KỴ CÔ, NỮ KỴ QUẢ**" — Quả Tú phát tác mạnh nhất với **NỮ mệnh**
-- Đặc biệt **kỵ CHỒNG và CHA**
-
-**Tâm linh:** Quả Tú Phúc Đức = nhà có **BÀ CÔ TỔ linh thiêng** phù trì
-(người nữ trong họ mất sớm khi còn trẻ).
-
-**Mặt sáng:** Khi gặp cát tinh: **TƯ DUY ĐỘC LẬP, TỰ LO LIỆU, GIỮ KỶ
-LUẬT**, đôi khi mở ra cơ duyên với **TÂM LINH, TU TẬP**.`,
+Mặt sáng của sao này cũng đáng kể: khi gặp cát tinh, đương số có tư duy độc
+lập, biết tự lo liệu, giữ kỷ luật, đôi khi mở ra cơ duyên với tâm linh và tu
+tập.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -58,29 +52,24 @@ LUẬT**, đôi khi mở ra cơ duyên với **TÂM LINH, TU TẬP**.`,
     sao: ['Quả Tú'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Quả Tú thủ Mệnh** — toát ra thần thái **LẠNH LÙNG**, gương mặt **U BUỒN,
-ÍT NÓI**, không mấy khi chủ động giao du.
+    tomTat: `Khi Quả Tú thủ Mệnh, đương số toát ra thần thái lạnh lùng, gương
+mặt u buồn và ít nói; không mấy khi chủ động giao du. Bạn bè vì thế thưa
+thớt, các mối quan hệ khó gắn bó bền lâu. Sự cô độc khiến chủ mệnh hay cảm
+thấy mình là "nạn nhân của số phận" — chán nản và ngại đổi thay.
 
-**Đặc trưng:**
-- Bạn bè **THƯA THỚT**, mối quan hệ khó gắn bó bền lâu
-- Sự cô độc khiến chủ mệnh hay cảm thấy mình là **"NẠN NHÂN CỦA SỐ PHẬN"**
-- **CHÁN NẢN VÀ NGẠI ĐỔI THAY**
+Cần phân biệt Quả Tú và Cô Thần ở điểm này: Quả Tú thiên về nội tâm trầm mặc
+(sâu sắc, lặng lẽ), còn Cô Thần thiên về sự tách biệt khỏi tập thể.
 
-**Khác Cô Thần:**
-- Quả Tú thiên về **NỘI TÂM TRẦM MẶC** (sâu sắc, lặng lẽ)
-- Cô Thần thiên về **TÁCH BIỆT KHỎI TẬP THỂ**
+Điểm sáng của đương số là sự kiên nhẫn cùng ý chí cứng cỏi khi đối diện khó
+khăn.
 
-**Điểm sáng:**
-- **KIÊN NHẪN VÀ Ý CHÍ CỨNG CỎI** khi đối diện khó khăn
+Khi cát tinh hội về như Hóa Khoa, Văn Xương, Văn Khúc, Thiên Khôi, Thiên Việt,
+Thai Phụ, Phong Cáo, nét u buồn của chủ mệnh dần chuyển hóa thành sự sâu sắc.
+Đương số được trọng vọng nhờ vẻ điềm đạm, chín chắn và học vấn vững vàng.
 
-**Cát tinh hội (Hóa Khoa, Xương Khúc, Khôi Việt, Thai Phụ, Phong Cáo):**
-- Nét u buồn dần chuyển hóa thành **SÂU SẮC**
-- Được trọng vọng bởi **ĐIỀM ĐẠM, CHÍN CHẮN, HỌC VẤN VỮNG VÀNG**
-
-**Hội Thiên Tướng + Thất Sát + Hóa Quyền + Tướng Quân:**
-- Trầm lặng hóa **KHÍ CHẤT UY NGHI**
-- Lời nói có **SỨC NẶNG**
-- Dễ thành người **CẦM QUYỀN** trong tập thể`,
+Khi hội Thiên Tướng, Thất Sát, Hóa Quyền, Tướng Quân, vẻ trầm lặng hóa thành
+khí chất uy nghi; lời nói của đương số có sức nặng, dễ trở thành người cầm
+quyền trong tập thể.`,
   },
 
   {
@@ -90,13 +79,12 @@ LUẬT**, đôi khi mở ra cơ duyên với **TÂM LINH, TU TẬP**.`,
     cung: ['Mệnh'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `**"NỮ KỴ QUẢ":** Quả Tú thủ Mệnh phát tác mạnh nhất với nữ mệnh — kỵ
-chồng, kỵ cha.
+    tomTat: `Theo câu "nữ kỵ Quả", Quả Tú thủ Mệnh phát tác mạnh nhất với nữ
+mệnh — đặc biệt kỵ chồng và kỵ cha.
 
-**Đặc trưng:**
-- Đường tình duyên, hôn nhân **TRẮC TRỞ**
-- Cô độc trong nội tâm dù bên ngoài có đông người
-- Cha hoặc chồng dễ gặp tai ương, bệnh tật, xa cách`,
+Đường tình duyên và hôn nhân của đương số trắc trở, sống cô độc trong nội tâm
+ngay cả khi bên ngoài có đông người vây quanh. Cha hoặc chồng cũng dễ gặp tai
+ương, bệnh tật hay xa cách.`,
   },
 
   {
@@ -105,16 +93,15 @@ chồng, kỵ cha.
     sao: ['Quả Tú'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Quả Tú tại Phụ Mẫu** — cha mẹ thường sống **KHÉP KÍN, NGHIÊM KHẮC**, ít sẻ chia.
+    tomTat: `Khi Quả Tú tại Phụ Mẫu, cha mẹ đương số thường sống khép kín,
+nghiêm khắc và ít sẻ chia.
 
-**Cát tinh hội (Xương Khúc, Khôi Việt, Hóa Khoa):**
-- Cha mẹ **HỌC THỨC, ĐẠO ĐỨC**
-- Con cái **TRƯỞNG THÀNH SỚM** và hưởng phúc ấm
+Khi cát tinh hội về (Văn Xương, Văn Khúc, Thiên Khôi, Thiên Việt, Hóa Khoa),
+cha mẹ là người có học thức và đạo đức; con cái trưởng thành sớm và hưởng
+phúc ấm từ cha mẹ.
 
-**Sát tinh hội:**
-- Cha mẹ tình cảm **LẠNH NHẠT**, dễ **BẤT HÒA, CHIA LY**
-- Cha mẹ cô độc, hay buồn phiền
-- Con cái sớm phải **TỰ LỰC CÁNH SINH**`,
+Khi sát tinh hội về, cha mẹ tình cảm lạnh nhạt, dễ bất hòa và chia ly; bản
+thân cha mẹ cũng cô độc, hay buồn phiền — con cái sớm phải tự lực cánh sinh.`,
   },
 
   {
@@ -124,7 +111,8 @@ chồng, kỵ cha.
     ketHop: ['Tuần'],
     cung: ['Phụ Mẫu'],
     doUuTien: 70,
-    tomTat: `**Quả Tú + Tuần tại Phụ Mẫu:** một bên cha hoặc mẹ **YỂU MỆNH**.`,
+    tomTat: `Khi Quả Tú đi cùng Tuần tại Phụ Mẫu, một bên cha hoặc mẹ của đương
+số yểu mệnh.`,
   },
 
   {
@@ -134,7 +122,8 @@ chồng, kỵ cha.
     ketHop: ['Triệt'],
     cung: ['Phụ Mẫu'],
     doUuTien: 70,
-    tomTat: `**Quả Tú + Triệt tại Phụ Mẫu:** một bên cha hoặc mẹ **YỂU MỆNH**.`,
+    tomTat: `Khi Quả Tú đi cùng Triệt tại Phụ Mẫu, một bên cha hoặc mẹ của
+đương số yểu mệnh.`,
   },
 
   {
@@ -144,10 +133,9 @@ chồng, kỵ cha.
     ketHop: ['Địa Không', 'Địa Kiếp', 'Đại Hao'],
     cung: ['Phụ Mẫu'],
     doUuTien: 70,
-    tomTat: `**Quả Tú + Địa Không + Địa Kiếp + Đại Hao tại Phụ Mẫu:**
-- Phúc ấm **SUY GIẢM**
-- "Đời cha ăn mặn, con khát nước"
-- Con cái phải chịu hệ lụy`,
+    tomTat: `Khi Quả Tú hội cùng Địa Không, Địa Kiếp và Đại Hao tại Phụ Mẫu,
+phúc ấm gia đình suy giảm — đúng câu "đời cha ăn mặn, con khát nước". Con cái
+phải chịu hệ lụy từ những việc của cha mẹ trước đó.`,
   },
 
   {
@@ -156,18 +144,18 @@ chồng, kỵ cha.
     sao: ['Quả Tú'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `**Quả Tú tại Phúc Đức** — tạo **XA CÁCH** trong dòng họ.
+    tomTat: `Khi Quả Tú tại Phúc Đức, sao tạo nên sự xa cách trong dòng họ.
 
-**Cát tinh hội (Thiên Đức + Long Phượng + Thiên Việt):**
-- Gia tộc được **HƯỞNG PHÚC** nhờ **BÀ CÔ TỔ** phù trì
-- Con cháu duyên đến **MUỘN** nhưng hôn nhân **YÊN ẤM**
+Khi cát tinh hội về (Thiên Đức, Long Trì, Phượng Các, Thiên Việt), gia tộc
+được hưởng phúc nhờ "bà cô tổ" phù trì; con cháu duyên đến muộn nhưng hôn
+nhân lại yên ấm.
 
-**Tâm linh đặc biệt:** Quả Tú Phúc = nhà có **BÀ CÔ TỔ LINH THIÊNG**
-(người nữ mất sớm khi còn trẻ: trở thành Bà Cô Tổ phù trì).
+Đây cũng là tâm linh đặc biệt của Quả Tú tại Phúc Đức: nhà có bà cô tổ linh
+thiêng — tức người nữ mất sớm khi còn trẻ trở thành bà cô tổ phù trì cho hậu
+duệ.
 
-**Sát tinh hội:**
-- Gia tộc **PHÂN TÁN**, mồ mả không tụ
-- Con cháu **THA HƯƠNG**`,
+Khi sát tinh hội về, gia tộc phân tán, mồ mả không tụ; con cháu phải tha
+hương.`,
   },
 
   {
@@ -177,9 +165,8 @@ chồng, kỵ cha.
     ketHop: ['Địa Không', 'Địa Kiếp', 'Tuần'],
     cung: ['Phúc Đức'],
     doUuTien: 73,
-    tomTat: `**Quả Tú + Địa Không + Địa Kiếp + Tuần tại Phúc Đức:**
-- Phúc mỏng, thọ yếu
-- Có nguy cơ **TUYỆT TỰ**`,
+    tomTat: `Khi Quả Tú hội cùng Địa Không, Địa Kiếp và Tuần tại Phúc Đức,
+phúc của đương số mỏng, thọ yếu và có nguy cơ tuyệt tự.`,
   },
 
   {
@@ -189,9 +176,8 @@ chồng, kỵ cha.
     ketHop: ['Địa Không', 'Địa Kiếp', 'Triệt'],
     cung: ['Phúc Đức'],
     doUuTien: 73,
-    tomTat: `**Quả Tú + Địa Không + Địa Kiếp + Triệt tại Phúc Đức:**
-- Phúc mỏng, thọ yếu
-- Có nguy cơ **TUYỆT TỰ**`,
+    tomTat: `Khi Quả Tú hội cùng Địa Không, Địa Kiếp và Triệt tại Phúc Đức,
+phúc của đương số mỏng, thọ yếu và có nguy cơ tuyệt tự.`,
   },
 
   {
@@ -202,9 +188,9 @@ chồng, kỵ cha.
     gioiTinh: 'Nữ',
     ketHop: ['Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Quả Tú tại Phúc Đức + sát tinh hội — nữ mệnh:**
-- Phụ nữ trong dòng họ dễ **ĐOẢN MỆNH**, mất sớm
-- Đường thọ yếu hơn nam giới trong gia tộc`,
+    tomTat: `Khi Quả Tú tại Phúc Đức gặp sát tinh hội về (Kình Dương, Đà La,
+Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp) trên lá số nữ mệnh, phụ nữ trong
+dòng họ dễ đoản mệnh, mất sớm — đường thọ yếu hơn nam giới trong gia tộc.`,
   },
 
   {
@@ -213,19 +199,16 @@ chồng, kỵ cha.
     sao: ['Quả Tú'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Quả Tú tại Điền Trạch** — liên quan **ĐẤT ĐAI, MỒ MẢ, NHÀ CỬA**.
+    tomTat: `Khi Quả Tú tại Điền Trạch, sao liên quan trực tiếp tới đất đai,
+mồ mả và nhà cửa của đương số.
 
-**Sát tinh hội:**
-- Điền sản **KHÓ BỀN**
-- Dễ xảy ra **TRANH CHẤP, HAO HỤT, PHÂN TÁN**
-- Trong nhà thường có **PHỤ NỮ ĐOẢN DUYÊN**
-- Sinh hoạt **KHÉP KÍN**, khó hòa thuận với làng xóm
+Khi sát tinh hội về, điền sản khó bền, dễ xảy ra tranh chấp, hao hụt và phân
+tán; trong nhà thường có phụ nữ đoản duyên. Sinh hoạt khép kín, đương số khó
+hòa thuận với làng xóm.
 
-**Cát tinh hội:**
-- Đất nhà **VỮNG CHẮC**
-- Đời sau có duyên gây dựng **BẤT ĐỘNG SẢN BỀN LÂU**
-- Gia đạo **ỔN ĐỊNH**
-- Giao tiếp ngoài xã hội không nhiều nhưng giữ **YÊN Ả, ÍT THỊ PHI**`,
+Khi cát tinh hội về, đất nhà vững chắc; đời sau có duyên gây dựng bất động
+sản bền lâu. Gia đạo ổn định; giao tiếp ngoài xã hội tuy không nhiều nhưng
+giữ được sự yên ả, ít thị phi.`,
   },
 
   {
@@ -234,26 +217,20 @@ chồng, kỵ cha.
     sao: ['Quả Tú'],
     cung: ['Quan Lộc'],
     doUuTien: 75,
-    tomTat: `**Quả Tú tại Quan Lộc** — phải **"ĐƠN THƯƠNG ĐỘC MÃ"** trên con đường sự
-nghiệp.
+    tomTat: `Khi Quả Tú tại Quan Lộc, đương số phải "đơn thương độc mã" trên
+con đường sự nghiệp — tự mình gánh vác công danh, ít được dựa dẫm vào người
+khác. Cách cục phù hợp với những nghề nghiên cứu, quản lý tài sản và hành
+chính.
 
-**Đặc trưng:**
-- Tự mình gánh vác công danh
-- Ít được **DỰA DẪM** người khác
-- Phù hợp với nghề **NGHIÊN CỨU, QUẢN LÝ TÀI SẢN, HÀNH CHÍNH**
+Khi cát tinh hội về, sự nghiệp bền vững, hợp với những công việc đòi hỏi tự
+chủ.
 
-**Cát tinh hội:**
-- Sự nghiệp **BỀN VỮNG**
-- Hợp những công việc đòi hỏi **TỰ CHỦ**
+Khi sát tinh hội về (Kình Dương, Đà La, Địa Không, Địa Kiếp, Hóa Kỵ), công
+danh thăng trầm; đương số dễ bị cô lập, thất bại trong hợp tác — tệ hơn còn
+vướng tranh chấp và kiện tụng.
 
-**Sát tinh hội (Kình Đà + Không Kiếp + Hóa Kỵ):**
-- Công danh **THĂNG TRẦM**
-- Dễ bị **CÔ LẬP**, thất bại trong hợp tác
-- Tệ hơn vướng **TRANH CHẤP, KIỆN TỤNG**
-
-**Đặc trưng môi trường:**
-- Quả Tú: ít nữ, **NHIỀU NAM**
-- (Cô Thần: ít nam, nhiều nữ)`,
+Một đặc trưng môi trường của Quả Tú: nơi đương số làm việc thường ít nữ và
+nhiều nam (ngược lại với Cô Thần là ít nam, nhiều nữ).`,
   },
 
   {
@@ -262,20 +239,17 @@ nghiệp.
     sao: ['Quả Tú'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Quả Tú tại Nô Bộc** — quan hệ xung quanh **KHÔNG NHIỀU** nhưng phần đa
-**ĐÁNG TIN CẬY**.
+    tomTat: `Khi Quả Tú tại Nô Bộc, quan hệ xung quanh đương số không nhiều
+nhưng phần đa đáng tin cậy.
 
-**Cát tinh hội:**
-- Cộng sự **TRUNG THÀNH**
-- Sẵn sàng "**KỀ VAI SÁT CÁNH**" lúc cần
+Khi cát tinh hội về, cộng sự của chủ mệnh trung thành, sẵn sàng "kề vai sát
+cánh" lúc cần.
 
-**Sát tinh hội (Hóa Kỵ + Không Kiếp):**
-- Tình bạn "**SỚM NỞ TỐI TÀN**"
-- Dễ bị **PHẢN BỘI**
-- Gặp **TAI BAY VẠ GIÓ** vì bị bạn bè ảnh hưởng
-- Cấp dưới thiếu gắn bó
+Khi sát tinh hội về (Hóa Kỵ, Địa Không, Địa Kiếp), tình bạn rơi vào cảnh
+"sớm nở tối tàn"; đương số dễ bị phản bội, gặp tai bay vạ gió vì bị bạn bè
+ảnh hưởng — cấp dưới cũng thiếu gắn bó.
 
-Bạn ít nữ, nhiều nam (đặc trưng Quả Tú).`,
+Đặc trưng giới tính của Quả Tú: bạn bè ít nữ, nhiều nam.`,
   },
 
   {
@@ -284,23 +258,19 @@ Bạn ít nữ, nhiều nam (đặc trưng Quả Tú).`,
     sao: ['Quả Tú'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Quả Tú tại Thiên Di** — ra ngoài thận trọng, ít kết bạn mới.
+    tomTat: `Khi Quả Tú tại Thiên Di, đương số ra ngoài thận trọng, ít kết bạn
+mới.
 
-**Sát tinh hội:**
-- Ra ngoài dễ gặp **THỊ PHI, TRANH CHẤP**
-- Bị **HIỂU LẦM, CẢN TRỞ**
-- Quan hệ xã giao **MONG MANH, NHANH TÀN**
-- Có thể "**RƯỚC HỌA VÀO THÂN**"
+Khi sát tinh hội về, ra ngoài chủ mệnh dễ gặp thị phi và tranh chấp, bị hiểu
+lầm và cản trở; quan hệ xã giao mong manh, nhanh tàn — có thể "rước họa vào
+thân".
 
-**Cát tinh hội:**
-- Tuy ít nói, giữ khoảng cách
-- Gây ấn tượng bằng **TÀI NĂNG VÀ UY TÍN**
-- Mạng lưới ngoại giao ít nhưng **CHẤT LƯỢNG**
-- Được nhiều nam giới **NỂ TRỌNG, GIÚP ĐỠ**
+Khi cát tinh hội về, dù ít nói và giữ khoảng cách, đương số gây ấn tượng nhờ
+tài năng và uy tín. Mạng lưới ngoại giao tuy ít nhưng chất lượng — chủ mệnh
+được nhiều nam giới nể trọng và giúp đỡ.
 
-**Đặc trưng giới tính:**
-- Quả Tú: tiếp xúc nhiều với **ĐÀN ÔNG**
-- Mạng lưới quan hệ thừa **NAM THIẾU NỮ**`,
+Đặc trưng giới tính của Quả Tú tại Thiên Di: đương số tiếp xúc nhiều với đàn
+ông, mạng lưới quan hệ thừa nam thiếu nữ.`,
   },
 
   {
@@ -309,21 +279,20 @@ Bạn ít nữ, nhiều nam (đặc trưng Quả Tú).`,
     sao: ['Quả Tú'],
     cung: ['Tật Ách'],
     doUuTien: 76,
-    tomTat: `**Quả Tú tại Tật Ách** — ốm đau **KHÔNG AI HAY**, hoạn nạn không ai biết.
+    tomTat: `Khi Quả Tú tại Tật Ách, đương số ốm đau không ai hay, hoạn nạn
+không ai biết.
 
-**Đặc trưng bệnh:**
-- Bệnh **ĐƯỜNG TIÊU HÓA, HẬU MÔN, TRĨ**
-- Bệnh **MÃN TÍNH HAY TÁI LẠI**
-- Tai họa thường đến **ÂM THẦM**, nhất là khi ở một mình
+Đặc trưng bệnh thường gặp:
 
-**Cảnh báo:** Để lại hậu quả nghiêm trọng khi không được phát hiện và
-xử lý kịp thời.
+- Bệnh đường tiêu hóa, hậu môn, trĩ
+- Bệnh mãn tính hay tái lại
+- Tai họa thường đến âm thầm, nhất là khi đương số ở một mình
 
-**Cát tinh hội:**
-- Sức khỏe tuy không dồi dào
-- Biết giữ thói quen sống **ĐIỀU ĐỘ**
-- Bệnh tật **PHÒNG NGỪA** được
-- Tai nạn cũng **GIẢM NHẸ**`,
+Cảnh báo cần lưu ý: cách cục để lại hậu quả nghiêm trọng nếu không được phát
+hiện và xử lý kịp thời.
+
+Khi cát tinh hội về, sức khỏe đương số tuy không dồi dào nhưng nhờ biết giữ
+thói quen sống điều độ nên bệnh tật phòng ngừa được, tai nạn cũng giảm nhẹ.`,
   },
 
   {
@@ -332,18 +301,15 @@ xử lý kịp thời.
     sao: ['Quả Tú'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Quả Tú tại Tài Bạch** — tài chính kém ổn định, khó tích lũy.
+    tomTat: `Khi Quả Tú tại Tài Bạch, tài chính của đương số kém ổn định và
+khó tích lũy.
 
-**Sát tinh vây hãm:**
-- Việc **KINH DOANH BUÔN BÁN** trắc trở
-- Hay hao hụt
-- "**TIỀN VÀO CỬA TRƯỚC, RA CỬA SAU**"
+Khi sát tinh vây hãm, việc kinh doanh buôn bán trắc trở, hay hao hụt — đúng
+kiểu "tiền vào cửa trước, ra cửa sau".
 
-**Cát tinh hội (Vũ Khúc, Lộc Tồn, Đẩu Quân):**
-- Khả năng **QUẢN LÝ TÀI CHÍNH** tốt
-- Tuy không phát tài bất ngờ
-- Thu nhập **ỔN ĐỊNH**
-- "**GÓP GIÓ THÀNH BÃO**" mà nên cơ nghiệp`,
+Khi cát tinh hội về (Vũ Khúc, Lộc Tồn, Đẩu Quân), khả năng quản lý tài chính
+của đương số tốt; tuy không phát tài bất ngờ, thu nhập vẫn ổn định và chủ
+mệnh "góp gió thành bão" mà nên cơ nghiệp.`,
   },
 
   {
@@ -352,22 +318,17 @@ xử lý kịp thời.
     sao: ['Quả Tú'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Quả Tú tại Tử Tức** — đường con cái **KHÔNG NHƯ Ý**, khó thấy cảnh
-"con đàn cháu đống".
+    tomTat: `Khi Quả Tú tại Tử Tức, đường con cái không như ý — đương số khó
+thấy được cảnh "con đàn cháu đống".
 
-**Sát tinh đồng cung:**
-- Sinh nở dễ **HIẾM MUỘN**
-- Con khó nuôi
-- Cha mẹ con cái **XA MẶT CÁCH LÒNG**
-- Ít có sự sẻ chia
+Khi sát tinh đồng cung, sinh nở dễ rơi vào hiếm muộn, con khó nuôi; cha mẹ
+con cái xa mặt cách lòng, ít có sự sẻ chia.
 
-**Cát tinh nâng đỡ:**
-- Dù **ÍT CON** nhưng sinh được con **HIẾU THUẬN, THÔNG MINH**
-- Có **CHÍ LẬP THÂN** và dễ thành đạt
+Khi cát tinh nâng đỡ, dù ít con nhưng đương số sinh được con hiếu thuận,
+thông minh, có chí lập thân và dễ thành đạt.
 
-**Chênh lệch giới tính:**
-- Quả Tú: **ÍT CON GÁI**
-- (Cô Thần: ít con trai)`,
+Chênh lệch giới tính của Quả Tú: ít con gái (ngược với Cô Thần là ít con
+trai).`,
   },
 
   {
@@ -376,18 +337,16 @@ xử lý kịp thời.
     sao: ['Quả Tú'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Quả Tú tại Phu Thê** — ảnh hưởng đến hôn nhân.
+    tomTat: `Khi Quả Tú tại Phu Thê, sao tác động trực tiếp tới đời sống hôn
+nhân của đương số.
 
-**Cát tinh hội (Tứ Đức + Lục Cát Tinh):**
-- Hôn nhân **YÊN ỔN**
-- Vợ chồng "**DĨ HÒA VI QUÝ**", tôn trọng khoảng trời riêng
-- Không quá ngọt ngào nhưng đời sống gia đình **YÊN ẤM**
-- Con cái được chăm sóc chu toàn
+Khi cát tinh hội về (bộ Tứ Đức cùng Lục Cát Tinh), hôn nhân yên ổn; vợ chồng
+"dĩ hòa vi quý", biết tôn trọng khoảng trời riêng của nhau. Đời sống gia
+đình tuy không quá ngọt ngào nhưng yên ấm; con cái được chăm sóc chu toàn.
 
-**Đồng cung Tuần + Triệt + Không Kiếp + Hồng Loan:**
-- Tình cảm "**CƠM CHẲNG LÀNH, CANH CHẲNG NGỌT**"
-- Vợ chồng hay **BẤT ĐỒNG, XA CÁCH**
-- Hôn nhân mang màu **CÔ ĐỘC**, không có sự thấu hiểu`,
+Khi đồng cung Tuần, Triệt, Địa Không, Địa Kiếp hay Hồng Loan, tình cảm rơi
+vào cảnh "cơm chẳng lành, canh chẳng ngọt"; vợ chồng hay bất đồng và xa
+cách. Hôn nhân mang màu cô độc, không có sự thấu hiểu.`,
   },
 
   {
@@ -397,13 +356,12 @@ xử lý kịp thời.
     cung: ['Phu Thê'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `**"Nữ kỵ Quả":** Quả Tú tại Phu Thê đặc biệt phát tác mạnh với nữ mệnh
-— kỵ chồng, kỵ cha.
+    tomTat: `Theo câu "nữ kỵ Quả", Quả Tú tại Phu Thê đặc biệt phát tác mạnh
+với nữ mệnh — kỵ chồng, kỵ cha.
 
-**Đặc trưng:**
-- Hôn nhân muộn hoặc gặp trục trặc
-- Người chồng dễ gặp tai ương, đau ốm hoặc xa cách
-- Sống trong cô độc nội tâm dù đã thành gia thất`,
+Đương số hôn nhân muộn hoặc gặp trục trặc; người chồng dễ gặp tai ương, đau
+ốm hay xa cách. Dù đã thành gia thất, chủ mệnh vẫn sống trong nỗi cô độc nội
+tâm.`,
   },
 
   {
@@ -412,20 +370,16 @@ xử lý kịp thời.
     sao: ['Quả Tú'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Quả Tú tại Huynh Đệ** — giảm sự **GẮN KẾT TRONG TÌNH THÂN**.
+    tomTat: `Khi Quả Tú tại Huynh Đệ, sự gắn kết trong tình thân của đương số
+giảm sút.
 
-**Hội Cô Thần + Tuần Triệt + Không Kiếp:**
-- Cách cục **LY TÁN** rõ rệt
-- Anh chị em **"BẰNG MẶT KHÔNG BẰNG LÒNG"**
-- **MẠNH AI NẤY SỐNG**
+Khi hội cùng Cô Thần, Tuần, Triệt, Địa Không hay Địa Kiếp, cách cục ly tán
+hiện rõ rệt — anh chị em "bằng mặt không bằng lòng", mạnh ai nấy sống.
 
-**Cát tinh hội:**
-- Anh chị em ít nhưng **"NGHĨA NẶNG TÌNH THÂM"**
-- Dù mỗi người một nơi vẫn biết **ĐÙM BỌC, GIÚP ĐỠ NHAU**
-- Cả tinh thần lẫn vật chất
+Khi cát tinh hội về, anh chị em ít nhưng "nghĩa nặng tình thâm"; dù mỗi
+người một nơi vẫn biết đùm bọc, giúp đỡ nhau cả về tinh thần lẫn vật chất.
 
-**Chênh lệch giới tính:**
-- Quả Tú: **ÍT CHỊ EM GÁI**
-- Mình là gái thì dễ có **ANH EM TRAI**`,
+Chênh lệch giới tính của Quả Tú: đương số ít chị em gái; nếu mình là gái thì
+dễ có anh em trai.`,
   },
 ];

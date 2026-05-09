@@ -19,29 +19,28 @@ export const luanGiai_ThienTai: DoanLuanGiai[] = [
     title: 'Thiên Tài - Đặc tính chung',
     sao: ['Thiên Tài'],
     doUuTien: 32,
-    tomTat: `**Thiên Tài** — phụ tinh **PHÙ TINH** kiêm **ÁM TINH**, an theo
-**năm sinh**.
+    tomTat: `**Thiên Tài** vừa là phù tinh vừa kiêm ám tinh, ngũ hành Thổ, an
+theo năm sinh.
 
-**Ngũ hành:** **Thổ**.
+Đặc tính nổi bật của sao là trí tuệ sắc bén, thông minh xuất chúng và ứng
+biến linh hoạt. Đương số có Thiên Tài thường nhìn xa trông rộng, biết nắm bắt
+cơ hội để vươn lên dẫn đầu, đồng thời thích khám phá kiến thức mới và rất ham
+hiểu biết. Mặt tối của sao là tính kiêu ngạo, tự cao — dễ coi thường người
+khác và biến thành ám tinh khi đi sai đường.
 
-**Đặc tính:**
-- **Trí tuệ sắc bén, thông minh xuất chúng**, ứng biến linh hoạt
-- **Nhìn xa trông rộng**, biết nắm bắt cơ hội vươn lên dẫn đầu
-- Thích **KHÁM PHÁ** kiến thức mới, học hành ham hiểu biết
-- Mặt tối: **KIÊU NGẠO, TỰ CAO**, dễ coi thường người khác: biến thành
-  **ÁM TINH** khi đi sai đường
+Về vai trò trên lá số, Thiên Tài đóng vai trò "hạt mầm" gieo nhân trong cặp
+nhân quả với Thiên Thọ — sao đóng vai trò "trái quả". Vị trí Thiên Tài tọa
+chính là nơi đương số cần vun bồi, đầu tư công sức và làm phúc. Tài đi với
+đức: nếu biết tu dưỡng đạo đức thì thành nhân tài, ngược lại sẽ sa vào tự mãn
+và gây mất thiện cảm.
 
-**Vai trò:**
-- Là **HẠT MẦM** (gieo NHÂN) trong cặp Nhân-Quả với **Thiên Thọ** (trái quả)
-- Vị trí Thiên Tài đóng = nơi cần **VUN BỒI, ĐẦU TƯ CÔNG SỨC, LÀM PHÚC**
-- **Tài đi với Đức** — nếu tu dưỡng đạo đức thì thành nhân tài, ngược lại
-  sa vào tự mãn gây mất thiện cảm
+Khái quát hai chiều cát hung:
 
-**Khái quát:**
-- **Cát tinh hội (Tứ Đức, Quang Quý, Hóa Khoa):** tài đức vẹn toàn, được
-  trọng vọng, sự nghiệp vững vàng
-- **Sát tinh hội (Sát Hình Kỵ, Hỏa Linh):** kiêu ngạo gây thị phi, tài năng
-  bị bài xích, dễ rơi vào "con dao hai lưỡi" tự hại bản thân`,
+- Khi hội cát tinh như bộ Tứ Đức, Quang Quý hay Hóa Khoa, đương số tài đức
+  vẹn toàn, được trọng vọng, sự nghiệp vững vàng.
+- Khi hội sát tinh như Sát Hình Kỵ, Hỏa Tinh, Linh Tinh, đương số kiêu ngạo
+  gây thị phi, tài năng bị bài xích, dễ rơi vào cảnh "con dao hai lưỡi" tự
+  hại bản thân.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -54,23 +53,23 @@ export const luanGiai_ThienTai: DoanLuanGiai[] = [
     sao: ['Thiên Tài'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Thiên Tài thủ Mệnh** — đầu óc **LINH HOẠT, TRÍ TUỆ SẮC BÉN**, khả năng
-**XOAY CHUYỂN TÌNH THẾ** nhanh nhạy hơn người.
+    tomTat: `Khi Thiên Tài thủ Mệnh, đương số có đầu óc linh hoạt, trí tuệ sắc
+bén, khả năng xoay chuyển tình thế nhanh nhạy hơn người. Đây là sao "con dao
+hai lưỡi" với hai mặt rõ rệt:
 
-**Hai mặt - "con dao hai lưỡi":**
-- **Tích cực:** dễ gặt hái thành tựu nhờ năng lực hơn người, biết tự soi
-  chiếu bản thân, dễ nhận ra khuyết điểm để **SỬA ĐỔI**
-- **Tiêu cực:** tài năng đặt sai chỗ: biến thành **KIÊU NGẠO, TỰ CAO,
-  XEM THƯỜNG NGƯỜI KHÁC**, hoặc dùng tài làm việc trái đạo lý
+- Mặt tích cực: đương số dễ gặt hái thành tựu nhờ năng lực hơn người, biết
+  tự soi chiếu bản thân, dễ nhận ra khuyết điểm để sửa đổi.
+- Mặt tiêu cực: nếu đặt tài năng sai chỗ, đương số biến thành kiêu ngạo, tự
+  cao, xem thường người khác hoặc dùng tài làm việc trái đạo lý.
 
-**Đặc trưng quý:** Mệnh Thiên Tài biết **TỰ SOI CHIẾU**, dễ nhận khuyết
-điểm để sửa: giảm sai lầm trên đường đời.
+Đặc trưng quý nhất của Mệnh Thiên Tài là khả năng tự soi chiếu, dễ nhận ra
+khuyết điểm để sửa, nhờ vậy giảm bớt sai lầm trên đường đời.
 
-**Tài song hành Đức:** Thiên Tài gặp **bộ Tứ Đức** (Long-Phúc-Thiên-Nguyệt
-Đức): **TÀI ĐỨC VẸN TOÀN**, được lòng thiên hạ, hưởng phúc bền lâu.
+Khi Thiên Tài gặp bộ Tứ Đức (Long Đức, Phúc Đức, Thiên Đức, Nguyệt Đức),
+đương số có tài đức vẹn toàn, được lòng thiên hạ và hưởng phúc bền lâu.
 
-**Đặc biệt:** Khi **Thiên Tài thủ Mệnh thì Thiên Thọ thủ cung an thân**
-— gieo duyên nào gặt quả đó, làm điều thiện về cuối đời nhận lại may mắn.`,
+Một điểm đặc biệt: khi Thiên Tài thủ Mệnh thì Thiên Thọ thủ cung an Thân —
+gieo duyên nào gặt quả ấy, làm điều thiện sẽ nhận lại may mắn về cuối đời.`,
   },
 
   {
@@ -79,19 +78,20 @@ export const luanGiai_ThienTai: DoanLuanGiai[] = [
     sao: ['Thiên Tài'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Thiên Tài thủ Phụ Mẫu** — cha mẹ **TRÍ TUỆ, NHANH NHẠY, GIỎI GIANG**.
+    tomTat: `Khi Thiên Tài thủ Phụ Mẫu, cha mẹ của đương số là người trí tuệ,
+nhanh nhạy và giỏi giang.
 
-**Cát tinh hội (Tả Hữu, Khôi Việt, Xương Khúc, đặc biệt Lộc-Quyền-Khoa):**
-- Cha mẹ không chỉ có tài mà còn có **THẾ**, đủ sức nâng đỡ con cái
-- Cách **Thiên Tài + Hóa Khoa**: cha mẹ là tấm gương cho con cái noi theo
-  trên hành trình lập nghiệp
+Khi hội cát tinh như Tả Phù, Hữu Bật, Thiên Khôi, Thiên Việt, Văn Xương, Văn
+Khúc, đặc biệt là Hóa Lộc, Hóa Quyền, Hóa Khoa, cha mẹ không chỉ có tài mà
+còn có thế, đủ sức nâng đỡ con cái. Cách Thiên Tài đi cùng Hóa Khoa khiến cha
+mẹ trở thành tấm gương cho con cái noi theo trên hành trình lập nghiệp.
 
-**Sát tinh hội (Kình Dương, Hỏa Tinh):**
-- Cha mẹ có tài năng nổi bật nhưng **TỰ CAO TỰ ĐẠI, KHINH THƯỜNG** người khác
-- **GIA ĐẠO KHÓ HÒA HỢP**, cha mẹ con cái phần xa cách
+Khi hội sát tinh như Kình Dương, Hỏa Tinh, cha mẹ có tài năng nổi bật nhưng
+tự cao tự đại, hay khinh thường người khác; gia đạo khó hòa hợp, cha mẹ con
+cái phần xa cách.
 
-**Đạo hiếu:** Bản mệnh càng cần **CHĂM SÓC CHA MẸ** giữ trọn đạo hiếu —
-cũng là gieo phúc để con cháu đời sau đối đãi lại với mình.`,
+Về đạo hiếu, đương số càng cần chăm sóc cha mẹ chu đáo để giữ trọn đạo hiếu —
+cũng là cách gieo phúc để con cháu đời sau đối đãi lại với mình.`,
   },
 
   {
@@ -100,19 +100,17 @@ cũng là gieo phúc để con cháu đời sau đối đãi lại với mình.`
     sao: ['Thiên Tài'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Thiên Tài thủ Phu Thê** — bạn đời **THÔNG MINH, TÀI GIỎI** nhưng dễ
-**NGẠO MẠN, COI THƯỜNG** người khác.
+    tomTat: `Khi Thiên Tài thủ Phu Thê, bạn đời của đương số thông minh, tài
+giỏi nhưng dễ ngạo mạn và coi thường người khác.
 
-**Cảnh báo:**
-- Đi cùng **Cự Môn**: lời nói nhiều lần mang ý **KHINH THƯỜNG**, khiến tình
-  cảm có khoảng cách
-- Quan hệ vợ chồng dễ phát sinh **MÂU THUẪN**, khó duy trì hòa hợp lâu dài
+Khi đi cùng Cự Môn, lời nói của bạn đời nhiều lần mang ý khinh thường, khiến
+tình cảm có khoảng cách. Quan hệ vợ chồng dễ phát sinh mâu thuẫn, khó duy trì
+hòa hợp lâu dài.
 
-**Cách giữ hôn nhân yên ấm:**
-- Cố gắng **NÂNG CAO NĂNG LỰC** bản thân để xứng đôi vừa lứa
-- Tránh cảnh **"đũa lệch"** cả về tài năng lẫn vị thế với bạn đời
-- Toàn tâm với người hôn phối: gia đình yên ấm, kết quả quý báu sẽ đến tại
-  cung Thiên Thọ`,
+Để giữ hôn nhân yên ấm, đương số cần cố gắng nâng cao năng lực bản thân để
+xứng đôi vừa lứa, tránh cảnh "đũa lệch" cả về tài năng lẫn vị thế với bạn
+đời. Khi toàn tâm với người hôn phối, gia đình sẽ yên ấm và kết quả quý báu
+sẽ đến tại cung Thiên Thọ.`,
   },
 
   {
@@ -121,22 +119,19 @@ cũng là gieo phúc để con cháu đời sau đối đãi lại với mình.`
     sao: ['Thiên Tài'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `**Thiên Tài thủ Phúc Đức** — dòng họ **NHIỀU NGƯỜI THÔNG MINH, TÀI HOA**,
-dễ xuất hiện **NHÂN VẬT KIỆT XUẤT**.
+    tomTat: `Khi Thiên Tài thủ Phúc Đức, dòng họ của đương số nhiều người thông
+minh, tài hoa, dễ xuất hiện nhân vật kiệt xuất.
 
-**Trách nhiệm đặc biệt - GIN GIỮ MỒ MẢ:**
-- Bản mệnh phải **CHĂM SÓC HỌ HÀNG, DÒNG TỘC**, đặc biệt là **MỒ MẢ, BÀN
-  THỜ GIA TIÊN**
-- Có vậy mới hưởng trọn **"LỘC ẤM"** lâu dài
+Đương số gánh một trách nhiệm đặc biệt: phải chăm sóc họ hàng dòng tộc, đặc
+biệt là mồ mả và bàn thờ gia tiên. Có vậy mới hưởng trọn "lộc ấm" lâu dài từ
+tổ tiên truyền lại.
 
-**Tâm thái:**
-- Người tài kèm cái tôi lớn: dễ coi nhẹ người khác
-- Nếu khéo léo, **KHIÊM NHƯỜNG** thì học hỏi được nhiều, có khó khăn được
-  họ hàng hỗ trợ
+Về tâm thái, đương số là người tài đi kèm cái tôi lớn nên dễ coi nhẹ người
+khác. Nếu khéo léo và biết khiêm nhường, đương số sẽ học hỏi được nhiều, khi
+gặp khó khăn cũng được họ hàng hỗ trợ.
 
-**Sát tinh hội (Thất Sát, Hóa Kỵ, Thiên Hình):**
-- Người giỏi trong họ **KHÔNG NHIỆT TÌNH** nâng đỡ
-- Có thái độ **LẠNH NHẠT** hoặc **COI THƯỜNG**`,
+Khi hội sát tinh như Thất Sát, Hóa Kỵ hay Thiên Hình, người giỏi trong họ
+không nhiệt tình nâng đỡ, có thái độ lạnh nhạt hoặc coi thường đương số.`,
   },
 
   {
@@ -145,21 +140,19 @@ dễ xuất hiện **NHÂN VẬT KIỆT XUẤT**.
     sao: ['Thiên Tài'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Thiên Tài thủ Điền Trạch** — bản mệnh có duyên **CHĂM LO CHUYỆN NHÀ CỬA,
-BẾP NÚC, HẠNH PHÚC GIA ĐÌNH**. Gia trạch sinh khí tốt, dễ **SẢN SINH NHÂN
-TÀI**, con cháu học hành sáng dạ.
+    tomTat: `Khi Thiên Tài thủ Điền Trạch, đương số có duyên chăm lo chuyện
+nhà cửa, bếp núc và hạnh phúc gia đình. Gia trạch sinh khí tốt, dễ sản sinh
+nhân tài, con cháu học hành sáng dạ.
 
-**Cát tinh hội:**
-- Hội **bộ Tứ Đức**: nhà ở toát lên **NỀ NẾP, TÔN NGHIÊM**
-- Hội **Khôi Việt, Tả Hữu, Xương Khúc, Lộc Tồn, Quang Quý, Thiên Giải**
-  nơi ở **"ĐẤT LÀNH CHIM ĐẬU"**, hưng vượng lâu dài
+Khi hội bộ Tứ Đức, nhà ở toát lên nề nếp và sự tôn nghiêm. Khi hội Thiên Khôi,
+Thiên Việt, Tả Phù, Hữu Bật, Văn Xương, Văn Khúc, Lộc Tồn, Quang Quý, Thiên
+Giải, nơi ở thành "đất lành chim đậu", hưng vượng lâu dài.
 
-**Phá cách (Hỏa Linh, Không Kiếp, Tang Hổ, Phá Hư tại Điền + Phúc):**
-- Đời sống tinh thần **BẤT ỔN**
-- Tâm dễ sinh **TỰ CAO, LẠNH NHẠT**, ít hòa đồng với xóm giềng
+Khi gặp phá cách như Hỏa Tinh, Linh Tinh, Địa Không, Địa Kiếp, Tang Môn, Bạch
+Hổ, Phá Toái, Thiên Hư tại Điền và Phúc, đời sống tinh thần bất ổn; tâm dễ
+sinh tự cao, lạnh nhạt và ít hòa đồng với xóm giềng.
 
-**Lưu ý:** Bản thân sinh sống ở nhà hơi tự cao nên **ÍT TIẾP XÚC** với
-hàng xóm.`,
+Đương số sống ở nhà có phần tự cao nên ít tiếp xúc với hàng xóm láng giềng.`,
   },
 
   {
@@ -168,23 +161,21 @@ hàng xóm.`,
     sao: ['Thiên Tài'],
     cung: ['Quan Lộc'],
     doUuTien: 76,
-    tomTat: `**Thiên Tài thủ Quan Lộc** — chí hướng sự nghiệp **RÕ RÀNG**, luôn muốn
-**KHẲNG ĐỊNH BẢN THÂN**.
+    tomTat: `Khi Thiên Tài thủ Quan Lộc, chí hướng sự nghiệp của đương số rất
+rõ ràng, luôn muốn khẳng định bản thân.
 
-**Mặt sáng:**
-- Trong chuyên môn **NỔI BẬT** nhờ nhanh nhạy, sáng tạo
-- Hay đưa ra **PHÁT KIẾN RIÊNG**
+Mặt sáng: đương số nổi bật trong chuyên môn nhờ nhanh nhạy và sáng tạo, hay
+đưa ra phát kiến riêng.
 
-**Mặt tối - cảnh báo:**
-- Tính tự cao dễ **NHẦM LẪN** trong quyết định
-- Bị **KẺ KHÁC ĐỐ KỴ**, ghen ghét
+Mặt tối: tính tự cao dễ khiến đương số nhầm lẫn trong quyết định và bị kẻ
+khác đố kỵ, ghen ghét.
 
-**Sát tinh hội (Cự Môn, Linh Tinh, Đà La, Phục Binh, Tang Môn, Hóa Kỵ):**
-- Nguy cơ **BỊ CHÈN ÉP, CƯỚP CÔNG** nơi công sở khó tránh
+Khi hội sát tinh như Cự Môn, Linh Tinh, Đà La, Phục Binh, Tang Môn, Hóa Kỵ,
+nguy cơ bị chèn ép, cướp công nơi công sở khó tránh.
 
-**Cát tinh hội (Văn Xương, Văn Khúc, Thai Phụ, Phong Cáo):**
-- Tài năng đặt đúng chỗ như **"CÁ GẶP NƯỚC"**
-- Dễ trở thành **DANH SĨ** trong học thuật, khoa học, nghệ thuật`,
+Khi hội cát tinh như Văn Xương, Văn Khúc, Thai Phụ, Phong Cáo, tài năng đặt
+đúng chỗ như "cá gặp nước"; đương số dễ trở thành danh sĩ trong học thuật,
+khoa học, nghệ thuật.`,
   },
 
   {
@@ -193,22 +184,19 @@ hàng xóm.`,
     sao: ['Thiên Tài'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Thiên Tài thủ Nô Bộc** — đương số hay phải **QUAN TÂM, HỖ TRỢ** bạn bè,
-đồng nghiệp, cấp dưới.
+    tomTat: `Khi Thiên Tài thủ Nô Bộc, đương số hay phải quan tâm và hỗ trợ bạn
+bè, đồng nghiệp, cấp dưới. Vòng quan hệ quy tụ nhiều người thông minh, có
+tài, song thường kiêu ngạo và khó gần.
 
-**Vòng quan hệ:** Quy tụ nhiều người **THÔNG MINH, CÓ TÀI** nhưng thường
-**KIÊU NGẠO, KHÓ GẦN**.
+Khi hội cát tinh, đặc biệt là các văn tinh và Hóa Khoa, đương số dễ kết giao
+với những người tri thức danh vọng khiến mình nể phục. Nếu giữ tâm cầu thị,
+đương số sẽ mở ra nhiều cơ hội phát triển nhờ các mối liên hệ này.
 
-**Cát tinh hội (Văn tinh, đặc biệt Hóa Khoa):**
-- Dễ kết giao với người **TRI THỨC, DANH VỌNG** khiến bản thân nể phục
-- Giữ tâm cầu thị: mở ra cơ hội phát triển nhờ các mối liên hệ
+Khi hội sát tinh như Sát, Hình, Kỵ, bạn bè dù giỏi giang nhưng xem nhẹ đương
+số, tỏ thái độ "không cùng đẳng cấp".
 
-**Sát tinh hội (Sát, Hình, Kỵ):**
-- Bạn bè giỏi giang nhưng **XEM NHẸ** mình
-- Tỏ thái độ **"KHÔNG CÙNG ĐẲNG CẤP"**
-
-**Quy luật Nhân-Quả:** Gieo phúc cho bạn bè, cấp dưới ở đây: vị trí
-**Thiên Thọ** sẽ là nơi gặt quả ngọt.`,
+Theo quy luật nhân quả, gieo phúc cho bạn bè và cấp dưới ở vị trí này thì
+cung Thiên Thọ sẽ là nơi gặt quả ngọt.`,
   },
 
   {
@@ -217,19 +205,16 @@ hàng xóm.`,
     sao: ['Thiên Tài'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Thiên Tài thủ Thiên Di** — nhiều **DUYÊN NỢ** với môi trường bên ngoài,
-ra xã hội dễ **GÂY CHÚ Ý** vì tài năng.
+    tomTat: `Khi Thiên Tài thủ Thiên Di, đương số có nhiều duyên nợ với môi
+trường bên ngoài; ra xã hội dễ gây chú ý vì tài năng. Tuy nhiên, chính cái
+tôi cao đôi khi khiến đương số bị người khác ghen ghét, đố kỵ, chèn ép.
 
-**Cảnh báo:** Vướng cái tôi cao: đôi khi bị người khác **GHEN GHÉT,
-ĐỐ KỴ, CHÈN ÉP**.
+Khi hội nhiều văn tinh, đặc biệt Thiên Cơ đi cùng Hóa Lộc, Hóa Khoa, Hóa
+Quyền, đương số đắc cách xuất ngoại — rất hợp với việc đi xa, du học, nâng
+cao chuyên môn và xây dựng sự nghiệp nơi đất khách.
 
-**Cát tinh hội - đắc cách XUẤT NGOẠI:**
-- Hội nhiều **văn tinh**, đặc biệt **Thiên Cơ + Hóa Lộc-Khoa-Quyền**
-- Rất hợp **ĐI XA, DU HỌC**, nâng cao chuyên môn
-- **XÂY DỰNG SỰ NGHIỆP NƠI ĐẤT KHÁCH** thuận lợi
-
-**Trách nhiệm:** Hay phải **QUAN TÂM, GIÚP ĐỠ XÂY DỰNG XÃ HỘI** bên ngoài
-tốt đẹp hơn — đây là cách gieo nhân.`,
+Trên cung này, đương số hay phải quan tâm, giúp đỡ và xây dựng xã hội bên
+ngoài tốt đẹp hơn — đây chính là cách gieo nhân.`,
   },
 
   {
@@ -238,21 +223,18 @@ tốt đẹp hơn — đây là cách gieo nhân.`,
     sao: ['Thiên Tài'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Thiên Tài thủ Tật Ách** — thân thể, tinh thần dễ **SUY NHƯỢC**, hay mắc
-bệnh **THẦN KINH, SINH LÝ (DƯƠNG LIỆT ÂM HƯ), KHÍ HUYẾT**.
+    tomTat: `Khi Thiên Tài thủ Tật Ách, thân thể và tinh thần đương số dễ suy
+nhược, hay mắc các bệnh thần kinh, sinh lý (dương liệt âm hư), khí huyết.
+Đương số buộc phải chú ý dưỡng sinh, giữ gìn sức khỏe để phòng tránh tai họa
+bất ngờ.
 
-**Yêu cầu:** Buộc phải chú ý **DƯỠNG SINH, GIỮ GÌN SỨC KHỎE** để phòng
-tránh tai họa bất ngờ.
+Cách hợp nhất tại cung này là theo nghề chữa bệnh: đương số bén duyên với
+nghề bác sỹ, thầy thuốc, thầy giáo. Dùng tài năng để giúp đời, cứu người, đương
+số sớm gặt hái quả ngọt tại cung Thiên Thọ — đây là cách hóa giải đẹp nhất
+của Thiên Tài tại Tật.
 
-**Hợp cách - NGHỀ CHỮA BỆNH:**
-- Bén duyên với **BÁC SỸ, THẦY THUỐC, THẦY GIÁO**
-- Dùng tài năng giúp đời, cứu người: sớm gặt hái **QUẢ NGỌT** tại cung
-  Thiên Thọ
-- Đây là cách **HÓA GIẢI ĐẸP NHẤT** của Thiên Tài tại Tật
-
-**Sát tinh hội (Kình Dương, Đà La):**
-- Tâm tính **NGẠO MẠN, NÓNG NẢY**
-- Hành xử **THIẾU CHÍN CHẮN** trong giao tiếp`,
+Khi hội sát tinh như Kình Dương, Đà La, đương số mang tâm tính ngạo mạn, nóng
+nảy, hành xử thiếu chín chắn trong giao tiếp.`,
   },
 
   {
@@ -261,23 +243,21 @@ tránh tai họa bất ngờ.
     sao: ['Thiên Tài'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Thiên Tài thủ Tài Bạch** — bản lĩnh, **TỰ TIN, GIỎI KIẾM TIỀN**, nghĩ ra
-nhiều cách kiếm tiền.
+    tomTat: `Khi Thiên Tài thủ Tài Bạch, đương số có bản lĩnh, tự tin, giỏi
+kiếm tiền và nghĩ ra nhiều cách kiếm tiền.
 
-**Mặt tối:**
-- Dễ sinh **KIÊU NGẠO, PHÔ TRƯƠNG QUÁ MỨC**
-- Khó giữ tiền nếu thiếu khiêm nhường
+Mặt tối là dễ sinh kiêu ngạo, phô trương quá mức; nếu thiếu khiêm nhường thì
+khó giữ tiền.
 
-**Cát tinh hội:**
-- Tự tin thúc đẩy suy nghĩ **DÁM NGHĨ DÁM LÀM**
-- Thu được thành quả lớn
+Khi hội cát tinh, sự tự tin thúc đẩy đương số dám nghĩ dám làm và thu được
+thành quả lớn.
 
-**Sát tinh hội (Kình Dương, Đà La, Hóa Quyền):**
-- Thích thể hiện: **CẠNH TRANH KHỐC LIỆT**
-- Bị **ĐỐI THỦ BÀI XÍCH**
+Khi hội sát tinh như Kình Dương, Đà La, Hóa Quyền, đương số thích thể hiện,
+lao vào cạnh tranh khốc liệt và dễ bị đối thủ bài xích.
 
-**Quy luật Nhân-Quả:** Càng làm nhiều **VIỆC THIỆN**, chi tiêu cho giá
-trị tích cực: càng gieo phúc đức, hưởng nhiều may mắn tại cung Thiên Thọ.`,
+Theo quy luật nhân quả, đương số càng làm nhiều việc thiện, chi tiêu cho
+những giá trị tích cực thì càng gieo phúc đức, hưởng thêm may mắn tại cung
+Thiên Thọ.`,
   },
 
   {
@@ -286,21 +266,19 @@ trị tích cực: càng gieo phúc đức, hưởng nhiều may mắn tại cun
     sao: ['Thiên Tài'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Thiên Tài thủ Tử Tức** — con cái **THÔNG MINH, NHANH NHẠY, XUẤT CHÚNG**.
+    tomTat: `Khi Thiên Tài thủ Tử Tức, con cái của đương số thông minh, nhanh
+nhạy, xuất chúng.
 
-**Cát tinh hội:**
-- Định hướng từ nhỏ: con cái đạt **CHUYÊN MÔN SÂU**
-- Trở thành **NGƯỜI TÀI** trong lĩnh vực mình theo đuổi
+Khi hội cát tinh, nếu được định hướng từ nhỏ, con cái sẽ đạt chuyên môn sâu
+và trở thành người tài trong lĩnh vực mình theo đuổi.
 
-**Sát tinh hội:**
-- Năng lực **THIẾU CÂN BẰNG**
-- Chỉ nổi trội ở **MỘT MÔN HỌC** hoặc một kỹ năng
-- Mặt khác lại yếu: **HỌC LỆCH**, thiếu hụt kiến thức về lâu dài
+Khi hội sát tinh, năng lực của con cái thiếu cân bằng, chỉ nổi trội ở một
+môn học hay một kỹ năng, mặt khác lại yếu — về lâu dài dễ rơi vào tình trạng
+học lệch, thiếu hụt kiến thức.
 
-**Lưu ý đặc biệt:**
-- Phải **GIÁO DỤC LỄ NGHĨA, ĐẠO ĐỨC** cho con
-- Chỉ khi **TÀI NĂNG + NHÂN CÁCH** song hành: thành công bền vững
-- Nếu chỉ chăm tài mà bỏ đức: con cái **KIÊU CĂNG TỰ PHỤ**`,
+Một lưu ý đặc biệt: đương số phải chú trọng giáo dục lễ nghĩa và đạo đức cho
+con. Chỉ khi tài năng và nhân cách song hành, thành công mới bền vững. Nếu
+chỉ chăm tài mà bỏ đức, con cái dễ trở nên kiêu căng tự phụ.`,
   },
 
   {
@@ -309,19 +287,19 @@ trị tích cực: càng gieo phúc đức, hưởng nhiều may mắn tại cun
     sao: ['Thiên Tài'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Thiên Tài thủ Huynh Đệ** — bản mệnh là người **CÓ TRÁCH NHIỆM**, hay
-đứng ra **LO TOAN, BAO BỌC** anh chị em.
+    tomTat: `Khi Thiên Tài thủ Huynh Đệ, đương số là người có trách nhiệm, hay
+đứng ra lo toan và bao bọc anh chị em.
 
-**Quy luật Nhân-Quả:** Sự giúp đỡ không phải lúc nào cũng được đáp lại
-trực tiếp, nhưng về lâu dài mang lại **PHÚC BÁO** và sự hậu thuẫn nhiều
-phương diện (gặt quả tại cung có Thiên Thọ).
+Theo quy luật nhân quả, sự giúp đỡ ấy không phải lúc nào cũng được đáp lại
+trực tiếp, nhưng về lâu dài sẽ mang lại phúc báo và sự hậu thuẫn nhiều phương
+diện — gặt quả tại cung có Thiên Thọ.
 
-**Đặc trưng:** Anh chị em **GIỎI GIANG**, nhưng tài năng cần được **RÈN
-LUYỆN, BỒI ĐẮP** mới phát triển vững vàng.
+Anh chị em trong nhà giỏi giang, song tài năng cần được rèn luyện và bồi đắp
+mới phát triển vững vàng.
 
-**Cát tinh hội (Thiên Khôi, Thiên Việt, Quang Quý, Tả Hữu):**
-- Anh chị em không chỉ **TỰ KHẲNG ĐỊNH NĂNG LỰC**
-- Còn trở thành **CHỖ DỰA TỐT** cho bản mệnh`,
+Khi hội cát tinh như Thiên Khôi, Thiên Việt, Quang Quý, Tả Phù, Hữu Bật, anh
+chị em không chỉ tự khẳng định được năng lực mà còn trở thành chỗ dựa tốt
+cho đương số.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -334,20 +312,18 @@ LUYỆN, BỒI ĐẮP** mới phát triển vững vàng.
     sao: ['Thiên Tài'],
     ketHop: ['Thiên Cơ'],
     doUuTien: 55,
-    tomTat: `**Thiên Tài + Thiên Cơ đồng cung** — câu phú: **"Thiên Cơ Thiên Tài THÔNG
-MINH TÀI TRÍ TĂNG GẤP BỘI, ĐA HỌC ĐA NĂNG"**.
+    tomTat: `Khi Thiên Tài đồng cung Thiên Cơ, sách phú có câu "Thiên Cơ Thiên
+Tài thông minh tài trí tăng gấp bội, đa học đa năng".
 
-**Đặc trưng:**
-- Trí tuệ Thiên Cơ vốn cao + thêm Thiên Tài: **SẮC BÉN GẤP BỘI**
-- Thiên Tài có khả năng **CẢI THIỆN** khuyết điểm của Thiên Cơ:
-  - Bù đắp tính **LO XA QUÁ MỨC** của Cơ
-  - Bù đắp khả năng **TÍNH TOÁN** mà Cơ thiếu cương quyết
+Trí tuệ Thiên Cơ vốn cao, nay thêm Thiên Tài thì sắc bén gấp bội. Thiên Tài
+còn có khả năng cải thiện những khuyết điểm của Thiên Cơ:
 
-**Cách dụng:** Đa năng đa tài, học gì cũng giỏi, đặc biệt hợp:
-- Nghiên cứu khoa học
-- Lập trình, tin học
-- Phân tích chiến lược
-- Cố vấn, tham mưu`,
+- Bù đắp tính lo xa quá mức của Thiên Cơ.
+- Bù đắp khả năng tính toán mà Thiên Cơ vốn thiếu cương quyết.
+
+Cách dụng tốt nhất là phát huy đa năng đa tài, học gì cũng giỏi, đặc biệt hợp
+với nghiên cứu khoa học, lập trình tin học, phân tích chiến lược, cố vấn
+tham mưu.`,
   },
 
   {
@@ -356,20 +332,17 @@ MINH TÀI TRÍ TĂNG GẤP BỘI, ĐA HỌC ĐA NĂNG"**.
     sao: ['Thiên Tài'],
     ketHop: ['Long Đức', 'Phúc Đức', 'Thiên Đức', 'Nguyệt Đức'],
     doUuTien: 55,
-    tomTat: `**Thiên Tài hội bộ Tứ Đức** (Long Đức + Phúc Đức + Thiên Đức + Nguyệt Đức)
-— cách **TÀI ĐỨC VẸN TOÀN**.
+    tomTat: `Khi Thiên Tài hội đủ bộ Tứ Đức gồm Long Đức, Phúc Đức, Thiên Đức và
+Nguyệt Đức, đương số đắc cách tài đức vẹn toàn.
 
-**Ý nghĩa cốt lõi:** Chữ **"TÀI"** song hành cùng chữ **"ĐỨC"**:
-- Có tài lại có đức: ắt được **LÒNG THIÊN HẠ**
-- Vừa được người đời **TRỌNG VỌNG**
-- Vừa **HƯỞNG PHÚC BỀN LÂU**
+Ý nghĩa cốt lõi của cách này là chữ "tài" song hành cùng chữ "đức" — đương
+số có tài lại có đức, ắt được lòng thiên hạ, vừa được người đời trọng vọng
+vừa hưởng phúc bền lâu.
 
-**Hóa giải mặt tối Thiên Tài:**
-- Tứ Đức **CHẾ NGỰ** tính kiêu ngạo, tự cao
-- Tài năng được dẫn dắt theo hướng **CHÍNH ĐẠO**
-- Không còn nguy cơ "con dao hai lưỡi" tự hại bản thân
+Tứ Đức còn chế ngự tính kiêu ngạo, tự cao của Thiên Tài, dẫn dắt tài năng
+theo hướng chính đạo, không còn nguy cơ "con dao hai lưỡi" tự hại bản thân.
 
-Đây là một trong những cách **AN LÀNH NHẤT** cho người có Thiên Tài.`,
+Đây là một trong những cách an lành nhất cho đương số có Thiên Tài.`,
   },
 
   {
@@ -378,18 +351,16 @@ MINH TÀI TRÍ TĂNG GẤP BỘI, ĐA HỌC ĐA NĂNG"**.
     sao: ['Thiên Tài'],
     ketHop: ['Ân Quang'],
     doUuTien: 50,
-    tomTat: `**Thiên Tài + Quang Quý + Quan Phúc** (Ân Quang + Thiên Quý + Thiên Quan +
-Thiên Phúc) — câu phú: **"THÔNG MINH, ĐIỀM ĐẠM, TÀI GIỎI"**.
+    tomTat: `Khi Thiên Tài đi cùng bộ Quang Quý (Ân Quang, Thiên Quý) và Quan
+Phúc (Thiên Quan, Thiên Phúc), sách phú có câu "thông minh, điềm đạm, tài
+giỏi".
 
-**Đặc trưng:**
-- **Quang Quý** = quý tinh, tăng phẩm chất cao quý
-- **Quan Phúc** = sao Giải, tăng phúc đức cứu giải
-- Kết hợp: tài năng Thiên Tài được dẫn dắt vào con đường **ĐIỀM ĐẠM,
-  HIỀN HẬU**
+Quang Quý là quý tinh, tăng phẩm chất cao quý cho đương số. Quan Phúc là sao
+Giải, tăng phúc đức cứu giải. Khi kết hợp, tài năng Thiên Tài được dẫn dắt
+vào con đường điềm đạm hiền hậu.
 
-**Cách dụng:**
-- Hóa giải hoàn toàn tính **KIÊU NGẠO** của Thiên Tài
-- Thành nhân vật **VỪA TÀI VỪA HIỀN**
-- Hợp nghề tư vấn, giáo dục, từ thiện`,
+Cách này hóa giải hoàn toàn tính kiêu ngạo của Thiên Tài, biến đương số
+thành nhân vật vừa tài vừa hiền, hợp với các nghề tư vấn, giáo dục, từ
+thiện.`,
   },
 ];

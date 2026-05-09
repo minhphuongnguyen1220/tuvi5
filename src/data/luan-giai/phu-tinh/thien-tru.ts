@@ -17,43 +17,27 @@ export const luanGiai_ThienTru: DoanLuanGiai[] = [
     title: 'Thiên Trù - Đặc tính chung',
     sao: ['Thiên Trù'],
     doUuTien: 32,
-    tomTat: `**Thiên Trù** — phụ tinh **CÁT TINH** chủ về **PHÚC THỰC, LỘC ĂN UỐNG**.
+    tomTat: `**Thiên Trù** thuộc nhóm phụ tinh cát tinh, ngũ hành Thổ, hóa khí vừa
+là Phúc Tinh vừa là Lộc Tinh, chủ về phúc thực và lộc ăn uống. Sao này nằm
+trong bộ Tứ Lộc gồm Thiên Trù, Lộc Tồn, Hóa Lộc và Lưu Niên Văn Tinh.
 
-**Ngũ hành:** **Thổ**.
+Đặc tính nổi bật của Thiên Trù là phúc thực, no đủ, hưởng thụ, sung túc vật
+chất, đi kèm khả năng quản lý và tích trữ lương thực, của cải. Hình tượng cổ
+điển ví "có Thiên Trù trong nhà lúc nào cũng có nồi cơm nghi ngút khói" —
+đương số được "ăn trắng mặc trơn", cuộc sống đủ đầy, ít khi phải lo chuyện
+cơm áo gạo tiền.
 
-**Hóa khí:** **PHÚC TINH + LỘC TINH**.
+Tác động chính của sao là giúp đương số giỏi nấu ăn, sành ăn, biết hưởng thụ
+và có cuộc sống sung túc.
 
-**Vị thế:**
-- Thuộc **BỘ TỨ LỘC**:
-  - **Thiên Trù** + **Lộc Tồn** + **Hóa Lộc** + **Lưu Niên Văn Tinh**
+Về sự nghiệp, Thiên Trù phù hợp với các ngành ẩm thực, nhà hàng, khách sạn và
+kinh doanh hàng tiêu dùng.
 
-**Đặc tính:**
-- **PHÚC THỰC, NO ĐỦ, HƯỞNG THỤ**
-- **SUNG TÚC VẬT CHẤT**
-- Khả năng **QUẢN LÝ, TÍCH TRỮ LƯƠNG THỰC** của cải
+Về duyên vận, hôn nhân thường hòa thuận; vợ chồng dễ gắn kết qua bữa cơm gia
+đình hoặc những chuyến du lịch chung.
 
-**Hình tượng:**
-- "**CÓ THIÊN TRÙ, trong nhà lúc nào cũng có NỒI CƠM NGHI NGÚT KHÓI**"
-- Đương số "**ĂN TRẮNG MẶC TRƠN**"
-- Cuộc sống **ĐỦ ĐẦY**
-- Ít khi phải lo chuyện **CƠM ÁO GẠO TIỀN**
-
-**Tác động chính:**
-- **GIỎI NẤU ĂN, SÀNH ĂN**
-- Biết **HƯỞNG THỤ**
-- Cuộc sống **SUNG TÚC**
-
-**Sự nghiệp:**
-- Phù hợp **ẨM THỰC, NHÀ HÀNG, KHÁCH SẠN**
-- **KINH DOANH HÀNG TIÊU DÙNG**
-
-**Duyên vận:**
-- Hôn nhân **HÒA THUẬN**
-- Vợ chồng dễ gắn kết qua **BỮA CƠM GIA ĐÌNH** hoặc **DU LỊCH**
-
-**Phúc thọ:**
-- Sức khỏe **ỔN ĐỊNH, ÍT BỆNH VẶT**
-- Ốm đau **NHANH HỒI PHỤC** nhờ chế độ ăn uống hợp lý`,
+Về phúc thọ, sức khỏe đương số ổn định, ít bệnh vặt; khi ốm đau cũng nhanh
+hồi phục nhờ chế độ ăn uống hợp lý.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -66,25 +50,17 @@ export const luanGiai_ThienTru: DoanLuanGiai[] = [
     sao: ['Thiên Trù'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Thiên Trù tại Mệnh** — người **ĐẢM ĐANG, SÀNH ĂN, NẤU ĂN GIỎI**.
+    tomTat: `Khi Thiên Trù tọa thủ Mệnh, đương số là người đảm đang, sành ăn và
+nấu ăn giỏi. Cơ địa khỏe mạnh, dung nhan tươi tắn cho thấy phúc khí trời ban.
 
-**Cơ địa:**
-- **CƠ ĐỊA KHỎE MẠNH**
-- **DUNG NHAN TƯƠI TẮN**
+Đương số nấu ăn ngon, biết thưởng thức ẩm thực một cách tinh tế và rất khéo
+léo trong việc chăm sóc gia đình cũng như những người xung quanh.
 
-**Khả năng:**
-- **NẤU ĂN NGON**
-- **SÀNH ĂN**, biết thưởng thức ẩm thực
-- Khéo léo **CHĂM SÓC GIA ĐÌNH** và người khác
+Về tính cách, đương số vui vẻ, hào sảng, biết tận hưởng cuộc sống. Có nét
+duyên ngầm khiến mọi người cảm thấy thoải mái khi tiếp xúc.
 
-**Tính cách:**
-- **VUI VẺ, HÀO SẢNG**
-- Biết **TẬN HƯỞNG CUỘC SỐNG**
-- Có **NÉT DUYÊN NGẦM**, mọi người **THOẢI MÁI** khi tiếp xúc
-
-**Sự nghiệp:**
-- Thích kết bạn qua **BÀN ĂN, CHÉN RƯỢU**
-- Phù hợp **ẨM THỰC, DỊCH VỤ, DU LỊCH**`,
+Trên đường sự nghiệp, đương số thích kết bạn qua bàn ăn, chén rượu và đặc
+biệt phù hợp với các ngành ẩm thực, dịch vụ, du lịch.`,
   },
 
   {
@@ -94,13 +70,9 @@ export const luanGiai_ThienTru: DoanLuanGiai[] = [
     cung: ['Mệnh'],
     ketHop: ['Hóa Lộc', 'Lộc Tồn', 'Tả Phù', 'Hữu Bật'],
     doUuTien: 70,
-    tomTat: `**Thiên Trù + Hóa Lộc - Lộc Tồn + Tả Hữu tại Mệnh** — **TRỜI BAN PHÚC LỘC**.
-
-**Đặc trưng:**
-- Trời ban **PHÚC LỘC ĂN UỐNG ĐẦY ĐỦ**
-- **ÍT KHI THIẾU THỐN**
-- Sự nghiệp **RỘNG MỞ**
-- Được **QUÝ NHÂN NÂNG ĐỠ**`,
+    tomTat: `Khi Thiên Trù tại Mệnh hội đủ Hóa Lộc, Lộc Tồn cùng Tả Phù, Hữu
+Bật, đương số được trời ban phúc lộc ăn uống đầy đủ, ít khi thiếu thốn. Sự
+nghiệp rộng mở, lại được quý nhân nâng đỡ trên mọi nẻo đường.`,
   },
 
   {
@@ -110,13 +82,9 @@ export const luanGiai_ThienTru: DoanLuanGiai[] = [
     cung: ['Mệnh'],
     ketHop: ['Hóa Kỵ', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 60,
-    tomTat: `**Thiên Trù + Hóa Kỵ + Địa Không Địa Kiếp tại Mệnh** — sa vào **HƯỞNG THỤ
-THÁI QUÁ**.
-
-**Cảnh báo:**
-- **HƯỞNG THỤ THÁI QUÁ**
-- Lâm cảnh **NỢ NẦN**
-- Sức khỏe **XUỐNG DỐC** vì **TIỆC TÙNG**`,
+    tomTat: `Khi Thiên Trù tại Mệnh gặp Hóa Kỵ cùng Địa Không, Địa Kiếp, đương
+số dễ sa vào hưởng thụ thái quá, lâm cảnh nợ nần và sức khỏe xuống dốc vì
+tiệc tùng triền miên.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -129,14 +97,10 @@ THÁI QUÁ**.
     sao: ['Thiên Trù'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Thiên Trù tại Phụ Mẫu** — cha mẹ **KHÁ GIẢ, GIỎI VUN VÉN**.
-
-**Đặc trưng:**
-- Cha mẹ điều kiện kinh tế **KHÁ GIẢ**
-- "**TÍCH CỐC PHÒNG CƠ**"
-- Đương số từ nhỏ được **CƠM NO ÁO ẤM**, không chịu thiếu thốn
-- Cha mẹ có **KHIẾU NẤU NƯỚNG**, thích **THƯỞNG THỨC MÓN NGON**
-- Bữa cơm gia đình **TƯƠM TẤT, ĐỦ ĐẦY**`,
+    tomTat: `Khi Thiên Trù tọa Phụ Mẫu, cha mẹ của đương số có điều kiện kinh
+tế khá giả, biết "tích cốc phòng cơ". Đương số từ nhỏ đã được cơm no áo ấm,
+không phải chịu cảnh thiếu thốn. Cha mẹ thường có khiếu nấu nướng, thích
+thưởng thức món ngon, bữa cơm gia đình lúc nào cũng tươm tất đủ đầy.`,
   },
 
   {
@@ -146,13 +110,9 @@ THÁI QUÁ**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Thiên Lương', 'Tả Phù', 'Hữu Bật'],
     doUuTien: 68,
-    tomTat: `**Thiên Trù + Thiên Lương + Tả Hữu tại Phụ Mẫu** — cha mẹ **SUNG TÚC + SỐNG
-THỌ**.
-
-**Đặc trưng:**
-- Cha mẹ **SUNG TÚC**
-- **SỐNG THỌ, KHỎE MẠNH**
-- Giỏi **CHĂM SÓC GIA ĐÌNH**`,
+    tomTat: `Khi Thiên Trù tọa Phụ Mẫu đi cùng Thiên Lương, Tả Phù, Hữu Bật, cha
+mẹ của đương số sung túc, sống thọ và khỏe mạnh, lại rất giỏi việc chăm sóc
+gia đình.`,
   },
 
   {
@@ -162,12 +122,9 @@ THỌ**.
     cung: ['Phụ Mẫu'],
     ketHop: ['Hóa Kỵ', 'Địa Kiếp', 'Địa Không'],
     doUuTien: 60,
-    tomTat: `**Thiên Trù + Hóa Kỵ + Địa Không Địa Kiếp tại Phụ Mẫu** — cha mẹ **BIẾN CỐ
-TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
-
-**Cảnh báo:**
-- Gia đình gặp **BIẾN CỐ TÀI CHÍNH**
-- Hoặc cha mẹ **DỄ MẮC BỆNH** liên quan **TIÊU HÓA**`,
+    tomTat: `Khi Thiên Trù tọa Phụ Mẫu gặp Hóa Kỵ cùng Địa Không, Địa Kiếp, gia
+đình dễ gặp biến cố tài chính, hoặc cha mẹ dễ mắc các bệnh liên quan tới
+tiêu hóa.`,
   },
 
   {
@@ -176,22 +133,16 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
     sao: ['Thiên Trù'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Thiên Trù tại Phúc Đức** — dòng họ **PHÚC PHẦN ĂN UỐNG SUNG TÚC**.
+    tomTat: `Khi Thiên Trù tọa Phúc Đức, dòng họ của đương số có phúc phần ăn
+uống sung túc, ít khi thiếu thốn và hay tổ chức tụ họp. Tổ tiên thường từng
+làm các nghề buôn bán, ẩm thực hoặc trồng trọt chăn nuôi, để lại lộc cho
+con cháu hưởng, làm ăn thuận lợi.
 
-**Đặc trưng:**
-- Dòng họ **ÍT KHI THIẾU THỐN**
-- Hay **TỔ CHỨC TỤ HỌP**
-- Tổ tiên từng làm nghề **BUÔN BÁN, ẨM THỰC** hoặc **TRỒNG TRỌT CHĂN NUÔI**
-- Đời con cháu được **HƯỞNG LỘC**
-- Làm ăn **THUẬN LỢI**
+Khi hội Long Trì, Phượng Các, Văn Xương, Văn Khúc, phúc phần càng dày, gia
+đình đông vui hòa thuận.
 
-**Hội Long Trì + Phượng Các + Văn Xương + Văn Khúc:**
-- Phúc phần **CÀNG DÀY**
-- Gia đình **ĐÔNG VUI HÒA THUẬN**
-
-**Gặp Địa Không, Địa Kiếp, Hóa Kỵ:**
-- Trong họ dễ có người **ĂN CHƠI HOANG PHÍ**
-- **HAO TÁN TỔ NGHIỆP**`,
+Khi gặp Địa Không, Địa Kiếp hay Hóa Kỵ, trong họ dễ có người ăn chơi hoang
+phí, gây hao tán tổ nghiệp.`,
   },
 
   {
@@ -200,18 +151,12 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
     sao: ['Thiên Trù'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Thiên Trù tại Thiên Di** — xuất ngoại / làm xa **GẶP MAY**.
+    tomTat: `Khi Thiên Trù tọa Thiên Di, đương số xuất ngoại hay làm ăn xa đều
+gặp may. Đương số dễ kết giao bạn bè qua các bữa tiệc, biến mối quan hệ thành
+nguồn sinh tài lộc; quen biết nhiều người có vị thế, đi đâu cũng được giúp
+đỡ và mời ăn uống.
 
-**Đặc trưng:**
-- Khi xuất ngoại / làm ăn xa **GẶP MAY MẮN**
-- Dễ **KẾT GIAO BẠN BÈ** qua bữa tiệc
-- Mối quan hệ: **SINH TÀI LỘC**
-- Quen biết **NHIỀU NGƯỜI CÓ VỊ THẾ**
-- Đi đâu cũng được **GIÚP ĐỠ, MỜI ĂN UỐNG**
-
-**Cảnh báo - đi cùng sát tinh:**
-- **HAO TÀI** vì ăn chơi
-- Bị **LỪA** khi đi xa`,
+Khi đi cùng sát tinh, đương số dễ hao tài vì ăn chơi hoặc bị lừa khi đi xa.`,
   },
 
   {
@@ -220,20 +165,13 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
     sao: ['Thiên Trù'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Thiên Trù tại Quan Lộc** — hợp **ẨM THỰC, NHÀ HÀNG, HÀNG TIÊU DÙNG**.
+    tomTat: `Khi Thiên Trù tọa Quan Lộc, đương số rất hợp với các ngành ăn
+uống, nhà hàng và kinh doanh hàng tiêu dùng. Đương số "hợp vía" với nghề, có
+duyên buôn bán, biết chiều lòng khách hàng; làm việc kiên trì, tỉ mỉ, làm
+đâu chắc đó. Công việc hanh thông, "tiền vào như nước".
 
-**Đặc trưng:**
-- Hợp ngành **ĂN UỐNG, NHÀ HÀNG**
-- **KINH DOANH HÀNG TIÊU DÙNG**
-- "**HỢP VÍA**" với nghề
-- Có **DUYÊN BUÔN BÁN**
-- Biết **CHIỀU LÒNG KHÁCH HÀNG**
-- **KIÊN TRÌ, TỈ MỈ, LÀM ĐÂU CHẮC ĐÓ**
-- Công việc **HANH THÔNG**, "**TIỀN VÀO NHƯ NƯỚC**"
-
-**Cảnh báo - Hóa Kỵ + Địa Không Địa Kiếp:**
-- Dễ **THẤT BẠI** do **QUẢN LÝ KÉM**
-- **TIÊU HAO QUÁ NHIỀU VỐN**`,
+Khi gặp Hóa Kỵ cùng Địa Không, Địa Kiếp, đương số dễ thất bại do quản lý kém
+và tiêu hao quá nhiều vốn.`,
   },
 
   {
@@ -242,20 +180,16 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
     sao: ['Thiên Trù'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Thiên Trù tại Nô Bộc** — bạn bè **THÂN THIỆN, DỄ MẾN**.
+    tomTat: `Khi Thiên Trù tọa Nô Bộc, bạn bè, đồng nghiệp và nhân viên của
+đương số đều thân thiện, dễ mến. Họ giúp đỡ trong công việc và chia sẻ niềm
+vui ẩm thực qua các buổi tụ họp đầm ấm; mối quan hệ cũng được mở rộng nhờ
+tiệc tùng.
 
-**Đặc trưng:**
-- Bạn bè / đồng nghiệp / nhân viên **THÂN THIỆN, DỄ MẾN**
-- Giúp đỡ trong công việc + chia sẻ **NIỀM VUI ẨM THỰC**
-- Có **BUỔI TỤ HỌP ĐẦM ẤM**
-- Mở rộng quan hệ qua **TIỆC TÙNG**
+Khi đi cùng Thiên Phúc, Tả Phù, Hữu Bật, cơ hội kinh doanh đến từ chính
+những bữa ăn và buổi tiệc.
 
-**Đi cùng Thiên Phúc, Tả Phù, Hữu Bật:**
-- Cơ hội **KINH DOANH** đến từ **BỮA ĂN, BUỔI TIỆC**
-
-**Kết hợp Địa Kiếp, Kình Dương, Hóa Kỵ:**
-- Bị bạn bè **LỢI DỤNG**
-- "**ĂN CHÁO ĐÁ BÁT**"`,
+Khi kết hợp Địa Kiếp, Kình Dương hay Hóa Kỵ, đương số dễ bị bạn bè lợi dụng,
+rơi vào cảnh "ăn cháo đá bát".`,
   },
 
   {
@@ -264,22 +198,15 @@ TÀI CHÍNH** hoặc **BỆNH TIÊU HÓA**.
     sao: ['Thiên Trù'],
     cung: ['Điền Trạch'],
     doUuTien: 78,
-    tomTat: `**Thiên Trù tại Điền Trạch** — gia đình **ĐẤT ĐAI, VƯỜN TƯỢC, NHÀ CỬA KHANG
-TRANG**.
+    tomTat: `Khi Thiên Trù tọa Điền Trạch, gia đình đương số có đất đai vườn
+tược cùng nhà cửa khang trang, bếp núc luôn đỏ lửa. Cuộc sống gia đình ấm
+cúng, sung túc, "của ăn của để" dồi dào.
 
-**Đặc trưng:**
-- **ĐẤT ĐAI, VƯỜN TƯỢC**
-- **NHÀ CỬA KHANG TRANG**
-- **BẾP NÚC LUÔN ĐỎ LỬA**
-- Cuộc sống gia đình **ẤM CÚNG, SUNG TÚC**
-- "**CỦA ĂN CỦA ĐỂ**" dồi dào
+Khi hội Tả Phù, Hữu Bật cùng Thiên Phúc, đương số làm nông nghiệp hay kinh
+doanh thực phẩm dễ phát đạt.
 
-**Hội Tả Phù + Hữu Bật + Thiên Phúc:**
-- Làm **NÔNG NGHIỆP** hay **KINH DOANH THỰC PHẨM** dễ phát đạt
-
-**Cảnh báo - Kình Dương + Đà La:**
-- Phải **TỐN TIỀN SỬA SANG NHÀ CỬA** liên tục
-- **MUA SẮM QUÁ TAY**`,
+Khi gặp Kình Dương cùng Đà La, đương số phải tốn tiền sửa sang nhà cửa liên
+tục hoặc mua sắm quá tay.`,
   },
 
   {
@@ -288,24 +215,16 @@ TRANG**.
     sao: ['Thiên Trù'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Thiên Trù tại Tật Ách** — sức khỏe **ỔN ĐỊNH, ÍT BỆNH VẶT**.
+    tomTat: `Khi Thiên Trù tọa Tật Ách, sức khỏe đương số ổn định, ít bệnh vặt;
+khi ốm đau cũng nhanh hồi phục nhờ ăn uống hợp lý.
 
-**Đặc trưng:**
-- Sức khỏe **ỔN ĐỊNH, ÍT BỆNH VẶT**
-- Ốm đau **NHANH HỒI PHỤC** nhờ ăn uống hợp lý
+Tuy nhiên, theo thuyết "bệnh từ miệng mà vào", đam mê ẩm thực dễ khiến đương
+số ăn uống vô độ, mắc các bệnh tiêu hóa, gan, dạ dày.
 
-**Cảnh báo - "BỆNH TỪ MIỆNG MÀ VÀO":**
-- Đam mê ẩm thực dễ **ĂN UỐNG VÔ ĐỘ**
-- Mắc bệnh **TIÊU HÓA, GAN, DẠ DÀY**
+Khi gặp Thiên Lương hay Thiên Phúc, bệnh thường nhẹ và dễ chữa. Ngược lại,
+khi gặp Kình Dương, Đà La hay Hóa Kỵ, bệnh dễ hóa nặng.
 
-**Bệnh nhẹ dễ chữa:**
-- Gặp **THIÊN LƯƠNG, THIÊN PHÚC**
-
-**Bệnh hóa nặng:**
-- Gặp **KÌNH DƯƠNG, ĐÀ LA, HÓA KỴ**
-
-**Lời khuyên:**
-- Ăn uống **KHOA HỌC**, sinh hoạt **ĐIỀU ĐỘ**`,
+Lời khuyên là đương số nên ăn uống khoa học và sinh hoạt điều độ.`,
   },
 
   {
@@ -314,18 +233,13 @@ TRANG**.
     sao: ['Thiên Trù'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `**Thiên Trù tại Tài Bạch** — nguồn tài chính **ỔN ĐỊNH, ÍT TÚNG THIẾU**.
+    tomTat: `Khi Thiên Trù tọa Tài Bạch, nguồn tài chính của đương số ổn định,
+ít khi túng thiếu. Tiền bạc thường đến từ kinh doanh thực phẩm, nông sản hay
+dịch vụ ăn uống. Đương số biết chi tiêu hợp lý, có "của ăn của để", cuộc
+sống thịnh vượng phát đạt.
 
-**Đặc trưng:**
-- Tiền bạc đến từ:
-  - **KINH DOANH THỰC PHẨM, NÔNG SẢN**
-  - **DỊCH VỤ ĂN UỐNG**
-- Biết chi tiêu hợp lý: "**CỦA ĂN CỦA ĐỂ**"
-- Cuộc sống **THỊNH VƯỢNG, PHÁT ĐẠT**
-
-**Cảnh báo - Kình Dương + Hóa Kỵ:**
-- Tài chính dễ **THẤT THOÁT**
-- Do **ĂN CHƠI, TIÊU XÀI QUÁ ĐÀ**`,
+Khi gặp Kình Dương cùng Hóa Kỵ, tài chính dễ thất thoát do ăn chơi, tiêu xài
+quá đà.`,
   },
 
   {
@@ -334,20 +248,15 @@ TRANG**.
     sao: ['Thiên Trù'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Thiên Trù tại Phu Thê** — đời sống hôn nhân **HÒA THUẬN**.
+    tomTat: `Khi Thiên Trù tọa Phu Thê, đời sống hôn nhân của đương số hòa
+thuận. Vợ chồng dễ gắn kết qua bữa cơm gia đình, biết chăm sóc nhau từ
+những điều nhỏ nhặt.
 
-**Đặc trưng:**
-- Vợ chồng dễ gắn kết qua **BỮA CƠM GIA ĐÌNH**
-- Biết **CHĂM SÓC NHAU** từ điều nhỏ nhặt
+Khi đi cùng Văn Xương, Văn Khúc hay Lộc Tồn, bạn đời có tay nghề nấu nướng,
+chi tiêu hợp lý, khiến cuộc sống thêm viên mãn.
 
-**Đi cùng Văn Xương, Văn Khúc, Lộc Tồn:**
-- Bạn đời có **TAY NGHỀ NẤU NƯỚNG**
-- **CHI TIÊU HỢP LÝ**
-- Cuộc sống thêm **VIÊN MÃN**
-
-**Cảnh báo - Đào Hoa + Hóa Kỵ + Hồng Loan:**
-- **TỐN TIỀN** vì ăn chơi, tiệc tùng
-- Hoặc vì **NGƯỜI THỨ BA**`,
+Khi đi cùng Đào Hoa, Hóa Kỵ hay Hồng Loan, đương số dễ tốn tiền vì ăn chơi
+tiệc tùng, hoặc vướng vào người thứ ba.`,
   },
 
   {
@@ -356,17 +265,12 @@ TRANG**.
     sao: ['Thiên Trù'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Thiên Trù tại Huynh Đệ** — anh chị em **HÒA THUẬN, THÍCH TIỆC TÙNG**.
+    tomTat: `Khi Thiên Trù tọa Huynh Đệ, anh chị em của đương số hòa thuận,
+thích tiệc tùng. Họ gắn kết qua những bữa cơm đầm ấm, sẵn sàng giúp đỡ nhau
+về kinh tế, hoặc cùng nhau làm ăn trong lĩnh vực thực phẩm, ăn uống.
 
-**Đặc trưng:**
-- Anh chị em **HÒA THUẬN**
-- Gắn kết qua **BỮA CƠM ĐẦM ẤM**
-- Giúp đỡ nhau về **KINH TẾ**
-- Cùng làm ăn trong lĩnh vực **THỰC PHẨM, ĂN UỐNG**
-
-**Cảnh báo - Địa Kiếp + Kình Dương:**
-- Anh em **BẤT HÒA**
-- **TRANH CHẤP TIỀN BẠC**`,
+Khi đi cùng Địa Kiếp hay Kình Dương, anh em bất hòa và dễ tranh chấp tiền
+bạc.`,
   },
 
   {
@@ -375,22 +279,13 @@ TRANG**.
     sao: ['Thiên Trù'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Thiên Trù tại Tử Tức** — mệnh danh "**BẾP NHÀ TRỜI**".
+    tomTat: `Khi Thiên Trù tọa Tử Tức, con cái của đương số được mệnh danh là
+"bếp nhà trời" — có niềm đam mê ẩm thực, thích ăn ngon và giỏi nấu nướng.
+Các con khéo ăn khéo nói, ngoan ngoãn hiếu thảo, biết hưởng thụ cuộc sống.
 
-**Đặc trưng:**
-- Con cái có **NIỀM ĐAM MÊ ẨM THỰC**
-- **THÍCH ĂN NGON, GIỎI NẤU NƯỚNG**
-- **KHÉO ĂN KHÉO NÓI**
-- **NGOAN NGOÃN, HIẾU THẢO**
-- Biết **HƯỞNG THỤ CUỘC SỐNG**
+Đương số tuy chi tiêu nhiều cho con nhưng nhận lại được niềm vui và phúc đức.
 
-**Cha mẹ:**
-- **CHI TIÊU NHIỀU CHO CON**
-- Nhận lại **NIỀM VUI, PHÚC ĐỨC**
-
-**Cảnh báo - Hóa Kỵ + Địa Kiếp:**
-- Con cái **ĂN CHƠI, TIÊU XÀI NHIỀU**
-- **KHÔNG BIẾT GIỮ CỦA**
-- Gây **HAO TÁN** cho cha mẹ`,
+Khi gặp Hóa Kỵ cùng Địa Kiếp, con cái ăn chơi tiêu xài nhiều, không biết giữ
+của, gây hao tán cho cha mẹ.`,
   },
 ];

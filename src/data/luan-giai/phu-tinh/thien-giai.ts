@@ -24,26 +24,21 @@ export const luanGiai_ThienGiai: DoanLuanGiai[] = [
     title: 'Thiên Giải - Đặc tính chung',
     sao: ['Thiên Giải'],
     doUuTien: 32,
-    tomTat: `**Thiên Giải** — phụ tinh **PHÚC THIỆN TINH**, an theo **tháng sinh**.
+    tomTat: `**Thiên Giải** là phụ tinh thuộc nhóm Phúc Thiện Tinh, an theo tháng
+sinh, ngũ hành Hỏa. Tên gọi gồm "Thiên" — trời, "Giải" — tháo gỡ; tổng hợp
+lại là sự trợ giúp của đất trời, các vị thần linh trên cao đến giúp đỡ
+đương số.
 
-**Ngũ hành:** **Hỏa**.
+Đặc tính chính của sao là giải ách, đem may mắn, trừ họa và gia tăng phúc
+thọ. Đây là sao cứu nguy, giải trừ tai ách và bệnh tật cho chủ mệnh.
 
-**Tên gọi:** Thiên = trời, Giải = tháo gỡ: **SỰ TRỢ GIÚP CỦA ĐẤT TRỜI**,
-các vị thần linh trên cao đến giúp đỡ.
+Thiên Giải cùng với Địa Giải và Giải Thần tạo thành bộ Tam Giải. Tuy
+nhiên do Thiên Giải không bao giờ đồng cung được với Địa Giải, khả năng
+giải của riêng sao này chỉ phát huy được một nửa.
 
-**Đặc tính:**
-- **Giải ách, may mắn, trừ họa, phúc thọ**
-- Là sao **CỨU NGUY, GIẢI TRỪ TAI ÁCH, BỆNH TẬT**
-- Gia tăng **PHÚC THỌ**
-
-**Vai trò trong bộ Tam Giải:**
-- Cùng **Địa Giải + Giải Thần** tạo bộ **TAM GIẢI**
-- Nhưng vì không bao giờ đồng cung với Địa Giải: khả năng giải chỉ
-  được **MỘT NỬA**
-
-**Khác Địa Giải:** Thiên Giải là sự trợ giúp **TỪ TRỜI**, đặc tính nhẹ
-nhàng thanh thoát, người cao ráo trắng hồng — Địa Giải là từ ĐẤT, người
-thấp hơi mập.`,
+So với Địa Giải: Thiên Giải mang sự trợ giúp từ trời, đặc tính nhẹ nhàng
+thanh thoát, đương số thường cao ráo trắng hồng — trong khi Địa Giải lấy
+năng lượng từ đất, người thấp hơi mập.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -55,29 +50,23 @@ thấp hơi mập.`,
     title: 'Bộ Thiên-Địa Giải - Đặc tính chung của cặp đôi',
     sao: ['Thiên Giải', 'Địa Giải'],
     doUuTien: 60,
-    tomTat: `**Bộ Thiên Giải + Địa Giải** — **CẶP SAO CỨU GIẢI NHỎ** trong tử vi, an
-theo **THÁNG SINH**.
+    tomTat: `Bộ **Thiên Giải + Địa Giải** là cặp sao cứu giải nhỏ trong tử vi,
+cả hai cùng an theo tháng sinh. Hai chữ "Thiên" — trời và "Địa" — đất
+gắn liền với Tam Tài Thiên-Nhân-Địa, đại diện cho môi trường xung quanh
+và các tác nhân bên ngoài ảnh hưởng tới con người, còn "Giải" mang ý
+tháo gỡ, phân tán, tiêu trừ.
 
-**Tên gọi & ý nghĩa:**
-- **Thiên** = trời / **Địa** = đất: Tam Tài **THIÊN-NHÂN-ĐỊA**
-- Đại diện cho **MÔI TRƯỜNG XUNG QUANH, TÁC NHÂN BÊN NGOÀI** ảnh hưởng tới
-  con người (Nhân)
-- **GIẢI** = tháo gỡ, phân tán, tiêu trừ
+Về bản chất, đây là sự trợ giúp của đất trời, thần linh, thổ địa đến
+với chủ mệnh, chủ về cứu nguy, giải trừ tai ách, bệnh tật và gia tăng
+phúc thọ. Đặc tính nổi bật ở đương số có sao này là khoan hòa, đức độ,
+thuần hậu, giàu lòng nhân ái và hay giúp đỡ người khác — vai trò tương
+tự cặp Thiên Quan Quý Nhân + Thiên Phúc Quý Nhân nhưng nhẹ hơn.
 
-**Bản chất:**
-- Sự trợ giúp của **ĐẤT TRỜI, THẦN LINH, THỔ ĐỊA** đến với con người
-- Chủ về **CỨU NGUY, GIẢI TRỪ TAI ÁCH, BỆNH TẬT**
-- Gia tăng **PHÚC THỌ**
+Cặp sao có hai mặt cần lưu ý:
 
-**Đặc tính:**
-- Khoan hòa, đức độ, thuần hậu
-- Lòng nhân ái, từ thiện, hay giúp đỡ người
-- Tương tự như **Thiên Quan Quý Nhân + Thiên Phúc Quý Nhân** nhưng nhẹ hơn
-
-**HAI MẶT - chú ý:**
-- **Tích cực:** Cứu nguy, giải tai ách, bệnh tật
-- **Tiêu cực:** Khi vào **Tài Bạch, Điền Trạch, Phúc Đức**: làm
-  **PHÂN TÁN, HAO HỤT** của cải, nhưng KHÔNG đến mức bần cùng`,
+- Tích cực: cứu nguy, giải tai ách, bệnh tật cho đương số.
+- Tiêu cực: khi vào Tài Bạch, Điền Trạch hoặc Phúc Đức sẽ làm phân tán
+  và hao hụt của cải, song không đến mức bần cùng.`,
   },
 
   {
@@ -85,24 +74,22 @@ theo **THÁNG SINH**.
     title: 'Quy luật KHÔNG đồng cung - chỉ nhị hợp Tý/Sửu Ngọ/Mùi',
     sao: ['Thiên Giải', 'Địa Giải'],
     doUuTien: 65,
-    tomTat: `**Quy luật ĐẶC BIỆT** của cặp Thiên-Địa Giải:
+    tomTat: `Cặp Thiên-Địa Giải có một quy luật rất đặc biệt: Địa Giải luôn
+đứng ngay sau Thiên Giải, vì vậy hai sao không bao giờ đồng cung và cũng
+không bao giờ tam hợp với nhau. Chúng chỉ có thể nhị hợp tại các cặp:
 
-**Địa Giải LUÔN đứng SAU Thiên Giải:**
-- Hai sao **KHÔNG BAO GIỜ ĐỒNG CUNG**
-- **KHÔNG BAO GIỜ TAM HỢP** với nhau
-- Chỉ có thể **NHỊ HỢP** tại các cặp:
-  - **Tý - Sửu** (Thiên Giải Tý, Địa Giải Sửu hoặc ngược lại)
-  - **Ngọ - Mùi** (Thiên Giải Ngọ, Địa Giải Mùi hoặc ngược lại)
+- Tý - Sửu (Thiên Giải Tý, Địa Giải Sửu hoặc ngược lại)
+- Ngọ - Mùi (Thiên Giải Ngọ, Địa Giải Mùi hoặc ngược lại)
 
-**Hệ quả - khả năng cứu giải CHỈ MỘT NỬA:**
-- Như mảnh ghép **ÂM-DƯƠNG**, mỗi sao chỉ là **một nửa của bộ**
-- KHÔNG thể hội tụ: khả năng cứu nạn, giải ách chỉ được **MỘT NỬA**
-- Không trọn vẹn, không mạnh mẽ như **GIẢI THẦN** (sao Năm trong Tam Giải)
+Hệ quả là khả năng cứu giải của bộ này chỉ được một nửa. Như mảnh ghép
+âm-dương, mỗi sao chỉ là một nửa của bộ; không thể hội tụ cùng nhau nên
+khả năng cứu nạn, giải ách không trọn vẹn và không mạnh mẽ như Giải Thần
+(sao Năm trong Tam Giải).
 
-**Ví dụ thực tế:** Hạn xấu gặp Thiên Giải hay Địa Giải:
-- Có thể **MAY MẮN GẶP THẦY THUỐC, NGƯỜI CỨU GIÚP** thoát tai vạ
-- Nhưng vẫn phải **TỔN HAO SỨC LỰC VÀ TIỀN BẠC**
-- Vẫn còn hơn không có sự cứu giúp nào`,
+Trong thực tế, khi đương số gặp hạn xấu mà có Thiên Giải hay Địa Giải:
+có thể may mắn gặp được thầy thuốc hoặc người cứu giúp để thoát tai vạ,
+nhưng vẫn phải tổn hao sức lực và tiền bạc. Dẫu vậy vẫn còn hơn không có
+sự cứu giúp nào.`,
   },
 
   {
@@ -110,21 +97,23 @@ theo **THÁNG SINH**.
     title: 'Phân biệt Thiên Giải (trời) vs Địa Giải (đất)',
     sao: ['Thiên Giải', 'Địa Giải'],
     doUuTien: 50,
-    tomTat: `**Phân biệt vai trò Thiên Giải vs Địa Giải** trong cặp đôi:
+    tomTat: `Tuy cùng là sao cứu giải nhỏ, **Thiên Giải** và **Địa Giải** mang
+hai sắc thái khác nhau khi luận về đương số.
 
-**THIÊN GIẢI** — Hỏa — sự trợ giúp **TỪ TRỜI**:
-- Tướng mạo **CAO RÁO, TRẮNG HỒNG**, thanh tú nhẹ nhàng
-- Trợ giúp đến từ **ĐẤNG LINH THIÊNG TRÊN CAO**
-- Phong cách giải nguy **NHẸ NHÀNG**, may mắn bất ngờ
+Thiên Giải thuộc Hỏa, đại diện cho sự trợ giúp từ trời. Đương số có
+tướng mạo cao ráo, làn da trắng hồng, nét thanh tú nhẹ nhàng. Sự trợ
+giúp đến từ đấng linh thiêng trên cao và phong cách giải nguy thường
+nhẹ nhàng, nhiều khi qua những may mắn bất ngờ.
 
-**ĐỊA GIẢI** — Thổ — sự trợ giúp **TỪ ĐẤT**:
-- Tướng mạo **THẤP NGƯỜI, HƠI MẬP**, hiền lành dễ gần
-- Trợ giúp đến từ **THẦN LINH, THỔ CÔNG, THỔ ĐỊA** — môi trường gần gũi
-- Hợp với **PHƯƠNG PHÁP CHỮA TRỊ TỰ NHIÊN**, năng lượng từ môi trường lành mạnh
-- Tinh thần dễ **GIAO THOA VỚI ĐẤT**, cảm nhận năng lượng tích cực/tiêu cực
+Địa Giải thuộc Thổ, đại diện cho sự trợ giúp từ đất. Đương số dáng
+người thấp, hơi mập, nét mặt hiền lành dễ gần. Trợ giúp đến từ thần
+linh, thổ công, thổ địa — môi trường gần gũi xung quanh. Sao này hợp
+với phương pháp chữa trị tự nhiên, năng lượng từ môi trường lành mạnh;
+tinh thần đương số cũng dễ giao thoa với đất, cảm nhận năng lượng tích
+cực hoặc tiêu cực rõ hơn người thường.
 
-**Khi nhị hợp tại Tý/Sửu hoặc Ngọ/Mùi**: cả hai mặt được kết hợp tốt nhất
-có thể (vì không thể đồng cung).`,
+Khi hai sao nhị hợp tại Tý/Sửu hoặc Ngọ/Mùi, cả hai mặt được kết hợp
+tốt nhất có thể trong khuôn khổ không đồng cung.`,
   },
 
   {
@@ -133,19 +122,20 @@ có thể (vì không thể đồng cung).`,
     sao: ['Thiên Giải', 'Địa Giải'],
     ketHop: ['Giải Thần'],
     doUuTien: 55,
-    tomTat: `**Bộ TAM GIẢI** — 3 sao mang tên "Giải" trong tử vi:
+    tomTat: `Trong tử vi có ba sao mang tên "Giải" tạo thành bộ **Tam Giải**:
 
-**THIÊN GIẢI** — Hỏa — an theo **THÁNG SINH** — sự trợ giúp từ trời
-**ĐỊA GIẢI** — Thổ — an theo **THÁNG SINH** — sự trợ giúp từ đất
-**GIẢI THẦN** — an theo **NĂM SINH** — luôn đồng cung Phượng Các (engine
-  hardcode) — sự trợ giúp **MẠNH NHẤT**
+- Thiên Giải — Hỏa, an theo tháng sinh, đại diện sự trợ giúp từ trời.
+- Địa Giải — Thổ, an theo tháng sinh, đại diện sự trợ giúp từ đất.
+- Giải Thần — an theo năm sinh, luôn đồng cung Phượng Các (engine
+  hardcode), là sự trợ giúp mạnh nhất.
 
-**So sánh:**
-- Giải Thần (sao Năm): giải hoàn chỉnh, mạnh mẽ
-- Thiên Giải, Địa Giải (sao Tháng): giải nhỏ, chỉ một nửa do không đồng cung
+Giải Thần với tư cách là sao Năm có khả năng giải hoàn chỉnh và mạnh
+mẽ. Thiên Giải, Địa Giải là sao Tháng nên chỉ cứu giải nhỏ và không
+trọn vẹn do quy luật không đồng cung.
 
-**Khi đủ TAM GIẢI hội tụ**: khả năng giải họa **MẠNH MẼ NHẤT**, đặc biệt
-khi có thêm Tử Vi tinh, Quang Quý, Quan Phúc, Hóa Khoa.`,
+Khi đương số có đủ Tam Giải hội tụ, khả năng giải họa đạt mức mạnh
+mẽ nhất, đặc biệt khi đi kèm thêm Tử Vi tinh, Quang Quý, Quan Phúc và
+Hóa Khoa.`,
   },
 
   {
@@ -154,23 +144,21 @@ khi có thêm Tử Vi tinh, Quang Quý, Quan Phúc, Hóa Khoa.`,
     sao: ['Thiên Giải', 'Địa Giải'],
     cung: ['Tật Ách'],
     doUuTien: 70,
-    tomTat: `**Thiên Giải hoặc Địa Giải đơn thủ tại Tật Ách** — khả năng cứu giải
-**CHỈ Ở MỨC GIẢM NHẸ**, không trọn vẹn.
+    tomTat: `Khi Thiên Giải hoặc Địa Giải đơn thủ tại Tật Ách, khả năng cứu
+giải dành cho đương số chỉ ở mức giảm nhẹ chứ không trọn vẹn.
 
-**Để phát huy mạnh, cần các sao phúc thiện hội chiếu:**
-- **Tử Vi tinh** (Tử Vi đắc địa)
-- **Quang Quý** (Ân Quang + Thiên Quý)
-- **Quan Phúc** (Thiên Quan + Thiên Phúc)
-- **Giải Thần** (sao Năm - hoàn thiện bộ Tam Giải)
-- **Hóa Khoa** (Đệ Nhất Giải Thần)
+Để phát huy mạnh, cần các sao phúc thiện cùng hội chiếu:
 
-**Khi có đủ:**
-- **Bệnh tật được giải trừ TRIỆT ĐỂ**
-- Đau ốm gặp **THẦY HAY, THUỐC GIỎI** kịp thời
-- "GẶP DỮ HÓA LÀNH"
+- Tử Vi tinh đắc địa.
+- Quang Quý — Ân Quang đi cùng Thiên Quý.
+- Quan Phúc — Thiên Quan đi cùng Thiên Phúc.
+- Giải Thần (sao Năm), giúp hoàn thiện bộ Tam Giải.
+- Hóa Khoa — được xem là Đệ Nhất Giải Thần.
 
-**Nếu thiếu sao phúc thiện đi cùng:** Thiên-Địa Giải đơn thủ chỉ làm
-**GIẢM NHẸ** bệnh tật chứ không hết hoàn toàn.`,
+Khi có đủ các sao phúc thiện hỗ trợ, bệnh tật của đương số được giải
+trừ triệt để; lúc đau ốm dễ gặp thầy hay thuốc giỏi kịp thời, đúng
+nghĩa "gặp dữ hóa lành". Ngược lại, nếu thiếu sao phúc thiện đi cùng,
+Thiên-Địa Giải đơn thủ chỉ làm giảm nhẹ bệnh chứ không hết hoàn toàn.`,
   },
 
   {
@@ -179,22 +167,20 @@ khi có thêm Tử Vi tinh, Quang Quý, Quan Phúc, Hóa Khoa.`,
     sao: ['Thiên Giải', 'Địa Giải'],
     cung: ['Điền Trạch'],
     doUuTien: 65,
-    tomTat: `**Thiên Giải / Địa Giải tại Điền Trạch** — **KHÔNG ƯA** cung này, làm
-**HAO TÁN, GIẢM BỚT** của cải, nhà đất.
+    tomTat: `Thiên Giải hoặc Địa Giải tại Điền Trạch không được ưa, chúng
+làm hao tán và giảm bớt của cải, nhà đất của đương số. Tuy vậy mức độ
+phân tán chỉ ở mức nhẹ, không tới mức gây khó khăn cản trở cuộc sống
+hay kéo theo nợ nần chất chồng.
 
-**Mức độ:** Phân tán nhẹ, KHÔNG đến mức gây khó khăn cản trở cuộc sống,
-KHÔNG nợ nần chất chồng.
+Một lưu ý quan trọng: chủ mệnh không nên lập bàn thờ thần linh, thổ
+địa tại nơi ở hoặc cửa hàng. Lý do là Thiên-Địa Giải đã sẵn năng
+lượng "phân tán"; nếu lập thêm bàn thờ thần linh thổ địa sẽ làm hao
+tán thêm của cải.
 
-**LƯU Ý ĐẶC BIỆT - quan trọng:**
-- **KHÔNG NÊN LẬP BÀN THỜ THẦN LINH, THỔ ĐỊA** tại nơi ở, cửa hàng
-- Vì Thiên-Địa Giải đã có sẵn năng lượng "phân tán": nếu lập thêm bàn thờ
-  thần linh thổ địa sẽ làm **HAO TÁN MẤT THÊM** của cải
-
-**Mặt tích cực:**
-- Việc tích lũy bị ảnh hưởng nhưng ít vướng cảnh "nợ nần chất chồng"
-- Không có gánh nặng về nhà cửa, chỗ ở
-- Đôi khi tính tán này lại giúp **LỌC BỚT NĂNG LƯỢNG XẤU** trong nơi ở,
-  "có tán mới có tụ"`,
+Mặt tích cực của cách cục này là dù việc tích lũy bị ảnh hưởng, đương
+số ít vướng cảnh nợ nần chồng chất, không bị gánh nặng nhà cửa chỗ ở.
+Đôi khi tính tán này lại giúp lọc bớt năng lượng xấu trong nơi ở —
+đúng lẽ "có tán mới có tụ".`,
   },
 
   {
@@ -202,24 +188,23 @@ KHÔNG nợ nần chất chồng.
     title: 'Thiên-Địa Giải - Của đi thay người',
     sao: ['Thiên Giải', 'Địa Giải'],
     doUuTien: 55,
-    tomTat: `**Thiên-Địa Giải - Đặc tính "CỦA ĐI THAY NGƯỜI"** (đặc biệt khi vào hạn
-hoặc cung Tài/Phúc).
+    tomTat: `Một đặc tính quan trọng của Thiên-Địa Giải là "của đi thay
+người", thể hiện rõ nhất khi vào hạn hoặc đóng tại cung Tài Bạch /
+Phúc Đức.
 
-**Cơ chế hoạt động:**
-- Khi gặp tai họa, bệnh tật: có thể **MẤT TIỀN ĐỂ GIẢI TRỪ**
-- Đặc tính "phân tán" của Giải tinh = phương tiện hóa giải
-- Mất tiền **TRÁNH ĐƯỢC HỌA**: "của đi thay người"
+Cơ chế hoạt động: khi gặp tai họa hay bệnh tật, đương số có thể mất
+tiền để giải trừ. Đặc tính phân tán của Giải tinh trở thành phương
+tiện hóa giải — mất tiền nhưng tránh được họa, đó chính là "của đi
+thay người".
 
-**Ý nghĩa thực tế:**
-- Phàm là những thứ tiêu tốn tiền bạc để hóa giải: cách **ĐƠN GIẢN NHẤT,
-  THUẬN TIỆN NHẤT**
-- Có những thứ có tiền cũng không mua được, không giải quyết được
--: Khi có Thiên-Địa Giải vào hạn, **KHÔNG NÊN TIẾC TIỀN** để giải quyết
-  rắc rối
+Trong thực tế, mọi thứ có thể tiêu tốn tiền bạc để hóa giải đều là
+cách đơn giản và thuận tiện nhất; còn có những thứ có tiền cũng không
+mua được, không giải quyết được. Vì vậy khi Thiên-Địa Giải vào hạn,
+đương số không nên tiếc tiền để giải quyết rắc rối.
 
-**Lời khuyên:** Người có Thiên-Địa Giải ở Tài Bạch nên **CHI TIỀN LÀM
-PHÚC, TỪ THIỆN, CỨU NGƯỜI** — vừa phù hợp đặc tính sao, vừa gieo phước cho
-sau này.`,
+Lời khuyên: chủ mệnh có Thiên-Địa Giải ở Tài Bạch nên chủ động chi
+tiền làm phúc, từ thiện, cứu người — vừa phù hợp đặc tính sao, vừa
+gieo phước cho mai sau.`,
   },
 
   {
@@ -227,26 +212,21 @@ sau này.`,
     title: 'Thiên-Địa Giải vào hạn - Hai mặt cần lưu ý',
     sao: ['Thiên Giải', 'Địa Giải'],
     doUuTien: 50,
-    tomTat: `**Thiên-Địa Giải vào hạn** — hai mặt rõ rệt.
+    tomTat: `Thiên-Địa Giải vào hạn có hai mặt rất rõ rệt với đương số.
 
-**Mặt tích cực - HÓA GIẢI TAI ƯƠNG:**
-- Giải trừ bớt **TAI ÁCH, BỆNH TẬT**
-- Đang gặp bệnh có cơ hội **CHỮA KHỎI**
-- Gặp khó khăn sẽ có **NGƯỜI TƯƠNG TRỢ**
-- "Họa lớn hóa nhỏ, họa nhỏ hóa không"
+Mặt tích cực là hóa giải tai ương: tai ách, bệnh tật được giảm bớt;
+đang gặp bệnh thì có cơ hội chữa khỏi; gặp khó khăn sẽ có người tương
+trợ. Đúng lẽ "họa lớn hóa nhỏ, họa nhỏ hóa không".
 
-**Mặt cảnh báo - HAO TỔN TIỀN BẠC:**
-- Đi cùng may mắn thường là sự **HAO TỔN TIỀN BẠC, CỦA CẢI**
-- Của đi thay người
-- Càng đúng khi cung Hạn rơi vào **TÀI BẠCH, PHÚC ĐỨC**
+Mặt cảnh báo là hao tổn tiền bạc đi kèm với may mắn — của đi thay
+người. Điều này càng đúng khi cung hạn rơi vào Tài Bạch hoặc Phúc
+Đức.
 
-**Yếu tố MÔI TRƯỜNG quan trọng:**
-- Nếu sống ở nơi **TÍCH CỰC**, có người giúp đỡ, có thuốc tốt: bệnh tình
-  dễ hóa giải
-- Nếu xung quanh **TIÊU CỰC**, thiếu lực hỗ trợ: Thiên-Địa Giải cũng không
-  thể cứu giúp
-- **CHỦ ĐỘNG NẮM BẮT THỜI CƠ**, tận dụng nguồn lực bên ngoài
-- Không nên "há miệng chờ sung"`,
+Yếu tố môi trường rất quan trọng. Nếu đương số sống ở nơi tích cực,
+có người giúp đỡ, có thuốc tốt thì bệnh tình dễ hóa giải; ngược lại
+khi xung quanh tiêu cực, thiếu lực hỗ trợ thì Thiên-Địa Giải cũng
+không thể cứu giúp. Vì vậy chủ mệnh cần chủ động nắm bắt thời cơ, tận
+dụng nguồn lực bên ngoài, không nên "há miệng chờ sung".`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -259,27 +239,21 @@ sau này.`,
     sao: ['Thiên Giải'],
     cung: ['Mệnh'],
     doUuTien: 76,
-    tomTat: `**Thiên Giải thủ Mệnh** — phẩm chất tốt đẹp của một **PHÚC TINH**.
+    tomTat: `**Thiên Giải** thủ Mệnh đem lại cho đương số phẩm chất tốt đẹp
+của một phúc tinh.
 
-**Tướng mạo:**
-- Thanh tú, **NHẸ NHÀNG**
-- Dáng người **CAO RÁO**
-- Làn da **TRẮNG HỒNG**
+Tướng mạo thanh tú, dáng vẻ nhẹ nhàng, người cao ráo, làn da trắng
+hồng. Tính tình đức độ, khoan hòa, thuần hậu, giàu lòng nhân ái từ
+bi và luôn sẵn sàng giúp đỡ người khác khi gặp khó khăn — vai trò
+tương tự Thiên Quan Quý Nhân và Thiên Phúc Quý Nhân.
 
-**Tính tình:**
-- **Đức độ, khoan hòa, thuần hậu**
-- Giàu **LÒNG NHÂN ÁI, TỪ BI**
-- Luôn sẵn sàng **GIÚP ĐỠ NGƯỜI KHÁC** khi gặp khó khăn
-- Tương tự như **Thiên Quan Quý Nhân, Thiên Phúc Quý Nhân**
+Về phúc thọ, sao này giúp giải trừ bệnh tật, tai họa, tránh được
+hoặc giảm nhẹ rủi ro, đem lại tuổi thọ và những may mắn bất ngờ
+trong đời sống.
 
-**Phúc thọ:**
-- **GIẢI TRỪ BỆNH TẬT, TAI HỌA**
-- Tránh được hoặc giảm nhẹ rủi ro
-- Hưởng phúc thọ, hay gặp **MAY MẮN BẤT NGỜ**
-
-**Hạn chế:** Năng lực cứu giải **KHÔNG TRỌN VẸN** (do quy luật không
-đồng cung Địa Giải): khi gặp hoàn cảnh quá xấu, vẫn phải chịu một phần
-ảnh hưởng tiêu cực.`,
+Hạn chế cần lưu ý: năng lực cứu giải không trọn vẹn do quy luật
+không đồng cung Địa Giải; khi gặp hoàn cảnh quá xấu, đương số vẫn
+phải chịu một phần ảnh hưởng tiêu cực.`,
   },
 
   {
@@ -288,16 +262,12 @@ sau này.`,
     sao: ['Thiên Giải'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Thiên Giải tại Phụ Mẫu** — điềm lành cho cha mẹ, **TĂNG TUỔI THỌ** và gặp
-nhiều **MAY MẮN**.
+    tomTat: `**Thiên Giải** tại Phụ Mẫu là điềm lành cho cha mẹ — tăng tuổi
+thọ và gặp nhiều may mắn.
 
-**Đặc trưng:**
-- Cha mẹ **DUNG MẠO ĐẸP**
-- Tính tình **ÔN HÒA, THANH CAO**
-- Có **ĐIỀU KIỆN KINH TẾ, ĐIỀN SẢN**
-- Hay **LÀM VIỆC THIỆN**
-
-Hưởng phúc lộc cha mẹ để lại từ tài chính lẫn âm đức.`,
+Cha mẹ của đương số có dung mạo đẹp, tính tình ôn hòa thanh cao, có
+điều kiện kinh tế và điền sản, thường hay làm việc thiện. Chủ mệnh
+nhờ vậy được hưởng phúc lộc cha mẹ để lại cả về tài chính lẫn âm đức.`,
   },
 
   {
@@ -306,17 +276,14 @@ Hưởng phúc lộc cha mẹ để lại từ tài chính lẫn âm đức.`,
     sao: ['Thiên Giải'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Thiên Giải tại Phúc Đức** — dòng họ nhiều người **HIỀN LÀNH, NHÂN HẬU**,
-hay giúp đỡ lẫn nhau.
+    tomTat: `**Thiên Giải** tại cung Phúc Đức cho thấy dòng họ của đương số
+có nhiều người hiền lành, nhân hậu, hay giúp đỡ lẫn nhau. Mồ mả tổ
+tiên yên ổn; nhiều người đã siêu thoát, không còn vấn vương, tái
+sinh sang cuộc sống khác.
 
-**Đặc trưng:**
-- Mồ mả tổ tiên **YÊN ỔN**
-- Nhiều người đã **SIÊU THOÁT**, không còn vấn vương, tái sinh cuộc sống khác
-
-**Lưu ý đặc biệt - LY TÁN:**
-- Con cháu trong dòng họ thường có xu hướng **LY TÁN**
-- **MỖI NGƯỜI MỘT NƠI, MỖI NGƯỜI MỘT XỨ**, không ở gần nhau
-- Đây là đặc tính "phân tán" của Giải tinh thể hiện trên dòng họ`,
+Một điểm cần lưu ý là đặc tính ly tán của Giải tinh thể hiện trên
+dòng họ: con cháu thường ly tán, mỗi người một nơi, mỗi người một
+xứ, ít có dịp ở gần nhau.`,
   },
 
   {
@@ -325,19 +292,16 @@ hay giúp đỡ lẫn nhau.
     sao: ['Thiên Giải'],
     cung: ['Điền Trạch'],
     doUuTien: 70,
-    tomTat: `**Thiên Giải tại Điền Trạch** — **KHÔNG ĐẮC ĐỊA**.
+    tomTat: `**Thiên Giải** tại Điền Trạch không đắc địa. Đặc tính phân tán
+dễ làm hao hụt, giảm bớt của cải, nhà đất của đương số, song mức
+độ không nỗi gây khó khăn lớn.
 
-**Đặc tính phân tán:**
-- Dễ làm **HAO HỤT, GIẢM BỚT** của cải, nhà đất
-- Mức độ **KHÔNG NỖI** gây khó khăn
+Điểm sáng là việc tích lũy tài sản tuy bị ảnh hưởng nhưng chủ mệnh
+ít khi vướng cảnh nợ nần chất chồng, không có gánh nặng về nhà cửa
+hay chỗ ở.
 
-**Điểm sáng:**
-- Việc tích lũy tài sản bị ảnh hưởng
-- Nhưng ÍT KHI vướng cảnh **"NỢ NẦN CHẤT CHỒNG"**
-- Không có gánh nặng về nhà cửa, chỗ ở
-
-**LƯU Ý:** Không nên lập **BÀN THỜ THẦN LINH, THỔ ĐỊA** tại nơi ở, cửa
-hàng — dễ làm hao tán thêm.`,
+Lưu ý: đương số không nên lập bàn thờ thần linh, thổ địa tại nơi ở
+hoặc cửa hàng vì dễ làm hao tán thêm.`,
   },
 
   {
@@ -346,22 +310,17 @@ hàng — dễ làm hao tán thêm.`,
     sao: ['Thiên Giải'],
     cung: ['Quan Lộc'],
     doUuTien: 75,
-    tomTat: `**Thiên Giải tại Quan Lộc** — **MAY MẮN, THUẬN LỢI** trên con đường công danh.
+    tomTat: `**Thiên Giải** tại Quan Lộc đem lại may mắn và thuận lợi trên
+con đường công danh của đương số.
 
-**Đặc trưng:**
-- Được người khác **GIÚP ĐỠ** trong công việc
-- Dễ dàng vượt qua khó khăn
-- Việc **THI CỬ, CẦU CHỨC VỤ** hanh thông
-- Gia tăng cơ hội **CẦU BẰNG KHEN, BỔ NHIỆM**
+Chủ mệnh thường được người khác giúp đỡ trong công việc, dễ dàng
+vượt qua khó khăn; chuyện thi cử và cầu chức vụ hanh thông, cơ hội
+được khen thưởng và bổ nhiệm gia tăng.
 
-**Tính cách trong công việc:**
-- **CÔNG TÂM**, có tinh thần **XÂY DỰNG**
-- Được nhiều người **NỂ TRỌNG, QUÝ MẾN**
-
-**Hợp nghề - tính từ thiện:**
-- **THẦY THUỐC, BÁC SĨ**
-- **GIÁO VIÊN**
-- Các nghề **CỨU NGƯỜI, GIÚP NGƯỜI**`,
+Trong công việc, đương số rất công tâm, có tinh thần xây dựng nên
+được nhiều người nể trọng, quý mến. Tính từ thiện của sao khiến
+đương số hợp với những nghề cứu người, giúp người như thầy thuốc,
+bác sĩ, giáo viên.`,
   },
 
   {
@@ -370,12 +329,10 @@ hàng — dễ làm hao tán thêm.`,
     sao: ['Thiên Giải'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Thiên Giải tại Nô Bộc** — bạn bè **TỐT TÍNH, HIỀN LƯƠNG, THẬT THÀ**.
-
-**Đặc trưng:**
-- Hay được bạn bè **GIÚP ĐỠ**, đem đến **MAY MẮN VÀ TIỀN BẠC**
-- Bạn bè **ĐẮC LỰC**
-- Sẵn sàng tương trợ giúp đỡ trong lúc **HOẠN NẠN, KHÓ KHĂN**`,
+    tomTat: `**Thiên Giải** tại Nô Bộc cho thấy bạn bè của đương số đa phần
+tốt tính, hiền lương và thật thà. Chủ mệnh hay được bạn bè giúp đỡ,
+đem đến may mắn và tiền bạc; bạn bè đắc lực, sẵn sàng tương trợ
+trong lúc hoạn nạn, khó khăn.`,
   },
 
   {
@@ -384,13 +341,9 @@ hàng — dễ làm hao tán thêm.`,
     sao: ['Thiên Giải'],
     cung: ['Thiên Di'],
     doUuTien: 78,
-    tomTat: `**Thiên Giải thủ Thiên Di** — **VỊ TRÍ RẤT TỐT**.
-
-**Đặc trưng:**
-- Ra ngoài, **ĐI XA** hay gặp **MAY MẮN**
-- Được **QUÝ NHÂN PHÙ TRỢ**
-- Giúp đỡ vượt qua **HIỂM NGUY, TAI HỌA**
-- Thoát nạn dễ dàng`,
+    tomTat: `**Thiên Giải** thủ Thiên Di là một vị trí rất tốt cho đương số.
+Khi ra ngoài hay đi xa, chủ mệnh thường gặp may mắn, được quý nhân
+phù trợ và giúp đỡ vượt qua hiểm nguy, tai họa, thoát nạn dễ dàng.`,
   },
 
   {
@@ -399,18 +352,16 @@ hàng — dễ làm hao tán thêm.`,
     sao: ['Thiên Giải'],
     cung: ['Tật Ách'],
     doUuTien: 80,
-    tomTat: `**Thiên Giải thủ Tật Ách** — **VỊ TRÍ HỢP CÁCH NHẤT**, phát huy tác dụng
-mạnh mẽ nhất.
+    tomTat: `**Thiên Giải** thủ Tật Ách là vị trí hợp cách nhất, nơi sao
+phát huy tác dụng mạnh mẽ nhất với đương số.
 
-**Đặc trưng:**
-- Giúp **GIẢI TRỪ BỆNH TẬT VÀ TAI HỌA**
-- Khi đau ốm dễ gặp được **THẦY HAY, THUỐC GIỎI** cứu chữa kịp thời
+Sao giúp giải trừ bệnh tật và tai họa; khi đau ốm chủ mệnh dễ gặp
+được thầy hay thuốc giỏi cứu chữa kịp thời.
 
-**Lưu ý quan trọng:**
-- Nếu chỉ có một mình Thiên Giải **ĐƠN THỦ** (không có sao phúc thiện khác
-  hội chiếu): khả năng cứu giải chỉ ở mức **GIẢM NHẸ** bệnh tật
-- Cần thêm: Tử Vi tinh, **QUANG QUÝ, QUAN PHÚC, GIẢI THẦN, HÓA KHOA** hội
-  chiếu: mới phát huy hết khả năng`,
+Lưu ý quan trọng: nếu chỉ có một mình Thiên Giải đơn thủ mà không
+có sao phúc thiện khác hội chiếu, khả năng cứu giải chỉ ở mức giảm
+nhẹ bệnh tật. Cần thêm Tử Vi tinh, Quang Quý, Quan Phúc, Giải Thần
+hoặc Hóa Khoa hội chiếu thì sao mới phát huy hết khả năng.`,
   },
 
   {
@@ -419,24 +370,19 @@ mạnh mẽ nhất.
     sao: ['Thiên Giải'],
     cung: ['Tài Bạch'],
     doUuTien: 70,
-    tomTat: `**Thiên Giải tại Tài Bạch** — **KHÔNG ƯA**, làm **HAO TÁN TIỀN BẠC**.
+    tomTat: `**Thiên Giải** tại Tài Bạch không được ưa, đặc tính phân tán
+của sao làm hao tán tiền bạc của đương số, dù sự hao hụt không đến
+mức lâm vào cảnh nghèo khổ. Tiền vào nhiều nhưng cũng đi nhiều.
 
-**Đặc trưng:**
-- Sự hao hụt **KHÔNG ĐẾN MỨC** lâm vào cảnh nghèo khổ
-- Tiền vào nhiều nhưng cũng đi nhiều
+Bù lại, chủ mệnh rất công tâm và minh bạch trong tiền bạc — đúng
+lẽ "tiền bạc phân minh", chỉ kiếm những đồng tiền trong sạch thanh
+cao. Đương số hay chi tiền cho hoạt động từ thiện, giúp đỡ người
+khác, dùng tiền để giải trừ tai họa, bệnh tật — biết tận dụng tiền
+bạc hóa giải vận xấu theo lẽ "của đi thay người".
 
-**Tính cách về tiền bạc:**
-- Rất **CÔNG TÂM, MINH BẠCH**
-- "Tiền bạc phân minh"
-- Chỉ kiếm những đồng tiền **TRONG SẠCH, THANH CAO**
-
-**Cách dùng tiền:**
-- Hay chi tiền cho **HOẠT ĐỘNG TỪ THIỆN**, giúp đỡ người khác
-- Dùng tiền để **GIẢI TRỪ TAI HỌA, BỆNH TẬT**
-- Có khả năng dùng tiền hóa giải vận xấu - "của đi thay người"
-
-**Điểm sáng:** Ít khi phải trăn trở về vấn đề tài chính, tính phân tán
-là yếu tố cứu giải khi gặp khó khăn.`,
+Điểm sáng: đương số ít khi phải trăn trở về vấn đề tài chính, vì
+chính tính phân tán lại trở thành yếu tố cứu giải khi gặp khó
+khăn.`,
   },
 
   {
@@ -445,17 +391,12 @@ là yếu tố cứu giải khi gặp khó khăn.`,
     sao: ['Thiên Giải'],
     cung: ['Tử Tức'],
     doUuTien: 76,
-    tomTat: `**Thiên Giải tại Tử Tức** — **THUẬN LỢI** đường con cái.
+    tomTat: `**Thiên Giải** tại Tử Tức báo hiệu đường con cái thuận lợi cho
+đương số. Chủ mệnh dễ sinh con; con cái sinh ra xinh đẹp, khỏe mạnh,
+dễ nuôi, đặc biệt dễ sinh quý tử.
 
-**Đặc trưng:**
-- **DỄ SINH CON**
-- Con cái sinh ra **XINH ĐẸP, KHỎE MẠNH, DỄ NUÔI**
-- Đặc biệt **DỄ SINH QUÝ TỬ**
-
-**Tính cách con cái:**
-- **THÔNG MINH, HIỀN LÀNH, HIẾU THẢO**
-- Hay được gặp **MAY MẮN** trong cuộc sống
-- **NGHE LỜI** mẹ cha`,
+Con cái thường thông minh, hiền lành, hiếu thảo, hay gặp may mắn
+trong cuộc sống và nghe lời mẹ cha.`,
   },
 
   {
@@ -464,21 +405,16 @@ là yếu tố cứu giải khi gặp khó khăn.`,
     sao: ['Thiên Giải'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Thiên Giải tại Phu Thê** — dấu hiệu của một **HÔN NHÂN TỐT ĐẸP**.
+    tomTat: `**Thiên Giải** tại Phu Thê là dấu hiệu của một hôn nhân tốt
+đẹp. Vợ chồng đương số hòa hợp, "xứng đôi vừa lứa"; quá trình cưới
+xin diễn ra dễ dàng, suôn sẻ.
 
-**Đặc trưng:**
-- Vợ chồng **HÒA HỢP, "XỨNG ĐÔI VỪA LỨA"**
-- Quá trình **CƯỚI XIN DỄ DÀNG, SUÔN SẺ**
+Người hôn phối thanh cao, tốt tính, thích làm việc thiện và được
+hưởng nhiều may mắn.
 
-**Người hôn phối:**
-- **THANH CAO, TỐT TÍNH**
-- Thích **LÀM VIỆC THIỆN**
-- Được hưởng nhiều **MAY MẮN**
-
-**Cảnh báo nhỏ:**
-- Vợ chồng tính khí có thể **THẤT THƯỜNG**
-- "Sớm nắng chiều mưa, giữa trưa phập phù"
-- Cần biết nhường nhịn, chia sẻ`,
+Một cảnh báo nhỏ là tính khí vợ chồng có thể thất thường — "sớm
+nắng chiều mưa, giữa trưa phập phù", đôi bên cần biết nhường nhịn
+và chia sẻ.`,
   },
 
   {
@@ -487,12 +423,9 @@ là yếu tố cứu giải khi gặp khó khăn.`,
     sao: ['Thiên Giải'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Thiên Giải tại Huynh Đệ** — anh chị em **HIỀN LÀNH, TỐT BỤNG**.
-
-**Đặc trưng:**
-- Sống **HÒA THUẬN**
-- Hay **GIÚP ĐỠ LẪN NHAU**
-- Thường gặp **MAY MẮN**
-- Bệnh tật, tai họa trong cuộc sống được **GIẢM TRỪ**`,
+    tomTat: `**Thiên Giải** tại Huynh Đệ cho thấy anh chị em của đương số
+hiền lành, tốt bụng, sống hòa thuận và hay giúp đỡ lẫn nhau. Anh
+chị em thường gặp may mắn; bệnh tật và tai họa trong cuộc sống
+được giảm trừ.`,
   },
 ];

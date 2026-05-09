@@ -18,40 +18,25 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
     title: 'Thiên La - Đặc tính chung',
     sao: ['Thiên La'],
     doUuTien: 32,
-    tomTat: `**Thiên La** — phụ tinh **ÁM TINH**, mang ý nghĩa **TRÓI BUỘC, TRỞ NGẠI, KHỐN
-ĐỐN**.
+    tomTat: `**Thiên La** là phụ tinh thuộc ám tinh, ngũ hành Thổ, hóa khí là
+ám tinh, mang ý nghĩa trói buộc, trở ngại và khốn đốn. Sao này luôn cố
+định tại cung Thìn.
 
-**Ngũ hành:** **Thổ**.
+Hình tượng của Thiên La là "lưới trời lồng lộng, tuy thưa mà khó thoát".
+Sao mang đặc tính tù hãm, khốn đốn, trở ngại và khó khăn — như vòng kiềm
+tỏa quanh đương số, tạo cảm giác bị kìm hãm và gặp nhiều khó khăn trong
+công việc cũng như cuộc sống.
 
-**Hóa khí:** **Ám Tinh**.
+Bản chất sao này có hai mặt rõ rệt. Khi đương số làm việc chính nghĩa, dù
+khởi đầu khó khăn cũng được ông trời trợ giúp, cuối cùng gặt hái thành
+quả. Ngược lại, khi đương số làm việc trái đạo, sao Thiên La giống như
+"sa chân vào bùn lầy" — càng vùng vẫy lại càng mắc sâu.
 
-**Vị trí:** **LUÔN cố định tại cung THÌN**.
-
-**Hình tượng:** **LƯỚI TRỜI lồng lộng, tuy thưa mà khó thoát**.
-
-**Đặc tính:**
-- **TÙ HÃM, KHỐN ĐỐN, TRỞ NGẠI, KHÓ KHĂN**
-- Vòng **KIỀM TỎA** quanh chủ mệnh
-- Cảm giác bị **KÌM HÃM**
-- Gặp nhiều khó khăn trong **CÔNG VIỆC và CUỘC SỐNG**
-
-**Bản chất hai mặt:**
-- Làm việc **CHÍNH NGHĨA**: dù khởi đầu khó cũng được **ÔNG TRỜI TRỢ GIÚP**,
-  cuối cùng **GẶT HÁI THÀNH QUẢ**
-- Làm việc **TRÁI ĐẠO**: "**SA CHÂN VÀO BÙN LẦY**", càng vùng vẫy càng mắc sâu
-
-**Tình duyên:**
-- Một khi đã yêu thì **KHÓ DỨT**
-- Rời bỏ rồi vẫn **ĐAU ĐÁU NHỚ THƯƠNG**
-
-**Phúc thọ:**
-- Dễ bị **BỆNH LÂU DÀI**
-- Phải **CHẠY CHỮA KHẮP NƠI**
-- Lạc vào **MÊ TÍN DỊ ĐOAN** khiến "**TIỀN MẤT TẬT MANG**"
-
-**Tài lộc:**
-- Việc kiếm tiền **KHÓ KHĂN**
-- Lúc nào cũng có "**LƯỚI TRỜI**" giăng ra chờ sập bẫy`,
+Trong tình duyên, một khi đã yêu thì đương số khó dứt; rời bỏ rồi vẫn đau
+đáu nhớ thương. Về phúc thọ, đương số dễ bị bệnh lâu dài, phải chạy chữa
+khắp nơi, có khi lạc vào mê tín dị đoan khiến "tiền mất tật mang". Việc
+kiếm tiền cũng khó khăn vì lúc nào cũng có "lưới trời" giăng ra chờ sập
+bẫy.`,
   },
 
   {
@@ -60,12 +45,10 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
     sao: ['Thiên La'],
     chi: ['Thìn'],
     doUuTien: 35,
-    tomTat: `**Thiên La** luôn **CỐ ĐỊNH tại cung Thìn**.
-
-**Quy luật vị trí:**
-- Thiên La cố định tại **Thìn = LƯỚI TRỜI**
-- Đối cung là vị trí Địa Võng (Lưới Đất) — tạo thành **TRỤC LƯỚI TRỜI**
-- Đây là **vị trí ĐẶC BIỆT** chứa nhiều ràng buộc, nghiệp duyên`,
+    tomTat: `Thiên La luôn cố định tại cung Thìn. Theo quy luật vị trí, Thiên
+La đóng tại Thìn tượng trưng cho lưới trời, đối cung là vị trí Địa Võng
+(lưới đất), tạo thành trục lưới trời. Đây là vị trí đặc biệt chứa nhiều
+ràng buộc và nghiệp duyên.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -78,22 +61,16 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
     sao: ['Thiên La'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Thiên La tại Mệnh** — chủ sự **RÀNG BUỘC, BẾ TẮC**.
+    tomTat: `Khi Thiên La tại Mệnh, đương số chịu sự ràng buộc và bế tắc.
+Đương số thông minh, có tài xoay xở và tính toán giỏi, nhưng công việc
+lại hay bị cản trở, ràng buộc và vướng rắc rối.
 
-**Đặc trưng:**
-- **THÔNG MINH, có TÀI XOAY XỞ, TÍNH TOÁN GIỎI**
-- Công việc lại hay bị **CẢN TRỞ, RÀNG BUỘC, VƯỚNG RẮC RỐI**
+Điều quan trọng là trở ngại không hẳn đến từ ngoại cảnh, mà chính từ nội
+tâm đương số. Đương số có xu hướng suy nghĩ ngược với quy luật tự nhiên,
+hành động trái đạo lý, rồi cảm thấy mình đen đủi và ông trời không thương
+— thực chất đang tự tạo ra cái bẫy cho chính mình.
 
-**Nguyên nhân (quan trọng):**
-- Trở ngại **KHÔNG hẳn do NGOẠI CẢNH**
-- Mà chính từ **NỘI TÂM** đương số
-- Có xu hướng **SUY NGHĨ NGƯỢC VỚI QUY LUẬT TỰ NHIÊN**
-- **HÀNH ĐỘNG TRÁI ĐẠO LÝ**
-- Thấy mình **ĐEN ĐỦI, ÔNG TRỜI KHÔNG THƯƠNG**
-- Thực chất đang **TỰ TẠO RA CÁI BẪY** cho mình
-
-**Ví như chiếc lưới trời:**
-- Dễ **SA VÀO CÁM DỖ, PHẠM SAI LẦM**`,
+Ví như chiếc lưới trời, đương số dễ sa vào cám dỗ và phạm sai lầm.`,
   },
 
   {
@@ -103,14 +80,11 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
     cung: ['Mệnh'],
     ketHop: ['Kình Dương', 'Đà La', 'Thiên Hình', 'Thiên Khốc', 'Thiên Hư', 'Tang Môn', 'Bạch Hổ', 'Đại Hao', 'Tiểu Hao'],
     doUuTien: 60,
-    tomTat: `**Thiên La + Kình Đà + Thiên Hình + Khốc Hư Tang Bạch Hổ Song Hao tại Mệnh**
-— "**SA CHÂN VÀO BÙN LẦY**".
-
-**Đặc trưng:**
-- Vướng vào **LAO LÝ, TỐ TỤNG**
-- Thậm chí "**THÂN BẠI DANH LIỆT**"
-- Càng vùng vẫy càng **MẮC SÂU**
-- Cảnh báo nguy hiểm cao về pháp luật`,
+    tomTat: `Khi Thiên La tại Mệnh hội cùng Kình Dương, Đà La, Thiên Hình,
+Thiên Khốc, Thiên Hư, Tang Môn, Bạch Hổ và Song Hao, đương số rơi vào cảnh
+"sa chân vào bùn lầy". Đương số dễ vướng vào lao lý, tố tụng, thậm chí
+"thân bại danh liệt" — càng vùng vẫy càng mắc sâu. Đây là cảnh báo nguy
+hiểm cao về pháp luật.`,
   },
 
   {
@@ -120,14 +94,11 @@ export const luanGiai_ThienLa: DoanLuanGiai[] = [
     cung: ['Mệnh'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Ân Quang', 'Thiên Quý', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 65,
-    tomTat: `**Thiên La + Tả Hữu + Quang Quý + Khôi Việt tại Mệnh** — "**TRONG HỌA CÓ
-PHÚC**".
-
-**Đặc trưng:**
-- Ràng buộc **HÓA THÀNH TRÁCH NHIỆM, NGHĨA VỤ**
-- Giúp chủ mệnh sống **ĐÚNG ĐẮN, CÓ ĐẠO NGHĨA**
-- **BIẾT TRƯỚC BIẾT SAU**
-- Lưới trời thành **VÒNG TAY CHE CHỞ**`,
+    tomTat: `Khi Thiên La tại Mệnh hội cùng **Tả Phù**, Hữu Bật, Ân Quang,
+Thiên Quý, Thiên Khôi và Thiên Việt, lá số rơi vào cảnh "trong họa có
+phúc". Sự ràng buộc của Thiên La hóa thành trách nhiệm và nghĩa vụ, giúp
+đương số sống đúng đắn, có đạo nghĩa, biết trước biết sau. Lưới trời nay
+trở thành vòng tay che chở.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -140,16 +111,16 @@ PHÚC**".
     sao: ['Thiên La'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Thiên La tại Phụ Mẫu** — nhân duyên gắn chặt với cha mẹ.
+    tomTat: `Khi Thiên La tại Phụ Mẫu, nhân duyên gắn chặt giữa đương số và
+cha mẹ — đúng như câu "đời cha ăn mặn, đời con khát nước".
 
-**Đặc trưng:**
-- "**ĐỜI CHA ĂN MẶN, ĐỜI CON KHÁT NƯỚC**"
-- Có cát tinh đi cùng: là **TRÁCH NHIỆM, ƠN NGHĨA TRUYỀN ĐỜI**
-- Con cái được thừa hưởng **PHÚC ẤM, GIA SẢN** hoặc **DÌU DẮT của GIA TIÊN**
+Khi có cát tinh đi cùng, ràng buộc này lại là trách nhiệm và ơn nghĩa
+truyền đời; đương số được thừa hưởng phúc ấm, gia sản hoặc sự dìu dắt
+của gia tiên.
 
-**Đồng cung Kình Dương, Đà La, Không Kiếp, Hỏa Linh:**
-- Dễ xảy ra cảnh **XUNG KHẮC, BẠO LỰC GIA ĐÌNH**
-- Con cái nên **RỜI XA** bố mẹ từ sớm để phát triển tốt hơn`,
+Khi đồng cung Kình Dương, Đà La, Địa Không, Địa Kiếp, Hỏa Tinh hay Linh
+Tinh, gia đình dễ xảy ra cảnh xung khắc, bạo lực gia đình; đương số nên
+rời xa bố mẹ từ sớm để phát triển tốt hơn.`,
   },
 
   {
@@ -158,20 +129,15 @@ PHÚC**".
     sao: ['Thiên La'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Thiên La tại Phúc Đức** — tượng trưng **CÁI LƯỚI TRÓI BUỘC vào NGHIỆP HỌ
-HÀNG**.
+    tomTat: `Khi Thiên La tại Phúc Đức, sao này tượng trưng cho cái lưới
+trói buộc đương số vào nghiệp họ hàng. Đương số khó thoát khỏi ảnh hưởng
+dòng tộc và phải gánh nghiệp tổ tiên.
 
-**Đặc trưng:**
-- Khó **THOÁT KHỎI ẢNH HƯỞNG DÒNG TỘC**
-- Phải **GÁNH NGHIỆP TỔ TIÊN**
+Nếu Thiên La đi cùng Kình Dương, Đà La, Địa Không, Địa Kiếp, Hỏa Tinh hay
+Linh Tinh, sự ứng nghiệm càng mạnh, nghiệp dòng tộc càng nặng nề.
 
-**Đi cùng Kình Đà, Không Kiếp, Hỏa Linh:**
-- Càng **ỨNG NGHIỆM** mạnh
-- Nghiệp dòng tộc **NẶNG NỀ**
-
-**Đi cùng cát tinh:**
-- Nghiệp **NHẸ HÓA THÀNH PHÚC**
-- Vẫn giữ được **GẮN BÓ GIA TỘC**`,
+Ngược lại, khi đi cùng cát tinh, nghiệp được hóa nhẹ thành phúc; đương số
+vẫn giữ được sự gắn bó với gia tộc.`,
   },
 
   {
@@ -180,14 +146,12 @@ HÀNG**.
     sao: ['Thiên La'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Thiên La tại Điền Trạch** — đương số gặp nhiều **SÓNG GIÓ liên quan ĐẤT
-ĐAI, NHÀ CỬA**.
+    tomTat: `Khi Thiên La tại Điền Trạch, đương số gặp nhiều sóng gió liên
+quan đến đất đai và nhà cửa.
 
-**Hội cùng cát tinh - hóa giải:**
-- Có khả năng **HÓA GIẢI NGHIỆP**
-- Biết **CHĂM LO DỌN DẸP** nhà cửa
-- Tạo môi trường sống **TỐT LÀNH**
-- Vận nhà **YÊN ỔN**, đời sống **HƯNG THỊNH**`,
+Khi hội cùng cát tinh, đương số có khả năng hóa giải nghiệp, biết chăm lo
+dọn dẹp nhà cửa, tạo môi trường sống tốt lành; vận nhà yên ổn và đời sống
+hưng thịnh.`,
   },
 
   {
@@ -197,7 +161,8 @@ HÀNG**.
     ketHop: ['Hỏa Tinh'],
     cung: ['Điền Trạch'],
     doUuTien: 70,
-    tomTat: `**Thiên La + Hỏa Tinh tại Điền Trạch:** dễ xảy ra **CHÁY NỔ**.`,
+    tomTat: `Khi Thiên La hội cùng Hỏa Tinh tại Điền Trạch, nhà cửa của
+đương số dễ xảy ra cháy nổ.`,
   },
 
   {
@@ -207,7 +172,8 @@ HÀNG**.
     ketHop: ['Linh Tinh'],
     cung: ['Điền Trạch'],
     doUuTien: 70,
-    tomTat: `**Thiên La + Linh Tinh tại Điền Trạch:** dễ xảy ra **CHÁY NỔ**.`,
+    tomTat: `Khi Thiên La hội cùng Linh Tinh tại Điền Trạch, nhà cửa của
+đương số dễ xảy ra cháy nổ.`,
   },
 
   {
@@ -217,8 +183,8 @@ HÀNG**.
     ketHop: ['Địa Không'],
     cung: ['Điền Trạch'],
     doUuTien: 70,
-    tomTat: `**Thiên La + Địa Không tại Điền Trạch:** đề phòng **BÃO LŨ,
-THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
+    tomTat: `Khi Thiên La hội cùng Địa Không tại Điền Trạch, đương số cần
+đề phòng bão lũ, thiên tai hoặc cảnh mắc kẹt ngay trong nhà.`,
   },
 
   {
@@ -228,8 +194,8 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     ketHop: ['Địa Kiếp'],
     cung: ['Điền Trạch'],
     doUuTien: 70,
-    tomTat: `**Thiên La + Địa Kiếp tại Điền Trạch:** đề phòng **BÃO LŨ,
-THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
+    tomTat: `Khi Thiên La hội cùng Địa Kiếp tại Điền Trạch, đương số cần
+đề phòng bão lũ, thiên tai hoặc cảnh mắc kẹt ngay trong nhà.`,
   },
 
   {
@@ -238,18 +204,14 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     sao: ['Thiên La'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Thiên La tại Quan Lộc** — chính là "**TRỌNG TRÁCH TRỜI BAN**".
+    tomTat: `Khi Thiên La tại Quan Lộc, đương số được giao "trọng trách trời
+ban". Khi đương số làm việc chính nghĩa, khởi đầu tuy khó khăn nhưng được
+ông trời trợ giúp; cuối cùng gặt hái thành quả. Điều này càng đúng khi
+Thiên La kết hợp với Tả Phù, Hữu Bật, Thiên Khôi và Thiên Việt.
 
-**Đặc trưng:**
-- Làm việc **CHÍNH NGHĨA**: khởi đầu khó nhưng được **ÔNG TRỜI TRỢ GIÚP**
-- Cuối cùng **GẶT HÁI THÀNH QUẢ**
-- Càng đúng khi kết hợp **TẢ HỮU - KHÔI VIỆT**
-
-**Cảnh báo:**
-- Gặp **KÌNH ĐÀ - HÌNH - TANG MÔN**:
-  - Dễ bị cuốn vào công việc **PHI PHÁP, TRÁI ĐẠO LÝ**
-  - "**MỘT BƯỚC LẦM, MUÔN ĐỜI DẠI**"
-  - Khó có thể **QUAY ĐẦU**`,
+Cảnh báo: nếu Thiên La gặp Kình Dương, Đà La, Thiên Hình hay Tang Môn,
+đương số dễ bị cuốn vào công việc phi pháp, trái đạo lý — đúng cảnh "một
+bước lầm, muôn đời dại", khó có thể quay đầu.`,
   },
 
   {
@@ -259,13 +221,10 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     cung: ['Quan Lộc'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 70,
-    tomTat: `**Thiên La + Tả Hữu + Khôi Việt tại Quan Lộc** — trọng trách trời ban được
-**TRỢ LỰC**.
-
-**Đặc trưng:**
-- Làm chính nghĩa: khởi đầu khó cũng **THÀNH CÔNG**
-- Có **QUÝ NHÂN PHÒ TÁ**
-- **ĐƯỢC ĐỀN ĐÁP** xứng đáng`,
+    tomTat: `Khi Thiên La tại Quan Lộc hội cùng **Tả Phù**, Hữu Bật, Thiên
+Khôi và Thiên Việt, trọng trách trời ban được trợ lực. Đương số làm việc
+chính nghĩa, khởi đầu tuy khó nhưng vẫn thành công, có quý nhân phò tá và
+được đền đáp xứng đáng.`,
   },
 
   {
@@ -274,17 +233,13 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     sao: ['Thiên La'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Thiên La tại Nô Bộc** — chủ mệnh dễ **VƯỚNG HỌA VÌ BẠN BÈ**.
+    tomTat: `Khi Thiên La tại Nô Bộc, đương số dễ vướng họa vì bạn bè. Nếu
+kết giao lầm bạn, đương số bị lợi dụng làm việc sai trái, từ vô tình
+trở thành đồng phạm — đặc biệt khi gặp Địa Kiếp, Phục Binh, Song Hao và
+Đà La.
 
-**Cảnh báo:**
-- Kết giao **LẦM BẠN**: bị **LỢI DỤNG** làm việc sai trái
-- Từ **VÔ TÌNH thành ĐỒNG PHẠM**
-- Đặc biệt khi gặp **ĐỊA KIẾP, PHỤC BINH, SONG HAO, ĐÀ LA**
-
-**Hội cùng cát tinh:**
-- Bạn bè trở thành **SỰ RÀNG BUỘC TỐT**
-- Đôi bên **HỖ TRỢ NHAU**
-- Mang **LỢI ÍCH THIẾT THỰC**`,
+Khi hội cùng cát tinh, bạn bè trở thành sự ràng buộc tốt; đôi bên hỗ trợ
+nhau và mang lại lợi ích thiết thực.`,
   },
 
   {
@@ -293,20 +248,16 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     sao: ['Thiên La'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Thiên La tại Thiên Di** — hình tượng "**TIẾN THOÁI LƯỠNG NAN**".
+    tomTat: `Khi Thiên La tại Thiên Di, hình tượng nổi bật là "tiến thoái
+lưỡng nan". Đương số ra ngoài gặp cản trở, muốn đi chẳng được, muốn về
+không xong.
 
-**Đặc trưng:**
-- Ra ngoài gặp **CẢN TRỞ**
-- **MUỐN ĐI CHẲNG ĐƯỢC, MUỐN VỀ KHÔNG XONG**
+Khi kết hợp Kình Dương hay Thiên Hình, đương số phải đề phòng tai nạn,
+nhất là tai nạn giao thông.
 
-**Kết hợp Kình Dương, Thiên Hình:**
-- Phải **ĐỀ PHÒNG TAI NẠN**
-- Nhất là **GIAO THÔNG**
-
-**Có Tả Hữu trợ lực:**
-- Trách nhiệm bên ngoài hóa thành **CƠ HỘI**
-- Hoàn thành xong nhiệm vụ: **HƯỞNG THÀNH QUẢ**
-- Được **KÍNH TRỌNG, NỂ PHỤC**`,
+Khi có **Tả Phù** và Hữu Bật trợ lực, trách nhiệm bên ngoài hóa thành cơ
+hội; hoàn thành xong nhiệm vụ, đương số được hưởng thành quả và được
+người ngoài kính trọng, nể phục.`,
   },
 
   {
@@ -315,19 +266,15 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     sao: ['Thiên La'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Thiên La tại Tật Ách** — chủ nhân lá số dễ bị **BỆNH LÂU DÀI**.
+    tomTat: `Khi Thiên La tại Tật Ách, đương số dễ bị bệnh lâu dài, phải
+chạy chữa khắp nơi và có khi lạc vào mê tín dị đoan, khiến "tiền mất tật
+mang".
 
-**Đặc trưng:**
-- **CHẠY CHỮA KHẮP NƠI**
-- Lạc vào **MÊ TÍN DỊ ĐOAN** khiến "**TIỀN MẤT TẬT MANG**"
+Đáng chú ý, khi kết hợp Địa Không, Địa Kiếp, Hỏa Tinh hay Linh Tinh, bệnh
+dễ trở thành nan y.
 
-**Đáng chú ý - kết hợp Không Kiếp, Hỏa Linh:**
-- Dễ thành **BỆNH NAN Y**
-
-**Hóa giải:**
-- Hiểu rằng đó là **NGHIỆP THÂN PHẢI TRẢ**
-- Sống **TÍCH PHÚC, LÀM LÀNH**
-- Bệnh có thể **GIẢM**, họa có thể **TIÊU**`,
+Để hóa giải, đương số cần hiểu rằng đó là nghiệp thân phải trả; sống
+tích phúc, làm lành thì bệnh có thể giảm và họa có thể tiêu.`,
   },
 
   {
@@ -336,17 +283,16 @@ THIÊN TAI** hoặc cảnh **MẮC KẸT NGAY TRONG NHÀ**.`,
     sao: ['Thiên La'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Thiên La tại Tài Bạch** — luôn phải **CẨN TRỌNG** việc kiếm tiền vì lúc
-nào cũng có "**LƯỚI TRỜI giăng ra chờ sập bẫy**".
+    tomTat: `Khi Thiên La tại Tài Bạch, đương số luôn phải cẩn trọng trong
+việc kiếm tiền vì lúc nào cũng có "lưới trời" giăng ra chờ sập bẫy.
 
-**Cách hành xử đúng:**
-- Phải **LÀM ĂN CHÂN CHÍNH**
-- Dù khó khăn cũng **KHÔNG VI PHẠM ĐẠO ĐỨC, TÔN CHỈ**
-- Đi đúng đường: **TIỀN ÍT NHƯNG BỀN, NGHÈO MÀ YÊN**
+Cách hành xử đúng là làm ăn chân chính; dù khó khăn cũng không vi phạm
+đạo đức và tôn chỉ. Đi đúng đường, đương số có thể tiền ít nhưng bền,
+nghèo mà yên.
 
-**Cảnh báo - sa vào đường tắt:**
-- Gặp thêm **SÁT - KỴ - HÌNH**: "**MỘT PHÚT HUY HOÀNG, NGÀN NĂM KHỔ LỤY**"
-- Một phút kiếm tiền **DỄ DÀNG** mà cả cuộc đời gặp **KHÓ KHĂN**`,
+Cảnh báo: nếu sa vào đường tắt, gặp thêm sát tinh, Hóa Kỵ hay Thiên Hình,
+đương số rơi vào cảnh "một phút huy hoàng, ngàn năm khổ lụy" — một phút
+kiếm tiền dễ dàng đổi lấy cả cuộc đời gặp khó khăn.`,
   },
 
   {
@@ -355,20 +301,14 @@ nào cũng có "**LƯỚI TRỜI giăng ra chờ sập bẫy**".
     sao: ['Thiên La'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Thiên La tại Tử Tức** — sợi dây **NỢ NGHIỆP với CON CÁI**.
+    tomTat: `Khi Thiên La tại Tử Tức, đương số có sợi dây nợ nghiệp với con
+cái. Con làm sai thì cha mẹ chịu, con đau ốm thì cha mẹ phải lo lắng,
+con hư hỏng thì cha mẹ khó làm ăn.
 
-**Đặc trưng:**
-- Con làm sai: **CHA MẸ CHỊU**
-- Con đau ốm: **CHA MẸ PHẢI LO LẮNG**
-- Con hư hỏng: **CHA MẸ KHÓ LÀM ĂN**
+Khi hội cát tinh, nợ trở thành duyên — con cái ngoan hiền.
 
-**Hội cát tinh:**
-- Nợ trở thành **DUYÊN**
-- Con cái **NGOAN HIỀN**
-
-**Gặp Sát - Kỵ - Hình:**
-- **CHA MẸ KHỔ VÌ CON**
-- **MUỐN THOÁT cũng CHẲNG THỂ**`,
+Khi gặp sát tinh, Hóa Kỵ hay Thiên Hình, cha mẹ khổ vì con, muốn thoát
+cũng chẳng thể.`,
   },
 
   {
@@ -377,19 +317,14 @@ nào cũng có "**LƯỚI TRỜI giăng ra chờ sập bẫy**".
     sao: ['Thiên La'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Thiên La tại Phu Thê** — tạo ra mối tình **NẶNG DUYÊN NỢ**.
+    tomTat: `Khi Thiên La tại Phu Thê, đương số tạo ra mối tình nặng duyên
+nợ. Một khi đã yêu thì khó dứt; rời bỏ rồi vẫn đau đáu nhớ thương.
 
-**Đặc trưng:**
-- Một khi đã yêu thì **KHÓ DỨT**
-- Rời bỏ rồi vẫn **ĐAU ĐÁU NHỚ THƯƠNG**
+Khi gặp sát tinh, Hóa Kỵ hay Thiên Hình, tình duyên khổ lụy; chia tay có
+cảm giác như "chết đi sống lại".
 
-**Gặp Sát - Kỵ - Hình:**
-- Tình duyên **KHỔ LỤY**
-- Chia tay có cảm giác như "**CHẾT ĐI SỐNG LẠI**"
-
-**Có cát tinh Văn Xương Văn Khúc, Tả Hữu trợ lực:**
-- Tình duyên **GẮN KẾT VÌ NGHĨA TÌNH**
-- Không phải do **NGHIỆP XẤU**`,
+Khi có cát tinh như Văn Xương, Văn Khúc, **Tả Phù**, Hữu Bật trợ lực, tình
+duyên gắn kết vì nghĩa tình chứ không phải do nghiệp xấu.`,
   },
 
   {
@@ -398,17 +333,13 @@ nào cũng có "**LƯỚI TRỜI giăng ra chờ sập bẫy**".
     sao: ['Thiên La'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Thiên La tại Huynh Đệ** — anh chị em có **MỐI QUAN HỆ THÂN THIẾT** kể cả
-khi đã trưởng thành.
+    tomTat: `Khi Thiên La tại Huynh Đệ, anh chị em của đương số có mối quan
+hệ thân thiết kể cả khi đã trưởng thành.
 
-**Hội Tả Hữu, Khôi Việt:**
-- Anh em **THƯỜNG XUYÊN TỤ HỌP**
-- **GIÚP ĐỠ NHAU**
-- Sống với nhau **VÌ TÌNH NGHĨA**
+Khi hội Tả Phù, Hữu Bật, Thiên Khôi và Thiên Việt, anh em thường xuyên
+tụ họp, giúp đỡ nhau và sống với nhau vì tình nghĩa.
 
-**Đi cùng Kình Đà:**
-- Anh em dễ xảy ra **TRANH CHẤP LỢI ÍCH**
-- Nhất là chuyện **GIA SẢN, THỪA KẾ**
-- Tình cảm **RẠN NỨT**`,
+Khi đi cùng Kình Dương và Đà La, anh em dễ xảy ra tranh chấp lợi ích —
+nhất là chuyện gia sản và thừa kế — khiến tình cảm rạn nứt.`,
   },
 ];

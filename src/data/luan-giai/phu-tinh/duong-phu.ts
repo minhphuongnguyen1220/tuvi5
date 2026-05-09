@@ -17,37 +17,24 @@ export const luanGiai_DuongPhu: DoanLuanGiai[] = [
     title: 'Đường Phù - Đặc tính chung',
     sao: ['Đường Phù'],
     doUuTien: 32,
-    tomTat: `**Đường Phù** — phụ tinh **CÁT TINH + QUÝ TINH**, ví như "**LÁ BÙA MAY MẮN**"
-cho công danh và tài lộc.
+    tomTat: `**Đường Phù** thuộc nhóm phụ tinh cát tinh kiêm quý tinh, ngũ hành
+Mộc, được ví như "lá bùa may mắn" cho công danh và tài lộc của đương số.
 
-**Ngũ hành:** **Mộc**.
+Đặc tính nổi bật của sao là sự thanh tịnh, cao sang, đi kèm trí tuệ; công
+danh và sự nghiệp đều có triển vọng. Đường Phù có lợi cả cho công danh, điền
+sản lẫn tài lộc.
 
-**Hóa khí:** **Cát Tinh + Quý Tinh**.
+Dù chỉ là phụ tinh, Đường Phù có khả năng cứu giải đáng kể: xoay chuyển vận
+mệnh, biến nguy thành an, gia tăng may mắn và tài lộc cho đương số.
 
-**Đặc tính:**
-- **THANH TỊNH, CAO SANG**
-- Có **TRÍ TUỆ**
-- **CÔNG DANH và SỰ NGHIỆP TRIỂN VỌNG**
-- Có lợi cho **CÔNG DANH - ĐIỀN SẢN - TÀI LỘC**
+Về sự nghiệp, sao này hợp với những công việc trí óc, quản lý, đòi hỏi hình
+ảnh chỉn chu, đặc biệt phù hợp với môi trường công quyền và chính phủ.
 
-**Khả năng cứu giải:**
-- Dù là **PHỤ TINH** nhưng có khả năng **CỨU GIẢI**
-- **XOAY CHUYỂN VẬN MỆNH**, **BIẾN NGUY THÀNH AN**
-- Gia tăng **MAY MẮN, TÀI LỘC**
+Về duyên vận, vợ chồng gắn kết chặt chẽ; bạn đời thường có năng lực và phẩm
+chất tốt, được nhiều người nể trọng.
 
-**Sự nghiệp:**
-- Hợp công việc **TRÍ ÓC, QUẢN LÝ**
-- Đòi hỏi **HÌNH ẢNH CHỈN CHU**
-- Phù hợp **CÔNG QUYỀN, CHÍNH PHỦ**
-
-**Duyên vận:**
-- Vợ chồng **GẮN KẾT CHẶT CHẼ**
-- Bạn đời **NĂNG LỰC + PHẨM CHẤT TỐT**, được nhiều người **NỂ TRỌNG**
-
-**Phúc thọ:**
-- **GIẢM TÍNH TÁC HỌA của BỆNH TẬT**
-- Tránh được **NHIỀU BỆNH CÙNG LÚC**
-- Ốm đau ắt **CÓ CÁCH CHỮA**`,
+Về phúc thọ, Đường Phù giúp giảm tính tác họa của bệnh tật, tránh được tình
+trạng nhiều bệnh cùng lúc; khi ốm đau, đương số ắt có cách chữa.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -60,23 +47,16 @@ cho công danh và tài lộc.
     sao: ['Đường Phù'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Đường Phù tại Mệnh** — chủ về **DANH VỊ, HỌC RỘNG, HIỂU BIẾT**.
+    tomTat: `Khi **Đường Phù** tọa thủ Mệnh, đương số chủ về danh vị, học rộng
+và hiểu biết. Phong thái đạo mạo, đĩnh ngộ, uy nghi, đường hoàng và bệ vệ.
 
-**Phong thái:**
-- **ĐẠO MẠO, ĐĨNH NGỘ**
-- **PHONG THÁI UY NGHI, ĐƯỜNG HOÀNG, BỆ VỆ**
+Là quý tinh, Đường Phù có lợi cho việc học hành và khoa cử. Đương số thông
+minh, học rộng, có khoa bảng bằng cấp; nếu làm trong các cơ quan, đơn vị, tổ
+chức thì có cơ hội thăng tiến và nắm chức vụ cao.
 
-**Học hành - khoa cử:**
-- Quý tinh: có lợi cho **HỌC HÀNH, KHOA CỬ**
-- **THÔNG MINH, HỌC RỘNG**
-- Có **KHOA BẢNG, BẰNG CẤP**
-- Làm trong **CƠ QUAN, ĐƠN VỊ, TỔ CHỨC**: cơ hội **THĂNG TIẾN, NẮM CHỨC
-  VỤ CAO**
-
-**Tâm lý:**
-- Thích công việc **NHẸ NHÀNG, NHÀN HẠ**
-- Không muốn **LAO ĐỘNG VẤT VẢ**
-- Muốn **KIẾM TIỀN NHANH, LÀM GIÀU MỘT SỚM MỘT CHIỀU**`,
+Về tâm lý, đương số thích những công việc nhẹ nhàng, nhàn hạ, không muốn lao
+động vất vả; thường có xu hướng muốn kiếm tiền nhanh, làm giàu một sớm một
+chiều.`,
   },
 
   {
@@ -86,13 +66,10 @@ cho công danh và tài lộc.
     cung: ['Mệnh'],
     ketHop: ['Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Thiên Hình'],
     doUuTien: 60,
-    tomTat: `**Đường Phù + sát bại tinh tại Mệnh** — trở thành **LIỀU LĨNH, GIAN TRÁ**.
-
-**Cảnh báo:**
-- Vì muốn **KIẾM TIỀN NHANH**
-- Trở thành người **LIỀU LĨNH, GIAN TRÁ**
-- Làm việc **BẤT NHÂN, PHI NGHĨA**
-- Đạt mục đích **NHANH CHÓNG** bằng mọi giá`,
+    tomTat: `Khi Đường Phù tại Mệnh gặp sát bại tinh như Kình Dương, Đà La, Địa
+Không, Địa Kiếp, Hóa Kỵ hay Thiên Hình, vì muốn kiếm tiền nhanh, đương số
+trở thành người liều lĩnh, gian trá, sẵn sàng làm những việc bất nhân phi
+nghĩa để đạt mục đích bằng mọi giá.`,
   },
 
   {
@@ -102,11 +79,8 @@ cho công danh và tài lộc.
     cung: ['Mệnh'],
     ketHop: ['Bạch Hổ'],
     doUuTien: 65,
-    tomTat: `**Đường Phù + Bạch Hổ đồng cung tại Mệnh** — nguy cơ **LAO LÝ**.
-
-**Cảnh báo:**
-- Nguy cơ **DÍNH VÀO LAO LÝ**
-- Thậm chí bị **BẮT GIAM, XÉT XỬ, KẾT ÁN**`,
+    tomTat: `Khi Đường Phù đồng cung Bạch Hổ tại Mệnh, đương số có nguy cơ dính
+vào lao lý, thậm chí bị bắt giam, xét xử và kết án.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -119,19 +93,14 @@ cho công danh và tài lộc.
     sao: ['Đường Phù'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Đường Phù tại Phụ Mẫu** — cha mẹ **CỐT CÁCH THANH CAO, QUÝ PHÁI**.
+    tomTat: `Khi Đường Phù tọa Phụ Mẫu, cha mẹ của đương số có cốt cách thanh
+cao, quý phái, hiền lành và thích sự thanh nhàn.
 
-**Đặc trưng:**
-- Cha mẹ **CỐT CÁCH THANH CAO, QUÝ PHÁI**
-- **HIỀN LÀNH**, thích **THANH NHÀN**
+Khi hội nhiều cát tinh, cha mẹ là quan chức, thuộc giới quý tộc giàu sang,
+kinh tế vững vàng.
 
-**Hội nhiều cát tinh:**
-- Cha mẹ là **QUAN CHỨC**
-- Thuộc giới **QUÝ TỘC, GIÀU SANG**
-- **KINH TẾ VỮNG VÀNG**
-
-**Đáng lưu ý - đi cùng Địa Không, sao Bệnh, Bệnh Phù:**
-- Cha mẹ mắc bệnh **CHUYỂN HÓA, TIỂU ĐƯỜNG**`,
+Đáng lưu ý, khi đi cùng Địa Không hay sao Bệnh, Bệnh Phù, cha mẹ dễ mắc các
+bệnh chuyển hóa, tiểu đường.`,
   },
 
   {
@@ -140,16 +109,14 @@ cho công danh và tài lộc.
     sao: ['Đường Phù'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Đường Phù tại Phúc Đức** — gia tộc **NỀN TẢNG VỮNG VÀNG**.
+    tomTat: `Khi Đường Phù tọa Phúc Đức, gia tộc của đương số có nền tảng vững
+vàng.
 
-**Hội Thiên Khôi, Thiên Việt, Phúc Đức, Thiếu Dương, Hóa Khoa, Hóa Lộc:**
-- Được **TỔ TIÊN PHÙ HỘ**
-- Gặp nhiều **MAY MẮN**
-- Được nhiều người **GIÚP ĐỠ**
+Khi hội Thiên Khôi, Thiên Việt, Phúc Đức, Thiếu Dương, Hóa Khoa, Hóa Lộc,
+đương số được tổ tiên phù hộ, gặp nhiều may mắn và được nhiều người giúp đỡ.
 
-**Cảnh báo - đi cùng Sát Kỵ Hình:**
-- Hiện tượng **NHÀ THỜ TỔ BỊ PHÁ HOẠI, LỤN BẠI**
-- **HƯƠNG HỎA KHÔNG GIỮ ĐƯỢC LÂU**`,
+Khi đi cùng nhóm Sát, Hóa Kỵ, Thiên Hình, dễ xảy ra hiện tượng nhà thờ tổ
+bị phá hoại, lụn bại; hương hỏa không giữ được lâu.`,
   },
 
   {
@@ -158,15 +125,14 @@ cho công danh và tài lộc.
     sao: ['Đường Phù'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Đường Phù tại Điền Trạch** — có lợi cho **BUÔN BÁN ĐẤT ĐAI**.
+    tomTat: `Khi Đường Phù tọa Điền Trạch, đương số có lợi trong việc buôn bán
+đất đai.
 
-**Cần đi cùng Tả Phù, Hữu Bật + sao Lộc:**
-- Phải đi cùng **TẢ HỮU** mang tính trợ lực
-- Đặc biệt cần **SAO LỘC** để gia tăng cơ hội **CHUYỂN ĐỔI, GIAO DỊCH**
+Để phát huy được lợi thế này, sao cần đi cùng Tả Phù, Hữu Bật mang tính trợ
+lực, đặc biệt cần thêm sao Lộc để gia tăng cơ hội chuyển đổi và giao dịch.
 
-**Hội Long Trì, Phượng Các:**
-- Nhà cửa **RỘNG LỚN, UY NGHIÊM**
-- Hoặc gần **NƠI CÔNG QUYỀN**`,
+Khi hội Long Trì, Phượng Các, nhà cửa của đương số rộng lớn, uy nghiêm, hoặc
+ở gần nơi công quyền.`,
   },
 
   {
@@ -175,21 +141,16 @@ cho công danh và tài lộc.
     sao: ['Đường Phù'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Đường Phù tại Quan Lộc** — gắn với "**VIỆC BÀN GIẤY**" / **TRÍ ÓC, QUẢN
-LÝ**.
+    tomTat: `Khi Đường Phù tọa Quan Lộc, công việc của đương số gắn với "việc
+bàn giấy" — thiên về trí óc và quản lý. Bản chất công việc thanh cao, nhàn
+hạ, đòi hỏi hình ảnh chỉn chu.
 
-**Đặc trưng:**
-- Bản chất **THANH CAO, NHÀN HẠ**
-- Công việc **TRÍ ÓC, QUẢN LÝ**
-- Đòi hỏi **HÌNH ẢNH CHỈN CHU**
+Khi hội Thiên Hình cùng Hóa Quyền, đương số làm việc trong môi trường công
+quyền hay chính phủ.
 
-**Hội Thiên Hình + Hóa Quyền:**
-- Làm trong môi trường **CÔNG QUYỀN, CHÍNH PHỦ**
-
-**Lời khuyên:**
-- Làm việc **QUY CỦ, TUÂN THỦ NGUYÊN TẮC** đôi khi **BỎ LỠ CƠ HỘI**
-- "**BIẾT TIẾN BIẾT THOÁI, MỀM NẮN RẮN BUÔNG**"
-- Là **KIM CHỈ NAM** để giữ vị trí và phát triển`,
+Lời khuyên: đôi khi việc làm quá quy củ, tuân thủ nguyên tắc cứng nhắc khiến
+đương số bỏ lỡ cơ hội. Tinh thần "biết tiến biết thoái, mềm nắn rắn buông"
+chính là kim chỉ nam giúp giữ vị trí và phát triển.`,
   },
 
   {
@@ -198,17 +159,15 @@ LÝ**.
     sao: ['Đường Phù'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Đường Phù tại Nô Bộc** — gia tăng tính tốt đẹp của **MỐI QUAN HỆ BẠN BÈ**.
+    tomTat: `Khi Đường Phù tọa Nô Bộc, sao này gia tăng tính tốt đẹp cho mối
+quan hệ bạn bè của đương số.
 
-**Đi cùng Tả Phù, Hữu Bật, Hóa Khoa:**
-- **NGĂN CHẶN MỜ ÁM**
-- Chơi với nhau **RÕ RÀNG** về lợi ích
-- **DUY TRÌ DÀI LÂU**
+Khi đi cùng Tả Phù, Hữu Bật, Hóa Khoa, Đường Phù ngăn chặn những điều mờ ám;
+bạn bè chơi với nhau rõ ràng về lợi ích và duy trì được dài lâu.
 
-**Cảnh báo - đi cùng Đà La, Linh Tinh, Địa Kiếp, Lưu Hà, Phục Binh:**
-- Đường Phù **VẼ RA LỐI ĐI** của kẻ xấu
-- Nhiều **KHUẤT TẤT GIAN DỐI** trong quan hệ
-- **KÉO ĐƯƠNG SỐ VÀO**: khó thoát ra`,
+Khi đi cùng Đà La, Linh Tinh, Địa Kiếp, Lưu Hà, Phục Binh, Đường Phù lại vẽ
+ra lối đi cho kẻ xấu — quan hệ nhiều khuất tất gian dối, một khi kéo đương
+số vào thì khó thoát ra.`,
   },
 
   {
@@ -217,19 +176,13 @@ LÝ**.
     sao: ['Đường Phù'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Đường Phù tại Thiên Di** — chủ mệnh thường lui tới **NƠI SANG TRỌNG**.
+    tomTat: `Khi Đường Phù tọa Thiên Di, đương số thường lui tới những nơi sang
+trọng, dễ tiếp cận người tầng lớp cao trong xã hội. Việc đi xa giúp đương số
+phát triển tích cực, đổi đời, thoát khỏi "ao làng".
 
-**Đặc trưng:**
-- Lui tới những **NƠI SANG TRỌNG**
-- Dễ tiếp cận **NGƯỜI TẦNG LỚP CAO** trong xã hội
-- Việc đi xa giúp **PHÁT TRIỂN TÍCH CỰC**, **ĐỔI ĐỜI**
-- Thoát khỏi "**AO LÀNG**"
-
-**Cảnh báo - hội Địa Kiếp, Lưu Hà, Phục Binh, Đà La, Linh Tinh, Thiên
-Riêu, Hóa Kỵ:**
-- **TAI HỌA** khi xuất xứ
-- Đi xa dễ vướng **KIỆN TỤNG, PHÁP LUẬT**
-- Khó tránh **"LỆ LÀNG"** ở nơi mình đến`,
+Khi hội Địa Kiếp, Lưu Hà, Phục Binh, Đà La, Linh Tinh, Thiên Riêu, Hóa Kỵ,
+đương số gặp tai họa khi xuất ngoại; đi xa dễ vướng kiện tụng pháp luật, khó
+tránh "lệ làng" ở nơi mình đến.`,
   },
 
   {
@@ -238,15 +191,10 @@ Riêu, Hóa Kỵ:**
     sao: ['Đường Phù'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Đường Phù tại Tật Ách** — **GIẢM TÍNH TÁC HỌA của BỆNH TẬT**.
+    tomTat: `Khi Đường Phù tọa Tật Ách, sao này giúp giảm tính tác họa của
+bệnh tật, tránh tình trạng nhiều bệnh cùng lúc; khi ốm đau ắt có cách chữa.
 
-**Đặc trưng:**
-- **GIẢM TÁC HỌA của BỆNH TẬT**
-- Tránh **NHIỀU BỆNH CÙNG LÚC**
-- Ốm đau ắt **CÓ CÁCH CHỮA**
-
-**Suy đoán nghiệp quả:**
-- Dùng để suy đoán **NGHIỆP QUẢ** của một người`,
+Cung này còn được dùng để suy đoán nghiệp quả của một con người.`,
   },
 
   {
@@ -256,13 +204,10 @@ Riêu, Hóa Kỵ:**
     cung: ['Tật Ách'],
     ketHop: ['Cự Môn', 'Thiên Hình', 'Hóa Quyền', 'Địa Kiếp', 'Hóa Kỵ', 'Địa Không', 'Hỏa Tinh', 'Đà La'],
     doUuTien: 60,
-    tomTat: `**Đường Phù + Cự Môn + Thiên Hình - Hóa Quyền + Kiếp Kỵ Không Hỏa Đà tại
-Tật Ách** — vướng **KIỆN TỤNG**.
-
-**Cảnh báo:**
-- Vướng vào **KIỆN TỤNG**
-- Phải đứng trước **VÀNH MÓNG NGỰA**
-- Phải **BIỆN HỘ** cho chính bản thân`,
+    tomTat: `Khi Đường Phù tọa Tật Ách đi cùng Cự Môn, Thiên Hình, Hóa Quyền và
+nhóm sát tinh Địa Kiếp, Hóa Kỵ, Địa Không, Hỏa Tinh, Đà La, đương số dễ
+vướng vào kiện tụng, phải đứng trước vành móng ngựa và tự biện hộ cho chính
+bản thân.`,
   },
 
   {
@@ -272,13 +217,9 @@ Tật Ách** — vướng **KIỆN TỤNG**.
     cung: ['Tật Ách'],
     ketHop: ['Thiên Hình', 'Hóa Quyền', 'Tả Phù', 'Hữu Bật'],
     doUuTien: 62,
-    tomTat: `**Đường Phù + Hóa Hình + Hóa Quyền + cát tinh tốt** — công việc **TỐ TỤNG,
-TÒA ÁN, CÔNG QUYỀN**.
-
-**Đặc trưng:**
-- Phù hợp công việc liên quan **TỐ TỤNG**
-- Làm việc ở **TÒA ÁN**
-- Hoặc môi trường **CÔNG QUYỀN**`,
+    tomTat: `Khi Đường Phù đi cùng Thiên Hình, Hóa Quyền và các cát tinh tốt như
+Tả Phù, Hữu Bật, đương số phù hợp với công việc liên quan tố tụng, làm việc
+ở tòa án hoặc trong môi trường công quyền.`,
   },
 
   {
@@ -287,14 +228,10 @@ TÒA ÁN, CÔNG QUYỀN**.
     sao: ['Đường Phù'],
     cung: ['Tài Bạch'],
     doUuTien: 70,
-    tomTat: `**Đường Phù tại Tài Bạch** — **KHÔNG PHÁT HUY ĐƯỢC NHIỀU ĐIỂM TỐT**.
-
-**Đặc trưng:**
-- Kiếm tiền bằng việc **NHẸ NHÀNG, ÍT ÁP LỰC**
-- Chỉ có **MỘT NGUỒN THU DUY NHẤT**
-- **LUỒNG TIỀN BỊ HẠN CHẾ**
-- Không có **ĐỘNG LỰC ĐA DẠNG** cách kiếm tiền
-- Cuộc sống **KHÓ PHÁT TRIỂN**`,
+    tomTat: `Khi Đường Phù tọa Tài Bạch, sao này không phát huy được nhiều điểm
+tốt. Đương số kiếm tiền bằng những công việc nhẹ nhàng, ít áp lực, song chỉ
+có một nguồn thu duy nhất nên luồng tiền bị hạn chế. Đương số cũng không có
+động lực để đa dạng hóa cách kiếm tiền, khiến cuộc sống khó phát triển.`,
   },
 
   {
@@ -303,20 +240,17 @@ TÒA ÁN, CÔNG QUYỀN**.
     sao: ['Đường Phù'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Đường Phù tại Tử Tức** — hỗ trợ quan hệ với con cái **TỐT ĐẸP**.
+    tomTat: `Khi Đường Phù tọa Tử Tức, sao này hỗ trợ quan hệ giữa đương số với
+con cái trở nên tốt đẹp.
 
-**Điều kiện tiên quyết:**
-- Phải có **GẮN KẾT CHẶT CHẼ** từ cát tinh
-- **TẢ HỮU + VĂN XƯƠNG VĂN KHÚC**
+Điều kiện tiên quyết là phải có sự gắn kết chặt chẽ từ cát tinh, đặc biệt là
+Tả Phù, Hữu Bật, Văn Xương, Văn Khúc.
 
-**Đi cùng Xương Khúc:**
-- Tình cảm càng **ĐẬM SÂU**
-- Cha mẹ luôn **LO LẮNG, QUAN TÂM** đến con cái
+Khi đi cùng Văn Xương, Văn Khúc, tình cảm cha con càng đậm sâu; cha mẹ luôn
+lo lắng và quan tâm đến con cái.
 
-**Cảnh báo - hội sát tinh hình thương:**
-- Đề phòng con cái **TAI NẠN trên ĐƯỜNG LỚN**
-- **TAI NẠN GIAO THÔNG**
-- Do **SAI LỆCH TÍN HIỆU**`,
+Khi hội sát tinh hình thương, đương số phải đề phòng con cái gặp tai nạn
+trên đường lớn, tai nạn giao thông do sai lệch tín hiệu.`,
   },
 
   {
@@ -325,20 +259,17 @@ TÒA ÁN, CÔNG QUYỀN**.
     sao: ['Đường Phù'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Đường Phù tại Phu Thê** — vợ chồng **GẮN KẾT CHẶT CHẼ**.
+    tomTat: `Khi Đường Phù tọa Phu Thê, vợ chồng của đương số gắn kết chặt chẽ.
 
-**Đi cùng Xương Khúc, Quang Quý:**
-- Vợ chồng **GẮN KẾT CHẶT CHẼ**
-- Sau thời gian dài, tình cảm vẫn "**MẬT NGỌT**" như đầu
+Khi đi cùng Văn Xương, Văn Khúc, Quang Quý, vợ chồng càng gắn kết; sau thời
+gian dài, tình cảm vẫn "mật ngọt" như buổi đầu.
 
-**Đi cùng sao bằng cấp, học thức, danh giá, quyền quý:**
-- Bạn đời có **NĂNG LỰC + PHẨM CHẤT TỐT**
-- Được nhiều người **NỂ TRỌNG**
+Khi đi cùng các sao bằng cấp, học thức, danh giá, quyền quý, bạn đời có
+năng lực và phẩm chất tốt, được nhiều người nể trọng.
 
-**Cảnh báo - đi cùng Địa Kiếp, Thiên Hình, Hóa Kỵ:**
-- Mối quan hệ vợ chồng **TRẮC TRỞ**
-- Đường Phù như **CƠ QUAN CÔNG QUYỀN**
-- Đến lần đầu để **KẾT HÔN**: lần thứ hai để **LY HÔN**`,
+Khi đi cùng Địa Kiếp, Thiên Hình, Hóa Kỵ, mối quan hệ vợ chồng trắc trở.
+Đường Phù khi ấy giống như cơ quan công quyền — đến lần đầu để kết hôn, lần
+thứ hai lại để ly hôn.`,
   },
 
   {
@@ -347,14 +278,12 @@ TÒA ÁN, CÔNG QUYỀN**.
     sao: ['Đường Phù'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Đường Phù tại Huynh Đệ** — không tạo ảnh hưởng quá mạnh.
+    tomTat: `Khi Đường Phù tọa Huynh Đệ, sao này không tạo ảnh hưởng quá mạnh.
 
-**Đi cùng Tả Phù + Hữu Bật:**
-- Mối quan hệ anh chị em **BỀN CHẶT, THÂN THIẾT**
-- **HỢP TÁC ĂN Ý**
+Khi đi cùng Tả Phù, Hữu Bật, mối quan hệ anh chị em bền chặt, thân thiết và
+hợp tác ăn ý.
 
-**Cảnh báo - đi cùng Địa Không, Địa Kiếp, Hóa Kỵ, Hỏa Tinh:**
-- Anh em thân thiết dễ vướng **VÒNG LAO LÝ**
-- Gây **LIÊN LỤY** đến bản thân đương số`,
+Khi đi cùng Địa Không, Địa Kiếp, Hóa Kỵ, Hỏa Tinh, anh em thân thiết dễ
+vướng vòng lao lý, gây liên lụy đến bản thân đương số.`,
   },
 ];

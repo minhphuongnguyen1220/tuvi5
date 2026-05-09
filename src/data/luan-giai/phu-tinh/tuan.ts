@@ -29,27 +29,23 @@ export const luanGiai_Tuan: DoanLuanGiai[] = [
     title: 'Tuần - Đặc tính riêng (Hỏa, dịu hơn Triệt, mạnh về già)',
     sao: ['Tuần'],
     doUuTien: 33,
-    tomTat: `**Tuần** (Tuần Trung Không Vong) — phụ tinh **TÙY TINH**, thuộc bộ **TỨ
-KHÔNG**.
+    tomTat: `**Tuần** (Tuần Trung Không Vong) là phụ tinh tùy tinh, ngũ hành Hỏa,
+thuộc bộ Tứ Không.
 
-**Ngũ hành:** **Hỏa**.
+Đặc tính riêng của Tuần là sự chậm chạp, cản trở, trống rỗng và hao hụt; mang
+đến những trắc trở dai dẳng, khiến đương số xoay trở chậm chạp.
 
-**Đặc tính riêng:**
-- Mang tính **CHẬM CHẠP, CẢN TRỞ, TRỐNG RỖNG, HAO HỤT**
-- Sự **TRẮC TRỞ, DAI DẲNG**, xoay trở **CHẬM CHẠP**
+Vai trò của Tuần thể hiện hai mặt rõ rệt:
 
-**Vai trò 2 mặt:**
-- Khi gặp **SÁT BẠI TINH**: **NGĂN CHẶN** ảnh hưởng xấu
-- Nhưng cũng **SUY GIẢM SỨC MẠNH** của các **CÁT TINH** đi cùng
+- Khi gặp sát bại tinh, Tuần giúp ngăn chặn ảnh hưởng xấu.
+- Tuy nhiên Tuần cũng đồng thời làm suy giảm sức mạnh của các cát tinh đi
+  cùng.
 
-**So sánh với Triệt:**
-- Triệt = Kim - **MẠNH BẠO, DỮ DỘI** - bức tường chắn ngang
-- **TUẦN = Hỏa - DỊU HƠN** - chiếc phanh xe
+So với Triệt thuộc Kim mang tính mạnh bạo, dữ dội như bức tường chắn ngang,
+Tuần thuộc Hỏa nên dịu hơn, đóng vai trò như chiếc phanh xe làm chậm dần.
 
-**Hiệu lực theo thời gian:**
-- Theo thời gian về lâu dài: ngày càng **MẠNH MẼ HƠN**
-- **ĐEO BÁM ĐẾN SUỐT CUỘC ĐỜI**
-- Càng VỀ GIÀ càng MẠNH (ngược với Triệt mạnh tuổi trẻ)`,
+Về hiệu lực theo thời gian, Tuần ngày càng mạnh mẽ hơn, đeo bám đương số đến
+suốt cuộc đời — càng về già càng mạnh, ngược với Triệt vốn mạnh ở tuổi trẻ.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -62,33 +58,23 @@ KHÔNG**.
     sao: ['Tuần'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Tuần thủ Mệnh** — báo hiệu **TUỔI THƠ VẤT VẢ** và tính cách **LẦM LÌ**.
+    tomTat: `Khi **Tuần** thủ Mệnh, đương số có tuổi thơ vất vả, không được "ăn
+sung mặc sướng", phải bôn ba lo nghĩ nhiều ở giai đoạn đầu đời — đúng câu
+"Tuần Triệt niên đầu, thiếu niên tân khổ".
 
-**Tuổi thơ:**
-- Tuổi thơ **VẤT VẢ**, không được "ăn sung mặc sướng"
-- Phải **BÔN BA, LO NGHĨ NHIỀU** ở giai đoạn đầu đời
-- "**TUẦN TRIỆT NIÊN ĐẦU, THIẾU NIÊN TÂN KHỔ**"
+Về tính tình, đương số lầm lì ít nói, mọi buồn phiền và kế hoạch đều cất giữ
+kín trong lòng, không dễ bộc lộ ra ngoài.
 
-**Tính tình:**
-- **LẦM LÌ, ÍT NÓI**
-- Mọi **BUỒN PHIỀN VÀ KẾ HOẠCH** đều được **CẤT GIỮ KÍN**, không bộc lộ
-  ra ngoài
+Trên đường sự nghiệp, nhân duyên và tài lộc đều gian nan trắc trở. Đương số
+lúc nhỏ gặp khó khăn trong việc học hành; nếu không được hóa giải thì những
+cản trở này vẫn đeo bám khi lớn lên.
 
-**Sự nghiệp:**
-- Con đường sự nghiệp, nhân duyên, tài lộc **GIAN NAN, TRẮC TRỞ**
-- Đương số tuổi nhỏ gặp khó khăn trong **VIỆC HỌC HÀNH**
-- Nếu không được hóa giải thì những cản trở vẫn **ĐEO BÁM** khi lớn lên
+Mặt "bảo hộ" của Tuần thể hiện rõ khi sao tọa cung có nhiều sát bại tinh như
+Hỏa Tinh, Linh Tinh, Kình Dương, Đà La, Hóa Kỵ, Kiếp Sát — Tuần giữ vai trò
+kìm hãm, không cho tính chất xấu bộc phát.
 
-**Mặt "BẢO HỘ" của Tuần:**
-- Khi tọa cung có nhiều **SÁT BẠI TINH** (Hỏa Linh, Kình Đà, Hóa Kỵ, Kiếp
-  Sát)
--: Giữ vai trò **KÌM HÃM**, không cho tính chất xấu **BỘC PHÁT**
-
-**Lời khuyên:**
-- Chủ động làm việc thiện
-- Rèn luyện giao tiếp
-- Chú trọng **SỨC KHỎE TINH THẦN**
-- Để **GIẢM BỚT TÍNH U SẦU, CÔ LẬP**`,
+Lời khuyên là đương số nên chủ động làm việc thiện, rèn luyện giao tiếp và
+chú trọng sức khỏe tinh thần để giảm bớt tính u sầu, cô lập.`,
   },
 
   {
@@ -97,26 +83,17 @@ KHÔNG**.
     sao: ['Tuần'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Tuần tại Phụ Mẫu** — cha mẹ **VẤT VẢ**, sức khỏe yếu.
+    tomTat: `Khi Tuần tọa Phụ Mẫu, cha mẹ của đương số có cuộc sống vất vả,
+sức khỏe yếu. Mối quan hệ giữa cha mẹ và con cái không gắn kết, ít sự chia
+sẻ.
 
-**Đặc trưng:**
-- Cha mẹ có cuộc sống **VẤT VẢ**
-- **SỨC KHỎE YẾU**
-- Mối quan hệ giữa cha mẹ và con cái **KHÔNG GẮN KẾT**
-- **ÍT SỰ CHIA SẺ**
+Tuần cư Phụ Mẫu chỉ hạn chế được ảnh hưởng xấu khi cung là Vô Chính Diệu hoặc
+có chính tinh hãm địa. Đặc biệt, khi Nhật Nguyệt lạc hãm đồng thời, Tuần có
+khả năng ngăn cản tác động xấu, mang lại sự yên ổn — Tuần Triệt đi với Nhật
+Nguyệt hãm còn được xem là tăng sáng cho Âm Dương.
 
-**Tuần cư Phụ Mẫu chỉ HẠN CHẾ ảnh hưởng xấu khi:**
-- Cung là **VÔ CHÍNH DIỆU**
-- Hoặc có **CHÍNH TINH HÃM ĐỊA**
-
-**Đặc biệt - Nhật Nguyệt LẠC HÃM đồng thời:**
-- Tuần có khả năng **NGĂN CẢN** tác động xấu
-- Mang lại sự **YÊN ỔN**
-- Tuần Triệt + Nhật Nguyệt hãm = **TĂNG SÁNG** cho Âm Dương
-
-**Người âm dương thuận lý:**
-- Tuổi trẻ thường gặp **KHÓ KHĂN, CẢN TRỞ** trên con đường học tập, công
-  danh`,
+Đối với người âm dương thuận lý, tuổi trẻ vẫn thường gặp khó khăn, cản trở
+trên con đường học tập và công danh.`,
   },
 
   {
@@ -125,25 +102,18 @@ KHÔNG**.
     sao: ['Tuần'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Tuần tại Phúc Đức** — phúc phần tổ tiên **KHÔNG MẠNH**.
+    tomTat: `Khi Tuần tọa Phúc Đức, phúc phần tổ tiên không mạnh, đương số khó
+được hưởng sẵn phúc của dòng họ. Tuần Không ở cung Phúc chỉ thực sự hữu dụng
+khi cung này là Vô Chính Diệu hoặc có chính tinh hãm địa đi cùng.
 
-**Đặc trưng:**
-- Phúc phần tổ tiên **KHÔNG MẠNH**
-- Đương số **KHÓ ĐƯỢC HƯỞNG SẴN PHÚC** của dòng họ
-- Tuần Không ở cung Phúc chỉ **HỮU DỤNG** nếu cung này là **VÔ CHÍNH DIỆU**
-  hoặc có **CHÍNH TINH HÃM ĐỊA** đi cùng
+Lời khuyên là đương số phải tự bồi đắp phúc bằng cái đức và cái tâm của
+mình, tu dưỡng tâm linh, làm việc thiện.
 
-**Lời khuyên:**
-- Phải **TỰ BỒI ĐẮP PHÚC** bằng **CÁI ĐỨC, CÁI TÂM** của mình
-- Tu dưỡng tâm linh, làm việc thiện
+Tuần cư Phúc khiến đương số càng lớn càng kém may mắn, ít được tổ tiên phù
+trợ — ngược với Triệt vốn càng già càng được hưởng phúc tự bồi.
 
-**Tuần cư Phúc:** càng lớn càng **KÉM MAY MẮN**, **ÍT ĐƯỢC TỔ TIÊN PHÙ
-TRỢ** (ngược với Triệt - càng già càng được hưởng phúc tự bồi).
-
-**Tuần cư Phúc - Điền:**
-- Nhà cửa thường dễ **CỦA TỔ TIÊN ĐỂ LẠI**
-- **KHÓ BÁN ĐƯỢC**
-- Chỉ sử dụng được để **Ở VÀ THỜ CÚNG TỔ TIÊN**`,
+Khi Tuần đồng thời có mặt ở Phúc và Điền, nhà cửa thường là của tổ tiên để
+lại nhưng khó bán được, chỉ sử dụng để ở và thờ cúng tổ tiên.`,
   },
 
   {
@@ -152,27 +122,19 @@ TRỢ** (ngược với Triệt - càng già càng được hưởng phúc tự 
     sao: ['Tuần'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Tuần tại Điền Trạch** — nhà ở **CUỐI NGÕ, CUỐI HÀNH LANG**, khó hưởng điền
-sản.
+    tomTat: `Khi Tuần tọa Điền Trạch, nhà cửa của đương số thường ở cuối ngõ,
+cuối hành lang chung cư, được vây quanh bởi tường rào và hàng xóm — vị trí
+khó tiếp cận. Đương số làm ra của nhưng phải chật vật.
 
-**Đặc trưng:**
-- Nhà cửa thường ở **CUỐI NGÕ, CUỐI HÀNH LANG CHUNG CƯ**
-- Nhà được **VÂY QUANH** bởi tường rào, hàng xóm xung quanh
-- **KHÓ TIẾP CẬN**
-- Người **LÀM RA CỦA NHƯNG PHẢI CHẬT VẬT**
+Khi Tuần cùng có mặt ở Phúc và Điền, đương số không được hưởng di sản tổ phụ
+để lại, hoặc nhà của tổ tiên để lại nhưng khó bán, chỉ để ở và thờ cúng.
 
-**Tuần cư Phúc - Điền:**
-- **KHÔNG ĐƯỢC HƯỞNG DI SẢN** tổ phụ để lại
-- Hoặc nhà của tổ tiên để lại nhưng **KHÓ BÁN**
-- Chỉ để **Ở VÀ THỜ CÚNG**
+Khi Tuần đồng thời ở Điền và Quan, công việc có thể tích lũy được của cải
+tài sản, nhưng hay bị hao hụt, hao mất một phần; càng về già càng khó tích
+tụ.
 
-**Tuần cư Điền - Quan:**
-- Công việc có thể **TÍCH LŨY ĐƯỢC** của cải, tài sản
-- Nhưng hay bị **HAO HỤT, HAO MẤT MỘT PHẦN**
-- Càng về già càng **KHÓ TÍCH TỤ**
-
-**Đặc điểm:** Đương số gặp khó khăn trong việc **THỪA HƯỞNG ĐIỀN SẢN** từ
-tổ tiên, thường phải "**TỰ THÂN VẬN ĐỘNG**" mới mua được nhà.`,
+Đặc điểm chung là đương số gặp khó khăn trong việc thừa hưởng điền sản từ
+tổ tiên, thường phải "tự thân vận động" mới mua được nhà.`,
   },
 
   {
@@ -181,25 +143,20 @@ tổ tiên, thường phải "**TỰ THÂN VẬN ĐỘNG**" mới mua được n
     sao: ['Tuần'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Tuần tại Quan Lộc** — công danh **LẬN ĐẬN**, thăng tiến chậm.
+    tomTat: `Khi Tuần tọa Quan Lộc, công danh của đương số lận đận, thăng tiến
+chậm. Đương số phải chịu nhiều vất vả mới có được thành tựu; công việc không
+thuận lợi, rơi vào cảnh "để thì buồn mà cắt thì đau".
 
-**Đặc trưng:**
-- Công danh **LẬN ĐẬN**, thăng tiến **CHẬM**
-- Phải chịu **NHIỀU VẤT VẢ** mới có thành tựu
-- Công việc **KHÔNG THUẬN LỢI**, "**ĐỂ THÌ BUỒN MÀ CẮT THÌ ĐAU**"
+Khi Tuần đi cùng Thiên Tướng hay Triệt, đương số dễ bị sa thải, mất chức
+hoặc gặp rắc rối công vụ.
 
-**Tuần + Thiên Tướng / Triệt:**
-- Dễ bị **SA THẢI, MẤT CHỨC**
-- Hoặc gặp **RẮC RỐI CÔNG VỤ**
+Khi cung Quan Vô Chính Diệu hoặc hội nhiều sát bại tinh như Kình Dương, Đà
+La, Hóa Kỵ, Tuần có khả năng giúp giảm nhẹ tai họa, song nguyên tắc chung
+vẫn là gây cản trở, chậm trễ.
 
-**Cung Quan VCD hoặc hội nhiều sát bại tinh** (Kình Đà, Hóa Kỵ):
-- Tuần có khả năng **GIÚP GIẢM NHẸ TAI HỌA**
-- Nhưng nguyên tắc chung vẫn gây **CẢN TRỞ, CHẬM TRỄ**
-
-**Tuần cư Quan - Nô:**
-- Công việc hay **LIÊN QUAN, DÍNH DÁNG** tới bạn bè đồng nghiệp
-- Đôi khi **VÌ HỌ MÀ CÔNG DANH KHÓ LÊN CAO**
-- Hay gặp **SỰ CỐ, CẢN TRỞ**`,
+Khi Tuần đồng thời ở Quan và Nô, công việc của đương số hay liên quan, dính
+dáng tới bạn bè đồng nghiệp; đôi khi vì họ mà công danh khó lên cao, hay
+gặp sự cố và cản trở.`,
   },
 
   {
@@ -208,18 +165,12 @@ tổ tiên, thường phải "**TỰ THÂN VẬN ĐỘNG**" mới mua được n
     sao: ['Tuần'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Tuần tại Nô Bộc** — bạn bè **ÍT THÂN THIẾT**, dễ đổi thay.
+    tomTat: `Khi Tuần tọa Nô Bộc, bạn bè của đương số ít thân thiết và dễ đổi
+thay. Khi hoạn nạn, đương số khó nhận được sự giúp đỡ của bạn bè và đồng
+nghiệp. Về già càng ít kết giao, chỉ giữ được vài mối thân tình hiếm hoi.
 
-**Đặc trưng:**
-- Bạn bè **ÍT THÂN THIẾT, DỄ ĐỔI THAY**
-- Khi hoạn nạn, **KHÓ NHẬN ĐƯỢC SỰ GIÚP ĐỠ** của bạn bè, đồng nghiệp
-- Về già **CÀNG ÍT KẾT GIAO**
-- Chỉ giữ được **VÀI MỐI THÂN TÌNH HIẾM HOI**
-
-**Tuần cư Nô:**
-- Ra ngoài **ÍT BẠN**
-- Chỉ chơi thân với **MỘT SỐ NGƯỜI** thôi
-- Càng về già càng **ÍT BẠN**`,
+Đương số ra ngoài ít bạn, chỉ chơi thân với một số ít người; càng về già
+càng ít bạn bè bên cạnh.`,
   },
 
   {
@@ -228,26 +179,18 @@ tổ tiên, thường phải "**TỰ THÂN VẬN ĐỘNG**" mới mua được n
     sao: ['Tuần'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Tuần tại Thiên Di** — **ÍT RA NGOÀI**, khó hòa nhập.
+    tomTat: `Khi Tuần tọa Thiên Di, đương số ít ra ngoài, sống khép kín và khó
+hòa nhập trong môi trường mới. Hành trình đi làm ăn xa hay xuất ngoại cũng
+gặp trắc trở, nhiều khi phải quay về.
 
-**Đặc trưng:**
-- **ÍT RA NGOÀI**
-- Sống **KHÉP KÍN**
-- **KHÓ HÒA NHẬP** trong môi trường mới
-- Hành trình **ĐI LÀM ĂN XA HAY XUẤT NGOẠI** cũng gặp **TRẮC TRỞ**, phải
-  **QUAY VỀ**
+Khi Tuần đồng thời ở Nô và Di, đương số là người ít ra ngoài, ra ngoài cũng
+ít quan hệ giao tiếp.
 
-**Tuần cư Nô - Di:**
-- Là người **ÍT RA NGOÀI**
-- Ra ngoài **ÍT QUAN HỆ, GIAO TIẾP**
+Khi Tuần đứng cùng cung Tật, sao này lại giúp giảm bớt rủi ro, đương số ít
+gặp tai vạ.
 
-**Cách cục đặc biệt - Tuần đứng cùng Tật:**
-- Tuần lại giúp **GIẢM BỚT RỦI RO**
-- Đương số **ÍT GẶP TAI VẠ**
-
-**Mặt khác:**
-- Người đi làm ăn xa thường **KHÔNG ĐƯỢC THUẬN LỢI**
-- Hay gặp **CẢN TRỞ, TAI VẠ** ở bên ngoài`,
+Mặt khác, đương số đi làm ăn xa thường không thuận lợi, hay gặp cản trở và
+tai vạ ở bên ngoài.`,
   },
 
   {
@@ -256,26 +199,19 @@ tổ tiên, thường phải "**TỰ THÂN VẬN ĐỘNG**" mới mua được n
     sao: ['Tuần'],
     cung: ['Tật Ách'],
     doUuTien: 80,
-    tomTat: `**Tuần tại Tật Ách** — vị trí **THUẬN** của Tuần, như **LÁ BÙA HỘ MỆNH**.
+    tomTat: `Khi Tuần tọa Tật Ách, đây là vị trí thuận của Tuần, đóng vai trò
+như lá bùa hộ mệnh giúp kìm hãm, ngăn chặn bệnh tật và giảm tai họa cho
+đương số.
 
-**Đặc trưng:**
-- Cung **THUẬN** của Tuần
-- Giúp **KÌM HÃM, NGĂN CHẶN** bệnh tật
-- **GIẢM TAI HỌA**
+So với Triệt cư Tật vốn đánh tan bệnh tật và tai họa đi, **Tuần** cư Tật chỉ
+ngăn cản, giữ nguyên không cho bệnh tật hay tai họa phát triển và tái phát.
+Vì vậy cung Tật vẫn thường ưa Triệt hơn Tuần.
 
-**Khác Triệt tại Tật:**
-- **Triệt cư Tật:** **ĐÁNH TAN** bệnh tật, tai họa đi
-- **TUẦN cư Tật:** **NGĂN CẢN, GIỮ NGUYÊN** không cho bệnh tật hay tai họa
-  **PHÁT TRIỂN, TÁI PHÁT**
-- Do vậy mà cung Tật vẫn thường **ƯA TRIỆT HƠN** TUẦN
+Đặc tính của Tuần ở đây giống "lá bùa hộ mệnh" — giữ bệnh không phát triển
+và giúp đương số tránh được biến chứng.
 
-**Đặc tính:**
-- Như "**LÁ BÙA HỘ MỆNH**"
-- Giữ bệnh **KHÔNG PHÁT TRIỂN**
-- Giúp đương số **TRÁNH ĐƯỢC BIẾN CHỨNG**
-
-**Lưu ý:** Chủ mệnh **KHÔNG ĐƯỢC CHỦ QUAN**, vẫn cần chăm lo sức khỏe và
-**THĂM KHÁM ĐỊNH KỲ**.`,
+Đương số tuy vậy không được chủ quan, vẫn cần chăm lo sức khỏe và thăm khám
+định kỳ.`,
   },
 
   {
@@ -284,25 +220,17 @@ tổ tiên, thường phải "**TỰ THÂN VẬN ĐỘNG**" mới mua được n
     sao: ['Tuần'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Tuần tại Tài Bạch** — tiền bạc **TRẮC TRỞ**, đến rồi lại đi.
+    tomTat: `Khi Tuần tọa Tài Bạch, tiền bạc của đương số trắc trở, đến rồi lại
+đi, khó giữ được lâu dài.
 
-**Đặc trưng:**
-- Tiền bạc **TRẮC TRỞ**
-- **ĐẾN RỒI LẠI ĐI**
-- **KHÓ GIỮ ĐƯỢC LÂU DÀI**
+Khi hội với Tử Vi, Thiên Phủ, Vũ Khúc, khả năng nắm bắt cơ hội tài chính
+càng khó khăn — Phủ phùng Không thành kho rỗng.
 
-**Hội với Tử Vi, Thiên Phủ, Vũ Khúc:**
-- Khả năng **NẮM BẮT CƠ HỘI** tài chính càng **KHÓ KHĂN**
-- Phủ phùng Không = kho rỗng
+Lời khuyên là đương số tránh đầu tư mạo hiểm, ghi nhớ "tham thì thâm" và đặc
+biệt cẩn trọng trong việc quản lý chi tiêu.
 
-**Lời khuyên:**
-- Tránh **ĐẦU TƯ MẠO HIỂM**
-- "**THAM THÌ THÂM**"
-- Đặc biệt **CẨN TRỌNG** trong việc **QUẢN LÝ CHI TIÊU**
-
-**Tuần cư Tài - Tật:**
-- Đồng tiền kiếm ra **CHẬM, ÍT**
-- Nhưng **HẠN CHẾ** dính tới tai họa, bệnh tật đi cùng`,
+Khi Tuần đồng thời ở Tài và Tật, đồng tiền kiếm ra chậm và ít, nhưng bù lại
+hạn chế được những tai họa, bệnh tật đi cùng.`,
   },
 
   {
@@ -311,28 +239,21 @@ tổ tiên, thường phải "**TỰ THÂN VẬN ĐỘNG**" mới mua được n
     sao: ['Tuần'],
     cung: ['Tử Tức'],
     doUuTien: 78,
-    tomTat: `**Tuần tại Tử Tức** — chậm có con, sảy thai, con đầu khó nuôi.
+    tomTat: `Khi Tuần tọa Tử Tức, đương số chậm có con, dễ sảy thai, con đầu
+khó nuôi hoặc ở xa cha mẹ.
 
-**Đặc trưng:**
-- Đương số **CHẬM CÓ CON**
-- Dễ **SẢY THAI**
-- Con đầu **KHÓ NUÔI**
-- Hoặc **Ở XA CHA MẸ**
+Tuần thủ cung Tử Tức thường khiến đương số chậm trễ trong chuyện con cái và
+gặp nhiều vấn đề ngăn trở.
 
-**Tuần thủ cung Tử Tức:**
-- Thường **CHẬM TRỄ CÓ CON**
-- Gặp **NHIỀU VẤN ĐỀ NGĂN TRỞ**
+Khi cung Vô Chính Diệu hoặc có chính tinh hãm địa đi cùng sát bại tinh, ảnh
+hưởng tiêu cực của Tuần được giảm nhẹ.
 
-**VCD / chính tinh hãm địa + sát bại tinh:**
-- Ảnh hưởng tiêu cực của Tuần được **GIẢM NHẸ**
+Khi gặp Phá Quân, Thất Sát hãm địa đi cùng Địa Không, Địa Kiếp, Hỏa Tinh,
+Linh Tinh, Tuần lại trở thành phương tiện cứu cánh tích cực, giúp đương số
+tránh được tai họa và xung khắc.
 
-**Phá Quân, Thất Sát hãm địa + Không Kiếp + Hỏa Linh:**
-- Tuần trở thành **PHƯƠNG TIỆN CỨU CÁNH TÍCH CỰC**
-- Giúp chủ mệnh **TRÁNH ĐƯỢC TAI HỌA VÀ XUNG KHẮC**
-
-**Tuần cư Tử - Phối:**
-- **CHẬM VỢ CHẬM CHỒNG**
-- Nhưng cưới thường dễ được **CẢ TRÂU LẪN NGHÉ**`,
+Khi Tuần đồng thời ở Tử và Phối, đương số chậm vợ chậm chồng, nhưng cưới
+thường dễ được "cả trâu lẫn nghé".`,
   },
 
   {
@@ -341,21 +262,14 @@ tổ tiên, thường phải "**TỰ THÂN VẬN ĐỘNG**" mới mua được n
     sao: ['Tuần'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Tuần tại Phu Thê** — nhân duyên **TRẮC TRỞ**, mối tình đầu thất bại.
+    tomTat: `Khi Tuần tọa Phu Thê, nhân duyên của đương số trắc trở; mối tình
+đầu dễ thất bại, hôn nhân phải trải qua gian nan mới tìm được người phù hợp.
 
-**Đặc trưng:**
-- Nhân duyên **TRẮC TRỞ**
-- Mối tình đầu dễ **THẤT BẠI**
-- Hôn nhân phải trải qua **GIAN NAN** mới tìm được người phù hợp
+Cách hóa giải là đương số nên lấy người ở xa, khác làng khác tỉnh để giảm
+bớt ảnh hưởng xấu. Bạn đời thường là người trầm tính, kín đáo.
 
-**Cách hóa giải:**
-- Lấy người **Ở XA, KHÁC LÀNG, KHÁC TỈNH** mới giảm bớt ảnh hưởng xấu
-
-**Đặc điểm hôn phối:**
-- Bạn đời là người **TRẦM TÍNH, KÍN ĐÁO**
-
-**Tuần + Thiên Mã, Thiên Hình hay sát tinh mạnh khác:**
-- Cẩn trọng vì dễ phải **LY TÁN, CHIA XA**`,
+Khi Tuần đi cùng Thiên Mã, Thiên Hình hay những sát tinh mạnh khác, đương
+số cần cẩn trọng vì dễ phải ly tán, chia xa.`,
   },
 
   {
@@ -364,16 +278,12 @@ tổ tiên, thường phải "**TỰ THÂN VẬN ĐỘNG**" mới mua được n
     sao: ['Tuần'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Tuần tại Huynh Đệ** — **ÍT ANH CHỊ EM**, gia cảnh vất vả.
+    tomTat: `Khi Tuần tọa Huynh Đệ, đương số có ít anh chị em, gia cảnh của họ
+lại gặp nhiều vất vả. Anh cả hay chị cả sớm đi xa, hoặc mối quan hệ anh chị
+em không thân thiết và dễ xung khắc.
 
-**Đặc trưng:**
-- Đương số có **ÍT ANH CHỊ EM**
-- Gia cảnh của họ lại gặp **NHIỀU VẤT VẢ**
-- Anh cả / chị cả sớm **ĐI XA**
-- Hoặc mối quan hệ anh chị em **KHÔNG THÂN THIẾT**, dễ **XUNG KHẮC**
-
-**VCD + Tuần:**
-- Những ảnh hưởng tiêu cực có khả năng được **GIẢM BỚT**
-- Cung VCD + Tuần biến thành **MỎ NEO** vững chắc`,
+Khi cung Vô Chính Diệu đi cùng Tuần, những ảnh hưởng tiêu cực có khả năng
+được giảm bớt — cung Vô Chính Diệu cộng Tuần có khi lại biến thành mỏ neo
+vững chắc.`,
   },
 ];

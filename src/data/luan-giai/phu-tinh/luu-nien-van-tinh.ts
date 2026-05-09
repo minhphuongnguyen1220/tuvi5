@@ -13,24 +13,21 @@ export const luanGiai_LuuNienVanTinh: DoanLuanGiai[] = [
     title: 'Lưu Niên Văn Tinh - Đặc tính chung',
     sao: ['Lưu Niên Văn Tinh'],
     doUuTien: 32,
-    tomTat: `**Lưu Niên Văn Tinh** — phụ tinh **VĂN TINH**, được coi như **SAO LỘC TỒN THỨ
-HAI**.
+    tomTat: `**Lưu Niên Văn Tinh** là phụ tinh thuộc nhóm văn tinh, ngũ hành Kim,
+được coi như sao Lộc Tồn thứ hai.
 
-**Ngũ hành:** **Kim**.
+Vị thế của sao này khá đặc biệt:
 
-**Vị thế:**
-- An offset **+3 thuận từ Lộc Tồn** (engine hardcode)
-- Là **VĂN TINH thứ ba** sau Văn Xương, Văn Khúc
-- Có khả năng **HÓA GIẢI bệnh tật, tai họa nhẹ** (giống Lộc Tồn) — chủ yếu
-  bằng **KIẾN THỨC, KHOA HỌC KỸ THUẬT**
+- An offset +3 thuận từ Lộc Tồn (engine đã hardcode)
+- Là văn tinh thứ ba sau Văn Xương và Văn Khúc
+- Có khả năng hóa giải bệnh tật, tai họa nhẹ giống Lộc Tồn, song chủ yếu
+  giải bằng kiến thức và khoa học kỹ thuật
 
-**Vai trò:**
-- Chủ về **HỌC VẤN, TRI THỨC**
-- **SỰ KHAI MỞ TRÍ TUỆ**
-- Con đường **THI CỬ HỌC HÀNH** nhiều thành tựu
-- **KHOA BẢNG**
+Vai trò chính của Lưu Niên Văn Tinh là chủ về học vấn, tri thức, sự khai
+mở trí tuệ, con đường thi cử học hành nhiều thành tựu và khoa bảng.
 
-**Đặc tính:** **THANH TÚ, TRÍ THỨC, HỌC VẤN, BẰNG CẤP, NGHIÊN CỨU, THẦY GIÁO**.`,
+Đặc tính của sao thiên về thanh tú, trí thức, học vấn, bằng cấp, nghiên
+cứu và nghề thầy giáo.`,
   },
 
   {
@@ -39,16 +36,12 @@ HAI**.
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Mệnh'],
     doUuTien: 50,
-    tomTat: `**Lưu Niên Văn Tinh thủ Mệnh - Tướng mạo:**
+    tomTat: `Đương số có Lưu Niên Văn Tinh thủ Mệnh sở hữu vẻ mặt thanh tú và khôi
+ngô, dáng dấp lúc nào cũng nhã nhặn, mang phong vị thư sinh học thức.
+Nét đẹp thiên về duyên dáng và tinh tế.
 
-**Đặc điểm:**
-- Vẻ mặt **THANH TÚ, KHÔI NGÔ**
-- Dáng dấp luôn **NHÃ NHẶN, THƯ SINH, HỌC THỨC**
-- Nét đẹp thiên về **DUYÊN DÁNG và TINH TẾ**
-
-**Khí chất:**
-- Thần sắc toát lên sự **ĐIỀM ĐẠM, TRÍ THỨC**
-- Dễ **TẠO THIỆN CẢM** với người đối diện`,
+Về khí chất, thần sắc đương số toát lên sự điềm đạm và trí thức, dễ tạo
+thiện cảm với người đối diện ngay từ lần gặp đầu.`,
   },
 
   {
@@ -58,10 +51,8 @@ HAI**.
     cung: ['Mệnh'],
     gioiTinh: 'Nữ',
     doUuTien: 45,
-    tomTat: `**Lưu Niên Văn Tinh thủ Mệnh — nữ mệnh:**
-- Có **NHAN SẮC**
-- Dáng vẻ **THƯ SINH, NHÃ NHẶN, TRÍ THỨC**
-- Vẻ đẹp **DUYÊN DÁNG VÀ TINH TẾ**`,
+    tomTat: `Nữ mệnh có Lưu Niên Văn Tinh thủ Mệnh sở hữu nhan sắc, dáng vẻ thư
+sinh nhã nhặn và trí thức, vẻ đẹp thiên về duyên dáng và tinh tế.`,
   },
 
   {
@@ -70,34 +61,25 @@ HAI**.
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Lưu Niên Văn Tinh thủ Mệnh:**
+    tomTat: `Đương số có Lưu Niên Văn Tinh thủ Mệnh nổi bật ở sự thông minh, học
+thức và hoạt bát. Sao này đem đến năng khiếu sắc bén ở nhiều lĩnh vực:
 
-**Tính cách:**
-- **THÔNG MINH, có HỌC THỨC**
-- **HOẠT BÁT**
-- Có **NĂNG KHIẾU SẮC BÉN** về:
-  - **VĂN CHƯƠNG**
-  - **MỸ THUẬT**
-  - **ÂM NHẠC**
-  - Nhiều lĩnh vực khác
+- Văn chương
+- Mỹ thuật
+- Âm nhạc
+- Cùng nhiều ngành sáng tạo khác
 
-**Giao tiếp:**
-- Có khả năng **ĂN NÓI, GIAO TIẾP TỐT**
-- Khi nói chuyện thường có **CHUYÊN MÔN SÂU**
-- "**Trên thông thiên văn dưới tường địa lý**"
-- Lập luận **RÕ RÀNG**, lời nói **CÓ TRỌNG TÂM**
+Về giao tiếp, đương số ăn nói tốt, khi nói chuyện thường có chuyên môn
+sâu — "trên thông thiên văn dưới tường địa lý". Lập luận rõ ràng, lời
+nói có trọng tâm.
 
-**Học hành:**
-- Vì chủ về **HỌC HÀNH KHOA BẢNG**: **CHỊU KHÓ, YÊU THÍCH HỌC TẬP**
-- Chịu khó **TÌM HIỂU** các kiến thức xung quanh
+Vì sao chủ về học hành khoa bảng nên đương số chịu khó, yêu thích học
+tập, luôn tìm hiểu các kiến thức xung quanh.
 
-**Công danh:**
-- Người **HỌC CAO HIỂU RỘNG**
-- Học có thể lên tới **THẠC SỸ – TIẾN SỸ – GIÁO SƯ**
-- Người **PHÁT MẠNH ngành VĂN, NGHỆ THUẬT**
-- Hay được **MAY MẮN** trong công danh, học tập
-- Có **ĐIỀU KIỆN HỌC HÀNH thực nghiệm tốt**
-- **THỜI THẾ HẬU THUẪN**, người ngoài **GIÚP ĐỠ NHIỀU**`,
+Về công danh, đương số học cao hiểu rộng, có thể vươn tới học vị thạc
+sỹ, tiến sỹ hay giáo sư. Người phát mạnh ở ngành văn và nghệ thuật,
+hay được may mắn trong công danh và học tập, có điều kiện học hành
+thực nghiệm tốt; thời thế hậu thuẫn và người ngoài giúp đỡ nhiều.`,
   },
 
   {
@@ -106,19 +88,13 @@ HAI**.
     sao: ['Lưu Niên Văn Tinh'],
     ketHop: ['Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt', 'Long Trì', 'Phượng Các'],
     doUuTien: 85,
-    tomTat: `**Lưu Niên Văn Tinh + Văn Xương + Văn Khúc + Thiên Khôi + Thiên Việt + Long
-Trì + Phượng Các:**
+    tomTat: `Khi Lưu Niên Văn Tinh hội đủ **Văn Xương**, **Văn Khúc**, Thiên Khôi,
+Thiên Việt, Long Trì và Phượng Các, đương số là người vô cùng thông
+minh xuất chúng, "học một hiểu mười", đỗ thủ khoa và ghi danh bảng vàng.
 
-**Đặc trưng:**
-- Là người **VÔ CÙNG THÔNG MINH, XUẤT CHÚNG**
-- "**HỌC MỘT HIỂU MƯỜI**"
-- **ĐỖ THỦ KHOA**
-- **GHI DANH BẢNG VÀNG**
-
-- Đây là **CÁCH CỤC ĐẸP NHẤT** cho con đường **KHOA CỬ**:
-- Ba văn tinh (**Văn Xương, Văn Khúc, Lưu Niên Văn Tinh**) hội tụ
-- + Khôi Việt (quý nhân) + Long Phượng (đôi cát tinh)
--: **VƯƠNG GIẢ HỌC THUẬT**`,
+Đây là cách cục đẹp nhất cho con đường khoa cử: ba văn tinh (Văn Xương,
+Văn Khúc, Lưu Niên Văn Tinh) hội tụ, cộng thêm Khôi Việt làm quý nhân
+và đôi cát tinh Long Phượng yểm trợ — đúng nghĩa "vương giả học thuật".`,
   },
 
   {
@@ -127,20 +103,14 @@ Trì + Phượng Các:**
     sao: ['Lưu Niên Văn Tinh'],
     ketHop: ['Thiên Cơ', 'Cự Môn'],
     doUuTien: 75,
-    tomTat: `**Lưu Niên Văn Tinh + Thiên Cơ + Cự Môn:**
+    tomTat: `Khi Lưu Niên Văn Tinh hội Thiên Cơ và Cự Môn, đương số vô cùng thông
+minh, có khả năng tư duy logic tuyệt vời, học rất giỏi và chuyên môn
+sâu.
 
-**Đặc trưng:**
-- **VÔ CÙNG THÔNG MINH**
-- Có khả năng **TƯ DUY LOGIC TUYỆT VỜI**
-- Học **VÔ CÙNG GIỎI**
-- **CHUYÊN MÔN SÂU**
-
-- **Thiên Cơ** (mưu trí, biến hóa) + **Cự Môn** (lý luận sắc bén) + **Lưu Niên
-Văn Tinh** (học vấn) = bộ **TRÍ TUỆ XUẤT CHÚNG** — hợp với:
-- **NHÀ NGHIÊN CỨU**
-- **CHUYÊN GIA**
-- **GIÁO SƯ**
-- **NHÀ KHOA HỌC**`,
+Bộ ba sao này bổ sung cho nhau: Thiên Cơ chủ mưu trí biến hóa, Cự Môn
+mang lý luận sắc bén, Lưu Niên Văn Tinh đem học vấn — hợp thành bộ trí
+tuệ xuất chúng. Cách cục này hợp với nhà nghiên cứu, chuyên gia, giáo
+sư và nhà khoa học.`,
   },
 
   {
@@ -149,23 +119,19 @@ Văn Tinh** (học vấn) = bộ **TRÍ TUỆ XUẤT CHÚNG** — hợp với:
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Lưu Niên Văn Tinh tại Phụ Mẫu:**
-- Cha mẹ là người **CÓ HỌC THỨC, CÓ CHỮ NGHĨA, CÓ CHỨC DANH**
-- Nếu không thì cũng có **TÀI NGHỆ KHÉO LÉO**
-- Cha mẹ có **NHIỀU BẰNG CẤP**, học lên được cao
-- Có thể là **THẠC SỸ, GIÁO SƯ, TIẾN SỸ**
+    tomTat: `Đương số có Lưu Niên Văn Tinh đóng Phụ Mẫu thường có cha mẹ là người
+học thức, có chữ nghĩa và chức danh; nếu không thì cũng có tài nghệ
+khéo léo. Cha mẹ nhiều bằng cấp, học lên được cao, có thể là thạc sỹ,
+giáo sư hoặc tiến sỹ.
 
-**Đương số ÂM DƯƠNG THUẬN LÝ:**
-- Sinh ra trong gia đình **GIA GIÁO, GIỎI GIANG**
-- Tuổi trẻ thường có **ĐIỀU KIỆN HỌC TẬP TỐT**
-- **THUẬN LỢI THI CỬ, THÀNH DANH**
+Đương số sinh ra trong gia đình gia giáo, giỏi giang, tuổi trẻ thường
+có điều kiện học tập tốt, thuận lợi thi cử và thành danh.
 
-**Khi đẻ đương số:**
-Sự nghiệp học tập và công danh của cha mẹ dễ **THUẬN LỢI, PHÁT TRIỂN HƠN**.
+Một điểm thú vị: kể từ khi đẻ ra đương số, sự nghiệp học tập và công
+danh của cha mẹ thường thuận lợi và phát triển hơn trước.
 
-**Đặc trưng hôn nhân:**
-- Người dễ **KẾT HÔN MUỘN**
-- Người hôn phối là người **CÓ ĐIỀU KIỆN, GIÀU CÓ**`,
+Về hôn nhân, đương số dễ kết hôn muộn; người hôn phối là người có
+điều kiện và giàu có.`,
   },
 
   {
@@ -174,25 +140,19 @@ Sự nghiệp học tập và công danh của cha mẹ dễ **THUẬN LỢI, PH
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `**Lưu Niên Văn Tinh tại Phúc Đức:**
-- Được hưởng **PHÚC ĐỨC**, **GIA TĂNG TUỔI THỌ**, **SỐNG LÂU**
-- Sinh ra trong dòng họ, gia đình có **TRI THỨC CAO**
-- **TRUYỀN THỐNG HỌC TẬP NGHIÊN CỨU TỐT**
-- Nhiều người **CÓ BẰNG CẤP**, đạt **KHOA BẢNG CAO**
+    tomTat: `Đương số có Lưu Niên Văn Tinh đóng Phúc Đức được hưởng phúc đức dồi
+dào, gia tăng tuổi thọ và sống lâu. Sinh ra trong dòng họ, gia đình có
+tri thức cao và truyền thống học tập nghiên cứu tốt; nhiều người có
+bằng cấp, đạt khoa bảng cao.
 
-**Đặc biệt:**
-- Trong dòng họ dễ có **THẦN ĐỒNG** sinh ra
-- Nhất là khi hội thêm **Văn Xương + Văn Khúc + Khôi Việt + Long Trì + Phượng
-  Các**
+Đặc biệt trong dòng họ dễ có thần đồng sinh ra, nhất là khi hội thêm
+Văn Xương, Văn Khúc, Thiên Khôi, Thiên Việt, Long Trì và Phượng Các.
 
-**Đặc tính tâm linh:**
-- Tổ tiên **MỒ YÊN MẢ ĐẸP**
-- Dòng họ **PHÁT ĐẠT NGHIỆP VĂN**, nhiều người **ĐỖ ĐẠT**
-- Trên mộ các cụ thường hay có **CÂU ĐỐI, CÂU THƠ**
+Về tâm linh, tổ tiên mồ yên mả đẹp, dòng họ phát đạt nghiệp văn, nhiều
+người đỗ đạt; trên mộ các cụ thường hay có câu đối, câu thơ.
 
-**Hôn nhân:**
-Gia đình người hôn phối là **GIA ĐÌNH GIA GIÁO**, cha mẹ là người có **HỌC THỨC,
-NHIỀU BẰNG CẤP CAO**.`,
+Về hôn nhân, gia đình người hôn phối là gia đình gia giáo, cha mẹ là
+người có học thức và nhiều bằng cấp cao.`,
   },
 
   {
@@ -201,21 +161,18 @@ NHIỀU BẰNG CẤP CAO**.`,
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Lưu Niên Văn Tinh tại Điền Trạch:**
-- Gia tăng **NÉT ĐẸP** của nhà cửa, nơi ở
-- Nhà thường **GỌN GÀNG, SẠCH SẼ**
-- Có **NHIỀU SÁCH**
-- Treo **NHIỀU BẰNG CẤP, GIẢI THƯỞNG**
-- Nhà dễ có **THƯ PHÒNG, PHÒNG ĐỌC SÁCH RIÊNG**
+    tomTat: `Lưu Niên Văn Tinh đóng Điền Trạch gia tăng nét đẹp cho nhà cửa và
+nơi ở của đương số. Nhà thường gọn gàng sạch sẽ, có nhiều sách, treo
+nhiều bằng cấp và giải thưởng; nhà dễ có thư phòng hoặc phòng đọc sách
+riêng.
 
-**Tính nghệ thuật cao:**
-- Nhiều **TRANH ẢNH, ĐỒ VẬT TRANG TRÍ ĐẸP ĐẼ**
-- Hay treo **CÂU CHÂM NGÔN, TRIẾT LÝ** của vĩ nhân
+Tính nghệ thuật trong không gian sống cũng cao: nhiều tranh ảnh, đồ
+vật trang trí đẹp đẽ; hay treo những câu châm ngôn, triết lý của vĩ
+nhân.
 
-**Khu vực nhà ở:**
-- **DÂN TRÍ CAO**
-- Nhiều người hàng xóm có **HỌC THỨC, VĂN HÓA, TÌNH CẢM**
-- Dễ có **NHIỀU ĐỨA TRẺ THÔNG MINH, HỌC GIỎI** được sinh ra`,
+Khu vực nhà ở thường có dân trí cao, hàng xóm nhiều người học thức,
+văn hóa và tình cảm; trong vùng dễ có nhiều đứa trẻ thông minh học
+giỏi được sinh ra.`,
   },
 
   {
@@ -224,25 +181,22 @@ NHIỀU BẰNG CẤP CAO**.`,
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Quan Lộc'],
     doUuTien: 80,
-    tomTat: `**Lưu Niên Văn Tinh tại Quan Lộc:**
-- Là người làm các nghề **ĐẶC BIỆT, ĐẶC SẮC** về:
-  - **KHÉO LÉO CHÂN TAY**
-  - **NGÔN NGỮ**
-  - **THỦ CÔNG, MỸ NGHỆ, MỸ THUẬT**
-  - **VĂN HỌC NGHỆ THUẬT**
--: **NỔI TIẾNG và PHÁT TÀI**
+    tomTat: `Đương số có Lưu Niên Văn Tinh đóng Quan Lộc thường làm các nghề đặc
+biệt, đặc sắc, đòi hỏi sự khéo léo chân tay, ngôn ngữ, thủ công mỹ
+nghệ, mỹ thuật, văn học nghệ thuật — và nhờ đó nổi tiếng và phát tài.
 
-**Đặc trưng:**
-- Người **HAM HỌC, THÍCH TÌM HIỂU**
-- **NHIỀU BẰNG CẤP, KHEN THƯỞNG**
-- **SỬ DỤNG ĐÚNG ngành học** vào nghề nghiệp
-- Công việc có tính **NGHIÊN CỨU, TÌM HIỂU CAO**
-- Có thể **HỌC THÊM BẰNG CẤP** để **THĂNG TIẾN**
-- Hay được **CỬ ĐI HỌC THÊM CHUYÊN MÔN** bên ngoài
+Đặc trưng nghề nghiệp:
 
-**Triết lý "Nhất nghệ tinh, nhất thân vinh":**
-- Tài lộc phát sinh từ **CHÍNH NĂNG LỰC và GIÁ TRỊ TRI THỨC** đương số tạo ra
-- Không phải do **MAY RỦI nhất thời**`,
+- Người ham học, thích tìm hiểu
+- Nhiều bằng cấp, khen thưởng
+- Sử dụng đúng ngành học vào nghề nghiệp
+- Công việc có tính nghiên cứu, tìm hiểu cao
+- Có thể học thêm bằng cấp để thăng tiến
+- Hay được cử đi học thêm chuyên môn bên ngoài
+
+Triết lý "nhất nghệ tinh, nhất thân vinh" rất đúng với đương số: tài
+lộc phát sinh từ chính năng lực và giá trị tri thức bản thân tạo ra,
+chứ không phải do may rủi nhất thời.`,
   },
 
   {
@@ -251,14 +205,12 @@ NHIỀU BẰNG CẤP CAO**.`,
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Nô Bộc'],
     doUuTien: 72,
-    tomTat: `**Lưu Niên Văn Tinh tại Nô Bộc:**
-- Bè bạn, người giúp việc là người có **CHỮ NGHĨA**, hoặc có **TÀI NGHỆ ĐẶC BIỆT**
-- Nhưng **HAM VUI**
+    tomTat: `Lưu Niên Văn Tinh đóng Nô Bộc cho thấy bè bạn và người giúp việc
+xung quanh đương số là người có chữ nghĩa hoặc có tài nghệ đặc biệt,
+song lại ham vui.
 
-**Đặc trưng:**
-- Bạn bè có **HỌC THỨC, HAM HỌC**
-- **NHIỀU BẰNG CẤP**
-- Có thể **GIÚP ĐỠ** mình trong công việc và học tập`,
+Cụ thể: bạn bè đương số có học thức, ham học, nhiều bằng cấp; có thể
+giúp đỡ đương số trong công việc và học tập.`,
   },
 
   {
@@ -268,9 +220,9 @@ NHIỀU BẰNG CẤP CAO**.`,
     cung: ['Nô Bộc', 'Mệnh'],
     ketHop: ['Thiên Lương', 'Thiên Tướng'],
     doUuTien: 67,
-    tomTat: `**Lưu Niên Văn Tinh tại Nô Bộc + Thiên Lương / Thiên Tướng tại Mệnh:**
-- Dễ làm **THẦY GIÁO MÁT TAY**
-- Có **NHIỀU HỌC TRÒ HIỂN ĐẠT, XUẤT SẮC**`,
+    tomTat: `Khi Lưu Niên Văn Tinh đóng Nô Bộc và Mệnh có Thiên Lương hoặc Thiên
+Tướng, đương số dễ làm thầy giáo mát tay, có nhiều học trò hiển đạt,
+xuất sắc.`,
   },
 
   {
@@ -279,20 +231,17 @@ NHIỀU BẰNG CẤP CAO**.`,
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Thiên Di'],
     doUuTien: 78,
-    tomTat: `**Lưu Niên Văn Tinh tại Thiên Di:**
-- Người ra ngoài, đi xa thường hay gặp **MAY MẮN, THUẬN LỢI**
-- Trong **CÔNG DANH, THI CỬ**
-- Được trao tặng **NHIỀU BẰNG CẤP, KHEN THƯỞNG**
+    tomTat: `Đương số có Lưu Niên Văn Tinh đóng Thiên Di mỗi khi ra ngoài, đi xa
+đều hay gặp may mắn và thuận lợi trong công danh thi cử, được trao
+tặng nhiều bằng cấp và khen thưởng.
 
-**Đặc biệt:**
-- Người **THUẬN LỢI** trong việc **ĐI XA**
-- Có thể **ĐI HỌC XA, ĐI DU HỌC**
-- Hay tới những nơi có **HỌC THỨC, VĂN HÓA CAO, NGHỆ THUẬT**
-- Ra ngoài học tập **NHIỀU THỨ**, có người **CHỈ BẢO, HƯỚNG DẪN, KÈM CẶP**
+Đặc biệt, đương số thuận lợi trong việc đi xa: có thể đi học xa, đi
+du học, hay tới những nơi có học thức, văn hóa cao và nghệ thuật. Ra
+ngoài học tập được nhiều thứ, thường có người chỉ bảo, hướng dẫn,
+kèm cặp tận tình.
 
-**Quý nhân:**
-- Hay được các **QUÝ NHÂN PHÙ TRỢ**
-- Gặp được **NHIỀU NGƯỜI có KIẾN THỨC UYÊN THÂM, TÀI GIỎI** giúp đỡ, giảng dạy`,
+Đương số cũng hay được quý nhân phù trợ, gặp được nhiều người có
+kiến thức uyên thâm và tài giỏi giúp đỡ, giảng dạy.`,
   },
 
   {
@@ -301,26 +250,21 @@ NHIỀU BẰNG CẤP CAO**.`,
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Lưu Niên Văn Tinh tại Tật Ách:**
+    tomTat: `Lưu Niên Văn Tinh đóng Tật Ách có ngũ hành thuộc Kim nên bệnh tật
+đương số dễ liên quan tới phế phổi và vòm họng.
 
-**Bệnh đặc trưng:**
-- Có ngũ hành thuộc **KIM**: bệnh dễ liên quan tới **PHẾ PHỔI, VÒM HỌNG**
+Vốn là sao Giải, ví như Lộc Tồn thứ hai, Lưu Niên Văn Tinh có tính
+chất hóa giải bệnh tật và tai họa nhẹ. Phần lớn được sử dụng bằng
+kiến thức, khoa học kỹ thuật để hóa giải: ốm đau thì gặp bác sỹ
+giỏi, gặp tai họa thì có đủ tài trí sáng suốt để tự giải quyết.
 
-**Sao GIẢI - như Lộc Tồn thứ 2:**
-- Có tính chất **HÓA GIẢI bệnh tật, tai họa NHẸ**
-- Phần lớn được sử dụng bằng **KIẾN THỨC, KHOA HỌC KỸ THUẬT** để hóa giải
-- Ốm đau thì **GẶP BÁC SỸ GIỎI**
-- Gặp tai họa thì có **ĐỦ TÀI TRÍ SÁNG SUỐT** để giải quyết
+Một đặc trưng đáng chú ý: trong những hoàn cảnh khó khăn, ốm đau,
+bệnh tật, đương số thường tìm hiểu và học tập được những cái mới
+nhanh hơn, thông suốt hơn — biến thời gian dưỡng bệnh thành cơ hội
+nghiên cứu.
 
-**Đặc trưng:**
-- Trong những hoàn cảnh **KHÓ KHĂN, ỐM ĐAU, BỆNH TẬT** thường:
-  - **TÌM HIỂU, HỌC TẬP** được **NHỮNG CÁI MỚI**
-  - **NHANH HƠN, THÔNG SUỐT HƠN**
-- Biến thời gian **DƯỠNG BỆNH** thành **CƠ HỘI NGHIÊN CỨU**
-
-**Khi mất đi:**
-- Có **BÀI ĐIẾU VĂN TƯỞNG NHỚ vô cùng HAY và XÚC ĐỘNG**
-- Được **TRUY TẶNG nhiều BẰNG KHEN, GIẤY KHEN**`,
+Khi đương số mất đi, thường có bài điếu văn tưởng nhớ vô cùng hay
+và xúc động, được truy tặng nhiều bằng khen và giấy khen.`,
   },
 
   {
@@ -329,20 +273,20 @@ NHIỀU BẰNG CẤP CAO**.`,
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Lưu Niên Văn Tinh tại Tài Bạch:**
-- Là người **TÌM HIỂU NGHIÊN CỨU SÂU** về **TÀI CHÍNH**
-- Kiếm được tiền nhờ **HỌC TẬP NGHIÊN CỨU, HỌC VẤN**
-- Có thể sử dụng **BẰNG CẤP, NGÀNH NGHỀ MÌNH HỌC** để **KIẾM TIỀN**
+    tomTat: `Đương số có Lưu Niên Văn Tinh đóng Tài Bạch là người tìm hiểu, nghiên
+cứu sâu về tài chính. Tiền bạc kiếm được nhờ học tập nghiên cứu và
+học vấn; có thể sử dụng bằng cấp cùng ngành nghề mình học để kiếm
+tiền.
 
-**Đặc trưng:**
-- Hay đạt được **HỌC BỔNG, QUỸ KHUYẾN HỌC**
-- Tạo điều kiện cho **HỌC TẬP**
-- Hay **BỎ NHIỀU TIỀN** cho việc **HỌC TẬP, NGHIÊN CỨU, ĐI DU HỌC**
-- Sau dễ **KIẾM ĐƯỢC TIỀN nhờ KIẾN THỨC** đó
+Đặc trưng dòng tiền:
 
-**Triết lý:**
-- Đầu tư cho **TRÍ TUỆ** chính là **NỀN MÓNG VỮNG CHẮC NHẤT** để phát triển
-  tài lộc bền vững`,
+- Hay đạt được học bổng, quỹ khuyến học
+- Tạo điều kiện cho việc học tập
+- Hay bỏ nhiều tiền cho học tập, nghiên cứu, đi du học
+- Sau đó dễ kiếm được tiền nhờ chính kiến thức tích lũy được
+
+Triết lý nổi bật: đầu tư cho trí tuệ chính là nền móng vững chắc nhất
+để phát triển tài lộc bền vững.`,
   },
 
   {
@@ -351,20 +295,17 @@ NHIỀU BẰNG CẤP CAO**.`,
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Lưu Niên Văn Tinh tại Tử Tức:**
-- Con cái **HỌC HÀNH TỐT**
-- **GIA TĂNG SỐ LƯỢNG về CON**
+    tomTat: `Lưu Niên Văn Tinh đóng Tử Tức cho thấy con cái đương số học hành
+tốt, đồng thời gia tăng số lượng về con.
 
-**Tính cách con:**
-- **THÔNG MINH, CHĂM HỌC**
-- **HAM TÌM TÒI**
-- Có đứa thích theo **NGHỆ THUẬT**
+Tính cách con cái:
 
-**Quý tử:**
-- Dễ **SINH QUÝ TỬ**
-- Con cái có **NHIỀU BẰNG CẤP, HỌC VỊ**
-- Có thể **HỌC LÊN CAO**
-- Đạt **NHIỀU THÀNH TÍCH, CHỨC DANH** trong cuộc đời`,
+- Thông minh, chăm học
+- Ham tìm tòi
+- Có đứa thích theo nghệ thuật
+
+Đường con cái dễ sinh quý tử, con có nhiều bằng cấp và học vị, có
+thể học lên cao, đạt nhiều thành tích và chức danh trong cuộc đời.`,
   },
 
   {
@@ -373,20 +314,20 @@ NHIỀU BẰNG CẤP CAO**.`,
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Lưu Niên Văn Tinh tại Phu Thê:**
-- Vợ chồng **DANH GIÁ**, có **HỌC THỨC**
-- **HÒA THUẬN, ĐẸP ĐÔI**
+    tomTat: `Lưu Niên Văn Tinh đóng Phu Thê cho thấy vợ chồng đương số danh giá,
+có học thức, hòa thuận và đẹp đôi.
 
-**Người hôn phối:**
-- **HAM HỌC TẬP**
-- Có **NHIỀU BẰNG CẤP**
-- Học lên được **CAO**
-- Có **THIÊN HƯỚNG NGHỆ THUẬT TỐT**
-- Có **CHUYÊN MÔN SÂU**
-- Thuận lợi trong con đường **CÔNG DANH, KHOA BẢNG**
-- Đạt **NHIỀU THÀNH TỰU**
+Đặc trưng người hôn phối:
 
-Đời sống hôn nhân **HÒA THUẬN, ĐỒNG ĐIỆU về TRÍ TUỆ** — vợ chồng cùng chí
+- Ham học tập
+- Có nhiều bằng cấp
+- Học lên được cao
+- Có thiên hướng nghệ thuật tốt
+- Có chuyên môn sâu
+- Thuận lợi trong con đường công danh, khoa bảng
+- Đạt nhiều thành tựu
+
+Đời sống hôn nhân hòa thuận, đồng điệu về trí tuệ — vợ chồng cùng chí
 hướng học tập.`,
   },
 
@@ -396,17 +337,13 @@ hướng học tập.`,
     sao: ['Lưu Niên Văn Tinh'],
     cung: ['Huynh Đệ'],
     doUuTien: 72,
-    tomTat: `**Lưu Niên Văn Tinh tại Huynh Đệ:**
-- Anh chị em đều là người có **HỌC VẤN, HỌC CAO**
-- **NHIỀU BẰNG CẤP, NHIỀU THÀNH TỰU**
+    tomTat: `Lưu Niên Văn Tinh đóng Huynh Đệ cho thấy anh chị em của đương số đều
+là người học vấn, học cao, nhiều bằng cấp và nhiều thành tựu.
 
-**Đặc trưng:**
-- Người tuổi trẻ sống trong **MÔI TRƯỜNG có ANH CHỊ EM GIỎI**
-- Dễ được **HỖ TRỢ, KÈM CẶP**
-- Giúp **TIẾP THU KIẾN THỨC, HỌC TẬP THUẬN LỢI HƠN**
-
-- Như "**gần đèn thì sáng**" — đương số được hưởng lợi từ môi trường gia đình
-trí thức.`,
+Đương số tuổi trẻ sống trong môi trường có anh chị em giỏi, dễ được
+hỗ trợ và kèm cặp, giúp tiếp thu kiến thức và học tập thuận lợi hơn.
+Như câu "gần đèn thì sáng" — đương số được hưởng lợi từ chính môi
+trường gia đình trí thức.`,
   },
 
   {
@@ -414,21 +351,21 @@ trí thức.`,
     title: 'Lưu Niên Văn Tinh vào hạn',
     sao: ['Lưu Niên Văn Tinh'],
     doUuTien: 60,
-    tomTat: `**Lưu Niên Văn Tinh vào hạn:**
+    tomTat: `Khi Lưu Niên Văn Tinh đi vào hạn, đương số bước vào giai đoạn thiên
+về tìm hiểu và học tập thêm kiến thức mới.
 
-**Đặc trưng vận hạn:**
-- Hạn thiên về **TÌM HIỂU, HỌC TẬP** thêm **KIẾN THỨC MỚI**
-- Hạn dễ **ĐI HỌC THÊM** cái gì đó mới
-- Hoặc **ĐI DU HỌC**
-- Nếu không thì đơn giản chỉ là giai đoạn **MUA THÊM SÁCH VỞ về đọc**
-- Đầu óc **THÔNG SUỐT** và **DỄ TIẾP THU HƠN**
+Đặc trưng vận hạn:
 
-**Quý nhân:**
-- Dễ có **QUÝ NHÂN PHÙ TRỢ**
-- Có người **BẢO BAN HỖ TRỢ, GIÚP ĐỠ**
-- Khiến cho **KIẾN THỨC, TRÍ TUỆ** được **MỞ MANG, PHÁT TRIỂN HƠN**
+- Dễ đi học thêm cái gì đó mới
+- Hoặc đi du học
+- Nếu không, đơn giản chỉ là giai đoạn mua thêm sách vở về đọc
+- Đầu óc thông suốt và dễ tiếp thu hơn
 
-- Đặc biệt tốt cho **học sinh, sinh viên, người nghiên cứu** vào năm hạn này.`,
+Đương số dễ có quý nhân phù trợ, có người bảo ban hỗ trợ giúp đỡ,
+khiến cho kiến thức và trí tuệ được mở mang phát triển hơn.
+
+Đây là vận hạn đặc biệt tốt cho học sinh, sinh viên và người làm
+nghiên cứu.`,
   },
 
   {
@@ -437,11 +374,10 @@ trí thức.`,
     sao: ['Lưu Niên Văn Tinh'],
     ketHop: ['Văn Xương', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt', 'Long Trì', 'Phượng Các'],
     doUuTien: 55,
-    tomTat: `**Lưu Niên Văn Tinh + Văn Xương + Văn Khúc + Khôi Việt + Long
-Phượng vào hạn:**
-- Dễ **ĐỖ THỦ KHOA, GHI DANH BẢNG VÀNG**
-- **HỌC LÊN GIÁO SƯ, TIẾN SỸ**
-- Đạt **NHIỀU GIẢI THƯỞNG CAO** về học tập, nghiên cứu`,
+    tomTat: `Khi Lưu Niên Văn Tinh hội Văn Xương, Văn Khúc, Thiên Khôi, Thiên Việt,
+Long Trì và Phượng Các vào hạn, đương số dễ đỗ thủ khoa, ghi danh bảng
+vàng, học lên giáo sư hoặc tiến sỹ và đạt nhiều giải thưởng cao về học
+tập, nghiên cứu.`,
   },
 
   {
@@ -449,25 +385,28 @@ Phượng vào hạn:**
     title: 'Lời khuyên cho người Lưu Niên Văn Tinh',
     sao: ['Lưu Niên Văn Tinh'],
     doUuTien: 35,
-    tomTat: `**Lưu Niên Văn Tinh là ngôi sao phản ánh rõ nét VAI TRÒ CỦA TRI THỨC** trong
-từng giai đoạn cuộc đời.
+    tomTat: `Lưu Niên Văn Tinh là ngôi sao phản ánh rõ nét vai trò của tri thức
+trong từng giai đoạn cuộc đời đương số.
 
-**Sức mạnh:**
-- **HỌC VẤN cao**
-- **THÔNG MINH XUẤT CHÚNG**
-- **KHOA BẢNG, KHEN THƯỞNG**
-- Sao **GIẢI**, hóa giải tai ương nhỏ
+Sức mạnh của sao này gồm:
 
-**Bí quyết phát huy Lưu Niên Văn Tinh:**
-- Khai mở **TƯ DUY**
-- Nâng cao **HỌC VẤN**
-- Theo đuổi con đường **CÔNG DANH gắn với TRÍ TUỆ**
-- **ĐẦU TƯ cho HỌC TẬP** — học là tài sản bền vững nhất
-- **NGHIÊN CỨU CHUYÊN SÂU** thay vì học rộng nông
-- Đi với **Văn Xương + Văn Khúc** thành **TAM VĂN TINH** — nhân lên sức mạnh
-- **CHUYÊN MÔN HÓA** — biến tri thức thành nghề nghiệp
+- Học vấn cao
+- Thông minh xuất chúng
+- Khoa bảng, khen thưởng
+- Đồng thời là sao Giải, hóa giải tai ương nhỏ
 
-- Khi được **kích hoạt đúng thời điểm và vị trí**, Lưu Niên Văn Tinh giúp **KHAI
-MỞ TƯ DUY, NÂNG CAO HỌC VẤN** cho con đường **CÔNG DANH gắn với TRÍ TUỆ**.`,
+Bí quyết phát huy Lưu Niên Văn Tinh:
+
+- Khai mở tư duy, nâng cao học vấn
+- Theo đuổi con đường công danh gắn với trí tuệ
+- Đầu tư cho học tập — học là tài sản bền vững nhất
+- Nghiên cứu chuyên sâu thay vì học rộng nông
+- Khi đi với Văn Xương và Văn Khúc thành Tam Văn Tinh, sức mạnh được
+  nhân lên
+- Chuyên môn hóa, biến tri thức thành nghề nghiệp
+
+Khi được kích hoạt đúng thời điểm và vị trí, Lưu Niên Văn Tinh giúp
+đương số khai mở tư duy, nâng cao học vấn cho con đường công danh
+gắn với trí tuệ.`,
   },
 ];

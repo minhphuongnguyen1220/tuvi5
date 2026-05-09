@@ -24,29 +24,23 @@ export const luanGiai_Tuyet: DoanLuanGiai[] = [
     title: 'Tuyệt - Đặc tính chung',
     sao: ['Tuyệt'],
     doUuTien: 33,
-    tomTat: `**Tuyệt** — phụ tinh **HUNG TINH**, vị trí **THỨ 10** vòng Trường Sinh.
+    tomTat: `**Tuyệt** là phụ tinh thuộc hung tinh, đứng ở vị trí thứ 10 trong
+vòng Trường Sinh, ngũ hành Thổ.
 
-**Ngũ hành:** **Thổ**.
+Bản chất Tuyệt mang đặc tính bế tắc, phá hoại và tiêu diệt — chấm dứt và
+suy tàn. Sau giai đoạn "Mộ", thân xác tan biến vào đất; đây là dấu chấm
+hết của một giai đoạn.
 
-**Đặc tính:**
-- **BẾ TẮC, PHÁ HOẠI, TIÊU DIỆT**
-- **CHẤM DỨT, SUY TÀN**
-- Sau Mộ: thân xác **TAN BIẾN VÀO ĐẤT**
-- Là **DẤU CHẤM HẾT** một giai đoạn
+Tuyệt có vai trò hai mặt rất đặc biệt. Bản thân là hung tinh chủ về bế
+tắc và suy tàn, nhưng đồng thời lại kìm hãm sức phá hoại của sát tinh
+đồng cung — khiến tai họa chỉ dừng ở mức suy tính, chưa phát tác thành
+hiện thực. Sao này vừa u tối bế tắc lại vừa ẩn chứa sự khôn ngoan, kín
+đáo.
 
-**Vai trò 2 mặt:**
-- Bản thân là **HUNG TINH** chủ về bế tắc, suy tàn
-- Đặc biệt: **KÌM HÃM** sức phá hoại của **SÁT TINH** đồng cung
-  - tai họa chỉ dừng ở mức **SUY TÍNH**, chưa phát tác thành hiện thực
-- Vừa **U TỐI BẾ TẮC** vừa **ẨN CHỨA SỰ KHÔN NGOAN, KÍN ĐÁO**
-
-**Tâm tính người Tuyệt:**
-- Chủ nhân lá số mang dáng dấp **KÍN ĐÁO**
-- **GẦY KHÔ, THIẾU SỨC SỐNG**
-- Thần thái **TRẦM MẶC**
-- Ít bộc lộ cảm xúc, da có phần **TỐI MÀU**
-- **KHÔN NGOAN, KÍN KẼ, ĐA MƯU TÚC TRÍ**
-- Sống **NỘI TÂM**, thiên về **TOAN TÍNH** hơn hành động bộc phát`,
+Về tâm tính, đương số có sao Tuyệt mang dáng dấp kín đáo, gầy khô và
+thiếu sức sống, thần thái trầm mặc, ít bộc lộ cảm xúc, da có phần tối màu.
+Đương số khôn ngoan, kín kẽ, đa mưu túc trí, sống nội tâm và thiên về toan
+tính hơn là hành động bộc phát.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -59,18 +53,13 @@ export const luanGiai_Tuyet: DoanLuanGiai[] = [
     sao: ['Tuyệt'],
     ketHop: ['Thiên Mã'],
     doUuTien: 60,
-    tomTat: `**Tuyệt + Thiên Mã + Tuần / Triệt** — như "**NGỰA CÙNG ĐƯỜNG**".
+    tomTat: `Khi Tuyệt hội cùng Thiên Mã có thêm Tuần hoặc Triệt, lá số tạo
+thành cảnh "ngựa cùng đường". Công việc bế tắc, đương số dễ gặp tiểu nhân
+quấy phá, đồng nghiệp chống đối và bị người trên kìm hãm. Cơ hội thăng
+tiến thường đến rồi vụt mất; nỗ lực nhiều mà khó đạt thành tựu.
 
-**Đặc trưng:**
-- Công việc **BẾ TẮC**
-- Dễ gặp **TIỂU NHÂN QUẤY PHÁ**
-- **ĐỒNG NGHIỆP CHỐNG ĐỐI**
-- Bị **NGƯỜI TRÊN KÌM HÃM**
-- Cơ hội thăng tiến thường **ĐẾN RỒI VỤT MẤT**
-- Nỗ lực nhiều nhưng **KHÓ ĐẠT THÀNH TỰU**
-
-Đây là cách điển hình cho **TUYỆT MÃ** + chế thêm Tuần/Triệt — ngựa kéo
-xe gặp đường tuyệt + chặn — cảnh ngộ tuyệt vọng.`,
+Đây là cách điển hình cho Tuyệt Mã có thêm Tuần Triệt chế thêm — ngựa kéo
+xe gặp đường tuyệt rồi bị chặn — cảnh ngộ tuyệt vọng.`,
   },
 
   {
@@ -79,21 +68,13 @@ xe gặp đường tuyệt + chặn — cảnh ngộ tuyệt vọng.`,
     sao: ['Tuyệt'],
     ketHop: ['Thất Sát', 'Phá Quân', 'Tham Lang'],
     doUuTien: 60,
-    tomTat: `**Tuyệt + Thất Sát + Phá Quân + Tham Lang** — vận số tiềm ẩn **HIỂM HỌA
-BẤT NGỜ**.
+    tomTat: `Khi Tuyệt hội cùng Thất Sát, Phá Quân và Tham Lang, vận số
+đương số tiềm ẩn hiểm họa bất ngờ. Tai họa thường không lộ rõ từ đầu mà
+âm ỉ ngấm ngầm, đến lúc bộc phát mới gây hậu quả nặng nề.
 
-**Đặc trưng:**
-- Tai họa thường **KHÔNG LỘ RÕ** từ đầu
-- **ÂM Ỉ, NGẤM NGẦM**
-- Khi bộc phát thì gây **HẬU QUẢ NẶNG NỀ**
-
-**Hệ quả:**
-- **TRANH CHẤP PHÁP LÝ, KIỆN TỤNG**
-- **MẤT MÁT TÀI SẢN**
-- **TAI NẠN BẤT NGỜ**
-
-Sát Phá Tham là bộ võ tinh hành động — Tuyệt làm tăng tính phá hoại bí
-ẩn của bộ này.`,
+Hệ quả thường thấy là tranh chấp pháp lý, kiện tụng, mất mát tài sản và
+tai nạn bất ngờ. Sát Phá Tham vốn là bộ võ tinh hành động, nay có Tuyệt
+đi cùng làm tăng tính phá hoại bí ẩn của bộ này.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -106,34 +87,25 @@ Sát Phá Tham là bộ võ tinh hành động — Tuyệt làm tăng tính phá
     sao: ['Tuyệt'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Tuyệt thủ Mệnh** — người **KÍN KẼ ĐA MƯU TÚC TRÍ**, công việc khó hanh
-thông.
+    tomTat: `Khi Tuyệt thủ Mệnh, đương số là người kín kẽ, đa mưu túc trí
+nhưng công việc khó hanh thông.
 
-**Tướng mạo:**
-- Mang dáng dấp **KÍN ĐÁO**
-- **GẦY KHÔ, THIẾU SỨC SỐNG**
-- Thần thái **TRẦM MẶC**
-- Ít bộc lộ cảm xúc
-- Da có phần **TỐI MÀU**
+Về tướng mạo, đương số mang dáng dấp kín đáo, gầy khô và thiếu sức sống,
+thần thái trầm mặc, ít bộc lộ cảm xúc, da có phần tối màu.
 
-**Tính cách:**
-- **KHÔN NGOAN, KÍN KẼ**
-- **ĐA MƯU TÚC TRÍ**
-- Sống **NỘI TÂM**
-- Thiên về **TOAN TÍNH, SUY NGHĨ NHIỀU** hơn hành động bộc phát
-- Biểu hiện rõ nét của sự **KHÔ CẠN, TIÊU TÁN** mà sao Tuyệt chủ quản
+Về tính cách, đương số khôn ngoan, kín kẽ, đa mưu túc trí, sống nội tâm
+và thiên về toan tính suy nghĩ nhiều hơn là hành động bộc phát. Đây là
+biểu hiện rõ nét của sự khô cạn, tiêu tán mà sao Tuyệt chủ quản.
 
-**Sự nghiệp:**
-- Công việc **KHÓ HANH THÔNG**
-- Dễ gặp **TRỞ NGẠI**
-- **CHẬM TIẾN TRIỂN**
+Trong sự nghiệp, công việc của đương số khó hanh thông, dễ gặp trở ngại
+và chậm tiến triển.
 
-**Đặc tính 2 mặt khi đi cùng sát tinh:**
-- Tuyệt có khả năng **KÌM HÃM** sức phá hoại của sát tinh
-- Tai họa chỉ dừng ở mức **SUY TÍNH**, chưa **PHÁT TÁC THÀNH HIỆN THỰC**
-- Người **NÓNG TÍNH, NHIỀU MƯU MÔ** nhưng **KIỂM SOÁT ĐƯỢC MÌNH**
-- Không để cho những **TẬT XẤU, THỦ ĐOẠN** trong mình bộc lộ ra
-- Thành một người **RẤT GIỎI, KHÓ AI QUA MẮT**`,
+Đặc tính hai mặt khi đi cùng sát tinh đáng được nhấn mạnh: Tuyệt có khả
+năng kìm hãm sức phá hoại của sát tinh, khiến tai họa chỉ dừng ở mức suy
+tính chứ chưa phát tác thành hiện thực. Đương số tuy nóng tính và nhiều
+mưu mô nhưng vẫn kiểm soát được mình, không để cho những tật xấu hay thủ
+đoạn bộc lộ ra ngoài. Nhờ vậy, đương số trở thành người rất giỏi, khó ai
+qua mắt.`,
   },
 
   {
@@ -142,21 +114,15 @@ thông.
     sao: ['Tuyệt'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Tuyệt tại Phụ Mẫu** — cha mẹ **VẤT VẢ, KÍN ĐÁO DÈ DẶT**.
+    tomTat: `Khi Tuyệt cư Phụ Mẫu, cha mẹ đương số vất vả, kín đáo và dè
+dặt. Sức khỏe của cha mẹ dễ suy giảm; con đường công danh sự nghiệp gặp
+nhiều trắc trở, phải trải qua gian khó mới gây dựng được gia đình. Tính
+tình cha mẹ kín đáo, dè dặt, ít chia sẻ và không hanh thông trong quan
+hệ xã hội.
 
-**Đặc trưng:**
-- Cha mẹ **VẤT VẢ**
-- Sức khỏe dễ **SUY GIẢM**
-- Con đường công danh sự nghiệp thường gặp **NHIỀU TRẮC TRỞ**
-- Phải trải qua **GIAN KHÓ** mới gây dựng được gia đình
-- Tính tình cha mẹ **KÍN ĐÁO, DÈ DẶT, ÍT CHIA SẺ**
-- **KHÔNG HANH THÔNG** trong quan hệ xã hội
-
-**Kết hợp tài tinh:**
-- Cha mẹ **CHỊU KHÓ TIẾT KIỆM, TÍCH LŨY**
-- Biết **LO CHO CON CÁI**
-- **GIỮ GÌN GIA SẢN**
-- Dù vậy cuộc đời vẫn **NHIỀU GIAN LAO**, ít được an nhàn`,
+Khi kết hợp với tài tinh, cha mẹ chịu khó tiết kiệm, tích lũy, biết lo
+cho con cái và giữ gìn gia sản. Dù vậy, cuộc đời vẫn nhiều gian lao và
+ít được an nhàn.`,
   },
 
   {
@@ -165,23 +131,15 @@ thông.
     sao: ['Tuyệt'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Tuyệt tại Phúc Đức** — phúc phần tổ tiên **KÉM**, mồ mả không yên.
+    tomTat: `Khi Tuyệt cư Phúc Đức, phúc phần tổ tiên kém, mồ mả dòng họ
+không yên, khó tụ phúc cho con cháu hưởng. Đương số ít được che chở, dễ
+phải ly hương lập nghiệp và tự gây dựng lại phước đức cho chính mình.
+Trong dòng họ có nhiều người nghèo khó, ốm đau bệnh tật và không giữ
+được hương khói tổ tiên.
 
-**Đặc trưng:**
-- **PHÚC PHẦN TỔ TIÊN KÉM**
-- **MỒ MẢ DÒNG HỌ KHÔNG YÊN**
-- **KHÓ TỤ PHÚC** để con cháu hưởng
-- Đương số **ÍT ĐƯỢC CHE CHỞ**
-- Dễ phải **LY HƯƠNG LẬP NGHIỆP**
-- Tự gây dựng lại **PHƯỚC ĐỨC** cho chính mình
-- Nhiều người trong dòng họ **NGHÈO KHÓ, ỐM ĐAU BỆNH TẬT**
-- **KHÔNG GIỮ ĐƯỢC HƯƠNG KHÓI** tổ tiên
-
-**Hội Tuần / Triệt hoặc nhiều sát bại tinh:**
-- Mồ mả càng dễ **THẤT LẠC**
-- Nằm ở **NƠI ĐỊA THẾ XẤU**, nhiều xung xạ
-- Chủ mệnh **KHÓ BỀN THỌ**
-- Gặp **TAI HỌA BẤT NGỜ** hoặc biến cố ngoài ý muốn`,
+Khi hội Tuần Triệt hoặc nhiều sát bại tinh, mồ mả càng dễ thất lạc, nằm
+ở nơi địa thế xấu, nhiều xung xạ. Đương số khó bền thọ, dễ gặp tai họa
+bất ngờ hoặc biến cố ngoài ý muốn.`,
   },
 
   {
@@ -190,22 +148,17 @@ thông.
     sao: ['Tuyệt'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Tuyệt tại Điền Trạch** — nhà ở **NGÕ HẺM, ĐƯỜNG CỤT**, tài sản giấu kín.
+    tomTat: `Khi Tuyệt cư Điền Trạch, sao này gây trở ngại cho việc tạo
+dựng và duy trì tài sản; nhà cửa, đất đai khó duy trì lâu dài. Nơi sinh
+sống và chỗ làm việc dễ rơi vào tình thế bất lợi: nhà ở ngõ hẻm, đường
+cụt, tối tăm, ít người qua lại; cuộc sống thiếu sinh khí, mang cảm giác
+cô quạnh.
 
-**Đặc trưng:**
-- Gây **TRỞ NGẠI** cho việc tạo dựng và duy trì tài sản
-- Nhà cửa, đất đai **KHÓ DUY TRÌ LÂU DÀI**
-- Nơi sinh sống / chỗ làm việc dễ rơi vào **TÌNH THẾ BẤT LỢI**
-- Nhà ở **NGÕ HẺM, ĐƯỜNG CỤT, TỐI TĂM**
-- **ÍT NGƯỜI QUA LẠI**
-- Cuộc sống **THIẾU SINH KHÍ**, mang cảm giác **CÔ QUẠNH**
-
-**Hợp cát tinh** (Hóa Lộc, Lục Cát Tinh, Thái Âm, Thiên Phủ, Lộc Tồn):
-- Vẫn có khả năng **TẠO DỰNG CƠ NGƠI VỮNG VÀNG**
-- Tài sản thường **GIỮ KÍN**
-- Xu hướng "**TIỀN CHÔN CỦA GIẤU**"
-- Hoặc để **NGƯỜI KHÁC ĐỨNG TÊN**: ít ai biết thực lực
-- **TÍCH LŨY ÂM THẦM** — vừa là thế mạnh tránh thị phi, vừa là hạn chế`,
+Khi hợp với cát tinh như Hóa Lộc, Lục Cát Tinh, Thái Âm, Thiên Phủ hay
+Lộc Tồn, đương số vẫn có khả năng tạo dựng cơ ngơi vững vàng. Tài sản
+thường được giữ kín theo xu hướng "tiền chôn của giấu", hoặc để người khác
+đứng tên — ít ai biết thực lực thật. Việc tích lũy âm thầm ấy vừa là thế
+mạnh tránh thị phi, vừa là một hạn chế.`,
   },
 
   {
@@ -214,24 +167,17 @@ thông.
     sao: ['Tuyệt'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Tuyệt tại Quan Lộc** — công danh **NHIỀU PHIỀN NHIỄU**, hợp nghề kín đáo
-bảo mật.
+    tomTat: `Khi Tuyệt cư Quan Lộc, con đường công danh của đương số gặp
+nhiều phiền nhiễu và khó khăn; công việc tiến triển chậm, dễ bị cản trở
+giữa chừng và rơi vào tình trạng "dậm chân tại chỗ".
 
-**Đặc trưng:**
-- Con đường công danh gặp **NHIỀU PHIỀN NHIỄU, KHÓ KHĂN**
-- Công việc **TIẾN TRIỂN CHẬM**
-- Dễ bị **CẢN TRỞ GIỮA CHỪNG**
-- Rơi vào tình trạng "**DẬM CHÂN TẠI CHỖ**"
+Mặt tích cực nằm ở tính bí mật của Tuyệt: đương số hợp với các nghề đòi
+hỏi sự kín đáo và bảo mật cao như điều tra, an ninh, nghiên cứu khoa học
+chuyên sâu hay những công việc đứng sau hậu trường.
 
-**Mặt tích cực - tính bí mật của Tuyệt:**
-- Hợp các nghề đòi hỏi **KÍN ĐÁO, BẢO MẬT CAO**
-- **ĐIỀU TRA, AN NINH**
-- **NGHIÊN CỨU KHOA HỌC CHUYÊN SÂU**
-- Công việc **ĐỨNG SAU HẬU TRƯỜNG**
-
-**Cát tinh hội** (Khôi Việt, Ân Quang, Thiên Quý):
-- Sự "**ẨN MÌNH**" trở thành thế mạnh
-- Chuyên tâm làm việc: đạt **THÀNH TỰU NHẤT ĐỊNH**`,
+Khi hội cát tinh như Thiên Khôi, Thiên Việt, Ân Quang hay Thiên Quý, sự
+"ẩn mình" trở thành thế mạnh; chuyên tâm làm việc, đương số đạt được
+thành tựu nhất định.`,
   },
 
   {
@@ -240,25 +186,18 @@ bảo mật.
     sao: ['Tuyệt'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Tuyệt tại Nô Bộc** — bạn bè **GIẢM SÚT**, dễ cô độc.
+    tomTat: `Khi Tuyệt cư Nô Bộc, số lượng bạn bè và đồng nghiệp của đương
+số giảm sút; đương số khó nhận được sự giúp đỡ, thậm chí dễ rơi vào cảnh
+cô độc.
 
-**Đặc trưng:**
-- **SỐ LƯỢNG BẠN BÈ, ĐỒNG NGHIỆP** giảm sút
-- Đương số **KHÓ NHẬN GIÚP ĐỠ**
-- Thậm chí dễ rơi vào **CẢNH CÔ ĐỘC**
+Khi hội Địa Không, Địa Kiếp, Kình Dương hay Đà La, đương số càng dễ bị
+bạn bè xa lánh, hoặc bị lợi dụng và đâm sau lưng.
 
-**Hội Địa Không, Địa Kiếp, Kình Đà:**
-- Càng dễ bị **BẠN BÈ XA LÁNH**
-- Hoặc bị **LỢI DỤNG, ĐÂM SAU LƯNG**
+Đặc tính ẩn kín cũng có hai mặt: đương số có những mối quan hệ bí mật,
+bạn bè ngầm, sự giúp đỡ đến từ những người không ai biết tới.
 
-**Đặc tính ẩn kín 2 mặt:**
-- Đương số có **MỐI QUAN HỆ BÍ MẬT**
-- **BẠN BÈ NGẦM**
-- Sự giúp đỡ từ những người **KHÔNG AI BIẾT TỚI**
-
-**Cát tinh hội:**
-- ÍT BẠN nhưng đều là **TRI KỶ**
-- Luôn **ÂM THẦM GIÚP ĐỠ**`,
+Khi hội cát tinh, đương số tuy ít bạn nhưng đều là tri kỷ, luôn âm thầm
+giúp đỡ.`,
   },
 
   {
@@ -267,24 +206,16 @@ bảo mật.
     sao: ['Tuyệt'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Tuyệt tại Thiên Di** — ra ngoài **VẤT VẢ KHÓ KHĂN**, đường giao tế không
-thuận.
+    tomTat: `Khi Tuyệt cư Thiên Di, đương số ra ngoài xã hội gặp nhiều vất
+vả khó khăn; đường giao tế không thuận lợi, dễ bị cản trở và ít gặp may
+mắn trong các quan hệ bên ngoài. Đương số phải đối mặt với cô đơn, rơi
+vào cảnh "tự lực cánh sinh".
 
-**Đặc trưng:**
-- Ra ngoài xã hội gặp **NHIỀU VẤT VẢ, KHÓ KHĂN**
-- Đường giao tế **KHÔNG THUẬN LỢI**
-- Dễ bị **CẢN TRỞ**
-- **ÍT GẶP MAY MẮN** trong quan hệ bên ngoài
-- Phải đối mặt với **CÔ ĐƠN**
-- Rơi vào cảnh "**TỰ LỰC CÁNH SINH**"
+Về tính cách, đương số kín kẽ, lầm lì, ít cởi mở nên khó hòa nhập với
+môi trường mới.
 
-**Tính cách:**
-- **KÍN KẼ, LẦM LÌ, ÍT CỞI MỞ**
-- Khó **HÒA NHẬP** với môi trường mới
-
-**Cát tinh hội nhiều:**
-- Sự **KÍN ĐÁO VÀ KIÊN NHẪN** giúp đạt thành tựu
-- Trong môi trường đòi hỏi **BÍ MẬT, THẬN TRỌNG**`,
+Khi hội nhiều cát tinh, sự kín đáo và kiên nhẫn lại giúp đương số đạt
+thành tựu trong những môi trường đòi hỏi bí mật và thận trọng.`,
   },
 
   {
@@ -293,21 +224,16 @@ thuận.
     sao: ['Tuyệt'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Tuyệt tại Tật Ách** — bệnh **TIẾN TRIỂN CHẬM** nhưng khó chẩn đoán.
+    tomTat: `Khi Tuyệt cư Tật Ách, đặc tính hai mặt thể hiện rõ. Mặc dù là
+hung tinh nhưng Tuyệt làm giảm trừ sự phát tác của bệnh tật: bệnh tiến
+triển chậm, ít khi dữ dội đột ngột.
 
-**Đặc trưng 2 mặt:**
-- Mặc dù là hung tinh nhưng **GIẢM TRỪ** sự phát tác của bệnh tật
-- Bệnh **TIẾN TRIỂN CHẬM**
-- **ÍT KHI DỮ DỘI ĐỘT NGỘT**
+Mặt trái nằm ở tính ẩn kín: vì ẩn kín nên khó chẩn đoán, dễ kéo dài và
+gây hao mòn sức khỏe.
 
-**Mặt trái - tính ẩn kín:**
-- Vì **ẨN KÍN** nên **KHÓ CHẨN ĐOÁN**
-- Dễ **KÉO DÀI**
-- Gây **HAO MÒN SỨC KHỎE**
-
-**Hội nhiều sát bại tinh** (Không Kiếp, Kình Đà, Linh Hỏa):
-- Bệnh càng **NGUY HIỂM**
-- Thành **MÃN TÍNH, DI TRUYỀN**`,
+Khi hội nhiều sát bại tinh như Địa Không, Địa Kiếp, Kình Dương, Đà La,
+Linh Tinh hay Hỏa Tinh, bệnh càng trở nên nguy hiểm — chuyển sang mãn
+tính hoặc di truyền.`,
   },
 
   {
@@ -316,24 +242,17 @@ thuận.
     sao: ['Tuyệt'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Tuyệt tại Tài Bạch** — **GIẤU TIỀN, CÓ QUỸ RIÊNG**, phương thức kiếm tiền
-ít minh bạch.
+    tomTat: `Khi Tuyệt cư Tài Bạch, đương số có xu hướng giấu tiền và lập
+quỹ riêng. Nguồn thu nhập thường bí mật, ít người biết; phương thức kiếm
+tiền đôi khi không minh bạch và dễ liên quan đến hoạt động kín đáo, khó
+công khai.
 
-**Đặc trưng:**
-- Xu hướng **GIẤU TIỀN**, có **QUỸ RIÊNG**
-- **NGUỒN THU NHẬP BÍ MẬT** ít người biết
-- Phương thức kiếm tiền đôi khi **KHÔNG MINH BẠCH**
-- Dễ liên quan đến **HOẠT ĐỘNG KÍN ĐÁO**, khó công khai
+Bản chất Tuyệt hạn chế dòng chảy tài chính nên tiền bạc khó phát triển
+mạnh, dễ bế tắc hoặc dừng lại.
 
-**Bản chất hạn chế:**
-- **HẠN CHẾ** dòng chảy tài chính
-- Tiền bạc **KHÓ PHÁT TRIỂN MẠNH**
-- Dễ **BẾ TẮC** hoặc dừng lại
-
-**Hội sát bại tinh** (Kình Đà, Linh Hỏa):
-- Tiền tài càng **TIÊU TÁN**
-- **KHÓ GIỮ CỦA**
-- Hay vướng **KIỆN TỤNG, THỊ PHI** về tài chính`,
+Khi hội sát bại tinh như Kình Dương, Đà La, Linh Tinh hay Hỏa Tinh, tiền
+tài càng tiêu tán, đương số khó giữ của và hay vướng kiện tụng, thị phi
+về tài chính.`,
   },
 
   {
@@ -342,24 +261,17 @@ thuận.
     sao: ['Tuyệt'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Tuyệt tại Tử Tức** — đường con cái **GIÁN ĐOẠN**, ít con muộn con.
+    tomTat: `Khi Tuyệt cư Tử Tức, đường con cái của đương số gián đoạn —
+không thuận lợi, số lượng ít hơn so với mong muốn, con cái sinh ra chậm
+và muộn. Một số trường hợp con sức khỏe yếu, hay đau ốm; tính tình khép
+kín, ít cởi mở; việc nối dõi gián đoạn.
 
-**Đặc trưng:**
-- Đường con cái **KHÔNG THUẬN LỢI**
-- **SỐ LƯỢNG ÍT** hơn so với mong muốn
-- Con cái sinh ra **CHẬM, MUỘN**
-- Một số trường hợp con **SỨC KHỎE YẾU, HAY ĐAU ỐM**
-- Tính tình **KHÉP KÍN**, ít cởi mở
-- **GIÁN ĐOẠN** trong việc nối dõi
+Đáng chú ý, con cái khó phát triển sự nghiệp lớn như cha mẹ; duyên phận
+giữa con cái với cha mẹ không gắn bó bền chặt.
 
-**Đặc biệt:**
-- Con cái khó phát triển **SỰ NGHIỆP LỚN** như cha mẹ
-- Duyên phận với cha mẹ **KHÔNG GẮN BÓ BỀN CHẶT**
-
-**Kết hợp cát tinh** (Lục Cát, Tứ Đức, Lộc Tồn, Hóa Lộc):
-- Ảnh hưởng được **GIẢM NHẸ**
-- Con tuy không đông nhưng **HIẾU THUẬN, CHĂM LO** cha mẹ
-- Có khả năng thành công theo hướng **KHÁC TRUYỀN THỐNG**`,
+Khi kết hợp cát tinh như Lục Cát Tinh, Tứ Đức, Lộc Tồn hay Hóa Lộc, ảnh
+hưởng được giảm nhẹ; con tuy không đông nhưng hiếu thuận, chăm lo cho cha
+mẹ và có khả năng thành công theo hướng khác truyền thống.`,
   },
 
   {
@@ -368,23 +280,16 @@ thuận.
     sao: ['Tuyệt'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Tuyệt tại Phu Thê** — hôn nhân **TRỞ NGẠI**, hôn phối trầm lặng lạnh nhạt.
+    tomTat: `Khi Tuyệt cư Phu Thê, hôn nhân của đương số dễ gặp trở ngại;
+nhân duyên vợ chồng không trọn vẹn như mong muốn. Người phối ngẫu trầm
+lặng, ít bộc lộ cảm xúc, thiếu sự chia sẻ và quan tâm; đời sống hôn nhân
+lạnh nhạt và không gắn kết tinh thần.
 
-**Đặc trưng:**
-- Hôn nhân dễ gặp **TRỞ NGẠI**
-- Nhân duyên vợ chồng **KHÔNG TRỌN VẸN** như mong muốn
-- Người phối ngẫu **TRẦM LẶNG, ÍT BỘC LỘ CẢM XÚC**
-- **THIẾU SỰ CHIA SẺ VÀ QUAN TÂM**
-- Đời sống hôn nhân **LẠNH NHẠT**
-- **KHÔNG GẮN KẾT TINH THẦN**
+Khi hội nhiều sát bại tinh, nguy cơ bất hòa, xa cách và chia ly hiện rõ.
 
-**Hội nhiều sát bại tinh:**
-- Nguy cơ **BẤT HÒA, XA CÁCH, CHIA LY** rõ rệt
-
-**Hợp Hóa Lộc:**
-- Hôn nhân tuy **KHÔNG NỒNG NHIỆT** nhưng **BỀN VỮNG**
-- "**AN PHẬN THỦ THƯỜNG**"
-- Vợ chồng gắn bó lâu dài nhờ **NHẪN NHỊN VÀ TRÁCH NHIỆM**`,
+Khi hợp với Hóa Lộc, hôn nhân tuy không nồng nhiệt nhưng bền vững, theo
+kiểu "an phận thủ thường"; vợ chồng gắn bó lâu dài nhờ nhẫn nhịn và trách
+nhiệm.`,
   },
 
   {
@@ -393,20 +298,13 @@ thuận.
     sao: ['Tuyệt'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Tuyệt tại Huynh Đệ** — anh chị em **KHÔNG ĐÔNG, XA CÁCH**.
+    tomTat: `Khi Tuyệt cư Huynh Đệ, đương số có ít anh chị em, dễ gặp cảnh
+xa cách và không gắn bó bền chặt. Anh chị em thường là những người vất
+vả, khó phát đạt, đường đời nhiều trắc trở; tính cách kín đáo, ít chia
+sẻ; sự gắn kết tình cảm trong gia đình không trọn vẹn.
 
-**Đặc trưng:**
-- Anh chị em **KHÔNG ĐÔNG**
-- Dễ có cảnh **XA CÁCH**
-- **KHÔNG GẮN BÓ BỀN CHẶT**
-- Thường là những người **VẤT VẢ, KHÓ PHÁT ĐẠT**
-- Đường đời nhiều **TRẮC TRỞ**
-- Tính cách **KÍN ĐÁO, ÍT CHIA SẺ**
-- Gắn kết tình cảm trong gia đình **KHÔNG TRỌN VẸN**
-
-**Tuyệt + Thiên Tướng + Đế Vượng:**
-- Dễ có **ANH CHỊ EM DỊ BÀO**
-- Cung Bào ở **CUNG DƯƠNG**: cùng cha khác mẹ
-- Cung Bào ở **CUNG ÂM**: cùng mẹ khác cha`,
+Riêng cách Tuyệt kết hợp với Thiên Tướng và Đế Vượng tại Huynh Đệ, đương
+số dễ có anh chị em dị bào: nếu cung Huynh Đệ ở cung dương thì cùng cha
+khác mẹ, ở cung âm thì cùng mẹ khác cha.`,
   },
 ];

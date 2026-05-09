@@ -15,36 +15,26 @@ export const luanGiai_DauQuan: DoanLuanGiai[] = [
     title: 'Đẩu Quân - Đặc tính chung',
     sao: ['Đẩu Quân'],
     doUuTien: 32,
-    tomTat: `**Đẩu Quân** — phụ tinh **HUNG TINH**, tính chất **CÔ ĐỘC, KHẮT KHE, NGUYÊN
-TẮC**.
+    tomTat: `**Đẩu Quân** thuộc nhóm phụ tinh hung tinh, ngũ hành Hỏa, mang hình tượng
+người "cầm cân nảy mực" đứng sau lưng Thái Tuế. Đặc tính nổi bật của sao là cô
+độc, khắt khe, nguyên tắc, sống ngăn nắp cẩn thận và giữ của bền lâu.
 
-**Ngũ hành:** **Hỏa**.
+Đẩu Quân tác động đến đương số theo hai mặt rõ rệt:
 
-**Hình tượng:** người "**CẦM CÂN NẢY MỰC**" sau lưng Thái Tuế.
+- Mặt tốt: mang lại sự chuẩn mực, bền bỉ và khả năng duy trì thành quả lâu dài.
+- Mặt xấu: dễ rơi vào cô độc, khắt khe, bảo thủ, khó dung hòa với người xung
+  quanh.
 
-**Đặc tính:**
-- **CÔ ĐỘC, KHẮT KHE, NGUYÊN TẮC**
-- **NGĂN NẮP, CẨN THẬN**
-- **GIỮ CỦA BỀN LÂU**
+Về duyên vận, đương số thường kết hôn muộn do quá kỹ tính trong việc lựa chọn
+hôn phối; tình cảm cũng dễ có khoảng cách, thiếu sự thấu hiểu trọn vẹn.
 
-**Tác động chính - hai mặt:**
-- **TỐT:** mang lại sự **CHUẨN MỰC, BỀN BỈ**, khả năng **DUY TRÌ THÀNH QUẢ**
-- **XẤU:** **CÔ ĐỘC, KHẮT KHE, BẢO THỦ**, khó dung hòa với người khác
+Về sự nghiệp, Đẩu Quân hợp với những công việc đòi hỏi tỉ mỉ, kỷ luật và tính
+toán như kế toán, thủ quỹ, thủ kho. Tuy nhiên, đương số dễ bỏ lỡ cơ hội mới do
+tính bảo thủ vốn có.
 
-**Duyên vận:**
-- Thường **KẾT HÔN MUỘN** do **KỸ TÍNH** trong việc lựa chọn hôn phối
-- Tình cảm dễ có **KHOẢNG CÁCH**, thiếu **THẤU HIỂU**
-
-**Sự nghiệp:**
-- Hợp công việc **TỈ MỈ, KỶ LUẬT, TÍNH TOÁN**
-- **KẾ TOÁN, THỦ QUỸ, THỦ KHO**
-- Có thể **BỎ LỠ CƠ HỘI MỚI** nếu quá **BẢO THỦ**
-
-**Tài lộc:**
-- **GIỎI TÍCH LŨY** tài sản
-- **DUY TRÌ ỔN ĐỊNH** dòng tiền
-- **ÍT TIÊU XÀI HOANG PHÍ**
-- Dễ bỏ lỡ cơ hội **TĂNG THU NHẬP** do **NGẠI THAY ĐỔI**`,
+Về tài lộc, đương số giỏi tích lũy tài sản, duy trì dòng tiền ổn định và ít
+tiêu xài hoang phí. Mặt khác, sự ngại thay đổi đôi khi khiến đương số bỏ lỡ
+những cơ hội tăng thu nhập đáng giá.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -57,29 +47,20 @@ TẮC**.
     sao: ['Đẩu Quân'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Đẩu Quân tại Mệnh** — chủ tính tình **CỐ CHẤP, ĐƠN ĐỘC**.
+    tomTat: `Khi Đẩu Quân tọa thủ Mệnh, đương số mang tính tình cố chấp và đơn
+độc. Là người "cầm cân nảy mực" sau lưng Thái Tuế, đương số gánh trách nhiệm
+nặng nề và đặc biệt giỏi quản lý tài sản, ngân sách, tài chính.
 
-**Trách nhiệm:**
-- Người "**CẦM CÂN NẢY MỰC**" sau lưng Thái Tuế
-- Có **TRÁCH NHIỆM NẶNG NỀ**
-- Giỏi **QUẢN LÝ TÀI SẢN, NGÂN SÁCH, TÀI CHÍNH**
+Tính cách của đương số khá giống Cô Thần — có xu hướng cô độc, ít bạn bè, dễ
+bị người ngoài hiểu lầm là khắt khe khó gần. Đời sống thường rất cẩn thận, kỹ
+tính và đề cao nguyên tắc.
 
-**Tính cách:**
-- Khá giống **CÔ THẦN** — xu hướng **CÔ ĐỘC, ÍT BẠN BÈ**
-- Bị hiểu lầm là **KHẮT KHE, KHÓ GẦN**
-- Sống **CẨN THẬN, KỸ TÍNH, NGUYÊN TẮC**
+Về tướng mạo, đương số có sắc diện nghiêm nghị, ít khi cười nói, ánh mắt sắc
+sảo trầm tĩnh, phong thái đĩnh đạc và ít biểu lộ cảm xúc ra bên ngoài.
 
-**Tướng mạo:**
-- **SẮC DIỆN NGHIÊM NGHỊ**
-- **ÍT KHI CƯỜI NÓI**
-- **ÁNH MẮT SẮC SẢO, TRẦM TĨNH**
-- **PHONG THÁI ĐĨNH ĐẠC**
-- Ít biểu lộ **CẢM XÚC** ra bên ngoài
-
-**Công danh - tài lộc:**
-- Chủ về **GIỮ CỦA**
-- Thường được **GIAO QUYỀN QUẢN LÝ TÀI CHÍNH, NGÂN SÁCH**
-- Hợp **THỦ KHO, THỦ QUỸ, KẾ TOÁN**`,
+Trên đường công danh tài lộc, đương số thiên về giữ của, thường được giao
+quyền quản lý tài chính ngân sách, hợp với các vị trí thủ kho, thủ quỹ, kế
+toán.`,
   },
 
   {
@@ -89,12 +70,10 @@ TẮC**.
     cung: ['Mệnh'],
     ketHop: ['Kình Dương', 'Đà La', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ', 'Thiên Hình'],
     doUuTien: 60,
-    tomTat: `**Đẩu Quân + sát bại tinh tại Mệnh** — dễ thành **GIAN XẢO, QUỶ QUYỆT**.
-
-**Đặc trưng:**
-- Tính tỉ mỉ kỹ lưỡng: dùng vào **MƯU MÔ XẤU**
-- **GIAN XẢO, QUỶ QUYỆT**
-- Dễ vướng **CHUYỆN BẤT CHÍNH**`,
+    tomTat: `Khi Đẩu Quân tại Mệnh gặp sát bại tinh như Kình Dương, Đà La, Địa
+Không, Địa Kiếp, Hóa Kỵ hay Thiên Hình, tính tỉ mỉ kỹ lưỡng vốn có của đương
+số dễ bị dùng vào những mưu mô xấu. Đương số trở nên gian xảo, quỷ quyệt và dễ
+vướng vào chuyện bất chính.`,
   },
 
   {
@@ -104,13 +83,10 @@ TẮC**.
     cung: ['Mệnh'],
     ketHop: ['Lộc Tồn', 'Vũ Khúc', 'Cô Thần', 'Quả Tú'],
     doUuTien: 60,
-    tomTat: `**Đẩu Quân + Lộc Tồn + Vũ Khúc + Cô Thần - Quả Tú tại Mệnh** — tính cách
-**KEO KIỆT**.
-
-**Đặc trưng:**
-- Tính cách thêm **KEO KIỆT, BẦN TIỆN**
-- Kiểu người "**VẮT CỔ CHÀY RA NƯỚC**"
-- Chỉ biết **TÍNH TOÁN CHO BẢN THÂN**`,
+    tomTat: `Khi Đẩu Quân tại Mệnh đi cùng Lộc Tồn, Vũ Khúc, Cô Thần hay Quả Tú,
+tính cách đương số thêm phần keo kiệt, bần tiện. Đương số thuộc kiểu người
+"vắt cổ chày ra nước", chỉ biết tính toán cho bản thân mà ít khi rộng tay với
+người khác.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -123,19 +99,13 @@ TẮC**.
     sao: ['Đẩu Quân'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Đẩu Quân tại Phụ Mẫu** — cha mẹ **KHÓ TÍNH, NGHIÊM KHẮC**.
+    tomTat: `Khi Đẩu Quân tọa Phụ Mẫu, cha mẹ của đương số khó tính và nghiêm
+khắc, đặt nặng kỷ cương nề nếp trong việc nuôi dạy con cái. Tính cách áp đặt
+đôi khi khiến không khí gia đình trở nên nặng nề, dễ sinh hiểu lầm và bất hòa.
 
-**Đặc trưng:**
-- Cha mẹ **KHÓ TÍNH, NGHIÊM KHẮC**
-- Đặt nặng **KỶ CƯƠNG NỀ NẾP** trong nuôi dạy
-- Tính cách **ÁP ĐẶT** dễ khiến gia đình **NẶNG NỀ**
-- Dễ **HIỂU LẦM, BẤT HÒA**
-
-**Nghề nghiệp cha mẹ:**
-- Một hoặc cả hai làm nghề liên quan **TÀI CHÍNH**
-- **KẾ TOÁN, THỦ QUỸ, HẬU CẦN**
-- Trong nhà hiếm **TIÊU XÀI PHUNG PHÍ**
-- Cha mẹ biết **VUN VÉN, CHI TIÊU TIẾT KIỆM**`,
+Về nghề nghiệp, một hoặc cả hai bậc sinh thành thường làm nghề liên quan tới
+tài chính như kế toán, thủ quỹ, hậu cần. Trong nhà hiếm khi có chuyện tiêu
+xài phung phí; cha mẹ luôn biết vun vén, chi tiêu tiết kiệm.`,
   },
 
   {
@@ -144,20 +114,15 @@ TẮC**.
     sao: ['Đẩu Quân'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Đẩu Quân tại Phúc Đức** — dòng họ **ÍT SUM HỌP**.
+    tomTat: `Khi Đẩu Quân tọa Phúc Đức, dòng họ của đương số ít sum họp, thiếu
+sự gắn kết. Mỗi người mỗi tính, không ai chịu nhường ai.
 
-**Đặc trưng:**
-- Thiếu **GẮN KẾT** dòng tộc
-- Mỗi người mỗi tính, **KHÔNG AI NHƯỜNG AI**
+Khi hội cát tinh, tổ tiên có thể từng làm quan hoặc đảm nhiệm việc trông giữ
+kho lương, hậu cần.
 
-**Hội cát tinh:**
-- Tổ tiên có thể từng **LÀM QUAN** hoặc **TRÔNG GIỮ KHO LƯƠNG, HẬU CẦN**
-
-**Phúc khí dòng tộc:**
-- Có phần **KHẮT KHE, NGHIÊM NGẶT**
-- Đòi hỏi con cháu **ĂN NGAY Ở THẲNG, PHẢI ĐẠO**
-- Nhiều gia đình giữ **NỀ NẾP THỜ CÚNG CHUẨN CHỈNH**
-- **HƯƠNG HỎA LỄ NGHI** không dám ngơi tay`,
+Về phúc khí dòng tộc, có phần khắt khe và nghiêm ngặt, đòi hỏi con cháu phải
+ăn ngay ở thẳng, sống đúng đạo lý. Nhiều gia đình giữ nề nếp thờ cúng chuẩn
+chỉnh, hương hỏa lễ nghi không dám ngơi tay.`,
   },
 
   {
@@ -166,19 +131,14 @@ TẮC**.
     sao: ['Đẩu Quân'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Đẩu Quân tại Điền Trạch** — chẳng khác nào **THỔ ĐỊA KHÓ TÍNH** ngồi
-canh cổng nhà.
+    tomTat: `Khi Đẩu Quân tọa Điền Trạch, đương số chẳng khác nào "thổ địa khó
+tính" ngồi canh cổng nhà. Đương số khắt khe và tỉ mỉ trong chuyện nhà cửa, đòi
+hỏi mọi ngóc ngách phải ngăn nắp tươm tất; chỉ cần nhà cửa lộn xộn là dễ thấy
+trái tai gai mắt.
 
-**Đặc trưng:**
-- Khắt khe và **TỈ MỈ trong CHUYỆN NHÀ CỬA**
-- Mọi ngóc ngách phải **NGĂN NẮP, TƯƠM TẤT**
-- Dễ thấy **TRÁI TAI GAI MẮT** khi nhà cửa lộn xộn
-
-**Giữ nhà rất kỹ:**
-- Coi nhà như **GỐC RỄ CUỘC ĐỜI**
-- Không dễ **THAY ĐỔI NƠI Ở**
-- Cách sống **QUY CỦ, NGHIÊM KHẮC**
-- **ÍT CỞI MỞ**, khó thân với **HÀNG XÓM**`,
+Đương số coi nhà như gốc rễ cuộc đời, giữ nhà rất kỹ và không dễ thay đổi nơi
+ở. Cách sống quy củ, nghiêm khắc, ít cởi mở khiến đương số khó thân thiết với
+hàng xóm.`,
   },
 
   {
@@ -187,24 +147,16 @@ canh cổng nhà.
     sao: ['Đẩu Quân'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Đẩu Quân tại Quan Lộc** — gánh vác **VIỆC LỚN**.
+    tomTat: `Khi Đẩu Quân tọa Quan Lộc, đương số gánh vác việc lớn trong công
+việc — chu toàn, nguyên tắc, cân đo đong đếm từng ly. Chính sự kỹ tính ấy đôi
+khi khiến đương số mất lòng người khác.
 
-**Đặc trưng:**
-- Trong công việc **CHU TOÀN, NGUYÊN TẮC**
-- Cân đo đong đếm **TỪNG LY**
-- Dễ **MẤT LÒNG NGƯỜI KHÁC**
+Đương số thường có trách nhiệm rất cao, hiếm khi thay đổi môi trường làm việc;
+thâm niên càng lâu thì vị trí càng vững, công danh thuận buồm xuôi gió.
 
-**Trách nhiệm cao:**
-- Hiếm khi **THAY ĐỔI MÔI TRƯỜNG LÀM VIỆC**
-- Thâm niên càng lâu: **VỊ TRÍ CÀNG VỮNG**
-- Công danh **THUẬN BUỒM XUÔI GIÓ**
-
-**Hội cát tinh:**
-- Dễ được **THĂNG CHỨC, NẮM QUYỀN LÃNH ĐẠO**
-
-**Đi cùng sát bại tinh:**
-- Sinh **TÂM BẤT MÃN**
-- **KHÓ HÒA HỢP** với tập thể`,
+Khi hội cát tinh, đương số dễ được thăng chức và nắm quyền lãnh đạo. Ngược
+lại, nếu đi cùng sát bại tinh, đương số dễ sinh tâm bất mãn, khó hòa hợp với
+tập thể.`,
   },
 
   {
@@ -213,16 +165,12 @@ canh cổng nhà.
     sao: ['Đẩu Quân'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Đẩu Quân tại Nô Bộc** — **ÍT BẠN BÈ, ÍT GIAO THIỆP**.
+    tomTat: `Khi Đẩu Quân tọa Nô Bộc, đương số ít bạn bè và ít giao thiệp. Tính
+hay tính toán thiệt hơn khiến đương số chơi với ai cũng dè chừng, giữ khoảng
+cách, khó duy trì tình bạn thân thiết lâu dài.
 
-**Đặc trưng:**
-- **TÍNH TOÁN THIỆT HƠN**
-- Chơi với ai cũng **DÈ CHỪNG, GIỮ KHOẢNG CÁCH**
-- Khó **DUY TRÌ TÌNH BẠN THÂN THIẾT** lâu dài
-
-**Chốn công sở:**
-- Đặt yêu cầu cao về **CHỈN CHU, NGUYÊN TẮC, MINH BẠCH**
-- Sự khắt khe có thể dẫn đến **BẤT ĐỒNG** với đồng nghiệp / cấp dưới`,
+Nơi công sở, đương số đặt yêu cầu cao về sự chỉn chu, nguyên tắc và minh bạch.
+Sự khắt khe ấy có thể dẫn đến bất đồng với đồng nghiệp hay cấp dưới.`,
   },
 
   {
@@ -231,18 +179,13 @@ canh cổng nhà.
     sao: ['Đẩu Quân'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Đẩu Quân tại Thiên Di** — khí chất **TRẦM LẶNG, TÍNH TOÁN**.
+    tomTat: `Khi Đẩu Quân tọa Thiên Di, đương số mang khí chất trầm lặng và hay
+tính toán. Người ngoài dễ hiểu lầm là lạnh lùng, "sống chỉ biết mình". Đương
+số ra ngoài ít nói ít cười, mất nhiều thời gian để tạo thiện cảm, nên dễ vướng
+thị phi không đáng có.
 
-**Đặc trưng:**
-- Bị thiên hạ hiểu lầm là **LẠNH LÙNG**
-- "Sống chỉ biết mình"
-- Ra ngoài **ÍT NÓI, ÍT CƯỜI**
-- Mất nhiều thời gian để tạo **THIỆN CẢM**
-- Dễ vướng **THỊ PHI** không đáng có
-
-**Bất lợi:**
-- Khó xây dựng hình ảnh **QUẢNG GIAO**
-- Dù **NĂNG LỰC + PHẨM CHẤT** vốn không tệ`,
+Bất lợi rõ rệt nhất là khó xây dựng được hình ảnh quảng giao, dù năng lực và
+phẩm chất của đương số vốn không tệ.`,
   },
 
   {
@@ -251,15 +194,12 @@ canh cổng nhà.
     sao: ['Đẩu Quân'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Đẩu Quân tại Tật Ách** — **NGHĨ NHIỀU, LO XA, THẦN KINH CĂNG THẲNG**.
+    tomTat: `Khi Đẩu Quân tọa Tật Ách, đương số thường nghĩ nhiều, lo xa, thần
+kinh luôn trong trạng thái căng thẳng. Tâm trí lúc nào cũng cân đo thiệt hơn
+nên dễ mất ngủ và lo âu kéo dài.
 
-**Đặc trưng:**
-- Tâm trí lúc nào cũng **CÂN ĐO THIỆT HƠN**
-- Dễ **MẤT NGỦ, LO ÂU KÉO DÀI**
-- Một số đối mặt với:
-  - Bệnh **HUYẾT ÁP**
-  - **THẦN KINH** hoặc **TRẦM CẢM**
-- Do **ÁP LỰC VÔ HÌNH** tích tụ năm tháng`,
+Một số đương số phải đối mặt với bệnh huyết áp, các vấn đề về thần kinh hoặc
+trầm cảm, do áp lực vô hình tích tụ qua năm tháng.`,
   },
 
   {
@@ -269,12 +209,9 @@ canh cổng nhà.
     cung: ['Tật Ách'],
     ketHop: ['Thiên Hình', 'Kình Dương'],
     doUuTien: 65,
-    tomTat: `**Đẩu Quân + Thiên Hình + Kình Dương tại Tật Ách** — nguy cơ **MỔ XẺ**.
-
-**Đặc trưng:**
-- Bệnh nghiêng về hướng **MỔ XẺ, CHÂM CHÍCH**
-- **CAN THIỆP DAO KÉO**
-- Cần đề phòng **PHẪU THUẬT**`,
+    tomTat: `Khi Đẩu Quân tọa Tật Ách đi cùng Thiên Hình hay Kình Dương, bệnh
+tật của đương số nghiêng về hướng mổ xẻ, châm chích, can thiệp dao kéo. Đương
+số cần đề phòng các tình huống phải phẫu thuật.`,
   },
 
   {
@@ -283,21 +220,15 @@ canh cổng nhà.
     sao: ['Đẩu Quân'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `**Đẩu Quân tại Tài Bạch** — tiền vào tay **KHÔNG DỄ THẤT THOÁT**.
+    tomTat: `Khi Đẩu Quân tọa Tài Bạch, tiền vào tay đương số không dễ thất
+thoát. Đương số biết kiếm tiền và biết giữ tiền, đặc biệt giỏi tính toán; tiêu
+xài chừng mực, rạch ròi từng khoản, tính kỹ đến mức không lệch một xu.
 
-**Đặc trưng:**
-- **BIẾT KIẾM TIỀN, BIẾT GIỮ TIỀN**
-- Đặc biệt giỏi **TÍNH TOÁN**
-- Tiêu xài **CHỪNG MỰC, RẠCH RÒI** từng khoản
-- Tính kỹ đến mức **KHÔNG LỆCH MỘT XU**
+Đương số phù hợp với những công việc đòi hỏi độ chính xác cao như kế toán,
+kiểm toán, tài chính, quản lý tài sản.
 
-**Phù hợp:**
-- Công việc đòi hỏi **ĐỘ CHÍNH XÁC CAO**
-- **KẾ TOÁN, KIỂM TOÁN, TÀI CHÍNH, QUẢN LÝ TÀI SẢN**
-
-**Hội cát tinh:**
-- Giữ vai trò "**TAY HÒM CHÌA KHÓA**"
-- Trong **NỘI BỘ GIA ĐÌNH, TẬP ĐOÀN, CƠ QUAN NHÀ NƯỚC**`,
+Khi hội cát tinh, đương số giữ vai trò "tay hòm chìa khóa" trong nội bộ gia
+đình, tập đoàn hay cơ quan nhà nước.`,
   },
 
   {
@@ -306,18 +237,13 @@ canh cổng nhà.
     sao: ['Đẩu Quân'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Đẩu Quân tại Tử Tức** — dấu hiệu **HIẾM MUỘN, ÍT CON**.
+    tomTat: `Khi Đẩu Quân tọa Tử Tức, đường con cái của đương số thường có dấu
+hiệu hiếm muộn, sinh nở chậm trễ và ít con. Tính chất này gần giống với các
+sao Cô Thần, Quả Tú, Lộc Tồn.
 
-**Đặc trưng:**
-- **HIẾM MUỘN, SINH NỞ CHẬM TRỄ**
-- **ÍT CON**
-- Tương tự các sao **CÔ THẦN, QUẢ TÚ, LỘC TỒN**
-
-**Quan hệ cha mẹ - con cái:**
-- Có **NHIỀU KHOẢNG CÁCH**
-- Con cái **CẨN TRỌNG, KHÓ CHIỀU**, có phần **KHẮT KHE, KHÓ GẦN**
-- Thương vẫn thương, sống chung như **NƯỚC VỚI LỬA**
-- Mỗi người một ý: "**MẠNH AI NẤY SỐNG**" trong gia đình`,
+Quan hệ cha mẹ - con cái có nhiều khoảng cách. Con cái cẩn trọng, khó chiều,
+có phần khắt khe khó gần. Tình cảm vẫn có nhưng sống chung như nước với lửa,
+mỗi người một ý — kiểu "mạnh ai nấy sống" trong cùng một mái nhà.`,
   },
 
   {
@@ -326,24 +252,20 @@ canh cổng nhà.
     sao: ['Đẩu Quân'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Đẩu Quân tại Phu Thê** — **CON DAO HAI LƯỠI** trong tình duyên.
+    tomTat: `Khi Đẩu Quân tọa Phu Thê, sao này đóng vai trò con dao hai lưỡi
+trong tình duyên của đương số.
 
-**Mặt xấu:**
-- Khó **MỞ LÒNG**
-- Bạn đời **ÍT THẤU HIỂU TRỌN VẸN**
-- Tính khí **CẨN TRỌNG, KHẮT KHE** đôi khi thành **CỐ CHẤP**
-- Hôn nhân dễ "**CƠM KHÔNG LÀNH, CANH CHẲNG NGỌT**"
-- Đặc biệt nặng khi đi cùng **HUNG SÁT**
+Mặt xấu: đương số khó mở lòng, bạn đời ít có dịp thấu hiểu trọn vẹn. Tính khí
+cẩn trọng, khắt khe đôi khi chuyển thành cố chấp, khiến hôn nhân dễ rơi vào
+cảnh "cơm không lành, canh chẳng ngọt". Tình trạng này càng nặng khi đi cùng
+hung sát.
 
-**Mặt tốt - lá chắn:**
-- Sự **NGHIÊM TÚC, SỐNG CÓ CHỪNG MỰC** là "**LÁ CHẮN**"
-- Ngăn chặn thói **ĐÀO HOA, PHONG LƯU, DỄ DÃI**
-- Tiết chế **DỤC TÍNH**
-- Giữ gìn **CHUNG THỦY**, tránh **TÌNH CẢM NGOÀI LUỒNG**
+Mặt tốt: chính sự nghiêm túc và lối sống có chừng mực lại trở thành lá chắn,
+ngăn chặn thói đào hoa, phong lưu, dễ dãi; tiết chế dục tính và giữ gìn lòng
+chung thủy, tránh được những tình cảm ngoài luồng.
 
-**Kén chọn bạn đời:**
-- Một khi tìm được **NGƯỜI XỨNG ĐÔI VỪA Ý**
-- **TRÂN TRỌNG và GIỮ GÌN**`,
+Đương số rất kén chọn bạn đời, nhưng một khi tìm được người xứng đôi vừa ý
+thì hết mực trân trọng và giữ gìn.`,
   },
 
   {
@@ -352,15 +274,13 @@ canh cổng nhà.
     sao: ['Đẩu Quân'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Đẩu Quân tại Huynh Đệ** — anh chị em ruột **KHÓ HÒA HỢP**.
+    tomTat: `Khi Đẩu Quân tọa Huynh Đệ, anh chị em ruột của đương số khó hòa
+hợp với nhau. Cách cục này báo hiệu gia đình ít anh chị em; nếu đông đúc thì
+cũng khó tìm được tiếng nói chung.
 
-**Đặc trưng:**
-- Báo hiệu gia đình **ÍT ANH CHỊ EM**
-- Đông đúc cũng khó tìm **TIẾNG NÓI CHUNG**
-
-**Gặp Cô Thần, Quả Tú, Lộc Tồn, Vũ Khúc, Thất Sát:**
-- Cảnh "**CÓ ANH EM MÀ CHẲNG ĐƯỢC NHỜ**"
-- Cùng dòng máu, cùng mái nhà, nhưng **TRONG LÒNG CÓ KHOẢNG CÁCH**`,
+Khi gặp Cô Thần, Quả Tú, Lộc Tồn, Vũ Khúc hay Thất Sát, đương số rơi vào cảnh
+"có anh em mà chẳng được nhờ" — cùng dòng máu, cùng mái nhà nhưng trong lòng
+luôn có khoảng cách.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -373,20 +293,14 @@ canh cổng nhà.
     sao: ['Đẩu Quân'],
     ketHop: ['Kình Dương', 'Thiên Hình', 'Địa Kiếp', 'Phá Toái'],
     doUuTien: 60,
-    tomTat: `**Hạn Đẩu Quân + Kình Dương + Thiên Hình + Địa Kiếp + Phá Toái** — hạn
-**CƯA CẮT, MỔ XẺ**.
+    tomTat: `Khi xét hạn, cách luận theo sao đơn lẻ không còn chính xác. Đẩu
+Quân chỉ là một mảnh ghép nhỏ trong cục diện; phải đi kèm nhóm sát tinh mạnh
+gồm Kình Dương, Thiên Hình, Địa Kiếp, Phá Toái, đồng thời cung Tật Ách và
+Thiên Di trên lá số phải có dấu hiệu hình thương họa hại, mới đủ tạo cục diện
+đáng lo.
 
-**Lưu ý quan trọng:**
-- Cách luận theo **SAO ĐƠN LẺ KHÔNG CÒN CHÍNH XÁC**
-- Đẩu Quân chỉ là **MỘT MẢNH GHÉP NHỎ**
-- Phải đi kèm **NHÓM SÁT TINH MẠNH** (Kình - Hình - Kiếp - Phá Toái)
-- **CUNG TẬT ÁCH + THIÊN DI** trên lá số phải đồng thời có **DẤU HIỆU HÌNH
-  THƯƠNG, HỌA HẠI**
-- Mới đủ tạo **CỤC DIỆN ĐÁNG LO**
-
-**Đặc trưng:**
-- Nguy cơ **MỔ XẺ, PHẪU THUẬT**
-- **CƯA CẮT, CHÂM CHÍCH**`,
+Khi hội đủ các yếu tố trên, đương số có nguy cơ mổ xẻ phẫu thuật, cưa cắt
+châm chích trong vận hạn này.`,
   },
 
   {
@@ -395,17 +309,13 @@ canh cổng nhà.
     sao: ['Đẩu Quân'],
     ketHop: ['Thiên Khôi', 'Thiên Việt', 'Hóa Quyền'],
     doUuTien: 60,
-    tomTat: `**Hạn Đẩu Quân + Thiên Khôi - Thiên Việt + Hóa Quyền** — **ĐẢM NHIỆM NHIỆM
-VỤ MỚI**.
+    tomTat: `Khi hạn Đẩu Quân gặp Thiên Khôi, Thiên Việt cùng Hóa Quyền, đương
+số bước vào thời điểm được giao phó trách nhiệm mới, đặc biệt trong các công
+việc quản lý, sắp xếp tài chính, ngân sách. Tính cẩn trọng và ngăn nắp giúp
+đương số ghi điểm với cấp trên, dễ được tin tưởng giao phó những vị trí cần
+sự tỉ mỉ và chính xác cao.
 
-**Đặc trưng:**
-- Thời điểm được **GIAO PHÓ TRÁCH NHIỆM MỚI**
-- Đặc biệt công việc **QUẢN LÝ, SẮP XẾP TÀI CHÍNH, NGÂN SÁCH**
-- Tính **CẨN TRỌNG, NGĂN NẮP** giúp ghi điểm với cấp trên
-- Dễ được **TIN TƯỞNG GIAO PHÓ** vị trí cần **TỈ MỈ, CHÍNH XÁC**
-
-**Cát tinh + Khôi Việt + Hóa Quyền:**
-- **CẤT NHẮC VƯỢT BẬC**
-- **THĂNG TIẾN NHANH** hơn lộ trình bình thường`,
+Khi cát tinh đi cùng Khôi Việt và Hóa Quyền, đương số được cất nhắc vượt bậc,
+thăng tiến nhanh hơn lộ trình bình thường.`,
   },
 ];

@@ -32,29 +32,26 @@ export const luanGiai_Mo: DoanLuanGiai[] = [
     title: 'Mộ - Đặc tính chung',
     sao: ['Mộ'],
     doUuTien: 33,
-    tomTat: `**Mộ** — phụ tinh **TÍCH TỤ + ẨN KHUẤT**, vị trí **THỨ 9** vòng Trường Sinh.
+    tomTat: `**Mộ** là phụ tinh chủ về tích tụ và ẩn khuất, đứng ở vị trí thứ 9
+trong vòng Trường Sinh và an theo Cục của lá số. Ngũ hành sao thuộc
+Thổ.
 
-**Ngũ hành:** **Thổ**.
+Đặc tính chính: sau khi "Tử" (chết), Mộ là giai đoạn nhập áo quan, vào
+quan tài, nằm im dưới đất. Sao chủ về chôn cất, chậm chạp, chậm tiến,
+nhầm lẫn, ngu độn, ngăn trở công việc; đồng thời cũng mang nét cất
+giấu, ẩn khuất, bảo vệ.
 
-**Đặc tính:**
-- Sau khi **TỬ** (chết): giai đoạn **NHẬP ÁO QUAN**, vào quan tài, nằm im
-  dưới đất
-- **CHÔN CẤT, CHẬM CHẠP, CHẬM TIẾN**
-- **NHẦM LẪN, NGU ĐỘN, NGĂN TRỞ** công việc
-- **CẤT GIẤU, ẨN KHUẤT, BẢO VỆ**
+Trạng thái đứng yên, nằm im, không thay đổi của sao đại diện cho việc
+chậm thay đổi, chậm tiếp thu, cù lần, bảo thủ. Vì là năm dưới đất nên
+trí tuệ đương số không sáng, chậm hiểu nếu không có cát tinh hay văn
+tinh hỗ trợ.
 
-**Vai trò:**
-- Trạng thái **ĐỨNG YÊN, NẰM IM, KHÔNG THAY ĐỔI**
-- Đại diện cho **CHẬM THAY ĐỔI, CHẬM TIẾP THU, CÙ LẦN, BẢO THỦ**
-- Mộ là năm ở **DƯỚI ĐẤT**: trí tuệ **KHÔNG SÁNG, CHẬM HIỂU** nếu không có
-  cát tinh / văn tinh hỗ trợ
+Trong vòng Trường Sinh, Sinh - Vượng - Mộ luôn tam hợp: Trường Sinh,
+Đế Vượng và Mộ tạo thành chu trình sinh - phát - kết của đời người.
 
-**Tam hợp Sinh-Vượng-Mộ:** Trường Sinh + Đế Vượng + Mộ luôn tam hợp — chu
-trình sinh-phát-kết của đời người.
-
-**Đặc tính tích trữ:**
-- Vì là **CHÔN CẤT**: **CẤT GIẤU, ẨN KHUẤT, BẢO VỆ**
-- Bản thân cũng **KHÔNG MUỐN TIÊU TỐN**: giữ của, tiết kiệm`,
+Đặc tính tích trữ rất rõ: vì là chôn cất nên sao mang tính cất giấu,
+ẩn khuất, bảo vệ; bản thân chủ mệnh cũng không muốn tiêu tốn của
+cải, có xu hướng giữ của và tiết kiệm.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -68,14 +65,10 @@ trình sinh-phát-kết của đời người.
     chi: ['Thìn', 'Tuất', 'Sửu', 'Mùi'],
     ketHop: ['Tam Thai', 'Bát Tọa'],
     doUuTien: 65,
-    tomTat: `**Mộ + Tam Thai + Bát Tọa tại Tứ Mộ** (Thìn-Tuất-Sửu-Mùi) — **VĂN VÕ KIÊM
-TOÀN**.
-
-**Đặc trưng:**
-- Tài năng **VĂN VÕ KIÊM TOÀN**
-- Đặc biệt **NỔI TRỘI** ở Tứ Mộ
-- Là cách cục **ĐẶC BIỆT TỐT**
-- Mộ + Tam Thai + Bát Tọa cộng hưởng tại đất gốc của Mộ`,
+    tomTat: `Khi Mộ đi cùng Tam Thai và Bát Tọa tại đất **Tứ Mộ** (Thìn,
+Tuất, Sửu, Mùi), đương số có tài năng văn võ kiêm toàn, đặc biệt nổi
+trội — đây là cách cục đặc biệt tốt vì Mộ cùng Tam Thai và Bát Tọa
+cộng hưởng tại đất gốc của Mộ.`,
   },
 
   {
@@ -86,14 +79,10 @@ TOÀN**.
     chi: ['Thìn', 'Tuất', 'Sửu', 'Mùi'],
     ketHop: ['Thai', 'Bát Tọa'],
     doUuTien: 65,
-    tomTat: `**Mộ + Thai + Bát Tọa tại Tứ Mộ** — chủ sự **MỒ MẢ TỐT ĐẸP**, đắc lợi cho
-con cháu về sau.
-
-**Đặc trưng:**
-- Mồ mả **TỐT ĐẸP**
-- **ĐẮC LỢI** cho con cháu về sau
-- Phúc phần dòng họ **BỀN VỮNG, THỊNH VƯỢNG LÂU DÀI**
-- Báo hiệu **NỀ NẾP GIA PHONG**, gia tộc duy trì truyền thống`,
+    tomTat: `Khi Mộ đi cùng Thai và Bát Tọa tại đất Tứ Mộ, mồ mả tổ tiên
+của đương số tốt đẹp, đắc lợi cho con cháu về sau. Phúc phần dòng họ
+bền vững, thịnh vượng lâu dài, báo hiệu nề nếp gia phong và gia tộc
+duy trì truyền thống.`,
   },
 
   {
@@ -102,15 +91,13 @@ con cháu về sau.
     sao: ['Mộ'],
     ketHop: ['Tiểu Hao', 'Đại Hao'],
     doUuTien: 55,
-    tomTat: `**Mộ + Song Hao (Tiểu Hao / Đại Hao)** — **HAO LÀM MẤT TÍNH U TỐI** của Mộ.
+    tomTat: `Mộ đi cùng Song Hao (Tiểu Hao, Đại Hao) khiến đặc tính u tối
+của Mộ bị mất đi. Song Hao phá vỡ trạng thái cất giấu, ẩn khuất của
+Mộ; tính chất u tối, bảo thủ giảm bớt, đương số không còn keo kiệt
+mà biết tiêu pha, tinh thần thông thoáng hơn.
 
-**Đặc trưng:**
-- Song Hao **PHÁ VỠ** trạng thái cất giấu, ẩn khuất của Mộ
-- Tính chất **U TỐI, BẢO THỦ** giảm bớt
-- Không còn keo kiệt, biết tiêu pha
-- Tinh thần **THÔNG THOÁNG HƠN**
-
-Đây là cách **TƯƠNG SINH** giữa Hao và Mộ — Hao tan Mộ để mở thoáng.`,
+Đây là cách tương sinh giữa Hao và Mộ — Hao tan Mộ để mở thoáng cho
+chủ mệnh.`,
   },
 
   {
@@ -119,14 +106,10 @@ con cháu về sau.
     sao: ['Mộ'],
     ketHop: ['Long Trì', 'Phượng Các'],
     doUuTien: 60,
-    tomTat: `**Mộ + Long Trì + Phượng Các** — chủ về **CÓ DI SẢN TỔ PHỤ**.
-
-**Đặc trưng:**
-- Có **DI SẢN** từ tổ tiên để lại
-- Long Phượng = quý tinh phúc tinh
-- Mộ = tích trữ, cất giấu
--: Cách **THỪA HƯỞNG TÀI SẢN GIA TỘC**
-- Đất đai, nhà cửa, vàng bạc tổ tiên giữ cho con cháu`,
+    tomTat: `Khi Mộ đi cùng Long Trì và Phượng Các, đương số có di sản tổ
+phụ. Long Phượng là quý tinh, phúc tinh; Mộ chủ về tích trữ, cất
+giấu — hợp lại thành cách thừa hưởng tài sản gia tộc: đất đai, nhà
+cửa, vàng bạc tổ tiên giữ cho con cháu.`,
   },
 
   {
@@ -135,13 +118,9 @@ con cháu về sau.
     sao: ['Mộ'],
     ketHop: ['Hóa Lộc'],
     doUuTien: 60,
-    tomTat: `**Mộ + Hóa Lộc** — chủ về **CỦA ĐẾN TẬN TAY**.
-
-**Đặc trưng:**
-- Của cải **ĐẾN ĐƯỢC TẬN TAY** không bị phân tán
-- Tiền bạc **GIỮ LẠI ĐƯỢC**
-- Hóa Lộc + Mộ = **TÍCH LŨY ĐƯỢC**, không phung phí
-- Tài lộc **BỀN VỮNG**`,
+    tomTat: `Mộ đi cùng Hóa Lộc cho thấy của cải đến được tận tay đương
+số mà không bị phân tán. Tiền bạc giữ lại được, Hóa Lộc cộng Mộ
+thành thế tích lũy, không phung phí — tài lộc bền vững.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -154,37 +133,28 @@ con cháu về sau.
     sao: ['Mộ'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Mộ thủ Mệnh** — sự **CHẬM CHẠP, U MÊ**, người **BẢO THỦ**.
+    tomTat: `**Mộ** thủ Mệnh đem lại cho đương số sự chậm chạp, u mê và bản
+tính bảo thủ.
 
-**Tướng mạo:**
-- Dáng dấp **CHẬM CHẠP**, kém linh hoạt
-- Dáng hình **THIẾU SỨC SỐNG, UỂ OẢI**
-- Không ưa bon chen
-- Ngại tranh luận, **CHỌN CÁCH SỐNG THU MÌNH**
-- Dù không bệnh tật vẫn dễ thấy nét **UỂ OẢI, THIẾU SINH KHÍ**
+Tướng mạo của chủ mệnh chậm chạp, kém linh hoạt, dáng hình thiếu sức
+sống, uể oải; không ưa bon chen, ngại tranh luận, chọn cách sống thu
+mình. Dù không bệnh tật vẫn dễ thấy nét uể oải, thiếu sinh khí.
 
-**Tính cách:**
-- Người **CHẬM CHẠP, CHẬM TIẾN, ÍT NHIỆT HUYẾT**
-- **KHÔNG ƯA TRANH LUẬN**
-- **BẢO THỦ, U MÊ, DÂM DỤC**
-- **NGẠI VA CHẠM, ƯA ỔN ĐỊNH, SỢ THAY ĐỔI**
-- **TỰ TIN QUÁ VÀO BẢN THÂN**: sinh ra ngu muội
-- Không có **TÍNH CÔNG TÂM**
+Tính cách: chậm chạp, chậm tiến, ít nhiệt huyết, không ưa tranh
+luận, bảo thủ, u mê, dâm dục; ngại va chạm, ưa ổn định, sợ thay
+đổi. Đôi khi đương số tự tin quá vào bản thân nên sinh ra ngu muội
+và thiếu tính công tâm.
 
-**Tài chính:**
-- Thích **TIẾT KIỆM**, đôi khi hơi **KEO KIỆT**
-- **KHÔNG PHÓNG KHOÁNG**
-- Hay **GIẤU DIẾM, CẤT TIỀN GIẤU CỦA**
-- "**MÈO GIỮ MỠ**"
+Về tài chính, chủ mệnh thích tiết kiệm, đôi khi hơi keo kiệt, không
+phóng khoáng, hay giấu diếm, cất tiền giấu của — đúng kiểu "mèo giữ
+mỡ".
 
-**Cát tinh hội:**
-- Đức tính giữ gìn: biến thành **KIÊN NHẪN, CẨN TRỌNG, BIẾT CHỜ THỜI**
+Khi cát tinh hội: đức tính giữ gìn của Mộ chuyển hóa thành kiên
+nhẫn, cẩn trọng, biết chờ thời.
 
-**Sát tinh / hung tinh hội chiếu:**
-- Rơi vào trạng thái **Ù LÌ, MÊ MUỘI**
-- **BẢO THỦ ĐẾN MỨC CỐ CHẤP**
-- **PHẢN ỨNG CHẬM** với thời cuộc
-- Dễ **LỠ DUYÊN**, đánh mất cơ hội thăng tiến và phát triển`,
+Khi sát tinh, hung tinh hội chiếu: chủ mệnh rơi vào trạng thái ù lì,
+mê muội, bảo thủ đến mức cố chấp, phản ứng chậm với thời cuộc; dễ
+lỡ duyên, đánh mất cơ hội thăng tiến và phát triển.`,
   },
 
   {
@@ -193,24 +163,19 @@ con cháu về sau.
     sao: ['Mộ'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Mộ tại Phụ Mẫu** — cha mẹ **HIỀN LÀNH GIẢN DỊ, CHỊU KHÓ TIẾT KIỆM**.
+    tomTat: `**Mộ** tại Phụ Mẫu cho thấy cha mẹ của đương số hiền lành, giản
+dị, chịu khó tiết kiệm.
 
-**Đặc trưng:**
-- Cha mẹ **HIỀN LÀNH**
-- Nghề nghiệp **CƠ BẢN, ÍT THAY ĐỔI**
-- Hơi **BẢO THỦ VÀ CHẬM TIẾN**
-- Là người **GIẢN DỊ**
-- **CHỊU KHÓ TIẾT KIỆM TÍCH LŨY** tiền bạc, của cải
+Cha mẹ làm nghề nghiệp cơ bản, ít thay đổi, hơi bảo thủ và chậm
+tiến; là người giản dị, chịu khó tiết kiệm tích lũy tiền bạc, của
+cải.
 
-**Lối sống:**
-- Thiên về sự **KÍN ĐÁO, DÈ DẶT**
-- Không giỏi **BỘC LỘ CẢM XÚC**
-- "**TÍCH CỐC PHÒNG CƠ**"
+Lối sống thiên về sự kín đáo, dè dặt; cha mẹ không giỏi bộc lộ cảm
+xúc, sống theo kiểu "tích cốc phòng cơ".
 
-**Cảnh báo:**
-- Bản tính **CHẬM CHẠP, NGẠI THAY ĐỔI**
-- Dễ **BỎ LỠ NHIỀU CƠ HỘI** cải thiện cuộc sống
-- Con cái cũng khó có điều kiện để **PHÁT TRIỂN**`,
+Cảnh báo: bản tính chậm chạp, ngại thay đổi của cha mẹ dễ khiến gia
+đình bỏ lỡ nhiều cơ hội cải thiện cuộc sống; con cái cũng khó có
+điều kiện để phát triển.`,
   },
 
   {
@@ -219,21 +184,17 @@ con cháu về sau.
     sao: ['Mộ'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `**Mộ tại Phúc Đức** — **MỒ YÊN MẢ ĐẸP**, hưởng phúc tổ tiên.
+    tomTat: `**Mộ** tại cung Phúc Đức báo hiệu mồ yên mả đẹp, đương số được
+hưởng phúc tổ tiên.
 
-**Đặc trưng:**
-- Mồ mả **YÊN ỔN, ĐẸP ĐẼ**
-- **KHÔNG BỊ ĐỘNG HAY XÂM PHẠM**
-- Bản thân **GIỮ ĐƯỢC** và **TIẾP TỤC TÔN BỒI** phúc đức của ông bà tổ tiên
-  để lại
-- Biết **GÌN GIỮ NỀ NẾP GIA PHONG**
-- Biết **TIẾP NỐI CÔNG ĐỨC** tổ tiên
+Mồ mả tổ tiên yên ổn, đẹp đẽ, không bị động hay xâm phạm. Chủ mệnh
+giữ được và tiếp tục tôn bồi phúc đức của ông bà tổ tiên để lại,
+biết gìn giữ nề nếp gia phong và tiếp nối công đức tổ tiên.
 
-**Đặc điểm cá nhân:**
-- Người **RA NGOÀI GẶP NHIỀU MAY MẮN**
-- Kết hôn xong mọi việc **DỄ PHÁT TRIỂN HƠN**
+Về cá nhân, đương số ra ngoài gặp nhiều may mắn; sau khi kết hôn
+thì mọi việc dễ phát triển hơn.
 
-- Cách Mộ + Thai + Tọa tại Tứ Mộ được tách thành luận giải riêng.`,
+Cách Mộ + Thai + Tọa tại Tứ Mộ được tách thành luận giải riêng.`,
   },
 
   {
@@ -242,26 +203,21 @@ con cháu về sau.
     sao: ['Mộ'],
     cung: ['Điền Trạch'],
     doUuTien: 78,
-    tomTat: `**Mộ tại Điền Trạch** — **GIỮ NHÀ ÔNG BÀ TỔ TIÊN ĐỂ LẠI**.
+    tomTat: `**Mộ** tại Điền Trạch cho thấy đương số giữ được nhà ông bà tổ
+tiên để lại.
 
-**Đặc trưng:**
-- **GIỮ ĐƯỢC** cửa nhà ông bà tổ tiên để lại
-- Có duyên với **BẤT ĐỘNG SẢN TỔ TIÊN**
-- Biết giữ gìn **NHÀ CỬA, RUỘNG VƯỜN, ĐẤT ĐAI**
-- Người **CHỊU KHÓ TÍCH CÓP, CHI LI**
-- "**TIỀN CHÔN CỦA GIẤU**", nhiều khi thành **KEO KIỆT**
+Chủ mệnh có duyên với bất động sản tổ tiên, biết giữ gìn nhà cửa,
+ruộng vườn, đất đai; là người chịu khó tích cóp, chi li — đôi khi
+"tiền chôn của giấu" thành ra keo kiệt.
 
-**Đặc điểm:**
-- Nhà cửa **ÍT THAY ĐỔI, SỬA SANG**
-- Nhà cũ nhưng **KHÔNG ĐƯỢC TU SỬA** thường xuyên
+Đặc điểm về nhà ở: nhà cửa ít thay đổi, sửa sang; nhà cũ thường
+không được tu sửa thường xuyên.
 
-**Hội nhiều ám sát tinh:**
-- Nhà gần **NGHĨA TRANG, NGHĨA ĐỊA**
-- Dưới nhà dễ có **HÀI CỐT**
-- Nơi ở dễ từng là **ĐẤT CHÔN HÀI CỐT, GẦN MỘ PHẦN**
-- Hoặc ẩn chứa yếu tố **TÂM LINH KHÓ LƯỜNG**
+Khi hội nhiều ám sát tinh: nhà của đương số dễ gần nghĩa trang,
+nghĩa địa, dưới nhà có thể có hài cốt, nơi ở từng là đất chôn hài
+cốt hoặc gần mộ phần, hoặc ẩn chứa yếu tố tâm linh khó lường.
 
-**Lưu ý:** cần nghiên cứu thật kỹ **PHONG THỦY** để tránh ảnh hưởng lâu
+Lưu ý: chủ mệnh cần nghiên cứu kỹ phong thủy để tránh ảnh hưởng lâu
 dài đến gia đạo.`,
   },
 
@@ -271,22 +227,14 @@ dài đến gia đạo.`,
     sao: ['Mộ'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Mộ tại Quan Lộc** — công việc **DẬM CHÂN TẠI CHỖ**, ít thay đổi.
+    tomTat: `**Mộ** tại Quan Lộc cho thấy công việc của đương số dậm chân
+tại chỗ, ít thay đổi, đứng im một chỗ. Khả năng thăng tiến đi chậm,
+thiếu sự đột phá; chủ mệnh thích sự yên ổn, ngại nhảy việc, công
+việc lặp đi lặp lại.
 
-**Đặc trưng:**
-- Công việc **ÍT THAY ĐỔI**
-- **ĐỨNG IM MỘT CHỖ**
-- Làm **CHẬM** khả năng thăng tiến đi nhiều
-- Thiếu sự **ĐỘT PHÁ**
-- Thích sự **YÊN ỔN, NGẠI NHẢY VIỆC**
-- Lặp đi lặp lại
-
-**Hợp nghề - cất giữ kín đáo:**
-- **BẢO QUẢN, CẤT GIỮ, THỦ KHO**
-- **KẾ TOÁN, LƯU TRỮ**
-- Công việc yêu cầu tính **BÍ MẬT, KÍN ĐÁO**
-- Các ngành nghề về **MỒ MẢ, TANG LỄ**
-- **QUẢN LÝ TÀI SẢN**`,
+Hợp với những nghề mang tính cất giữ kín đáo: bảo quản, cất giữ,
+thủ kho, kế toán, lưu trữ; công việc yêu cầu tính bí mật, kín đáo;
+các ngành nghề về mồ mả, tang lễ; quản lý tài sản.`,
   },
 
   {
@@ -295,19 +243,17 @@ dài đến gia đạo.`,
     sao: ['Mộ'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Mộ tại Nô Bộc** — bạn bè **ÍT NHƯNG LÂU BỀN**, đơn giản thật thà.
+    tomTat: `**Mộ** tại Nô Bộc cho thấy bạn bè của đương số ít nhưng lâu
+bền, đơn giản và thật thà.
 
-**Đặc trưng:**
-- **GIẢM SỐ LƯỢNG** bạn bè
-- **ÍT GIAO** nhưng chơi với ai thì **RẤT LÂU BỀN**
-- Mạng lưới quan hệ xã hội thường **KHÔNG RỘNG**
-- "**BÈ ÍT BẠN THƯA**"
-- Bạn bè **ĐƠN GIẢN, THẬT THÀ** nên chơi được lâu dài
-- Cộng sự, bạn bè, cấp dưới có đức tính **HIỀN LÀNH, CHẤT PHÁC**
-- Không thích **BON CHEN** nên dễ gắn bó
+Số lượng bạn bè giảm; ít giao nhưng chơi với ai thì rất lâu bền.
+Mạng lưới quan hệ xã hội của chủ mệnh thường không rộng — đúng lẽ
+"bè ít bạn thưa". Bạn bè đơn giản, thật thà nên chơi được lâu dài.
+Cộng sự, bạn bè, cấp dưới có đức tính hiền lành, chất phác, không
+thích bon chen nên dễ gắn bó.
 
-**Mặt trái:** Dù không phải ai cũng giúp được trong lúc khó khăn, nhưng ít
-nhất **KHÔNG ĐEM ĐẾN ĐIỀU TIẾNG**.`,
+Mặt trái: dù không phải ai cũng giúp được trong lúc khó khăn, nhưng
+ít nhất họ không đem đến điều tiếng cho đương số.`,
   },
 
   {
@@ -316,19 +262,15 @@ nhất **KHÔNG ĐEM ĐẾN ĐIỀU TIẾNG**.`,
     sao: ['Mộ'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Mộ tại Thiên Di** — ra ngoài **HÒA NHẬP CHẬM**, bảo thủ.
+    tomTat: `**Mộ** tại Thiên Di cho thấy đương số ra ngoài hòa nhập chậm và
+có nét bảo thủ. Chủ mệnh không ưa tìm hiểu, học hỏi cái mới; ra
+ngoài hơi bảo thủ, hay làm những việc cũ, đến những nơi cũ, theo
+thói quen, ít đổi mới. Ngại va chạm, đúng kiểu "chim quen tổ cũ" —
+cuộc sống chỉ xoay quanh nơi thân quen, hiếm khi bước vào môi
+trường lạ lẫm.
 
-**Đặc trưng:**
-- Ra ngoài **HÒA NHẬP CHẬM**
-- **KHÔNG ƯA TÌM HIỂU, HỌC HỎI** cái mới
-- Ra ngoài hơi **BẢO THỦ**
-- Hay làm những **VIỆC CŨ**, đến những **NƠI CŨ**
-- Theo **THÓI QUEN**, ít đổi mới
-- Ngại va chạm, "**CHIM QUEN TỔ CŨ**"
-- Cuộc sống chỉ xoay quanh nơi **THÂN QUEN**
-- Hiếm khi bước vào **MÔI TRƯỜNG LẠ LẪM**
-
-- Trường hợp cung Phúc Đức vượng giúp giảm tính bảo thủ được tách thành luận giải riêng.`,
+Trường hợp cung Phúc Đức vượng giúp giảm tính bảo thủ được tách
+thành luận giải riêng.`,
   },
 
   {
@@ -337,15 +279,14 @@ nhất **KHÔNG ĐEM ĐẾN ĐIỀU TIẾNG**.`,
     sao: ['Mộ'],
     cung: ['Thiên Di'],
     doUuTien: 68,
-    tomTat: `**Mộ thủ Thiên Di kết hợp cung phúc khí vượng (đẹp):**
-- Vẫn **GẶP NHIỀU ĐIỀM LÀNH** khi ra ngoài
-- Dễ gặp cơ hội tốt
-- Được người **ĐỊA VỊ HỖ TRỢ**
-- Người có cung số tốt được nhiều may mắn
-- Gia đình người hôn phối dễ có **ĐIỀU KIỆN**
-- Cưới vợ xong mọi thứ **DỄ HANH THÔNG**
+    tomTat: `Khi Mộ thủ Thiên Di mà cung phúc khí của đương số vượng đẹp,
+chủ mệnh vẫn gặp nhiều điềm lành khi ra ngoài: dễ gặp cơ hội tốt,
+được người có địa vị hỗ trợ, được nhiều may mắn nhờ cung số đẹp.
+Gia đình người hôn phối dễ có điều kiện; cưới vợ xong mọi thứ đều
+hanh thông hơn.
 
-- Cung phúc vượng "kéo" Mộ ở Thiên Di vượt qua được tính bảo thủ, hòa nhập chậm.`,
+Ở đây cung phúc vượng đã "kéo" Mộ ở Thiên Di vượt qua được tính
+bảo thủ và sự hòa nhập chậm.`,
   },
 
   {
@@ -354,24 +295,16 @@ nhất **KHÔNG ĐEM ĐẾN ĐIỀU TIẾNG**.`,
     sao: ['Mộ'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Mộ tại Tật Ách** — bệnh tật **ẨN BÊN TRONG, KHÓ TÌM**.
+    tomTat: `**Mộ** tại Tật Ách cho thấy bệnh tật của đương số ẩn bên trong,
+khó tìm ra, khó chữa và tích tụ dần; càng về già mới lộ ra dần.
 
-**Đặc trưng:**
-- Bệnh tật **ẨN BÊN TRONG, KHÓ TÌM RA**
-- **KHÓ CHỮA**
-- **TÍCH TỤ DẦN**
-- Càng về già thì mới **LỘ RA DẦN**
-- Sức khỏe tựa như **LỬA ÂM Ỉ TRONG TRO TÀN**
-- Bệnh ngấm ngầm **TÍCH TỤ THEO THỜI GIAN**
-- Triệu chứng **KHÔNG RÕ RÀNG**
+Sức khỏe chủ mệnh tựa như lửa âm ỉ trong tro tàn — bệnh ngấm ngầm
+tích tụ theo thời gian, triệu chứng không rõ ràng.
 
-**Bệnh thường gặp:**
-- Bệnh **NỘI TIẾT**: gan mật, tiêu hóa
-- **U BƯỚU**
-- Vấn đề **MÃN TÍNH**
-- Thể trạng ngày càng **SA SÚT**
+Bệnh thường gặp: bệnh nội tiết (gan mật, tiêu hóa), u bướu, các vấn
+đề mãn tính; thể trạng ngày càng sa sút.
 
-**Cảnh báo:** Khi phát tác sẽ **RẤT KHÓ ĐIỀU TRỊ DỨT ĐIỂM**.`,
+Cảnh báo: khi phát tác, bệnh sẽ rất khó điều trị dứt điểm.`,
   },
 
   {
@@ -380,28 +313,24 @@ nhất **KHÔNG ĐEM ĐẾN ĐIỀU TIẾNG**.`,
     sao: ['Mộ'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `**Mộ tại Tài Bạch** — **ĂN CHẮC MẶC BỀN, TIỀN CHÔN CỦA GIẤU**.
+    tomTat: `**Mộ** tại Tài Bạch cho thấy đương số sống theo kiểu ăn chắc
+mặc bền, tiền chôn của giấu.
 
-**Đặc trưng:**
-- Người **ĂN CHẮC MẶC BỀN**
-- **TIỀN CHÔN CỦA GIẤU**
-- Người **CHỊU KHÓ TIẾT KIỆM, TÍCH CÓP, TÍCH TRỮ** của tiền
-- Đôi khi thành hơi **KEO KIỆT**
-- Làm bao nhiêu tiết kiệm bấy nhiêu
-- Ít khi **TIÊU XÀI PHÓNG KHOÁNG** hay mạo hiểm đầu tư
+Chủ mệnh chịu khó tiết kiệm, tích cóp, tích trữ tiền của; đôi khi
+thành hơi keo kiệt. Làm bao nhiêu tiết kiệm bấy nhiêu, ít khi tiêu
+xài phóng khoáng hay mạo hiểm đầu tư.
 
-**Nguồn tiền:**
-- Có nguồn kiếm tiền **KÍN, ÍT AI BIẾT**
-- Có **CỦA TIỀN DO ÔNG BÀ TỔ TIÊN** để lại
-- Tài vận thường **KHÔNG "MỘT BƯỚC LÊN MÂY"**
-- Nghiêng về việc **TÍCH CÓP LÂU DÀI** hoặc thừa hưởng
+Nguồn tiền của đương số thường có tính kín đáo, ít ai biết, hoặc
+là của tiền do ông bà tổ tiên để lại. Tài vận thường không "một
+bước lên mây" mà nghiêng về việc tích cóp lâu dài hoặc thừa hưởng.
 
-**Bộ kết hợp:**
-- **Mộ + Long Trì + Phượng Các** = có di sản tổ phụ
-- **Mộ + Hóa Lộc** = của đến tận tay
-- Nếu đi cùng **Long Phượng**: dễ được hưởng gia sản, đất đai ổn định
-- Gặp **Hóa Lộc / Lộc Tồn**: của cải đến dễ, ít vướng trở ngại, giữ được
-  dài lâu`,
+Các bộ kết hợp đáng chú ý:
+
+- Mộ + Long Trì + Phượng Các: có di sản tổ phụ.
+- Mộ + Hóa Lộc: của đến tận tay.
+- Đi cùng Long Phượng: dễ được hưởng gia sản, đất đai ổn định.
+- Gặp Hóa Lộc hoặc Lộc Tồn: của cải đến dễ, ít vướng trở ngại,
+  giữ được dài lâu.`,
   },
 
   {
@@ -410,27 +339,20 @@ nhất **KHÔNG ĐEM ĐẾN ĐIỀU TIẾNG**.`,
     sao: ['Mộ'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Mộ tại Tử Tức** — đường con cái **ĐẾN CHẬM**, khó sinh.
+    tomTat: `**Mộ** tại Tử Tức cho thấy đường con cái của đương số đến chậm,
+khó sinh.
 
-**Đặc trưng:**
-- **KHÔNG LỢI ÍCH** cho sự sinh nở
-- **KHÓ SINH, KHÓ ĐẺ, KHÓ CÓ CON**
-- Sinh nở dễ **GẶP TRẮC TRỞ**
-- Phải **CHỜ THỜI** mới có tin vui
+Sao không lợi cho việc sinh nở: chủ mệnh khó sinh, khó đẻ, khó có
+con; sinh nở dễ gặp trắc trở, phải chờ thời mới có tin vui.
 
-**Tính cách con:**
-- Con cái tính cách **HIỀN LÀNH** nhưng hơi **CHẬM CHẠP**
-- Tư duy **KHÔNG NHANH**
-- **HƯỚNG NỘI, THẬT THÀ**
-- **KHÔNG HAM BON CHEN**
-- Lối sống thiên về **AN PHẬN, ỔN ĐỊNH**
+Tính cách con cái: hiền lành nhưng hơi chậm chạp, tư duy không
+nhanh, hướng nội, thật thà, không ham bon chen, lối sống thiên về
+an phận, ổn định.
 
-**Trường hợp xấu:**
-- Con cái **XA CÁCH** hoặc không gắn bó lâu dài
+Trường hợp xấu: con cái xa cách hoặc không gắn bó lâu dài.
 
-**Cát tinh hội chiếu:**
-- Con cái có **LÒNG HIẾU THẢO**
-- Biết **QUÝ TRỌNG DI SẢN TỔ TIÊN** để lại`,
+Khi có cát tinh hội chiếu: con cái có lòng hiếu thảo, biết quý
+trọng di sản tổ tiên để lại.`,
   },
 
   {
@@ -439,24 +361,18 @@ nhất **KHÔNG ĐEM ĐẾN ĐIỀU TIẾNG**.`,
     sao: ['Mộ'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Mộ tại Phu Thê** — hôn nhân **BỀN CHẶT**, hôn phối thủy chung tiết kiệm.
+    tomTat: `**Mộ** tại Phu Thê là dấu hiệu hôn nhân bền chặt, người hôn
+phối thủy chung và tiết kiệm.
 
-**Đặc trưng:**
-- Người hôn phối **HIỀN LÀNH, THỦY CHUNG**
-- **ÍT THAY ĐỔI**, hơi **BẢO THỦ**
-- **CHỊU KHÓ NHẶT NHẠNH, TIẾT KIỆM** cho gia đình
-- **THÀNH THẬT, CÁCH SỐNG ĂN CHẮC MẶC BỀN**
-- Biết **VUN VÉN GIA ĐÌNH**
+Người hôn phối hiền lành, thủy chung, ít thay đổi, hơi bảo thủ,
+chịu khó nhặt nhạnh, tiết kiệm cho gia đình; thành thật, sống theo
+kiểu ăn chắc mặc bền và biết vun vén gia đình.
 
-**Ưu thế:**
-- Gia đình người hôn phối **CÓ ĐIỀU KIỆN**
-- Đương số là người **NHIỀU MAY MẮN**
-- Được hưởng **PHÚC CỦA GIA ĐÌNH TỔ TIÊN**
+Ưu thế đáng chú ý: gia đình người hôn phối có điều kiện; đương số
+là người nhiều may mắn, được hưởng phúc của gia đình tổ tiên.
 
-**Hôn nhân sau cưới:**
-- Vận trình hôn nhân có nhiều **CHUYỂN BIẾN TÍCH CỰC**
-- **ÍT SÓNG GIÓ**
-- Của cải cũng **NGÀY MỘT GIA TĂNG**`,
+Sau khi cưới, vận trình hôn nhân của chủ mệnh có nhiều chuyển biến
+tích cực, ít sóng gió; của cải cũng ngày một gia tăng.`,
   },
 
   {
@@ -465,22 +381,17 @@ nhất **KHÔNG ĐEM ĐẾN ĐIỀU TIẾNG**.`,
     sao: ['Mộ'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Mộ tại Huynh Đệ** — anh chị em **XA CÁCH**, hiền lương chất phác.
+    tomTat: `**Mộ** tại Huynh Đệ cho thấy anh chị em của đương số xa cách
+nhưng hiền lương, chất phác.
 
-**Đặc trưng:**
-- **GIẢM SỐ LƯỢNG** anh chị em
-- Anh chị em là người **HIỀN LƯƠNG, CHẤT PHÁT, ĐƠN GIẢN**
-- **CHÂN THÀNH, GIẢN DỊ**
-- Đề cao sự **CẦN KIỆM**
-- **KHÔNG MƯU CẦU DANH LỢI**
+Số lượng anh chị em giảm; những người trong nhà là người hiền
+lương, chất phát, đơn giản, chân thành, giản dị, đề cao sự cần kiệm
+và không mưu cầu danh lợi.
 
-**Hoàn cảnh:**
-- Người trong nhà dễ rơi vào cảnh **MỖI NGƯỜI MỘT PHƯƠNG**
-- **ÍT KHI SUM VẦY**
-- Mối quan hệ **KHÔNG QUÁ KHĂNG KHÍT**
+Hoàn cảnh thực tế: người trong nhà dễ rơi vào cảnh mỗi người một
+phương, ít khi sum vầy, mối quan hệ không quá khăng khít.
 
-**Mặt tích cực:**
-- Quan hệ thiên về sự **YÊN ỔN, NHƯỜNG NHỊN**
-- Trở thành **CHỖ DỰA ÂM THẦM** cho nhau`,
+Mặt tích cực: quan hệ giữa anh chị em thiên về sự yên ổn, nhường
+nhịn, trở thành chỗ dựa âm thầm cho nhau khi cần.`,
   },
 ];

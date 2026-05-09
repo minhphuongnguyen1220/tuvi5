@@ -12,22 +12,21 @@ export const luanGiai_VanXuong: DoanLuanGiai[] = [
     title: 'Văn Xương - Đặc tính chung',
     sao: ['Văn Xương'],
     doUuTien: 30,
-    tomTat: `**Văn Xương** thuộc bộ **Lục Cát Tinh**, là **Văn Tinh**, ngũ hành
-**Kim**.
+    tomTat: `**Văn Xương** thuộc bộ Lục Cát Tinh, là văn tinh, ngũ hành Kim, đặc
+tính chủ về khoa giáp, quý hiển và thông minh.
 
-**Đặc tính:** **khoa giáp, quý hiển, thông minh**.
+Ưu điểm của sao này: đem cho đương số tài văn chương, nghệ thuật, lòng
+hiếu học, tư duy tốt và khả năng lý luận hùng biện sắc bén.
 
-**Ưu điểm:** có **tài văn chương, nghệ thuật, hiếu học**, **tư duy tốt**, có
-khả năng **lý luận, hùng biện**.
+Nhược điểm: cảm xúc dễ bị lay động trước hoàn cảnh.
 
-**Nhược điểm:** **cảm xúc dễ bị lay động**.
+Vị trí miếu hãm:
 
-**Vị trí miếu hãm:**
-- **Đắc địa:** Thìn, Tuất, Sửu, Mùi, Tỵ, Hợi
-- **Hãm địa:** Tý, Dần, Ngọ, Thân
+- Đắc địa tại Thìn, Tuất, Sửu, Mùi, Tỵ, Hợi
+- Hãm địa tại Tý, Dần, Ngọ, Thân
 
-Luôn đi cặp với **Văn Khúc** (bộ "Xương Khúc") — biểu trưng cho **học vấn, văn
-hóa, nghệ thuật**.`,
+Văn Xương luôn đi cặp với **Văn Khúc** thành bộ "Xương Khúc" — biểu trưng
+cho học vấn, văn hóa và nghệ thuật.`,
   },
 
   // ============================================================
@@ -39,41 +38,40 @@ hóa, nghệ thuật**.`,
     sao: ['Văn Xương'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Văn Xương cư Mệnh:** vẻ mặt **thanh tú, khôi ngô**. Nữ thì có **nhan
-sắc**.
+    tomTat: `Đương số có Văn Xương cư Mệnh sở hữu vẻ mặt thanh tú, khôi ngô; nữ
+mệnh thường có nhan sắc.
 
-Tính cách: **thông minh bẩm sinh, tài năng, học thức**, có **tâm hồn nhạy cảm**,
-thích khám phá kiến thức mới. Có **năng khiếu nghệ thuật** (văn chương, mỹ thuật,
-âm nhạc), nhạy cảm với **ngôn từ, hình ảnh, màu sắc, âm thanh**.
+Về tính cách, đương số thông minh bẩm sinh, tài năng và học thức, có
+tâm hồn nhạy cảm, thích khám phá kiến thức mới. Năng khiếu nghệ thuật
+(văn chương, mỹ thuật, âm nhạc) thể hiện rõ; đương số nhạy cảm với
+ngôn từ, hình ảnh, màu sắc và âm thanh.
 
-Có **khả năng hùng biện mạnh mẽ**, ăn nói **lưu loát và khéo léo**.
-
-- Con đường công danh, tài lộc **phát triển tốt**.`,
+Khả năng hùng biện rất mạnh, ăn nói lưu loát và khéo léo, nhờ đó con
+đường công danh và tài lộc phát triển tốt.`,
 
     chiTiet: `## Sự nghiệp
 
-- Dễ **thành danh, đắc thời** bởi chính tài năng
-- Sự nghiệp **phát triển**, dễ tạo được **uy danh, sự nổi tiếng**, gặt hái nhiều
-  thành tựu
-- Có thể dành **rất nhiều thời gian cho việc học**: xu hướng học **thạc sĩ, tiến
-  sĩ, giáo sư**
+Đương số dễ thành danh, đắc thời nhờ chính tài năng. Sự nghiệp phát
+triển, dễ tạo được uy danh và sự nổi tiếng, gặt hái nhiều thành tựu.
+Có thể dành rất nhiều thời gian cho việc học, có xu hướng vươn tới
+học vị thạc sĩ, tiến sĩ, giáo sư.
 
 ## Hôn nhân
 
-- **Giàu tình cảm, đa cảm, đa tình, nhạy cảm**
-- Mối quan hệ hôn nhân **khá ổn định**
-- Người hôn phối có thể là **danh giá, có học thức, nhiều bằng cấp**
+Đương số giàu tình cảm, đa cảm, đa tình và nhạy cảm. Mối quan hệ hôn
+nhân nhìn chung khá ổn định; người hôn phối có thể là người danh giá,
+có học thức và nhiều bằng cấp.
 
 ## Tài lộc
 
-- Biết **tận dụng tri thức** để tạo dựng tài lộc
-- **Chi tiêu hợp lý**, có **kế hoạch tích lũy và đầu tư**
-- Tài vận **ổn định**, ít khi túng thiếu
+Đương số biết tận dụng tri thức để tạo dựng tài lộc, chi tiêu hợp lý,
+có kế hoạch tích lũy và đầu tư rõ ràng. Tài vận ổn định, ít khi túng
+thiếu.
 
 ## Phúc thọ
 
-**Phú quý, phúc thọ** — cuộc sống **ổn định, có uy danh**, ít gặp tai họa nguy
-hiểm.`,
+Cuộc sống đương số phú quý, phúc thọ, ổn định và có uy danh, ít khi
+gặp tai họa nguy hiểm.`,
   },
 
   // ============================================================
@@ -84,7 +82,8 @@ hiểm.`,
     title: 'Văn Xương - Bộ sao TỐT (chỉ dẫn chung)',
     sao: ['Văn Xương'],
     doUuTien: 50,
-    tomTat: `**Bộ sao tốt của Văn Xương:**`,
+    tomTat: `Các bộ sao tốt của Văn Xương được tách thành luận giải riêng dưới
+đây.`,
   },
 
   {
@@ -93,7 +92,8 @@ hiểm.`,
     sao: ['Văn Xương'],
     ketHop: ['Văn Khúc', 'Hóa Khoa'],
     doUuTien: 45,
-    tomTat: `**Văn Xương + Văn Khúc + Hóa Khoa:** dễ dàng **đỗ đạt**, có **văn bằng và chứng chỉ cao**.`,
+    tomTat: `Khi Văn Xương hội Văn Khúc và Hóa Khoa, đương số dễ dàng đỗ đạt và có
+văn bằng, chứng chỉ cao.`,
   },
 
   {
@@ -102,7 +102,8 @@ hiểm.`,
     sao: ['Văn Xương'],
     ketHop: ['Thiên Khôi', 'Thiên Việt'],
     doUuTien: 45,
-    tomTat: `**Văn Xương + Thiên Khôi + Thiên Việt:** **gặp quý nhân phù trợ**, đường học hành công danh thuận lợi.`,
+    tomTat: `Khi Văn Xương hội Thiên Khôi và Thiên Việt, đương số gặp quý nhân phù
+trợ, đường học hành và công danh thuận lợi.`,
   },
 
   {
@@ -111,7 +112,8 @@ hiểm.`,
     sao: ['Văn Xương'],
     ketHop: ['Thai Phụ', 'Phong Cáo'],
     doUuTien: 45,
-    tomTat: `**Văn Xương + Thai Phụ + Phong Cáo:** cơ hội **tiến thân qua bằng cấp giấy tờ**, gia đình có **truyền thống hiếu học**.`,
+    tomTat: `Khi Văn Xương hội Thai Phụ và Phong Cáo, đương số có cơ hội tiến thân
+qua bằng cấp giấy tờ; gia đình có truyền thống hiếu học.`,
   },
 
   {
@@ -120,7 +122,8 @@ hiểm.`,
     sao: ['Văn Xương'],
     ketHop: ['Vũ Khúc'],
     doUuTien: 45,
-    tomTat: `**Văn Xương + Vũ Khúc:** **tài năng văn chương, nghệ thuật**, dễ có **danh tiếng lẫy lừng**.`,
+    tomTat: `Khi Văn Xương hội Vũ Khúc, đương số có tài năng văn chương, nghệ
+thuật, dễ có danh tiếng lẫy lừng.`,
   },
 
   {
@@ -129,7 +132,8 @@ hiểm.`,
     sao: ['Văn Xương'],
     ketHop: ['Vũ Khúc', 'Tả Phù', 'Hữu Bật'],
     doUuTien: 45,
-    tomTat: `**Văn Xương + Vũ Khúc + Tả Phù + Hữu Bật:** càng **phú quý hiển vinh**.`,
+    tomTat: `Khi Văn Xương hội Vũ Khúc, **Tả Phù** và Hữu Bật, đương số càng phú
+quý hiển vinh.`,
   },
 
   // ============================================================
@@ -140,7 +144,8 @@ hiểm.`,
     title: 'Văn Xương - Bộ sao XẤU (chỉ dẫn chung)',
     sao: ['Văn Xương'],
     doUuTien: 50,
-    tomTat: `**Bộ sao xấu của Văn Xương:**`,
+    tomTat: `Các bộ sao xấu của Văn Xương được tách thành luận giải riêng dưới
+đây.`,
   },
 
   {
@@ -149,7 +154,8 @@ hiểm.`,
     sao: ['Văn Xương'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 45,
-    tomTat: `**Văn Xương + Hóa Kỵ:** **học nhiều mà không ứng dụng được**, dễ **vướng tai tiếng, thị phi**.`,
+    tomTat: `Khi Văn Xương đi cùng **Hóa Kỵ**, đương số học nhiều mà không ứng
+dụng được, dễ vướng tai tiếng và thị phi.`,
   },
 
   {
@@ -158,7 +164,9 @@ hiểm.`,
     sao: ['Văn Xương'],
     ketHop: ['Địa Không', 'Địa Kiếp'],
     doUuTien: 45,
-    tomTat: `**Văn Xương + Địa Không / Địa Kiếp:** khó khăn trắc trở học hành công việc, có thể **tai họa bất ngờ** khiến công danh **gián đoạn**.`,
+    tomTat: `Khi Văn Xương đi cùng Địa Không hoặc Địa Kiếp, đương số gặp khó khăn,
+trắc trở trong học hành và công việc; có thể gặp tai họa bất ngờ
+khiến công danh bị gián đoạn.`,
   },
 
   {
@@ -167,7 +175,8 @@ hiểm.`,
     sao: ['Văn Xương'],
     ketHop: ['Thiên Hình'],
     doUuTien: 45,
-    tomTat: `**Văn Xương + Thiên Hình:** có thể **bị thương tật** hoặc gặp **rắc rối pháp lý**.`,
+    tomTat: `Khi Văn Xương đi cùng Thiên Hình, đương số có thể bị thương tật hoặc
+gặp rắc rối pháp lý.`,
   },
 
   {
@@ -176,7 +185,9 @@ hiểm.`,
     sao: ['Văn Xương'],
     ketHop: ['Phục Binh', 'Bạch Hổ'],
     doUuTien: 45,
-    tomTat: `**Văn Xương + Phục Binh / Bạch Hổ:** dễ bị **phản bội, cản trở** bởi người thân/bạn bè, có **tiểu nhân gây họa sau lưng**.`,
+    tomTat: `Khi Văn Xương đi cùng Phục Binh hoặc Bạch Hổ, đương số dễ bị phản
+bội, cản trở bởi người thân hay bạn bè; có tiểu nhân gây họa sau
+lưng.`,
   },
 
   // ============================================================
@@ -188,11 +199,12 @@ hiểm.`,
     sao: ['Văn Xương'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Văn Xương tại Phụ Mẫu:** cha mẹ là người **có học thức, chức danh**,
-hoặc là người **tài nghệ khéo léo**, có **danh tiếng về thủ công, nghệ thuật**.
+    tomTat: `Đương số có Văn Xương đóng Phụ Mẫu thường có cha mẹ là người học
+thức, có chức danh, hoặc là người tài nghệ khéo léo, có danh tiếng
+về thủ công và nghệ thuật.
 
-Cha mẹ thường **dễ xúc động, đa sầu đa cảm**, dễ lung lay trước cái đẹp — **nhạy
-cảm với tâm hồn nghệ sĩ lãng mạn, nhẹ nhàng**.`,
+Cha mẹ thường dễ xúc động, đa sầu đa cảm, dễ lung lay trước cái đẹp,
+nhạy cảm với những tâm hồn nghệ sĩ lãng mạn, nhẹ nhàng.`,
   },
 
   // ============================================================
@@ -204,11 +216,11 @@ cảm với tâm hồn nghệ sĩ lãng mạn, nhẹ nhàng**.`,
     sao: ['Văn Xương'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `**Văn Xương tại Phúc Đức:** dòng họ có **truyền thống hiếu học**,
-nhiều người **có bằng cấp, đạt chức vị cao**.
+    tomTat: `Đương số có Văn Xương đóng Phúc Đức xuất thân từ dòng họ có truyền
+thống hiếu học, nhiều người có bằng cấp và đạt chức vị cao.
 
-Đương số được **hưởng phúc đức** của gia đình dòng họ, **học tập tốt**, dễ
-**thành công và gặt hái nhiều thành tựu**.`,
+Đương số được hưởng phúc đức của gia đình dòng họ, học tập tốt, dễ
+thành công và gặt hái nhiều thành tựu.`,
   },
 
   // ============================================================
@@ -220,13 +232,12 @@ nhiều người **có bằng cấp, đạt chức vị cao**.
     sao: ['Văn Xương'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Văn Xương tại Điền Trạch:** dễ có được **điền sản**.
+    tomTat: `Đương số có Văn Xương đóng Điền Trạch dễ có được điền sản. Nhà cửa
+thường ở khu vực có dân trí cao, hàng xóm láng giềng là người học
+thức.
 
-Nhà cửa thường ở **khu vực có dân trí cao**, hàng xóm láng giềng là **người có
-học thức**.
-
-Đương số thích **bài trí, chăm chút nhà cửa**: không gian sống **gọn gàng,
-sạch sẽ, có tính nghệ thuật cao**.`,
+Đương số thích bài trí và chăm chút nhà cửa, không gian sống gọn
+gàng, sạch sẽ và mang tính nghệ thuật cao.`,
   },
 
   // ============================================================
@@ -238,11 +249,13 @@ sạch sẽ, có tính nghệ thuật cao**.`,
     sao: ['Văn Xương'],
     cung: ['Quan Lộc'],
     doUuTien: 80,
-    tomTat: `**Văn Xương tại Quan Lộc:** người **ham học**, thích tìm hiểu điều
-mới mẻ, **khéo tay**, có **trí tưởng tượng và khả năng cảm thụ nghệ thuật tốt**.
+    tomTat: `Đương số có Văn Xương đóng Quan Lộc là người ham học, thích tìm hiểu
+điều mới mẻ, khéo tay, giàu trí tưởng tượng và có khả năng cảm thụ
+nghệ thuật tốt.
 
-Phù hợp các công việc liên quan: **đồ thủ công, mỹ nghệ, mỹ thuật, văn học**,
-mỹ phẩm, thiết kế…: dễ **phát triển mạnh mẽ**.`,
+Đương số phù hợp với các công việc liên quan đến đồ thủ công, mỹ
+nghệ, mỹ thuật, văn học, mỹ phẩm, thiết kế — và dễ phát triển mạnh
+mẽ trong các ngành này.`,
   },
 
   // ============================================================
@@ -254,14 +267,14 @@ mỹ phẩm, thiết kế…: dễ **phát triển mạnh mẽ**.`,
     sao: ['Văn Xương'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Văn Xương tại Nô Bộc:** bạn bè đồng nghiệp là **người có học thức,
-tốt bụng nhưng ham vui**.
+    tomTat: `Đương số có Văn Xương đóng Nô Bộc thường có bạn bè, đồng nghiệp là
+người học thức, tốt bụng nhưng ham vui.
 
-Họ có **thiên hướng nghệ thuật**, ăn nói **khéo léo**, dễ tạo thiện cảm. Đôi
-khi **thiếu thực tế** hoặc dễ bị **chi phối bởi cảm xúc**.
+Họ có thiên hướng nghệ thuật, ăn nói khéo léo, dễ tạo thiện cảm; tuy
+đôi khi thiếu thực tế hoặc dễ bị chi phối bởi cảm xúc.
 
-Đương số dễ được **đồng nghiệp quý mến, hỗ trợ** nhờ giao tiếp **nhẹ nhàng, lịch
-thiệp, hiểu biết sâu rộng**.`,
+Đương số dễ được đồng nghiệp quý mến và hỗ trợ nhờ giao tiếp nhẹ
+nhàng, lịch thiệp, hiểu biết sâu rộng.`,
   },
 
   // ============================================================
@@ -273,11 +286,11 @@ thiệp, hiểu biết sâu rộng**.`,
     sao: ['Văn Xương'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Văn Xương tại Thiên Di:** ra ngoài được **làm quen, tiếp cận với
-nhiều bạn bè có học thức, danh giá**.
+    tomTat: `Đương số có Văn Xương đóng Thiên Di mỗi khi ra ngoài đều được làm
+quen, tiếp cận với nhiều bạn bè có học thức và danh giá.
 
-Xây dựng được **mối quan hệ chất lượng**: **học hỏi nhiều điều mới mẻ**, được
-**hỗ trợ và giúp đỡ nhiệt tình**.`,
+Đương số xây dựng được mối quan hệ chất lượng, học hỏi được nhiều
+điều mới mẻ và được hỗ trợ, giúp đỡ nhiệt tình từ những người này.`,
   },
 
   // ============================================================
@@ -289,7 +302,7 @@ Xây dựng được **mối quan hệ chất lượng**: **học hỏi nhiều 
     sao: ['Văn Xương'],
     cung: ['Tật Ách'],
     doUuTien: 75,
-    tomTat: `**Văn Xương tại Tật Ách:** đương số **ít bệnh, sức khỏe ổn định**,
+    tomTat: `Đương số có Văn Xương đóng Tật Ách thường ít bệnh, sức khỏe ổn định,
 hiếm khi gặp bệnh nghiêm trọng.`,
   },
 
@@ -300,7 +313,9 @@ hiếm khi gặp bệnh nghiêm trọng.`,
     cung: ['Tật Ách'],
     ketHop: ['Linh Tinh', 'Hỏa Tinh', 'Địa Không', 'Địa Kiếp', 'Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `**Văn Xương Tật Ách + Linh Tinh / Hỏa Tinh / Không Kiếp / Hóa Kỵ:** dễ gặp **bệnh nan y khó chữa** — nhưng cũng có khả năng gặp **quý nhân hỗ trợ, tai qua nạn khỏi**.`,
+    tomTat: `Khi Văn Xương đóng Tật Ách hội Linh Tinh, Hỏa Tinh, Địa Không, Địa
+Kiếp hoặc Hóa Kỵ, đương số dễ gặp bệnh nan y khó chữa — tuy nhiên
+cũng có khả năng gặp được quý nhân hỗ trợ, tai qua nạn khỏi.`,
   },
 
   // ============================================================
@@ -312,7 +327,8 @@ hiếm khi gặp bệnh nghiêm trọng.`,
     sao: ['Văn Xương'],
     cung: ['Tài Bạch'],
     doUuTien: 78,
-    tomTat: `**Văn Xương tại Tài Bạch** — chất lượng tài chính phụ thuộc nặng vào sao kết hợp.`,
+    tomTat: `Khi Văn Xương đóng Tài Bạch, chất lượng tài chính của đương số phụ
+thuộc nặng vào sao kết hợp.`,
   },
 
   {
@@ -322,7 +338,9 @@ hiếm khi gặp bệnh nghiêm trọng.`,
     cung: ['Tài Bạch'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Ân Quang', 'Thiên Quý', 'Văn Khúc', 'Thiên Khôi', 'Thiên Việt'],
     doUuTien: 73,
-    tomTat: `**Văn Xương Tài Bạch + Tả Phù / Hữu Bật / Ân Quang / Thiên Quý / Văn Khúc / Thiên Khôi / Thiên Việt:** **giàu có, sung túc, tài chính dư dả**.`,
+    tomTat: `Khi Văn Xương đóng Tài Bạch hội Tả Phù, Hữu Bật, Ân Quang, Thiên
+Quý, Văn Khúc, Thiên Khôi hay Thiên Việt, đương số giàu có, sung
+túc, tài chính dư dả.`,
   },
 
   {
@@ -332,7 +350,10 @@ hiếm khi gặp bệnh nghiêm trọng.`,
     cung: ['Tài Bạch'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Hóa Kỵ', 'Đại Hao'],
     doUuTien: 73,
-    tomTat: `**Văn Xương Tài Bạch + Không Kiếp / Kình Đà / Hỏa Linh / Hóa Kỵ / Đại Hao:** dễ **phá tán**, tài sản **tiêu hao dần**. Tuy nhiên dù phá tán vẫn có **người giúp đỡ, hỗ trợ vực dậy**.`,
+    tomTat: `Khi Văn Xương đóng Tài Bạch hội Địa Không, Địa Kiếp, Kình Dương, Đà
+La, Hỏa Tinh, Linh Tinh, Hóa Kỵ hoặc Đại Hao, đương số dễ phá tán,
+tài sản tiêu hao dần. Tuy nhiên dù phá tán vẫn có người giúp đỡ và
+hỗ trợ vực dậy.`,
   },
 
   // ============================================================
@@ -344,8 +365,8 @@ hiếm khi gặp bệnh nghiêm trọng.`,
     sao: ['Văn Xương'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Văn Xương tại Tử Tức:** con cái **học hành tài giỏi, chăm chỉ, ham
-tìm tòi**, trong nhà dễ có người **theo nghệ thuật**.`,
+    tomTat: `Đương số có Văn Xương đóng Tử Tức cho thấy con cái học hành tài
+giỏi, chăm chỉ, ham tìm tòi; trong nhà dễ có người theo nghệ thuật.`,
   },
 
   {
@@ -355,7 +376,8 @@ tìm tòi**, trong nhà dễ có người **theo nghệ thuật**.`,
     cung: ['Tử Tức'],
     ketHop: ['Tả Phù', 'Hữu Bật', 'Thiên Đồng'],
     doUuTien: 70,
-    tomTat: `**Văn Xương Tử Tức + Tả Phù / Hữu Bật / Thiên Đồng đắc địa:** thường có **nhiều con**, con cái **phát đạt và giàu có**.`,
+    tomTat: `Khi Văn Xương đóng Tử Tức hội Tả Phù, Hữu Bật hoặc Thiên Đồng đắc
+địa, đương số thường có nhiều con; con cái phát đạt và giàu có.`,
   },
 
   // ============================================================
@@ -367,9 +389,9 @@ tìm tòi**, trong nhà dễ có người **theo nghệ thuật**.`,
     sao: ['Văn Xương'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Văn Xương tại Phu Thê:** hôn phối là người **có học thức, danh giá**.
-
-Mối quan hệ hôn nhân **hòa thuận**, vợ chồng **ít xảy ra mâu thuẫn**.`,
+    tomTat: `Đương số có Văn Xương đóng Phu Thê có người hôn phối học thức và
+danh giá. Mối quan hệ hôn nhân hòa thuận, vợ chồng ít xảy ra mâu
+thuẫn.`,
   },
 
   // ============================================================
@@ -381,10 +403,11 @@ Mối quan hệ hôn nhân **hòa thuận**, vợ chồng **ít xảy ra mâu th
     sao: ['Văn Xương'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Văn Xương tại Huynh Đệ:** **đông anh chị em**, có người **thành
-danh xây dựng sự nghiệp lớn**, có người **phong lưu tài hoa theo nghệ thuật**.
+    tomTat: `Đương số có Văn Xương đóng Huynh Đệ thường đông anh chị em: có người
+thành danh xây dựng sự nghiệp lớn, có người phong lưu tài hoa theo
+nghệ thuật.
 
-Riêng **chị em gái:** tình duyên khá **lận đận**.`,
+Riêng chị em gái thường tình duyên khá lận đận.`,
   },
 
   {
@@ -394,7 +417,8 @@ Riêng **chị em gái:** tình duyên khá **lận đận**.`,
     cung: ['Huynh Đệ'],
     ketHop: ['Hóa Khoa'],
     doUuTien: 70,
-    tomTat: `**Văn Xương Huynh Đệ + Hóa Khoa:** anh chị em **đùm bọc yêu thương nhau**.`,
+    tomTat: `Khi Văn Xương đóng Huynh Đệ hội Hóa Khoa, anh chị em đùm bọc và yêu
+thương nhau.`,
   },
 
   {
@@ -404,7 +428,8 @@ Riêng **chị em gái:** tình duyên khá **lận đận**.`,
     cung: ['Huynh Đệ'],
     ketHop: ['Hóa Kỵ'],
     doUuTien: 70,
-    tomTat: `**Văn Xương Huynh Đệ + Hóa Kỵ:** anh chị em dễ **mâu thuẫn về tài sản**.`,
+    tomTat: `Khi Văn Xương đóng Huynh Đệ hội Hóa Kỵ, anh chị em dễ mâu thuẫn về
+tài sản.`,
   },
 
   {
@@ -414,7 +439,8 @@ Riêng **chị em gái:** tình duyên khá **lận đận**.`,
     cung: ['Huynh Đệ'],
     ketHop: ['Kình Dương', 'Địa Không', 'Địa Kiếp'],
     doUuTien: 70,
-    tomTat: `**Văn Xương Huynh Đệ + Kình Dương / Không Kiếp:** dễ có người **gặp chuyện nguy hiểm đến bản mệnh**.`,
+    tomTat: `Khi Văn Xương đóng Huynh Đệ hội Kình Dương, Địa Không hoặc Địa Kiếp,
+dễ có người trong anh em gặp chuyện nguy hiểm đến bản mệnh.`,
   },
 
   // ============================================================
@@ -425,13 +451,14 @@ Riêng **chị em gái:** tình duyên khá **lận đận**.`,
     title: 'Hạn gặp Văn Xương',
     sao: ['Văn Xương'],
     doUuTien: 50,
-    tomTat: `**Hạn đến Văn Xương:** **có lợi cho học tập, công danh**.
+    tomTat: `Khi vận hạn đến Văn Xương, đương số có lợi cho học tập và công danh.
 
-**Cách hóa giải:**
-- Bình tĩnh tỉnh táo, **không hành động vội vàng**
-- Tập trung **học tập và chuyên môn**
-- Tu dưỡng tâm tính, **làm việc thiện** để hóa nghiệp
-- **Chọn bạn mà chơi**, tránh thị phi`,
+Cách hóa giải khi cần:
+
+- Bình tĩnh tỉnh táo, không hành động vội vàng
+- Tập trung vào học tập và chuyên môn
+- Tu dưỡng tâm tính, làm việc thiện để hóa nghiệp
+- Chọn bạn mà chơi, tránh thị phi`,
   },
 
   {
@@ -440,6 +467,9 @@ Riêng **chị em gái:** tình duyên khá **lận đận**.`,
     sao: ['Văn Xương'],
     ketHop: ['Địa Không', 'Địa Kiếp', 'Kình Dương', 'Đà La', 'Hỏa Tinh', 'Linh Tinh', 'Hóa Kỵ', 'Thiên Hình'],
     doUuTien: 45,
-    tomTat: `**Hạn Văn Xương + Không Kiếp / Kình Đà / Hỏa Linh / Hóa Kỵ / Thiên Hình:** **trở ngại thi cử, học hành**, sự nghiệp **gián đoạn**, dễ vướng **thị phi, kiện tụng, tranh chấp**.`,
+    tomTat: `Khi Văn Xương vào hạn hội Địa Không, Địa Kiếp, Kình Dương, Đà La,
+Hỏa Tinh, Linh Tinh, Hóa Kỵ hoặc Thiên Hình, đương số gặp trở ngại
+trong thi cử và học hành; sự nghiệp bị gián đoạn, dễ vướng thị phi,
+kiện tụng và tranh chấp.`,
   },
 ];
