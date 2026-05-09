@@ -22,26 +22,23 @@ export const luanGiai_CoThan: DoanLuanGiai[] = [
     title: 'Cô Thần - Đặc tính chung',
     sao: ['Cô Thần'],
     doUuTien: 32,
-    tomTat: `**Cô Thần** — phụ tinh **ÁM TINH**, an theo **nhóm 3 chi** năm sinh.
+    tomTat: `**Cô Thần** là phụ tinh thuộc nhóm ám tinh, ngũ hành Thổ, an theo
+nhóm ba chi của năm sinh. Tên gọi rút gọn thường dùng là "Cô".
 
-**Ngũ hành:** **Thổ**.
+Sao này đại diện cho thần cô đơn, mang đặc tính cô độc, lạnh lùng, thu
+mình co lại để tự bảo vệ. Đương số có Cô Thần thường ít giao thiệp, có
+khuynh hướng lãnh đạo và tư duy độc lập — sống nhiều với chính mình hơn
+là với đám đông.
 
-**Tên gọi rút gọn:** "**Cô**".
+Một số quy luật cơ bản cần nhớ khi đọc Cô Thần:
 
-**Đặc tính:**
-- **Cô độc, lạnh lùng, co lại, bảo vệ**
-- **Ít giao thiệp**
-- **Lãnh đạo, tư duy độc lập**
+- Cô Thần luôn tam hợp hội chiếu cùng Quả Tú, hai sao không bao giờ tách
+  lẻ.
+- Câu "Nam kỵ Cô, Nữ kỵ Quả" cho biết Cô Thần phát tác mạnh nhất với nam
+  mệnh, đặc biệt kỵ mẹ và vợ — gây cô độc với phụ nữ trong gia đình.
 
-**Đại diện:** **THẦN CÔ ĐƠN, CÔ ĐỘC**.
-
-**Quy luật cơ bản:**
-- LUÔN tam hợp hội chiếu **Quả Tú**
-- "**NAM KỴ CÔ, NỮ KỴ QUẢ**" — Cô Thần phát tác mạnh nhất với **NAM mệnh**
-- Đặc biệt **kỵ MẸ và VỢ** (cô độc với phụ nữ trong gia đình)
-
-**Tâm linh:** Cô Thần Phúc Đức = nhà có **ÔNG MÃNH linh thiêng** phù trì
-(người nam trong họ mất sớm khi còn trẻ).`,
+Về mặt tâm linh, Cô Thần đóng tại Phúc Đức thường ứng với nhà có "ông
+Mãnh" linh thiêng phù trì — chỉ người nam trong họ mất sớm khi còn trẻ.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -53,30 +50,28 @@ export const luanGiai_CoThan: DoanLuanGiai[] = [
     title: 'Bộ Cô-Quả - Đặc tính chung của cặp đôi',
     sao: ['Cô Thần', 'Quả Tú'],
     doUuTien: 60,
-    tomTat: `**Bộ Cô Thần - Quả Tú** — luôn **TAM HỢP HỘI CHIẾU** nhau, không bao giờ
-tách lẻ.
+    tomTat: `Bộ **Cô Thần - Quả Tú** luôn tam hợp hội chiếu, không bao giờ
+tách lẻ. Cặp đôi này chủ về thời gian trầm lắng, cô độc và khép kín; ít
+giao du, khó tìm tri âm đồng cảm. Ở cung nào có hai sao này đóng, đương
+số đều cảm thấy thiếu thốn tình cảm và ít được quan tâm.
 
-**Đặc tính chung:**
-- Chủ về thời gian **TRẦM LẮNG, CÔ ĐỘC, KHÉP KÍN**
-- **ÍT GIAO DU, KHÓ TRI ÂM ĐỒNG CẢM**
-- Đem đến sự **THIẾU THỐN TÌNH CẢM, ÍT QUAN TÂM** ở cung đóng
+Mặt sáng của bộ Cô - Quả là tinh thần độc lập và sớm trưởng thành. Đương
+số biết tự lo, tự chăm sóc bản thân; ở mức độ tích cực, đây có thể là đặc
+trưng của vị lãnh đạo hay kẻ đứng đầu — người luôn có cái nhìn khác biệt
+với đám đông.
 
-**Mặt sáng:**
-- **TINH THẦN ĐỘC LẬP, SỚM TRƯỞNG THÀNH**
-- Biết **TỰ LO, TỰ CHĂM SÓC** bản thân
-- Có thể là đặc trưng của **VỊ LÃNH ĐẠO, KẺ ĐỨNG ĐẦU** (cái nhìn khác biệt)
+Mặt tối thì rõ nét hơn: đương số luôn thu mình để tự bảo vệ, càng ngày
+càng tách biệt và khó chia sẻ. Đôi khi trở thành kẻ lập dị, khác người
+mà không ai muốn đến gần.
 
-**Mặt tối:**
-- Luôn **THU MÌNH** để bảo vệ chính mình
-- Càng ngày càng **TÁCH BIỆT, KHÓ CHIA SẺ**
-- Đôi khi thành **KẺ LẬP DỊ, KHÁC NGƯỜI**, không ai muốn gần
+Câu "Nam kỵ Cô, Nữ kỵ Quả" diễn giải cụ thể:
 
-**"NAM KỴ CÔ, NỮ KỴ QUẢ":**
-- **NAM** mệnh + **CÔ THẦN**: cô độc mạnh nhất, kỵ mẹ kỵ vợ
-- **NỮ** mệnh + **QUẢ TÚ**: cô độc mạnh nhất, kỵ chồng kỵ cha
-- Là yếu tố của sự **GÓA BỤA**
+- Nam mệnh có Cô Thần thì cô độc mạnh nhất, kỵ mẹ kỵ vợ.
+- Nữ mệnh có Quả Tú thì cô độc mạnh nhất, kỵ chồng kỵ cha.
+- Cả hai đều là yếu tố báo hiệu cảnh góa bụa.
 
-**Hại cho:** hôn nhân, cầu hôn, đoàn tụ, chung sống vợ chồng.`,
+Bộ Cô - Quả nói chung gây hại cho hôn nhân, cầu hôn, đoàn tụ và chuyện
+chung sống vợ chồng.`,
   },
 
   {
@@ -85,26 +80,24 @@ tách lẻ.
     sao: ['Cô Thần', 'Quả Tú'],
     ketHop: ['Đào Hoa', 'Hồng Loan'],
     doUuTien: 60,
-    tomTat: `**Cô Thần - Quả Tú gặp Đào Hoa - Hồng Loan** — Thổ chế Mộc, có khả năng
-**GIẢM CHẾ tính ĐÀO HOA**.
+    tomTat: `Khi Cô Thần - Quả Tú gặp Đào Hoa - Hồng Loan, Thổ chế Mộc nên có
+khả năng giảm chế tính đào hoa.
 
-**Hai mặt:**
-- **Tích cực:** Hạn chế phát tác đào hoa lăng nhăng
-- **Tiêu cực:** Đôi khi thành **PHÁ HỎNG DUYÊN LÀNH**, đưa tới **CÔ ĐƠN**
-  ngay cả khi nhiều người xung quanh để ý
-- "**LẮM MỐI TỐI NẰM KHÔNG**"
+Hai mặt của tổ hợp này khá rõ:
 
-**Cách Hồng - Không - Cô - Quả** (cảnh báo nặng nhất):
-- Tại **DẦN của tuổi SỬU**
-- Tại **THÂN của tuổi MÙI**
-- Cô-Quả ở đây **PHÁ HỎNG NHÂN DUYÊN MẠNH MẼ**
-- **BIẾN DUYÊN THÀNH NGHIỆP**
-- Đưa tới **CÔ ĐỘC**, dần hướng tới **TU HÀNH**, mong cầu tỉnh thức
+- Mặt tích cực, bộ Cô - Quả hạn chế phát tác đào hoa lăng nhăng, giúp
+  đương số giữ được đường nhân duyên ngay ngắn.
+- Mặt tiêu cực, đôi khi sự kìm chế đó lại trở thành phá hỏng duyên lành,
+  đưa đương số tới cô đơn ngay cả khi nhiều người xung quanh để ý —
+  đúng câu "lắm mối tối nằm không".
 
-**Cách hóa giải:** Sao chế giải Cô-Quả gồm:
-- **Thái Âm, Thái Dương**
-- **Bộ Tam Minh** (Đào Hoa + Hồng Loan + Hỷ Thần)
-- **Liêm Trinh, Tham Lang**`,
+Cách Hồng - Không - Cô - Quả là cảnh báo nặng nhất, ứng nghiệm tại Dần
+của tuổi Sửu hoặc tại Thân của tuổi Mùi. Cô - Quả ở vị trí này phá hỏng
+nhân duyên mạnh mẽ, biến duyên thành nghiệp, đưa đương số tới cô độc
+và dần hướng về tu hành, mong cầu tỉnh thức.
+
+Để chế giải Cô - Quả có thể trông cậy vào: Thái Âm, Thái Dương, bộ Tam
+Minh (Đào Hoa, Hồng Loan, Hỷ Thần) cùng Liêm Trinh hoặc Tham Lang.`,
   },
 
   {
@@ -114,24 +107,23 @@ tách lẻ.
     cung: ['Phu Thê'],
     ketHop: ['Tuần', 'Triệt'],
     doUuTien: 65,
-    tomTat: `**Cô-Quả tại Phu Thê + Tuần Triệt + Không Kiếp** — **NGƯỜI CAO SỐ**, dễ
-**HÌNH KHẮC CHIA LY** với vợ chồng.
+    tomTat: `Khi Cô - Quả đóng tại Phu Thê đi cùng Tuần Triệt và Không Kiếp,
+đương số là người cao số, dễ hình khắc chia ly với vợ chồng.
 
-**Bộ HỒNG KHÔNG CÔ QUẢ:**
-- Hồng Loan + Thiên Không + Cô Thần + Quả Tú đầy đủ
-- Cảnh báo "**LẮM MỐI TỐI NẰM KHÔNG**"
-- **KẾT HÔN MUỘN** để tránh "đứt gánh giữa đường"
-- Hoặc **CÔ KHẮC** đến sớm gây đau thương
+Bộ Hồng Không Cô Quả ở đây gồm Hồng Loan, Thiên Không, Cô Thần và Quả
+Tú đầy đủ — cảnh báo "lắm mối tối nằm không". Đương số nên kết hôn muộn
+để tránh "đứt gánh giữa đường", nếu không thì cô khắc đến sớm gây đau
+thương cho cả hai bên.
 
-**Cảnh báo:**
-- Khó **CHUNG SỐNG LÂU DÀI**
-- Vợ chồng dễ **XA NHAU MỘT THỜI GIAN RẤT LÂU**
-- Một người làm một người phá
+Cảnh báo cụ thể:
 
-**Hóa giải:**
-- **KẾT HÔN MUỘN** sau 30 tuổi
-- Tu thân tích đức, làm việc thiện
-- Có sao Phúc thiện đi cùng (Quan Phúc, Quang Quý)`,
+- Khó chung sống lâu dài.
+- Vợ chồng dễ xa nhau một thời gian rất dài.
+- Một người làm thì người kia phá, không tìm được tiếng nói chung.
+
+Để hóa giải, đương số nên kết hôn sau tuổi 30, tu thân tích đức và làm
+việc thiện. Có thêm sao Phúc thiện đi cùng như Quan Phúc hay Quang Quý
+thì cách cục được giảm nhẹ.`,
   },
 
   {
@@ -141,22 +133,24 @@ tách lẻ.
     cung: ['Mệnh'],
     ketHop: ['Thái Dương'],
     doUuTien: 50,
-    tomTat: `**Các sao có khả năng CHẾ GIẢI sự cô độc** của Cô Thần - Quả Tú khi thủ Mệnh:
+    tomTat: `Khi Cô Thần - Quả Tú thủ Mệnh, có một nhóm sao đặc biệt có khả
+năng chế giải sự cô độc của bộ này.
 
-**Nhóm sao chế giải mạnh:**
-1. **Thái Âm** + **Thái Dương** (Nhật Nguyệt) — ánh sáng xua đi cô độc
-2. **Bộ Tam Minh** (Đào Hoa + Hồng Loan + Hỷ Thần) — duyên tình rộn ràng
-3. **Liêm Trinh** — đào hoa thứ
-4. **Tham Lang** — chính đào hoa
+Nhóm sao chế giải mạnh gồm:
 
-**Cách dụng:**
-- Khi đương số có Cô-Quả thủ Mệnh + những sao trên hội chiếu: **GIẢM TÁC HỌA**
-- Vẫn giữ được tinh thần độc lập của Cô-Quả
-- Nhưng không rơi vào cô đơn cực độ
-- Còn có duyên kết bạn, kết hôn
+- Thái Âm cùng Thái Dương (Nhật Nguyệt) — ánh sáng xua đi cô độc.
+- Bộ Tam Minh là Đào Hoa, Hồng Loan và Hỷ Thần — duyên tình rộn ràng.
+- Liêm Trinh ở vai trò đào hoa thứ.
+- Tham Lang ở vai trò chính đào hoa.
 
-**Đặc biệt với nam:** có Cô Thần + Thái Âm (mẹ/vợ sáng): giảm
-"kỵ mẹ kỵ vợ" rõ rệt.`,
+Khi đương số có Cô - Quả thủ Mệnh kèm các sao trên hội chiếu, cách cục
+giảm tác họa rõ rệt: vẫn giữ được tinh thần độc lập vốn có nhưng không
+rơi vào cô đơn cực độ. Đương số vẫn có duyên kết bạn và kết hôn bình
+thường.
+
+Đặc biệt với nam mệnh, nếu có Cô Thần đi cùng Thái Âm sáng thì hình
+ảnh mẹ và vợ cũng sáng theo, giảm rõ rệt nét "kỵ mẹ kỵ vợ" của Cô
+Thần.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -169,28 +163,27 @@ tách lẻ.
     sao: ['Cô Thần'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Cô Thần thủ Mệnh** — đại diện **THẦN CÔ ĐƠN, CÔ ĐỘC**.
+    tomTat: `Khi Cô Thần thủ Mệnh, đương số đại diện cho hình ảnh thần cô
+đơn, cô độc.
 
-**Tính tình:**
-- **CÔ ĐỘC, LẠNH LÙNG, KHÓ KHĂN, KHÓ GẦN**
-- Không thích **GIAO DU, GIAO THIỆP** với mọi người
-- Sống **NỘI TÂM**
-- Lúc nào cũng giữ vẻ **CÔ ĐƠN LẠNH LÙNG** không bộc lộ ra ngoài
-- Khá **NĂNG ĐỘNG** bên trong
+Về tính tình, đương số cô độc, lạnh lùng, có vẻ khó khăn và khó gần;
+không thích giao du, giao thiệp với mọi người, sống nội tâm và lúc nào
+cũng giữ vẻ cô đơn lạnh lùng không bộc lộ ra ngoài. Tuy vậy, bên trong
+vẫn khá năng động — chỉ là không cho người khác thấy.
 
-**Đặc trưng tâm lý:**
-- Cuộc sống dễ gặp **VƯỚNG MẮC, TAI HỌA**
--: Có xu hướng **THU MÌNH** để bảo vệ
-- Tạo thành **THÓI QUEN**, khó **MỞ LÒNG**
+Đặc trưng tâm lý sâu hơn: cuộc sống dễ gặp vướng mắc và tai họa nên
+đương số có xu hướng thu mình để tự bảo vệ. Lâu dần điều này thành thói
+quen, khó mở lòng dù muốn.
 
-**"Nam kỵ Cô":**
-- Đặc biệt phát tác mạnh với NAM mệnh
-- **KỴ MẸ, KỴ VỢ**
-- Yếu tố của **GÓA BỤA**, hại cho **HÔN NHÂN**
-- Khó cởi mở, thiếu chủ động trong yêu đương
-- Khó gắn bó lâu dài
+Quy luật "nam kỵ Cô" phát tác đặc biệt mạnh ở cung Mệnh:
 
-**Cách dụng:** Cần học **CHIA SẺ, MỞ LÒNG** để tránh cô độc lạc lõng.`,
+- Đương số nam có Cô Thần thủ Mệnh kỵ mẹ và kỵ vợ.
+- Là yếu tố báo hiệu góa bụa, hại cho đường hôn nhân.
+- Khó cởi mở và thiếu chủ động trong yêu đương.
+- Khó gắn bó lâu dài với một người.
+
+Hướng hóa giải: đương số cần học cách chia sẻ và mở lòng để tránh trượt
+xuống vùng cô độc lạc lõng.`,
   },
 
   {
@@ -199,25 +192,20 @@ tách lẻ.
     sao: ['Cô Thần'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Cô Thần tại Phụ Mẫu** — cha mẹ **KHẮT KHE, KHÓ CHỊU, KHÓ TÍNH, KHÓ GẦN**.
+    tomTat: `Khi Cô Thần đóng tại Phụ Mẫu, cha mẹ của đương số là người khắt
+khe, khó chịu, khó tính và khó gần.
 
-**Đặc trưng:**
-- Cha mẹ **KHÓ HỢP TÍNH** nhau, mỗi người một ý
-- **CÔ ĐỘC, CÔ ĐƠN**, hay lầm lũi
-- Làm những công việc **ĐƠN LẺ MỘT MÌNH**
+Đặc điểm cha mẹ: khó hợp tính nhau, mỗi người một ý; bản thân cha mẹ
+sống cô độc, cô đơn, hay lầm lũi và làm những công việc đơn lẻ một mình.
 
-**Mối quan hệ với con cái:**
-- Ít bạn bè
-- Ít **QUAN TÂM CHIA SẺ** với con cái
-- Khi có vấn đề thường **TỰ MÌNH GIẢI QUYẾT**
-- Không nhờ tới ai
+Mối quan hệ với con cái cũng phản chiếu nét cô độc đó. Cha mẹ ít bạn bè,
+ít quan tâm chia sẻ với con; khi có vấn đề thường tự mình giải quyết, ít
+khi nhờ tới ai khác.
 
-**Hội sát bại tinh + Tuần Triệt:**
-- **GIẢM NHÂN DUYÊN** cha mẹ
-- Cha mẹ **LY HÔN** hoặc **KHÔNG THỌ**
-- Một bên yểu mệnh
-
-Đương số sớm phải **TỰ LỰC CÁNH SINH**, thiếu nương tựa cảm xúc.`,
+Khi cung Phụ Mẫu hội thêm sát bại tinh và Tuần Triệt, nhân duyên cha mẹ
+bị giảm sút rõ — cha mẹ ly hôn hoặc không thọ, có khi một bên yểu mệnh.
+Đương số sớm phải tự lực cánh sinh và thiếu nương tựa cảm xúc trong
+giai đoạn trưởng thành.`,
   },
 
   {
@@ -226,23 +214,24 @@ tách lẻ.
     sao: ['Cô Thần'],
     cung: ['Phúc Đức'],
     doUuTien: 78,
-    tomTat: `**Cô Thần tại Phúc Đức** — dòng họ **THIẾU ĐOÀN KẾT**, **MỖI NGƯỜI MỘT
-PHƯƠNG**, dù ở gần cũng ít qua lại.
+    tomTat: `Khi Cô Thần đóng tại Phúc Đức, dòng họ thiếu đoàn kết, mỗi
+người một phương — dù ở gần cũng ít qua lại.
 
-**Đặc trưng:**
-- Họ hàng ít người, **MỖI NGƯỜI LẺ TẺ MỘT NƠI**
-- Dòng họ nhiều **NGƯỜI ĐÀN ÔNG CHẾT SỚM**
-- Mồ mả **MỖI NGƯỜI MỘT NƠI**, không quy tụ: **MỒ HOANG, NẦM HOANG**
-- Trong nhà có người **CÔ ĐỘC, GÓA BỤA**
-- Có **BÀ CÔ, ÔNG CHÚ** không lấy vợ/chồng, ở góa
+Đặc trưng dòng họ:
 
-**Tâm linh đặc biệt:** Cô Thần Phúc = nhà có **"ÔNG MÃNH" LINH THIÊNG**
-(người nam mất sớm khi còn trẻ: trở thành Mãnh phù trì).
+- Họ hàng ít người, mỗi người lẻ tẻ một nơi.
+- Trong dòng họ nhiều người đàn ông chết sớm.
+- Mồ mả mỗi người một nơi, không quy tụ — gọi là "mồ hoang, nầm hoang".
+- Trong nhà có người cô độc, góa bụa.
+- Có bà cô, ông chú không lấy vợ chồng, ở góa cả đời.
 
-**Cách hóa giải:**
-- Chú ý **THỜ CÚNG** Ông Mãnh
-- Tu phúc, làm việc thiện
-- **KẾT HÔN MUỘN** (vì Cô Quả Phúc làm chậm đường lương duyên)`,
+Điểm tâm linh đặc biệt: Cô Thần Phúc Đức ứng với nhà có "ông Mãnh" linh
+thiêng — người nam mất sớm khi còn trẻ, sau khi mất trở thành Mãnh phù
+trì cho con cháu.
+
+Cách hóa giải gồm chú ý thờ cúng ông Mãnh đầy đủ, tu phúc và làm việc
+thiện. Đương số nên kết hôn muộn vì Cô - Quả ở Phúc làm chậm đường
+lương duyên, tránh sốt ruột vội vàng.`,
   },
 
   {
@@ -251,21 +240,22 @@ PHƯƠNG**, dù ở gần cũng ít qua lại.
     sao: ['Cô Thần'],
     cung: ['Điền Trạch'],
     doUuTien: 76,
-    tomTat: `**Cô Thần tại Điền Trạch** — người **GIỮ ĐƯỢC NGHIỆP SẢN** cha ông để lại.
+    tomTat: `Khi Cô Thần đóng tại Điền Trạch, đương số là người giữ được
+nghiệp sản cha ông để lại.
 
-**Đặc trưng:**
-- Giữ được **NHÀ CỬA, ĐẤT ĐAI, RUỘNG VƯỜN**
-- **GIỎI CHI TIÊU, QUẢN LÝ TÀI SẢN**
-- Số có **TAY CẦM GIỮ** về nhà đất
-- Nhà đất **VỮNG BỀN**
+Đương số giữ được nhà cửa, đất đai, ruộng vườn; giỏi chi tiêu và quản
+lý tài sản. Số có "tay cầm giữ" về nhà đất nên gia sản vững bền theo
+thời gian.
 
-**Mặt khác - cách biệt với cộng đồng:**
-- **ÍT GIAO DU** với hàng xóm xung quanh
-- "Cả năm không nói chuyện một lần"
-- Lối sống **"ĐÈN NHÀ AI NẤY RẠNG"**
-- Không mặn mà chuyện làng trên xóm dưới
+Mặt khác của tính giữ là cách biệt với cộng đồng:
 
-Gần nhà có kẻ **MÃI KHÔNG CHỊU LẤY VỢ LẤY CHỒNG**.`,
+- Ít giao du với hàng xóm xung quanh.
+- "Cả năm không nói chuyện một lần" — lối sống khép kín.
+- Theo phương châm "đèn nhà ai nấy rạng", không mặn mà chuyện làng
+  trên xóm dưới.
+
+Một dấu hiệu nhỏ thường thấy: gần nhà đương số có kẻ mãi không chịu
+lấy vợ lấy chồng — hơi khí Cô Thần lan ra cả khu vực.`,
   },
 
   {
@@ -274,24 +264,19 @@ Gần nhà có kẻ **MÃI KHÔNG CHỊU LẤY VỢ LẤY CHỒNG**.`,
     sao: ['Cô Thần'],
     cung: ['Quan Lộc'],
     doUuTien: 75,
-    tomTat: `**Cô Thần tại Quan Lộc** — sự nghiệp **ĐỘC LẬP, MỘT MÌNH**.
+    tomTat: `Khi Cô Thần đóng tại Quan Lộc, sự nghiệp đương số mang tính độc
+lập và một mình.
 
-**Đặc trưng:**
-- Trong công việc có tính **ĐỘC LẬP, MỘT MÌNH**
-- **KHÔNG MUỐN DỰA VÀO AI**
-- Khả năng **KẾT HỢP KHÔNG CAO**
-- Không thích làm **TẬP THỂ**, tiếp xúc nhiều người
-- Không muốn **HÙN VỐN CHUNG**
+Trong công việc, đương số có tính độc lập, không muốn dựa vào ai. Khả
+năng kết hợp với người khác không cao; không thích làm tập thể, ngại
+tiếp xúc nhiều người và không muốn hùn vốn chung.
 
-**Khó khăn:**
-- Khó phát triển **QUAN HỆ XÃ HỘI**
-- Gặp khó khăn phải **TỰ MÌNH GIẢI QUYẾT**
-- Không có ai giúp đỡ
+Khó khăn theo đó cũng rõ: khó phát triển quan hệ xã hội, gặp khó khăn
+phải tự mình giải quyết và không có ai đứng bên giúp đỡ.
 
-**Đặc trưng môi trường:**
-- Chênh lệch **GIỚI TÍNH** rõ rệt
-- Cô Thần: ít nam, **TOÀN NỮ**
-- (Quả Tú: ít nữ, toàn nam)`,
+Một đặc trưng môi trường thú vị là chênh lệch giới tính rõ rệt — Cô
+Thần ở Quan Lộc thường khiến nơi làm việc ít nam, toàn nữ (ngược lại
+Quả Tú ở Quan Lộc thì ít nữ, toàn nam).`,
   },
 
   {
@@ -300,25 +285,25 @@ Gần nhà có kẻ **MÃI KHÔNG CHỊU LẤY VỢ LẤY CHỒNG**.`,
     sao: ['Cô Thần'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Cô Thần tại Nô Bộc** — chơi bạn **KHÔNG ĐƯỢC BỀN LÂU**.
+    tomTat: `Khi Cô Thần đóng tại Nô Bộc, đương số chơi bạn không được bền
+lâu.
 
-**Đặc trưng:**
-- Được một thời gian lại dễ **BỎ NHAU ĐI**
-- Khó **THÍCH NGHI** với xã hội
-- **ÍT BÈ BẠN**
-- Giao thiệp **MIỄN CƯỠNG**, thiếu hạnh phúc và niềm tin
+Đặc điểm quan hệ bạn bè:
 
-**Chênh lệch giới tính:**
-- Cô Thần: **ÍT BẠN NAM**
-- (Quả Tú: ít bạn nữ)
+- Được một thời gian lại dễ bỏ nhau đi.
+- Khó thích nghi với xã hội.
+- Ít bè bạn.
+- Giao thiệp miễn cưỡng, thiếu hạnh phúc và niềm tin.
 
-**Đặc trưng:**
-- Không được bạn bè, cấp dưới **TIN TƯỞNG**
-- Ít chia sẻ, giúp đỡ
-- Khó tìm **TRI KỶ TRUNG THÀNH**
+Có chênh lệch giới tính rõ nét: Cô Thần ở Nô Bộc thì đương số ít bạn
+nam (ngược lại Quả Tú ở Nô Bộc thì ít bạn nữ).
 
-**Hội Hóa Quyền + Hóa Kỵ + Thất Sát + Phá Quân:**
-- Cấp dưới có xu hướng **ÂM MƯU, VƯỢT QUYỀN** trong âm thầm`,
+Sâu hơn nữa, đương số không được bạn bè và cấp dưới tin tưởng, ít chia
+sẻ giúp đỡ và khó tìm được tri kỷ trung thành.
+
+Khi hội Hóa Quyền đi cùng Hóa Kỵ, Thất Sát và Phá Quân, cấp dưới của
+đương số có xu hướng âm mưu, vượt quyền trong âm thầm — đáng lo nhất ở
+môi trường công sở.`,
   },
 
   {
@@ -327,23 +312,20 @@ Gần nhà có kẻ **MÃI KHÔNG CHỊU LẤY VỢ LẤY CHỒNG**.`,
     sao: ['Cô Thần'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Cô Thần tại Thiên Di** — ra ngoài luôn **CẨN THẬN VÀ HẠN CHẾ TIẾP XÚC**.
+    tomTat: `Khi Cô Thần đóng tại Thiên Di, đương số ra ngoài luôn cẩn thận
+và hạn chế tiếp xúc.
 
-**Đặc trưng:**
-- Hạn chế tiếp xúc nếu không cần thiết
-- Ra ngoài **ÍT ĐƯỢC AI GIÚP ĐỠ**
-- Không chủ động giao tiếp
-- Chỉ xã giao khi cần thiết
+Đương số hạn chế tiếp xúc nếu không cần thiết, ra ngoài ít được ai giúp
+đỡ, không chủ động giao tiếp và chỉ xã giao khi thực sự cần.
 
-**Đặc trưng giới tính:**
-- Cô Thần: ra ngoài tiếp xúc nhiều với **PHỤ NỮ**
-- (Quả Tú: tiếp xúc nhiều với đàn ông)
-- Mạng lưới quan hệ thừa **NỮ THIẾU NAM**
+Đặc trưng giới tính của môi trường ngoài: Cô Thần tại Thiên Di khiến
+đương số ra ngoài tiếp xúc nhiều với phụ nữ (ngược lại Quả Tú thì tiếp
+xúc nhiều với đàn ông). Mạng lưới quan hệ vì vậy thừa nữ thiếu nam.
 
-**Cát tinh hội (Văn Xương, Văn Khúc, Tam Thai, Bát Tọa, Phong Cáo,
-Khôi Việt):**
-- Ra ngoài được mọi người **MẾN CHUỘNG** về tài năng đặc biệt
-- Khí chất nổi bật được trọng nể`,
+Khi cát tinh hội như Văn Xương, Văn Khúc, Tam Thai, Bát Tọa, Phong Cáo
+và Khôi Việt, đương số ra ngoài được mọi người mến chuộng nhờ tài năng
+đặc biệt; khí chất nổi bật được trọng nể, dù bản thân vẫn giữ khoảng
+cách với đám đông.`,
   },
 
   {
@@ -352,20 +334,22 @@ Khôi Việt):**
     sao: ['Cô Thần'],
     cung: ['Tật Ách'],
     doUuTien: 76,
-    tomTat: `**Cô Thần tại Tật Ách** — bệnh tật **ĐƠN LẺ**, dễ chết mà không ai biết.
+    tomTat: `Khi Cô Thần đóng tại Tật Ách, đương số mang bệnh tật đơn lẻ và
+dễ chết mà không ai biết.
 
-**Đặc trưng bệnh:**
-- Bệnh **ĐƯỜNG RUỘT, HẬU MÔN, BỆNH TRĨ, TIÊU HÓA**
-- Bệnh hay **TÁI ĐI TÁI LẠI**
+Đặc trưng bệnh tập trung ở đường ruột, hậu môn, bệnh trĩ và hệ tiêu hóa
+nói chung. Bệnh hay tái đi tái lại, dứt được rồi vẫn quay về.
 
-**Đặc biệt - chết đơn độc:**
-- Cô Quả cư Tật: dễ **CHẾT KHÔNG AI BIẾT**
-- Mãi lâu sau người thân mới phát hiện
-- Hay mắc tai họa, bệnh tật **ĐƠN LẺ MỘT MÌNH**, khi không có ai bên cạnh
+Điểm đáng lo nhất ở cung này là chết đơn độc:
 
-**Đặc trưng ngày chết:**
-- Cô Thần cư Tật: ngày chết có **CON RỂ** bên cạnh
-- (Quả Tú cư Tật: ngày chết có **CON DÂU** bên cạnh)`,
+- Cô - Quả cư Tật khiến đương số dễ chết không ai biết.
+- Mãi lâu sau người thân mới phát hiện ra.
+- Hay mắc tai họa và bệnh tật đơn lẻ một mình, đúng vào những lúc
+  không có ai bên cạnh.
+
+Một chi tiết về ngày chết được lưu trong sách cổ: Cô Thần cư Tật ứng
+với ngày chết có con rể bên cạnh (ngược lại Quả Tú cư Tật thì ngày chết
+có con dâu bên cạnh).`,
   },
 
   {
@@ -374,22 +358,21 @@ Khôi Việt):**
     sao: ['Cô Thần'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Cô Thần tại Tài Bạch** — người **GÌN GIỮ ĐƯỢC TIỀN BẠC**, của cải vững chắc.
+    tomTat: `Khi Cô Thần đóng tại Tài Bạch, đương số là người gìn giữ được
+tiền bạc, của cải vững chắc.
 
-**Đặc trưng:**
-- Chi tiêu đồng tiền **HỢP LÝ**
-- Tích lũy **ÂM THẦM**, không thích bị hỏi han
-- Có **NGUỒN KIẾM TIỀN BÍ MẬT**, không muốn cho ai biết
-- Kiếm tiền từ công việc **ĐƠN LẺ MỘT MÌNH**
+Đặc trưng tài vận: chi tiêu đồng tiền hợp lý, tích lũy âm thầm và không
+thích bị hỏi han. Đương số có nguồn kiếm tiền bí mật mà không muốn cho
+ai biết, thường kiếm tiền từ công việc đơn lẻ một mình.
 
-**Đi cùng Vũ Khúc + Lộc Tồn + Đẩu Quân:**
-- Dễ thành người **KEO KIỆT, BỦN XỈN**
+Khi đi cùng Vũ Khúc, Lộc Tồn và Đẩu Quân, tính giữ tiền đẩy lên thái
+quá — đương số dễ thành người keo kiệt, bủn xỉn.
 
-**Phối Hỏa Tinh + Địa Kiếp + Song Hao:**
-- Tài vận **TỤ RỒI TÁN**
-- Không ổn định, khó tích lũy
+Khi phối Hỏa Tinh, Địa Kiếp cùng Song Hao, tài vận tụ rồi tán, không ổn
+định và khó tích lũy về lâu dài.
 
-**Cẩn thận:** Tính dè dặt, ít chia sẻ: bỏ lỡ cơ hội làm ăn tốt.`,
+Một điểm cẩn thận: tính dè dặt và ít chia sẻ của Cô Thần dễ khiến đương
+số bỏ lỡ cơ hội làm ăn tốt vốn cần kết nối và trao đổi thông tin.`,
   },
 
   {
@@ -398,20 +381,19 @@ Khôi Việt):**
     sao: ['Cô Thần'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Cô Thần tại Tử Tức** — **GIẢM SỐ LƯỢNG CON**, ít con, muộn con, hiếm con.
+    tomTat: `Khi Cô Thần đóng tại Tử Tức, đường con cái của đương số bị giảm
+số lượng — ít con, muộn con và hiếm con.
 
-**Đặc trưng:**
-- Con cái **ÍT CHIA SẺ**, không tin tưởng bố mẹ nhiều
-- Sau lớn rồi **KHÔNG Ở GẦN**
+Con cái ít chia sẻ, không tin tưởng bố mẹ nhiều; sau lớn rồi không ở
+gần nhà.
 
-**Chênh lệch giới tính:**
-- Cô Thần: **ÍT CON TRAI**
-- (Quả Tú: ít con gái)
-- Cô Thần thiên năng lượng dương: đương số dễ **CÓ CON TRAI HƠN CON GÁI**
+Có chênh lệch giới tính rõ: Cô Thần khiến đương số ít con trai (ngược
+lại Quả Tú thì ít con gái). Vì Cô Thần thiên năng lượng dương nên
+đương số có Cô Thần ở Tử Tức dễ có con trai hơn con gái — nhưng vẫn
+trong tổng thể số con ít.
 
-**Đặc trưng quan hệ:**
-- Con dễ **SỐNG XA CHA MẸ**
-- Lớn lên **ÍT CHIA SẺ**, thiếu sự tin tưởng gần gũi`,
+Về quan hệ tình cảm sau này: con dễ sống xa cha mẹ, lớn lên ít chia sẻ
+và thiếu sự tin tưởng gần gũi vốn có giữa các thế hệ.`,
   },
 
   {
@@ -420,21 +402,21 @@ Khôi Việt):**
     sao: ['Cô Thần'],
     cung: ['Phu Thê'],
     doUuTien: 78,
-    tomTat: `**Cô Thần tại Phu Thê** — bất lợi cho **HÔN NHÂN**.
+    tomTat: `Khi Cô Thần đóng tại Phu Thê, cách cục bất lợi cho đường hôn
+nhân của đương số.
 
-**Đặc trưng:**
-- Dù đã "**KẾT TÓC SE DUYÊN**" vẫn cảm thấy **CÔ ĐƠN, LẺ LOI**
-- **THIẾU TÌNH THƯƠNG**, thiếu sự thấu hiểu
-- Vợ chồng **MỖI NGƯỜI MỘT TÍNH**, khó hòa hợp
-- Hay **CÃI NHAU, BẤT ĐỒNG QUAN ĐIỂM**, không ai chịu hiểu ai
-- Vợ chồng dễ có lúc **XA NHAU MỘT THỜI GIAN RẤT LÂU**
+Dù đã "kết tóc se duyên", đương số vẫn cảm thấy cô đơn, lẻ loi, thiếu
+tình thương và thiếu sự thấu hiểu từ bạn đời. Vợ chồng mỗi người một
+tính, khó hòa hợp; hay cãi nhau, bất đồng quan điểm và không ai chịu
+hiểu ai. Có những lúc vợ chồng xa nhau một thời gian rất dài, dù không
+chính thức ly hôn.
 
-**Bộ HỒNG KHÔNG CÔ QUẢ + Tuần Triệt:**
-- "Lắm mối tối nằm không"
-- **CAO SỐ, HÌNH KHẮC CHIA LY**
-- Nên **KẾT HÔN MUỘN** để tránh đứt gánh giữa đường
+Khi đi cùng bộ Hồng - Không - Cô - Quả và bị Tuần Triệt án ngữ, cách
+"lắm mối tối nằm không" hiện rõ. Đương số là người cao số, hình khắc
+chia ly nặng — nên kết hôn muộn để tránh đứt gánh giữa đường.
 
-Đặc biệt với **NAM mệnh** ("Nam kỵ Cô") — phát tác mạnh nhất.`,
+Đặc biệt với nam mệnh, đúng câu "Nam kỵ Cô", cách này phát tác mạnh
+nhất.`,
   },
 
   {
@@ -443,17 +425,15 @@ Khôi Việt):**
     sao: ['Cô Thần'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Cô Thần tại Huynh Đệ** — **ÍT ANH CHỊ EM**, có thể là **CON MỘT**.
+    tomTat: `Khi Cô Thần đóng tại Huynh Đệ, đương số ít anh chị em, có thể
+là con một.
 
-**Đặc trưng:**
-- Anh chị em từ nhỏ **ÍT QUAN TÂM, CHIA SẺ**
-- Lớn lên **MỖI NGƯỜI MỘT NƠI**
-- Chả mấy khi **HỎI THĂM, GIÚP ĐỠ** nhau
+Anh chị em từ nhỏ ít quan tâm chia sẻ với nhau; lớn lên thì mỗi người
+một nơi, chả mấy khi hỏi thăm hay giúp đỡ nhau khi cần.
 
-**Chênh lệch giới tính:**
-- Cô Thần: **ÍT ANH EM TRAI**
-- Mình là trai rồi thì dễ có **CHỊ EM GÁI**
-- (Quả Tú: ít chị em gái)`,
+Có chênh lệch giới tính rõ rệt: Cô Thần khiến đương số ít anh em trai —
+mình là trai thì dễ có chị em gái nhiều hơn (ngược lại Quả Tú thì ít
+chị em gái).`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -466,16 +446,16 @@ Khôi Việt):**
     sao: ['Cô Thần', 'Quả Tú'],
     ketHop: ['Phục Binh', 'Bệnh Phù', 'Cự Môn'],
     doUuTien: 50,
-    tomTat: `**Cô-Quả + Phục Binh + Bệnh Phù + Cự Môn + Điếu Khách + Địa Không** — dễ
-**BỊ NÓI XẤU, GIÈM PHA**.
+    tomTat: `Khi Cô - Quả gặp Phục Binh, Bệnh Phù, Cự Môn, Điếu Khách và Địa
+Không, đương số dễ bị nói xấu và gièm pha.
 
-**Đặc trưng:**
-- Tính cách **CÔ LẬP, TRẦM LẶNG, ÍT GIAO TIẾP**
-- Dễ tạo **RÀO CẢN** trong đường nhân duyên
-- Dễ gặp cảnh **BỊ NÓI XẤU, HIỂU LẦM**
-- Bị **CÔNG KÍCH BẰNG LỜI NÓI** sau lưng
+Đặc trưng tổ hợp: tính cách cô lập, trầm lặng và ít giao tiếp dễ tạo
+rào cản trong đường nhân duyên. Đương số dễ gặp cảnh bị nói xấu, hiểu
+lầm, bị công kích bằng lời nói sau lưng dù không làm gì sai.
 
-**Hoặc bản thân nói xấu, gièm pha người khác** (do Phục Binh).`,
+Ở chiều ngược lại, do ảnh hưởng của Phục Binh, đôi khi chính đương số
+lại là người nói xấu và gièm pha người khác — tổ hợp này khiến cả hai
+phía đều dính tai tiếng.`,
   },
 
   {
@@ -485,18 +465,20 @@ Khôi Việt):**
     cung: ['Mệnh'],
     ketHop: ['Hóa Kỵ', 'Thái Tuế'],
     doUuTien: 50,
-    tomTat: `**Cô-Quả thủ Mệnh + Điếu Khách + Đà La + Hóa Kỵ + Thái Tuế + Khốc Hư + Bạch Hổ** —
-dễ **BỊ GHEN GHÉT, ĐỐ KỴ, RUỒNG BỎ, THẤT SỦNG**.
+    tomTat: `Khi Cô - Quả thủ Mệnh đi cùng Điếu Khách, Đà La, Hóa Kỵ, Thái
+Tuế, Khốc Hư và Bạch Hổ, đương số dễ bị ghen ghét, đố kỵ, ruồng bỏ và
+thất sủng.
 
-**Đặc trưng:**
-- Tạo cảm giác **KHÓ GẦN VÀ ĐỘC LẬP**
-- Dễ gặp **GHEN GHÉT, ĐỐ KỴ, CẠNH TRANH**
+Cách cục này tạo ra cảm giác khó gần và độc lập một cách lạnh nhạt; vì
+vậy đương số dễ vướng ghen ghét, đố kỵ và cạnh tranh từ người xung
+quanh.
 
-**Hội thêm Thất Sát + Phá Quân + Đẩu Quân + Tuế Phá:**
-- Càng **NỔI BẬT** nhưng **CÔ ĐỘC**
-- Khó hòa nhập với môi trường chung
+Khi hội thêm Thất Sát, Phá Quân, Đẩu Quân và Tuế Phá, đương số càng nổi
+bật nhưng càng cô độc, khó hòa nhập với môi trường chung.
 
-Trong tình huống thực tế: đương số có Cô-Quả thủ Mệnh + sao tài năng: năng lực vượt
-trội nhưng bị đố kỵ bởi chính những người xung quanh.`,
+Trong tình huống thực tế thường thấy: đương số có Cô - Quả thủ Mệnh đi
+cùng các sao tài năng — năng lực vượt trội nhưng lại bị đố kỵ bởi
+chính những người xung quanh, nên thành tựu khó được công nhận đúng
+mức.`,
   },
 ];

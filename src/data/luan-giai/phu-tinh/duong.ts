@@ -23,27 +23,23 @@ export const luanGiai_Duong: DoanLuanGiai[] = [
     title: 'Dưỡng - Đặc tính chung',
     sao: ['Dưỡng'],
     doUuTien: 33,
-    tomTat: `**Dưỡng** — phụ tinh **CÁT THIỆN TINH**, vị trí **THỨ 12 (CUỐI)** vòng Trường
-Sinh.
+    tomTat: `**Dưỡng** là phụ tinh thuộc nhóm cát thiện tinh, ngũ hành Mộc, đứng ở
+vị trí thứ mười hai và cũng là vị trí cuối cùng của vòng Trường Sinh.
 
-**Ngũ hành:** **Mộc**.
+Khí chất của Dưỡng nằm ở hai chữ "chăm sóc" và "nuôi dưỡng". Sau khi đã kết
+Thai, mầm sống phải được quan tâm bảo bọc, ngày ngày tưới tắm chờ ngày thành
+hình — đó là tinh thần cốt lõi của sao này. Cẩn thận, cần cù, biết duy trì
+mới làm cho sự sống đi tới được đích.
 
-**Đặc tính:**
-- **CHĂM SÓC, NUÔI DƯỠNG**
-- **CẨN THẬN, CẦN CÙ, DUY TRÌ**
-- Sau khi kết **THAI**: phải **NUÔI DƯỠNG, QUAN TÂM** chờ ngày thành người
+Là sao kết thúc vòng Trường Sinh, Dưỡng giữ vai trò ươm trồng sau khi mầm
+đã hình thành, tích hợp tinh thần bảo bọc và lòng nhân hậu vào cuộc đời
+đương số.
 
-**Vai trò:**
-- Sao **KẾT THÚC VÒNG TRƯỜNG SINH**
-- Là giai đoạn **ƯƠM TRỒNG** sau khi mầm sống đã hình thành
-- Tích hợp tinh thần **BẢO BỌC, NHÂN HẬU**
+Một đặc điểm thú vị riêng của Dưỡng là gắn với tên gọi:
 
-**Đặc điểm tên gọi:**
-- Người có **TÊN RIÊNG, TÊN ĐẶC BIỆT**
-- **TÊN CÚNG CƠM**
-- **BIỆT DANH, BIỆT HIỆU**
-- Có sự **THAY ĐỔI TÊN HỌ**
-- Phản ánh sự **TÁI SINH, ĐỔI VẬN** hoặc được nuôi nấng bảo bọc`,
+- Đương số thường có tên cúng cơm, biệt danh, biệt hiệu khác với tên thật
+- Đôi khi từng đổi tên trong đời
+- Tên gọi phản ánh sự tái sinh, đổi vận hoặc dấu vết được nuôi nấng bảo bọc`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -56,20 +52,15 @@ Sinh.
     sao: ['Dưỡng'],
     ketHop: ['Ân Quang', 'Thiên Quý', 'Thiên Quan', 'Thiên Phúc', 'Tả Phù', 'Hữu Bật'],
     doUuTien: 65,
-    tomTat: `**Dưỡng + Quang Quý + Quan Phúc + Tả Hữu** — người **KHÉO LÉO**, hay quan tâm
-chăm sóc, **ĐƯỢC MỌI NGƯỜI QUÝ TRỌNG**.
+    tomTat: `Khi Dưỡng hội đủ Ân Quang, Thiên Quý, Thiên Quan, Thiên Phúc cùng
+Tả Phù, Hữu Bật, đương số trở thành mẫu người khéo léo, đức độ, đi đến đâu
+cũng được mọi người quý trọng và sẵn lòng giúp đỡ hết mình.
 
-**Đặc trưng:**
-- Người **KHÉO LÉO, ĐỨC ĐỘ**
-- Hay quan tâm chăm sóc mọi người
-- Đi đến đâu cũng **ĐƯỢC MỌI NGƯỜI QUÝ TRỌNG**
-- Được **GIÚP ĐỠ HẾT LÒNG**
-
-**Phân tích:**
-- **Quang Quý** = phúc tinh, đấng linh thiêng giúp đỡ
-- **Quan Phúc** = phúc thiện thiên ban
-- **Tả Hữu** = quý nhân người đời nâng đỡ
-- **Dưỡng** = chăm sóc nuôi dưỡng: cộng hưởng đẹp`,
+Bộ này cộng hưởng rất đẹp: Ân Quang cùng Thiên Quý là phúc tinh đại diện
+cho đấng linh thiêng phù trợ, Thiên Quan cùng Thiên Phúc mang phúc thiện do
+trời ban, Tả Phù cùng Hữu Bật là quý nhân người đời nâng đỡ. Đặt trên nền
+tính chăm sóc nuôi dưỡng của Dưỡng, đương số vừa giàu lòng quan tâm vừa
+được vây quanh bởi quý nhân hai phía âm dương.`,
   },
 
   {
@@ -79,14 +70,11 @@ chăm sóc, **ĐƯỢC MỌI NGƯỜI QUÝ TRỌNG**.
     cung: ['Tử Tức'],
     ketHop: ['Hỷ Thần', 'Thiên Hỷ'],
     doUuTien: 65,
-    tomTat: `**Dưỡng + Hỷ Thần / Thiên Hỷ tại Tử Tức** — câu phú "**Dưỡng Hỷ lâm ư Tử
-Tức tất sanh con quý tử**".
-
-**Đặc trưng:**
-- **SINH CON QUÝ TỬ**
-- Con cái **HIẾU THẢO**, **DỄ NUÔI**
-- Là điềm **ĐẠI CÁT** cho cung Tử Tức
-- Bộ Dưỡng + Hỷ = nuôi dưỡng + hỷ sự = quý tử`,
+    tomTat: `Sách phú có câu "Dưỡng Hỷ lâm ư Tử Tức tất sanh con quý tử". Khi
+Dưỡng cùng Hỷ Thần hoặc Thiên Hỷ hội tại Tử Tức, đây là điềm đại cát cho
+đường con cái: đương số sinh được con quý tử, con cái hiếu thảo và dễ
+nuôi. Bộ Dưỡng cộng Hỷ ghép lại đúng nghĩa "nuôi dưỡng" cùng "hỷ sự" — tự
+nhiên kết quả là đứa con đáng quý.`,
   },
 
   {
@@ -95,14 +83,11 @@ Tức tất sanh con quý tử**".
     sao: ['Dưỡng'],
     ketHop: ['Thanh Long', 'Long Trì'],
     doUuTien: 55,
-    tomTat: `**Dưỡng + Thanh Long + Long Trì** — gia tăng **SỰ SANG TRỌNG**, nuôi dưỡng
-mang tính chất **QUÝ TỘC, CAO SANG**.
-
-**Đặc trưng:**
-- Sự nuôi dưỡng mang tính **QUÝ TỘC, CAO SANG**
-- Người được **ĐỠ ĐẦU BỞI NGƯỜI QUYỀN QUÝ**
-- Hợp các nghề **PHỤC VỤ TẦNG LỚP THƯỢNG LƯU**
-- Hoặc nhận **CON ĐỠ ĐẦU CỦA NHÀ QUYỀN QUÝ**`,
+    tomTat: `Dưỡng đi cùng Thanh Long, Long Trì khiến chất nuôi dưỡng nhuốm màu
+sang trọng và quý tộc. Đương số có thể là người được đỡ đầu bởi nhân vật
+quyền quý, có duyên với các nghề phục vụ tầng lớp thượng lưu, hoặc nhận
+con đỡ đầu của những gia đình danh giá. Cách cục mở ra cánh cửa giao thiệp
+với giới có địa vị, mang lại nâng đỡ rõ rệt cho cuộc đời.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -115,15 +100,11 @@ mang tính chất **QUÝ TỘC, CAO SANG**.
     sao: ['Dưỡng'],
     ketHop: ['Thiên Khốc', 'Thiên Hư'],
     doUuTien: 55,
-    tomTat: `**Dưỡng + Khốc Hư** — **SÁT CON, DỄ SẨY THAI**.
-
-**Đặc trưng:**
-- **SÁT CON**
-- Đặc biệt **DỄ SẨY THAI**
-- Cần đề phòng chuyện **CON CÁI KHÓ NUÔI**
-- **SỨC KHỎE KÉM**
-
-**Hóa giải:** cần Tứ Đức, Quan Phúc, Hỷ Thần để cải vận.`,
+    tomTat: `Khi Dưỡng gặp Thiên Khốc cùng Thiên Hư, tính chất nuôi dưỡng bị
+nhuốm khí ai oán, biến thành sát con và đặc biệt dễ sẩy thai. Đương số
+phải đề phòng chuyện con cái khó nuôi, sức khỏe của con kém. Để hóa giải,
+cần có Tứ Đức, Thiên Quan, Thiên Phúc cùng Hỷ Thần đến hội mới chuyển
+được vận.`,
   },
 
   {
@@ -133,17 +114,11 @@ mang tính chất **QUÝ TỘC, CAO SANG**.
     ketHop: ['Thiên Tướng', 'Suy'],
     cung: ['Thiên Di'],
     doUuTien: 55,
-    tomTat: `**Dưỡng + Thiên Tướng + Suy tại Thiên Di** — dễ làm **TÔI TỚ, GIÚP VIỆC**
-nhà quyền môn.
-
-**Đặc trưng:**
-- Đương số dễ làm **TÔI TỚ, GIÚP VIỆC**
-- Vào nhà **QUYỀN MÔN** (gia đình quyền quý)
-- Phục vụ trong môi trường quyền quý
-- Gần gũi với **TẦNG LỚP CAO SANG**
-
-**Đặc tính:** Đối với người tốt thì là cơ hội học hỏi, đối với người kém
-thì thành nghề **PHỤC DỊCH**.`,
+    tomTat: `Dưỡng cùng Thiên Tướng và Suy hội tại Thiên Di đẩy đương số vào
+môi trường phục dịch nhà quyền môn. Đương số dễ làm tôi tớ, giúp việc cho
+gia đình quyền quý, gần gũi với tầng lớp cao sang nhưng ở vai trò phục vụ.
+Với người có nội lực, đây là cơ hội học hỏi và tiếp xúc giới thượng lưu;
+với người yếu thế, cách cục thành nghề phục dịch thuần túy.`,
   },
 
   {
@@ -152,15 +127,11 @@ thì thành nghề **PHỤC DỊCH**.`,
     sao: ['Dưỡng'],
     ketHop: ['Tướng Quân', 'Bệnh Phù'],
     doUuTien: 55,
-    tomTat: `**Dưỡng + Tướng Quân + Bệnh Phù** — đương số dễ rơi vào cảnh **VẤT VẢ
-PHỤC VỤ** không được ghi nhận.
-
-**Đặc trưng:**
-- Phải làm **TÔI TỚ, NGƯỜI GIÚP VIỆC**
-- Vất vả **PHỤC VỤ NHÀ QUYỀN QUÝ**
-- Sát tinh hãm địa làm **TÍNH CHĂM SÓC** trở nên **MỆT MỎI**
-- Biến thành **GÁNH NẶNG** lo toan cho người khác
-- **KHÔNG ĐƯỢC GHI NHẬN**`,
+    tomTat: `Khi Dưỡng đi cùng Tướng Quân và Bệnh Phù, sát tinh hãm địa biến
+tính chăm sóc thành gánh nặng mệt mỏi. Đương số dễ rơi vào cảnh phải làm
+tôi tớ, giúp việc, vất vả phục vụ nhà quyền quý mà không được ghi nhận.
+Tinh thần "nuôi dưỡng" lúc này không còn là phúc lành, mà thành nỗi lo
+toan mỏi mệt cho người khác trong khi bản thân thiệt thòi.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -173,38 +144,29 @@ PHỤC VỤ** không được ghi nhận.
     sao: ['Dưỡng'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Dưỡng thủ Mệnh** — người **CẦN CÙ, CHẮC CHẮN**, giàu lòng nhân ái.
+    tomTat: `Đương số có Dưỡng thủ Mệnh mang bản chất cần cù, nhẫn nại, bền
+chí; không phải kiểu người bộc phát hay hấp tấp mà làm gì cũng chậm rãi
+chắc chắn. Dù gặp khó khăn vẫn kiên trì theo đuổi mục tiêu, như người gieo
+mầm rồi ngày ngày chăm bón chờ cây ra trái.
 
-**Tính cách:**
-- Bản chất **CẦN CÙ, NHẪN NẠI, BỀN CHÍ**
-- Không phải kiểu người **BỘC PHÁT** hay hấp tấp
-- Làm gì cũng **CHẬM RÃI, CHẮC CHẮN**
-- Dù gặp khó khăn vẫn **KIÊN TRÌ THEO ĐUỔI MỤC TIÊU**
-- Như người **GIEO MẦM** rồi ngày ngày chăm bón chờ cây ra trái
-- **GIÀU LÒNG TRẮC ẨN**, dễ rung động trước nỗi khổ của người khác
-- Không chỉ thương người, còn **YÊU CÂY CỎ, ĐỘNG VẬT**
-- Thích **CHĂM SÓC, CHE CHỞ VÀ NUÔI DƯỠNG**
+Tâm hồn giàu lòng trắc ẩn, dễ rung động trước nỗi khổ của người khác. Không
+chỉ thương người, đương số còn yêu cây cỏ, động vật, thích chăm sóc, che
+chở và nuôi dưỡng tất cả những gì sống động xung quanh mình.
 
-**Sức khỏe:**
-- Sức khỏe **KHÔNG ĐƯỢC TỐT**
-- **YẾU ỚT**, hay dễ mắc **BỆNH TẬT, TAI HỌA**
-- Lúc nhỏ hoặc khi bước vào chu kỳ mới của cuộc đời thường có **SỨC KHỎE
-  YẾU**, dễ đau ốm vặt
-- Như **CÂY NON**, phải được chăm sóc kỹ lưỡng
+Về sức khỏe, đương số không được khỏe mạnh, thân thể yếu ớt, hay mắc bệnh
+tật và tai họa. Lúc nhỏ hoặc khi bước vào chu kỳ mới của cuộc đời thường
+có sức khỏe yếu, dễ đau ốm vặt — như cây non phải được chăm sóc kỹ lưỡng
+mới lớn được.
 
-**Đặc trưng đặc biệt:**
-- Có **TÊN CÚNG CƠM, BIỆT DANH RIÊNG**
-- Hoặc từng **ĐỔI TÊN** trong đời
-- Phản ánh sự **TÁI SINH, ĐỔI VẬN**
-- Được **ĐỠ ĐẦU**: mỗi khi bệnh tật / hoạn nạn, có người **KỊP THỜI GIÚP
-  ĐỠ**
+Một đặc điểm rất riêng: đương số thường có tên cúng cơm, biệt danh riêng
+hoặc từng đổi tên trong đời, phản ánh sự tái sinh và đổi vận. Đương số
+cũng là người được đỡ đầu — mỗi khi bệnh tật hay hoạn nạn, có người kịp
+thời giúp đỡ.
 
-**Đối nhân xử thế:**
-- Là người **DỄ NUÔI CON VÀ NUÔI SÚC VẬT**
-- Thích **QUAN TÂM CHĂM SÓC** mọi người xung quanh
-- Là người **BIẾT QUAN TÂM, CHĂM SÓC BẢN THÂN, YÊU ĐỜI**
-
-**Hậu vận:** về già **ĐÔNG CON, ĐÔNG CHÁU**, được **QUAN TÂM CHĂM LO** khi về già.`,
+Trong đối nhân xử thế, đương số dễ nuôi con và nuôi súc vật, thích quan
+tâm chăm sóc mọi người xung quanh, đồng thời cũng biết quan tâm chăm sóc
+chính bản thân mình và yêu đời. Hậu vận đông con đông cháu, được quan tâm
+chăm lo lúc tuổi già.`,
   },
 
   {
@@ -213,26 +175,18 @@ PHỤC VỤ** không được ghi nhận.
     sao: ['Dưỡng'],
     cung: ['Mệnh'],
     doUuTien: 60,
-    tomTat: `**Dưỡng tại Mệnh** — sự nghiệp gắn liền với **CHĂM SÓC, Y TẾ**.
+    tomTat: `Sự nghiệp của đương số có Dưỡng thủ Mệnh gắn liền với chăm sóc và
+y tế. Đương số hợp các lĩnh vực phục vụ và chăm sóc, làm việc bằng cái tâm
+hơn là cái lợi, sẵn sàng hy sinh thời gian và công sức cho người khác. Nhờ
+vậy đương số được cấp trên, khách hàng và đồng nghiệp tin tưởng dài lâu.
 
-**Đặc trưng nghề nghiệp:**
-- Hợp các lĩnh vực **PHỤC VỤ VÀ CHĂM SÓC**
-- Làm việc bằng **CÁI TÂM** hơn là cái lợi
-- Sẵn sàng **HY SINH THỜI GIAN VÀ CÔNG SỨC** cho người khác
-- Được **CẤP TRÊN, KHÁCH HÀNG, ĐỒNG NGHIỆP TIN TƯỞNG** lâu dài
+Khi Dưỡng hội cùng Ân Quang, Thiên Quý, Thiên Quan, Thiên Phúc, con đường
+sự nghiệp càng sáng tỏ. Đương số có duyên với y tế, giáo dục, chăm sóc
+cộng đồng, môi trường, thú y cùng các công việc nuôi dưỡng và chữa lành.
 
-**Sao Dưỡng + Quang, Quý, Quan, Phúc:**
-- Con đường sự nghiệp càng **SÁNG**
-- Có duyên với:
-  - **Y TẾ, GIÁO DỤC**
-  - **CHĂM SÓC CỘNG ĐỒNG**
-  - **MÔI TRƯỜNG, THÚ Y**
-  - Công việc **NUÔI DƯỠNG, CHỮA LÀNH**
-
-**Hướng phát triển:**
-- Không bùng nổ nhanh nhưng **TIẾN LÊN VỮNG CHẮC**
-- Càng về sau càng **CÓ VỊ TRÍ ỔN ĐỊNH**
-- "**TÍCH TIỂU THÀNH ĐẠI**"`,
+Hướng phát triển không bùng nổ nhanh nhưng tiến lên vững chắc, càng về sau
+càng có vị trí ổn định — đúng tinh thần "tích tiểu thành đại" của một sao
+thuộc giai đoạn ươm mầm.`,
   },
 
   {
@@ -241,20 +195,16 @@ PHỤC VỤ** không được ghi nhận.
     sao: ['Dưỡng'],
     cung: ['Mệnh'],
     doUuTien: 58,
-    tomTat: `**Dưỡng tại Mệnh** — hôn nhân **ẤM ÁP, HY SINH VÌ NHAU**.
+    tomTat: `Trong hôn nhân, đương số có Dưỡng thủ Mệnh là mẫu bạn đời hết mực
+chu đáo, quan tâm từ bữa ăn, giấc ngủ đến tâm trạng của người mình yêu.
+Đương số luôn muốn chăm lo và bảo vệ đối phương, khiến gia đình mang màu
+sắc ấm áp với nhiều hy sinh thầm lặng.
 
-**Đặc trưng:**
-- Mẫu **BẠN ĐỜI HẾT MỰC CHU ĐÁO**
-- Quan tâm từ **BỮA ĂN, GIẤC NGỦ ĐẾN TÂM TRẠNG** của người mình yêu
-- Luôn muốn **CHĂM LO VÀ BẢO VỆ** đối phương
-- Gia đình mang màu sắc **ẤM ÁP**, nhiều **HY SINH THẦM LẶNG**
-
-**Mối quan hệ đặc biệt:**
-- Dễ rơi vào những mối quan hệ đặc biệt:
-  - **NUÔI CON RIÊNG** của vợ / chồng
-  - **NHẬN CON NUÔI**
-  - Gắn bó với **ANH CHỊ EM KẾT NGHĨA**
-- Những mối dây tình cảm **KHÔNG CHUNG MÁU MỦ** nhưng **SÂU ĐẬM, BỀN LÂU**`,
+Một nét đặc biệt là đương số dễ rơi vào những mối quan hệ tình cảm khác
+huyết thống: nuôi con riêng của vợ hoặc chồng, nhận con nuôi, gắn bó với
+anh chị em kết nghĩa. Những mối dây tình cảm tuy không chung máu mủ nhưng
+sâu đậm và bền lâu — đó cũng là cách Dưỡng thể hiện chất nuôi dưỡng của
+mình ở phạm vi hôn nhân, gia đình.`,
   },
 
   {
@@ -263,20 +213,15 @@ PHỤC VỤ** không được ghi nhận.
     sao: ['Dưỡng'],
     cung: ['Mệnh'],
     doUuTien: 58,
-    tomTat: `**Dưỡng tại Mệnh** — tài lộc đến từ **TÍCH LŨY TÀI SẢN**.
+    tomTat: `Tài lộc của đương số có Dưỡng thủ Mệnh đến theo con đường tích
+lũy bền bỉ chứ không bạo phát. Đương số giỏi vun vén, biết tiết kiệm, xoay
+xở từng chút một, đúng tinh thần "góp gió thành bão" — tài sản theo thời
+gian ngày càng ổn định.
 
-**Đặc trưng:**
-- Tiền bạc **KHÔNG ĐẾN BẠO PHÁT**
-- Theo con đường **TÍCH LŨY BỀN BỈ**
-- Giỏi **VUN VÉN, BIẾT TIẾT KIỆM**
-- Xoay xở từng chút một
-- "**GÓP GIÓ THÀNH BÃO**"
-- Tài sản ngày càng **ỔN ĐỊNH**
-
-**Đặc điểm:**
-- Có duyên nhận được **HỖ TRỢ TÀI CHÍNH** từ người khác
-- Nhờ **UY TÍN, SỰ TỬ TẾ VÀ LÒNG TIN**
-- Các nguồn thu **KHÔNG QUÁ LỚN** nhưng **ĐỀU ĐẶN VÀ AN TOÀN**`,
+Đương số cũng có duyên nhận được hỗ trợ tài chính từ người khác nhờ uy
+tín, sự tử tế và lòng tin mà mình tạo dựng. Các nguồn thu không quá lớn
+nhưng đều đặn và an toàn, hợp với người ưa sự chắc chắn hơn là phiêu lưu
+tài chính.`,
   },
 
   {
@@ -285,20 +230,17 @@ PHỤC VỤ** không được ghi nhận.
     sao: ['Dưỡng'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Dưỡng tại Phụ Mẫu** — chủ mệnh hết mực **THỜ CHA KÍNH MẸ**.
+    tomTat: `Dưỡng cư Phụ Mẫu khiến đương số trở thành người con hết mực thờ
+cha kính mẹ, hay quan tâm chăm lo cho cha mẹ. Cha mẹ của đương số cũng dễ
+ốm đau hoặc gặp phiền hà nên cần con cái quan tâm chăm sóc và giúp đỡ.
 
-**Đặc trưng:**
-- Người hay **QUAN TÂM, CHĂM LO** cho cha mẹ
-- Cha mẹ dễ **ỐM ĐAU, GẶP PHIỀN HÀ** nên cần quan tâm chăm sóc và giúp đỡ
-- Cha mẹ **QUAN TÂM, CHĂM SÓC** đương số và mọi người xung quanh
-- Cha mẹ **GIÀU LÒNG NHÂN ÁI**, hay giúp đỡ người khác
--: Được **BÀ CON, LÁNG GIỀNG VÀ XÃ HỘI YÊU QUÝ**
+Bản thân cha mẹ là người giàu lòng nhân ái, hay quan tâm chăm sóc đương
+số cùng mọi người xung quanh, hay giúp đỡ người khác và được bà con, láng
+giềng cùng xã hội yêu quý.
 
-**Hợp Ân Quang, Thiên Quý, Thiên Quan, Thiên Phúc, Hóa Lộc:**
-- Chủ mệnh hết mực **QUAN TÂM**
-- "**THỜ CHA KÍNH MẸ**" đúng đạo làm con
-- Đôi khi vì cha mẹ hay đau yếu, gặp phiền muộn nên con cái phải đứng ra
-  **PHỤNG DƯỠNG**`,
+Khi Dưỡng hợp thêm Ân Quang, Thiên Quý, Thiên Quan, Thiên Phúc cùng Hóa
+Lộc, đương số càng tận tâm phụng dưỡng đúng đạo làm con. Đôi khi vì cha mẹ
+hay đau yếu, gặp phiền muộn nên đương số phải đứng ra chăm lo trực tiếp.`,
   },
 
   {
@@ -307,18 +249,13 @@ PHỤC VỤ** không được ghi nhận.
     sao: ['Dưỡng'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Dưỡng tại Phúc Đức** — số dễ làm **CON NUÔI**, đỡ đầu cho người khác.
+    tomTat: `Dưỡng cư Phúc Đức báo số đương số dễ làm con nuôi họ khác, hoặc
+nhận con nuôi, đỡ đầu cho người khác. Đương số là người quan tâm chăm lo
+tới mồ mả tổ tiên, chịu khó làm việc thiện, giúp người và tích phước.
 
-**Đặc trưng:**
-- Số dễ làm **CON NUÔI HỌ KHÁC**
-- Hoặc **NHẬN CON NUÔI, ĐỠ ĐẦU** cho người khác
-- Người **QUAN TÂM, CHĂM LO** tới mồ mả tổ tiên
-- **CHỊU KHÓ LÀM VIỆC THIỆN, GIÚP NGƯỜI, TÍCH PHƯỚC**
-
-**Hợp Thiên Quan, Thiên Phúc, Ân Quang, Thiên Quý:**
-- "**ĂN Ở CÓ HẬU**"
-- Tin rằng "**GIEO NHÂN LÀNH SẼ GẶT QUẢ TỐT**"
-- Thường **ÂM THẦM GIÚP ĐỠ** mọi người trong lúc khó khăn`,
+Khi cách cục hợp Thiên Quan, Thiên Phúc, Ân Quang cùng Thiên Quý, đương số
+ăn ở có hậu, tin rằng "gieo nhân lành sẽ gặt quả tốt", thường âm thầm giúp
+đỡ mọi người trong lúc khó khăn mà không phô trương.`,
   },
 
   {
@@ -327,20 +264,14 @@ PHỤC VỤ** không được ghi nhận.
     sao: ['Dưỡng'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Dưỡng tại Điền Trạch** — quan tâm **NHÀ CỬA**, nhà nuôi thú vật trồng cây.
+    tomTat: `Dưỡng cư Điền Trạch khiến đương số chú tâm tới nhà cửa và môi
+trường sống. Nhà của đương số dễ nuôi thú vật, trồng nhiều cây cỏ xung
+quanh; bản thân đương số chịu khó vun vén, tích cóp, xây sửa nhà cửa và
+quan tâm giúp đỡ hàng xóm láng giềng.
 
-**Đặc trưng:**
-- Người **QUAN TÂM, ĐỂ Ý** tới nhà cửa
-- Nhà cửa dễ **NUÔI THÚ VẬT, TRỒNG NHIỀU CÂY CỎ** xung quanh
-- Người **CHỊU KHÓ VUN VÉN, TÍCH CÓP, XÂY SỬA NHÀ CỬA**
-- Người **QUAN TÂM, GIÚP ĐỠ HÀNG XÓM** xung quanh
-- Thích **CHĂM CHÚT, SỬA SANG, SẮP XẾP** nhà cửa
-- Đam mê **TRỒNG CÂY, NUÔI CHIM CÁ**
-- Luôn giữ gìn **MÔI TRƯỜNG SỐNG ẤM CÚNG, GỌN GÀNG**
-
-**Quan hệ hàng xóm:**
-- **HÒA NHÃ**
-- "**TỐI LỬA TẮT ĐÈN CÓ NHAU**"`,
+Đương số thích chăm chút, sửa sang, sắp xếp nhà cửa, đam mê trồng cây và
+nuôi chim cá, luôn giữ gìn môi trường sống ấm cúng và gọn gàng. Quan hệ
+với hàng xóm hòa nhã, đúng nghĩa "tối lửa tắt đèn có nhau".`,
   },
 
   {
@@ -349,23 +280,17 @@ PHỤC VỤ** không được ghi nhận.
     sao: ['Dưỡng'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Dưỡng tại Quan Lộc** — người **QUAN TÂM CÔNG DANH**, hợp ngành dịch vụ y
-tế.
+    tomTat: `Dưỡng cư Quan Lộc cho thấy đương số là người quan tâm và chú trọng
+nhiều vào công danh sự nghiệp, đặt sự nghiệp lên hàng đầu, không ngừng nỗ
+lực để con đường công danh phát triển rực rỡ.
 
-**Đặc trưng:**
-- Quan tâm, chú trọng nhiều vào **CÔNG DANH SỰ NGHIỆP**
-- Đặt sự nghiệp lên **HÀNG ĐẦU**
-- Không ngừng nỗ lực để con đường **CÔNG DANH PHÁT TRIỂN RỰC RỠ**
+Đương số hợp các ngành nghề thuộc lĩnh vực dịch vụ và chăm sóc khách hàng.
+Nếu cách cục hội nhiều phúc thiện tinh, đương số dễ làm bác sĩ, điều
+dưỡng, y tá, hộ sinh, hoặc theo các nghề liên quan tới cây xanh, môi
+trường, vật nuôi, chăn nuôi và chăm sóc thú cưng.
 
-**Hợp ngành nghề:**
-- **DỊCH VỤ, CHĂM SÓC KHÁCH HÀNG**
-- Hội nhiều phúc thiện tinh:
-  - **BÁC SỸ, ĐIỀU DƯỠNG, Y TÁ, HỘ SINH**
-- Các ngành nghề về:
-  - **CÂY XANH, MÔI TRƯỜNG, VẬT NUÔI**
-  - **CHĂN NUÔI, CHĂM SÓC THÚ CƯNG**
-
-**Tinh thần:** "**MỘT NGHỀ CHO CHÍN, CÒN HƠN CHÍN NGHỀ**".`,
+Tinh thần làm nghề của Dưỡng đúng câu "một nghề cho chín, còn hơn chín
+nghề" — chuyên tâm và bền bỉ tạo nên chỗ đứng.`,
   },
 
   {
@@ -374,19 +299,16 @@ tế.
     sao: ['Dưỡng'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Dưỡng tại Nô Bộc** — người **QUAN TÂM BẠN BÈ**, hợp nghề từ thiện y tế.
+    tomTat: `Dưỡng cư Nô Bộc cho thấy đương số là người quan tâm tới bạn bè,
+đồng nghiệp, bệnh nhân, học trò cùng gia chủ, coi trọng tình nghĩa.
 
-**Đặc trưng:**
-- Người **QUAN TÂM** tới bạn bè, đồng nghiệp, bệnh nhân, học trò, gia chủ
-- Coi trọng **TÌNH NGHĨA**
+Khi cách cục hội nhiều sao tốt, đương số hợp các nghề bác sĩ, giáo viên,
+nhà từ thiện, hiệp hội cứu trợ — nơi tinh thần chăm sóc của Dưỡng phát
+huy rõ nét nhất.
 
-**Hợp nghề** (hội nhiều sao tốt):
-- **BÁC SĨ, GIÁO VIÊN**
-- **NHÀ TỪ THIỆN, HIỆP HỘI CỨU TRỢ**
-
-**Hội nhiều sát bại tinh:**
-- Có thể làm **NGƯỜI Ở, GIÚP VIỆC NHÀ NGƯỜI**
-- Dễ rơi vào cảnh **LÀM THUÊ, GIÚP VIỆC** cho gia đình người khác`,
+Ngược lại, nếu hội nhiều sát bại tinh, đương số có thể làm người ở, giúp
+việc nhà người, dễ rơi vào cảnh làm thuê và phục dịch cho gia đình người
+khác.`,
   },
 
   {
@@ -395,20 +317,15 @@ tế.
     sao: ['Dưỡng'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Dưỡng tại Thiên Di** — ra ngoài **CỨU TRỢ GIÚP ĐỠ**, hay làm từ thiện.
+    tomTat: `Dưỡng cư Thiên Di cho thấy đương số ra ngoài hay giúp đỡ và chăm
+sóc mọi người xung quanh, hay đi cứu trợ và giúp người. Đây là số mệnh đi
+giúp đỡ, phục vụ thế giới bên ngoài, mang theo trái tim biết thương người;
+đương số dễ tham gia các hoạt động từ thiện, cứu trợ và những công việc
+phục vụ cộng đồng.
 
-**Đặc trưng:**
-- Người ra ngoài hay **GIÚP ĐỠ, CHĂM SÓC** mọi người xung quanh
-- Hay **ĐI CỨU TRỢ, GIÚP NGƯỜI**
-- Có **SỐ MỆNH** đi giúp đỡ, **PHỤC VỤ THẾ GIỚI BÊN NGOÀI**
-- Mang theo **TRÁI TIM BIẾT THƯƠNG NGƯỜI**
-- Tham gia các **HOẠT ĐỘNG TỪ THIỆN, CỨU TRỢ**
-- Công việc **PHỤC VỤ CỘNG ĐỒNG**
-
-**Hội Tướng Quân, Suy:**
-- Dễ làm **TÔI TỚ, GIÚP VIỆC NHÀ QUYỀN MÔN**
-- Phục vụ trong môi trường **QUYỀN QUÝ**
-- Gần gũi với **TẦNG LỚP CAO SANG**`,
+Khi Dưỡng hội cùng Tướng Quân và Suy, đương số dễ làm tôi tớ, giúp việc
+nhà quyền môn, phục vụ trong môi trường quyền quý, gần gũi với tầng lớp
+cao sang.`,
   },
 
   {
@@ -417,17 +334,11 @@ tế.
     sao: ['Dưỡng'],
     cung: ['Tật Ách'],
     doUuTien: 78,
-    tomTat: `**Dưỡng tại Tật Ách** — bệnh tật **TIỀM TÀNG, TÍCH TỤ DẦN**.
-
-**Đặc trưng:**
-- Bệnh tật, tai họa **ĐÃ XÂM NHẬP TIỀM TÀNG**
-- **TÍCH TỤ DẦN**
-- Dễ gặp các loại **BỆNH TIỀM ẨN**, tích tụ lâu ngày
-
-**Lưu ý:**
-- Cần **QUAN TÂM CHĂM SÓC SỨC KHỎE**
-- Cần **CẨN THẬN, TRÁNH LÀM ĐIỀU ÁC** để hạn chế tác họa
-- Phải sống **THIỆN LƯƠNG**`,
+    tomTat: `Dưỡng cư Tật Ách báo bệnh tật và tai họa đã xâm nhập tiềm tàng và
+tích tụ dần. Đương số dễ gặp các loại bệnh tiềm ẩn, tích tụ lâu ngày mới
+phát ra; vì vậy cần quan tâm chăm sóc sức khỏe đều đặn, cẩn thận tránh
+làm điều ác để hạn chế tác họa, đồng thời sống thiện lương để giảm hung
+khí của vị trí này.`,
   },
 
   {
@@ -436,17 +347,13 @@ tế.
     sao: ['Dưỡng'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Dưỡng tại Tài Bạch** — người **TÍCH CÓP**, hay được giúp đỡ tài chính.
+    tomTat: `Dưỡng cư Tài Bạch cho thấy đương số chịu khó tích cóp, quan tâm
+tạo ra của tiền, hay được người khác giúp đỡ và cho tiền. Đương số biết
+tích góp, chăm chỉ tạo dựng của cải theo lối bền bỉ.
 
-**Đặc trưng:**
-- Người **CHỊU KHÓ TÍCH CÓP**
-- **QUAN TÂM TẠO RA CỦA TIỀN**
-- Hay được **NGƯỜI KHÁC GIÚP ĐỠ, CHO TIỀN**
-- Biết **TÍCH GÓP, CHĂM CHỈ TẠO DỰNG CỦA CẢI**
-
-**Hội Ân Quang, Thiên Quý, Thiên Khôi, Thiên Việt, Tả Hữu:**
-- Rất dễ nhận được **SỰ GIÚP ĐỠ VỀ TÀI CHÍNH**
-- Được **CHO TIỀN** hoặc hưởng lợi từ **SỰ QUAN TÂM** của người khác`,
+Khi Dưỡng hội cùng Ân Quang, Thiên Quý, Thiên Khôi, Thiên Việt cùng Tả Phù,
+Hữu Bật, đương số rất dễ nhận được sự giúp đỡ về tài chính, được cho tiền
+hoặc hưởng lợi từ sự quan tâm của người khác.`,
   },
 
   {
@@ -455,29 +362,20 @@ tế.
     sao: ['Dưỡng'],
     cung: ['Tử Tức'],
     doUuTien: 78,
-    tomTat: `**Dưỡng tại Tử Tức** — quan tâm con cái, **CON ĐỠ ĐẦU, CON NUÔI**.
+    tomTat: `Dưỡng cư Tử Tức cho thấy đương số quan tâm và chăm lo đường con
+cái. Con cái thường dễ đau ốm nên đương số phải gửi vía làm con nuôi nhà
+người, có con nuôi hoặc cho con nhờ người khác nuôi hộ; có khi đương số
+nhận con đỡ đầu, hoặc nuôi con riêng của chồng vợ.
 
-**Đặc trưng:**
-- **QUAN TÂM, CHĂM LO** đến con cái
-- Con cái thường dễ hay **ĐAU ỐM**
-- Phải **GỬI VÍA LÀM CON NUÔI** nhà người
-- Có **CON NUÔI** hoặc cho con **NHỜ NGƯỜI KHÁC NUÔI HỘ**
-- Có **CON ĐỠ ĐẦU**
-- Có khi **NUÔI CON RIÊNG** của chồng / vợ
+Tính chất cát hung tùy bộ kết hợp:
 
-**Dưỡng + Khốc Hư:**
-- **SÁT CON, DỄ SẨY**
-
-**Dưỡng + Hỷ tại Tử Tức:**
-- "**Dưỡng Hỷ lâm ư Tử Tức tất sanh con quý tử**"
-- Sinh **CON QUÝ TỬ**
-
-**Dưỡng + Khốc Hư + Không Kiếp + Kình Đà + Hỏa Linh:**
-- Thường xảy ra **MẤT MÁT, SẨY THAI**
-
-**Dưỡng + Hỷ + Xương Khúc + Khôi Việt:**
-- Là **ĐIỀM LÀNH**
-- Sinh **CON QUÝ TỬ**`,
+- Khi gặp Thiên Khốc cùng Thiên Hư, cách cục sát con và rất dễ sẩy.
+- Khi gặp Hỷ Thần hoặc Thiên Hỷ, ứng câu phú "Dưỡng Hỷ lâm ư Tử Tức tất
+  sanh con quý tử" — sinh được con quý tử.
+- Khi gặp Thiên Khốc, Thiên Hư cộng Địa Không, Địa Kiếp cùng Kình Dương,
+  Đà La và Hỏa Tinh, Linh Tinh, đương số thường gặp mất mát, sẩy thai.
+- Khi gặp Hỷ Thần hoặc Thiên Hỷ cùng Văn Xương, Văn Khúc, Thiên Khôi,
+  Thiên Việt, đây là điềm lành, sinh được con quý tử.`,
   },
 
   {
@@ -486,14 +384,10 @@ tế.
     sao: ['Dưỡng'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Dưỡng tại Phu Thê** — người hôn phối **LÀM DỊCH VỤ, CHĂM SÓC**.
-
-**Đặc trưng:**
-- Người hôn phối dễ làm:
-  - **DỊCH VỤ, CHĂM SÓC**
-  - **NGHỀ Y, NGHỀ GIÁO**
-- Người dễ hay mắc **ỐM ĐAU**
-- Khiến đương số phải **QUAN TÂM, CHĂM SÓC** nhiều`,
+    tomTat: `Dưỡng cư Phu Thê cho thấy người hôn phối dễ làm các nghề dịch vụ,
+chăm sóc, nghề y hoặc nghề giáo. Người hôn phối cũng dễ hay mắc ốm đau,
+khiến đương số phải quan tâm và chăm sóc nhiều — đúng tinh thần "nuôi
+dưỡng" mà Dưỡng đưa vào cung phối ngẫu.`,
   },
 
   {
@@ -502,13 +396,9 @@ tế.
     sao: ['Dưỡng'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Dưỡng tại Huynh Đệ** — có **ANH EM KẾT NGHĨA, NUÔI, DỊ BÀO**.
-
-**Đặc trưng:**
-- Có **ANH EM KẾT NGHĨA**
-- **ANH CHỊ EM NUÔI**
-- Hoặc **DỊ BÀO**
-- Mối dây tình cảm tuy không cùng huyết thống nhưng **SÂU ĐẬM**`,
+    tomTat: `Dưỡng cư Huynh Đệ cho thấy đương số có anh em kết nghĩa, anh chị
+em nuôi hoặc dị bào. Mối dây tình cảm tuy không cùng huyết thống nhưng
+sâu đậm — đặc trưng "nuôi dưỡng người ngoài thành thân" của sao này.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -520,15 +410,12 @@ tế.
     title: 'Dưỡng vào hạn - Bệnh tật dai dẳng',
     sao: ['Dưỡng'],
     doUuTien: 50,
-    tomTat: `**Dưỡng vào hạn** — bệnh tình **DAI DẲNG KHÓ CHỮA**.
+    tomTat: `Khi đương số bước vào đại hạn hoặc tiểu hạn có Dưỡng đi kèm sao
+bệnh tật nặng, bệnh tình thường dai dẳng và khó chữa. Đương số dễ phải
+điều trị dài ngày, thậm chí nằm viện.
 
-**Đặc trưng:**
-- Khi bước vào đại / tiểu hạn có Dưỡng + sao **BỆNH TẬT NẶNG**
-- Dễ phải **ĐIỀU TRỊ DÀI NGÀY**
-- Thậm chí **NẰM VIỆN**
-
-**Đặc biệt nếu hạn rơi vào cung Tật Ách:**
-- Bệnh tình thường **DAI DẲNG, KHÓ DỨT**
-- Năm đó phải **QUAN TÂM CHÚ Ý CẨN THẬN** về sức khỏe nhiều`,
+Đặc biệt nếu hạn rơi vào cung Tật Ách, bệnh tình càng dai dẳng và khó
+dứt; năm đó đương số cần quan tâm chú ý cẩn thận về sức khỏe nhiều hơn
+bình thường.`,
   },
 ];

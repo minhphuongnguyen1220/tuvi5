@@ -24,29 +24,20 @@ export const luanGiai_Benh: DoanLuanGiai[] = [
     title: 'Bệnh - Đặc tính chung',
     sao: ['Bệnh'],
     doUuTien: 33,
-    tomTat: `**Bệnh** — phụ tinh **BẠI TINH NHỎ**, vị trí **THỨ 7** vòng Trường Sinh.
+    tomTat: `**Bệnh** là phụ tinh thuộc nhóm bại tinh nhỏ, đứng ở vị trí thứ bảy
+trong vòng Trường Sinh, ngũ hành Hỏa. Sao này tiếp nối ngay sau giai đoạn Suy
+— khi cơ thể đã già đi và xuống sức, các cơ quan chức năng không còn đủ sức
+chống lại tác nhân gây bệnh, tới đoạn đổ bệnh thực sự.
 
-**Ngũ hành:** **Hỏa**.
+Bệnh không phải đại hung tinh, song mang tính chất "mưa dầm thấm lâu": căn
+bệnh âm ỉ chứ ít phát tác dữ dội, không nặng lắm nhưng kéo dài. Đương số
+thường rơi vào trạng thái suy nhược toàn diện — kém ăn, kém ngủ, kém nghỉ
+ngơi, thiếu bồi dưỡng — nên dễ nhiễm lạnh, sổ mũi, nhức đầu, đúng kiểu "nắng
+không ưa, mưa không chịu".
 
-**Đặc tính:**
-- Sau giai đoạn **SUY** già đi: tới giai đoạn **ĐỔ BỆNH**
-- Trên cơ thể xuất hiện **NHIỀU BỆNH TẬT**
-- Cơ quan chức năng **KHÔNG CÒN TỐT** để chống lại tác nhân gây bệnh
-
-**Vai trò:**
-- KHÔNG phải đại hung tinh
-- Tính chất "**MƯA DẦM THẤM LÂU**" — căn bệnh **ÂM Ỉ** chứ ít phát tác dữ dội
-- Bệnh hoạn không nặng lắm, nhưng **KÉO DÀI**
-
-**Đặc trưng:**
-- Bệnh suy nhược toàn diện: **KÉM ĂN, KÉM NGỦ, KÉM NGHỈ NGƠI**
-- Thiếu bồi dưỡng
-- Dễ **NHIỄM LẠNH, SỔ MŨI, NHỨC ĐẦU**
-- "**NẮNG KHÔNG ƯA, MƯA KHÔNG CHỊU**"
-
-**Lưu ý luận đoán:** Sao Bệnh ở Mệnh phải **PHỐI HỢP** với cung **TẬT
-ÁCH** (chủ bệnh tật) và **PHÚC ĐỨC** (chủ tinh thần phúc phần) mới xác định
-được mức độ ảnh hưởng.`,
+Khi luận sao Bệnh tại Mệnh, cần phối hợp đồng thời với cung Tật Ách (chủ
+bệnh tật) và Phúc Đức (chủ tinh thần phúc phần) mới xác định được mức độ
+ảnh hưởng thực sự.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -60,19 +51,16 @@ export const luanGiai_Benh: DoanLuanGiai[] = [
     cung: ['Tật Ách'],
     ketHop: ['Tang Môn', 'Bạch Hổ', 'Thiên Khốc', 'Thiên Hư', 'Bệnh Phù'],
     doUuTien: 65,
-    tomTat: `**Bệnh + Tang Môn + Bạch Hổ + Thiên Khốc + Thiên Hư + Bệnh Phù tại Tật
-Ách (KHÔNG có Tuần Triệt án ngữ)** — dễ mắc **BỆNH NAN Y**, cả đời lo toan
-bệnh tật.
+    tomTat: `Khi Bệnh hội đầy đủ Tang Môn, Bạch Hổ, Thiên Khốc, Thiên Hư cùng
+Bệnh Phù tại Tật Ách mà không có Tuần hay Triệt án ngữ, đương số dễ mắc bệnh
+nan y, cả đời phải lo toan vì bệnh tật.
 
-**Đặc trưng:**
-- **TANG HỔ** = trục Tang-Hổ kiếp nghiệp
-- **KHỐC HƯ** = bệnh trầm kha
-- **BỆNH PHÙ** = bệnh mãn tính lười biếng
-- Cộng dồn: **BỆNH KHÓ CHỮA, KÉO DÀI CẢ ĐỜI**
+Trục Tang - Hổ mang sắc thái kiếp nghiệp; Khốc - Hư báo hiệu bệnh trầm kha;
+Bệnh Phù lại thêm tính mãn tính lười biếng. Cộng dồn lại, bệnh của đương số
+thuộc loại khó chữa, kéo dài cả đời.
 
-**Hóa giải duy nhất:**
-- **TUẦN TRIỆT** án ngữ: giảm bớt
-- Quan Phúc, Tứ Đức, Quang Quý hỗ trợ`,
+Hóa giải duy nhất là Tuần Triệt án ngữ làm giảm tác động, kèm theo Quan
+Phúc, Tứ Đức cùng Quang Quý hỗ trợ thì mới mong giảm nhẹ.`,
   },
 
   {
@@ -82,20 +70,20 @@ bệnh tật.
     cung: ['Quan Lộc'],
     ketHop: ['Thiên Lương', 'Thiên Tướng', 'Ân Quang', 'Thiên Quan'],
     doUuTien: 60,
-    tomTat: `**Bệnh + Thiên Lương + Thiên Tướng + Quang Quý + Quan Phúc tại Quan Lộc** —
-hợp cách **NGHỀ THUỐC**.
+    tomTat: `Khi Bệnh đóng tại Quan Lộc cùng Thiên Lương, Thiên Tướng, Ân Quang
+và Thiên Quan, đương số hợp cách nghề thuốc — đây chính là bộ biến nguy
+thành cơ, hóa cái xấu của Bệnh thành nghề cứu người.
 
-**Đặc trưng:**
-- Theo đuổi **NGHỀ THUỐC** là hợp cách
-- Hợp các nghề: **THẦY LANG, Y TÁ, ĐIỀU DƯỠNG**
-- Hoặc các lĩnh vực **Y DƯỢC, TRỊ LIỆU**
-- Bộ này hóa giải Bệnh xấu thành nghề **CỨU NGƯỜI**
+Phân tích từng thành phần:
 
-**Phân tích:**
-- Lương + Tướng = phúc thiện cứu khổ
-- Quang Quý = quý nhân giúp đỡ
-- Quan Phúc = phúc thiện thiên ban
-- Bệnh + bộ này: biến nguy thành cơ`,
+- Thiên Lương cùng Thiên Tướng mang ý phúc thiện cứu khổ
+- Ân Quang cùng Thiên Quý đại diện cho quý nhân giúp đỡ
+- Thiên Quan cùng Thiên Phúc là phúc thiện thiên ban
+- Bệnh đi cùng các sao này chuyển thành sứ mệnh chăm sóc người khác
+
+Đương số phù hợp với các nghề thầy lang, y tá, điều dưỡng, hoặc các lĩnh
+vực y dược, trị liệu — càng dấn thân càng phát huy được cái duyên của
+mình.`,
   },
 
   {
@@ -105,16 +93,14 @@ hợp cách **NGHỀ THUỐC**.
     cung: ['Tài Bạch'],
     ketHop: ['Hóa Kỵ', 'Đại Hao', 'Thiên Không'],
     doUuTien: 55,
-    tomTat: `**Bệnh + Hóa Kỵ + Đại Hao + Thiên Không tại Tài Bạch** — **HAO TÀI VÌ
-BỆNH TẬT**.
+    tomTat: `Khi Bệnh tại Tài Bạch hội cùng Hóa Kỵ, Đại Hao và Thiên Không,
+đương số hao tổn tiền tài chính vì bệnh tật. Tiền của ra đi không phải vì
+ăn chơi hay đầu tư thất bại, mà do những khoản chi bất ngờ liên quan đến
+sức khỏe — của bản thân hoặc của người thân cần chăm sóc.
 
-**Đặc trưng:**
-- Do **BỆNH TẬT MÀ HAO TỐN TIỀN TÀI**
-- Có những khoản **CHI BẤT NGỜ** liên quan đến **SỨC KHỎE** hoặc chăm sóc
-  người thân
-- Rơi vào thế "**TIỀN MẤT TẬT MANG**"
-
-**Lưu ý:** Cần chuẩn bị **TÀI CHÍNH DỰ PHÒNG** cho rủi ro sức khỏe.`,
+Tình thế thường rơi vào cảnh "tiền mất tật mang": vừa tốn kém vừa không
+giải quyết được tận gốc. Đương số nên chủ động chuẩn bị tài chính dự phòng
+cho rủi ro sức khỏe ngay từ giai đoạn còn vững vàng.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -127,38 +113,31 @@ BỆNH TẬT**.
     sao: ['Bệnh'],
     cung: ['Mệnh'],
     doUuTien: 80,
-    tomTat: `**Bệnh thủ Mệnh** — tướng mạo **GẦY GÒ ỐM YẾU**, lực sinh mệnh không vững.
+    tomTat: `Đương số có **Bệnh** thủ Mệnh thường mang tướng mạo gầy gò ốm yếu,
+sắc diện nhợt nhạt, da dẻ ít hồng hào mà thiên về xanh xao, vàng vọt. Người
+ngoài hay nhận xét chủ mệnh thiếu sức sống; dáng điệu chậm rãi, không lanh
+lợi, lực sinh mệnh tự thân không thật vững vàng.
 
-**Tướng mạo:**
-- **GẦY GÒ**, sắc diện **NHỢT NHẠT**
-- Da dẻ thường **KHÔNG HỒNG HÀO** mà **XANH XAO, VÀNG VỌT**
-- Dễ bị nhận xét **THIẾU SỨC SỐNG**
-- Dáng điệu **CHẬM RÃI, THIẾU LANH LỢI**
+Về sức khỏe, cơ thể đương số dễ đau ốm bệnh tật, ăn kém ngủ ít, tinh thần
+không dồi dào. Chủ mệnh dễ nhiễm lạnh, sổ mũi, nhức đầu, đúng kiểu "nắng
+không ưa, mưa không chịu". Đại vận đầu tiên là giai đoạn sao Bệnh gây ảnh
+hưởng rõ nét nhất.
 
-**Sức khỏe:**
-- Cơ thể dễ **ĐAU ỐM, BỆNH TẬT**
-- **ĂN KÉM NGỦ ÍT**, tinh thần không dồi dào
-- Dễ **NHIỄM LẠNH, SỔ MŨI, NHỨC ĐẦU**
-- "**NẮNG KHÔNG ƯA, MƯA KHÔNG CHỊU**"
-- **ĐẠI VẬN ĐẦU TIÊN** sao Bệnh gây ảnh hưởng lớn nhất
+Về tinh thần và tính cách, đương số không phấn chấn, không tráng kiện;
+ngại hoạt động, đôi khi hơi lười, thích nằm hơn làm. Điểm thú vị là chủ
+mệnh "việc nhà thì nhác, việc chú bác thì siêng" — ở nhà thì uể oải, ra
+ngoài lại cuồng nhiệt năng nổ. Càng ở nhà nhiều, đương số càng dễ chán
+nản và sa sút tinh thần.
 
-**Tinh thần - tính cách:**
-- Tinh thần **KHÔNG PHẤN CHẤN, KHÔNG TRÁNG KIỆN**
-- Không thích **HOẠT ĐỘNG**, đôi khi hơi **LƯỜI**
-- Thích **NẰM** hơn làm
-- "**VIỆC NHÀ THÌ NHÁC, VIỆC CHÚ BÁC THÌ SIÊNG**"
-- Ở nhà thì lười, **RA NGOÀI** thường cuồng nhiệt năng nổ
-- Càng **Ở NHÀ NHIỀU**: càng dễ chán nản, tinh thần sa sút
+Bù lại, sao Bệnh có vài đặc điểm có lợi:
 
-**Đặc điểm có lợi:**
-- **LỢI KHI ĐI XA**
-- **LẤY VỢ NHÀ CÓ ĐIỀU KIỆN**
-- Cung **PHÚC TỐT**
+- Lợi khi đi xa
+- Hợp lấy vợ nhà có điều kiện
+- Cung Phúc Đức tốt sẽ đỡ được nhiều
 
-**Lưu ý quan trọng:**
-- Bệnh ở Mệnh **KHÔNG** có nghĩa người ấy mắc bệnh, sẵn sàng mang bệnh
-- Chỉ nói lên **LỰC SINH MỆNH KHÔNG VỮNG VÀNG**, dễ bệnh, dễ ốm, dễ suy
-  nhược`,
+Cần lưu ý: Bệnh ở Mệnh không có nghĩa đương số thật sự đang mang bệnh hay
+sẵn bệnh, mà chỉ nói lên lực sinh mệnh không vững vàng — dễ bệnh, dễ ốm,
+dễ suy nhược nếu không biết bảo dưỡng.`,
   },
 
   {
@@ -167,19 +146,15 @@ BỆNH TẬT**.
     sao: ['Bệnh'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Bệnh tại Phụ Mẫu** — sức khỏe **CHA MẸ DỄ ỐM**, ít quan tâm chăm sóc đương
-số.
+    tomTat: `Khi **Bệnh** đóng tại Phụ Mẫu, sức khỏe cha mẹ đương số dễ ốm yếu,
+bản thân các cụ cũng hơi lười và ít quan tâm chăm sóc con cái. Quan hệ giữa
+chủ mệnh với phụ mẫu vì thế thiếu phần gắn kết.
 
-**Đặc trưng:**
-- Sức khỏe cha mẹ **DỄ ỐM**
-- Bản thân bố mẹ hơi **LƯỜI**
-- **ÍT QUAN TÂM, CHĂM SÓC** đương số
-
-**Đặc điểm thời thơ ấu:**
-- Đương số **THIẾU SỰ QUAN TÂM, CHĂM SÓC** đầy đủ từ phụ mẫu
-- Có thể vì **HOÀN CẢNH MƯU SINH** hoặc thiếu sự **GẮN KẾT**
-- Thiếu gần gũi: đương số cảm thấy **THIỆT THÒI VỀ TÌNH CẢM**
-- Khó **TÂM SỰ, SẺ CHIA** với cha mẹ`,
+Thời thơ ấu, đương số thường thiếu sự quan tâm, chăm sóc đầy đủ từ cha mẹ —
+có thể vì hoàn cảnh mưu sinh khó khăn, cũng có thể vì bản thân cha mẹ không
+chú trọng việc gắn bó với con. Khi đã thiếu gần gũi, đương số dễ cảm thấy
+thiệt thòi về tình cảm và khó tâm sự, sẻ chia với cha mẹ ngay cả khi đã
+trưởng thành.`,
   },
 
   {
@@ -188,23 +163,19 @@ số.
     sao: ['Bệnh'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Bệnh tại Phúc Đức** — mồ mả tổ tiên **ÍT ĐƯỢC QUAN TÂM**, dòng họ bị mất
-kết nối tâm linh.
+    tomTat: `Khi **Bệnh** cư Phúc Đức, mồ mả và bàn thờ tổ tiên ít được quan
+tâm chăm sóc; phần âm phần của ông bà tổ tiên đến đời đương số nảy sinh
+vấn đề, cần tu dưỡng và trông nom lại. Trong họ hàng nhiều người bị bệnh,
+hay ốm hay đau — dấu hiệu cho thấy dòng họ đang bị mất kết nối tâm linh,
+thiếu phúc âm truyền đời.
 
-**Đặc trưng:**
-- Mồ mả, bàn thờ tổ tiên **ÍT ĐƯỢC QUAN TÂM, CHĂM SÓC**
-- Phần mồ mả ông bà tổ tiên **NẢY SINH VẤN ĐỀ** đến giai đoạn của mình
-- Cần **QUAN TÂM CHĂM SÓC TU DƯỠNG**
-- Trong họ hàng **NHIỀU NGƯỜI BỊ BỆNH**, hay ốm hay đau
-- Dòng họ đang bị **MẤT KẾT NỐI TÂM LINH**, thiếu phúc âm truyền đời
+Về tâm tính, đương số ít tin vào tâm linh hay nhân quả, không mặn mà với
+việc thờ phụng gia tiên hoặc tu dưỡng nội tâm. Phải tới khi vấp ngã giữa
+đường đời, chủ mệnh mới bắt đầu tỉnh ngộ và quay về với phần hồn cốt của
+gia tộc.
 
-**Tâm tính:**
-- Đương số **ÍT TIN VÀO TÂM LINH** hay nhân quả
-- Không mặn mà **THỜ PHỤNG GIA TIÊN** hay tu dưỡng nội tâm
-- Chỉ khi **VẤP NGÃ** giữa đường đời mới bắt đầu **TỈNH NGỘ**
-
-**Lời khuyên:** sao Bệnh ở Phúc Đức ám chỉ sự **BỘC PHÁT** của những vấn
-đề liên quan đến **ĐỜI SỐNG TÂM LINH** — buộc đương số phải chú ý.`,
+Sao Bệnh ở Phúc Đức ám chỉ sự bộc phát của những vấn đề liên quan đến đời
+sống tâm linh — buộc đương số phải chú ý, không thể tiếp tục lơ là.`,
   },
 
   {
@@ -213,25 +184,18 @@ kết nối tâm linh.
     sao: ['Bệnh'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Bệnh tại Điền Trạch** — nhà cửa **BỪA BỘN, BỤI BẶM**, phong thủy không
-tốt.
+    tomTat: `Khi **Bệnh** đóng tại Điền Trạch, nhà cửa của đương số ít được
+quan tâm, chủ mệnh lười dọn dẹp nên không gian sống thường bừa bộn, bụi
+bặm. Tổ ấm vì thế biến thành chốn hao tổn năng lượng thay vì nơi nạp lại
+khí lực.
 
-**Đặc trưng:**
-- Nhà cửa **ÍT ĐƯỢC QUAN TÂM**
-- **LƯỜI DỌN DẸP**, nhà cửa **HƠI BẨN**
-- Sống trong không gian **BỪA BỘN, BỤI BẶM**
-- Tổ ấm thành **CHỐN HAO TỔN NĂNG LƯỢNG**
+Phong thủy nơi ở thường không tốt, khí trường trong nhà trì trệ, khiến chủ
+mệnh ở nhà nhiều thì hay bị ốm đau, suy nhược; tâm trạng, sức khỏe và vận
+khí đều bị ảnh hưởng. Một đặc điểm khác là nhà thuộc dạng dễ đông con.
 
-**Phong thủy:**
-- Nơi ở thường **PHONG THỦY KHÔNG TỐT**
-- **KHÍ TRƯỜNG TRONG NHÀ TRÌ TRỆ**
-- Ở nhà thường hay **BỊ ỐM ĐAU, SUY NHƯỢC**
-- Ảnh hưởng đến **TÂM TRẠNG, SỨC KHỎE, VẬN KHÍ**
-
-**Đặc điểm:** Nhà dễ **ĐÔNG CON**.
-
-**Lời khuyên:** "**NHÀ SẠCH THÌ MÁT, BÁT SẠCH NGON CƠM**" — chăm sóc không
-gian sống chính là chăm sóc sức khỏe và tinh thần.`,
+Lời khuyên gói gọn ở câu "nhà sạch thì mát, bát sạch ngon cơm" — chăm sóc
+không gian sống chính là cách chăm sóc sức khỏe và tinh thần một cách trực
+tiếp nhất.`,
   },
 
   {
@@ -240,26 +204,22 @@ gian sống chính là chăm sóc sức khỏe và tinh thần.`,
     sao: ['Bệnh'],
     cung: ['Quan Lộc'],
     doUuTien: 78,
-    tomTat: `**Bệnh tại Quan Lộc** — môi trường **ĐỘC HẠI**, sự nghiệp **MẤT ĐỘNG LỰC**.
+    tomTat: `Khi **Bệnh** cư Quan Lộc, môi trường làm việc của đương số dễ
+mang tính độc hại — liên quan tới hóa chất, vệ sinh, bệnh tật — và bản
+thân chủ mệnh cũng giảm sự quan tâm với sự nghiệp, công việc.
 
-**Đặc trưng:**
-- Môi trường làm việc dễ **ĐỘC HẠI**
-- Liên quan tới **HÓA CHẤT, VỆ SINH, BỆNH TẬT**
-- **GIẢM SỰ QUAN TÂM** của bản thân tới sự nghiệp, công việc
+Sự nghiệp dễ rơi vào giai đoạn suy trầm: đương số thiếu động lực, không
+còn hứng thú công việc, cảm thấy mệt mỏi và mất phương hướng. Đôi khi chủ
+mệnh duy trì công việc chỉ vì trách nhiệm chứ không còn lý tưởng để theo
+đuổi.
 
-**Sự nghiệp:**
-- Sự nghiệp dễ rơi vào giai đoạn **SUY TRẦM**
-- Thiếu **ĐỘNG LỰC**, không còn hứng thú công việc
-- Cảm thấy **MỆT MỎI, MẤT PHƯƠNG HƯỚNG**
-- Đôi khi làm việc chỉ vì **TRÁCH NHIỆM** chứ không lý tưởng
+Trường hợp Bệnh hợp với cát tinh như Thiên Lương, Thiên Tướng, Ân Quang,
+Thiên Quý, Thiên Quan, Thiên Phúc, đương số nên theo nghề thuốc — thầy
+lang, y tá, y dược, điều dưỡng, trị liệu. Đây là cách biến nguy thành cơ,
+chuyển sao Bệnh từ điểm yếu thành nghề cứu người.
 
-**Hợp cát tinh** (Thiên Lương, Thiên Tướng, Quang Quý, Thiên Quan, Thiên
-Phúc):
-- Theo đuổi **NGHỀ THUỐC** (thầy lang, y tá) là hợp cách
-- Y dược, điều dưỡng, trị liệu — biến nguy thành cơ
-
-**Hôn nhân:** Người hôn phối là người **NĂNG ĐỘNG, NHIỆT HUYẾT**, giúp ích
-được mình nhiều.`,
+Mảng hôn nhân lại có nét tích cực: người hôn phối của chủ mệnh thường
+năng động, nhiệt huyết, giúp ích cho đương số rất nhiều trong cuộc sống.`,
   },
 
   {
@@ -268,22 +228,16 @@ Phúc):
     sao: ['Bệnh'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Bệnh tại Nô Bộc** — bạn bè **HƠI KÉM, LƯỜI, NHIỀU BỆNH**.
+    tomTat: `Khi **Bệnh** đóng tại Nô Bộc, bạn bè quanh đương số thuộc dạng
+hơi kém, hơi lười, nhiều bệnh nhiều tật; bản thân chủ mệnh cũng không quá
+quan tâm đến bạn bè. Đồng nghiệp và bằng hữu thường thiếu năng lực hoặc
+không thật lòng.
 
-**Đặc trưng:**
-- Bạn bè hơi **KÉM, LƯỜI**
-- **NHIỀU BỆNH NHIỀU TẬT**
-- Bản thân **ÍT QUAN TÂM** tới bạn bè
-- Bạn bè, đồng nghiệp **THIẾU NĂNG LỰC** hoặc không thật lòng
-- Dễ rơi vào cảnh "**LÀM ƠN MẮC OÁN**"
-- Phải "**ĐỨNG MŨI CHỊU SÀO**", việc gì cũng ôm
-- Mệt đầu mà chẳng được ghi công
-
-**Sát bại tinh hội:**
-- Bạn bè **XẤU**
-- **NHIỀU BỆNH HOẠN**
-- Đề phòng **KẺ TIỂU NHÂN**
-- Tránh ảnh hưởng tới sự phát triển công việc`,
+Đương số dễ rơi vào cảnh "làm ơn mắc oán", phải đứng mũi chịu sào, việc
+gì cũng ôm vào người mà rốt cuộc mệt đầu lại chẳng được ghi công. Khi sát
+bại tinh hội thêm vào, bạn bè trở nên xấu hẳn, nhiều bệnh hoạn; chủ mệnh
+phải đề phòng kẻ tiểu nhân để tránh ảnh hưởng tới sự phát triển công
+việc.`,
   },
 
   {
@@ -292,21 +246,15 @@ Phúc):
     sao: ['Bệnh'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Bệnh tại Thiên Di** — **NĂNG NỔ NHIỆT HUYẾT** nhưng đi xa **DỄ ỐM**.
+    tomTat: `Khi **Bệnh** cư Thiên Di, đương số vốn là người năng nổ nhiệt
+huyết, song lại ít quan tâm tham gia các hoạt động bên ngoài và ít để ý
+đến mọi người xung quanh. Đúng kiểu "chim lồng quen hơi tổ" — chủ mệnh
+chỉ thấy thoải mái khi ở nhà, mức độ năng động bị giảm sút rõ rệt. Dù
+trong lòng vẫn mong muốn dấn thân ra ngoài, đương số hay gặp cản trở.
 
-**Đặc trưng:**
-- Là người **NĂNG NỔ NHIỆT HUYẾT**
-- Nhưng **ÍT QUAN TÂM, THAM GIA** các hoạt động bên ngoài
-- **ÍT ĐỂ Ý** đến mọi người xung quanh
-- "**CHIM LỒNG QUEN HƠI TỔ**" — chỉ thoải mái khi ở nhà
-- Năng động bị **GIẢM SÚT RÕ RỆT**
-- Dù mong muốn **DẤN THÂN RA NGOÀI** nhưng hay gặp cản trở
-
-**Đi xa:**
-- Đi xa **DỄ ỐM ĐAU**
-- **GẶP CẢN TRỞ**
-- Mệt mỏi tâm lý
-- Cần **CẨN TRỌNG** môi trường xung quanh tránh đau ốm`,
+Về phương diện đi xa, chủ mệnh dễ ốm đau, gặp cản trở và mệt mỏi tâm lý
+trong các chuyến công tác hay du lịch dài ngày. Cần đặc biệt cẩn trọng
+với môi trường xung quanh để tránh đau ốm khi ra khỏi vùng quen thuộc.`,
   },
 
   {
@@ -315,24 +263,18 @@ Phúc):
     sao: ['Bệnh'],
     cung: ['Tật Ách'],
     doUuTien: 80,
-    tomTat: `**Bệnh tại Tật Ách** — **SỨC KHỎE KÉM**, chủ về bệnh tật đau yếu suy nhược.
+    tomTat: `Khi **Bệnh** đóng đúng tại Tật Ách, đương số có sức khỏe kém —
+đây là vị trí chủ về bệnh tật, đau yếu, suy nhược một cách trực tiếp.
+Chủ mệnh thường buồn rầu, khờ khạo, hay nhầm lẫn; cơ thể hư nhược, tật
+bệnh, lao khổ và dễ nhiễm bệnh kéo dài, khó dứt điểm.
 
-**Đặc trưng:**
-- **SỨC KHỎE KÉM**
-- Chủ về **BỆNH TẬT, ĐAU YẾU, SUY NHƯỢC**
-- **BUỒN RẦU, KHỜ KHẠO, HAY NHẦM LẪN**
-- **HƯ NHƯỢC, TẬT BỆNH, LAO KHỔ**
-- Cơ thể **SUY NHƯỢC**, dễ nhiễm bệnh kéo dài
-- **KHÓ DỨT ĐIỂM**
+Đáng ngại nhất là khi gặp bộ Tang Môn - Bạch Hổ - Thiên Khốc - Thiên Hư
+cộng thêm Bệnh Phù, mà không có Tuần Triệt án ngữ. Lúc đó đương số dễ
+mắc bệnh nan y, cả đời phải lo toan bệnh tật.
 
-**Bộ Bệnh + Tang Hổ + Khốc Hư + Bệnh Phù (KHÔNG Tuần Triệt):**
-- Dễ mắc **BỆNH NAN Y**
-- **CẢ ĐỜI LO TOAN BỆNH TẬT**
-
-**Hóa giải:**
-- **TUẦN TRIỆT** án ngữ
-- Quan Phúc, Tứ Đức, Quang Quý
-- Hiện y khoa phát triển: giảm bớt cảnh "vô phương cứu chữa"`,
+Hóa giải dựa vào Tuần Triệt án ngữ, cùng các sao trợ lực như Thiên Quan,
+Thiên Phúc, Tứ Đức, Ân Quang, Thiên Quý. Thời nay y khoa phát triển nên
+cảnh "vô phương cứu chữa" cũng giảm bớt phần nào so với cổ thư.`,
   },
 
   {
@@ -341,21 +283,15 @@ Phúc):
     sao: ['Bệnh'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Bệnh tại Tài Bạch** — ý chí kiếm tiền **KHÔNG CAO**, bạc nhược.
+    tomTat: `Khi **Bệnh** cư Tài Bạch, ý chí kiếm tiền của đương số không cao,
+mang khí chất bạc nhược và thiếu đầu óc thực tế. Tư duy kiếm tiền thiên về
+thụ động, thiếu tham vọng; chủ mệnh dễ chán nản trong việc mưu sinh. Dù
+có nhạy bén với tiền bạc thì tâm lý cũng nhanh mệt mỏi và bỏ cuộc.
 
-**Đặc trưng:**
-- Ý chí kiếm tiền **KHÔNG CAO**
-- **BẠC NHƯỢC**
-- **THIẾU ĐẦU ÓC THỰC TẾ**
-- Tư duy kiếm tiền **THỤ ĐỘNG**
-- **THIẾU THAM VỌNG**
-- Dễ **CHÁN NẢN** trong việc mưu sinh
-- Dù có nhạy về tiền bạc cũng dễ **TÂM LÝ MỆT MỎI**
-
-**Bệnh + Hóa Kỵ + sát bại tinh:**
-- Do **BỆNH TẬT** mà **HAO TỐN TIỀN TÀI**
-- Khoản chi **BẤT NGỜ** liên quan **SỨC KHỎE**
-- "**TIỀN MẤT TẬT MANG**"`,
+Khi Bệnh tại Tài Bạch lại đi cùng Hóa Kỵ và sát bại tinh, đương số hao tổn
+tiền tài chủ yếu vì bệnh tật. Những khoản chi bất ngờ liên quan đến sức
+khỏe đẩy chủ mệnh vào cảnh "tiền mất tật mang" — vừa hết tiền vừa không
+khỏe lại được.`,
   },
 
   {
@@ -364,19 +300,16 @@ Phúc):
     sao: ['Bệnh'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Bệnh tại Tử Tức** — con **ÍT, HAY ĐAU ỐM**.
+    tomTat: `Khi **Bệnh** đóng tại Tử Tức, đường con cái của đương số ít người,
+con sinh ra dễ ốm đau bệnh tật hoặc khó nuôi.
 
-**Đặc trưng:**
-- Con **ÍT**
-- Con **HAY ĐAU ỐM, BỆNH TẬT**
-- Sinh ra dễ **ỐM ĐAU** hoặc **KHÓ NUÔI**
+Khi cung này hội thêm nhiều sát bại tinh thuộc nhóm hung sát bại hình kỵ,
+con cái dễ mắc dị tật, đồng thời tình cảm giữa chủ mệnh và con cái có sự
+xa cách rõ rệt.
 
-**Hội nhiều sát bại tinh** (hung sát bại hình kỵ):
-- Con cái dễ **MẮC DỊ TẬT**
-- Tình cảm với con cái có sự **XA CÁCH**
-
-**Lời khuyên:** Chú trọng **SỨC KHỎE SINH SẢN**, chế độ **DƯỠNG THAI**, học
-cách **LẮNG NGHE VÀ THẤU HIỂU CON** từ sớm.`,
+Lời khuyên cho đương số là chú trọng sức khỏe sinh sản ngay từ trước khi
+có con, giữ chế độ dưỡng thai cẩn thận, và học cách lắng nghe, thấu hiểu
+con từ sớm để tránh khoảng cách tâm lý khi con lớn lên.`,
   },
 
   {
@@ -386,11 +319,10 @@ cách **LẮNG NGHE VÀ THẤU HIỂU CON** từ sớm.`,
     cung: ['Tử Tức'],
     gioiTinh: 'Nữ',
     doUuTien: 68,
-    tomTat: `**Bệnh thủ Tử Tức - Nữ mệnh:**
-- Phụ nữ dễ mắc bệnh **KHÓ ĐẺ**
-- Khó khăn trong **SINH NỞ**
-- Sức khỏe sinh sản **YẾU**
-- Cần khám tiền sản kỹ, chế độ dưỡng thai chu đáo`,
+    tomTat: `Riêng với nữ mệnh có **Bệnh** thủ Tử Tức, đương số dễ mắc cảnh khó
+đẻ và gặp khó khăn trong sinh nở. Sức khỏe sinh sản của chủ mệnh thuộc
+dạng yếu, vì thế cần khám tiền sản kỹ lưỡng cùng chế độ dưỡng thai chu
+đáo trong suốt thai kỳ.`,
   },
 
   {
@@ -399,23 +331,19 @@ cách **LẮNG NGHE VÀ THẤU HIỂU CON** từ sớm.`,
     sao: ['Bệnh'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Bệnh tại Phu Thê** — vợ chồng **ÍT QUAN TÂM NHAU**, hôn phối lười và hay
-ốm.
+    tomTat: `Khi **Bệnh** cư Phu Thê, hai vợ chồng đương số ít quan tâm nhau
+trong sinh hoạt thường ngày. Người hôn phối hơi lười, ý chí không cao,
+sức khỏe dễ ốm đau tật bệnh; sức đề kháng kém nên cần được tẩm bổ và
+tăng cường thường xuyên.
 
-**Đặc trưng:**
-- Hai vợ chồng **ÍT QUAN TÂM NHAU**
-- Người hôn phối hơi **LƯỜI**
-- Ý chí **KHÔNG CAO**
-- Sức khỏe dễ **ỐM ĐAU, TẬT BỆNH**
-- Sức đề kháng kém, cần **TẨM BỔ, TĂNG CƯỜNG**
+Theo cách đối ứng Bệnh - Trường Sinh xung chiếu, đương số có sự nghiệp
+công danh dễ phát triển hơn người hôn phối — tức là chủ mệnh là trụ cột
+trong cặp đôi này.
 
-**Đối ứng cách Bệnh - Trường Sinh xung:**
-- Đương số có sự nghiệp công danh **DỄ PHÁT TRIỂN HƠN** người hôn phối
-
-**Cảnh báo:**
-- Cách của những người **HI SINH QUÁ NHIỀU** trong tình yêu
-- Đối phương cảm thấy **NGỘT NGẠT** và không còn muốn quan tâm
-- Cần **THẤU HIỂU TỪ NHỮNG ĐIỀU NHỎ NHẤT**`,
+Đây cũng là cách của những người hi sinh quá nhiều trong tình yêu: tình
+cảm dồn về một phía khiến đối phương cảm thấy ngột ngạt và không còn
+muốn quan tâm đáp lại. Đương số cần học cách thấu hiểu từ những điều
+nhỏ nhất thay vì cố gắng lo toan tất cả.`,
   },
 
   {
@@ -424,18 +352,14 @@ cách **LẮNG NGHE VÀ THẤU HIỂU CON** từ sớm.`,
     sao: ['Bệnh'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Bệnh tại Huynh Đệ** — anh chị em **HƠI LƯỜI, HAY BỆNH TẬT**.
+    tomTat: `Khi **Bệnh** đóng tại Huynh Đệ, anh chị em ruột của đương số hơi
+lười, hay bệnh tật ốm đau, thể trạng nhìn chung kém.
 
-**Đặc trưng:**
-- Anh chị em ruột hơi **LƯỜI**
-- Hay **BỆNH TẬT, ỐM ĐAU**
-- **THỂ TRẠNG KÉM**
-
-**Quan hệ:**
-- Có thể **SỐNG XA NHAU** nên tình cảm dần **PHAI NHẠT**
-- Mối quan hệ trong gia đình **THIẾU SỰ CHIA SẺ**
-- **ÍT GẶP GỠ**, dễ bề **LẠNH NHẠT** theo thời gian
-- Dù máu mủ ruột rà, không vun đắp thì tình cảm cũng **PHAI MỜ**`,
+Về quan hệ, anh chị em có thể sống xa nhau nên tình cảm dần phai nhạt;
+mối quan hệ trong gia đình thiếu sự chia sẻ, ít gặp gỡ nên dễ trở nên
+lạnh nhạt theo thời gian. Dù máu mủ ruột rà, không vun đắp thì tình cảm
+cũng phai mờ — đương số nên chủ động giữ liên lạc nếu muốn duy trì sự gắn
+bó với anh em.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -447,17 +371,13 @@ cách **LẮNG NGHE VÀ THẤU HIỂU CON** từ sớm.`,
     title: 'Bệnh vào đại vận - Tuổi dậy thì',
     sao: ['Bệnh'],
     doUuTien: 50,
-    tomTat: `**Bệnh nhập đại vận tuổi dậy thì + thêm hung tinh xung chiếu** — dễ gây
-**CHẬM LỚN, THIẾU DINH DƯỠNG**.
+    tomTat: `Khi **Bệnh** nhập đại vận đúng vào tuổi dậy thì, lại có hung tinh
+xung chiếu, đương số dễ rơi vào hiện tượng chậm lớn, thiếu dinh dưỡng,
+rối loạn nội tiết, dáng người thấp bé gầy yếu, sức đề kháng kém hẳn so
+với bạn cùng lứa.
 
-**Đặc trưng:**
-- Hiện tượng **CHẬM LỚN**
-- **THIẾU DINH DƯỠNG**
-- **RỐI LOẠN NỘI TIẾT**
-- **THẤP BÉ, GẦY YẾU**
-- **SỨC ĐỀ KHÁNG KÉM**
-
-**Lưu ý:** Vẫn cần lấy cung **TẬT ÁCH** làm trọng điểm phối hợp vận hạn.`,
+Khi luận đoán đại vận này, vẫn cần lấy cung Tật Ách làm trọng điểm và
+phối hợp thêm với vận hạn để xác định chính xác mức độ ảnh hưởng.`,
   },
 
   {
@@ -465,16 +385,17 @@ cách **LẮNG NGHE VÀ THẤU HIỂU CON** từ sớm.`,
     title: 'Bệnh vào đại vận - Trung niên 25-45 tuổi',
     sao: ['Bệnh'],
     doUuTien: 50,
-    tomTat: `**Bệnh nhập đại vận trung niên (25-45 tuổi)** — không thể hiện rõ mức độ
-nghiêm trọng.
+    tomTat: `Khi **Bệnh** nhập đại vận trung niên trong khoảng 25-45 tuổi, mức
+độ nghiêm trọng thường không thể hiện rõ — nhất là khi đại vận có thêm
+các sao cát lợi đi kèm.
 
-**Đặc trưng:**
-- Nhất là khi đại vận có các **SAO CÁT LỢI**
-- Sao Bệnh chỉ ra quá trình **HY SINH SỨC KHỎE** để **ĐÁNH ĐỔI SỰ NGHIỆP**
-- Lao động cường độ cao đổi lấy thành công
+Sao Bệnh ở giai đoạn này chủ yếu chỉ ra quá trình đương số hi sinh sức
+khỏe để đánh đổi sự nghiệp: lao động cường độ cao, làm việc quá sức để
+đổi lấy thành công vật chất.
 
-**Lời khuyên:** Cần biết **DỪNG ĐÚNG LÚC**, không "đốt cháy" cơ thể vô tội
-vạ.`,
+Lời khuyên cho chủ mệnh là biết dừng đúng lúc, không nên "đốt cháy" cơ
+thể vô tội vạ. Nền tảng sức khỏe mất đi giai đoạn này sẽ phải trả giá
+nặng vào hậu vận.`,
   },
 
   {
@@ -482,19 +403,13 @@ vạ.`,
     title: 'Bệnh vào đại vận - Hậu vận tuổi già',
     sao: ['Bệnh'],
     doUuTien: 50,
-    tomTat: `**Bệnh nhập đại vận tuổi già** — sức khỏe **SUY YẾU THÊM MỘT BẬC** so với
-thông thường.
+    tomTat: `Khi **Bệnh** nhập đại vận tuổi già, sức khỏe đương số suy yếu
+thêm một bậc so với thông thường — vốn đã đi xuống do tuổi tác hoặc bệnh
+nền, nay đại vận có Bệnh càng là tín hiệu suy yếu rõ rệt.
 
-**Đặc trưng:**
-- Sức khỏe đi xuống do tuổi già hoặc bệnh nền
-- Đại vận có Bệnh = **TÍN HIỆU SUY YẾU THÊM**
-
-**Cảnh báo "GIÓ LAY CÂY YẾU":**
-- Chỉ cần **MỘT TÁC ĐỘNG NHỎ** cũng dẫn đến **BIẾN CHỨNG LỚN**
-
-**Cần:**
-- Điều chỉnh chế độ **ĂN UỐNG, NGỦ NGHỈ**
-- **THĂM KHÁM KỊP THỜI**
-- Thận trọng với mọi triệu chứng nhỏ`,
+Cảnh báo "gió lay cây yếu" rất ứng với giai đoạn này: chỉ cần một tác
+động nhỏ cũng có thể dẫn đến biến chứng lớn. Chủ mệnh cần điều chỉnh
+nghiêm ngặt chế độ ăn uống và ngủ nghỉ, thăm khám kịp thời và thận trọng
+với mọi triệu chứng dù nhỏ.`,
   },
 ];

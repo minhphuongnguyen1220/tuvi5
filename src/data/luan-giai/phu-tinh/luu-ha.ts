@@ -25,28 +25,25 @@ export const luanGiai_LuuHa: DoanLuanGiai[] = [
     title: 'Lưu Hà - Đặc tính chung',
     sao: ['Lưu Hà'],
     doUuTien: 32,
-    tomTat: `**Lưu Hà** — phụ tinh **ÁC TINH**, an theo **CAN năm sinh**.
+    tomTat: `**Lưu Hà** là phụ tinh thuộc nhóm ác tinh, an theo Can năm sinh,
+ngũ hành Thủy. Tên gọi "Lưu Hà" gợi hình ảnh dòng nước trong mát nhẹ nhàng
+nhưng sâu thẳm, lặng lẽ — đẹp ở bề ngoài mà có hung hiểm rình rập bên trong.
 
-**Ngũ hành:** **Thủy**.
+Đặc tính nổi bật của sao này là thâm trầm, sát phạt, gắn với thủy tai, sông
+nước và hung họa. Đương số có Lưu Hà bên ngoài thường nhẹ nhàng, khéo léo,
+mềm mỏng trong lời ăn tiếng nói và cử chỉ; bên trong lại nhiều toan tính,
+mưu mô, thủ đoạn, chỉ đợi con mồi mất cảnh giác mà nhấn chìm.
 
-**Tên gọi:** "Lưu Hà" = **DÒNG NƯỚC TRONG MÁT, NHẸ NHÀNG**, nhưng
-**SÂU THẲM, LẶNG LẼ** — đẹp ngoài nhưng có **HUNG HIỂM RÌNH RẬP**.
+Lưu Hà có hai mặt rất rõ:
 
-**Đặc tính:**
-- **Thâm trầm, sát phạt, thủy tai, sông nước, hung họa**
-- Bên ngoài: **NHẸ NHÀNG, KHÉO LÉO, MỀM MỎNG** (lời ăn tiếng nói, cử chỉ)
-- Bên trong: **TOAN TÍNH, MƯU MÔ, THỦ ĐOẠN**
-- Chỉ đợi con mồi mất cảnh giác mà **NHẤN CHÌM**
+- Khi hội nhiều sát bại tinh, tính hung hiểm thể hiện rõ rệt; đặc biệt đi
+  cùng Kiếp Sát thì thành bộ đôi ác sát tinh có sức phá hoại lớn.
+- Khi hội phúc thiện tinh, Lưu Hà chuyển hóa thành tài năng diễn thuyết, MC,
+  câu từ trau chuốt êm tai.
 
-**Hai mặt:**
-- Hội nhiều **SÁT BẠI TINH**: tính hung hiểm rõ rệt
-- Đặc biệt với **KIẾP SÁT**: bộ đôi **ÁC SÁT TINH** phá hoại mạnh
-- Hội **PHÚC THIỆN TINH**: biến thành **NHÀ DIỄN THUYẾT, MC** tài năng,
-  câu từ trau chuốt êm tai
-
-**Quy luật nghịch lý:** Lưu Hà + Kiếp Sát luôn ở **NGHỊCH LÝ ÂM DƯƠNG**
-trên lá số — đánh phá những ai không xứng đáng được Lộc Tồn (áp dụng tuổi
-Bính/Đinh/Mậu/Kỷ/Nhâm/Quý).`,
+Quy luật nghịch lý âm dương: Lưu Hà cùng Kiếp Sát luôn ở vị trí nghịch lý âm
+dương trên lá số, chuyên đánh phá những ai không xứng đáng được động vào Lộc
+Tồn — áp dụng cho các tuổi Bính, Đinh, Mậu, Kỷ, Nhâm, Quý.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -59,14 +56,15 @@ Bính/Đinh/Mậu/Kỷ/Nhâm/Quý).`,
     sao: ['Lưu Hà'],
     ketHop: ['Thanh Long'],
     doUuTien: 60,
-    tomTat: `**Lưu Hà + Thanh Long đồng cung** — cách **"RỒNG XANH VÙNG VẪY TRÊN SÔNG
-LỚN"** (đã có ở thanh-long.ts).
+    tomTat: `Khi Lưu Hà đồng cung Thanh Long, đương số được hưởng cách "rồng
+xanh vùng vẫy trên sông lớn" (đã có ở thanh-long.ts).
 
-**Ý nghĩa:**
-- Gặp **VẬN HỘI TỐT, ĐẮC THỜI**
-- Lợi cho **THI CỬ, CẦU DANH, CẦU TÀI**
-- Lợi cho **LÀM ĂN, THI THỐ TÀI NĂNG**
-- Có tài **HÙNG BIỆN VÔ CÙNG LOGIC**`,
+Ý nghĩa của cách:
+
+- Đương số gặp vận hội tốt, đắc thời
+- Lợi cho thi cử, cầu danh, cầu tài
+- Lợi cho làm ăn và thi thố tài năng
+- Có tài hùng biện vô cùng logic`,
   },
 
   {
@@ -75,10 +73,10 @@ LỚN"** (đã có ở thanh-long.ts).
     sao: ['Lưu Hà'],
     chi: ['Hợi', 'Tý'],
     doUuTien: 55,
-    tomTat: `**Lưu Hà đóng tại Hợi/Tý** (cung Thủy hợp vị):
-- Tài hùng biện được phát huy, lợi thi cử cầu danh
-- Nhưng thiếu Thanh Long: dịp may ít hơn cách Lưu Hà + Thanh Long
-- Dễ mắc **NẠN SÔNG NƯỚC**`,
+    tomTat: `Khi Lưu Hà đóng tại Hợi hoặc Tý — cung Thủy hợp vị — đương số
+phát huy được tài hùng biện, lợi cho việc thi cử và cầu danh. Tuy nhiên do
+thiếu Thanh Long nên dịp may ít hơn so với cách Lưu Hà + Thanh Long, và
+đương số dễ mắc nạn sông nước.`,
   },
 
   {
@@ -87,17 +85,12 @@ LỚN"** (đã có ở thanh-long.ts).
     sao: ['Lưu Hà'],
     ketHop: ['Tấu Thư'],
     doUuTien: 55,
-    tomTat: `**Lưu Hà + Tấu Thư** (hoặc Thanh Long) — học giỏi, **TÀI HÙNG BIỆN VÔ CÙNG
-LOGIC**.
+    tomTat: `Khi Lưu Hà gặp Tấu Thư (hoặc Thanh Long), đương số học giỏi và
+có tài hùng biện vô cùng logic. Khả năng ăn nói lưu loát, biện luận sắc bén,
+câu từ chặt chẽ và mạch lạc.
 
-**Đặc trưng:**
-- Khả năng **ĂN NÓI LƯU LOÁT**
-- Biện luận sắc bén
-- Câu từ chặt chẽ logic
-
-**Hội thêm Thái Tuế:**
-- Năng khiếu hùng biện **NỔI BẬT** thêm
-- Thành nhà chính trị, luật sư, diễn giả`,
+Hội thêm Thái Tuế, năng khiếu hùng biện càng nổi bật — đương số có thể trở
+thành nhà chính trị, luật sư hoặc diễn giả.`,
   },
 
   {
@@ -106,21 +99,20 @@ LOGIC**.
     sao: ['Lưu Hà'],
     ketHop: ['Vũ Khúc', 'Thiên Cơ'],
     doUuTien: 60,
-    tomTat: `**Lưu Hà + Vũ Khúc + Thiên Cơ + Tấu Thư + Hóa Lộc + Đào Hồng** — **NGHỆ SỸ,
-CA SỸ, NHÀ DIỄN THUYẾT** vô cùng tài năng nổi tiếng.
+    tomTat: `Khi Lưu Hà hội đủ Vũ Khúc, Thiên Cơ, Tấu Thư, Hóa Lộc cùng Đào
+Hoa và Hồng Loan, đương số trở thành nghệ sỹ, ca sỹ hoặc nhà diễn thuyết
+tài năng nổi tiếng. Câu từ trau chuốt êm tai, sức thu hút lớn, kéo về rất
+đông khán giả; tài năng âm nhạc kết hợp với tài ngôn ngữ là điểm mạnh
+chính.
 
-**Đặc trưng:**
-- Câu từ trau chuốt êm tai
-- Thu hút **RẤT ĐÔNG KHÁN GIẢ**
-- Tài năng âm nhạc + ngôn ngữ kết hợp
+Phân tích vai trò từng sao trong bộ:
 
-**Phân tích bộ sao:**
-- **Vũ Khúc**: tài năng âm nhạc
-- **Thiên Cơ**: trí tuệ linh hoạt
-- **Tấu Thư**: văn chương hùng biện
-- **Hóa Lộc**: tài lộc danh vọng
-- **Đào Hồng**: sức hút duyên dáng
-- **Lưu Hà**: tài ăn nói trau chuốt`,
+- Vũ Khúc: tài năng âm nhạc
+- Thiên Cơ: trí tuệ linh hoạt
+- Tấu Thư: văn chương và hùng biện
+- Hóa Lộc: tài lộc, danh vọng
+- Đào Hoa, Hồng Loan: sức hút duyên dáng
+- Lưu Hà: tài ăn nói trau chuốt`,
   },
 
   {
@@ -129,20 +121,17 @@ CA SỸ, NHÀ DIỄN THUYẾT** vô cùng tài năng nổi tiếng.
     sao: ['Lưu Hà'],
     ketHop: ['Kiếp Sát'],
     doUuTien: 55,
-    tomTat: `**Lưu Hà + Kiếp Sát** — **BỘ ĐÔI ÁC SÁT TINH** có sức phá hoại **VÔ CÙNG
-MẠNH**.
+    tomTat: `Khi Lưu Hà gặp Kiếp Sát, hai sao tạo thành bộ đôi ác sát tinh có
+sức phá hoại vô cùng mạnh. Tính hung hiểm và nguy hại thể hiện rõ rệt nhất ở
+cách này; thâm trầm và sát phạt cộng hưởng nhau, là cặp đáng cảnh giác hàng
+đầu khi luận về Lưu Hà.
 
-**Đặc trưng:**
-- Tính **HUNG HIỂM, NGUY HẠI** thể hiện rõ rệt nhất
-- Thâm trầm + sát phạt cộng hưởng
-- Là cặp đôi đáng cảnh giác nhất với Lưu Hà
+Quy luật bố trí: Lưu Hà cùng Kiếp Sát luôn ở vị trí nghịch lý âm dương trên
+lá số, chuyên đánh phá những ai không xứng đáng động vào Lộc Tồn — áp dụng
+cho các tuổi Bính, Đinh, Mậu, Kỷ, Nhâm, Quý.
 
-**Quy luật:** Lưu Hà và Kiếp Sát luôn ở **NGHỊCH LÝ ÂM DƯƠNG** trên lá
-số — đánh phá những ai không xứng đáng động vào Lộc Tồn (tuổi Bính/Đinh/
-Mậu/Kỷ/Nhâm/Quý).
-
-**Hóa giải:** Cần phúc thiện tinh (Quan Phúc, Quang Quý, Tứ Đức) đi cùng
-mới giảm bớt được tác họa.`,
+Hóa giải: cần các phúc thiện tinh như Quan Phúc, Ân Quang, Thiên Quý cùng
+Tứ Đức đi kèm mới giảm bớt được tác họa.`,
   },
 
   {
@@ -151,16 +140,13 @@ mới giảm bớt được tác họa.`,
     sao: ['Lưu Hà'],
     ketHop: ['Kình Dương', 'Phá Quân'],
     doUuTien: 50,
-    tomTat: `**Lưu Hà + Kình + Phá + Hao + Tuyệt** — người có nhiều **QUỶ KẾ, ĐA MƯU,
-ĐỘC HIỂM**.
+    tomTat: `Khi Lưu Hà hội đủ Kình Dương, Phá Quân, Đại Hao, Tiểu Hao và
+Tuyệt, đương số là người nhiều quỷ kế, đa mưu, độc hiểm. Đương số có thể ra
+tay diệt thù mà không lộ tông tích, không bị lương tâm cắn rứt — đúng là bộ
+sao của kẻ lập mưu thâm độc.
 
-**Đặc trưng:**
-- Ra tay **DIỆT THÙ** mà không lộ tông tích
-- Không bị **LƯƠNG TÂM CẮN RỨT**
-- Bộ sao của kẻ lập mưu thâm độc
-
-**Cảnh báo:** Đây là cách cục **CỰC XẤU** với người không có sao Phúc.
-Cần tu thân tích đức để hóa giải.`,
+Đây là cách cục cực xấu với người không có sao Phúc tương trợ; cần tu thân
+tích đức để hóa giải bớt sát khí.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -173,27 +159,27 @@ Cần tu thân tích đức để hóa giải.`,
     sao: ['Lưu Hà'],
     cung: ['Mệnh'],
     doUuTien: 78,
-    tomTat: `**Lưu Hà thủ Mệnh** — người **ĂN NÓI LƯU LOÁT**, có tài **HÙNG BIỆN CAO**.
+    tomTat: `Đương số có Lưu Hà thủ Mệnh là người ăn nói lưu loát, có tài
+hùng biện cao. Đương số thích nói, giảng thuyết, diễn giảng hay và phong
+phú; bên trong thâm trầm, nhiều toan tính, có sự khôn ngoan ẩn giấu. Khi
+Lưu Hà đi với sao xấu, tính cách trở nên độc ác, thâm hiểm, có thủ đoạn,
+thậm chí gây chết chóc.
 
-**Tính cách:**
-- Thích **NÓI, GIẢNG THUYẾT, DIỄN GIẢNG** hay và phong phú
-- **THÂM TRẦM, NHIỀU TOAN TÍNH**, sự khôn ngoan bên trong
-- Nếu đi với sao xấu: **ĐỘC ÁC, THÂM TRẦM**, có **THỦ ĐOẠN**, gây chết chóc
+Về nghề nghiệp, đương số hợp:
 
-**Hợp nghề:**
-- **NGOẠI GIAO, GIAO TIẾP, BÁN HÀNG**, "dân sale, bán nước bọt"
-- Liên quan **SÔNG NƯỚC** (ngư dân, thủy thủ)
-- **HÓA HỌC, HẢI SẢN, DẦU HỎA**
-- Diễn thuyết, MC, ca sỹ, nghệ sỹ (đắc cách)
+- Ngoại giao, giao tiếp, bán hàng — kiểu "dân sale, bán nước bọt"
+- Các ngành liên quan sông nước (ngư dân, thủy thủ)
+- Hóa học, hải sản, dầu hỏa
+- Diễn thuyết, MC, ca sỹ, nghệ sỹ (khi đắc cách)
 
-**Phúc thọ - tai họa:**
-- Dễ có **TAI NẠN SÔNG NƯỚC**, trong đời dễ có lần **CHẾT ĐUỐI**
-- **MÁU HUYẾT**, bệnh **MÁU LOÃNG**
-- Tai nạn đường sá
+Về phúc thọ và tai họa, đương số dễ:
 
-**Cát tinh hội (Tấu Thư + Thanh Long + Thái Tuế):**
-- Tài hùng biện **VÔ CÙNG LOGIC**
-- Nổi bật trong học tập, công việc`,
+- Có tai nạn sông nước, trong đời dễ có lần chết đuối
+- Mắc các chứng máu huyết, máu loãng
+- Gặp tai nạn đường sá
+
+Khi cát tinh hội (Tấu Thư, Thanh Long, Thái Tuế), tài hùng biện của đương
+số vô cùng logic, nổi bật trong học tập và công việc.`,
   },
 
   {
@@ -203,9 +189,8 @@ Cần tu thân tích đức để hóa giải.`,
     cung: ['Mệnh'],
     gioiTinh: 'Nữ',
     doUuTien: 73,
-    tomTat: `**Lưu Hà thủ Mệnh — nữ mệnh:**
-- Dễ bị **BĂNG HUYẾT** lúc sinh đẻ
-- Bệnh **MÁU HUYẾT, MÁU LOÃNG** càng nghiêm trọng`,
+    tomTat: `Nữ mệnh có Lưu Hà thủ Mệnh dễ bị băng huyết lúc sinh đẻ; các
+chứng bệnh máu huyết, máu loãng cũng nghiêm trọng hơn so với nam mệnh.`,
   },
 
   {
@@ -215,9 +200,9 @@ Cần tu thân tích đức để hóa giải.`,
     cung: ['Mệnh'],
     chi: ['Hợi', 'Tý'],
     doUuTien: 73,
-    tomTat: `**Lưu Hà thủ Mệnh đóng cung Thủy (Hợi/Tý):**
-- Hợp vị, tài năng phát huy đúng mức
-- Nhưng **CẨN THẬN HUNG HỌA SÔNG NƯỚC** càng phải đề phòng`,
+    tomTat: `Khi Lưu Hà thủ Mệnh đóng tại Hợi hoặc Tý (cung Thủy hợp vị),
+đương số phát huy được đúng mức tài năng của sao. Tuy nhiên cũng vì đắc vị
+mà hung họa sông nước càng phải đề phòng kỹ.`,
   },
 
   {
@@ -226,24 +211,22 @@ Cần tu thân tích đức để hóa giải.`,
     sao: ['Lưu Hà'],
     cung: ['Phụ Mẫu'],
     doUuTien: 75,
-    tomTat: `**Lưu Hà tại Phụ Mẫu** — cha mẹ có **TÀI ĂN NÓI, HÙNG BIỆN TỐT**.
+    tomTat: `Lưu Hà tại Phụ Mẫu cho thấy cha mẹ đương số có tài ăn nói và
+hùng biện tốt.
 
-**Cát tinh hội:**
-- Cha mẹ làm nghề liên quan **ĂN NÓI, NGOẠI GIAO, MC DẪN CHƯƠNG TRÌNH**
-- Thường dùng khả năng đó cho **CON CÁI LỜI KHUYÊN BỔ ÍCH**
+Khi cát tinh hội, cha mẹ làm các nghề liên quan ăn nói, ngoại giao, MC dẫn
+chương trình, và thường dùng khả năng đó cho con cái những lời khuyên bổ
+ích. Ngoài ra cha mẹ còn có thể làm các nghề liên quan sông nước, cà phê,
+giải khát.
 
-**Hợp nghề khác:**
-- Cha mẹ làm liên quan **SÔNG NƯỚC, CÀ PHÊ, GIẢI KHÁT**
+Đặc trưng của cha mẹ là thông minh, nhiều mưu tính, mưu mẹo; con cái khó
+qua mắt cha mẹ. Cha mẹ luôn toan tính, lo toan cho tương lai con cái.
 
-**Đặc trưng:**
-- Cha mẹ **THÔNG MINH, NHIỀU MƯU TÍNH, MƯU MẸO**
-- Con cái **KHÓ QUA MẮT** cha mẹ
-- Cha mẹ luôn **TOAN TÍNH, LO TOAN** cho tương lai con cái
+Một số kết hợp đáng chú ý:
 
-**Lưu Hà + Hóa Khoa:** Cha mẹ để lại "**DANH THƠM TIẾNG TỐT**" cho con.
-
-**Lưu Hà + Không Kiếp:** Cha mẹ vướng **SAI LẦM, TỘI LỖI**: con cái
-mang tiếng vạ lây.`,
+- Lưu Hà + Hóa Khoa: cha mẹ để lại "danh thơm tiếng tốt" cho con
+- Lưu Hà + Địa Không, Địa Kiếp: cha mẹ vướng sai lầm, tội lỗi, con cái mang
+  tiếng vạ lây`,
   },
 
   {
@@ -252,22 +235,17 @@ mang tiếng vạ lây.`,
     sao: ['Lưu Hà'],
     cung: ['Phúc Đức'],
     doUuTien: 75,
-    tomTat: `**Lưu Hà tại Phúc Đức** — càng **XA QUÊ HƯƠNG** càng **KHÁ GIẢ**, làm ăn càng
-**PHẤT LÊN**.
+    tomTat: `Lưu Hà tại Phúc Đức cho thấy đương số càng xa quê hương càng khá
+giả, làm ăn càng phất lên. Mồ mả tổ tiên thường đặt tại nơi gần ao hồ, sông
+suối, đất ẩm thấp; trong dòng họ có nhiều người có tài ăn nói lưu loát.
 
-**Đặc trưng:**
-- Mồ mả tổ tiên thường đặt tại nơi gần **AO HỒ, SÔNG SUỐI**, ẩm thấp
-- Trong dòng họ nhiều người có **TÀI ĂN NÓI** lưu loát
+Quan hệ họ hàng đôi khi "bằng mặt không bằng lòng" — miệng nói cười nhưng
+trong lòng toan tính.
 
-**Mối quan hệ họ hàng:**
-- Đôi khi **BẰNG MẶT KHÔNG BẰNG LÒNG**
-- Miệng nói cười nhưng trong lòng **TOAN TÍNH**
+Cảnh báo: trong họ hàng dễ có người chết đuối hoặc gặp thủy tai.
 
-**Cảnh báo:**
-- Trong họ hàng dễ có người **CHẾT ĐUỐI, GẶP THỦY TAI**
-
-**Hội Hóa Khoa, Hóa Quyền, Khôi Việt:** dòng họ nhiều người **THÀNH DANH**,
-truyền phúc khí cho con cháu.`,
+Khi hội Hóa Khoa, Hóa Quyền, Thiên Khôi, Thiên Việt, dòng họ có nhiều người
+thành danh, truyền phúc khí cho con cháu.`,
   },
 
   {
@@ -276,23 +254,18 @@ truyền phúc khí cho con cháu.`,
     sao: ['Lưu Hà'],
     cung: ['Điền Trạch'],
     doUuTien: 75,
-    tomTat: `**Lưu Hà tại Điền Trạch** — nhà thường gần **SÔNG SUỐI, AO HỒ**.
+    tomTat: `Lưu Hà tại Điền Trạch khiến nhà của đương số thường gần sông
+suối, ao hồ. Đất hay bị úng thủy, nhiều nước, ngập lụt; nặng nhất có thể
+đến mức không ở được. Quanh nhà gần sông suối nên cẩn thận chuyện chết
+đuối.
 
-**Đặc trưng:**
-- Đất hay bị **ÚNG THỦY, NHIỀU NƯỚC, NGẬP LỤT**
-- Nặng nhất có thể đến mức **KHÔNG Ở ĐƯỢC**
-- Quanh nhà gần sông suối: cẩn thận **CHẾT ĐUỐI**
+Khi Lưu Hà đi cùng Kiếp Sát và Hóa Kỵ, cảnh báo càng đặc biệt nghiêm trọng:
+dễ có người chết đuối, gặp lũ lụt, đất ngập úng và nhà cửa không yên.
 
-**Đặc biệt cảnh báo + Kiếp Sát + Hóa Kỵ:**
-- Dễ có **NGƯỜI CHẾT ĐUỐI**
-- Gặp **LŨ LỤT**, đất ngập úng
-- Nhà cửa không yên
+Hàng xóm hay nói chuyện, vui vẻ, song dễ đàm tiếu và hãm hại sau lưng nếu
+phật lòng.
 
-**Hàng xóm:**
-- Hay nói chuyện, vui vẻ
-- Nhưng dễ **ĐÀM TIẾU, HÃM HẠI SAU LƯNG** nếu phật lòng
-
-Cần đề phòng **THỦY TAI, LŨ CUỐN** ở vùng nguy cơ cao.`,
+Đương số cần đề phòng thủy tai và lũ cuốn ở những vùng có nguy cơ cao.`,
   },
 
   {
@@ -301,19 +274,18 @@ Cần đề phòng **THỦY TAI, LŨ CUỐN** ở vùng nguy cơ cao.`,
     sao: ['Lưu Hà'],
     cung: ['Quan Lộc'],
     doUuTien: 76,
-    tomTat: `**Lưu Hà tại Quan Lộc** — hợp các nghề **GIAO TIẾP, DIỄN THUYẾT**.
+    tomTat: `Lưu Hà tại Quan Lộc khiến đương số hợp các nghề giao tiếp và
+diễn thuyết.
 
-**Cát tinh hội (Thanh Long + Văn Xương + Văn Khúc):**
-- Có **DANH PHẬN**
-- Làm các ngành liên quan **SÔNG NƯỚC, HÓA HỌC, HẢI SẢN, DẦU HỎA**
+Khi cát tinh hội (Thanh Long, Văn Xương, Văn Khúc), đương số có danh phận,
+làm các ngành liên quan sông nước, hóa học, hải sản, dầu hỏa.
 
-**Phục Binh + Thiên Đồng + Cự Môn + Thiên Trù:**
-- Mở **CỬA HÀNG GIẢI KHÁT, TRUNG TÂM TIỆC CƯỚI, ĂN UỐNG**
-- **GIẢNG ĐƯỜNG THUYẾT TRÌNH**
+Khi gặp Phục Binh, Thiên Đồng, Cự Môn cùng Thiên Trù, đương số mở cửa hàng
+giải khát, trung tâm tiệc cưới, ăn uống hoặc làm giảng đường thuyết trình.
 
-**Sát tinh hội (Kiếp Sát + Không Kiếp + Kình Đà + Thái Tuế):**
-- Công danh **THĂNG GIÁNG THẤT THƯỜNG**
-- Đôi khi bị **TAI ƯƠNG HỌA HẠI**`,
+Khi sát tinh hội (Kiếp Sát, Địa Không, Địa Kiếp, Kình Dương, Đà La, Thái
+Tuế), công danh đương số thăng giáng thất thường, đôi khi bị tai ương họa
+hại.`,
   },
 
   {
@@ -322,18 +294,15 @@ Cần đề phòng **THỦY TAI, LŨ CUỐN** ở vùng nguy cơ cao.`,
     sao: ['Lưu Hà'],
     cung: ['Nô Bộc'],
     doUuTien: 75,
-    tomTat: `**Lưu Hà tại Nô Bộc** — bạn bè **HAY NÓI** và có **BIỆT TÀI HÙNG BIỆN**.
+    tomTat: `Lưu Hà tại Nô Bộc cho thấy bạn bè đương số hay nói và có biệt
+tài hùng biện; khả năng nói có thể làm đối phương kinh ngạc.
 
-**Đặc trưng:**
-- Khả năng nói có thể làm đối phương **KINH NGẠC**
+Khi không có cát tinh hỗ trợ, đương số dễ bị bạn bè lừa và hãm hại; bạn bè
+khéo léo bên ngoài nhưng nhiều toan tính, mưu mô, thâm hiểm. Đặc biệt khi
+hội Hóa Kỵ, Đà La, Địa Kiếp, bạn bè có thể phản bội và đâm sau lưng.
 
-**Không có cát tinh:**
-- Dễ bị bạn bè **LỪA, HÃM HẠI**
-- Bạn bè khéo léo bên ngoài nhưng nhiều **TOAN TÍNH, MƯU MÔ, THÂM HIỂM**
-- Hội Hóa Kỵ + Đà La + Địa Kiếp: phản bội đâm sau lưng
-
-**Lưu ý:** Trong môi trường ngoại giao, thương mại, chính trị: cần
-**NGƯỜI BẢO VỆ** nếu đảm nhiệm vị trí quan trọng.`,
+Trong môi trường ngoại giao, thương mại, chính trị, nếu đương số đảm nhiệm
+vị trí quan trọng thì cần có người bảo vệ.`,
   },
 
   {
@@ -342,19 +311,18 @@ Cần đề phòng **THỦY TAI, LŨ CUỐN** ở vùng nguy cơ cao.`,
     sao: ['Lưu Hà'],
     cung: ['Thiên Di'],
     doUuTien: 75,
-    tomTat: `**Lưu Hà tại Thiên Di** — ra ngoài **ĂN NÓI LƯU LOÁT**, được người khác giới
-**ĐỂ Ý**.
+    tomTat: `Lưu Hà tại Thiên Di khiến đương số ra ngoài ăn nói lưu loát,
+được người khác giới để ý, đôi khi được yêu quý nhờ tài ăn nói.
 
-**Đặc trưng:**
-- Đôi khi ra ngoài được **YÊU QUÝ** vì tài ăn nói
+Cảnh báo:
 
-**Cảnh báo:**
-- Phải **CẨN THẬN VÙNG SÔNG NƯỚC, NẠN THỦY TAI**
-- Đôi khi hay phải **ĐI TỚI VÙNG SÔNG NƯỚC**
-- Ra ngoài gặp nhiều **KẺ HAI MẶT**, ngoài ngọt nhẹ trong toan tính
-- Dễ **LỪA GẠT** nếu không cẩn thận
+- Phải cẩn thận vùng sông nước và nạn thủy tai; đôi khi đương số hay phải
+  đi tới những vùng sông nước
+- Ra ngoài gặp nhiều kẻ hai mặt, ngoài ngọt nhẹ nhưng trong toan tính
+- Dễ bị lừa gạt nếu không cẩn thận
 
-**Kết hợp Cự Môn + Hóa Kỵ + Sát Hình:** Cần đề phòng **NẠN THỦY TAI** rõ rệt.`,
+Khi đi cùng Cự Môn, Hóa Kỵ, sát tinh và Thiên Hình, đương số cần đề phòng
+nạn thủy tai một cách rõ rệt.`,
   },
 
   {
@@ -363,25 +331,21 @@ Cần đề phòng **THỦY TAI, LŨ CUỐN** ở vùng nguy cơ cao.`,
     sao: ['Lưu Hà'],
     cung: ['Tật Ách'],
     doUuTien: 76,
-    tomTat: `**Lưu Hà tại Tật Ách** — bệnh tật về **MÁU HUYẾT**.
+    tomTat: `Lưu Hà tại Tật Ách khiến đương số mắc các bệnh về máu huyết: dễ
+bị máu loãng, băng huyết, có khi bị chết đuối hoặc phải mổ xẻ. Việc nuôi
+súc vật cũng không có lợi.
 
-**Đặc trưng:**
-- Dễ bị **MÁU LOÃNG, BĂNG HUYẾT**
-- Hoặc bị **CHẾT ĐUỐI, MỔ XẺ**
-- **NUÔI SÚC VẬT KHÔNG CÓ LỢI**
+Riêng nữ giới thường gặp bất lợi khi sinh đẻ, có bệnh về máu huyết khi lâm
+bồn.
 
-**Đặc biệt nữ giới:**
-- Thường gặp **BẤT LỢI KHI SINH ĐẺ**
-- Có bệnh về **MÁU HUYẾT KHI LÂM BỒN**
+Đương số cần đặc biệt chú ý chuyện sông nước, đi lại tàu thuyền, tránh tai
+nạn và thương tật.
 
-**Phòng tránh:**
-- Đặc biệt chú ý **SÔNG NƯỚC, ĐI LẠI TÀU THUYỀN**
-- Tránh **TAI NẠN, THƯƠNG TẬT**
+Một số kết hợp cảnh báo:
 
-**Cự Môn:** Đề phòng **HỌA TỪ MIỆNG** mà ra.
-
-**Linh Tinh + Đà La:** Tránh **RƯỢU BIA, CHẤT KÍCH THÍCH** vì dễ rơi
-vào trạng thái không tỉnh táo gây tai họa.`,
+- Lưu Hà + Cự Môn: đề phòng họa từ miệng mà ra
+- Lưu Hà + Linh Tinh, Đà La: tránh rượu bia và chất kích thích vì dễ rơi
+  vào trạng thái không tỉnh táo, gây tai họa`,
   },
 
   {
@@ -390,23 +354,20 @@ vào trạng thái không tỉnh táo gây tai họa.`,
     sao: ['Lưu Hà'],
     cung: ['Tài Bạch'],
     doUuTien: 75,
-    tomTat: `**Lưu Hà tại Tài Bạch** — **DỄ KIẾM TIỀN** nhưng **THẤT THƯỜNG**, ra vào nhanh.
+    tomTat: `Lưu Hà tại Tài Bạch cho thấy đương số dễ kiếm tiền nhưng tiền
+bạc thất thường, ra vào nhanh.
 
-**Cách kiếm tiền:**
-- Dùng khả năng **THUYẾT PHÁP, TRÌNH BÀY, DIỄN THUYẾT**
-- Nhiều **MƯU TOAN, TÍNH TOÁN**
+Cách kiếm tiền đặc trưng là dùng khả năng thuyết phục, trình bày, diễn
+thuyết, kèm nhiều mưu toan và tính toán.
 
-**Mặt tối:**
-- Đôi khi sẵn sàng **PHẢN BỘI, LỪA ĐẢO** để kiếm tiền
-- Hoặc bị người khác **LỪA BẰNG MIẾNG MỒI NGON**
+Mặt tối: đương số đôi khi sẵn sàng phản bội, lừa đảo để kiếm tiền; ngược
+lại cũng có lúc bị người khác lừa bằng "miếng mồi ngon".
 
-**Cát tinh hội (Tả Hữu, Khôi Việt):**
-- Tiền ra vào có **KIỂM SOÁT**
-- Không rơi vào thiếu thốn
+Khi cát tinh hội (Tả Phù, Hữu Bật, Thiên Khôi, Thiên Việt), tiền ra vào có
+kiểm soát, đương số không rơi vào cảnh thiếu thốn.
 
-**Sát tinh hội (Địa Kiếp, Phục Binh, Song Hao, Hóa Kỵ):**
-- Kiếm tiền **BẤT CHẤP**
-- Sẵn sàng phản bội, lừa đảo`,
+Khi sát tinh hội (Địa Kiếp, Phục Binh, Đại Hao, Tiểu Hao, Hóa Kỵ), đương số
+kiếm tiền bất chấp, sẵn sàng phản bội và lừa đảo.`,
   },
 
   {
@@ -415,15 +376,13 @@ vào trạng thái không tỉnh táo gây tai họa.`,
     sao: ['Lưu Hà'],
     cung: ['Tử Tức'],
     doUuTien: 75,
-    tomTat: `**Lưu Hà tại Tử Tức** — con cái có **TÀI ĂN NÓI**.
+    tomTat: `Lưu Hà tại Tử Tức cho thấy con cái đương số có tài ăn nói. Tuy
+nhiên cũng có những cảnh báo cần lưu ý:
 
-**Cảnh báo:**
-- Con cái dễ mắc **BỆNH MÁU HUYẾT**
-- Cẩn thận khi con vui chơi **SÔNG NƯỚC**: dễ **ĐUỐI NƯỚC**
+- Con cái dễ mắc bệnh máu huyết
+- Cẩn thận khi con vui chơi vùng sông nước, dễ đuối nước
 
-**Tính cách con cái:**
-- **THÂM TRẦM, NHIỀU MƯU MẸO**
-- Tính cách **KHÓ ĐOÁN**`,
+Tính cách con cái thâm trầm, nhiều mưu mẹo và khó đoán.`,
   },
 
   {
@@ -433,9 +392,8 @@ vào trạng thái không tỉnh táo gây tai họa.`,
     cung: ['Tử Tức'],
     gioiTinh: 'Nữ',
     doUuTien: 70,
-    tomTat: `**Lưu Hà tại Tử Tức — nữ mệnh:**
-- Dễ bị **BĂNG HUYẾT** lúc sinh đẻ
-- Đường sinh nở gian nan, gặp **biến chứng máu huyết**`,
+    tomTat: `Nữ mệnh có Lưu Hà tại Tử Tức dễ bị băng huyết lúc sinh đẻ. Đường
+sinh nở gian nan, hay gặp biến chứng máu huyết.`,
   },
 
   {
@@ -444,25 +402,20 @@ vào trạng thái không tỉnh táo gây tai họa.`,
     sao: ['Lưu Hà'],
     cung: ['Phu Thê'],
     doUuTien: 75,
-    tomTat: `**Lưu Hà tại Phu Thê** — vợ chồng có **TÀI ĂN NÓI**.
+    tomTat: `Lưu Hà tại Phu Thê cho thấy vợ chồng đương số đều có tài ăn nói.
 
-**Khuyến cáo:**
-- Nên lấy người **KHÁC LÀNG KHÁC XÓM**
-- Tránh xung đột bất hòa giữa hai bên gia đình
+Khuyến cáo: đương số nên lấy người khác làng khác xóm để tránh xung đột bất
+hòa giữa hai bên gia đình.
 
-**Tình cảm vợ chồng:**
-- Không thật lòng hoàn toàn với nhau
-- Hay có **ẨN Ý CHE GIẤU**
-- Bên ngoài hay nói để **VUI LÒNG ĐỐI PHƯƠNG**
+Tình cảm vợ chồng không thật lòng hoàn toàn với nhau, hay có ẩn ý che giấu,
+bên ngoài hay nói để vui lòng đối phương.
 
-**Cảnh báo:**
-- Người hôn phối dễ mắc **BỆNH MÁU HUYẾT**
-- Gặp **TAI HỌA SÔNG NƯỚC**
+Cảnh báo về sức khỏe và tai họa: người hôn phối dễ mắc bệnh máu huyết và
+gặp tai họa sông nước.
 
-**Hợp nghề hôn phối:** Người hôn phối có **TÀI THUYẾT TRÌNH**: làm
-**GIAO TIẾP, DẠY HỌC** phát huy khả năng nói.
-
-**Hóa Khoa + Văn Xương:** Đương số được nhờ **DANH TIẾNG** của bạn đời.`,
+Về nghề nghiệp, người hôn phối có tài thuyết trình nên hợp với các công
+việc giao tiếp, dạy học để phát huy khả năng nói. Khi có thêm Hóa Khoa,
+Văn Xương, đương số được nhờ danh tiếng của bạn đời.`,
   },
 
   {
@@ -471,14 +424,12 @@ vào trạng thái không tỉnh táo gây tai họa.`,
     sao: ['Lưu Hà'],
     cung: ['Huynh Đệ'],
     doUuTien: 75,
-    tomTat: `**Lưu Hà tại Huynh Đệ** — anh chị em **TÀI ĂN NÓI**, gắn bó với nghề **DẠY
-HỌC, BUÔN BÁN**.
+    tomTat: `Lưu Hà tại Huynh Đệ cho thấy anh chị em đương số có tài ăn nói,
+gắn bó với các nghề dạy học và buôn bán. Tuy nhiên anh chị em thường "bằng
+mặt không bằng lòng", dễ có mưu toan bên trong.
 
-**Đặc trưng:**
-- Anh chị em **BẰNG MẶT KHÔNG BẰNG LÒNG**
-- Dễ có **MƯU TOAN BÊN TRONG**
-
-**Cát tinh hội:** Có thể giải bớt và trở thành **NGƯỜI TÀI NĂNG, GIỎI GIANG**.`,
+Khi cát tinh hội, có thể giải bớt khía cạnh xấu và anh chị em trở thành
+những người tài năng, giỏi giang.`,
   },
 
   // ═══════════════════════════════════════════════════════════════════════
@@ -491,16 +442,16 @@ HỌC, BUÔN BÁN**.
     sao: ['Lưu Hà'],
     ketHop: ['Cự Môn', 'Hóa Kỵ'],
     doUuTien: 55,
-    tomTat: `**Lưu Hà + Cự Môn + Hóa Kỵ vào hạn** — cẩn thận **CHẾT ĐUỐI, MÁU HUYẾT**.
+    tomTat: `Khi hạn có Lưu Hà đi cùng Cự Môn và Hóa Kỵ, đương số cần cẩn
+thận chuyện chết đuối và máu huyết. Tai nạn không hẳn là ngẫu nhiên — có
+thể có kẻ chủ mưu hoặc tiểu nhân hãm hại; bản thân Cự Môn cùng Hóa Kỵ vốn
+chủ thị phi, khi đi với Lưu Hà sông nước thì hóa thành tai họa thủy.
 
-**Cảnh báo:**
-- Tai nạn không hẳn ngẫu nhiên — có thể **CÓ KẺ CHỦ MƯU, TIỂU NHÂN HÃM HẠI**
-- Cự Môn + Hóa Kỵ vốn chủ thị phi: khi đi với Lưu Hà sông nước: tai họa thủy
+Phòng tránh:
 
-**Phòng tránh:**
-- Đề phòng **BÃO LŨ NGUY HIỂM** (đặc biệt khi có thêm Địa Kiếp)
-- Tránh xa **VÙNG SÔNG NƯỚC** trong giai đoạn hạn
-- Cẩn thận **PHÁT NGÔN** (Cự Môn): tránh khẩu thiệt sinh họa`,
+- Đề phòng bão lũ nguy hiểm, đặc biệt khi có thêm Địa Kiếp
+- Tránh xa vùng sông nước trong giai đoạn hạn
+- Cẩn thận phát ngôn (ảnh hưởng Cự Môn) để tránh khẩu thiệt sinh họa`,
   },
 
   {
@@ -509,19 +460,17 @@ HỌC, BUÔN BÁN**.
     sao: ['Lưu Hà'],
     ketHop: ['Kiếp Sát', 'Kình Dương'],
     doUuTien: 55,
-    tomTat: `**Lưu Hà + Kiếp Sát + Kình Dương vào hạn** — chết bởi **ĐAO THƯƠNG, ĐẠO
-TẶC, CHẾT ĐUỐI**.
+    tomTat: `Khi hạn có Lưu Hà gặp Kiếp Sát cùng Kình Dương, đương số có thể
+chết bởi đao thương, đạo tặc hoặc chết đuối. Lưu Hà cùng Kiếp Sát đã là bộ
+ác sát, thêm Kình Dương dao kéo nên tai họa hết sức khủng khiếp; có thể bị
+giết, cướp hoặc chết đuối.
 
-**Cảnh báo:**
-- Lưu Hà + Kiếp Sát = bộ ác sát + Kình Dương dao kéo
-- Tai họa **KHỦNG KHIẾP**
-- Có thể bị **GIẾT, CƯỚP, CHẾT ĐUỐI**
+Phòng tránh:
 
-**Phòng tránh:**
-- Tránh đi đêm, vùng vắng vẻ
-- Không tham gia **TRANH CHẤP, ĐÁNH NHAU**
-- Tránh **VÙNG SÔNG NƯỚC** trong hạn
-- Tu thân tích đức để hóa giải`,
+- Tránh đi đêm và những vùng vắng vẻ
+- Không tham gia tranh chấp, đánh nhau
+- Tránh vùng sông nước trong hạn
+- Tu thân tích đức để hóa giải bớt`,
   },
 
   {
@@ -530,17 +479,15 @@ TẶC, CHẾT ĐUỐI**.
     sao: ['Lưu Hà'],
     ketHop: ['Thiên Mã', 'Tang Môn'],
     doUuTien: 50,
-    tomTat: `**Lưu Hà + Thiên Mã** hoặc **Lưu Hà + Tang Môn vào hạn** — **SÚC VẬT NUÔI
-DỄ BỊ CHẾT DỊCH**.
+    tomTat: `Khi hạn có Lưu Hà đi cùng Thiên Mã hoặc Tang Môn, súc vật nuôi
+trong nhà đương số dễ bị chết dịch. Vật nuôi (gà, lợn, trâu, bò, chó, mèo)
+dễ mắc bệnh, chết hàng loạt và gây hao tổn.
 
-**Đặc trưng:**
-- Vật nuôi (gà, lợn, trâu, bò, chó mèo) **DỄ MẮC BỆNH**
-- **CHẾT HÀNG LOẠT**, hao tổn
+Phòng tránh:
 
-**Phòng tránh:**
-- Hạn này **KHÔNG NÊN NUÔI THÚ CƯNG** mới
-- Đang nuôi thì cần **ĐỀ PHÒNG** khi cho thú cưng ra ngoài
-- Tăng cường tiêm phòng, vệ sinh chuồng trại
+- Hạn này không nên nuôi thú cưng mới
+- Đang nuôi thì cần đề phòng khi cho thú cưng ra ngoài
+- Tăng cường tiêm phòng và vệ sinh chuồng trại
 - Không đầu tư mạo hiểm vào chăn nuôi quy mô lớn`,
   },
 ];
