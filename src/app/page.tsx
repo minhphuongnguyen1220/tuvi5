@@ -5,9 +5,12 @@ import FormLapLaSo from '@/components/FormLapLaSo';
 import LaSo from '@/components/LaSo';
 import LuanGiaiCung from '@/components/LuanGiaiCung';
 import MucLucCung from '@/components/MucLucCung';
+import TongQuanLaSo from '@/components/TongQuanLaSo';
 import { lapLaSo } from '@/core/tuvi/lap-la-so';
 import type { LaSo as LaSoType, ThongTinSinh } from '@/core/tuvi/types';
 import { idCuaCung } from '@/lib/slug-cung';
+
+const ID_TONG_QUAN = 'tong-quan';
 
 export default function Home() {
   const [laSo, setLaSo] = useState<LaSoType | null>(null);
@@ -52,8 +55,9 @@ export default function Home() {
               <p className="text-sm text-stone-600">
                 Phần luận giải tóm tắt miễn phí. Đọc chi tiết → đăng ký tài khoản (sẽ có ở G4).
               </p>
-              <MucLucCung cacCung={laSo.cacCung} />
+              <MucLucCung cacCung={laSo.cacCung} idTongQuan={ID_TONG_QUAN} />
               <div className="grid gap-4">
+                <TongQuanLaSo laSo={laSo} id={ID_TONG_QUAN} />
                 {laSo.cacCung.map(cung => (
                   <LuanGiaiCung
                     key={cung.chi}
